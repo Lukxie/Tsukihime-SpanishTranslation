@@ -1,21 +1,20 @@
-# Tsukihime-Translation
-Open source translation of Tsukihime -A Piece of Blue Glass Moon- prepared by [Tsukihimates](https://twitter.com/tsukihimates).
+# Tsukihime-SpanishTranslation
+Traducción open source de Tsukihime -A Piece of Blue Glass Moon- basada en la versión traducida al inglés by [Tsukihimates](https://twitter.com/tsukihimates).
 
-## You can download the full translation patch on [our website](https://tsukihimates.com/patch/)
 
-## Resources
+## Recursos
 ### Documentation
 * Documentation is available [here](https://sites.google.com/view/tsukihimates/home).
 
-### Tools
-* [deepLuna](https://github.com/Hakanaou/deepLuna) (extraction/injection tool. No relation to DeepL)
-* [Mangetsu 満月](https://github.com/rschlaikjer/mangetsu) (Archive Manager)
-* [PS HuneX Tools](https://github.com/Hintay/PS-HuneX_Tools/) (Archive Manager)
-* [QuickBMS](http://aluigi.altervista.org/quickbms.htm) (Archive Manager)
-* [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) (Archive Manager)
-
+### Herramientas
+* [deepLuna](https://github.com/Hakanaou/deepLuna) (extraction/injection tool. Sin relación a DeepL)
+* [Mangetsu 満月](https://github.com/rschlaikjer/mangetsu) (Gestor de archivos)
+* [PS HuneX Tools](https://github.com/Hintay/PS-HuneX_Tools/) (Gestor de archivos)
+* [QuickBMS](http://aluigi.altervista.org/quickbms.htm) (Gestor de archivos)
+* [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) (Gestor de archivos)
+* [MKBKTR](https://github.com/rschlaikjer/mkbktr) (Patcher)
 ## Credits
-* Type-Moon for creating the wonderful remake http://typemoon.com/products/tsukihime/
+* Type-Moon por crear este maravilloso remake http://typemoon.com/products/tsukihime/
 
 ***
 
