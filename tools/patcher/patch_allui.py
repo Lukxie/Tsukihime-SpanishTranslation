@@ -99,7 +99,7 @@ def main():
         os.path.join(
             SCRIPT_TRANSLATIONS_FOLDER,
             'system_strings',
-            'sysmes_text.en'),
+            'sysmes_text.es'),
         os.path.join(MRG_TEMP_DIR, 'allui.00000024.SYSMES_TEXT.DAT.dat')
     )
 
