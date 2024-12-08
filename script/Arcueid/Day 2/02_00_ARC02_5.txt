@@ -1,0 +1,116 @@
+[sha:23465ecdd5e8e02061836c256e2641cefba0255f]{
+-- Page 10018, Offset 3468.
+-- 10時になった。
+Son las diez en punto.
+}
+[sha:1284ddfb99e96e68bc6dcf921fb143346f948d20]{
+-- Page 10018, Offset 3469.
+-- 俺が消すまでもなく、電灯は自動的に消灯した。
+Las luces se apagan solas automáticamente sin que tenga que hacer nada.
+}
+[sha:ddbd3def31dd03a67363da505304243f21f84ecc]{
+-- Page 10018, Offset 3470.
+-- この時間になると、執務室以外の明かりはいったん落ちる仕組みなのだそうだ。
+Parece que todas las luces――
+excepto las de la oficina――
+están programadas para apagarse a esta hora.
+}
+[sha:ed9e73fd02a6bb09cbae66172cf05910fbc8954d]{
+-- Page 10018, Offset 3471.
+-- その後はスイッチを入れ直せばどの部屋でも電灯はつくが、それは緊急時のための措置らしい。
+Puedes encender cualquiera de ellas de nuevo pulsando el interruptor,
+ pero aparentemente está reservado solo para emergencias.
+}
+[sha:ae9c0f0c3df381e370ffd06af61e7a54650d3d11]{
+-- Page 329, Offset 3472.
+-- 恐らく、備え付けのスタンドライトを使うと夜更かしをしているのがバレる。
+Si uso la lámpara de mesa que tengo, la gente se dará cuenta que me estoy quedando despierto hasta tarde.
+}
+[sha:96396e547262de38312411bcc3eee40c73a6b13c]{
+-- Page 329, Offset 3473.
+-- その上、夜10時を過ぎた後の外出は許されていない。
+Además de eso, salir de tu habitación tras las diez en punto está expresamente prohibido.
+}
+[sha:5627deb1c57e798c1a95a00ed6d1ededf23a72f8]{
+-- Page 330, Offset 3474.
+-- 「……うーん。
+"Hmmm...
+}
+[sha:60c37860bedad2e054a77a0717156fca9e42174c]{
+-- Page 330, Offset 3475.
+-- こっそりスタンドライトでも買ってくるとか？」
+¿Quizá pueda colar una lámpara de noche?"
+}
+[sha:235a73a47f5edc7720bf743a27ec2f5a59a6acdd]{
+-- Page 330, Offset 3476.
+-- 最近は携帯端末サイズの折りたたみ型スタンドライトもある。
+A día de hoy, hay lámparas plegables del tamaño de un teléfono móvil.
+}
+[sha:be60a143f293f278eddc82600ce64449de2e9768]{
+-- Page 330, Offset 3477.
+-- 消灯時間なんていくらでもやり過ごせるのだが……
+Con una de esas, podría quedarme despierto todo lo que quiera después de que se apaguen las luces...
+}
+[sha:e65195f81377d3885973fff187dd1097a89dd44b]{
+-- Page 331, Offset 3478.
+-- 「まあ、必要はないか……。基本、夜は寝るものだし。
+"Bueno, no es que tenga mucho sentido...
+ La noche es para dormir de todas formas.
+}
+[sha:4d4f43a10de6b75145a43b9dc61c6b8329b4f425]{
+-- Page 331, Offset 3479.
+-- 試験期間の時なら就寝時間も延ばしてもらえるだろ」
+Estoy seguro de que me dejará quedarme hasta tarde cuando lleguen los exámenes."
+}
+[sha:f2ca5730b25806aabb0b4f3195d7bfccdcb26e1f]{
+-- Page 332, Offset 3480.
+-- 用意された寝間着に着替えてベッドにもぐりこむ。
+Me cambio a la vestimenta nocturna provista y me meto en la cama.
+}
+[sha:39fe1548573c6b993ae45f7a579d7764b5f2b660]{
+-- Page 332, Offset 3481.
+-- ……大怪我を負ったあの事故以来、こうやって横になるのはどうしても抵抗がある。
+Desde aquel accidente, me he sentido peculiarmente reacio a tumbarme para dormir.
+}
+[sha:9d8e08e2002f2210a932f15b792589a64b650f00]{
+-- Page 332, Offset 3482.
+-- 柔らかいベッドなら尚更で、とにかく、楽な状態に身を預ける事を嫌がっていたらしい。
+Especialmente cuando mi cama es así de blanda.
+ Esencialmente, posturas cómodas para dormir me molestan por alguna razón.
+}
+[sha:a53f1b0df553e644ad905948176eab841f7f9f52]{
+-- Page 333, Offset 3483.
+-- 有間の家でも啓子さんをさんざん困らせた。
+Cuando estaba en la casa de los Arima, solía hacer que Keiko-san se subiera por las paredes.
+}
+[sha:bb44f21c64a129ebf1a6ad6dcc5cd52323da264d]{
+-- Page 333, Offset 3484.
+-- 俺は眠りこそ深いものの、自分から眠りにつく子供ではなかったのだとか。
+Decía que aunque dormía profundamente,
+ no era el tipo de niño que pudiera quedarse dormido por su cuenta.
+}
+[sha:ba2825ac55d3c4a7ae39acf682893ee191ad483f]{
+-- Page 334, Offset 3485.
+-- 「―――よし、寝るか」
+"―――Vale, hora de dormir."
+}
+[sha:0b20ee5d962519861efa36e57f2cf0b618037efd]{
+-- Page 334, Offset 3486.
+-- できて当たり前の事を自分に言い聞かせる。
+Me lo digo en alto aunque es algo que debería salirme de manera natural.
+}
+[sha:0befafb5c620fbbed5c0b7385b1fda7ba6b65f2a]{
+-- Page 334, Offset 3487.
+-- 眼鏡を外して、目蓋を閉じる。
+Me quito las gafas y cierro los ojos.
+}
+[sha:3d7c133790aa0695ae6ca8d49885f72950850d74]{
+-- Page 334, Offset 3488.
+-- 寝付きが悪かったのは子供の頃の話だ。
+Sólo cuando era un niño tenía problemas para dormir.
+}
+[sha:2eceb7497ba77597a0728ee8584cec74cb8a0751]{
+-- Page 334, Offset 3489.
+-- 今はこうして目蓋を閉じれば、人並みに眠りに落ちて―――
+Ahora, si cierro los ojos así, me puedo dormir como cualquier otro―――
+}

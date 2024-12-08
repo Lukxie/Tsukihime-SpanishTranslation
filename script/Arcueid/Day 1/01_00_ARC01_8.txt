@@ -1,0 +1,665 @@
+[sha:2c9ab5b6eae7dac381b0ed5b8ba53038b11437e4]{
+-- Page 10025, Offset 2290.
+-- 再び二階ロビーに出る。
+Me dirijo al vestíbulo de la segunda planta.
+}
+[sha:6a7fce9785b7499aa2647e6a6e48507d0a84b922]{
+-- Page 10025, Offset 2291.
+-- 遠野邸はロビーを中心にして東館と西館とに分かれている。
+La residencia Tohno está dividida en ala este y ala oeste con el vestíbulo en su centro.
+}
+[sha:bf9364da3ed2b9575df2481c9776a1813ab31545]{
+-- Page 446, Offset 2292.
+-- 喩えるなら翼を広げた鳥のようなものだ。
+Si tuviera que compararlo con algo, diría que es como un pájaro con sus alas abiertas.
+}
+[sha:bb58ab0dcfbe18ff96f2df7081accce2ee13f9e6]{
+-- Page 446, Offset 2293.
+-- ロビーが鳥の胴体で、東と西の棟が翼にあたる。
+El vestíbulo es el cuerpo del pájaro, y las partes este y oeste son las alas.
+}
+[sha:7fe7e32fec8989bba4348c70c0cd2c3f800627fc]{
+-- Page 446, Offset 2294.
+-- 片翼……一方の棟の大きさは小さな病院なみだ。
+Cada ala es... del tamaño de una pequeña clínica.
+}
+[sha:d284ea276ebe7f2a16bed65735917be5b0d22744]{
+-- Page 446, Offset 2295.
+-- 造りは左右対称で、東館も西館も同じ部屋数だったと記憶している。
+Recuerdo que es simétrica, y que el ala este y oeste tienen el mismo número de habitaciones.
+}
+[sha:f5b54667f14626d4d45e8b66cc2474dc8d40779e]{
+-- Page 447, Offset 2296.
+-- 「志貴さまのお部屋はこちらです」
+"Shiki-sama, tu habitación está en esta dirección."
+}
+[sha:a8158cb2659f070d11021d4f7ff834f4b823708a]{
+-- Page 448, Offset 2297.
+-- 翡翠は階段を下りる事はなく、ロビー吹き抜けの回廊を西館に向かって歩き出した。
+Hisui no se dirige a las escaleras, sino al pasillo que lleval ala oeste desde el vestíbulo.
+}
+[sha:72a1bea12bfc0f63266713f7854521eda328f3dd]{
+-- Page 448, Offset 2298.
+-- どうやら俺の部屋は西館の二階にあるらしい。
+Parece que mi habitación está en la segunda planta.
+}
+[sha:d712bf51386626956299f2a0f560d4d180fdddc9]{
+-- Page 449, Offset 2299.
+-- 外はすでに日が落ちていた。
+El sol ya se ha puesto.
+}
+[sha:d172e25f2f7c7787586a5c9e5e4a985d3ddadffb]{
+-- Page 449, Offset 2300. Mods: @n.
+-- 青い絨毯と共に
+Una alfombra azul
+}
+[sha:133b1fafa73ae6965b2ee42b6893bafa1f29ebd0]{
+-- Page 449, Offset 2301. Glued.
+-- 伸びる廊下。
+ se extiende a lo largo del pasillo.
+}
+[sha:8ebc16f1d64345a03c5b547f95845bd2c95da2da]{
+-- Page 449, Offset 2302.
+-- 城壁を思わせる一面の白い壁。
+Las paredes blancas son reminiscentes a los muros de un castillo.
+}
+[sha:c12b2e20ac73967fe6ae8926d6a9f390dc8f12ed]{
+-- Page 449, Offset 2303.
+-- 温かみのあるオレンジ色の電灯が延々と続く中、メイド服の女の子が歩いている。
+Por el interminable pasillo de cálidas luces naranjas camina la chica en uniforme de criada.
+}
+[sha:eb2385485d048e76c7a6a93c80a754d82b104429]{
+-- Page 450, Offset 2304.
+-- 「……なんか、おとぎの国みたいだ」
+"Es como si algo sacado de un cuento de hadas..."
+}
+[sha:ccdf1f46244e41780b0352e6fc12957b6e8469bf]{
+-- Page 450, Offset 2305.
+-- 思わず感想を洩らす。
+No puedo evitar que mis pensamientos abandonen mi boca.
+}
+[sha:feeecb2a9d7c47b1140b08a80cdd5d8d0c46761e]{
+-- Page 451, Offset 2306.
+-- 「志貴さま、何かご質問でも……？」
+"Shiki-sama, ¿tenía alguna pregunta...?"
+}
+[sha:db7f98f0ad9d1f5e92e1253d5789d56a77c96ad1]{
+-- Page 451, Offset 2307.
+-- 「いや、ただの独り言だから気にしないでくれ」
+"No, solo estoy pensando en alto, no te preocupes."
+}
+[sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
+-- Page 451, Offset 2308.
+-- 「……………」
+"........."
+}
+[sha:451c4242fb524c4e6466030d6fe7d35649d806c2]{
+-- Page 451, Offset 2309.
+-- 翡翠はこちらを見つめたあと、それでは、と一礼して歩き出した。
+Hisui me mira, hace una reverencia, y continúa caminando.
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 452, Offset 2310.
+-- 「………………」
+"........."
+}
+[sha:c7802de31f290848fab14237b080cc4d5d3be883]{
+-- Page 452, Offset 2311.
+-- ……言葉を失う。
+Estoy sin palabras...
+}
+[sha:2903f58a459283631deb2e14e07e92d0a8f06a05]{
+-- Page 452, Offset 2312.
+-- 遠野邸に帰ってきてから何度目かの絶句だった。
+Me pregunto cuantas veces me he quedado sin palabras desde que llegué.
+}
+[sha:85e287668cc02826bf07064745a81354cdc3f439]{
+-- Page 453, Offset 2313.
+-- 高級木材とされるチークで作られた床。
+El suelo está hecho de teca, que está considerada una madera de alta calidad.
+}
+[sha:98009cf51e07a73e6eb2a8bfb571ff56f64a18fb]{
+-- Page 453, Offset 2314.
+-- ３メートルはありそうな高い天井。
+El techo tiene que tener por lo menos tres metros de alto.
+}
+[sha:4f9bdfd757c0a822e80b68af68ae6bfe0badb65a]{
+-- Page 453, Offset 2315.
+-- 奥に見えるのは個人用のサンルームだろうか。
+Y creo que puedo ver una terraza interior privada en la parte de atrás.
+}
+[sha:d4e155221534b104e7e88b84e8334864b93f68a1]{
+-- Page 453, Offset 2316.
+-- 翡翠に案内された部屋は、とてもではないが、一介の高校生が住む部屋の造りではなかったからだ。
+La habitación a la que Hisui me ha guiado no es el tipo de habitación en la que un estudiante de instituto viviría normalmente,
+ ni de lejos.
+}
+[sha:c6ef9b0df5502080d601876fdcc7837a413afa70]{
+-- Page 454, Offset 2317.
+-- 「……俺の部屋って、ここ？」
+"¿%{i}Esta%{/i} es mi habitación...?"
+}
+[sha:bcdb8cb08c418b345d9e03bebe312e2adff2580d]{
+-- Page 454, Offset 2318.
+-- 「はい。ご不満がおありのようでしたら、違うお部屋をご用意させていただきますが」
+"Sí. Si no está satisfecho, le organizar otra habitación distinta para usted."
+}
+[sha:61a204f89e08b3981d48ece2286e8221235352c5]{
+-- Page 455, Offset 2319.
+-- 「いや、不満なんてあるわけないけど、その―――」
+"No, no hay forma de que no esté satisfecho, es mas como―――"
+}
+[sha:1e7d4faea43c96bb20ba4c180f56cb83d07530eb]{
+-- Page 455, Offset 2320.
+-- ちょっと、いやかなり立派すぎるかなって。
+Es como si fuera %{i}demasiado%{/i} buena para mi.
+}
+[sha:37eb96ccce9f93741f8d6b4f076d3500ed549dca]{
+-- Page 456, Offset 2321.
+-- 「志貴さま？」
+"¿Shiki-sama?"
+}
+[sha:3033a08573917c25a0004deb7987bd6b860a4c73]{
+-- Page 456, Offset 2322.
+-- 「―――いいんだ、なんでもない。
+"Está bien, no es nada.
+}
+[sha:5cf004125ce4135e1adc0fdf8a38a6442383535a]{
+-- Page 456, Offset 2323.
+-- 喜んでこの部屋を使わせてもらうよ」
+Estaré encantado de usar esta habitación."
+}
+[sha:4013e76733eab962129ecbec3be224ccb16a317d]{
+-- Page 457, Offset 2324.
+-- 「はい。お部屋は七年前から手を加えていませんので、不自由はないと思います」
+"Entendido. La habitación no ha sido cambiada en siete años,
+ así que confío en que debería satisfacer sus necesidades."
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 457, Offset 2325.
+-- 「…………」
+"......"
+}
+[sha:52ec2a83b0b4f539899831472ed51b3d281c2870]{
+-- Page 457, Offset 2326.
+-- えーと、つまり、
+Espera, en otras palabras...
+}
+[sha:e413593b2483d71200aaabf1067c0d58a312da7a]{
+-- Page 458, Offset 2327.
+-- 「……ちょっといいかな。
+"Espera un momento...
+}
+[sha:241ab9c17b2fda0c66947ca80396697bec3ed62f]{
+-- Page 458, Offset 2328.
+-- ここ、七年前は俺の部屋だったとか？」
+¿Esta solía ser mi habitación hace siete años?"
+}
+[sha:c67f232c41366ee4886afe70aab2512ec09f028d]{
+-- Page 458, Offset 2329.
+-- 「そう伺っておりますが、違うのですか？」
+"Eso es lo que me han dicho. ¿No es así?"
+}
+[sha:90573a4799371469df7ea013256350831b6f923f]{
+-- Page 459, Offset 2330.
+-- 翡翠はかすかに首をかしげる。
+Hisui inclina la cabeza tan solo un poco.
+}
+[sha:e8a74e025cc9ea80bcc3fe8b92a34d9c817b9df5]{
+-- Page 459, Offset 2331.
+-- ……安心した。
+Que alivio...
+}
+[sha:44fa0d90f51d864059bf0d00a2e6da181a63794b]{
+-- Page 459, Offset 2332.
+-- この娘にも、それなりに感情表現というものがあるみたいだ。
+Parece que por lo menos puede mostrar %{i}alguna%{/i} emoción.
+}
+[sha:b78d257a63b91cc65f37456723f57800d16ce8cb]{
+-- Page 460, Offset 2333.
+-- 「んー……まあ、言われてみれば、確かに。
+"Hmm... bueno, ahora que lo mencionas, sí.
+}
+[sha:37621e6a388e165e581f5fa8d11a6601c5590855]{
+-- Page 460, Offset 2334.
+-- 少しは覚えがあるし、きっとそうだったんだろう」
+Recuerdo algunas partes, así que me imagino que así sería."
+}
+[sha:cb97b33701bfbb0b49c2c3e93e41593b78fd49f1]{
+-- Page 461, Offset 2335.
+-- 親近感はまったく湧かないが、七年間も離れていればそんなものなのかもしれない。
+Esta habitación no se siente para nada familiar, pero quizá es lo que pasa cuando llevas fuera siete años.
+}
+[sha:d23fd92f81a4111af0c621a00ff01bd284bb9c14]{
+-- Page 462, Offset 2336.
+-- 「けど、やっぱり落ち着かないな。今朝まで四畳半の部屋で暮らしてたからさ、高級ホテルに泊まりに来たみたいだ」
+ La habitación en la que estuve viviendo hasta esta mañana era de un tamaño bastante normal,
+ así que se siente como si estuviera en un hotel de lujo."
+}
+[sha:b0f3aa30633f1539ba6b25f5f4c1bd8906500ec4]{
+-- Page 463, Offset 2337.
+-- 「お気持ちは分かりますが、どうかお慣れください。
+"Entiendo como se siente, pero por favor acostúmbrese.
+}
+[sha:d4e63d62b52e72826f7ae881c1a79cbfdd5d8a9a]{
+-- Page 463, Offset 2338.
+-- 志貴さまは今日から遠野家のご長男なのですから」
+Después de todo, desde hoy es el hijo mayor de la familia Tohno."
+}
+[sha:074128f2c8e9150e4220a07ca2d68c508a067ab6]{
+-- Page 463, Offset 2339.
+-- 「……まあ、そうだね。せめて外見ぐらいは笑われないように頑張ってみるよ」
+"Bueno, si,  eso es cierto. Me esforzaré para por lo menos manterner las apariencias."
+}
+[sha:39ccae1b04792ac9ad0639d30e7ce1f4c363fdf5]{
+-- Page 464, Offset 2340.
+-- トン、と机に鞄を置いて背筋を伸ばす。
+Pongo mi bolsa en el escritorio y estiro mi espalda.
+}
+[sha:ecc0cd0b6173b103d2d51d5717f7eca9ca4ee763]{
+-- Page 464, Offset 2341.
+-- 色々と神経がまいりそうだけど、今日から慣れていくしかない。
+Va a ser estresante, pero me tengo que acostumbrar.
+}
+[sha:e6034f65754bc76d579c2ca4012b6a30b23737a6]{
+-- Page 464, Offset 2342.
+-- せめてこの部屋ではリラックスできるようにならないと。
+Si no hay más sitios, tengo que poder relajarme en esta habitación.
+}
+[sha:55e2df73402e1c62f96026ab15b8ab32a97fbb6f]{
+-- Page 465, Offset 2343.
+-- 「それと……昨夜のうちに届いたお荷物はすべて運びこみましたが、問題はありませんか？」
+"Una cosa más. He traído todo el equipaje que llego la noche de ayer, pero...
+ ¿Está seguro que esto es correcto?
+}
+[sha:5179254e824458156494c7abe82382334bdba3a9]{
+-- Page 465, Offset 2344.
+-- 「いや、別にないけど？
+"Quiero decir, ¿parece que está bien?
+}
+[sha:ee9b2454f1c315755ab9eaaf2d71717174fa5a3c]{
+-- Page 465, Offset 2345.
+-- あ、なんか持ちこんじゃいけない物でもあったとか？」
+Oh, ¿hay algo que no tengo permitido traer?"
+}
+[sha:a34cebd3424266aae988c101fdeed3974c1b1dc0]{
+-- Page 466, Offset 2346.
+-- 「……いえ、お荷物が少なすぎるようですから。
+"No, simplemente tenía una sorprendentemente pequeña cantidad de equipaje.
+}
+[sha:2d2a4369f488c8db0670eeb833368667790b0aac]{
+-- Page 466, Offset 2347.
+-- 必要なものがあればご用意いたしますので、どうかお聞かせください」
+Si hay algo que necesite, por favor no dude en preguntarlo y lo prepararé para usted."
+}
+[sha:dc8254fa4e00f51d8ec884b2698a8c5b80302930]{
+-- Page 467, Offset 2348.
+-- 「……そっか。いや、とりあえず足りないものはないよ。
+"Ya veo... No, creo que estoy bien por ahora.
+}
+[sha:b13213676fb569609c9c0062071cc0e3bd45f02d]{
+-- Page 467, Offset 2349.
+-- もともと荷物は少ないんだ。自分の荷物っていったら、その鞄とこの眼鏡と……」
+No tenía mucho equipaje para empezar. Las únicas cosas que me he traído son mi bolsa, estas gafas, y..."
+}
+[sha:149019d944c91b4efa4d7ea571b3c25c0eba5031]{
+-- Page 468, Offset 2350.
+-- 鞄の中に入っている教科書とか、昔から大事にとってある白いリボンとか、それだけだ。
+Dentro de mi bolsa solo están mis libros de texto,
+ a parte de eso un lazo blanco al que me he aferrado desde hace mucho tiempo,
+ pero eso es todo.
+}
+[sha:3ed5b3d1857ae25edeb3a2344f6c0fba916353f4]{
+-- Page 469, Offset 2351.
+-- 「ともかく、荷物のことは気にしないでいい。
+"De todas, no te preocupes por mi equipaje.
+}
+[sha:e39a08414350eb05a597c4feda9ba117922820d9]{
+-- Page 469, Offset 2352.
+-- こんな立派な部屋だけで十分だ」
+Esta habitación es mas que suficiente."
+}
+[sha:68dd3a89ec85af657d9eb01735d997df77ebcd21]{
+-- Page 469, Offset 2353.
+-- 「……かしこまりました。
+"Entendido.
+}
+[sha:e90b800506668164c7800658bf70b8f553d61662]{
+-- Page 469, Offset 2354.
+-- では、一時間後にお呼びにまいります」
+En cualquier caso, le llamaré otra vez en una hora."
+}
+[sha:3236f6f7220faef39243961187f66f5f05ceacc4]{
+-- Page 470, Offset 2355.
+-- 「一時間後って、もしかして夕食？」
+"En una hora, ¿te refieres para cenar?"
+}
+[sha:2010a613f60279e67a606c11a81e3be23585584b]{
+-- Page 470, Offset 2356.
+-- 「はい。それまで、どうぞおくつろぎください」
+"Sí. Hasta entonces, por favor póngase cómodo."
+}
+[sha:4a2730723bd2fcd6b2d50310719c2cfe646590ff]{
+-- Page 471, Offset 2357.
+-- 翡翠はやっぱり無表情で言ってくる。
+Lo dice devota de emoción, como era de esperar.
+}
+[sha:1f2ca676f75724c2672820543fea0f0bc96eddbf]{
+-- Page 471, Offset 2358.
+-- しかし、ここでどう時間を潰したものか。
+Pero, ¿cómo voy a pasar el tiempo aquí?
+}
+[sha:87504a6bde38497a1c30734fc15d1165d403deff]{
+-- Page 472, Offset 2359.
+-- 時計は夕方の６時をまわったあたり。
+Solo son las seis de la tarde.
+}
+[sha:107341de4887f0fa2c881d19ceddae758062f107]{
+-- Page 472, Offset 2360.
+-- いつもなら居間でテレビなり携帯端末なりを眺めている時間だが、この屋敷に“気軽に住人が集まる空間”なんてものがあるかどうか、真剣に疑わしい。
+Normalmente estaría en la sala de estar viendo la tele o haciendo el tonto con el móvil,
+ pero dudo seriamente que esta mansión tenga un 'sitio de reunión informal'.
+}
+[sha:cb846c0e0c661227dbd5a9e51fb4c852d9a13c26]{
+-- Page 473, Offset 2361.
+-- 「翡翠、つまらない事を聞くけどさ。
+"Hisui, déjame hacerte una pregunta.
+}
+[sha:e85cf96e202043c9f6db15960fb40f3b52f1959d]{
+-- Page 473, Offset 2362.
+-- この屋敷にテレビとか、通信回線とかあるの？」
+¿Esta mansión tiene una televisión o Wi-Fi?"
+}
+[sha:a4fa88ac71d29b6b52b5f7f2d6760e7927c1f74c]{
+-- Page 474, Offset 2363.
+-- 「テレビと、通信回線……ですか？」
+"Una televisión o Wi-Fi...?"
+}
+[sha:cbac59d3114951e69c5be5a640166f2f088916dd]{
+-- Page 475, Offset 2364.
+-- 翡翠はかすかに目を細める。
+Entrecierra sus ojos ligeramente.
+}
+[sha:d467f62e4b1a895fee82b23016199904e9a1baa4]{
+-- Page 475, Offset 2365.
+-- ……自分で言っておいてなんだけど、頭が痛くなる質問だ。
+Quería evaluar la situación, pero este tipo de preguntas quizá sean más problema de lo que vale la pena...
+}
+[sha:20a35d5d755d07c7bcf082fb821743e9f5a50be1]{
+-- Page 475, Offset 2366.
+-- これだけ贅沢な洋館において、現代日本の基本娯楽があるかどうかを訊ねるなんて、どこか間違ってる気がする。
+Me parece mal preguntar si hay entretenimento moderno básico en un lujoso edificio occidental.
+}
+[sha:ef8bc86f087c23123447af6de852519502201519]{
+-- Page 476, Offset 2367.
+-- 「……居間にはありません。西館には娯楽室がありますが、こちらは鍵がかけられています。
+"No hay cosas así en la sala de estar. Hay una sala de entretenimiento en el ala oeste, pero está cerrada.
+}
+[sha:f7f024d40550673c8328d60cdf82fd6378396696]{
+-- Page 476, Offset 2368.
+-- 先日まで逗留なされていた皆様は私物を持ちこまれていましたが、出立される時に荷物はお持ち帰りいただきましたので、残ってはいないと思います」
+Los familiares que estuvieron aquí hasta el otro día trajeron sus pertenencias,
+ pero desde que se llevaron todo con ellos de vuelta cuando se marcharon,
+ dudo que haya algo que encaje con esa descripción en sus habitaciones."
+}
+[sha:f1b412d19a28e06c15d473e2b34b217dca698d22]{
+-- Page 477, Offset 2369.
+-- 「秋葉が追い出した親戚筋か……逗留って、誰がどのくらいしてたんだ？」
+"Los familiares que Akiha echó... ¿Quién se estaba quedando aquí, y desde hace cuanto?
+}
+[sha:669115d9bd9f3926824cfdba14d9664cf298efe5]{
+-- Page 478, Offset 2370.
+-- 「久我峰さまのご長男と、そのご家族の皆様が一階西館の三部屋を。
+"El hijo mayor de Kugamine-sama y su familia ocupaban tres habitaciones en la primera planta del ala este.
+}
+[sha:e89607b706b746940fcdb64a6471400eb38d73a7]{
+-- Page 478, Offset 2371.
+-- 刀崎さまのご三女とその婚約者の方が二階西館の角部屋を。
+La tercera hija de Touzaki-sama, junto a su prometido, ocupaban la habitación de la esquina de la segunda planta del ala oeste.
+}
+[sha:8c2821cb3e400b30fa17e6a7ecb43a21ea9e86a5]{
+-- Page 478, Offset 2372.
+-- 軋間さまのご長男が一階東館の一部屋を。
+El hijo mayor de Kishima-sama ocupaba una habitación en la primera planta del ala este.
+}
+[sha:1040f51a05c46fada19f17499891a6c9e444093e]{
+-- Page 478, Offset 2373.
+-- 皆様、三年ほどお過ごしになられました。
+Todos vivieron aquí durante tres años.
+}
+[sha:d771384a3c4ef64806dd70e71caed5d67028b168]{
+-- Page 478, Offset 2374.
+-- あとは……たしか、先代である槙久さまの主治医さまが屋敷に逗留されていた、と聞いています」
+A parte de eso... Escuché que el doctor de la anterior cabeza, Makihisa-sama, estaba alojándose en la mansión."
+}
+[sha:c62369a8cbe8609a120634b839a5ebe806e7931c]{
+-- Page 479, Offset 2375.
+-- 「三年もかぁ……なあ翡翠。そういうのって逗留っていうんじゃなくて、居候っていうんじゃないか？」
+"¿Tres años enteros...? Ey, Hisui, ¿llegado a ese punto no crees que tendría mas sentido llamarles 'gorrones' en vez de invitados?
+}
+[sha:b54d179ba4d8d28d85e076ba4c6408a2e50d43fa]{
+-- Page 480, Offset 2376.
+-- 翡翠は答えない。
+No responde.
+}
+[sha:e31fdd16a3a9980993ee17ec987ce12961342794]{
+-- Page 480, Offset 2377.
+-- 居候していた連中がどんな人間であろうと、使用人である以上、個人的な所感は言えないみたいだ。
+Parece que sin importar que clase de persona se aloje aquí, como criada, no puede dar su opinión personal.
+}
+[sha:2459c7075ead516ff703d06cd30d61424544200f]{
+-- Page 481, Offset 2378.
+-- ともかく逗留していた連中は家財ごと転居したらしい。となると、彼らの置き土産には期待できまい。
+De todos modos, parece que las personas que se alojaban aquí se mudaron con sus pertenencias. En ese caso, mejor no esperar que se hayan dejado ningún souvenir.
+}
+[sha:0de5b53616bab08a13176294cd0135c5281a1b35]{
+-- Page 481, Offset 2379.
+-- 近代的な娯楽を俗物的と毛嫌いしていた槙久が、自由にテレビやネットを使わせていたとは思えない。
+Es improbable que Makihisa, quien tenía prejuicios contra cosas vulgares como el entretenimiento moderno, fuera a permitir que la gente viese la tele o buscase en internet líbremente.
+}
+[sha:e827d762e8884a83344dfdac783ea5e64039e2bf]{
+-- Page 481, Offset 2380.
+-- <槙久|おやじ>のもとで躾けられた秋葉も同じだろう。
+Lo mismo va para Akiha, que fue educada por él.
+}
+[sha:e3c4242b60aa7c6300a82dedba432d10b781a3cb]{
+-- Page 482, Offset 2381.
+-- 「―――ま、ないからって別に死ぬワケでもないか」
+"―――Bueno, no es que me vaya a morir sin ello."
+}
+[sha:607271f26d95ac5ae51abfb94b6031c38cf46ccc]{
+-- Page 482, Offset 2382.
+-- いざとなれば携帯端末もある。
+Y tengo mi teléfono de todas formas.
+}
+[sha:dbc536e102c2c68e85548c494645219b7f9fb420]{
+-- Page 482, Offset 2383.
+-- ポケットから携帯を取り出して時刻とアンテナを確認する。
+Lo saco de mi bolsillo y miro la hora y si tengo cobertura.
+}
+[sha:ee6dac833cf869d71b052ea2d492856719e46d57]{
+-- Page 483, Offset 2384.
+-- 当たり前と言えば当たり前だが、電波は届いている。
+De hecho, aquí sigue habiendo cobertura.
+}
+[sha:585a991aface1fb72e9bb6d3b0b98726cb510097]{
+-- Page 483, Offset 2385.
+-- 最低限ではあるが、ネット環境が手元にある事にホッと胸を撫で下ろした。
+Es solo una raya, pero me alivia que aún tenga internet como sustento.
+}
+[sha:4f287dff4c58c8458baab1d7b550e24a1d43855e]{
+-- Page 483, Offset 2386.
+-- ……なんというか、ここまで現実感のない屋敷だと、逆に圏外である方が自然に思えたからだ。
+Por alguna razón, sentí que sería normal que no hubiese cobertura en está mansión surrealista.
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 484, Offset 2387.
+-- 「………………」
+"........."
+}
+[sha:1b0d1d918653dae5115a23b2ff0c2aca501b4f43]{
+-- Page 484, Offset 2388.
+-- 一方、翡翠は黙ったままだった。
+Hisui lleva callada todo este tiempo.
+}
+[sha:097e8c7795d74f61f50ddfc2c62f14eb232c1b78]{
+-- Page 484, Offset 2389.
+-- 使用人の鑑というべきか、翡翠は必要なことと、訊かれたこと以外は何も喋らない。
+La personificación de una criada, no dice nada excepto lo que es necesario y lo que se le pide.
+}
+[sha:373081359864b1b8ec9db8737af3c8ea5989680f]{
+-- Page 485, Offset 2390.
+-- お手伝いさんに慣れていない俺としては、彼女がそうしているだけで落ち着かない。
+Como alguien que no está acostumbrado a tener criada, me siento incómodo si actúa de esa manera.
+}
+[sha:b72cfb3cc82e723d22e8523864cb86839365de07]{
+-- Page 485, Offset 2391.
+-- なんとかしてあの無表情な顔を笑わせてみたいと思うのだけど、どうも生半可な努力では難しそうだ。
+Me gustaría hacerla reir de alguna forma, pero parece que será difícil no me esfuerzo del todo. 
+}
+[sha:dbf519022fc8872fbd3092b797734bfe0934c351]{
+-- Page 486, Offset 2392.
+-- 「たしか一階の西館のほうに書庫があったっけ。
+"Hay una librería en la primera planta del ala este, ¿no?
+}
+[sha:b060e252c19e319fa51049a8ffac895bad2e5fda]{
+-- Page 486, Offset 2393.
+-- 暇な時はそこから何かみつくろう事にするよ」
+Veré que puedo encontrar allí cuando esté libre."
+}
+[sha:b54d179ba4d8d28d85e076ba4c6408a2e50d43fa]{
+-- Page 487, Offset 2394.
+-- 翡翠は答えない。
+No responde.
+}
+[sha:d54b7a22cbb450c61253aa10fe8b4d7421ede54a]{
+-- Page 487, Offset 2395.
+-- 俺に向けられていた視線はやや逸れて、何もない空中を見つめている。猫か。
+Su mirada, que está fijada en mi, cambia ligeramente, como si estuviera mirando fijamente el vacío encima. Como un gato.
+}
+[sha:7034ab3767b007d7086c85aa84ffbd4ae9675f99]{
+-- Page 488, Offset 2396.
+-- 「―――翡翠？」
+"―――¿Hisui?"
+}
+[sha:88649eed4789fb5ac247a57a6a211367c60f489b]{
+-- Page 488, Offset 2397.
+-- 翡翠はうんとも言わない。
+Hisui no dice nada.
+}
+[sha:7f03bf2d950f626eed0e4369a30e2bedb5770e1d]{
+-- Page 488, Offset 2398.
+-- と、突然まっすぐ、俺に視線を戻した。
+Y entonces, de repente, me mira directamente.
+}
+[sha:9fa9a165abb4b1a21ff086872d295e677d30c598]{
+-- Page 489, Offset 2399.
+-- 「姉さんの部屋になら、あると思います」
+"Creo que hay una en la habitación de Nee-san."
+}
+[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+-- Page 489, Offset 2400.
+-- 「は？」
+"¿Qué?"
+}
+[sha:f3a7ffb33399d7c8a8fcee9fe4a05256cfcf8a22]{
+-- Page 489, Offset 2401.
+-- ……無遠慮にも声をあげてしまった……。
+No pude evitar sonar confundido.
+}
+[sha:f1ee861c8618089c6a97704a84b4e442b2f169e0]{
+-- Page 489, Offset 2402.
+-- えーっと、つまりそれは、
+De todas formas, asumo que está hablando de―――
+}
+[sha:28c5cc6f6d3328a5e5246af41a47329d4e30d487]{
+-- Page 490, Offset 2403.
+-- 「ですからテレビです。
+"Estoy hablando de la televisión.
+}
+[sha:c50fe94ed6d48491a9ffe4944f0c347acbc5b379]{
+-- Page 490, Offset 2404.
+-- 以前、姉さんの部屋で見かけた記憶がありますから」
+Recuerdo haber visto una en la habitación de Nee-san."
+}
+[sha:8ffb809fe5ef615de80f9cc3e7b888fc42c88200]{
+-- Page 490, Offset 2405.
+-- 数年前の出来事を思い出すかのように翡翠は言った。
+Hisui lo dice como si estuviera recordando algo de hace años.
+}
+[sha:2015dadc18957e84f5e70e9a63fdd8e62d206569]{
+-- Page 491, Offset 2406.
+-- 「良かった、ここでもそれぐらいはあるんだ……って、ちょっと待って。
+"Gracias a Dios, incluso un sitio como este tiene una televisión... un momento.
+}
+[sha:263a559e09fcfb939284d52106ca2702b9722b36]{
+-- Page 491, Offset 2407.
+-- 姉さんって、もしかして琥珀さんのこと？」
+Cuando dices 'Nee-san', ¿por alguna casualidad te refieres a Kohaku-san?"
+}
+[sha:92703f27cf4ea8f53065fca46dc2f90d1f5b44ef]{
+-- Page 492, Offset 2408.
+-- 「はい。現在、このお屋敷で働かせていただいている者は、わたしと姉さんの二人きりです」
+"Si. Nee-san y yo somos las únicas dos personas a las que han concedido el honor de trabajar en esta mansión."
+}
+[sha:a30d5a15a1b85048a6c9b8d95bf4f6105da89ab8]{
+-- Page 493, Offset 2409.
+-- ……言われてみればよく似てる。
+Ahora que lo pienso, se parecen bastante...
+}
+[sha:1479ac216a3e71cb829d072b807726d88de7af07]{
+-- Page 493, Offset 2410.
+-- 終始笑顔だった着物の少女に比べると、このメイド服の少女はあまりにも無表情なので、二人が姉妹だと結びつかなかったのだ。
+Comparada con la chica en kimono, que estuvo sonriendo todo el tiempo,
+ la chica en uniforme de criada es tan inexpresiva que no llegué a relacionar a las dos hermanas.
+}
+[sha:0f1704b20f5a691b819b035850a518001248c431]{
+-- Page 494, Offset 2411.
+-- 「そっか。あの人ならたしかにバラエティー番組を観てそうなキャラクターだ」
+"Ya veo. Definitivamente parece el tipo de persona que vería programas de variedad."
+}
+[sha:801e22ccec489628652c22c82943479744632cdf]{
+-- Page 494, Offset 2412.
+-- しかし、かといって『テレビ観せてください』と彼女の部屋に行くのも気がひける。
+Como sea, no me siento cómodo llendo a su habitación y preguntarla si puedo ver la televisión.
+}
+[sha:bba9cc666dadd0657f10857657c3614c758f24e6]{
+-- Page 495, Offset 2413.
+-- 「ごめん、この話はなかった事にしてくれ。
+"Perdón, olvida que alguna vez pregunté.
+}
+[sha:20c338d9a578cbe5e2215f41c731d6c475ce7ca5]{
+-- Page 495, Offset 2414.
+-- これからここで暮らすんだから、屋敷のルールには従わなくっちゃいけないしね」
+Voy a vivir en esta mansión a partir de ahora, así que mejor que me acostumbre a sus reglas."
+}
+[sha:8499700b90020ca9dc4522ead71cb5a15d1ea8ad]{
+-- Page 496, Offset 2415.
+-- 第一、帰ってきた当日にのんびりテレビを観ていたら、秋葉にどんな皮肉を言われるか。
+Además, no puedo imaginarme que clase de comentarios sarcásticos haría Akiha si me fuera a ver la tele el día de mi regreso.
+}
+[sha:80244351f600197df76ce32c630b1404a0a1be21]{
+-- Page 496, Offset 2416.
+-- ここは遠野家の人間に相応しい、勤勉な学生になりきろう。
+Me volveré un estudiante trabajador, como se espera de un miembro de la familia Tohno.
+}
+[sha:b4249c34df95a29af71e82e64e516e99c4cb6d65]{
+-- Page 497, Offset 2417.
+-- 「夕食まで部屋にいるから、時間になったら呼びにきてくれ。翡翠だって他にやる事あるだろ？」
+"Me quedaré en mi habitación hasta la cena, así que por favor llamame cuando sea la hora. Tienes otras cosas que hacer, ¿no?"
+}
+[sha:36fce7dc50be14141eb7bf0579853c867c856f1b]{
+-- Page 498, Offset 2418.
+-- 翡翠ははい、とうなずいてドアノブに手をかけた。
+Hisui asiente y pone su mano en el pomo.
+}
+[sha:afaaaca174c7372614f0ac7bdd280e7d7134d186]{
+-- Page 498, Offset 2419.
+-- きぃ、とかすかな軋み音をたててドアが開かれる。
+La puerta se abre con un débil chirrío.
+}
+[sha:6e01d997dcaea08c2226917a2ea2631b846edee2]{
+-- Page 498, Offset 2420.
+-- 翡翠は一礼した後、静かに退室していった。
+Hace una reverencia, y deja la habitación silenciosamente.
+}

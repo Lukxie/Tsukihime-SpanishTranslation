@@ -1,0 +1,116 @@
+[sha:6a81d37c1b440636797968f5757eb196e87726ca]{
+-- Page 10016, Offset 1877.
+-- その前に、もう少し館内を見て回りたくなった。
+Antes de eso, quiero explorar la mansión un poco.
+}
+[sha:a3550cf256036cc28cf4838224c41d0dea5b54a7]{
+-- Page 10016, Offset 1878.
+-- 我が家だとは言え、これだけの大豪邸を見て気持ちが浮ついているようだ。
+Sé que es mi propia casa, pero ver esta elegante mansión en carne y hueso me tiene bastante emocionado.
+}
+[sha:a7bbdcecebe09d5131e7e54b00a03bcbd2dcea6a]{
+-- Page 284, Offset 1879.
+-- 「あの。居間に行く前に、ちょっと他の部屋を見て回っていいですか？　なんていうか、懐かしくて」
+"Perdona. Antes de ir a la sala de estar, ¿te importaría si echo un vistazo a otras habitaciones? Es algo nostálgico."
+}
+[sha:c088f704c19a57d0e40fc850ca1a6ca1514f8017]{
+-- Page 284, Offset 1880.
+-- たしか、西棟の二階には遊戯室があったとか……。
+Solía haber una sala de juegos en la segunda planta del ala oeste...
+}
+[sha:714ada68303e4146f0e6c7ffa8ad457e241279c4]{
+-- Page 285, Offset 1881.
+-- 「まあ。覚えていらっしゃるのですね」
+"Oh cielos, así que lo recuerda."
+}
+[sha:c3dacf80950b456c1fa5303cdfe4d3eaa20da7a4]{
+-- Page 286, Offset 1882.
+-- 「ですが、申し訳ありません。
+"Pero, lo siento.
+}
+[sha:912c19479e53378de6b5d9d2394c6210703e9e7e]{
+-- Page 286, Offset 1883.
+-- 秋葉さまがご当主になられてから、遊戯室や図書室、サロンといった大部屋は施錠されております。
+Las habitaciones grandes como la sala de juegos, la librería y el salón han estado cerradas desde que Akiha-sama se volvió la cabeza de familia.
+}
+[sha:471f5e3aa7d1f950026d74b40c9542cbfbc3e6b1]{
+-- Page 286, Offset 1884.
+-- 長男であらせられる志貴さまであっても、秋葉さまの許可なく使用する事はできません」
+Aunque sea el hijo mayor, no tiene permitido usar esas salas sin su permiso."
+}
+[sha:7cdc1918e7fe602013ee31a2256bebf14943d27c]{
+-- Page 287, Offset 1885.
+-- 「あー……そうなんだ。それは残念」
+"Ah... ya veo. Que mal."
+}
+[sha:540e8ea5217921bfd88e1cdc9732573ff1f69584]{
+-- Page 287, Offset 1886.
+-- ぴしゃりと断られて、立つ瀬がなく視線を泳がす。
+Se niega rotundamente. Habiendo quedado mal, aparto la mirada.
+}
+[sha:549803d744af7c33a2db43427c272cb9131a2322]{
+-- Page 288, Offset 1887.
+-- 「やっぱり、そう自由には使わせてもらえないですよね」
+"No puedo usar la casa libremente después de todo, ¿no?"
+}
+[sha:d1263e3716b6d6e4cd52d84bb7068e77ea7bfbe1]{
+-- Page 288, Offset 1888.
+-- 「いいえ。ご挨拶がお済みになれば、すぐにお許しいただけますよ、きっと。
+"No, estoy seguro que se te permitirá tan pronto como la saludes.
+}
+[sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
+-- Page 288, Offset 1889.
+-- ああ、でも―――」
+Ah, pero―――"
+}
+[sha:866e487cce24cb17a878f30ff187445bd8cb454b]{
+-- Page 289, Offset 1890.
+-- 「鍵のかかっている部屋に入る時は、わたしどもに一言かけていただけると助かります。
+"Se agradecería si pidieses permiso antes de entrar en una habitación cerrada.
+}
+[sha:667349edb969094f34e3c47813ae0fdf491dfded]{
+-- Page 289, Offset 1891.
+-- 遠野邸は外だけでなく、内のセキュリティも厳しいので。許可されていない部屋に入ってしまった場合、身の安全は保証できません」
+La mansión Tohno no solo tiene medidas de seguridad en las afueras, sino que también las tiene por dentro.
+ Si entrase en dichas habitaciones sin aprobación, no podría garantizar su seguridad."
+}
+[sha:b45399fb035f0c899cacd2d5b6afc1bae799e1c7]{
+-- Page 290, Offset 1892.
+-- 「保証できないって、また大げさな。矢でも飛んでくるんですか？」
+"¿Mi seguridad? Estas exagerando, ¿cierto? ¿Me van a disparar dardos?"
+}
+[sha:01290d4d61bba57c78a737b469587b9b1b71fa97]{
+-- Page 291, Offset 1893. Mods: @n.
+-- 「いいえ。
+"No.
+}
+[sha:78e823de42a00e575a39a3604e53f087663f0cb8]{
+-- Page 291, Offset 1894.
+-- 矢より恐ろしい、規則に厳しい当主さまのカミナリが」
+Algo mas terrorífico que cualquier dardo―― el trueno de nuestra estrícta patrona."
+}
+[sha:49f39d51f7e097fcbb5ec2a9605f2c76e4d1f588]{
+-- Page 291, Offset 1895.
+-- 使用人さんはふふ、と冗談のように笑うと、改めて俺に廊下の先を促した。
+La criada sonríe de broma y de nuevo me guía por el pasillo.
+}
+[sha:8999622577ee0d217303d600b99ad2e7fb06e363]{
+-- Page 291, Offset 1896.
+-- まずは居間で休んでほしい、という気持ちの表れだろう。
+Supongo que primero quiere que vaya a la sala de estar a descansar.
+}
+[sha:a56e04a38852c8909b5303bde75c0542da9c5aff]{
+-- Page 292, Offset 1897.
+-- 「お帰りなさい志貴さま。
+"Bienvenido a casa, Shiki-sama.
+}
+[sha:e782a23b6ce946e92f73481f818bcdbe38acfbc3]{
+-- Page 292, Offset 1898.
+-- どうぞ、今日からよろしくお願いします」
+Estoy deseando trabajar para usted."
+}
+[sha:81df23015e8f3a443269a48539795eb7a2085e06]{
+-- Page 293, Offset 1899.
+-- 俺はその丁寧な挨拶に気のきいた言葉も返せず、おずおずと彼女の後についていった。
+Incapaz de pensar en una respuesta apropiada, la sigo tímidamente.
+}

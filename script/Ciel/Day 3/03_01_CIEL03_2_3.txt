@@ -1,0 +1,590 @@
+[sha:0b4add01fb9c2eb882ceca04b27cc0128d6eb601]{
+-- Page 10002, Offset 4981.
+-- そうだ、茶道室に行ってみよう。
+-- TRANSLATION HERE
+}
+[sha:6f53ced670c1f4df9739ebfc4c52ddb654b25c5d]{
+-- Page 10002, Offset 4982.
+-- 朝がたシエル先輩が来たというし、茶道室に行けば会えるかもしれない。
+-- TRANSLATION HERE
+}
+[sha:5112526caacdce0237f0b0dd7c8eaacb7dff09be]{
+-- Page 55, Offset 4983.
+-- 「と、その前に……」
+-- TRANSLATION HERE
+}
+[sha:d2c0f6cbf341eb2d8c1358394453b7ec92316ac6]{
+-- Page 55, Offset 4984.
+-- 手ぶらで遊びにいくのはよろしくない。ちょっとだけ寄り道をしていこう。
+-- TRANSLATION HERE
+}
+[sha:cd8b9af18e37bc2ac7f563eca7730728f526cc4f]{
+-- Page 56, Offset 4985.
+-- 物資の調達に思いのほか時間がかかってしまった。
+-- TRANSLATION HERE
+}
+[sha:219684ac0123700a59bf9bebd74938fd39e4e751]{
+-- Page 56, Offset 4986.
+-- 茶道室の扉をノックする。
+-- TRANSLATION HERE
+}
+[sha:b1bfcb50f41d0d5440c9bc2a56a3c0615fef31cf]{
+-- Page 56, Offset 4987.
+-- しばらく待つと、がらりと扉が開いて先輩が顔を出した。
+-- TRANSLATION HERE
+}
+[sha:817dc9e3754cb4a799c3c10d31a7c2d0252ce8e5]{
+-- Page 57, Offset 4988.
+-- 「あれ？　遠野くんですね」
+-- TRANSLATION HERE
+}
+[sha:0be6bec2655e65629b5894b187ac0b35867bd6a3]{
+-- Page 57, Offset 4989.
+-- 不思議そうに先輩は首をかしげている。
+-- TRANSLATION HERE
+}
+[sha:01f12f9f98fea317abb6ecb296cdc9dfeb209e4f]{
+-- Page 58, Offset 4990.
+-- 「先輩。お昼ごはん、一緒に食べません？」
+-- TRANSLATION HERE
+}
+[sha:cc3bfbc1e12f87c6ddbe8a846f74bd86c3a8e3bc]{
+-- Page 58, Offset 4991.
+-- 「お昼ごはんですか。
+-- TRANSLATION HERE
+}
+[sha:133c56966c33ed7d8bad583fcc790146c74918d3]{
+-- Page 58, Offset 4992.
+-- 遠野くんからのお誘いは嬉しいんですけど、その―――」
+-- TRANSLATION HERE
+}
+[sha:18b29575a18ea42fc61a354e5dff67e4952c77c2]{
+-- Page 59, Offset 4993.
+-- 雲行きがよろしくない。
+-- TRANSLATION HERE
+}
+[sha:dae80b982ecf02ac737f6b629b9ee18c249ee973]{
+-- Page 59, Offset 4994.
+-- 他に気になる用事でもあるのか、先輩は誘いを受けるかどうか悩んでいるふうだ。
+-- TRANSLATION HERE
+}
+[sha:b965da03a6d2ac71fe3c8263728bf90352fc857f]{
+-- Page 59, Offset 4995.
+-- では、ちょっとした小技を一つ。
+-- TRANSLATION HERE
+}
+[sha:e0f60729279a5b1f4992a3ffe72a4b3b3d46b49f]{
+-- Page 60, Offset 4996.
+-- 「カレーパン、ありますけど」
+-- TRANSLATION HERE
+}
+[sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
+-- Page 60, Offset 4997.
+-- 「え―――？」
+"¿Eh―――?"
+}
+[sha:4f79f7a4097ead0cb26cda139e94708444c8286b]{
+-- Page 61, Offset 4998.
+-- 先輩の表情が目に見えて輝きだした。
+-- TRANSLATION HERE
+}
+[sha:6f3232371049456b7006eae6e3e7928689132a83]{
+-- Page 61, Offset 4999.
+-- ……なにこれ。上級生に対して失礼なんだけど、すごい可愛いぞこの人……。
+-- TRANSLATION HERE
+}
+[sha:bdca4e665aded2a4d8513aca47d6ed22e6acbb5d]{
+-- Page 62, Offset 5000.
+-- 「どうでしょう。昨日のお昼ごはんのお返しにあげますから、一緒に食べません？」
+-- TRANSLATION HERE
+}
+[sha:41d36fb918baf1701c52169eaab36af01bf874d5]{
+-- Page 63, Offset 5001.
+-- 「そ、それはご丁寧に、どうも。
+-- TRANSLATION HERE
+}
+[sha:6317dda0b2bdf76921a307e25812abc25a19fd18]{
+-- Page 63, Offset 5002.
+-- ……そうですね。昨日のお礼、というコトでしたら、断る理由はありません」
+-- TRANSLATION HERE
+}
+[sha:199df23c4bde6046aba10a09c2170daf22520ad3]{
+-- Page 63, Offset 5003.
+-- 先輩は眼鏡をカチャカチャいじりながら身を引いて、俺を茶道室の中に入れてくれた。
+-- TRANSLATION HERE
+}
+[sha:b7c2696ff83ba9cc1c501d69d18d11e617e9013d]{
+-- Page 64, Offset 5004.
+-- 「どうぞ、楽にしていてください。
+-- TRANSLATION HERE
+}
+[sha:f9a6a3e1df7d39116c3aa052e77441ba6d4c193e]{
+-- Page 64, Offset 5005.
+-- ちょうどお茶の用意をしていたところですから」
+-- TRANSLATION HERE
+}
+[sha:1f9de134987c7b4faccd6aa2f6470b2966b4b88c]{
+-- Page 65, Offset 5006.
+-- 先輩は隣りの部屋に入っていった。
+-- TRANSLATION HERE
+}
+[sha:e39ad6deb195eeeb8122f8611c03d3ab794baff7]{
+-- Page 65, Offset 5007.
+-- あっちが給湯室なんだろう。
+-- TRANSLATION HERE
+}
+[sha:ee6d6c3f84525a9c0c11f82654cb7b6c5457b6d1]{
+-- Page 66, Offset 5008.
+-- 「あ……」
+"Ah..."
+}
+[sha:cfe406a481150972a6437fce34e1fb540b5869d3]{
+-- Page 66, Offset 5009.
+-- 茶道室に入って、先輩が思案していた理由がはっきりした。
+-- TRANSLATION HERE
+}
+[sha:ef251467d99fec947d9e74a83792aff465245f04]{
+-- Page 66, Offset 5010.
+-- 畳の上には空っぽになった弁当箱が一つ。
+-- TRANSLATION HERE
+}
+[sha:69a53f0dca93032ee5b124aa5ae165a61514e266]{
+-- Page 66, Offset 5011.
+-- 先輩はとっくに昼食を食べ終えていたらしい。
+-- TRANSLATION HERE
+}
+[sha:a0efc7a19b9439b0029ca9501603d883a9842ae5]{
+-- Page 67, Offset 5012.
+-- 「遠野くん、お茶と紅茶どっちがいいですか？」
+-- TRANSLATION HERE
+}
+[sha:35d0bb6f643a61e855a43e2c11b12a099fb8d1fc]{
+-- Page 67, Offset 5013. Mods: @n.
+-- 「お茶でお願いします。
+-- TRANSLATION HERE
+}
+[sha:cbec4e34a4513bbe95641902b2f181a58b5d54c0]{
+-- Page 67, Offset 5014.
+-- それより先輩、お昼済ませてたんですか？」
+-- TRANSLATION HERE
+}
+[sha:363bb4cae2a4ef45c24d2bc0295c80097020eac7]{
+-- Page 68, Offset 5015.
+-- 「ええ、ちょっと前に。今日は寝坊してしまったので、朝ごはんを食べてなくて。午前中はおなかがペコペコで大変でした」
+-- TRANSLATION HERE
+}
+[sha:ee2719da3f89e0b640a0b793a0edfbb6f1e742e3]{
+-- Page 69, Offset 5016.
+-- 「……そっか。ごめん、邪魔しちゃって。
+-- TRANSLATION HERE
+}
+[sha:fa17e214e4ff04fe16e14d94dd61eb0f1b92a359]{
+-- Page 69, Offset 5017.
+-- 俺、教室で食べるからゆっくりしててください」
+-- TRANSLATION HERE
+}
+[sha:77a6ca9c34843879a2b693ae4c21acd2b2d750e8]{
+-- Page 70, Offset 5018.
+-- 「え―――パン、いただけないんですか？」
+-- TRANSLATION HERE
+}
+[sha:9165a5b836647b6176ef907e359707b86df996f3]{
+-- Page 70, Offset 5019.
+-- ひょい、と給湯室から顔をだす先輩。その顔はクリスマスにプレゼントが届かなかった子供そのものだ。
+-- TRANSLATION HERE
+}
+[sha:dadcf920dc183bbc820a2e202ca7e89b55f710da]{
+-- Page 71, Offset 5020.
+-- 「いや、だって……おなかいっぱいでしょ、先輩」
+-- TRANSLATION HERE
+}
+[sha:f96a671c7e7701ed968e6867092af7db9ff2440f]{
+-- Page 71, Offset 5021.
+-- 「そんなコトないです。わたし、おなか減ってます」
+-- TRANSLATION HERE
+}
+[sha:de05a7b707a83d481bc3fbf9d0f18a914039c7af]{
+-- Page 72, Offset 5022.
+-- 即答だった。
+-- TRANSLATION HERE
+}
+[sha:ef468afb16c0ca705e1ae6e384a1ef1cbaff5ed6]{
+-- Page 72, Offset 5023.
+-- 俺に気を使ってくれている……というワケではなさそうだ。
+-- TRANSLATION HERE
+}
+[sha:4b386b7d709598394cf279549a4eeaaa8ad5c579]{
+-- Page 73, Offset 5024.
+-- 「それならいいけど。先輩、ホントに大丈夫？
+-- TRANSLATION HERE
+}
+[sha:3766723e1b5480591b800201e18b3f11c30c9f51]{
+-- Page 73, Offset 5025.
+-- 例のカレーパン、けっこうボリュームありますよ？」
+-- TRANSLATION HERE
+}
+[sha:16f42dac53cef4392b75ffbb355724b363ac033d]{
+-- Page 73, Offset 5026.
+-- 「ご心配にはおよびません。わたし、好きなものならわりと限界なくいただけちゃいますから」
+-- TRANSLATION HERE
+}
+[sha:5af760d46ea966804d4641eed65c8a6378a9b539]{
+-- Page 74, Offset 5027.
+-- それは昨日で把握していますとも。
+-- TRANSLATION HERE
+}
+[sha:f674a2ea9fb353cf49a8ad5bbd2d01a695260ed8]{
+-- Page 74, Offset 5028.
+-- 先輩のはにかんだ笑顔は昼食のおかわりに照れているのではなくて、純粋にカレーパンが楽しみだからだろう。
+-- TRANSLATION HERE
+}
+[sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
+-- Page 75, Offset 5029.
+-- 「……………」
+"........."
+}
+[sha:8fde5df1a8fcf808342a5a8153d99e58278e2483]{
+-- Page 75, Offset 5030.
+-- ……謎な人だ。
+-- TRANSLATION HERE
+}
+[sha:f6196e6e7f92993169626041fbf07964cd508aba]{
+-- Page 75, Offset 5031.
+-- カレーパンひとつでここまで喜んでくれるなんて、いまどき貴重な人材かもしれない。
+-- TRANSLATION HERE
+}
+[sha:b5430117baefb723c21a2928707e4228bf9a10c1]{
+-- Page 76, Offset 5032.
+-- 先輩はパンをひとつ、こっちはふたつ食べて、食後のお茶とあいなった。
+-- TRANSLATION HERE
+}
+[sha:4c15903352aadd36f50496c2beedec8bb187227b]{
+-- Page 76, Offset 5033.
+-- 畳の上に正座をして、先輩とのんびりお茶を楽しむ。
+-- TRANSLATION HERE
+}
+[sha:d5d9c403dc7db110e6fdcedb6faf73518edc8468]{
+-- Page 77, Offset 5034.
+-- 「そういえば朝のニュース、見ましたよ。
+-- TRANSLATION HERE
+}
+[sha:b094d7362abcf46e5d30554d0a61d34968e7b6c4]{
+-- Page 77, Offset 5035.
+-- 遠野くん、新しいお家の方はどうですか？　なにか大変な事になっていたみたいですけど」
+-- TRANSLATION HERE
+}
+[sha:dcd0c89d24c71bdc03538e8f131d68f4aef6d2f3]{
+-- Page 78, Offset 5036.
+-- 「ニュースですか？」
+-- TRANSLATION HERE
+}
+[sha:6783a8f5e92af194ab2d439e16813605dd5bfb0a]{
+-- Page 78, Offset 5037.
+-- ……ああ、例の血痕の件で、警察が事情聴取にきたと翡翠が言っていたっけ。
+-- TRANSLATION HERE
+}
+[sha:18e842986c83fefa5c012a504d6c042673535ef1]{
+-- Page 79, Offset 5038.
+-- 「あのニュースとうちは無関係ですよ。屋敷の感想だって、中はすごく立派で、夜は野犬がうるさかったぐらいだし。
+-- TRANSLATION HERE
+}
+[sha:9d7c9036d797c685ce69474abfc38aee2101e07b]{
+-- Page 79, Offset 5039.
+-- しいて言うんならテレビがないのと和室がないのがネックかな。こんなふうにお茶を飲める場所がありませんから」
+-- TRANSLATION HERE
+}
+[sha:8b27b581595a228e25bdc1f8330ad69cb21db3ba]{
+-- Page 80, Offset 5040.
+-- 「？　野犬って、なんですかそれ。遠野邸の前で起きたのは例の通り魔事件なんじゃないですか？」
+-- TRANSLATION HERE
+}
+[sha:18f0b034f1910d018825a93db570a59e90a5af38]{
+-- Page 80, Offset 5041.
+-- 「やだな、そんな事になってたらもっと大騒ぎになってます。
+-- TRANSLATION HERE
+}
+[sha:82f91f1aa289292c86432208a1d61c24f35296b6]{
+-- Page 80, Offset 5042.
+-- 血痕があっただけで事件性はありません。
+-- TRANSLATION HERE
+}
+[sha:8444c4e3d35382dcda89b06926ad966f8144fdde]{
+-- Page 80, Offset 5043.
+-- ……まあ、でも―――」
+-- TRANSLATION HERE
+}
+[sha:596ba256320f95e06b615081f7f0025571d01365]{
+-- Page 81, Offset 5044.
+-- あの場所は、深夜に野犬を見に行った場所なんだ……とは言えなかった。
+-- TRANSLATION HERE
+}
+[sha:7ab585e592e1589613f2b12d4deb98b3c710c8a2]{
+-- Page 82, Offset 5045.
+-- 「いえ、ただの勘違いです。なんにせよ俺たちには関係のない話です。せっかく先輩とのんびりしてるんですから、イヤな話をするのはよしましょう」
+-- TRANSLATION HERE
+}
+[sha:e6ab5f3550b549c2f47f645584a591b8121f932e]{
+-- Page 83, Offset 5046.
+-- 「そんなことありませんっ。少なくともこの街で暮らしているんですから、通り魔事件は関係あると思います！　遠野くんはちょっと危機感が足りないのではないでしょうかっ！」
+-- TRANSLATION HERE
+}
+[sha:14d9d0d76d4fb7d05fd0f7637e588da7f3af5315]{
+-- Page 83, Offset 5047.
+-- 先輩は大げさに声を荒立てた。
+-- TRANSLATION HERE
+}
+[sha:5fb44da49728f6839a0b144063287cc1a37c39ba]{
+-- Page 83, Offset 5048.
+-- 不真面目な後輩を叱る、頼れる先輩像そのものだ。
+-- TRANSLATION HERE
+}
+[sha:4f36e394862233d8be383529de23cf76098f4cc3]{
+-- Page 84, Offset 5049.
+-- 「でも、危険なのは夜の外出だけでしょう？
+-- TRANSLATION HERE
+}
+[sha:82b2d8098b1c797ec5ac4ce8424ff14a6db31e9a]{
+-- Page 84, Offset 5050.
+-- 犠牲者は八人も出ているんですから、警察だってじき犯人を捕まえるだろうし」
+-- TRANSLATION HERE
+}
+[sha:7c405c6c25156e1ad68748c72aa07fe5c3a5b4e9]{
+-- Page 85, Offset 5051. Mods: @n.
+-- 「もうっ。そんなコトを言っていると寝首をかかれますよ。
+-- TRANSLATION HERE
+}
+[sha:f8a7963fc9bad0cd78ed22b3916a451da690998a]{
+-- Page 85, Offset 5052.
+-- ニュースだって三人目の頃から同じコトを言っていましたけど、結局、犯人はまだ捕まっていないじゃないですか」
+-- TRANSLATION HERE
+}
+[sha:c55c98f44aa95b2745a2c8ab173199550c72d03e]{
+-- Page 86, Offset 5053.
+-- ……それはその通りだ。
+-- TRANSLATION HERE
+}
+[sha:017f88bcf40653dbea7bb8bea279da77b54d0348]{
+-- Page 86, Offset 5054.
+-- この現代日本でここまで殺人事件が続くなんて、異常を通り越して超常と言ってもいいレベルかもしれない。
+-- TRANSLATION HERE
+}
+[sha:2514f5dddb4e72f817a3a78a9d93e153d99ae18c]{
+-- Page 87, Offset 5055.
+-- 「……そうでした。現代の吸血鬼、なんてふざけたテロップがうたれてるから、身近な出来事の気がしなかったというか……たしかに軽率でした。俺だってこの街に住んでいるんだから、気をつけなくちゃいけないのに」
+-- TRANSLATION HERE
+}
+[sha:8514a2eff026b06c23f05d29ba2191f38372963f]{
+-- Page 88, Offset 5056.
+-- 「はい。分かってくれればいいんです。
+-- TRANSLATION HERE
+}
+[sha:24b3766492d6e3a8d672e637ae442e0b97b5d3d6]{
+-- Page 88, Offset 5057. Mods: @k, @e.
+-- 本当に、くれぐれも知らない人についていっちゃダメですよ。……もし犯人が吸血鬼扱いされて喜んでいる異常者だとしたら、遠野くんは格好の餌食かもしれません。
+-- TRANSLATION HERE
+}
+[sha:eb6b54ff584fbfda5cc079697719c14e6d06a675]{
+-- Page 88, Offset 5058. Glued. Mods: @x.
+-- どことなく美味しそうな雰囲気ですから」
+-- TRANSLATION HERE
+}
+[sha:6e5bf8c45eacd4680d8b42aaf9df1b968d13d3d6]{
+-- Page 88, Offset 5059.
+-- 「……いや、あの、先輩？　その喩えはどうかと」
+-- TRANSLATION HERE
+}
+[sha:f0bf03a8fcbb7f52a8e446e339725adcf3ddc364]{
+-- Page 89, Offset 5060.
+-- 縁起でも無いことを言わないでほしい。
+-- TRANSLATION HERE
+}
+[sha:b692cb58457b3d0b55ba6d949d7d9f2cf3b5bca6]{
+-- Page 89, Offset 5061.
+-- だいたい慢性的な貧血なんだから、吸血鬼にとって俺なんかは対象外だろう。
+-- TRANSLATION HERE
+}
+[sha:bd3c47dddb7cd13870c9643cea97c7faf21a5c6a]{
+-- Page 90, Offset 5062.
+-- 「でも真面目に考えるとおかしな話ですね。吸血鬼って言うけど、どうしてそんなあだ名をつけたんでしょう」
+-- TRANSLATION HERE
+}
+[sha:a096ff3b14a2f8897f3cdcddc0b7bfec1b52361e]{
+-- Page 90, Offset 5063.
+-- 「？　体じゅうの血を抜かれているんですよ？　吸血鬼という比喩表現は間違っていないでしょう？」
+-- TRANSLATION HERE
+}
+[sha:3bc1a02e17a02a485378b1a9fc97c0004c724974]{
+-- Page 91, Offset 5064.
+-- 「……そうですかね。吸血鬼に吸われた人間って、同じように吸血鬼になるってのが通説じゃないですか。
+-- TRANSLATION HERE
+}
+[sha:7a99064b3f83bba53fc0a811a8e96a084a40a753]{
+-- Page 91, Offset 5065.
+-- なのに殺されてしまった人の死体はちゃんとあって、吸血鬼になって歩き回ってるワケでもない。わざわざ怪談めいたあだ名をつけなくても、ただの殺人事件で充分でしょうに」
+-- TRANSLATION HERE
+}
+[sha:dbaf8fe8e5196b76326d8f106d4999e7b16ee8ef]{
+-- Page 92, Offset 5066.
+-- 「遠野くん、吸血鬼がいるって本気で信じてるんですか？」
+-- TRANSLATION HERE
+}
+[sha:3cd1ad730bf635cc17a5c3ac4d18db7ed8f4ba8f]{
+-- Page 92, Offset 5067.
+-- 「……あのですね。ニュースでそう煽っているから合わせただけです。本当に吸血鬼なんてのがいたら、さっき言った通り死体なんか残らないでしょ」
+-- TRANSLATION HERE
+}
+[sha:f2d412ad10b9b6adf2aefc0dcdca9c44d42e1d21]{
+-- Page 93, Offset 5068.
+-- 「そうですね。けど、こういう風にも考えられません？
+-- TRANSLATION HERE
+}
+[sha:360333e8511c9279fe9e3c25744cfdb819f57879]{
+-- Page 93, Offset 5069.
+-- 発見されている死体の方たちは、吸血鬼に<な|・><れ|・><な|・><か|・><っ|・><た|・><か|・><ら|・>死んでしまった。
+-- TRANSLATION HERE
+}
+[sha:89e2d64077214e1ec8f95623d88994981d9749d6]{
+-- Page 93, Offset 5070.
+-- 吸血鬼には“なれる人”と“なれない人”がいて、なれる人は吸血鬼に襲われても死体としては発見されないんです。だって今も、どこかでひっそり生きているから」
+-- TRANSLATION HERE
+}
+[sha:7b6519ac8853d0794e5744a0c8e3324da993203d]{
+-- Page 94, Offset 5071.
+-- 「ははあ。そりゃあホラーだね、先輩」
+-- TRANSLATION HERE
+}
+[sha:1b0038deef14802fc981ac453e0bb7b2fc2c545c]{
+-- Page 94, Offset 5072.
+-- 「はい、わりとホラーな話です。
+-- TRANSLATION HERE
+}
+[sha:baecaea05697ad2d54dd4280cf3ef31d9a2d346a]{
+-- Page 94, Offset 5073.
+-- 残念ですがオチはつきませんでした」
+-- TRANSLATION HERE
+}
+[sha:32c365e4fb67fff4228e80e308f279283e9b7a70]{
+-- Page 95, Offset 5074.
+-- にっこりと笑って先輩は湯のみを口にする。
+-- TRANSLATION HERE
+}
+[sha:4454cb28a76409d26b7005916fd1b6e2cc8a6ea9]{
+-- Page 95, Offset 5075.
+-- そんなとりとめのない事を話しているうちに、昼休みは終わってしまった。
+-- TRANSLATION HERE
+}
+[sha:bc49f4b8b9b6cc4f69f8350cb8e4ca0994998c9e]{
+-- Page 96, Offset 5076.
+-- 先輩は後片付けがあるというので、一足先に廊下に出た。
+-- TRANSLATION HERE
+}
+[sha:d7c16cb51e2e18c7a808fdfaadc8b9900c48276d]{
+-- Page 96, Offset 5077.
+-- ここは先輩の厚意に甘えて教室に帰ろう、と茶道室に背を向ける……と。
+-- TRANSLATION HERE
+}
+[sha:8ac85c6c6196e3ec4b303efed71b9c5aae2ee9c5]{
+-- Page 97, Offset 5078.
+-- 「あらら？　もしかして志貴クン？
+-- TRANSLATION HERE
+}
+[sha:f46d09b668d4b9c758c39b7b07ddb380630f643e]{
+-- Page 97, Offset 5079.
+-- こんなところにいるなんて、意外ね」
+-- TRANSLATION HERE
+}
+[sha:f3630132718064fe95c0a0c3aebff7ac4110eadc]{
+-- Page 97, Offset 5080.
+-- 意外なところでノエル先生と出くわした。
+-- TRANSLATION HERE
+}
+[sha:59f6230ee7c2b89465c4165b6025b84cb57983fc]{
+-- Page 98, Offset 5081.
+-- ノエル先生は右手に銀色のアクセサリーを握っている。
+-- TRANSLATION HERE
+}
+[sha:dacc7be1717a5c4f995a35e768700bad836e9d81]{
+-- Page 98, Offset 5082.
+-- あれは十字架……だろうか。
+-- TRANSLATION HERE
+}
+[sha:fc591f2f052c12ff87c7750ac61a9aa49e267aba]{
+-- Page 99, Offset 5083.
+-- 「ああ、これ？　言ったでしょ、趣味で副業しているって。
+-- TRANSLATION HERE
+}
+[sha:e2b6044872d6000b09472d563011754d79a2f48d]{
+-- Page 99, Offset 5084.
+-- あっちの棟は騒がしいから、静かな部室棟で日課のお祈りをしに来たの。
+-- TRANSLATION HERE
+}
+[sha:11559a08975c2e20458bcf1b0ce72c38bd3f7de4]{
+-- Page 99, Offset 5085. Mods: @k, @e.
+-- そんな事より、志貴クンは何をしているのかしら？
+-- TRANSLATION HERE
+}
+[sha:3019ed026dab6db0ebf15d648ab65b06ea3347c7]{
+-- Page 99, Offset 5086. Glued. Mods: @x.
+-- もしかして、このあたりに秘密の密会場所でもあるの？」
+-- TRANSLATION HERE
+}
+[sha:a8438f79d9a347db0f0b21135133e536ec153b83]{
+-- Page 100, Offset 5087.
+-- 「え……いえ、それは―――」
+-- TRANSLATION HERE
+}
+[sha:074c797b611aeac44d3850ade875cb353250e4f5]{
+-- Page 100, Offset 5088.
+-- 茶道部の先輩に会いに来ただけです、とは言えなかった。
+-- TRANSLATION HERE
+}
+[sha:5509dbef1d578d05c4d1a723dc00c0a6846bc4f2]{
+-- Page 101, Offset 5089.
+-- 「いえ、気晴らしに歩いていただけです。
+-- TRANSLATION HERE
+}
+[sha:e35369228b96bb34c8b556615d52ff02703ae5d3]{
+-- Page 101, Offset 5090.
+-- お昼がまだなんで、そろそろ食堂に戻ろうかなって」
+-- TRANSLATION HERE
+}
+[sha:b99ad7a74dc8d82f024a225965eaee8285137001]{
+-- Page 101, Offset 5091.
+-- できるだけ自然に、曖昧な物言いで取り繕う。
+-- TRANSLATION HERE
+}
+[sha:45cadb0aaddf87339219abc70119d532098c8eff]{
+-- Page 102, Offset 5092.
+-- 「それはそれは。ゴハンより先に散歩なんて、余裕のある大学生みたい。志貴クン、もしかして音大とか目指してる？」
+-- TRANSLATION HERE
+}
+[sha:33c26d0481763d59f633ac6aad33909fbb55b0b4]{
+-- Page 102, Offset 5093.
+-- 「？　いえ、音楽に興味はありませんけど……なんで？」
+-- TRANSLATION HERE
+}
+[sha:e8502fbeda703fd0e1fed7ebc909592d25e8132f]{
+-- Page 103, Offset 5094. Mods: @k, @e.
+-- 「んー、
+-- TRANSLATION HERE
+}
+[sha:6965899063bece8dfd19c47a7947cfaa1ce3ce53]{
+-- Page 103, Offset 5095. Glued. Mods: @x.
+-- 聞いてみただけサ！
+-- TRANSLATION HERE
+}
+[sha:cf482ae53a19fb438156ba6fe1490c223e20fd64]{
+-- Page 103, Offset 5096.
+-- はい、それじゃバイバーイ！　食堂、早く行かないと昼休み終わっちゃうゾ☆」
+-- TRANSLATION HERE
+}
+[sha:3f029a70f993dacbcc0ea645bc19becf71bfc2e5]{
+-- Page 104, Offset 5097.
+-- ノエル先生はじゃあね、とウインクをしながら、手にした銀のアクセサリーに唇をふわりと押しつけた。
+-- TRANSLATION HERE
+}
+[sha:0e16019fbb14746f88e698aea00e8b3b3a0bb713]{
+-- Page 104, Offset 5098.
+-- かつん、かつん、と<堅い靴|パンプス>の音が部室棟の奥へと消えていった。
+-- TRANSLATION HERE
+}

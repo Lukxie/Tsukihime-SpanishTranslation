@@ -1,0 +1,54 @@
+[sha:c00c7a16dab5721a131cea493bbdb88e4d653d5a]{
+-- Page 10005, Offset 5800.
+-- 「はーい、お待たせしましたー♪
+"Vale, siento haberte hecho esperar ♪
+}
+[sha:8195b0fe54f487a2cba737a5dd9b16a4a1884a42]{
+-- Page 10005, Offset 5801.
+-- 梅じそと卵のお粥、登場です！」
+¡Aquí vienen las gachas con salsa de ciruela y huevo!"
+}
+[sha:219c7fc760c8833eaf048d457d50625ae6e7c7b8]{
+-- Page 10005, Offset 5802.
+-- 元気いっぱいにワゴンを押して琥珀さんがやってくる。
+// serving cart = carro de servicio? queda raro
+Kohaku-san entra, empujando un carrito vigorósamente.
+}
+[sha:32d37d81274fff67d3904cb83ea46596a6dda64e]{
+-- Page 96, Offset 5803.
+-- 「お喋りはここまでだな。
+"Hemos hablado demasiado.
+}
+[sha:aac31667b2533c0caa053e7db01a0d47194e7c4b]{
+-- Page 96, Offset 5804.
+-- 時間もないし、チャチャっと食っちまおう」
+No tengo mucho tiempo, así que mejor que engulla esto rápido."
+}
+[sha:bc82379a7fc428805c732d6837cfd0caa76dc8f8]{
+-- Page 97, Offset 5805.
+-- 「兄さん。その乱暴な言葉<遣|づか>いはやめてください」
+"Nii-san, deja de usar lenguaje tan vulgar por favor."
+}
+[sha:f9f15492d2faeecae0b37dd1af09582ebd6ae36a]{
+-- Page 97, Offset 5806.
+-- 「ありゃ、すっかりもとの調子に戻ったか。俺の心配をしてくれていた方がおとなしくて良かったのに」
+"Ey, has vuelto a la normalidad.
+ Me gustaba más cuando te preocupabas por mi tranquilamente."
+}
+[sha:08b48af24e6d23c01921c03786cbec65e178cd9b]{
+-- Page 98, Offset 5807.
+-- 「馬鹿な発言も控えてください。戻るも戻らないも、私、兄さんの心配なんてしていませんので」
+"Abstente de hacer tales comentarios infundados.
+ No es como si estuviera preocupada por si ibas a volver o no."
+}
+[sha:0119701d394af028cc553acde08a47edc2304cd0]{
+-- Page 99, Offset 5808.
+-- 秋葉はぷいと顔を背ける。
+Akiha mira altivamente a otro lado.
+}
+[sha:175b0123392a2624c4ffbb6a987b237025d41196]{
+-- Page 99, Offset 5809.
+-- それを微笑ましく眺めながら、琥珀さんのお粥をありがたくいただく事にした。
+Mientras contemplo su encantadora exhibición,
+ doy las gracias a Kohaku-san por las gachas.
+}

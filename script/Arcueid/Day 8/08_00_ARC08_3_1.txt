@@ -1,0 +1,430 @@
+[sha:2713db174a9dc6ad2ded07febce4536ec8b084a1]{
+-- Page 10010, Offset 20063.
+-- 兵は神速を<尊|たっと>ぶという。
+-- TRANSLATION HERE
+}
+[sha:70d6de0a39f4f90f4348201bd03bbef73d3efd29]{
+-- Page 10010, Offset 20064.
+-- 災害の芽はできるだけ早くに摘むべきだ。
+-- TRANSLATION HERE
+}
+[sha:0d03b9c7a9743a152112a34a06fe321fcb978ace]{
+-- Page 10010, Offset 20065.
+-- あの白いお方がおもしろおかしいトラブルを起こす前に、とにかく学校から連れ出すべきだと思う。
+-- TRANSLATION HERE
+}
+[sha:9a3cd5cbbddc0a769df745fd5e24191b51923fa2]{
+-- Page 161, Offset 20066.
+-- 「先生、気持ち貧血なので保健室に行ってきます」
+-- TRANSLATION HERE
+}
+[sha:98143d89e1d272ab84526a88d88d88846d3aff86]{
+-- Page 161, Offset 20067.
+-- 挙手をしつつ席を立ち、脇目もふらず廊下に向かう。
+-- TRANSLATION HERE
+}
+[sha:1e0d326a3321f456d901a5c2f992455069f6a4b8]{
+-- Page 161, Offset 20068.
+-- 許可を貰っている余裕はない。
+-- TRANSLATION HERE
+}
+[sha:f0abd63c12840572a8098c3df1217b69905d84e2]{
+-- Page 161, Offset 20069.
+-- みんなが呆気にとられている隙に、早足で教室から脱出した。
+-- TRANSLATION HERE
+}
+[sha:38991ef43f8b7f33da53e4ebbefcfb8e878f19f3]{
+-- Page 162, Offset 20070.
+-- 「あ、来た来た。
+-- TRANSLATION HERE
+}
+[sha:f060bd47d4f25464f7edd25cf8d1f01d962b7b6e]{
+-- Page 162, Offset 20071.
+-- そんな全力で走ってくるなんて、志貴ったら元気なんだ」
+-- TRANSLATION HERE
+}
+[sha:956125f972827f97998d60d9a0375c8f18210c86]{
+-- Page 163, Offset 20072.
+-- 「―――――」
+"―――――"
+}
+[sha:8f8b03c93fefdaf3a61e9f14423ff03db35d0069]{
+-- Page 163, Offset 20073.
+-- ……開いた口が塞がらない。
+-- TRANSLATION HERE
+}
+[sha:9d0cf38acb72e955c9e236055421408db8e49833]{
+-- Page 163, Offset 20074.
+-- 対処目標物体は校庭をあっさり通過し、中庭にまで到達していた。
+-- TRANSLATION HERE
+}
+[sha:f0436842a810f0d7c4ed5128e4ad797403bf107d]{
+-- Page 163, Offset 20075.
+-- 良かった。中庭に面した教室が無くて、ホントに良かった。
+-- TRANSLATION HERE
+}
+[sha:01236c1b455f03e79a6843955722b17e81fa0d1b]{
+-- Page 164, Offset 20076.
+-- 「でも、学校って狭くてシンプルなんだね。
+-- TRANSLATION HERE
+}
+[sha:e3dd03eb20d0a18f60edfadb4bf1d5c96ebe7ec5]{
+-- Page 164, Offset 20077.
+-- 外から見た感じ、もっと堅くて頑丈で、蟻塚みたいにばーっと広がってると思ったのになあ。
+-- TRANSLATION HERE
+}
+[sha:ca6d44edcaa9a15bd0331e718e3090f420d7c5a5]{
+-- Page 164, Offset 20078. Mods: @k, @e.
+-- これじゃ普通の建物だよね。うん、子犬っぽい感じでわたしは好きだけど―――
+-- TRANSLATION HERE
+}
+[sha:ff5bf3d85c7f86dd4e36c746539ce6c8039e36fb]{
+-- Page 164, Offset 20079. Glued. Mods: @x.
+-- きゃっ!?」
+-- TRANSLATION HERE
+}
+[sha:e217f52bdd19a7e1cf9dd860176866ee9c84413b]{
+-- Page 165, Offset 20080.
+-- 「―――おまえ、ちょっと来い」
+-- TRANSLATION HERE
+}
+[sha:aae3e59c9033fc88d9b1db299c7f8750093bfc1c]{
+-- Page 165, Offset 20081.
+-- 悠長に挨拶をしている暇はもちろん無い。
+-- TRANSLATION HERE
+}
+[sha:78a94437f510ad75eec55f4942e2b57e07d16b98]{
+-- Page 165, Offset 20082.
+-- 問答無用でアルクェイドの手を掴んで走り出した。
+-- TRANSLATION HERE
+}
+[sha:4ff30fb86879f71a57d8f324eaa7df7b18142558]{
+-- Page 166, Offset 20083.
+-- 人気のない体育館裏に移動する。
+-- TRANSLATION HERE
+}
+[sha:d57a17f6875505236eefabfbdc78a95c7751492f]{
+-- Page 166, Offset 20084.
+-- 時間的に正門から出ては目立ちすぎる。ここは裏門からお帰り願うのが最善手だ。
+-- TRANSLATION HERE
+}
+[sha:61d19c3ae86279edef55aa228c15e704f62c6b87]{
+-- Page 167, Offset 20085.
+-- 「ちょっと、こんな所に連れこんでどういうつもり？
+-- TRANSLATION HERE
+}
+[sha:1e0186021a3c5adcfe33a3613bf91ea6c2251854]{
+-- Page 167, Offset 20086.
+-- ここ、ぜんぜん面白くない」
+-- TRANSLATION HERE
+}
+[sha:e2e2303be246a9ed6b5d096c2df8102d0d58be16]{
+-- Page 168, Offset 20087.
+-- アルクェイドはご不満のようだが、元来学校というのは特に面白い建物ではない。
+-- TRANSLATION HERE
+}
+[sha:673fce60bc5519768ada4bdb70d2cee2d8e60634]{
+-- Page 169, Offset 20088.
+-- 「どういうつもりかぁ？　そりゃあこっちの台詞だ！
+-- TRANSLATION HERE
+}
+[sha:dd37e49f4ac2129864647156b93fd6d1624b6a3e]{
+-- Page 169, Offset 20089.
+-- おまえ、歩く爆弾かなんかなのか!?」
+-- TRANSLATION HERE
+}
+[sha:66fedf93df935b70dc98d3f7d83995f69fdf360c]{
+-- Page 170, Offset 20090.
+-- 「え？　歩く爆弾って……わたしが？」
+-- TRANSLATION HERE
+}
+[sha:809fd0c318515206c8e69e1fb5ecc8cdb8c0564f]{
+-- Page 170, Offset 20091.
+-- 「そうだよ。それでも控えめな描写だよ！
+-- TRANSLATION HERE
+}
+[sha:a13ce1a20088df3995f5187e256b14b492dd268d]{
+-- Page 170, Offset 20092.
+-- ……あのな。なんだって昼間から歩きまわって、かつ俺の学校にやって来てるんだ？　おまえ、昼間は弱くなるんだろ？　傷だって治ってないよな？　なら、夜まで大人しく休んでいるのが吸血鬼ってヤツじゃないのか？」
+-- TRANSLATION HERE
+}
+[sha:2fae26383ecdbbc4ad4214330c953177b0adbf4a]{
+-- Page 171, Offset 20093.
+-- 「……それは、そうだけど。
+-- TRANSLATION HERE
+}
+[sha:d68eab5fe9faa59a7dfe98ee59a40d8b7a4a43f0]{
+-- Page 171, Offset 20094.
+-- 志貴が手伝ってくれるんだし、昼間のうちに手がかりを見つけておこうかなって。
+-- TRANSLATION HERE
+}
+[sha:32ac2218f6dae90a90e370281e399ab0de1103e6]{
+-- Page 171, Offset 20095.
+-- 昨日みたいに、志貴に無駄な事はさせられ―――」
+-- TRANSLATION HERE
+}
+[sha:a6eb046bafafeb008767d39576a4c60e3d484c8d]{
+-- Page 172, Offset 20096.
+-- 「それこそ余分な気遣いだっての。協力すると言った以上、どんな作業だって一緒にやるんだから夜まで待っててくれよ。
+-- TRANSLATION HERE
+}
+[sha:f943bdb6385afe314b969e1e38243af475fe8228]{
+-- Page 172, Offset 20097.
+-- ……はあ。俺を心配させて楽しいのか、おまえは」
+-- TRANSLATION HERE
+}
+[sha:3b3be43ce1469ef4771deddb1b3abf1f8d95e6b6]{
+-- Page 173, Offset 20098.
+-- 「―――うん、ごめんなさい」
+-- TRANSLATION HERE
+}
+[sha:e0924d944e7533162bfd4d60e1144e13088c0b90]{
+-- Page 173, Offset 20099.
+-- 「いや、分かってくれればい―――って、アルクェイド？」
+-- TRANSLATION HERE
+}
+[sha:e7592ec3c521e3ad8b5f1e41e6c58ef49263d901]{
+-- Page 174, Offset 20100.
+-- 「だから心配させて、ごめんなさい」
+-- TRANSLATION HERE
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 174, Offset 20101.
+-- 「――――――」
+"――――――"
+}
+[sha:42d6551dcf617d2b83796db02a10305ebbbbaa11]{
+-- Page 174, Offset 20102.
+-- どくん、と一際高く、心臓が鳴った気がした。
+-- TRANSLATION HERE
+}
+[sha:c76a3ee744c850f9268392ab33839c03efadecac]{
+-- Page 175, Offset 20103.
+-- アルクェイドが素直に謝ってくるなんて……その、思いもしなかったというか、拍子抜けというか……そんな顔をされたら、何も言えなくなるというか―――
+-- TRANSLATION HERE
+}
+[sha:7eea4e48460c260537604053941cd98f13adf15d]{
+-- Page 176, Offset 20104.
+-- 「でも志貴も悪いんだよ。下からずっと見てたのに、わたしに気がついてくれないんだもの。
+-- TRANSLATION HERE
+}
+[sha:aedaf0cd09702b58084eabab8db941d36ef92d59]{
+-- Page 176, Offset 20105.
+-- どこから中に入っていいのか判らないし、いっそのこと志貴のいるトコまで駆けあがるところだったんだから」
+-- TRANSLATION HERE
+}
+[sha:953556be7330df49375a3c3bb8678c95a8c20b49]{
+-- Page 176, Offset 20106.
+-- 「……いや、待て。駆けあがるって、三階の俺の教室まで？」
+-- TRANSLATION HERE
+}
+[sha:23f77e2e716d2109723bcf1aca873538826d00b4]{
+-- Page 177, Offset 20107.
+-- 「ええ、凸凹もあって足場には困りそうにないし、跳びやすいでしょ、あそこ」
+-- TRANSLATION HERE
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 177, Offset 20108.
+-- 「――――――」
+"――――――"
+}
+[sha:e2834b7bb29d61c32893cac0284a3f490e10125c]{
+-- Page 177, Offset 20109.
+-- 前言撤回。
+-- TRANSLATION HERE
+}
+[sha:8b8c090b172a5d0e762bfad948bee39e1bcf607b]{
+-- Page 177, Offset 20110.
+-- こいつは、相変わらずの非常識さだ。
+-- TRANSLATION HERE
+}
+[sha:e5bfe93043d3b17b9e72066370b1ac733b6b4aeb]{
+-- Page 178, Offset 20111.
+-- 「……助かった。そんな事されてたら授業どころの話じゃなかった……」
+-- TRANSLATION HERE
+}
+[sha:39487a8a1bd3f6d01bb1a3bca08a005772e554b6]{
+-- Page 178, Offset 20112.
+-- ふう、と安堵の息をもらす。
+-- TRANSLATION HERE
+}
+[sha:b1d49b55770414c22e655a036b13d690bf32b76c]{
+-- Page 178, Offset 20113.
+-- さっきの校庭での事も、アルクェイドに気づいた生徒は少ないと思う。
+-- TRANSLATION HERE
+}
+[sha:f2bbf7851bc535764059c0fdc04380d68cacf81a]{
+-- Page 179, Offset 20114.
+-- 「とにかく、反省したんならいい。
+-- TRANSLATION HERE
+}
+[sha:dcd184c6e975e28512904eb2880c24b87b576c05]{
+-- Page 179, Offset 20115.
+-- ……それで。うちの学校に何の用なんだよ。手がかりを探しているとか言ってたけど」
+-- TRANSLATION HERE
+}
+[sha:2808fd75a97368ea393ab2261da456f3a137c977]{
+-- Page 180, Offset 20116.
+-- 「なにって、ただの調査よ。ローラー作業ってヤツ？　死者の気配がないんだもの、足で手掛かりを見つけないとね」
+-- TRANSLATION HERE
+}
+[sha:ff22719f34fb1b5d459646523e6cdab0fc4b04f6]{
+-- Page 180, Offset 20117.
+-- 「む……それはご苦労さま。いまが夜だったらなお言うコトないけどな」
+-- TRANSLATION HERE
+}
+[sha:85f35d716fb407cd0353c47795cbbf0f24df7ab6]{
+-- Page 181, Offset 20118.
+-- 「次からは気をつけるわ。
+-- TRANSLATION HERE
+}
+[sha:bd2a6e0d7f48ab4b82ac585c4fa12445bdde0917]{
+-- Page 181, Offset 20119.
+-- それで、このあたりを歩いているうちに志貴の匂いがして、そういえばここって志貴の通っている学校なんだって気がついたら、つい」
+-- TRANSLATION HERE
+}
+[sha:ddcde471b6dad4fac4db9446c0f02819a6490198]{
+-- Page 182, Offset 20120.
+-- 「……校庭に入ってきた、と。
+-- TRANSLATION HERE
+}
+[sha:db41f910a2b8f182dbd09a6b2df79794685c729a]{
+-- Page 182, Offset 20121.
+-- 猫かと思ったけど、犬か、おまえは」
+-- TRANSLATION HERE
+}
+[sha:e5cf103c53e2151571263c336c39c3b8e24dd108]{
+-- Page 183, Offset 20122.
+-- 「失礼ね、ちゃんと確証があったからやってきたのよ。
+-- TRANSLATION HERE
+}
+[sha:856dfe7126e476da663fad9fc909b1a935c2055f]{
+-- Page 183, Offset 20123.
+-- 他の場所に比べて、ここは死者の気配がないんだもの。どんなものか、実際に見ておかないとまずいでしょう？」
+-- TRANSLATION HERE
+}
+[sha:0774168b3e6893619af9191814e9a59f3139e730]{
+-- Page 184, Offset 20124.
+-- 「？　いや、まずくないだろ？　死者の気配がないんなら関係ないって事なんだから。
+-- TRANSLATION HERE
+}
+[sha:ca9c5361ab3ad921cf7a54d4757210c125b0205c]{
+-- Page 184, Offset 20125.
+-- 実際、学校では事件も事故も起きないし、夜になると誰もいなくなる。死者が人間を襲うとしたら、学校じゃなく街に出るだろ」
+-- TRANSLATION HERE
+}
+[sha:949aaea7fc0bd2ce8a8b7a8fb31c00f42fdb548e]{
+-- Page 185, Offset 20126.
+-- 「………まあ、そう言えばそうだけど」
+-- TRANSLATION HERE
+}
+[sha:e03194f50cebc4bd5051508cefce352921fe269e]{
+-- Page 185, Offset 20127.
+-- 「ここに異常なんかないよ。吸血鬼の気配は分からないけど、俺だって死を視る目を持ってるんだ。死者が歩いてれば眼鏡をつけていても異常だって気がつくし」
+-- TRANSLATION HERE
+}
+[sha:4b05eadb13d2880b3e3d3c23796ba3ec54705429]{
+-- Page 186, Offset 20128.
+-- 「わかったわ。
+-- TRANSLATION HERE
+}
+[sha:c23335af925751e582dfc8002b18ac5fecfd8832]{
+-- Page 186, Offset 20129.
+-- 志貴がそう言うんなら、ここに異常はないかもしれない」
+-- TRANSLATION HERE
+}
+[sha:9c45ab950da0eae8346c9c65af751e6368de895d]{
+-- Page 186, Offset 20130.
+-- 「ないかもしれない、じゃなくてないんだって、実際」
+-- TRANSLATION HERE
+}
+[sha:69031f8c51b7cba6bf4f211dc583b93686984ba1]{
+-- Page 186, Offset 20131.
+-- アルクェイドは納得のいかない顔をしたままだ。
+-- TRANSLATION HERE
+}
+[sha:94bc8a707f72721b43e676420201ad05df4f9117]{
+-- Page 187, Offset 20132.
+-- 「―――やば、昼休みになっちゃったか」
+-- TRANSLATION HERE
+}
+[sha:e5e7ee86562fc8f12438b1c94dc33fbc28a32395]{
+-- Page 187, Offset 20133.
+-- いくら体育館裏に人気がないといっても、昼休みになれば通りかかる生徒が出てくるだろう。
+-- TRANSLATION HERE
+}
+[sha:1f587ba8b7ddf7950aba09e7f18551c21913e2ba]{
+-- Page 188, Offset 20134.
+-- 「とにかく、これ以上ここにいられると騒ぎになる。
+-- TRANSLATION HERE
+}
+[sha:53381efc193be281c9f75afc7aa04751ab9d4a7b]{
+-- Page 188, Offset 20135.
+-- ちゃんと約束は守るから、おまえは早く帰って体を休めておくこと。今日の夜にも“敵”とやらに出会うかもしれないんだから」
+-- TRANSLATION HERE
+}
+[sha:ea0a014c64648859f6e7e2d38774de217da05175]{
+-- Page 189, Offset 20136.
+-- 「……ふーん。なんだかわたしを追い出したいみたいな口ぶりね、志貴。そんなに<学|こ><校|こ>にいられると迷惑？」
+-- TRANSLATION HERE
+}
+[sha:184eeaf260fbb18cda78aef09af407ca610fa635]{
+-- Page 190, Offset 20137.
+-- 「迷惑―――じゃないけど、いろいろ頭が痛いんだよ！
+-- TRANSLATION HERE
+}
+[sha:c0331e89ff814a61f8967dc899e31f24e8b1d289]{
+-- Page 190, Offset 20138.
+-- 気に入ったなら、また都合のいい時に案内してやるから今は早く外に出てくれ」
+-- TRANSLATION HERE
+}
+[sha:e217c1e440a9a666751f0ac61ee9ead62094e857]{
+-- Page 190, Offset 20139.
+-- ほらほら、とアルクェイドの背中を押す。
+-- TRANSLATION HERE
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 191, Offset 20140.
+-- 「………………」
+"........."
+}
+[sha:8d3d2f03e628c664c7457992ca4b497ebb455a90]{
+-- Page 191, Offset 20141.
+-- アルクェイドは特に何も言わず、最後まで何か言いたそうな目をして立ち去っていった。
+-- TRANSLATION HERE
+}
+[sha:615b6815debe7412918020aa99cb5f40c8e4376d]{
+-- Page 192, Offset 20142.
+-- ……ふう。
+-- TRANSLATION HERE
+}
+[sha:ee718e181049e06013369db8de3101562fcb7acd]{
+-- Page 192, Offset 20143.
+-- 緊張が解けてようやく一息つけた。
+-- TRANSLATION HERE
+}
+[sha:0b4d64403d094f67a270c9f105dd6e8fdf16bab4]{
+-- Page 192, Offset 20144.
+-- 昼休みになったし、こっちも栄養補給をして午後に備えよう……おや？
+-- TRANSLATION HERE
+}
+[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+-- Page 193, Offset 20145.
+-- 「……？」
+-- TRANSLATION HERE
+}
+[sha:5dad1c0c4f668f6dfec818c39d42cbf03ccc8fb1]{
+-- Page 193, Offset 20146.
+-- いま、駐輪場の陰からかすかな物音がしたような。
+-- TRANSLATION HERE
+}
+[sha:bba302abb2d8cf65cc7d44db4ac07781d5033007]{
+-- Page 193, Offset 20147.
+-- さりげない散歩を装い、物陰まで歩いていく。
+-- TRANSLATION HERE
+}
+[sha:47b453f5ecd14adfccea1e57aeba227980b00eac]{
+-- Page 194, Offset 20148.
+-- はたして、行き止まりには誰もいなかった。きっと野良猫か何かだろう。
+-- TRANSLATION HERE
+}

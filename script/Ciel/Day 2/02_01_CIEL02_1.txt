@@ -1,0 +1,60 @@
+[sha:8b0a661ad62a73600762bf09b1922e0c79a5b266]{
+-- Page 1, Offset 3615.
+-- 午前中の授業は終了した。
+-- TRANSLATION HERE
+}
+[sha:87d1d086877ff0b91e143316c1ecbae6cd840a46]{
+-- Page 1, Offset 3616.
+-- 教室の空気はいつもより浮き足だっている。
+-- TRANSLATION HERE
+}
+[sha:88ba04cb23b0f93836c5f016e0c426ea4a8061f0]{
+-- Page 2, Offset 3617.
+-- ３時限目がノエル先生の授業だったこともあり、男子と女子の摩擦が表面化しつつあるためだ。
+-- TRANSLATION HERE
+}
+[sha:53881202e9f2cb20e21c4349c5db21ab15329af3]{
+-- Page 2, Offset 3618.
+-- ……どうも、ノエル先生は女子グループからは“気に入らない教師”に認定されたらしい。
+-- TRANSLATION HERE
+}
+[sha:7e16cb99117dec333f1d1e78bc40ef0fa988e2fb]{
+-- Page 3, Offset 3619.
+-- ともあれ昼休みになった。
+-- TRANSLATION HERE
+}
+[sha:eca240558a1aaa9151423c7ee795a2c20ff165c2]{
+-- Page 3, Offset 3620.
+-- 大部分は食堂と購買部に移動している。
+-- TRANSLATION HERE
+}
+[sha:a38f65b1a350e78bf805125fd32588f15e7ff514]{
+-- Page 3, Offset 3621.
+-- 教室には……
+-- TRANSLATION HERE
+}
+[sha:98d1536a9fe92718600bb46fb3e2bd1357fa4677]{
+-- Page 3, Offset 3622.
+-- 弓塚をはじめとした女子グループが残っている。
+-- TRANSLATION HERE
+}
+[sha:30b91a89d31f72d3161c255a215bcae06cd7e874]{
+-- Page 4, Offset 3623. Mods: @k, @e.
+-- さて、どこで昼食をとろうか。
+Ahora, ¿dónde debería comer?
+}
+[sha:7da1a9e6be13fd764ae02b25e9e801072170857c]{
+-- Page 4, Offset 42687. Choice.
+-- 食堂で楽に済ませよう。
+-- TRANSLATION HERE
+}
+[sha:7c94fc5b01aaf45d88b2779b1e1222537f3148b3]{
+-- Page 4, Offset 42688. Choice.
+-- パンを買って教室で済ませよう。
+-- TRANSLATION HERE
+}
+[sha:8bb3d70754daeb3ed3015d763e18dee41c1cb0bd]{
+-- Page 4, Offset 42689. Choice.
+-- とりあえず、廊下に出て考えよう。
+-- TRANSLATION HERE
+}

@@ -1,0 +1,31 @@
+[sha:5f14d996da64ea59134bd1672a4bd154bb05b236]{
+-- Page 10007, Offset 3043.
+-- ……不吉な予感から目を背けるように、視線を床に向ける。
+Bajo la mirada al suelo,
+ como si apartase la vista de la premonición de mal agüero.
+}
+[sha:88480669aea90222ad0fc30cabc89290c0eabee4]{
+-- Page 171, Offset 3044.
+-- ……これでいい。
+Así está bien...
+}
+[sha:8a549aea2a7345a59d84739d1dfb4933d3998234]{
+-- Page 171, Offset 3045.
+-- 余計な事は訊かない方がいい。知らない方がいい。
+Es mejor no hacer preguntas innecesarias. Cuanto menos sepas, mejor.
+}
+[sha:0f649e010b20cb44dfa6e95f7b20c0d89ca90b7e]{
+-- Page 171, Offset 3046.
+-- 厭な出来事は、胸の傷跡をえぐるだけだ。
+Las noticias desagradables solo empeorarán la cicatriz de mi pecho.
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 172, Offset 3047.
+-- 「――――――」
+"――――――"
+}
+[sha:4486a269b5f834456becc7be3fb5e3060a96062c]{
+-- Page 172, Offset 3048.
+-- そんな俺の弱さを見透かすように口元を揺らして、ノエル先生は去っていった。
+Noel-sensei sonríe, como si pudiese ver a través de mi cobardía, y se marcha.
+}

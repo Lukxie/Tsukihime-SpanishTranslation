@@ -1,0 +1,533 @@
+[sha:bfcd9d3b361ecf4775d41a17e009fbc0fd325681]{
+-- Page 10005, Offset 4167.
+-- 食堂で朝食をいただいて、ロビーに出る。
+Tras tomar el desayuno en el comedor, voy al vestíbulo.
+}
+[sha:f543ca5618ebab486754e7989884987ee8afd71c]{
+-- Page 10005, Offset 4168.
+-- 後ろには鞄を持った翡翠が付き添ってくれている。
+Hisui va detras de mí, llevando mi bolsa.
+}
+[sha:bc12d92c312004e52327697877f9e21c7ce58fd2]{
+-- Page 10005, Offset 4169.
+-- 鞄ぐらい自分で持つと提案したものの、せめて玄関まではと押し切られてしまった。
+La dije que era capaz de cargar con mi propia bolsa,
+ pero ella insistió en llevarla al menos hasta la puerta.
+}
+[sha:3bf338edd8589b277f41dea8a6db9a13c063deb3]{
+-- Page 86, Offset 4170.
+-- ……俺は秋葉ばかりじゃなく翡翠にも弱いようだ。
+Parece que no solo soy débil ante Akiha, sino que ante Hisui también.
+}
+[sha:baa5892372878a03fc9a98435248c0959c738a41]{
+-- Page 86, Offset 4171.
+-- あ、いや、正しくは、翡翠には甘い、かもしれない。
+Hmm, pensándolo de nuevo,
+ sería mas preciso decir que soy %{i}blando%{/i} ante Hisui.
+}
+[sha:5d994db5b2ca817836e5a46fd20c5978565f659a]{
+-- Page 87, Offset 4172.
+-- 秋葉の場合、単純にあいつの言い分が正しいのでこっちは正当性で負けてしまう。遠野秋葉の立場は、事実として遠野志貴より上にある、というのもある。
+Pierdo contra Akiha porque todo lo que dice es correcto,
+ así que no puedo pensar en ningún contraargumento.
+ Tampoco ayuda que simplemente Tohno Akiha esté en una posición superior a Tohno Shiki.
+}
+[sha:216eea44ffea4c6d65f193cf747d153ebc5b946e]{
+-- Page 88, Offset 4173.
+-- けれど翡翠は真逆だ。
+Pero con Hisui es completamente lo opuesto.
+}
+[sha:f8971aac84cc8a2d4612d271b70d67ee6eb72949]{
+-- Page 88, Offset 4174.
+-- 俺は翡翠に強くでられる立場だが、その強権を振り回そうとは思えない。
+Técnicamente tengo la posición de poder sobre ella,
+ pero no creo que de verdad pueda usar ese poder a mi favor.
+}
+[sha:4c93d6d8ff2f6e160a3d5b0becf11f2e76483601]{
+-- Page 88, Offset 4175.
+-- なんというか、翡翠にじっと見つめられると何でも聞いてあげたくなるというか……。
+No sé por qué, pero cuando me mira, siento que debo escuchar todo lo que tiene que decir...
+}
+[sha:cb37d2ee102b943971c1e501be858c02ab12b841]{
+-- Page 89, Offset 4176. Mods: @n.
+-- 「志貴さん志貴さーん！　ちょっと待ってくださーい！
+"¡Shiki-san, Shiki-san! ¡Espera un momento!
+}
+[sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
+-- Page 89, Offset 4177. Glued.
+-- 」
+"
+}
+[sha:935e339cda73b5a7f38ca6a56472ee2633d37f5d]{
+-- Page 89, Offset 4178.
+-- たたたっ、と琥珀さんが二階から降りてきた。
+Esucho un montón de pasos mientras Kohaku baja corriendo desde la segunda planta.
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 89, Offset 4179.
+-- 「……………………」
+"............"
+}
+[sha:d7c17842ef2641307cb7561104754d5460c04d4f]{
+-- Page 89, Offset 4180.
+-- 翡翠は琥珀さんがやってくると、すい、と身を引いた。
+Hisui se aparta a la que llega Kohaku.
+}
+[sha:6ea67e48ba0e82186e980f898a3bf4d3969cb0aa]{
+-- Page 90, Offset 4181.
+-- 「あれ、琥珀さんは秋葉と一緒じゃなかったの？」
+"Espera, ¿no estabas con Akiha?"
+}
+[sha:1ac6660aa790b7ce801f68fabbb2b1a0a137acc1]{
+-- Page 90, Offset 4182.
+-- 「秋葉さまはお車で学校に向かわれますから。
+"Akiha-sama está siendo llevada a la escuela en coche.
+}
+[sha:3b35760e56f546a842ce587fda75211e60a09982]{
+-- Page 90, Offset 4183.
+-- 今朝は志貴さんにお届け物があるので、屋敷に残らせていただいたんです」
+Se me ha permitido quedarme en la mansión ya que hoy había una entrega para ti."
+}
+[sha:e5a14c7f36b43d99c812d8df6568556d005f1e10]{
+-- Page 91, Offset 4184.
+-- 「お届け物って、俺に？」
+"¿Una entrega? ¿Para mí?"
+}
+[sha:37258a54758b4b85af4e6b783bb746e5f6d1b4bc]{
+-- Page 91, Offset 4185.
+-- 「はい。昨日、有間家のほうから荷物が届いたんですよ」
+"Si. Ayer recibí un paquete de la familia Arima."
+}
+[sha:261b45b21a0960b23622597dc3776ed49ee6af21]{
+-- Page 91, Offset 4186.
+-- ニッコリと琥珀さんは笑みをうかべる。
+Kohaku-san me sonríe de oreja a oreja.
+}
+[sha:147ba958fb58910803b96ea7b8ee94e7861bf4ad]{
+-- Page 92, Offset 4187.
+-- 「……？　いや、俺は自分の荷物は全部持ってきたよ。
+"¿Hmm? Aunque me llevé todas mis cosas.
+}
+[sha:81a7bcc22d7504b88e98eed6905f22a788a40d3a]{
+-- Page 92, Offset 4188.
+-- もともとむこうで使ってたのは有間の家のものだったから、自分の物なんて着てる服ぐらいで……」
+Todo lo que usaba allí pertenecía a la familia Arima originalmente.
+ Prácticamente todo lo que tengo es la ropa a mi espalda..."
+}
+[sha:3da07b7a614b34715abfee780c7e027786597a2c]{
+-- Page 93, Offset 4189.
+-- 「そうなんですか？　こちらが届けられたお荷物ですけど」
+"¿Estas seguro? Aquí está el paquete que ha llegado."
+}
+[sha:0e84401ac471ec2100aae606b40f7e3edc60cab4]{
+-- Page 93, Offset 4190.
+-- 琥珀さんは20センチほどの、細い木箱を手渡してくる。
+Kohaku-san me entrega una caja de madera fina, de unos veinte centímetros de largo.
+}
+[sha:b0c61a35730e4a1d4bae43d14c0fd30a561fd0fe]{
+-- Page 93, Offset 4191.
+-- 重量はあまりない。
+No pesa mucho.
+}
+[sha:4bbda4e9923d89c7b663b067990321100a491364]{
+-- Page 94, Offset 4192.
+-- 「―――琥珀さん。俺はこんなの見た事もないんだけど」
+"―――Kohaku-san. Nunca había visto esto antes."
+}
+[sha:955b396e37add05ce0a57d16aa222f6d63800684]{
+-- Page 94, Offset 4193.
+-- 「志貴さんのお父さまの遺品との事ですけど。志貴さんに譲られるように、と遺言があったとか」
+"Creo que esta era una de las posesiones de tu padre.
+ Aparentemente te la dejó en su testamento."
+}
+[sha:e04068315326086a0721f8a188a9711923d37af8]{
+-- Page 95, Offset 4194.
+-- 「……あの親父が俺に？」
+"¿Mi %{i}padre%{/i} me dejó esto?"
+}
+[sha:e5e64bb577c000b8d8c10642d9bc5fb319e122e8]{
+-- Page 95, Offset 4195.
+-- ……それこそ実感が湧かない。
+Bueno eso es difícil de creer...
+}
+[sha:1ce4024b5b508433d2f4aa905be606885681d89d]{
+-- Page 95, Offset 4196.
+-- 七年前、俺をこの屋敷から追い出した遠野槙久がどうして俺に形見分けをするんだろう？
+¿Por qué Tohno Makihisa, el hombre que hace siete años me echó de esta mansión, iba a dejarme un regalo de despedida?
+}
+[sha:47c7e7daee3759b48032f0d22083ed29b57b370c]{
+-- Page 96, Offset 4197.
+-- 「まあいいや。琥珀さん、これ部屋に置いておいて」
+"Bueno, como sea. Kohaku-san, ¿puedes dejarlo en mi habitación?"
+}
+[sha:956125f972827f97998d60d9a0375c8f18210c86]{
+-- Page 96, Offset 4198.
+-- 「―――――」
+"―――――"
+}
+[sha:39217861af7967e752c20b81839a81f5b568ab7a]{
+-- Page 96, Offset 4199.
+-- 琥珀さんはじーっ、と興味深そうに木箱を見つめている。
+Kohaku-san mira intensamente la caja de madera.
+}
+[sha:5f66233aff9368f4ffc4478ab9f4c0df53aa5dee]{
+-- Page 96, Offset 4200.
+-- なんだか玩具をほしがる子供みたいな仕草だ。
+Se está comportando como un crío obsesionado con un juguete.
+}
+[sha:0a65e8514264d41440be5658797d335c97144f03]{
+-- Page 97, Offset 4201.
+-- 「じーーーーっ」
+// Típico chiiiiiiiiiiiiiiiiiiiiiiiiii pero no se cual sería el sfx en español please help.
+"%{i}Miraaada%{/i}."
+}
+[sha:083a575852a2ec0f9ff0d59a72447d3c8e2ac5e3]{
+-- Page 97, Offset 4202.
+-- 子供そのものだった。
+No, ella %{i}es%{/i} un crío.
+}
+[sha:46456410414c55719f1a819fdfc8203ee8f5757e]{
+-- Page 98, Offset 4203.
+-- 「……わかりました。中身が気になるんですね、琥珀さんは」
+"Vale, entiendo. Quieres ver lo que hay dentro, ¿no?"
+}
+[sha:0e9ef11051ebe79042d94bded6d231ab1cf7c15b]{
+-- Page 98, Offset 4204.
+-- 「いえ、そんな事はないですよ？
+"No, para nada.
+}
+[sha:984ad8a678c2787bfa2edb4130e57c0116add64a]{
+-- Page 98, Offset 4205.
+-- ただ、どんな贈り物なのか興味があるだけで」
+Solo tengo un poco de curiosidad por saber el tipo de regalo que es,"
+}
+[sha:a3a83ec91f4855a4a24c4aba8270d5a0027a6a70]{
+-- Page 98, Offset 4206.
+-- ……いや、十分気になってますよ、家政婦さん。
+No, tienes algo mas que %{i}un poco%{/i} de curiosidad, criada traviesa.
+}
+[sha:15fcb822c358189be3f971ff08bd59c324a91165]{
+-- Page 99, Offset 4207.
+-- 「なら開けてみましょう。せーのっ、はい」
+"Muy bien, vamos a abrirlo pues. ¿Lista? ¡Voilà!"
+}
+[sha:8de4e137449a76c9f8bf22c64b886889629c6245]{
+-- Page 99, Offset 4208.
+-- ズッ、と乾いた音をたてて木箱を開ける。
+La caja de madera se abre con un sonido hueco.
+}
+[sha:6b154fd747cee8c02b16fdaab73f7004b51e2319]{
+-- Page 99, Offset 4209.
+-- 中には15センチほどの、細い鉄の棒が入っていた。
+Dentro hay una fina vara de hierro, de unos quince centímetros de largo.
+}
+[sha:2b32102046797c794a528ec53a000fb16d591942]{
+-- Page 100, Offset 4210.
+-- 「………鉄の棒………だ」
+"Es... una vara de hierro."
+}
+[sha:11b604fc846b8432d402be2b8c11c7ee133a4007]{
+-- Page 100, Offset 4211.
+-- とくに飾り気のない、使い込まれた跡のある鉄の棒。
+No está particularmente adornada,
+ y no presenta ninguna señal de estar muy usada.
+}
+[sha:087cd118b45b6c610133080111c85482132b1b0d]{
+-- Page 101, Offset 4212.
+-- ……こんな骨董品が形見とは、親父はよっぽど俺が気に食わなかったとみえる。
+Mi padre debía odiarme mucho para dejarme esta antigualla como recuerdo...
+}
+[sha:cd8be107067c6e82ddd65a95570da9acf5784fee]{
+-- Page 101, Offset 4213.
+-- それに、親父が使っていた鉄の棒は、もう少し太くて、無骨だった気が―――
+Además, estoy bastante seguro de que las varas de hierro con las que trabajaba mi padre eran mas gruesas y robustas―――
+}
+[sha:0de236300fc8293dad61ab6721301a9165c49a57]{
+-- Page 102, Offset 4214.
+-- 「違いますよ志貴さん。
+"No estoy segura, Shiki-san.
+}
+[sha:ced9b5a4548a30102ae57634a9461dccb4bf6c3b]{
+-- Page 102, Offset 4215.
+-- これ、<果物|くだもの>ナイフなんじゃないでしょうか？」
+Esto es un cuchillo de fruta, ¿no?"
+}
+[sha:f6d0ceee1a7e6b84a0271f6c1e49aa8260b1d81e]{
+-- Page 102, Offset 4216.
+-- 琥珀さんは鉄の棒を箱から取り出す。
+Kohaku saca la vara de hierro de la caja.
+}
+[sha:e9fa7a308d0d0e54d10f3b2b40ae13f00a22f3c4]{
+-- Page 103, Offset 4217.
+-- 「ほら、飛び出しナイフってあるじゃないですか。
+"Sabes, ¿del tipo que tiene una hoja con resorte?
+}
+[sha:7edebc1bd67a852f133f2e3e806f37273296b746]{
+-- Page 103, Offset 4218.
+-- あれと同じみたいです。せーの、はいっ」
+Esta se parece mucho a una de esos.
+ Vale, vamos allá."
+}
+[sha:38b27ebe287f76392641a5d7f5a225ecf91dd58d]{
+-- Page 104, Offset 4219.
+-- パチン、と音がして10センチほどの刃が飛び出した。
+Con un click metálico,
+ la hoja de unos diez centímetros de largo sale de la vara.
+}
+[sha:d279ea6d09481d01b9c71b5aa85a2bc7fad41726]{
+-- Page 104, Offset 4220.
+-- ……なるほど、たしかにこれはナイフだ。
+Huh, de verdad es un cuchillo.
+}
+[sha:7bb5286d6f76cffa393f8322e4cdcac284df8f26]{
+-- Page 105, Offset 4221.
+-- 「中の構造は今風のようですが、外側はずいぶんと古いものみたいですね。ほら、裏に年号も書かれています」
+"El mecanismo interno es moderno, pero el exterior es bastante antiguo.
+ Ves, tiene el año y la era grabados en la parte inferior aquí."
+}
+[sha:d917d1c0e34641cdafbe2230ce65883740629505]{
+-- Page 106, Offset 4222.
+-- 琥珀さんは刃をしまってからナイフを渡してくれた。
+Kohaku-san repliega la hoja y me entrega el cuchillo.
+}
+[sha:e2764dbf4c07665c12d829da2892c65f61131ae4]{
+-- Page 106, Offset 4223.
+-- ……たしかに握りの下のほうに数字が刻まれている。
+Tiene razón, hay unas palabras grabadas al final del mango.
+}
+[sha:0d79c856a12cf5c3a1a63ed053b563936b6a4d75]{
+-- Page 106, Offset 4224.
+-- 七という漢字と、その後には夜という漢字。
+El kanji para 'siete', y a su lado, el kanji para 'noche'.
+}
+[sha:9c384d1de3db65fe54e9c423b65369f1270773ea]{
+-- Page 107, Offset 4225.
+-- 「姉さん、これ年号じゃない。
+"Nee-san, no hay era con ese nombre.
+}
+[sha:8df53e05f46e2fd6299855ad086d0cd70f130e9f]{
+-- Page 107, Offset 4226.
+-- 七つ夜、と書かれているだけよ」
+Simplemente dice %{i}Nanatsu-yoru%{/i}."
+}
+[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+-- Page 107, Offset 4227.
+-- 「っ……！」
+"%{i}Ghuh%{/i}!"
+}
+[sha:4229a1ae9d49fcd6c2c92aec4a9f01dfc63b2143]{
+-- Page 107, Offset 4228.
+-- 振り返ると、今まで黙っていた翡翠が後ろからナイフを覗きこんでいた。
+Al darme la vuelta, veo que Hisui ha estado todo este tiempo mirando desde atrás al cuchillo silenciosamente.
+}
+[sha:d0cc51841589a9022c6debd8403b3421b23ca689]{
+-- Page 108, Offset 4229.
+-- 「び、びっくりしたあ……おどかさないでくれ翡翠。
+"M-Me sorprendiste... no me asustes así, Hisui.
+}
+[sha:49a3be332f55b9a22b4b54955e7dc220787ee956]{
+-- Page 108, Offset 4230.
+-- そんな後ろから覗かなくても、見たければ、ほら」
+No tienes que mirar así por encima de mi hombro. Si quieres ver, aquí tienes."
+}
+[sha:46973e4dfca35b02dd5e94654f89bbfee632472c]{
+-- Page 109, Offset 4231.
+-- 「あ―――――」
+"Ah―――"
+}
+[sha:2a845dfd5a03c2ffee701984009d4b32d15a9aed]{
+-- Page 110, Offset 4232.
+-- 「し、失礼いたしました。
+"M-Mis disculpas.
+}
+[sha:b756c5948bafcc7085a7d9014cbfdb25d89bc4cf]{
+-- Page 110, Offset 4233.
+-- あの―――その短刀があまりに綺麗でしたから、つい」
+Es solo――que esa daga es tan bonita, que no pude resistirme."
+}
+[sha:0a656b55d380726c3228ec97ee13249aa7f0c474]{
+-- Page 110, Offset 4234.
+-- 「綺麗？　これ、綺麗っていうかなあ。
+"No se si yo usaría la palabra 'bonita'.
+}
+[sha:9c56fb00e58f1d5ae684eff6568bf11e95219df7]{
+-- Page 110, Offset 4235.
+-- どっちかっていうと鈍いというか、古くさい感じだけど」
+En todo caso, su diseño me parece más bien soso y anticuado."
+}
+[sha:3a5b79e016d260aebfacd71ee97d8ede092672e2]{
+-- Page 111, Offset 4236.
+-- 「そんな事はありません。由緒正しい古刀だと思います」
+"No es para nada cierto. Pienso que es una antigüedad con mucha historia."
+}
+[sha:6527f3a71c6514c522e75df4172f744bdce29704]{
+-- Page 111, Offset 4237.
+-- 「……そうなの？　俺にはガラクタにしか見えないけど……」
+"¿De verdad? A mi me parece un trozo de chatarra..."
+}
+[sha:68bbcb20d8f2c17c167b14c8ece93d328194246e]{
+-- Page 112, Offset 4238.
+-- 翡翠があんまりにも強く断言するもんだから、こっちもその気になってきた。
+Aún así, tras oir a Hisui decirlo tan convencida,
+ empiezo a sentirme como ella.
+}
+[sha:1c19755fcd1578ac9c4afe079a31995d28340a2e]{
+-- Page 112, Offset 4239.
+-- ……うん。
+Si...
+}
+[sha:917e382ef4bb28423ee94acf4e22d84d5763aaac]{
+-- Page 112, Offset 4240.
+-- これはこれで、形見としては悪くないのかもしれない。
+Quizá este no sea un mal recuerdo después de todo.
+}
+[sha:38e97af577519eee66236592096cebb880572820]{
+-- Page 113, Offset 4241.
+-- 「七つ夜……ですか。その果物ナイフの名前でしょうかね？」
+"Hmm, 'Nanatsu-yoru'... ¿Podría ser ese el nombre del cuchillo?"
+}
+[sha:e12ef59bb7df26f788ecf4cb2ddcec4ba8171a21]{
+-- Page 113, Offset 4242.
+-- ナイフに名前を付ける人はそうはいないと思うけど……なんにせよ年代物なのは確かだろう。
+No creo que mucha gente nombre sus cuchillos... lo que sea que es, definitivamente es una antigüedad.
+}
+[sha:2c6bd553ff23131dc1ca7e4c43d1047989b02f89]{
+-- Page 114, Offset 4243.
+-- 刃を収めて鞄の中に仕舞う。銃刀法違反だが、今日一日ぐらいは大目に見てもらいたい。
+Repliego la hoja y me guardo el cuchillo en el bolsillo.
+ Es una violación de la Ley de Armas, pero esperemos que las autoridades lo dejen pasar sólo por hoy.
+}
+[sha:5863c088d64e7f50a23d644f16f80a827d1a4d94]{
+-- Page 114, Offset 4244.
+-- 後で有彦に見せて自慢してやろう。……まあ、あいつが学校に来ていたら、の話だけど。
+Se lo enseñaré a Arihiko después y presumiré de él.
+ Bueno, asumiendo que se preocupe de venir a la escuela.
+}
+[sha:bb256c3bfd96141da34859a265df1e22860dbe7b]{
+-- Page 115, Offset 4245.
+-- 「志貴さま。お時間はよろしいのですか……？」
+"Shiki-sama. ¿Tienes tiempo suficiente...?"
+}
+[sha:27c0f8fe2383a596ccf3676ef54ced3a5889ddf3]{
+-- Page 115, Offset 4246.
+-- 「まずい、そろそろ行かないと間に合わないか。
+"Mierda. Mejor voy yendo o voy a llegar tarde.
+}
+[sha:95032b5b1d9704154fed1f632e57cba5000162d2]{
+-- Page 115, Offset 4247.
+-- それじゃ琥珀さん、届け物ありがとう」
+Me voy, Kohaku-san. Gracias por la entrega."
+}
+[sha:509af89bdde3aa1fbc3a8b5a17fdf8eb5bdb7bdf]{
+-- Page 115, Offset 4248.
+-- いえいえ、と琥珀さんは手を振って俺たちを見送った。
+Kohaku-san acepta mi gratitud humildemente,
+ y se despide de ambos.
+}
+[sha:7a209dde418344a862f5c80b016fed2a132e5494]{
+-- Page 116, Offset 4249.
+-- 屋敷の門を出ると、なにやら騒がしい事に気がついた。
+Al salir por la puerta principal de la mansión,
+ me doy cuenta de un ajetreo poco común.
+}
+[sha:3b9eb2468e317dbc66ef894ac73820e0fc3efb9c]{
+-- Page 117, Offset 4250.
+-- 「……なんだろ。なんかあっちのほう、騒がしくないか？」
+"¿Qué está pasando aquí? ¿De qué va todo este escándalo?"
+}
+[sha:2cdb5201424d05c6aac6c516e5e0946e98d996e1]{
+-- Page 117, Offset 4251.
+-- 「それが、今朝方あちらの路面で血痕が発見されたそうです」
+"Sobre eso... parece que esta mañana encontraron sangre en la carretera."
+}
+[sha:611a1384a56b713cb9be8f362e254ed292c83787]{
+-- Page 117, Offset 4252.
+-- 「血痕……？　血の跡……ってことか？」
+"¿Sangre...? Te refieres... como, ¿manchas de sangre?"
+}
+[sha:9e196e22c49ae8996fbf7c16edae8e6c8ecc2863]{
+-- Page 118, Offset 4253.
+-- 「はい。屋敷の塀にも血の跡がありました。
+"Sí, también había sangre en el muro que envuelve la propiedad.
+}
+[sha:f276bd7bd05d10d73a2b093f905426e02b0835de]{
+-- Page 118, Offset 4254.
+-- 志貴さまがお眠りの間、警察の方々が昨夜の様子を尋ねにいらしたようです」
+Parece que ocurrió mientras estaba durmiendo, la policía vino a preguntar lo que pasó anoche."
+}
+[sha:6463fd31b5f07670724a72639e41153b72801995]{
+-- Page 119, Offset 4255.
+-- 「それって、人が死んでたとか……？」
+"¿Eso significa que alguien murió...?"
+}
+[sha:07ecb8f0784ff4a5d56a5b2348561b6b786636c9]{
+-- Page 119, Offset 4256.
+-- 「いえ、発見されたのは血の跡だけだそうです」
+"No, todo lo que encontraron fueron manchas de sangre."
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 119, Offset 4257.
+-- 「――――――」
+"――――――"
+}
+[sha:57fb7e8c7472d5f2945ad3cb2c0a6bf81859e41a]{
+-- Page 120, Offset 4258.
+-- 屋敷の東側の国道―――それは昨夜、俺が様子を見に行ったあたりだ。
+La carretera que va alrededor de la propiedad――es el área que fui a revisar anoche.
+}
+[sha:5f0b859f108bfe222251f5e0025f6b466c7b9345]{
+-- Page 120, Offset 4259.
+-- 血痕……飛び散り、こびりつくような赤い色。
+Manchas de sangre... viscosas salpicaduras carmesí.
+}
+[sha:a9326e972049b149930a34a4e5b06c2963283a46]{
+-- Page 120, Offset 4260.
+-- 少なくともあの時、そんな目立つ色彩はどこにも無かった。
+Puedo decir con seguridad que, en ningún caso hubo anoche señales de ese color llamativo.
+}
+[sha:f6b19c081b4155ef90568d1673195f106aa980d0]{
+-- Page 120, Offset 4261.
+-- あったのは黒色だけだ。かじかむような寒さだけだ。血の温かさなんて、あの場には微塵も存在しなかった。
+Solo había negro. Solo el frío polar. Ni siquiera existía el más minimo indicio de calidez de la sangre.
+}
+[sha:37eb96ccce9f93741f8d6b4f076d3500ed549dca]{
+-- Page 121, Offset 4262.
+-- 「志貴さま？」
+"¿Shiki-sama?"
+}
+[sha:83e8b30458729b1418f203e86ab17ff9cb522b85]{
+-- Page 121, Offset 4263.
+-- 「………いや、なんでもない。
+"No, no es nada...
+}
+[sha:643a2ac26fbdb4306e497bdba1254af616b182cf]{
+-- Page 121, Offset 4264.
+-- それじゃあ行ってくるよ。見送りありがとう」
+Nos vemos después. Gracias por venir a despedirme."
+}
+[sha:cdf8964d2af8118347ebdad01f832ff8dde05408]{
+-- Page 122, Offset 4265.
+-- 「行ってらっしゃいませ。どうか、道々お気をつけて」
+"Tenga un buen día. Le deseo un viaje seguro."
+}
+[sha:8a9a551c0ae30bfcb2e6109ad5bdda455f740d1d]{
+-- Page 123, Offset 4266.
+-- 深々とおじぎをする翡翠。
+Hisui hace una profunda reverencia.
+}
+[sha:cd27274522df9bee0a0e2a69732584dcf069a503]{
+-- Page 123, Offset 4267.
+-- ただ学校に行くだけでお気をつけてもないけど、翡翠なりに俺の体を気遣ってくれているのだろう。
+Sólo voy a la escuela, no creo que haya mucho de lo que preocuparse.
+ Aún así, estoy segura de que ella se preocupa por mi salud a su manera.
+}
+[sha:da0cbbbbfd08de98e31f70e9a807aa4d46488fff]{
+-- Page 124, Offset 4268.
+-- 「ありがとう。なるべく気をつける。翡翠も気をつけて」
+"Gracias. Intentaré tener cuidado. Cuídate tu también, Hisui."
+}
+[sha:02ed6b28fc443e92cbc742a36cd0bf521372a2e4]{
+-- Page 124, Offset 4269.
+-- 軽く手をあげて、翡翠にお礼を言って屋敷の門を後にした。
+Con un gesto rápido con mi mano, doy las gracia a Hisui y dejo la puerta principal atrás.
+}

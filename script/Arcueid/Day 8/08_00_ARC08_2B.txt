@@ -1,0 +1,305 @@
+[sha:a341f4b0a1523660dbf8eb7fc9f87ba059337377]{
+-- Page 10006, Offset 19898.
+-- 翡翠に見送られて遠野邸を後にする。
+-- TRANSLATION HERE
+}
+[sha:718e790abfb04e4a7efdbcea4e91576b7a3739c1]{
+-- Page 10006, Offset 19899.
+-- ……怒って退室した秋葉の事は気になるが、その原因がアルクェイドにある以上、追いかけて話をしても堂々巡りだ。
+-- TRANSLATION HERE
+}
+[sha:157b672c8cd72bdaadc0bf00f8f8657d5252c342]{
+-- Page 10006, Offset 19900.
+-- 秋葉にはすまないが、この事件が解決するまでこのままでいるしかない。
+-- TRANSLATION HERE
+}
+[sha:29a505d1dfc161882e0c394f7659101152292297]{
+-- Page 94, Offset 19901.
+-- 「……でも、どうだろう。考えた事もなかったけど……」
+-- TRANSLATION HERE
+}
+[sha:7aba7a24cfb5de84c483dd96e7362b93d5cdbd55]{
+-- Page 94, Offset 19902.
+-- 正直に、俺が体験したコトをすべて話してみる、という選択もアリなんだろうか……？
+-- TRANSLATION HERE
+}
+[sha:a3885cbda27db891856d5c9c6c41cb082d602a3d]{
+-- Page 94, Offset 19903.
+-- たとえ信じてもらえなくとも、それが街の安全に繋がるのなら、今からでも吸血鬼の事を知らしめるべきだ。
+-- TRANSLATION HERE
+}
+[sha:df3c1042cc12769d36587c68344dbfa18129a195]{
+-- Page 95, Offset 19904.
+-- 「……そうだよな。
+-- TRANSLATION HERE
+}
+[sha:6368e6ec0ce88557c17106e01dd87b38df3b113f]{
+-- Page 95, Offset 19905.
+-- たとえばネットで噂話として流す、とか……」
+-- TRANSLATION HERE
+}
+[sha:9f4b2e78a251f299d1449bdf275cf2e87266ab94]{
+-- Page 96, Offset 19906.
+-- 歩きながら携帯端末を取り出す。
+-- TRANSLATION HERE
+}
+[sha:587eb5334d0919fe5e5193239244dd6272f084b0]{
+-- Page 96, Offset 19907.
+-- 信憑性があろうがなかろうが、いま知っている事を掲示板に書きこめばいい。
+-- TRANSLATION HERE
+}
+[sha:eab2ad3e07054ab49ae358c1efd77a8a05dcb965]{
+-- Page 97, Offset 19908.
+-- それをどう受け取るかは個人の自由だ。
+-- TRANSLATION HERE
+}
+[sha:f7ae1b2ca51b3083a94803e0bb4b77b7045e3a3b]{
+-- Page 97, Offset 19909.
+-- 声だかに“信じろ”と言っても逆効果だが、情報を載せるだけなら、そこから警告めいた都市伝説として流布されるかもしれない。
+-- TRANSLATION HERE
+}
+[sha:bdccab24697bc39f8fd26edc5298cc67128cc474]{
+-- Page 98, Offset 19910.
+-- 「あー、もしもし？　そこのキミ、ちょっと」
+-- TRANSLATION HERE
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 98, Offset 19911.
+-- 「？」
+"Hm?"
+}
+[sha:866e29d434496082458f11c04e64a31bbdd0c9fa]{
+-- Page 98, Offset 19912.
+-- 呼ばれて足を止める。
+-- TRANSLATION HERE
+}
+[sha:4207455b4922cbae8f5fc5723093fcdac6a1b4dd]{
+-- Page 99, Offset 19913.
+-- 振り向いた先には、
+-- TRANSLATION HERE
+}
+[sha:096615ce45766e892bc80cf4dcc7141472214616]{
+-- Page 99, Offset 19914.
+-- 背広姿の、見慣れない男性がいた。
+-- TRANSLATION HERE
+}
+[sha:2c661af0cdd16a4861eaf1a0f74ddde9083d9eb9]{
+-- Page 100, Offset 19915.
+-- 「……俺の事ですか？」
+-- TRANSLATION HERE
+}
+[sha:d84621130c04d4a51aa45b94d284e2e378ff95da]{
+-- Page 100, Offset 19916.
+-- 「うん、キミ。だってキミ以外にこんな道歩いている子、いないでしょ」
+-- TRANSLATION HERE
+}
+[sha:21986ad523b3ede52e9657892de80c97477dfb7c]{
+-- Page 101, Offset 19917.
+-- それはそうだ。
+-- TRANSLATION HERE
+}
+[sha:c06b38ac82190ab811bce412e4443d90dfa6d667]{
+-- Page 101, Offset 19918.
+-- ここは遠野邸前の国道で、通るのは乗用車ぐらい。
+-- TRANSLATION HERE
+}
+[sha:fc589d2d8029a092d4c863802b5a3b70ad6a02b6]{
+-- Page 101, Offset 19919.
+-- 徒歩で移動する人間は、俺と遠野邸の使用人だけかもしれない。
+-- TRANSLATION HERE
+}
+[sha:5abc744b1e9a74695d9d0fa14ebb53f02ec98fda]{
+-- Page 102, Offset 19920.
+-- 「それでさぁ。キミさ、今この家から出てきたよね？　もしかして中で働いている使用人さんの子かな？
+-- TRANSLATION HERE
+}
+[sha:2993c0bcff7d98b9c8a50fa54fe4cd2b964a0750]{
+-- Page 102, Offset 19921.
+-- ならラッキーだよ、すごくラッキー。オレじゃなくてキミがね。お小遣い欲しくない？　遠野家の人の話とか、ちょっと知りたいんだよね」
+-- TRANSLATION HERE
+}
+[sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
+-- Page 102, Offset 19922.
+-- 「……………」
+"........."
+}
+[sha:57e09323945ea31b1c7680d35aa5b6955b7fbfcf]{
+-- Page 103, Offset 19923.
+-- なんとなく距離を保つ。
+-- TRANSLATION HERE
+}
+[sha:a3acd0bc1177aa4c36865571b827a0c97e001561]{
+-- Page 103, Offset 19924.
+-- 男の軽薄な口調が癪に障ったからではない。
+-- TRANSLATION HERE
+}
+[sha:1e131d46de9ad1ae0ce9e1ba16f44c094c65ea4f]{
+-- Page 103, Offset 19925.
+-- むしろ本気すぎて怖かった。
+-- TRANSLATION HERE
+}
+[sha:35ce727002b5ac108b4264549f23a3fc36cbf1a1]{
+-- Page 103, Offset 19926.
+-- なんでもない言葉の中に、こちらの態度を一つも取りこぼさないよう注目する<本|・><気|・>を感じたというか……。
+-- TRANSLATION HERE
+}
+[sha:cd132564562e6682059b4398df643ecacba2070b]{
+-- Page 104, Offset 19927.
+-- 「あ、もしかして野次馬だと思われてる？
+-- TRANSLATION HERE
+}
+[sha:94a16499a8cdfdbe330f6bcb14c98fea16ba3614]{
+-- Page 104, Offset 19928.
+-- まあ野次馬なんだけど、ちゃんと報酬はずむよ？
+-- TRANSLATION HERE
+}
+[sha:084f732393fb8cea54b9ae2cde4f90e0a1fd7051]{
+-- Page 104, Offset 19929. Mods: @k, @e.
+-- とくに知りたいのはほら、最近帰ってきたっていう長男の話。来たばっかりで写真資料もなくてさあ。どんな外見なのか、好きな食べ物とか好きな女の子のタイプとか、ぶっちゃけ何に弱いのか教え―――
+-- TRANSLATION HERE
+}
+[sha:07c6e75f3373e783a700b5692085a0ee2152118a]{
+-- Page 104, Offset 19930. Glued. Mods: @x.
+-- はうあ!?」
+-- TRANSLATION HERE
+}
+[sha:deb60db3f3104a82406e8bf05a3e7f54741204d0]{
+-- Page 105, Offset 19931.
+-- 股間を押さえてピョンピョン跳ぶ軽薄男。
+-- TRANSLATION HERE
+}
+[sha:5cf9424c02d479e12cd0c24bbc87c4b02482e7b6]{
+-- Page 105, Offset 19932.
+-- 「底の抜けた鍋かテメエ。どう見てもそいつがトオノシキじゃねえか」
+-- TRANSLATION HERE
+}
+[sha:dfddcb1dc45bc0697d7abe7b7c18b8bd9fc2a992]{
+-- Page 106, Offset 19933.
+-- 子供……？
+-- TRANSLATION HERE
+}
+[sha:d9cf4f757d282447c304da9bd8dde918931a2425]{
+-- Page 106, Offset 19934.
+-- 男の陰に隠れていたのか、十二歳ほどの少年が、後ろから男の股間を蹴り上げたらしい。
+-- TRANSLATION HERE
+}
+[sha:23851c625d5cba8a11dc89d49cf2aa61311ed79a]{
+-- Page 107, Offset 19935.
+-- 「ちょ、マジすか!?
+-- TRANSLATION HERE
+}
+[sha:728dc9593ed43b45ff966931c34ae9d40aa93848]{
+-- Page 107, Offset 19936.
+-- まったくブルジョワの匂いがしませんよねぇ!?」
+-- TRANSLATION HERE
+}
+[sha:d22831132d02817cc2bdb11c371bc4670e7152e4]{
+-- Page 107, Offset 19937.
+-- 「どんな匂いだソレ。金に匂いなんてねえだろ。それとも手垢の匂いってコトか？　金持ちはドイツもコイツも垢だらけってか？　ずいぶん舐めた発言だなオイ？」
+-- TRANSLATION HERE
+}
+[sha:458fec36165274bdde497731b1c7b8981dc1e84f]{
+-- Page 108, Offset 19938.
+-- 「い、いえ、違います、成金だけ、一部の成金だけですってば！　ほら、一日の半分を金勘定で浪費する高利貸し、みたいな？」
+-- TRANSLATION HERE
+}
+[sha:64cd6dfe734d4bf41863cd30d893deeaacb1f614]{
+-- Page 108, Offset 19939.
+-- 「そりゃうちのジジイのコトか？　上司批判とはずいぶん太いなアンドー？」
+-- TRANSLATION HERE
+}
+[sha:d2dd8340f9831edc527793ef739d937bce5e6789]{
+-- Page 109, Offset 19940.
+-- ……なんなんだ、この状況……。
+-- TRANSLATION HERE
+}
+[sha:55d7f85f6793a819b228c0b9cf91af2240040d8b]{
+-- Page 109, Offset 19941.
+-- とりあえず警察を呼ぶべきか？
+-- TRANSLATION HERE
+}
+[sha:e9b3746789e052cf1b6a39efe40896c08692f4c8]{
+-- Page 110, Offset 19942. Mods: @n.
+-- 「あ、そこ、無言で110番コールしない！　なーんで今どきの若い子はドライに無駄なコトばっかりするかなー。
+-- TRANSLATION HERE
+}
+[sha:980eb7e4891f4677d20d6a62de7f732f0370d057]{
+-- Page 110, Offset 19943. Glued.
+-- ほら、これこれ」
+-- TRANSLATION HERE
+}
+[sha:5d631305fe85b050fba007113d99888b063f126c]{
+-- Page 110, Offset 19944.
+-- 「―――え？」
+"―――¿Huh?"
+}
+[sha:aedbfff9d3a8fef9023f3621f5ad3c7dcaded1aa]{
+-- Page 111, Offset 19945.
+-- １、１、まで打ちこんだ携帯端末から目を離す。
+-- TRANSLATION HERE
+}
+[sha:8edbffca88762b0b49a42064ff6a26784fef83b0]{
+-- Page 111, Offset 19946.
+-- 男は黒い手帳を向けている。
+-- TRANSLATION HERE
+}
+[sha:bb2558d6ca4f714f1cc1910c3d3eaf887f8fc2d3]{
+-- Page 111, Offset 19947.
+-- 実物は初めて見たけど、それはまごう事なき、警察手帳というものだった。
+-- TRANSLATION HERE
+}
+[sha:f8efddda76c8cdee249255eeefb34a0c0b0893b5]{
+-- Page 112, Offset 19948.
+-- 「警察手帳って……もしかして刑事さん？」
+-- TRANSLATION HERE
+}
+[sha:9bdef363475f0d2207f4f52de98670db2f8702a3]{
+-- Page 113, Offset 19949.
+-- 「そうだよ。怪しいモンじゃないよ。刑事さんだよ。警視庁捜査第一課、<安藤裕吾|あんどうユーゴ>。
+-- TRANSLATION HERE
+}
+[sha:71096b38294aa5a6ad11f208784e4cebbee6bf3f]{
+-- Page 113, Offset 19950.
+-- なのにさー、昨日から門前払いでさー。
+-- TRANSLATION HERE
+}
+[sha:52cd674b1aae27ae90b781592a378bfa8b372828]{
+-- Page 113, Offset 19951.
+-- こっちはちょーーーっと話を聞きたいだけなのに、アポとれっていってんばりでさー。なんで仕方なく、国道で張り込みしてたワケ」
+-- TRANSLATION HERE
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 114, Offset 19952.
+-- 「………………」
+"........."
+}
+[sha:4ed4398a5d4de429ed7dcfc08396ee3b4d57a151]{
+-- Page 114, Offset 19953.
+-- これほど怪しい刑事もそうはいまい。
+-- TRANSLATION HERE
+}
+[sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
+-- Page 114, Offset 19954.
+-- ……しかし。
+Sin embargo...
+}
+[sha:2a95aea8ad67b65f9daa85c98406734739c967e6]{
+-- Page 114, Offset 19955.
+-- あの手帳が本物かどうかはともかく、うちの前で張り込んでいた理由は気にかかる。
+-- TRANSLATION HERE
+}
+[sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
+-- Page 114, Offset 19956.
+-- ここは―――
+-- TRANSLATION HERE
+}
+[sha:61a31be7f9d5f1f47560c3314116eb0a6ed63189]{
+-- Page 116, Offset 42647. Choice.
+-- ……気は乗らないが、用件を尋ねてみる。
+-- TRANSLATION HERE
+}
+[sha:584c66ec7265a08b9b5ffcd842b2b7d62053c84d]{
+-- Page 116, Offset 42648. Choice.
+-- ……下手に相手をするのはまずい。無視する。
+-- TRANSLATION HERE
+}

@@ -1,0 +1,21 @@
+[sha:3f60d031f68c3134aeb3e4e11bbc39600c356185]{
+-- Page 10009, Offset 3053.
+-- 寄り道せず、まっすぐ遠野邸に戻ろう。
+Volveré directamente a la mansión Tohno sin tomar ningún desvío.
+}
+[sha:8e2a4565ae5d37dd3e5b3d071e525b4e18c8b939]{
+-- Page 175, Offset 3054.
+-- 『日が落ちる前に帰る』という秋葉との約束もある。
+Después de todo, prometí a Akiha que volvería antes de que se ponga el sol.
+}
+[sha:d0fa7ff4a138ef1278b9533c12bda648ee9a08e2]{
+-- Page 175, Offset 3055.
+-- 連続殺人事件なんてニュースを鵜呑みにする訳ではないが、人生、何があるか分からない。
+No es que tenga miedo de las noticias sobre los asesinatos en serie,
+ pero nunca sabes lo que te depara la vida.
+}
+[sha:b2b9574ccd8eec305627112968ae360b4c154239]{
+-- Page 175, Offset 3056.
+-- 街に遊びにいっただけで胸に大怪我を負った子供もいるのだ。避けられるものなら、リスクは避けるべきだろう。
+Hay niños que sufrieron graves heridas en el pecho solo por salir a jugar por la cuidad. Si se puede evitar el riesgo, entonces que así sea.
+}

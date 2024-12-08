@@ -1,0 +1,41 @@
+[sha:b05d2b335156a377ba35e01050adf96a9f0accf0]{
+-- Page 66, Offset 5724.
+-- 「秋葉。琥珀さんの事だけど」
+"Akiha. Es sobre Kohaku-san."
+}
+[sha:5931e5582108728fda92aaba71c9fa8c7c27c833]{
+-- Page 66, Offset 5725.
+-- 「はい？　琥珀がどうかしましたか？」
+"¿Sí? ¿Pasa algo con Kohaku?"
+}
+[sha:07df2090e2aa63eba59c3a6b2be867ad8edfb943]{
+-- Page 66, Offset 5726.
+-- 「うん、いい人だなって。さっき玄関で怒られたよ。朝ごはんを抜いたら大きくなれませんよーって」
+"No, parece una buena persona.
+ Hace un momento se enfadó conmigo cuando intentaba irme.
+ Me dijo que si me saltaba el desayuno, no iba a poder crecer."
+}
+[sha:f6e482460d95da725afd7fc7e0d5bd3c3254d717]{
+-- Page 67, Offset 5727.
+-- 「ふうん。たしかに琥珀らしいですね、それは」
+"Hm. Ciertamente es algo que Kohaku haría."
+}
+[sha:febc2b968a9c9f2005a3c344ee846612044bdb6c]{
+-- Page 67, Offset 5728.
+-- 「あっちの家にいた頃もさ、そんな風に叱られた事なんてなかったから驚いた。おかげで、これから朝飯を抜く事はできなさそうだ」
+"Me sorprendió;
+ no creo que me hayan regañado así antes――ni siquiera cuando vivía con los Arimas.
+ Parece que ya no podré salirme con la mía saltándome el desayuno."
+}
+[sha:ba41c113aee33183820cd371035b597314fad63d]{
+-- Page 68, Offset 5729.
+-- 「そうですね。兄さんはただでさえ貧血気味なんですから、朝食を抜くなんてもってのほかです」
+"Supongo.
+ Parece absurdo que te saltes el desayuno,
+ especialmente considerando también que sufres de anemia."
+}
+[sha:32888aceb48353295d00b752496a100da8d7ced0]{
+-- Page 68, Offset 5730.
+-- 俺の場合、食事と目眩はあまり関係ないのだが、ここは素直にうなずいておこう。
+En mi caso, mi dieta tiene poco efecto en mis mareos, pero seré obediente y asentiré con la cabeza.
+}

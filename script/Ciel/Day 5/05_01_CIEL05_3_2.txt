@@ -1,0 +1,25 @@
+[sha:262a9f46f2a81f8c99140b1025642e014e290f86]{
+-- Page 10022, Offset 12647.
+-- 冷気の中心を睨む。
+-- TRANSLATION HERE
+}
+[sha:a9aaaa977dbaf9b17ada0c8c7f0224b530438890]{
+-- Page 10022, Offset 12648.
+-- 砕け散った結界の跡に、青ざめた病貌を見る。
+-- TRANSLATION HERE
+}
+[sha:18887649b93e6e435c7bfdf6365c7217dddc4ada]{
+-- Page 10022, Offset 12649.
+-- ……今の一撃はヤツにとっても重いものだったのか、化け物の分際で人間らしく両肩で息を切っている。
+-- TRANSLATION HERE
+}
+[sha:204cf3f853bb5ef6dceffcbe485aa8e4ed2f36ec]{
+-- Page 675, Offset 12650.
+-- 腹立たしいが好機だ。
+-- TRANSLATION HERE
+}
+[sha:b5686077110c4681a701efdc967fc2887acd9133]{
+-- Page 675, Offset 12651.
+-- 今なら弾き飛ばされた先輩を助けに行ける……！
+-- TRANSLATION HERE
+}

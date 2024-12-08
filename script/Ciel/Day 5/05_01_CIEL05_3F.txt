@@ -1,0 +1,425 @@
+[sha:017bef93787832c48d48ae2206e12f56c1d0da2c]{
+-- Page 10020, Offset 12560.
+-- 鳴動する冷気の檻。
+-- TRANSLATION HERE
+}
+[sha:f2359b8f9655252784bf703febabd80d18458456]{
+-- Page 10020, Offset 12561.
+-- 膨張し、集束する四角い世界。
+-- TRANSLATION HERE
+}
+[sha:509e06bba6bb73080e10cd250ba9802af8f67c3f]{
+-- Page 10020, Offset 12562.
+-- 透明の壁はもうドス黒く染まっている。
+-- TRANSLATION HERE
+}
+[sha:fbc5b456f6b17595f2434afd74ec0ef6fa2bb184]{
+-- Page 10020, Offset 12563.
+-- 内部からの轟音は、死を目前にした生物の叫びのようだ。
+-- TRANSLATION HERE
+}
+[sha:3e12086a2fe1cec9f593ee907701441c73e1c828]{
+-- Page 644, Offset 12564.
+-- ……限界だ。
+-- TRANSLATION HERE
+}
+[sha:1c58264f67dde530fb4237db5516e6b2a4a01df3]{
+-- Page 644, Offset 12565.
+-- 俺から見ても、これがどれほど無茶な試みだったか分かる。
+-- TRANSLATION HERE
+}
+[sha:911c9e9ac987f265998c1f29c7ad733f81f62795]{
+-- Page 645, Offset 12566.
+-- 「ノエル先生！」
+-- TRANSLATION HERE
+}
+[sha:9ea0ca7207f505c7b1037879f52225f0980daa56]{
+-- Page 645, Offset 12567.
+-- 「志貴クン!?　うそ、ホントに来たの!?
+-- TRANSLATION HERE
+}
+[sha:52970bc069c71dfa339d0d6be3fe37cf5937b059]{
+-- Page 645, Offset 12568.
+-- あわわ、だめ、上に戻りなさい！　シエルさんから、部外者が来たら追い返すように言われているの！」
+-- TRANSLATION HERE
+}
+[sha:586b11762b250621f6567dc02ac85810e980d849]{
+-- Page 646, Offset 12569.
+-- 「今さら戻れません！
+-- TRANSLATION HERE
+}
+[sha:0cff0694f8806efff26271051f46424428fb5a30]{
+-- Page 646, Offset 12570.
+-- それよりどうなってるんですかコレ!?」
+-- TRANSLATION HERE
+}
+[sha:3c0323785473b45a7afc590bc7d6eef8f4fa7d85]{
+-- Page 647, Offset 12571.
+-- 「どうって、見ての通り！　土地ごとヴローヴを封印したんだけど、ぜんぜん効かなかったの！
+-- TRANSLATION HERE
+}
+[sha:7a886f167417eb9f1a406254e7fc4f07ca8fced8]{
+-- Page 647, Offset 12572.
+-- 応援は来ないし太陽は沈んじゃうしで、こうなったら逃げてもいい状況だったのにあの子ったらひとりでなんとかするとか言い出して！
+-- TRANSLATION HERE
+}
+[sha:879941b1ecc09caca8f83186d440d256c1d1306c]{
+-- Page 647, Offset 12573.
+-- 出てきたヴローヴごと大聖堂をこの大きさまで圧縮して、中に飛びこんじゃったのよ！　それが一時間前の話！」
+-- TRANSLATION HERE
+}
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+-- Page 648, Offset 12574.
+-- 「―――！」
+-- TRANSLATION HERE
+}
+[sha:e919cbe6856b719a7098ca6c301fef01c9eeb8e5]{
+-- Page 648, Offset 12575.
+-- やはり中にいるのはシエル先輩とあの吸血鬼か。
+-- TRANSLATION HERE
+}
+[sha:66e1c64997b874d73d0b26381549fa7426fdf772]{
+-- Page 648, Offset 12576.
+-- 要約すると、ヴローヴが地上に現れて、被害が周囲一帯にでると即断した先輩はヴローヴをこの檻に閉じこめて、自分も中に入ったらしい。
+-- TRANSLATION HERE
+}
+[sha:4e3b775d56502e403797060d7b27b67593ef74ab]{
+-- Page 649, Offset 12577.
+-- あのキューブ状のものがなくなれば地下で見た吹雪が街を覆うのは理解できる。アルクェイドもそう言っていた。
+-- TRANSLATION HERE
+}
+[sha:19285e54257d20b03ff65e6a6e8cf86e0e7b8657]{
+-- Page 650, Offset 12578. Mods: @k, @e.
+-- 「けど、なんで先輩まで中に!?
+-- TRANSLATION HERE
+}
+[sha:437ec1bf62000de71a1cd7212e7dd82ab6e0738d]{
+-- Page 650, Offset 12579.
+-- 閉じこめたんだから、先輩が入る必要はないでしょう!?」
+-- TRANSLATION HERE
+}
+[sha:eab74ea80a167b9c179d2dca56d265eda2e3f79c]{
+-- Page 651, Offset 12580.
+-- 「あるわよ！　あの結界はヴローヴの汚染を抑えるもので、ヴローヴ本体を抑えるものじゃないわ！　誰かが中でヴローヴを仕留めないといけないの！」
+-- TRANSLATION HERE
+}
+[sha:f53882bd1045ca5715bc009613d82646cc5a840d]{
+-- Page 652, Offset 12581.
+-- 「な―――じゃあヴローヴを倒さないかぎり、先輩は出てこないんですか!?」
+-- TRANSLATION HERE
+}
+[sha:1b5a916a59a68db6651bd4f252334f14ae6e9eea]{
+-- Page 653, Offset 12582.
+-- 「ええ、そう！　でも無理！　ムリムリムリ！　二十七祖を正面から撃退するなんて、いくらあの子でもぜっっったいムリ！　あの呪いをひとりで受け止めてるだけでも嘘みたいな奇蹟なのに！」
+-- TRANSLATION HERE
+}
+[sha:191055ce1e385d1b69afd9661ffe77480205e582]{
+-- Page 654, Offset 12583.
+-- ノエル先生は恐慌状態に陥っている。
+-- TRANSLATION HERE
+}
+[sha:a8e6eae9f66789c3834d9dcd8e1633694d849286]{
+-- Page 654, Offset 12584.
+-- 俺よりずっと吸血鬼に慣れているこの人がここまで取り乱している以上、状況は最悪と見るべきだ。
+-- TRANSLATION HERE
+}
+[sha:7860f1d0154921b7104602a19a76b13bcb5aa03e]{
+-- Page 655, Offset 12585.
+-- 「くそ……！」
+-- TRANSLATION HERE
+}
+[sha:ef0a13625e1a02d351ca962c89bb0866f91a753a]{
+-- Page 655, Offset 12586.
+-- 立方体の壁を睨む。
+-- TRANSLATION HERE
+}
+[sha:f145c024e7ec26091e620f6704f5755396f21c72]{
+-- Page 655, Offset 12587.
+-- 中の様子は見て取れるものの、黒い吹雪の向こうは完全に別世界だった。
+-- TRANSLATION HERE
+}
+[sha:aac3f17c4c4547d807008838f49e79f3978f5e5f]{
+-- Page 656, Offset 12588.
+-- 40メートル四方の箱の内部は、その実、このクレーター以上の広さがあるように見える。
+-- TRANSLATION HERE
+}
+[sha:49d418406c8603da0c5bc96c6f0c859e65f57a5f]{
+-- Page 656, Offset 12589.
+-- 時間と空間が<歪|ひず>んだ箱。
+-- TRANSLATION HERE
+}
+[sha:d782bd21e34c90f343fddeed0a3dab363d41052b]{
+-- Page 656, Offset 12590.
+-- その中で、先輩はたったひとりであの怪物と戦っている。
+-- TRANSLATION HERE
+}
+[sha:a0afb3cbd8d1e55347ee9b98f872c771543a3ef6]{
+-- Page 657, Offset 12591.
+-- 「……勝ってる。先輩は、負けてない、のに……！」
+-- TRANSLATION HERE
+}
+[sha:779520aed07d3c6decf2e423df18b8aa794d415a]{
+-- Page 657, Offset 12592.
+-- 彼女は勇敢で、強靭だった。
+-- TRANSLATION HERE
+}
+[sha:deade9b7cdfecac2b48e8f32fc356a222e082b7c]{
+-- Page 657, Offset 12593.
+-- ヴローヴ相手に一歩も退かない。
+-- TRANSLATION HERE
+}
+[sha:8d2a66b1a38ab3262501d7eb62706b8ba8b9035b]{
+-- Page 657, Offset 12594.
+-- でも、あの吹雪が先輩を<貶|おとし>める。あの環境下で生きて、活動している事自体が異常なんだ。
+-- TRANSLATION HERE
+}
+[sha:dda6b19ff4f7855ceac7479de751ec4786ef8742]{
+-- Page 658, Offset 12595.
+-- ……まっとうな状態なら。
+-- TRANSLATION HERE
+}
+[sha:88eec2f08cbf1b0884da6e3ab0ec282dd66426c7]{
+-- Page 658, Offset 12596.
+-- こんな箱なんて作らず、寒波が広がる事なんて気にせず、自分ひとりで戦っていれば、絶対に負けていないのに……！
+-- TRANSLATION HERE
+}
+[sha:ed2a195a6fabecaddb9df72f07d957ac420d0d29]{
+-- Page 659, Offset 12597.
+-- 「…………っ！」
+-- TRANSLATION HERE
+}
+[sha:60926c09e105a13dcffc44c8c5a66dda75638903]{
+-- Page 659, Offset 12598.
+-- 悔しくて奥歯をかみ砕きそうだ。
+-- TRANSLATION HERE
+}
+[sha:96c75be913b0c790018ac4c35c1c7ef4f67fb2f8]{
+-- Page 659, Offset 12599.
+-- 状況が過酷すぎる。
+-- TRANSLATION HERE
+}
+[sha:7fe0619c0f987c7efda1da4fa67b4eae3e5671f1]{
+-- Page 659, Offset 12600.
+-- 体に傷を負いすぎている。
+-- TRANSLATION HERE
+}
+[sha:fde2c10ace027c9ebe021d795940f93b3ef9ce36]{
+-- Page 659, Offset 12601.
+-- もうシエル先輩だけでは、あの吸血鬼は倒せない。
+-- TRANSLATION HERE
+}
+[sha:98c0b5018b1ddf64d0ee4052deeb110eb0621070]{
+-- Page 659, Offset 12602.
+-- あと一人……いや、あと一手、ほんの少しでいいから、先輩を後押しするものが必要だ。
+-- TRANSLATION HERE
+}
+[sha:6f772319617a4830a89b4d3dd332d4b947675ddb]{
+-- Page 660, Offset 12603.
+-- 眼鏡を外す。境界ごと敵を見据える。
+-- TRANSLATION HERE
+}
+[sha:35ceccdf97945b1f65b32d979f9e11b686d538e9]{
+-- Page 660, Offset 12604.
+-- 俺なら、俺だけではヴローヴを殺す事はできないにしても、あの人の武器ぐらいにはなれるのに……！
+-- TRANSLATION HERE
+}
+[sha:e2bad7f58e5bcdac84792e0f8db5f153393ab73a]{
+-- Page 661, Offset 12605.
+-- 「痛っ……！」
+-- TRANSLATION HERE
+}
+[sha:9ff126e2a8dd5126770c4d9a45fc17bf9bf7ec90]{
+-- Page 661, Offset 12606.
+-- 無意識のうちに壁に伸ばした指先が一瞬で凍結する。
+-- TRANSLATION HERE
+}
+[sha:0cc7a1e74508b8556cd6282f2e9556357f04457b]{
+-- Page 661, Offset 12607.
+-- ……ダメだ。中に入る訳にはいかない。
+-- TRANSLATION HERE
+}
+[sha:ad9e39c1fb21d74b2717491b61c3555509ae621f]{
+-- Page 662, Offset 12608.
+-- 地下でヴローヴに接近した事を思い出せ。
+-- TRANSLATION HERE
+}
+[sha:cf470c8b4c28787d6ec9ca3cb556556c2c96ef0c]{
+-- Page 662, Offset 12609.
+-- 極寒において人間は満足に活動できない。血液が凍る。細胞が壊死する。なにより脳が死滅する。人間は、吸血鬼と対峙するにはあまりにも弱すぎる。
+-- TRANSLATION HERE
+}
+[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+-- Page 663, Offset 12610.
+-- 「……！」
+¡Ah!
+}
+[sha:542b41e29eb17ad07853d1dc3b82f0e75f27a942]{
+-- Page 663, Offset 12611.
+-- そして、もう何もかも手遅れだった。
+-- TRANSLATION HERE
+}
+[sha:8cfc61b5d26b2fc790a0f39d68c7f44465560a21]{
+-- Page 664, Offset 12612.
+-- 吹雪の中の影が重なる。
+-- TRANSLATION HERE
+}
+[sha:ceaa3dcbecd9e291db58e604a7d4ee322d59efea]{
+-- Page 664, Offset 12613.
+-- 動きの鈍くなった甲冑の少女に向けて、
+-- TRANSLATION HERE
+}
+[sha:39f8812f43f6aed8569e3fbfeb2b374ecceabb3a]{
+-- Page 664, Offset 12614.
+-- 渾身の槍が放たれる。
+-- TRANSLATION HERE
+}
+[sha:9abc104ff52d09a793e87ee5ad7a16e5cecbc15a]{
+-- Page 664, Offset 12615.
+-- <磔|はりつけ>の罪人のように。
+-- TRANSLATION HERE
+}
+[sha:390e0f397e99c2b18cc08908ee06ecdf0fd594a8]{
+-- Page 664, Offset 12616.
+-- 先輩らしき影が、世界の<壁|はて>に叩きつけられる。
+-- TRANSLATION HERE
+}
+[sha:87cb1e475875f64cb465513e3a2eec7bb43c7d9c]{
+-- Page 665, Offset 12617.
+-- ―――先輩の終わりは、結界の終わりだ。
+-- TRANSLATION HERE
+}
+[sha:8894cd2dc0ad274c37023e189311659d5882ce7f]{
+-- Page 665, Offset 12618.
+-- 「たたた、退避退避ーーー！　ああ、でも今からじゃ間に合わない！　私も氷漬けになっちゃうーーー！」
+-- TRANSLATION HERE
+}
+[sha:8a78b5445384ecf354903a425ef06d03b296beee]{
+-- Page 665, Offset 12619.
+-- ―――彼女の崩壊を以て、大聖堂は砕け散った。
+-- TRANSLATION HERE
+}
+[sha:a3f6113c80bf56ac68bf12f060ae705ccbf46493]{
+-- Page 666, Offset 12620.
+-- ―――世界が凍る。
+-- TRANSLATION HERE
+}
+[sha:9f0b98d054a04b319f2fbb35010c2fea41796742]{
+-- Page 666, Offset 12621.
+-- ―――風速160キロメートルの寒波が全てを凍結させる。
+-- TRANSLATION HERE
+}
+[sha:6079ed26f4c0245b000fcdf99bf814ad5e0502a4]{
+-- Page 666, Offset 12622.
+-- ―――その中で、ゴミのように弾け飛ぶ先輩を見る。
+-- TRANSLATION HERE
+}
+[sha:6556770391687664bcf9f1f89de2cfec65efa956]{
+-- Page 666, Offset 12623.
+-- ―――俺はそれを、傍観する事しか、できなかった。
+-- TRANSLATION HERE
+}
+[sha:d4e76169cef9d29345c3441c6c2fe774db920d8d]{
+-- Page 667, Offset 12624.
+-- 「……いや、違う……！」
+-- TRANSLATION HERE
+}
+[sha:ea235d4046b2822d94dbddc1fa92a5a0ecc406d0]{
+-- Page 667, Offset 12625.
+-- まだ何も終わっていない。
+-- TRANSLATION HERE
+}
+[sha:968dc31df376f1524b8292f1cc63d3c438bb618e]{
+-- Page 667, Offset 12626.
+-- 確かに周囲はマイナスの冷気に包まれている。
+-- TRANSLATION HERE
+}
+[sha:57235cfc4ce24c0bf955cb799212b3580527c381]{
+-- Page 667, Offset 12627.
+-- けれど温かい。外気とは別に、体の内側から守られるような熱を感じる。
+-- TRANSLATION HERE
+}
+[sha:9cef1ad2918d113f954b4c95cce8ad68f4219411]{
+-- Page 668, Offset 12628.
+-- 目を開けて空を仰ぐ。
+-- TRANSLATION HERE
+}
+[sha:595aa8be6bb6375a01bd7c950bc451122c457a65]{
+-- Page 668, Offset 12629.
+-- 街に寒波は届いていない。
+-- TRANSLATION HERE
+}
+[sha:6b81fd4811e8fc276c8d80ce49cb6d46adde44d8]{
+-- Page 668, Offset 12630.
+-- 吹き荒ぶ冷気はこのクレーターの中だけに留まっている。
+-- TRANSLATION HERE
+}
+[sha:c2796e43e4905a5c77ca4211ff1b3aa11527be4c]{
+-- Page 669, Offset 12631.
+-- そして、遥か上空のビルの上には、心底からイヤそうな顔で手を掲げる、アルクェイドの姿があった。
+-- TRANSLATION HERE
+}
+[sha:89c77e3b9af61d7bc5c6401a2628e01b2d723a60]{
+-- Page 670, Offset 12632.
+-- 「あいつ……！」
+-- TRANSLATION HERE
+}
+[sha:8efa4f5ef5572d851a0b62d3ed102d6c4e817a6a]{
+-- Page 670, Offset 12633.
+-- 口元が嬉しさでほころんでしまう。
+-- TRANSLATION HERE
+}
+[sha:bf27c5a49faac08deec20ccd0cb01dab90ab23ca]{
+-- Page 670, Offset 12634.
+-- 地表が凍り付いている以上、気温はマイナス40℃を超えている。それでも俺は呼吸が出来ている。
+-- TRANSLATION HERE
+}
+[sha:a69d553e1e1f443296e811c58b7c9bd99579bed4]{
+-- Page 670, Offset 12635.
+-- 体感温度も零度に届くかどうか。これなら<人|お><間|れ>でも数分は活動できる……！
+-- TRANSLATION HERE
+}
+[sha:e97593882280f80a21aba3f98d28de9b4f10d3e3]{
+-- Page 671, Offset 12636.
+-- きっとアルクェイドなりの精一杯の譲歩なんだろう。
+-- TRANSLATION HERE
+}
+[sha:3492009b97927ab826b228b28c11a89f22d20717]{
+-- Page 671, Offset 12637.
+-- シエル先輩に手は貸さないまでも、あいつは約束を守ってくれた。これがヴローヴへの牽制だとしても、街と俺たちを守ってくれたのだ。
+-- TRANSLATION HERE
+}
+[sha:a7e54886f3b0ee2ca18b3f1812badae5fb6ad428]{
+-- Page 672, Offset 12638.
+-- 「なら……！」
+-- TRANSLATION HERE
+}
+[sha:13c96189c649ce5c7fd0b55f72509a3c4c5ba074]{
+-- Page 672, Offset 12639.
+-- あとはこちらの役割だ。
+-- TRANSLATION HERE
+}
+[sha:0e700d30b10e152200b0dc97f861a7fb36ff24bb]{
+-- Page 672, Offset 12640.
+-- 先輩を助ける。ヤツをここで仕留める。
+-- TRANSLATION HERE
+}
+[sha:974f9c581346511617a01106e26bc359f821a991]{
+-- Page 672, Offset 12641.
+-- この状況において、その二つは同義だと直感する。
+-- TRANSLATION HERE
+}
+[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+-- Page 672, Offset 12642. Mods: @k, @e.
+-- 俺は―――
+Yo―――
+}
+[sha:1b6ef24c583cbacb1890b037fa579a17c9835ceb]{
+-- Page 673, Offset 42698. Choice.
+-- シエル先輩を見る。
+-- TRANSLATION HERE
+}
+[sha:6abea8dec1101309df0c40f846f78c93ac155ac6]{
+-- Page 673, Offset 42699. Choice.
+-- ヴローヴを見る。
+-- TRANSLATION HERE
+}

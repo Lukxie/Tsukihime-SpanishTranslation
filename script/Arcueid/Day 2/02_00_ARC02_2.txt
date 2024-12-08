@@ -1,0 +1,279 @@
+[sha:4e42de25dac0ecfa1929dea9aafbc5fa8e32b715]{
+-- Page 10005, Offset 2986. Mods: @n.
+-- 放課後になった
+Ahora es después de clase.
+}
+[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+-- Page 10005, Offset 2987. Glued.
+-- 。
+.
+}
+[sha:1b94b3652a50b698382fcc487c23e1ed3cfadb12]{
+-- Page 10005, Offset 2988.
+-- 今日は貧血による目眩もなく、俺個人の話で言えばいたって平穏に過ごせた一日だった。
+Hoy no sufrí de ningún episodio anémico, 
+ y el resto de la tarde pasó pacíficamente, en lo que me respecta por lo menos.
+}
+[sha:5459b733d1a07c982f37a3691cd5d8c4012c9809]{
+-- Page 10005, Offset 2989.
+-- しかし、教室では未曾有のウイルスが蔓延し、ついさっきまで不穏な空気に包まれていた。
+Sin embargo, un nuevo virus se ha extendido por la clase como si fuera un incendio,
+ y hasta hace pocos momentos, el ambiente aquí estaba muy inquieto.
+}
+[sha:0b19246c1613d327ab52f9b20f24ad5477ed3e03]{
+-- Page 148, Offset 2990.
+-- 女子たちは今回の男子の騒ぎを『ノエル熱』と呼称した。
+Las chicas han denominado esta enfermedad que afecta a los chicos como 'La fiebre de Noel'.
+}
+[sha:2322b08a8da58d53f5bb7154ac7bb8c55ca50c12]{
+-- Page 148, Offset 2991.
+-- 『ノエルはしか』でもいい。
+// Localizado porque queda bien jiji
+Alternativamente llamada 'Noelitis'.
+}
+[sha:c7c9dea0e085b743dcc6ee9918ca8b8edea6d8a3]{
+-- Page 148, Offset 2992.
+-- ノエル熱にうかされた男子と、それを冷めた目で見る女子の対立は昼休みになっても止む事はなく、戦いは明日に持ち越された。
+// alguna expresión que se ajuste a spill over? como salpicar o derramarse pero que no suene tan mal
+El conflicto entre los chicos delirantes con la Fiebre de Noel,
+ y las chicas, que desprecian fríamente todo este asunto,
+ ni siquiera paró en la comida.
+ Su batalla parece que está lista para continuar mañana.
+}
+[sha:c73871364f6d8dc4774f0c1455368355b6fe753c]{
+-- Page 149, Offset 2993.
+-- 一方、ノエル熱に乗りそこねた男子は女子グループから賞賛を浴びたものの、<男子組|なかまたち>からは不能、裏切り者、幼女嗜好とさんざんな烙印を押された。些細な話である。
+Por otra parte, los chicos que no pillaron la Fiebre de Noel fueron alagados por el grupo de las chicas,
+ pero catalogados de impotentes, traidores, y con un gusto inapropiado por las niñas pequeñas por el grupo de los chicos.
+ Todo el asunto parece bastante estúpido.
+}
+[sha:9f01fb7dc276b62677f2d0de563e28eb222393cb]{
+-- Page 150, Offset 2994.
+-- 「……まあ、確かにあんまりいないタイプの美人だけどな、ノエル先生」
+"Bueno, ella no es el tipo de belleza que se suele ver, esa Noel-sensei."
+}
+[sha:b3a654fcc798ac43ea5ea2c3507bdad4535875fb]{
+-- Page 151, Offset 2995.
+-- それでも、みんながあれほど夢中になる理由がいまいち分からない。
+Aun así, no entiendo por qué todo el mundo está tan loco por ella.
+}
+[sha:4b066838be39b5258165682b8e3d486af64f65b3]{
+-- Page 151, Offset 2996.
+-- 美人だというのなら、秋葉の方がよっぽど―――
+Si hablamos de belleza, Akiha es mucho mas―――
+}
+[sha:a9e60ef31f5e289486f690b2f3f46416c970ae63]{
+-- Page 152, Offset 2997.
+-- 「あ、いたいた。ちょっといい、志貴クン？」
+"Ah, ahí estás. ¿Tienes un minuto, Shiki-kun?"
+}
+[sha:ca526d5737b077e8cf5c066623395abf6e196b50]{
+-- Page 152, Offset 2998.
+-- とんでもないタイミングで、渦中の人物がやってきた！？
+¡Hablando de la reina de roma! Aquí esta la misma mujer que es el centro de toda esta conmoción.
+}
+[sha:4a3720996b74ec4313c70d103620eb6413e9da16]{
+-- Page 153, Offset 2999.
+-- 「あら。口から心臓でもはき出しそうな顔なのね。
+"Uy dios. Parece que casi se te sale el corazón por la boca.
+}
+[sha:e8a9e2c4f3ac9df348c427de3cd56da2d0d1df82]{
+-- Page 153, Offset 3000.
+-- 何か、いけないコトでも考えていたのかしら？」
+Por alguna casualidad, ¿estabas pensando en algo indecente?"
+}
+[sha:24a27aa1f13682caa13dfef4b056820054b3fe12]{
+-- Page 154, Offset 3001.
+-- 「い、いえ、そういうワケでは、決して。
+"N-No, nada por el estilo, para nada.
+}
+[sha:012b327caa21afe6d2dc9c90e0c549b3a5923d33]{
+-- Page 154, Offset 3002.
+-- ……あの。それより何でしょうか、ノエル先生」
+Uh... dejando eso a un lado, ¿qué puedo hacer por ti, Noel-sensei?"
+}
+[sha:dc8b8f254cc663a700e00702beb639291d046090]{
+-- Page 154, Offset 3003.
+-- ノエル先生と秋葉を比べていた後ろめたさを呑みこみながら、努めて冷静に話題を逸らす。
+Tragandome la culpa de comparar a Noel-sensei con Akiha, doy lo mejor de mi para cambiar el tema tranquilamente.
+}
+[sha:3c5e2867f00d02dec72b47aadeebd8e9e14f78c6]{
+-- Page 155, Offset 3004.
+-- と……
+Sin embargo...
+}
+[sha:f996467bcfc9a5ea91f50c480165f08d8c89e45b]{
+-- Page 155, Offset 3005.
+-- 彼女は俺の心を見透かしたような笑みを浮かべた。
+Ella sonríe como si pudiera ver a través de mi.
+}
+[sha:1e9deae0b9f7ccd1e23695611ab775cdbb6c1b76]{
+-- Page 156, Offset 3006.
+-- 「……ふふ。ノエル先生、という響きはいいものね。先輩って呼ばれるよりずっといいわ。
+"%{i}Jeejee%{/i}... 'Noel-%{i}sensei%{/i}' suena bien, ¿verdad?
+ Mucho mejor que ser llamada Senpai.
+}
+[sha:9efdb15d39981225a91e0b7e67e79cd7f085b202]{
+-- Page 156, Offset 3007.
+-- 日本にはまだ慣れていなくて不安だったけど、貴方みたいに純朴な子に先生って呼ばれるのはクセになりそう。―――背徳的で、ちょっとドキドキしちゃうもの」
+// little boys = chiquillos o chavalines o chicos pequeños (no me convence)
+Estaba un poco nerviosa por esto ya que aún no estoy acostumbrada a Japón,
+ pero pienso que me podría acostumbrar a ser llamada 'Sensei' por chiquillos tan inocentes como tú.%{n}
+ Es un poco sucio, y un poco excitante."
+}
+[sha:3928771d07b74fd3014d51e9295fd5b1b1517b5d]{
+-- Page 157, Offset 3008.
+-- 「あの、ノエル先生……？
+"Um, ¿Noel-sensei...?
+}
+[sha:79d355ac08d785b55e5e55997ba1dc014b3be0d7]{
+-- Page 157, Offset 3009.
+-- ちょっと、近いん、ですけど―――」
+E-Estás un poco cerca―――"
+}
+[sha:de4c7c3f54aa83afba8f368594385db1c58f183d]{
+-- Page 158, Offset 3010.
+-- 「気にしないで。というか、こういう時は<鈍|にぶ>いフリをして黙っているものよ。
+"Relájate. Este es el tipo de situación en la que deberías hacerte el tonto y dejarte llevar, sabes.
+}
+[sha:c058048576b568b25eb9e7259de7076a472725b7]{
+-- Page 158, Offset 3011.
+-- ほら、ねぇ…………私の首筋、綺麗でしょう？」
+Ey, mira mi cuello... ¿No es precioso?"
+}
+[sha:22cd659eae8f43630db932d60078f6898a96841e]{
+-- Page 159, Offset 3012.
+-- 緊張か、夕日の魔力か。
+Son mis nervios, ¿o la magia de la puesta de sol?
+}
+[sha:ff4172e5b3e934bac1f268af3d0e619afa975b55]{
+-- Page 159, Offset 3013.
+-- 彼女の声は前からではなく、真後ろ―――それも耳元で<囁|ささや>かれたように、俺の耳に滑りこむ。
+Su voz se cuela en mi oído―― no desde el frente, sino detrás de mi, como si me estuviera susurrando directamente.
+}
+[sha:57e6bef7edfa117182267cd3f9a271d0f99230bc]{
+-- Page 160, Offset 3014.
+-- 「そう警戒しないで。
+"No seas tan precavido.
+}
+[sha:30219fa78bdc17c4f5bde5d4fac049514c839c57]{
+-- Page 160, Offset 3015.
+-- ……ただ指と指を重ねるだけ。体温を伝えるだけ。私の<重さ|からだ>を預けるだけ。
+Sólo cruza tus dedos con los míos.
+ Siente el calor de mi cuerpo.
+ Tómame en tus brazos.
+}
+[sha:39fe3630b427ff508a29e0e65b50b6a45e452406]{
+-- Page 160, Offset 3016.
+-- ……そう。貴方に私を、食べてもらいたいだけ……」
+// Noel shotacon furtiva de manual
+Si... Sólo quiero que me devores..."
+}
+[sha:90247e1a8090b1d1ce8ed5741323e1a0642817b2]{
+-- Page 161, Offset 3017.
+-- 吐息が近づく。脚が絡む。逃げ道をふさぐように、背中に腕が回される。
+Su aliento se vuelve más cercano. Nuestras piernas se entrecruzan.
+ Envuelve su brazo en mi espalda, como para bloquear mi escape.
+}
+[sha:396266adde7b690ef3304352dbe64cee2a2909d4]{
+-- Page 161, Offset 3018.
+-- ―――視界には。
+Ante mi, veo―――
+}
+[sha:34054a8c43dfba31d6e334797e01f065e76de4b5]{
+-- Page 161, Offset 3019.
+-- 妙に艶めかしく、滑るような、女の首が―――
+El extrañamente cautivador, suave cuello de una mujer―――
+}
+[sha:d0403052df966debd679efa8caee7ee73eea0249]{
+-- Page 162, Offset 3020.
+-- 「……ほら……心音だけでとろけてしまうでしょう……？
+"¿Ves...? El sólo sonido de mi corazón te ha hechizado, ¿no?
+}
+[sha:984960545f8cd6a1308e36f73304a2c1b39463bf]{
+-- Page 162, Offset 3021.
+-- だから忘れて、貴方を忘れて……邪魔なものはぜんぶ取ってしまえばいいの……その建前も、その眼鏡も―――」
+Solo olvídate, olvidate de ti, olvidate de... todo lo que está por medio, deshazte de todo... las formalidades, las gafas―――"
+}
+[sha:bd592329525f4d0d52125fd2873fc3720a93f67a]{
+-- Page 163, Offset 3022.
+-- 蛇のような指が眼鏡の<蔓|つる>に触れる。
+Sus dedos como serpientes acarician la montura de mis gafas.
+}
+[sha:c35371fe9235a1de97568f0c868c102cc8472b35]{
+-- Page 163, Offset 3023.
+-- 瞬間。俺の体は“視たくない”という恐怖心だけで、彼女から飛び退いていた。
+El momento en el que lo hace, mi cuerpo retrocede con miedo ante la simple idea de 'ver'.
+}
+[sha:3bd803032fe7a75fcc01889286a0ec296347e381]{
+-- Page 164, Offset 3024.
+-- 「なーんて、新任記念のジョウダンでした♡
+// ya xd
+"¡Sooooolo bromeaba!
+ Ha sido solo una pequeña broma para romper el hielo ♡
+}
+[sha:a14a95a149d3c1dcdb9347fce909a2e8a1c6e090]{
+-- Page 164, Offset 3025.
+-- 日本風に言うと、ちょっとしたスキンシップ？　じゃなくて名刺交換？　うん、どっちにしても、まだまだカタチだけの付き合いってコトね、私たち！」
+// Skinship es como contacto entre piel, lo dejo en contacto de momento y si se tiene que cambiar se cambia.
+En términos japoneses, ¿lo podrías llamar un poco de %{i}contacto%{/i}?
+ O espera, ¿es más como intercambiar tarjetas de negocio?
+ Hmm, de cualquier forma, es solamente un poco de socialización entre nosotros, ¿vale?"
+}
+[sha:96d4b8086b6d9e0295e8b9d8cc1b89e16c67ea39]{
+-- Page 165, Offset 3026.
+-- 「……冗談って、ノエル先生」
+"¿Una broma? Noel-sensei..."
+}
+[sha:24880c9a14391060c8fca6a41dd90a3dbb3b04de]{
+-- Page 165, Offset 3027.
+-- ……今のはそんな言葉で済まされるコトではないと思う。
+No creo que esa sea la palabra adecuada para lo que acaba de ocurrir...
+}
+[sha:a7e62dc60a3838cba12ac745a530244967f2a698]{
+-- Page 165, Offset 3028.
+-- 教師である以上、冗談でも悪ふざけがすぎるというか―――
+Eso es ir muy lejos para ser una broma,
+ especialmente cuando consideras que ella es una profesora―――
+}
+[sha:a6a9ae4d7b4995d1ba16e51488b98f5b33522992]{
+-- Page 166, Offset 3029.
+-- 「……そもそも用はなんなんですか。
+"De todas formas, ¿para que me necesitabas?
+}
+[sha:616e39ada4c38860f539931096aaeb57415101bd]{
+-- Page 166, Offset 3030.
+-- 俺を探してたような口ぶりでしたけど」
+Sonaba como si me estuvieras buscando."
+}
+[sha:3e3714af43454a0954ef70197cc17c54a8ff7a5b]{
+-- Page 167, Offset 3031.
+-- 「あ、それはもういいの。ちょっと手伝ってもらいたいコトがあっただけ。それももう終わったわ。
+"Ah, no te preocupes. Necesitaba tu ayuda para algo, pero ya está resuelto.
+}
+[sha:6a577d7fa5ccf4095bc4143e24205a664eeb8b0b]{
+-- Page 167, Offset 3032.
+-- それじゃあ、さようなら志貴クン。戸山先生みたいにならないよう、気をつけて帰ってね」
+Nos vemos, Shiki-kun.
+ Ten cuidado de camino a casa para no terminar como Toyama-sensei, ¿vale?"
+}
+[sha:7966b6e4d8fd27e3bef9386e3bc6c72332b6ae28]{
+-- Page 168, Offset 3033.
+-- ノエル先生は手を振りながら去っていく。
+Noel-sensei saluda con la mano mientras se aleja.
+}
+[sha:1813fd40044d831a831632817c150dfe5bbae454]{
+-- Page 168, Offset 3034. Mods: @k, @e.
+-- 俺は、今の台詞が、どうしても気になって―――
+No puedo dejar de pensar en lo que acaba de decir―――
+}
+[sha:4f328e0f57d461ebcd3dd169a5840089b9dbb838]{
+-- Page 168, Offset 42585. Choice.
+-- 戸山先生について、質問した。
+ Así que pregunto por Toyama-sensei.
+}
+[sha:c313d14169e46c2942a1675b232c3b27d0db08ec]{
+-- Page 168, Offset 42586. Choice.
+-- ……あえて考えない事にした。
+ Pero decido dejarlo ir.
+}

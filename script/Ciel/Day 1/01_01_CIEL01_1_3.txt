@@ -1,0 +1,499 @@
+[sha:f544ab0c42da473c5e02783d825ff8ffb647d4b6]{
+-- Page 11, Offset 522.
+-- ……しかし……気になる。
+-- TRANSLATION HERE
+}
+[sha:ab7c5e9423a056f331fa683a16ebb387f03d6400]{
+-- Page 11, Offset 523.
+-- 肩にかけたバッグより、ふと視界に入ってしまった両脚に目がいってしまう。
+-- TRANSLATION HERE
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 12, Offset 524.
+-- 「――――――」
+"――――――"
+}
+[sha:a953d7f856be00fcd82f08c4fc38b04919ce7f04]{
+-- Page 12, Offset 525.
+-- 生命力が具現化、あるいは結晶化したような、素晴らしい脚線だった。
+-- TRANSLATION HERE
+}
+[sha:02ef5ad06ec26e08d3fdfbe4b7b1212b4ad628e4]{
+-- Page 12, Offset 526.
+-- 流水の滑らかさと、止まっていながらも伝わる躍動感。
+-- TRANSLATION HERE
+}
+[sha:3312612895bb5900467b2f22911aa59cdbf523bc]{
+-- Page 12, Offset 527.
+-- 造形美とはこういうものを言うのだろう。かくいう自分も目が離せない。離せないばかりか吸い寄せられている。
+-- TRANSLATION HERE
+}
+[sha:3a8448f637d846f6bd7173f8cdd8687d6c416388]{
+-- Page 13, Offset 528.
+-- 「あの……遠野くん？」
+-- TRANSLATION HERE
+}
+[sha:210de2d981d21c0409a9f59cdb3730a8c3785940]{
+-- Page 14, Offset 529.
+-- 美しさと逞しさは両立するのだな、と思い知る。
+-- TRANSLATION HERE
+}
+[sha:cb4947b10921f2e3a9d3094b8d324f35fddbda6a]{
+-- Page 14, Offset 530.
+-- 肉付きはあるが、その実、これはスプリンターの脚だ。
+-- TRANSLATION HERE
+}
+[sha:4912982fdeb6ca8c8ecb7bc6755683ae165be031]{
+-- Page 14, Offset 531.
+-- 風の噂によると先日の体力測定では陸上部を差し置いて我が校の新記録を叩きだしたとか。これが100メートル走13秒台の脚……生きているダイヤモンドを見ている錯覚に襲われる。
+-- TRANSLATION HERE
+}
+[sha:3fb119fd9c7cefd11c2198f275315c090e9f663d]{
+-- Page 15, Offset 532.
+-- 「あのですね、顔が近いというか、その、持ち上げた手の動きが、ですね」
+-- TRANSLATION HERE
+}
+[sha:1b73abde064a7d016b850296d47fac1d1242011f]{
+-- Page 15, Offset 533.
+-- 「すみません。いま真剣な話をしているところなので」
+-- TRANSLATION HERE
+}
+[sha:3d2be7f674997836ee1b00a10287b105ed039f6d]{
+-- Page 15, Offset 534.
+-- 「は、はあ。真剣、ですか」
+-- TRANSLATION HERE
+}
+[sha:c1525e940ead793c1e78c430e5452a4646f1d384]{
+-- Page 16, Offset 535.
+-- とはいえ、残念な事に俺は彼女のトレーナーでもないし、ライバルの陸上選手でもない。
+-- TRANSLATION HERE
+}
+[sha:913c7a4715689c1319d2e6e5dc900f058c4dbf0c]{
+-- Page 16, Offset 536.
+-- 速さの秘密を手に入れたところで明日から本気を出せるワケでもない。
+-- TRANSLATION HERE
+}
+[sha:c644691cd518c5251e504d6450176124fe8310e9]{
+-- Page 17, Offset 537.
+-- 「あ、いえ、でもですね、何が真剣なのかさっぱり話が見えないというか！」
+-- TRANSLATION HERE
+}
+[sha:667dea372b5327d6853165b84fb007af8b152553]{
+-- Page 17, Offset 538.
+-- 「そりゃそうです。俺だって意味が分かりません」
+-- TRANSLATION HERE
+}
+[sha:fb71879a715b57b70f6d0a1857fe58d551f7f59b]{
+-- Page 18, Offset 539.
+-- 美しいものに惹かれる心理をどう言葉にしろと？
+-- TRANSLATION HERE
+}
+[sha:fe578b94184b2a7df2476de5d49098d53a46bcbd]{
+-- Page 18, Offset 540.
+-- しかし、言葉にできない美しさというが、美しいものを素直に美しいと言えない状況も、また間違っているのではないだろうか。
+-- TRANSLATION HERE
+}
+[sha:271266864a499eb382f7dfb9d30c3aaebee74b09]{
+-- Page 18, Offset 541.
+-- 人間はいつになったらあらゆる偏見、あらゆる差別を超えて、物事の本質を語り合う事ができ、
+-- TRANSLATION HERE
+}
+[sha:fa123e5cdfd98363ae149ab3112d67404871d0af]{
+-- Page 19, Offset 542.
+-- 「くはっ!?」
+-- TRANSLATION HERE
+}
+[sha:d3e6a8a16f0cc56a80154aaeda9390820f6ee0f8]{
+-- Page 19, Offset 543.
+-- 「と、遠野くん、だいじょうぶですか!?
+-- TRANSLATION HERE
+}
+[sha:c11ad51e0ccb388f28b84196e24a3157c0d4e8e7]{
+-- Page 19, Offset 544.
+-- いま、頭になにか当たりましたけど!?」
+-- TRANSLATION HERE
+}
+[sha:da8529016fd770f69bbc93fa9dbc1c42597db83f]{
+-- Page 19, Offset 545.
+-- 「……はい。すんでのところで助かりました」
+-- TRANSLATION HERE
+}
+[sha:0a1ea8b88d278daa15108b5ba3f7dcfa50cf3d9e]{
+-- Page 20, Offset 546.
+-- 側頭部の痛みをこらえつつ、座席に落ちたモノを手に取る。
+-- TRANSLATION HERE
+}
+[sha:8c61f728a2c3e34616b46279b5a058146656dca6]{
+-- Page 20, Offset 547.
+-- メタリックに輝く手のひらサイズの金属塊。
+-- TRANSLATION HERE
+}
+[sha:9a946c1bff37c3f73d36e427c09ca7cbfac91b52]{
+-- Page 20, Offset 548.
+-- どう見ても携帯端末だった。
+-- TRANSLATION HERE
+}
+[sha:1c2d576afa02f223b5b853ad14128ce50ce8a1c9]{
+-- Page 21, Offset 549.
+-- 「すみません。こちらに何か飛んできませんでしたか」
+-- TRANSLATION HERE
+}
+[sha:e9ecfb0abe178d4aa45bb52fa9e49327af13aca3]{
+-- Page 21, Offset 550.
+-- 「……これかな。ちょっと、すごい角度で飛んできたけど。振り回して遊ぶアプリでも入ってたの？」
+-- TRANSLATION HERE
+}
+[sha:d1e10ec3689f630ccbe7e00372711b3d4f0afabb]{
+-- Page 22, Offset 551.
+-- 「バカじゃないですか。ありがとうございます」
+-- TRANSLATION HERE
+}
+[sha:19eb27d379d6d3515415dd756c708da8fbf7545a]{
+-- Page 22, Offset 552.
+-- 女の子は何事もなかったように携帯端末を受け取って、一つ離れた扉の前に去って行った。
+-- TRANSLATION HERE
+}
+[sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
+-- Page 23, Offset 553.
+-- 「……………」
+"........."
+}
+[sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
+-- Page 23, Offset 554.
+-- 「……………」
+"........."
+}
+[sha:acdba3e90f420cb48d8da6bc66a14eebc4828ffe]{
+-- Page 23, Offset 555.
+-- あまりの展開に先輩と見つめ合ってしまった。
+-- TRANSLATION HERE
+}
+[sha:7e68b173bb00a3f420e4cafc33ab7446b66ed6e1]{
+-- Page 24, Offset 556.
+-- ともあれ、俺は正気に戻った。
+-- TRANSLATION HERE
+}
+[sha:85efaecfb9dc989da481fef75aa28d3b2f357e54]{
+-- Page 24, Offset 557.
+-- こほんと咳払いをして空気を切り替える。
+-- TRANSLATION HERE
+}
+[sha:3989d15a6dcc367676b65230d125f1e0ad43b3e0]{
+-- Page 25, Offset 558.
+-- 「すみません、ちょっとぼうっとしてました。
+-- TRANSLATION HERE
+}
+[sha:d58ea4077f1ffa12339d760ef003b3c5e985e597]{
+-- Page 25, Offset 559.
+-- それよりどうしたんですか？　先輩、部活やってませんよね。こんな時間に登校なんて」
+-- TRANSLATION HERE
+}
+[sha:98450903a33176da0ab46671ff6329a7ff8ba09f]{
+-- Page 26, Offset 560.
+-- 「いえ、何を隠そうボランティア活動の帰りなんです。
+"Bueno, para serte sincera, estoy volviendo de un voluntariado.
+}
+[sha:1ecca8f725b1095535302c920bec2151c89b0454]{
+-- Page 26, Offset 561.
+-- ほら、生徒会公募で公園のゴミ拾いがあったでしょう？　あれをちゃちゃっと、先ほどまで」
+-- TRANSLATION HERE
+}
+[sha:62e909ac036e45d42a7be6ad6590524af3865f8b]{
+-- Page 27, Offset 562.
+-- 言われて、ああ、と合点が行った。
+Ajá. Esa explicación tiene todo el sentido.
+}
+[sha:45c043f83d873c2a5b526a19ee2df85343c56381]{
+-- Page 27, Offset 563.
+-- この眼鏡の似合う先輩はいつだって、誰かの為に<奔走|ほんそう>している人なのだ。
+-- TRANSLATION HERE
+}
+[sha:cea55f354bd88e58862c6d139fda17e8fe94c0cb]{
+-- Page 28, Offset 564.
+-- 「早朝から30分だけの奉仕活動だったんですけどね。
+"Solo fueron treinta minutos de voluntariado.
+}
+[sha:da6b2df5c60e8794a48c93d9966cd6cce4a49c92]{
+-- Page 28, Offset 565.
+-- 他の皆さんはいったん帰宅したんですが、わたしは面倒なのでこのまま登校してしまおうかと」
+Todo el mundo se fue a casa un rato, pero yo pensé en ir directamente a la escuela porque volver primero a casa hubiera sido mucho problema.
+}
+[sha:d7642c62f0a82344d95278588d5505db860f7280]{
+-- Page 29, Offset 566.
+-- がしゃり、と肩に背負った<荷物|バッグ>を鳴らす先輩。
+-- TRANSLATION HERE
+}
+[sha:fd9f81f8fe430fe6abc8bf0e3ac7eea1f2029545]{
+-- Page 29, Offset 567.
+-- 部活の道具かと思ったが、アレは清掃道具らしい。
+Pensé que era algo para sus actividades del club, pero parece ser equipo de limpieza.
+}
+[sha:4d72ab55bff24c88fda641181941b55a1ee708f8]{
+-- Page 30, Offset 568.
+-- 「おや。中身、見たいんですか？　先輩の持ち物をチェックするなんて、おとなしそうに見えて大胆ですね」
+"Uy. ¿Quieres saber lo que hay dentro?
+ Pareces tan inocente por fuera,
+ pero realmente te mueres de ganas por hurgar en las pertenencias de tu Senpai... ¡qué atrevido!"
+}
+[sha:7c8639dca03ac564504db4cef067715fad68ec44]{
+-- Page 31, Offset 569.
+-- 先輩はこちらの顔を覗きこむように、ぐっと身を寄せてくる。
+Senpai se acerca para mirarme a los ojos.
+}
+[sha:e2865afd7787d92d0a78be7a0cf445ab977340d6]{
+-- Page 31, Offset 570.
+-- ……や、顔とか体温とか、いろいろ近くて、目の置きどころに困ってしまう。
+-- TRANSLATION HERE
+}
+[sha:c4c693eb19535d18b527284a2f20a83fcc08453c]{
+-- Page 32, Offset 571.
+-- 「い、いえ、そういうワケじゃなくてですね、もし折りたたみ式の箒とか熊手とかなら、珍しいなと……」
+"N-No, no es eso, solo pensé en si tenías una escoba plegable o un rastrillo, eso sería inusual..."
+}
+[sha:9c02819d3c7fa796ebb806cf79a8db6deaf39dd2]{
+-- Page 33, Offset 572.
+-- 「ほうほう。わたしの万能<高枝|たかえだ>切り<鋏|ばさみ>も見たいと。よろしい。それでしたら放課後、いつもの茶道部に来てください。貴方なら大歓迎です」
+-- TRANSLATION HERE
+}
+[sha:506aa919b2d2b5f46f672d95b135f11ba0a6a60c]{
+-- Page 34, Offset 573.
+-- 染みいるような笑顔で言われると、こちらも照れてしまう。
+No puedo evitar sentirme avergonzado, si la escucho decirlo con esa sonrisa contagiosa en la cara.
+}
+[sha:9ceff1196e26ca6347563652c0a7cf30c24d0035]{
+-- Page 34, Offset 574.
+-- 気の利いた返事もできず、はい、とうだつの上がらない返答をした。
+Incapaz de responder ingeniosamente lo mucho que puedo decir es un débil 'si'.
+}
+[sha:44237c732ae77e94f29ca3239659bece633daf89]{
+-- Page 34, Offset 575.
+-- そもそも茶道部の部室の場所を知らないが、後で調べればいいだろう。
+-- TRANSLATION HERE
+}
+[sha:db35839ea1d7b829decd941465aaf26dc0d25b59]{
+-- Page 35, Offset 576.
+-- 「約束ですよ。ここだけの話、部費で購入したお茶請けが余ってしまいまして。日持ちするものではないので、元気な男の子の協力が不可欠なんです」
+"Prometido entonces. Entre tú y yo, he comprado un excedente de aperitivos con el dinero del club. No es que duren mucho sin ponerse malos, así que necesito un chico saludable que me ayude."
+}
+[sha:692bf2a9bbf51efcc29027da3ddf49bebe10d5da]{
+-- Page 36, Offset 577.
+-- 「そ、そうですか。じゃあ予定があえば、是非。
+"¿E-Es eso? Bueno, si mi horario lo permite, me pasaré.
+}
+[sha:e3171a6fd8804079edbe1725e96327faf9ac22d0]{
+-- Page 36, Offset 578.
+-- でも食べ物に釣られて行くなんて、なんか猫みたいですね」
+-- TRANSLATION HERE
+}
+[sha:ec7971cb5b67e6cbdfd4c1a7965c27acd28b4450]{
+-- Page 37, Offset 579.
+-- あまりに気さくなシエル先輩の笑顔に釣られて、こっちも軽口がこぼれた。
+-- TRANSLATION HERE
+}
+[sha:ab01ead12face23ea9d4c3b98e388317f55e6f2f]{
+-- Page 37, Offset 580.
+-- 緑色のリボンの先輩は、
+La senpai del lazo verde responde―――
+}
+[sha:8c0ad9597e7875db75fe7655ab0ed5b530c6b8e9]{
+-- Page 38, Offset 581.
+-- 「どちらかというとワンちゃんではないでしょうか。
+"Es más como un perro, diría.
+}
+[sha:2f290989076c056ff31e11aad499df4f8ee0e870]{
+-- Page 38, Offset 582.
+-- というかネコ科はよくありません。最後まで頼りになるのは、律儀で頭のいいイヌ科です！」
+Me refiero, los felinos son terribles. ¡Responsables e inteligentes los caninos son los únicos con los que puedes contar al final!
+}
+[sha:ae9a64034cf4a7a9f1e05cd48b49a44dcee49cda]{
+-- Page 38, Offset 583.
+-- 得意そうに、よく分からないこだわりを見せるのだった。
+Declara sus claras preferencias con una expresión satisfecha.
+}
+[sha:3f881e5f1ece2fccc8f808cf0f5bfa5c618839a2]{
+-- Page 39, Offset 584.
+-- 目的地が一緒という事もあり、なんとなしに会話は続いた。
+Como nos dirigimos al mismo sitio, nuestra conversación continúa.
+}
+[sha:c737432e9e1d3ac6f25e2ec3240aa722719cd9b8]{
+-- Page 39, Offset 585.
+-- 先週に終わった中間試験のこと。
+Hablamos de los exámes de mitad de ciclo de la semana pasada.
+}
+[sha:8c1c0e8e435081e3db56eb31cc821600b219130a]{
+-- Page 39, Offset 586.
+-- 規模が縮小され一日で終わってしまう体育祭のこと。
+Sobre el festival deportivo, el cual ha sido reducido en tamaño y solo duró un día.
+}
+[sha:65d085b8420a42ab0fcea5d9a5fe9b9bba65c989]{
+-- Page 39, Offset 587.
+-- いっこうにメニューが改められない食堂のこと。
+Acerca de la cafetería, donde el menú nunca cambia.
+}
+[sha:5cbd5ed00a85b257d6e1ba4caf363dabf2736194]{
+-- Page 39, Offset 588.
+-- 携帯端末の使用を巡る生徒側と学校側の論争を真面目に話し合った結果、互いにため息をついてしまったので話題を変え、最近観た映画の所感などを交わして笑いあう。
+-- TRANSLATION HERE
+}
+[sha:38b7038b9ef679fd9f9f1cfa2fdd908ed2ec20c0]{
+-- Page 40, Offset 589.
+-- あっという間の15分。
+Los quince minutos se pasan rápido.
+}
+[sha:6d3035113a9f4ac882d2eae73a0a444fcc6d1de5]{
+-- Page 40, Offset 590.
+-- 先輩は話し上手で、噂通りの“男女ともに好かれる”先輩だった。
+Esta es la universalmente querida Senpai que los rumores describen――de verdad puede manterner una conversación.
+}
+[sha:ef9e61f501c7b1c7e7082a3790d61dd6602e04df]{
+-- Page 40, Offset 591.
+-- あと数分で総耶駅に着いてしまう事が名残惜しく、つい次の話題を持ちかける。
+No quiero pensar sobre el hecho de que pronto llegaremos a la estación de Souya, así que saco otro tema
+}
+[sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
+-- Page 40, Offset 592.
+-- ―――が。
+―――Pero.
+}
+[sha:589ee07a33032d1d254926dbc3be2cb80863bb88]{
+-- Page 41, Offset 593.
+-- 「ちょっと、うるさいんですけど」
+-- TRANSLATION HERE
+}
+[sha:496382d5de2f9c757ac48302ddbac6964272a9c0]{
+-- Page 41, Offset 594.
+-- この通り、周囲の事を失念していた。
+Como ella dice, nos habíamos olvidado de donde estamos.
+}
+[sha:c57497d601be223c23411cb976ca8fbceff0ab42]{
+-- Page 42, Offset 595.
+-- 失礼しました、と先輩とふたりで頭を下げる。
+Agachamos la cabeza en disculpa.
+}
+[sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
+-- Page 42, Offset 596.
+-- 「……………」
+"........."
+}
+[sha:0aec5f8e37bb11bba63ebffa0f459ee474f02fe1]{
+-- Page 43, Offset 597.
+-- 「……怒られちゃいましたね」
+"Nos regañaron, eh..."
+}
+[sha:d097eaf8291a3ca4a6b7727f3413ee2e8aa1e78d]{
+-- Page 43, Offset 598.
+-- 「……ごめんなさい。
+"Perdón...
+}
+[sha:9f6e6452d4bca7a4dabe7aa9e8ac4eb0e66eb36c]{
+-- Page 43, Offset 599.
+-- わたしの笑い声が大きかったんです、きっと」
+Me estaba riendo muy alto, supongo."
+}
+[sha:bba78143101f62aa92a739b1b777c129511965e5]{
+-- Page 44, Offset 600.
+-- それきり会話はなくなった。
+Después de eso, la conversación se apaga.
+}
+[sha:82ac2eee23aebcd9859de316fc60667770f9818c]{
+-- Page 44, Offset 601.
+-- さっきまでの気さくな雰囲気が嘘のようだ。
+Era como si la atmósfera amigable que había experimentado hasta ahora hubiese sido una mentira.
+}
+[sha:46d7d5848bf8f2622ffde7a204965ddfcae7a044]{
+-- Page 44, Offset 602.
+-- 誰もが他人にすぎない、都会特有の沈黙が車内を支配する。
+Todos son desconocidos, el silencio característico de la ciudad domina el tren
+}
+[sha:427be293a369627661401b9e960c261991a83bdc]{
+-- Page 45, Offset 603.
+-- 電車は総耶駅に到着した。
+El tren llega a la estación de Souya.
+}
+[sha:d6cb269b9d13385145e778ae12f9125cc6666da0]{
+-- Page 45, Offset 604.
+-- 時刻は７時前。
+Es justo antes de las siete en punto.
+}
+[sha:ffadc83aeb16d019495aea9f860a588e18c89cc5]{
+-- Page 45, Offset 605.
+-- 登校時間にしては早く、街もまだ目を覚ましきっていない。
+-- TRANSLATION HERE
+}
+[sha:5061dc4b3833a6d58d76352ca9ae1c7b27428e37]{
+-- Page 45, Offset 606.
+-- 今でこそ静かだが、あと１時間もすれば人と車であふれかえる事だろう。
+-- TRANSLATION HERE
+}
+[sha:163330c721df26e9c84ae2bca994216e5dceae5d]{
+-- Page 46, Offset 607.
+-- 「今朝も交通量が少なめですね。最近、街の目覚めが遅い気がします。みなさん夜更かしなんでしょうかねー」
+"Esta mañana tampoco hay mucho tráfico.
+ Parece que la ciudad tarda en despertarse últimamente.
+ Me pregunto si todo el mundo se queda despierto hasta tarde."
+}
+[sha:0bb206542d2448e5d59407f587d52eca7014009b]{
+-- Page 46, Offset 608.
+-- 重そうに荷物を抱えながら、先輩は妙なことを言う。
+Senpai dice algo inesperado mientras carga con su equipaje pesado.
+}
+[sha:a4e842416ac7db45ea10beedef4dda04970049eb]{
+-- Page 47, Offset 609.
+-- 「あの。荷物、学校まで持っていきましょうか？」
+"Um... ¿quieres que te lleve la bolsa hasta la escuela?"
+}
+[sha:5826e5c4bb5ec4e0718085f2926799ee7a34d1b1]{
+-- Page 47, Offset 610.
+-- 「え？　あ、いえいえ、お気になさらず。わたしは寄っていくところがありますので、ここでお別れですね」
+"¿Eh? Ah, no, no, no te preocupes. Tengo que hacer una parada, así que aquí me despido."
+}
+[sha:eb78dcc874b9139ceef5749d13a1acdac44fba0c]{
+-- Page 48, Offset 611.
+-- では、と笑顔で手を振って先輩は走り去った。
+Senpai corre mientras sonríe devolviendo el saludo.
+}
+[sha:f6449ffcdfa7c721ccbc40468836b6863dbb4283]{
+-- Page 48, Offset 612.
+-- ばびゅーん、なんて擬音が似合いそうな、それはそれは軽快かつ高速の駆け足だった。
+Es tan rápida y ligera que me recuerda a una gacela brincando.
+}
+[sha:3078c583e754768754722519269c195cc751b254]{
+-- Page 49, Offset 613.
+-- つられて走り出したくなったが急ぐ理由はない。
+-- TRANSLATION HERE
+}
+[sha:5439ed313de2cba68e75a6e6f3104cf885595118]{
+-- Page 49, Offset 614.
+-- 体の事もあるし、いつも通りのペースで学校に向かおう。
+-- TRANSLATION HERE
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 50, Offset 615.
+-- ……と。
+Sin embargo...
+}
+[sha:548e06e724d3b3a67d06065ccc0be77f1a525e9d]{
+-- Page 50, Offset 616.
+-- 先ほどの女の子が改札から出てきた。
+La chica de antes sale de la puerta de embarque.
+}
+[sha:aeea341a4f511ffb4fc82893cb9794ad836f4034]{
+-- Page 50, Offset 617.
+-- 少女は早足でこちらの横を通り過ぎながら、
+Pasa rápido a mi lado―――
+}
+[sha:6b4e21cf8db0205bae6b80faf96385e32a540f05]{
+-- Page 51, Offset 618.
+-- 「動物的にも程があります。
+-- TRANSLATION HERE
+}
+[sha:ba9bc9765febdeec4adafc15fc9880fc409c3d9d]{
+-- Page 51, Offset 619.
+-- 公共の場で恥ずかしいと思わないんですか？」
+-- TRANSLATION HERE
+}
+[sha:9bd788662c2c2518e836e7367611497c26c8ac33]{
+-- Page 51, Offset 620.
+-- なんて、強烈なダメ出しを残していった。
+―――Y deja atrás una crítica mordaz.
+}

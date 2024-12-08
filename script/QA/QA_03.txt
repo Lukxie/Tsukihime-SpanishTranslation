@@ -1,0 +1,175 @@
+[sha:ae44767b1f22a2cf2fb6aeb1c53956db66816ff2]{
+-- Page 48, Offset 42854. Mods: @n.
+-- え……なにこのエンド……
+-- TRANSLATION HERE
+}
+[sha:5d62910296db0395f5ab8a7e3d54f70e718028ea]{
+-- Page 48, Offset 42855.
+-- 月姫ってホラーだったの？
+-- TRANSLATION HERE
+}
+[sha:c50a3686f5905a1e631ab62c03e95f4de2a33273]{
+-- Page 49, Offset 42856.
+-- っていうかメガネが何をしたーー！
+-- TRANSLATION HERE
+}
+[sha:db1174427959544cf9cc9b30f3684f330ec9da96]{
+-- Page 50, Offset 42857. Mods: @n.
+-- 後ろから殴られてゾンビ軍団のただ中に
+-- TRANSLATION HERE
+}
+[sha:d3da039dcc0cc780c7032d5345c7985025b962f4]{
+-- Page 50, Offset 42858.
+-- 落とされるほどのコトをしたというのか！？
+-- TRANSLATION HERE
+}
+[sha:69f7460d9bf83765f29ac0fd70748f3266b35229]{
+-- Page 51, Offset 42859. Mods: @n.
+-- あ。いや。したわ。するわ。
+-- TRANSLATION HERE
+}
+[sha:3c10fc3e9def146d7ae5e7b3503dc13a2adafa1c]{
+-- Page 51, Offset 42860.
+-- ゾンビ相手に無双したりするしな。
+-- TRANSLATION HERE
+}
+[sha:c676454d86580037f85913c07d858f4da4a6b75c]{
+-- Page 52, Offset 42861. Mods: @n.
+-- ゾンビ斬わば囓られる。
+-- TRANSLATION HERE
+}
+[sha:792226fe40c9c7c3dcb0d441792ec6ca98e0884c]{
+-- Page 52, Offset 42862.
+-- 大局的に見れば差し引きは合ってるニャあ。
+-- TRANSLATION HERE
+}
+[sha:16daac425bdef17da0d90781dc1564017fe694dd]{
+-- Page 53, Offset 42863. Mods: @n.
+-- みんなも、立ち入り禁止の札がかかっている
+-- TRANSLATION HERE
+}
+[sha:0dd3145b9fe6edcc830bb45a3b695c3156678763]{
+-- Page 53, Offset 42864.
+-- 建物に入っちゃダメだぜ？
+-- TRANSLATION HERE
+}
+[sha:408133f6c008c1c125fbf6fc86545b711271bf66]{
+-- Page 54, Offset 42865.
+-- （ネコが常識を話している……）
+-- TRANSLATION HERE
+}
+[sha:528c03bc069f79bf7895a505554d0c955290304a]{
+-- Page 55, Offset 42866. Mods: @n.
+-- こほん、街の人たちを守ろう、と躍起になった
+-- TRANSLATION HERE
+}
+[sha:a717c60e751af22000e3e90ae5e8925774406595]{
+-- Page 55, Offset 42867.
+-- 遠野くんの行動自体は正しいものです。
+-- TRANSLATION HERE
+}
+[sha:16c6add81671a72da8ca9b3c6ac8cf9f3024f6bd]{
+-- Page 56, Offset 42868. Mods: @n.
+-- ただ、今回は運がありませんでしたね。
+-- TRANSLATION HERE
+}
+[sha:0f162abd96a1f6e26428e7a60dee2991decee3e7]{
+-- Page 56, Offset 42869.
+-- これは遠野くんだけではどうにもできない問題です。
+-- TRANSLATION HERE
+}
+[sha:0f99da922ebe12c2ab42a7972832dfcb4f459867]{
+-- Page 57, Offset 42870. Mods: @n.
+-- そうですね……もう少し違う展開になったのなら、
+-- TRANSLATION HERE
+}
+[sha:fdb7aeed59bc2b0d36d13b277582840a5d1db15b]{
+-- Page 57, Offset 42871.
+-- 勇気を振り絞ってデパート地下に向かってください。
+-- TRANSLATION HERE
+}
+[sha:033487b7e8c608c84168d3ee06aa676bf754cad1]{
+-- Page 58, Offset 42872. Mods: @n.
+-- ほほう。あのスプラッターを見てまだ『行け』とか、
+-- TRANSLATION HERE
+}
+[sha:d7262e448f91078fb389809d5cbe1c4f2bcba388]{
+-- Page 58, Offset 42873.
+-- ドエスか貴様。
+-- TRANSLATION HERE
+}
+[sha:79a8585416affea0489d19a5ab69bbb385f75001]{
+-- Page 59, Offset 42874. Mods: @n.
+-- でもどうしてダメだったんだ？
+-- TRANSLATION HERE
+}
+[sha:9a674c132fa4a48ae8586d744300b655de68b910]{
+-- Page 59, Offset 42875.
+-- やっぱ、ラップバトルを申し込むべきだった？
+-- TRANSLATION HERE
+}
+[sha:705078b29971506c52189929c490378074408901]{
+-- Page 60, Offset 42876. Mods: @n.
+-- デパートの門番である二人が苛だっていたのは、
+-- TRANSLATION HERE
+}
+[sha:bbc52105440bdd3c68274a90f4e16917b8454579]{
+-- Page 60, Offset 42877.
+-- この前日、ちょっとしたトラブルがあったからです。
+-- TRANSLATION HERE
+}
+[sha:710fdde38974ce9efab2741e94dbd4088ce87b5e]{
+-- Page 61, Offset 42878. Mods: @n.
+-- 働き者のヒロインがこの前日にデパートを調査して、
+-- TRANSLATION HERE
+}
+[sha:bbaa7d9ceb4a3230c65929add774ad51309883f4]{
+-- Page 61, Offset 42879.
+-- 彼らを警戒させていたのです。
+-- TRANSLATION HERE
+}
+[sha:a3c26a531a4aa1da63534466911d08cdd52d3ab4]{
+-- Page 62, Offset 42880. Mods: @n.
+-- なので……もしそのヒロインが前日、
+-- TRANSLATION HERE
+}
+[sha:4773b8bc1d169e8f49e64f4df713463b4deba347]{
+-- Page 62, Offset 42881.
+-- なんらかの理由で仕事ができなかったのなら……
+-- TRANSLATION HERE
+}
+[sha:3f05d02345a5fb2c71eefb4e66756d1db01206e4]{
+-- Page 63, Offset 42882. Mods: @n.
+-- デパートの門番の二人は、
+-- TRANSLATION HERE
+}
+[sha:8748cd05e2cc3a4bf3c1850f3bb4df32a192b596]{
+-- Page 63, Offset 42883.
+-- ここまで殺気だってはいなかったでしょう。
+-- TRANSLATION HERE
+}
+[sha:0afe9e8ca056166526523590793f4b622901ffed]{
+-- Page 64, Offset 42884. Mods: @n.
+-- 大きな声では言えませんが、一度大きなエンディングを
+-- TRANSLATION HERE
+}
+[sha:01f02dd60fda3dcd80ecfe9b4ea9f77dd971df20]{
+-- Page 64, Offset 42885.
+-- 迎えた後、茶道室で放課後を過ごしましょう。
+-- TRANSLATION HERE
+}
+[sha:89996db5b713c63bde52a36975b22d6dbc0b2a7b]{
+-- Page 65, Offset 42886. Mods: @n.
+-- この吸血鬼デパートのイベントは
+-- TRANSLATION HERE
+}
+[sha:f807e2f8b0f7913418328c6c124dcb3a21381a87]{
+-- Page 65, Offset 42887.
+-- ヒロインチェンジの大きな節目。
+-- TRANSLATION HERE
+}
+[sha:d4c6d6c1eef7858df0bbcf3b938b187f73eaf17c]{
+-- Page 66, Offset 42888.
+-- みなさん、しっかり覚えておいてくださいね！
+-- TRANSLATION HERE
+}

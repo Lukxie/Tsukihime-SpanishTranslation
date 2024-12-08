@@ -1,0 +1,110 @@
+[sha:7d8ff51ca0cc100962643d261d956b0baaba15a5]{
+-- Page 10013, Offset 11867.
+-- 「そんなの、」
+-- TRANSLATION HERE
+}
+[sha:51d9bddb9358ad799ad45002e442939a9e5eccab]{
+-- Page 10013, Offset 11868.
+-- 先輩を助けるに決まってる……！
+-- TRANSLATION HERE
+}
+[sha:17ced0d752aaeb9c85bcace14bd97ed6089be0b5]{
+-- Page 376, Offset 11869.
+-- 無我夢中で先輩の背中を追う。
+-- TRANSLATION HERE
+}
+[sha:b702b931107396583b82af920d77a4d4f8032cb4]{
+-- Page 376, Offset 11870.
+-- 吸血鬼がその力を十全に発揮するのは夜だという。
+-- TRANSLATION HERE
+}
+[sha:963d8b8f24f32100a1facf5639f89ece8263dc6b]{
+-- Page 376, Offset 11871.
+-- 倒すなら昼間である今しかない。
+-- TRANSLATION HERE
+}
+[sha:a3ea09dcc24875a4e05b44aed34a5181b8f57757]{
+-- Page 376, Offset 11872.
+-- 昨夜のホテルのような犠牲をこれ以上出さない為に、不利を承知で先輩はヴローヴに向かっていった。
+-- TRANSLATION HERE
+}
+[sha:3a4eee6281ffe00619fb5652e2fa9f1f4610a9b5]{
+-- Page 377, Offset 11873.
+-- なら、俺もここで逃げる事はできない。
+-- TRANSLATION HERE
+}
+[sha:5dd27e1d27f245b903306317a36e0e29926ce0a4]{
+-- Page 377, Offset 11874.
+-- 俺はまだ無傷で、体力も十分あり、頭痛もない。
+-- TRANSLATION HERE
+}
+[sha:3d8aa7400490c86b42c63e960d5ebb4ec0694d49]{
+-- Page 378, Offset 11875.
+-- もう一度ヴローヴに近づく事さえできれば、
+-- TRANSLATION HERE
+}
+[sha:523d5084688638bd14cfcdf0fe0bf43ed1740583]{
+-- Page 378, Offset 11876.
+-- ヤツを殺す事はできずとも、
+-- TRANSLATION HERE
+}
+[sha:a32d4f363088cab21d356acd5dc4780794105a1c]{
+-- Page 378, Offset 11877.
+-- 先輩の手助けくらいには―――！
+-- TRANSLATION HERE
+}
+[sha:3d36a0baf695d9708ad176a19907ef068c4cc5d1]{
+-- Page 379, Offset 11878.
+-- 「邪魔を―――」
+-- TRANSLATION HERE
+}
+[sha:02f16f3c27780c79cc8ee08faa6600d8262320ac]{
+-- Page 379, Offset 11879.
+-- 今更、死者の一体や二体、恐れるに足りない。
+-- TRANSLATION HERE
+}
+[sha:1879bfa8d0d16355976dc0d031dea032193c1293]{
+-- Page 379, Offset 11880.
+-- 俺は進行途中にいる死者の『線』を断ち切ろうとナイフを構え、
+-- TRANSLATION HERE
+}
+[sha:0c78a2153a581fd71e5b36ecfdf2fb7982cddec7]{
+-- Page 379, Offset 11881.
+-- 間合いに入る前に、ソレは連鎖的に爆発した。
+-- TRANSLATION HERE
+}
+[sha:686c3e0b4a3a6f90d73f4af5929a9c5a2715e6dd]{
+-- Page 380, Offset 11882.
+-- 話にならない。
+-- TRANSLATION HERE
+}
+[sha:0dd220fe19c5dac0fe3f546dab19ee67c62c52fe]{
+-- Page 380, Offset 11883.
+-- アルクェイドにあれだけ忠告されたのに、俺はまだ、ヤツの事を分かっていなかった。
+-- TRANSLATION HERE
+}
+[sha:81d8fe4d94a87a369f1eb45578fbff7424f10751]{
+-- Page 380, Offset 11884.
+-- 初めから、ヤツには『人間と戦う』気なんて、欠片ほどもなかったのだ。
+-- TRANSLATION HERE
+}
+[sha:7420ea7086f0704492c46f9e2f01665e62c8dc8a]{
+-- Page 381, Offset 11885.
+-- 「―――ダメ、遠野くん……！」
+-- TRANSLATION HERE
+}
+[sha:d12e4aed4bd7844de78969334bff8bd9d14677ab]{
+-- Page 381, Offset 11886.
+-- 制止の声は間に合わない。
+-- TRANSLATION HERE
+}
+[sha:098edcd0878b99e417043e0057326f60ff081865]{
+-- Page 381, Offset 11887.
+-- ……助けになるつもりで足を引っ張った。
+-- TRANSLATION HERE
+}
+[sha:dab63ab6913a077e2c4d227259136a6d9676e560]{
+-- Page 381, Offset 11888.
+-- 巨大な質量の土砂降りの中、先輩の声が、俺の聞いた最後の言葉だった。
+-- TRANSLATION HERE
+}

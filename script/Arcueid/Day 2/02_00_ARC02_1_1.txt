@@ -1,0 +1,324 @@
+[sha:9a8f291501e3475d81569c8c2cb1c1795198da0f]{
+-- Page 10004, Offset 2926.
+-- ＨＲの時間になってからはや３分。
+Han pasado tres minutos desde que la tutoría empezó.
+}
+[sha:193f7fa2631efa2caa0a90994a68edb2fe437e05]{
+-- Page 10004, Offset 2927.
+-- 戸山教諭の代わりの教師は一向にやってこなかった。
+El sustituto de Toyama-sensei aún no ha llegado.
+}
+[sha:910725543b3138de2f7525b8a4dafdbd4a1b825b]{
+-- Page 125, Offset 2928.
+-- 教室はざわつき、秩序は崩壊しかけていた。
+La clase está animada y el orden se está rompiendo.
+}
+[sha:3200cad56bb89c1b487e0476ae0873ecafa085cc]{
+-- Page 125, Offset 2929.
+-- 具体的にいうと、みんなだらけきっていた。
+Para ser más específico, los estudiantes están por todos lados.
+}
+[sha:87c930aff6a0aa816f0f6a591caef628e604f2c8]{
+-- Page 126, Offset 2930.
+-- このまま放置される運命なら一時限目が始まるまで遊んでしまおうとクラスの誰もが思っている。
+Todo el mundo en clase piensa que ya que nos dejan solos,
+ mejor que hagamos el tonto hasta que el primer periodo empiece.
+}
+[sha:9dd3d501d810094785392426ccf0315491eb5b0c]{
+-- Page 126, Offset 2931.
+-- あと１分。あと１分だけ我慢しよう。
+Un minuto más. Le daremos un minuto más.
+}
+[sha:3e16b4ea702574cca45bb6ef2083e47fc457bb89]{
+-- Page 126, Offset 2932.
+-- その後は何をするのも我々の自由だ、と暗黙の了解が敷かれる中、がらり、と扉は開かれた。
+Justo cuando estábamos llegando a un acuerdo no hablado para hacer lo que nos diera la gana en cuanto el minuto pasase, la puerta de abre.
+}
+[sha:2a5cb29bc155f2d46aa425456cd44a6c5d9965a6]{
+-- Page 127, Offset 2933.
+-- 「はーい、みなさん静かに、静かにー。
+"Vale, vamos a calmarnos, vamos a calmarnos.
+}
+[sha:e141f536e3b6544e835c63e6bfa150a4ce91b540]{
+-- Page 127, Offset 2934.
+-- ＨＲを始めますよー」
+¡La tutoría empieza!"
+}
+[sha:c737aceb11ad640bde49b24314249a0df81fb9bf]{
+-- Page 128, Offset 2935.
+-- ざわついた空気が一瞬で沈静する。
+El ambiente animado en clase se calma instantáneamente.
+}
+[sha:1962bb5a647535e7c29941a4938e3ba75f644f72]{
+-- Page 128, Offset 2936.
+-- 教室に入ってきたその教師は今まで見た事のない、というかどう見ても日本人ではない、それどころか大学生にしか見えない、予想外の人物だった。
+El profesor que ha entrado en clase es alguien que no había visto antes.
+ Me refiero, claraments no es ni japonesa, y parece más una universitaria que una profesora.
+ No es lo que te sueles esperar.
+}
+[sha:d27304b3f89844260eeae49c21c06d83548683d1]{
+-- Page 129, Offset 2937.
+-- 「あれ？　なにかしらこの空気？
+"¿Huh? ¿Qué pasa con este ambiente?"
+}
+[sha:be50a1fd67d34939cbe7088689ed2f60451e1f87]{
+-- Page 129, Offset 2938.
+-- みなさんそろってカチンコチンになっちゃってるけど……
+Todo el mundo de repente se había quedado de piedra...
+}
+[sha:010805953290f968cda34eef36f68f6a3fedd41a]{
+-- Page 129, Offset 2939. Mods: @k, @e.
+-- なに、私ったら<毒|バ><蛇|ジ>系女子？
+¿Como, qué? ¿Soy una clase de basilisco?
+}
+[sha:f92e10d49b6c09cde904e407b6e7c377e395fa5a]{
+-- Page 129, Offset 2940. Glued. Mods: @x.
+-- あ、いけない、ちょっと喩えがマイナーよね。えーと、日本風に言うと<心筋梗塞|リング>系女子？　でも先生、名前はサダコじゃないんだけど」
+Oh espera, esa metáfora es un poco oscura, ¿no?
+ Ehm, en términos japoneses, ¿quizá algo como la niña de %{i}The Ring%{/i}?
+ Pero el nombre de su nueva profesora no es Sadako, sabes."
+}
+[sha:4c54b3ee94f60701ac686b6da36392a0b1235e3d]{
+-- Page 130, Offset 2941.
+-- その喩えも既に古いのでは？　と眉をしかめる。
+Frunzo el ceño. ¿No es esa referencia %{i}también%{/i} un poco anticuada?
+}
+[sha:d72e641e9c3cdf44671b926351f9ef4a20299e4e]{
+-- Page 130, Offset 2942.
+-- 一方、謎の女性は気にした風もなく教壇に立つと、コホンと、わざとらしく咳払いをする。
+En cualquier caso, no parece que molestarla.
+ Con una actitud despreocupada, la mujer misteriosa se coloca detrás del podio y limpia su garganta deliberadamente.
+}
+[sha:f6768cc7bc4cb9923021caaf27ef5748983a3a99]{
+-- Page 131, Offset 2943.
+-- 「はじめまして。戸山先生が転任なされたので、その代行としてやってきた新任の<愛染|あいぞめ>ノエルです。
+"Encantada de conoceros. Soy Aizome Noel y seré la sustituta de Toyama-sensei ahora que se ha transferido.
+}
+[sha:984984ebe120ecc16f3341a9a9eba05d316c784a]{
+-- Page 131, Offset 2944.
+-- 一ヶ月だけのお付き合いになりますが、みなさんよろしくお願いします」
+Solo estaremos juntos por un mes, pero estoy deseando trabajar con vosotros."
+}
+[sha:a9c30cae34869bb8730ecc12c92dd6530ff574be]{
+-- Page 132, Offset 2945.
+-- 「担当学科は体育と英語、好きな食べ物はモンブラン、貰って嬉しいプレゼントは現金ないしウェブマネーで、ＮＧワードはペットショップ。
+"Enseñaré Educación Física e Inglés, mi comida favorita es %{i}Mont Blanc%{/i}, los mejores regalos que puedo recibir son dinero en efectivo o tarjetas de regalo, y mi palabra prohibida es 'Tienda de Animales'.
+}
+[sha:f83e46b44c26e3ecd8c10fe8acd0f224efa87458]{
+-- Page 132, Offset 2946.
+-- 質問は随時受け付けますので、遠慮なくアタックしてください♡」
+Siempre estoy abierta a preguntas, así que no tengais miedo de venir, vale ♡"
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 133, Offset 2947.
+-- 「――――――」
+"――――――"
+}
+[sha:e338152ddbce642546bd1f46a2ecd875eb398c2b]{
+-- Page 133, Offset 2948.
+-- がたり、とあさましくも不穏な物音が教室に木霊した。
+Un batiburrillo de golpes y choques hace eco en clase.
+}
+[sha:ad0eda1fbaaeceef9df36bd7e02d462b359a7f93]{
+-- Page 133, Offset 2949.
+-- ノエル先生のウインクを受け、思わず椅子から立ち上がりかけた男子どものフライング擬音である。
+Es el sonido de los chicos al levantarse de sus sillas inconscientemente tras recibir un guiño de Noel-sensei.
+}
+[sha:c3d032ee17d271eefad40812391bf523ab4847d5]{
+-- Page 133, Offset 2950.
+-- かくいう自分も、ちょっとだけ見入ってしまった。
+Incluso yo tengo que admitir que estoy un poco engatusado.
+}
+[sha:e99b707666f03d19baf197114fd470772bbfc3bb]{
+-- Page 134, Offset 2951.
+-- ノエル先生は目を見張るような美人ではないが、
+No es que ella sea %{i}excepcionalmente%{/i} bonita ni nada de eso.
+}
+[sha:2915b6990f4c0f54ca470d9b60d8b75424fa60d6]{
+-- Page 134, Offset 2952.
+-- その分手が届く範囲の憧れというか、
+Pero precisamente por eso, da la sensación de que ella sigue a nuestro alcance lo que nos da esperanzas.
+}
+[sha:835bbd53c112aea717625e429c3f64a27ab901e5]{
+-- Page 134, Offset 2953.
+-- ちょっとだけ年上のお姉さんというか、
+Quizá porque solo es %{i}un poco%{/i} mayor que nosotros...
+}
+[sha:e352e328c24afe2b8e570f788d653c3c39a6b936]{
+-- Page 134, Offset 2954.
+-- 言葉にはできない魅力で満ちているというか、
+Pero rebosa con un tipo de indescriptible encanto.
+}
+[sha:e756816dcbf4bf714932b89d09146be2fadff806]{
+-- Page 134, Offset 2955.
+-- とにかく、一目で男子高校生の憧れを刺激する、ふわふわしたホイップのような何かがあった。
+Básicamente,
+ lo que quiero decir es que ella tiene ese %{i}algo%{/i},
+ similar a un merengue esponjoso,
+ lo que es suficiente para levantar los deseos de cualquier chico de instituto.
+}
+[sha:f49fef525554792719f77a717f0ba38a65811b01]{
+-- Page 135, Offset 2956.
+-- 「質問です！　ノエル先生は、おいくつなんでしょうか！」
+"¡Tengo una pregunta! ¡¿Cuantos años tiene, Noel-sensei?!
+}
+[sha:b7660b0e5bea1716214d1baea240c65cbd2fe4ec]{
+-- Page 135, Offset 2957.
+-- 「それよりどこにお住まいなんでしょうか！」
+"Más importante, ¡¿Donde vive?!"
+}
+[sha:bd4318785e40ffae72333a758eccb06a81362290]{
+-- Page 135, Offset 2958.
+-- 「休日の過ごし方とか、趣味が知りたいです！」
+"¡Quiero saber como pasa sus días libres y cuales son sus hobbies!"
+}
+[sha:609d0fd64e266a474d01996042b28a91800122e4]{
+-- Page 135, Offset 2959.
+-- 「つーか好きな高校生のタイプは誰ですか！？」
+"En verdad, ¡¿cuál es su tipo favorito de estudiante de secundaria?!"
+}
+[sha:450b13aa00f99d2f0ad03f328bab339be7266254]{
+-- Page 136, Offset 2960.
+-- とたん、男子から巻き起こる質問の嵐。
+Inmediatamente, una avalancha de preguntas surge de los chicos.
+}
+[sha:d030ac781ddaa3e4858f0cf86811e2e36f2c01c8]{
+-- Page 136, Offset 2961.
+-- この手の話題は匿名掲示板で淡々と論じられるものなのに、今のウインクにやられた連中はそれすら待てなかったらしい。
+Estos temas suelen ser discutidos en un foro anónimo, pero los chicos que fueron alcanzados por el guiño no podían ni esperarse a eso.
+}
+[sha:39b14d37edf36143f2df4792583580c28fe9be5a]{
+-- Page 137, Offset 2962.
+-- 女子たちは“男子サイテー”と冷めきった視線を向けてくるが、熱に浮かされた彼らにとって、見飽きたクラスメイトからの軽蔑なんてどうでもいい問題らしい。
+Las chicas los miran fríamente con una mirada que dice 'los chicos son patéticos',
+ pero a los febriles chicos no les puede dar mas igual el desprecio de sus compañeras hartas.
+}
+[sha:e9bcb3c2ddc9df9b8aa020b382b74d09de443b24]{
+-- Page 138, Offset 2963.
+-- 「トビウオみたいな反応、ありがとう。
+"Ooh, así que sois fáciles de contentar, ¡como peces saltando directamente a mi barca!
+}
+[sha:8a99bf585742f9f9ba1c33978b72316270d7420d]{
+-- Page 138, Offset 2964.
+-- えー、年齢はどうせ女子のみなさんが暴いちゃうだろうから言っちゃうと25歳、住まいは二駅となりの賃貸マンション、好きなタイプはオトナな頭の文系男子、趣味は日曜教会でお手伝いをしています。となり街の教会だから、興味があったらお祈りにきてくれると先生嬉しいな」
+Hmm, las chicas acabarán exponiendo mi edad igualmente,
+ así que simplemente diré que tengo 25 años.
+ Vivo en un apartamento alquilado a dos paradas de tren,
+ y mi tipo favorito de hombre es el maduro y artístico.
+ Mi hobby es el de ayudar en la iglesia los domingos.
+ Es en la iglesia de la ciudad de al lado, así que si estais interesados, estaré encantada si venís y rezais."
+}
+[sha:209b1fc8017a4687108bbdaf3d4186c7d6b0899c]{
+-- Page 139, Offset 2965.
+-- 「教会？　なに先生、シスターなの!?　っていうか、趣味でシスターやってるんですか!?」
+"¿Iglesia?
+ Espera, Sensei, ¡¿eres una monja?!
+ ¡¿Nos estas diciendo en serio que eres una monja en tus tiempos libres?!
+}
+[sha:fb8be75553dd2ed6a848adf59e7b8ac8f70027da]{
+-- Page 139, Offset 2966.
+-- 「ええ。私の国じゃそう珍しい事じゃありません。まあ、まだまだボランティアレベルで、悩める子羊の告白を解決してあげてるだけですけど」
+"Sip. No es tan raro en mi país.
+ Bueno, aunque sigo siendo una voluntaria.
+ Solo intento encargarme de las confesiones de los corderitos perdidos, ¿sabes?"
+}
+[sha:39bff8b6c7a1e798053f936add58e8ce3c3eb283]{
+-- Page 140, Offset 2967.
+-- 「おお……おおおお……」
+"%{i}Oh%{/i}... %{i}oooh%{/i}..."
+}
+[sha:9f7d25107b4fcf7d590c704e0e2e055f73b193be]{
+-- Page 140, Offset 2968.
+-- ノエル先生の予想外の反応の良さにどよめく男子たち。
+Los chicos están impresionados por su excelente respuesta inesperada.
+}
+[sha:1fe1834c9cb79bde5344e66677184f947e3324ee]{
+-- Page 140, Offset 2969.
+-- かくいう自分も、シスターという言葉の目新しさにはちょっとだけ食いついてしまった。
+Yo, también, estoy un poco intrigado por la novedad de la palabra 'monja'.
+}
+[sha:35eaae912e17bdb4bd8ca46887b6d95144c63947]{
+-- Page 141, Offset 2970.
+-- 一方、女子グループは無言で携帯端末をいじっていた。
+Mientras tanto, las chicas están en silencio con el móvil.
+}
+[sha:fb12896191a380a00a43f03c0cb4bf2bba23a16c]{
+-- Page 141, Offset 2971.
+-- こちらもさりげなく生徒専用の匿名掲示板をチェックする。
+Reviso casualmente el tablón del buletín anónimo de estudiantes.
+}
+[sha:1d7e07e22012456b2014cac213b4bc6738eec314]{
+-- Page 142, Offset 2972.
+-- 『なにあれ、男子バカすぎなんですけどー』
+'Es como, ¿qué? Dios, los chicos con TAN estúpidos'
+}
+[sha:6a323bffc38a413b68beead29c098519a9900bcd]{
+-- Page 142, Offset 2973.
+-- 『そんなに美人かアレ？』
+// En vez de poner 'en srio' porque no tiene sentido
+'¿Es ella TAN bonita? ¿De vdd?'
+}
+[sha:89530099b3e63a3a024e0ca5403481f8d11b899c]{
+-- Page 142, Offset 2974.
+-- 『フランス人のハーフとかよそでやってくんないかなあ』
+'De verdad por favor vete a ser medio francesa a otro lado, ¿hola?'
+}
+[sha:c3a878b55b2805d7e460bb220454c47639b37880]{
+-- Page 142, Offset 2975.
+-- 『っていうか、あのオンナもちょっと露骨じゃねえ？』
+// Pa' para lo que mejor suene o se considere
+'¿De verdad sinceramente no es como DEMASIADO echada pa' alante?
+}
+[sha:d616a38ec57abb37c15f8674e529daa0660dfc08]{
+-- Page 143, Offset 2976.
+-- ……さもありなん。
+Ahí lo tienes...
+}
+[sha:12b8e1ec11779587cc2876c0549582e6301f5b43]{
+-- Page 143, Offset 2977.
+-- 掲示板にはあからさまな陰口が書き込まれていく。
+Las chicas desatadas posteando cosas bastante feas en el foro.
+}
+[sha:fdc9a7dc2679c51f7f79a03febeb3d3aba702b52]{
+-- Page 144, Offset 2978.
+-- かくして、クラス内は『男子』『女子』という単純な派閥に分かれる不思議空間と化してしまった。
+Y así nuestra clase se transformó en una extraña dimensión donde la gente estaba dividida por el simple criterio de 'chico' y 'chica'.
+}
+[sha:c50cb9bffd711d92ef67801b02fc181054628108]{
+-- Page 144, Offset 2979.
+-- 即ち、『男子サイテー』『女子ウルセー』と罵り合う、中学生もかくやという原始時代である。
+En otras palabras, hemos vuelto a la edad de piedra de secundaria, 
+ donde las chicas y los chicos discuten con insultos infantiles como 'los chicos son idiotas' y 'las chicas son molestas'.
+}
+[sha:5d66e8256fa7dfb9aef70217b329ebf802fed16a]{
+-- Page 145, Offset 2980.
+-- そんな様子をほんわかとした笑顔で眺め、
+Noel-sensei observa como esto ocurre, con una suave sonrisa en su rostro.
+}
+[sha:82027402c8b3273cd5dfa9a8d79a2cb000716019]{
+-- Page 145, Offset 2981.
+-- 「うふふ。この子たち、頭の程度は大丈夫なのかしら？」
+"%{i}Ejeje%{/i}. Me pregunto si estos niños están bien de la cabeza."
+}
+[sha:244d054a7a10883a645d8517b9054f2d8342abb3]{
+-- Page 145, Offset 2982.
+-- スレスレの発言をする新任教師。
+Nuestra nueva profesora hace una observación cuestionable.
+}
+[sha:14b099cd3af1738f27b90860ff3c45fc16fefbac]{
+-- Page 146, Offset 2983.
+-- 教室の空気についていけず、視線を逸らすと弓塚と目が合った。弓塚もこの空気に乗り遅れたのか、俺と同じように所在なさげである。
+El ambiente en clase empieza a ser un poco demasiado para mi, así que aparto la mirada.
+ Cuando lo hago, hago contacto visual con Yumizuka.
+ Ella tampoco parece querer involucrarse, porque parece tan aburrida como yo.
+}
+[sha:ecf4225269c506a521cc52c12a94913733f3cedb]{
+-- Page 146, Offset 2984.
+-- ……なんだろう、この空気。
+¿Qué le ha entrado a todo el mundo?
+}
+[sha:e8653c339d63f242d9cecee1f372d149379d5ef3]{
+-- Page 146, Offset 2985.
+-- 色めきたつ教室。平穏と思われた一日は、予想外の展開を迎えてしまった。
+La clase está encendida. Lo que parecía que iba a ser un día pacífico ha dado un giro inesperado.
+}

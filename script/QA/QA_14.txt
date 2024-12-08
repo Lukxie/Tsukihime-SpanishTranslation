@@ -1,0 +1,235 @@
+[sha:529912bc3441bbaafbb1fd826d56820922b2b828]{
+-- Page 10000, Offset 43372. Mods: @n.
+-- え？
+-- TRANSLATION HERE
+}
+[sha:abc3baf8dfc64a12b4ef41efc2a7287e5438c9d6]{
+-- Page 10000, Offset 43373.
+-- なんでこれデッドエンドなんですか？
+-- TRANSLATION HERE
+}
+[sha:043e7d411d66057ef22e2c8bfc80451a8e6ae6e6]{
+-- Page 31, Offset 43374. Mods: @n.
+-- 憧れの先輩を選んだんですから、
+-- TRANSLATION HERE
+}
+[sha:3f737109080af9df6665cda71791c5533cd8c28a]{
+-- Page 31, Offset 43375.
+-- ここでカップル成立→エンディングの流れでは？
+-- TRANSLATION HERE
+}
+[sha:80994d1bfeb0b4ef1887198750e82d1370a7d568]{
+-- Page 32, Offset 43376. Mods: @n.
+-- しーきゅー、しーきゅー。
+-- TRANSLATION HERE
+}
+[sha:0edeb36b824b515d91a0032818ef6db1de9bca13]{
+-- Page 32, Offset 43377.
+-- もしもしシエル君、応答せよシエル君。
+-- TRANSLATION HERE
+}
+[sha:f33e672c6d77f805bef556cd55f96c80cdd2f9ae]{
+-- Page 33, Offset 43378. Mods: @n.
+-- 冷静になるンだ。
+-- TRANSLATION HERE
+}
+[sha:6945260d138bf92ce316d3232642a967959441b8]{
+-- Page 33, Offset 43379.
+-- 第13回から何も成長していニャいよ？
+-- TRANSLATION HERE
+}
+[sha:cdf6364f66395b2550a1b76c38a2c788c3802b7f]{
+-- Page 34, Offset 43380. Mods: @n.
+-- え……だってどう見ても
+-- TRANSLATION HERE
+}
+[sha:a3f3ace02fee45daf507d17de2bf3ccafc760491]{
+-- Page 34, Offset 43381.
+-- ただのパーフェクトコミュニケーションで……
+-- TRANSLATION HERE
+}
+[sha:ad1f861399bffe91922398b63c6dc5f93b90045f]{
+-- Page 35, Offset 43382. Mods: @n.
+-- なぜ人類は自分の事だけ棚にあげるのか。
+-- TRANSLATION HERE
+}
+[sha:e2e5a5ee467d38f8d27c8c379f919ee57e2b79ec]{
+-- Page 35, Offset 43383.
+-- 壊れたクレーンかよ。
+-- TRANSLATION HERE
+}
+[sha:876c578d30ed16de3ec3236578f91bc7a2e78948]{
+-- Page 36, Offset 43384. Mods: @n.
+-- 仕方ないニャあ。
+-- TRANSLATION HERE
+}
+[sha:f755825b242088b690da044477b60b8b7bf6a7b1]{
+-- Page 36, Offset 43385.
+-- 今回もアタシがなんとかすっか。
+-- TRANSLATION HERE
+}
+[sha:ac638dc80bfdffa398464a358e9fe67f5cfa6d2a]{
+-- Page 37, Offset 43386. Mods: @n.
+-- 窮地にいる人を助けたい、という気持ちは良し。
+-- TRANSLATION HERE
+}
+[sha:3cdef85203d29babf3f41615bea11551e1e0ff1d]{
+-- Page 37, Offset 43387.
+-- しかし、だ。
+-- TRANSLATION HERE
+}
+[sha:99a1c401efbe912702416c4516a83b73391acb56]{
+-- Page 38, Offset 43388. Mods: @n.
+-- 災害現場では、まず『自分も救助対象にすぎない』
+-- TRANSLATION HERE
+}
+[sha:0d38b5a78cc545d8a9d0c9838cee7a5b8c9c6335]{
+-- Page 38, Offset 43389.
+-- という事を肝に銘じてほしい。
+-- TRANSLATION HERE
+}
+[sha:7fd0810ba28845e4d53ac32616844d7d28a9c9b9]{
+-- Page 39, Offset 43390. Mods: @n.
+-- 自分の安全を第一にしながら、
+-- TRANSLATION HERE
+}
+[sha:f47688ea87e583b46f83d597ec26a80e70adf537]{
+-- Page 39, Offset 43391.
+-- 助けられる範囲で手を伸ばす―――
+-- TRANSLATION HERE
+}
+[sha:e300e37edc36ac4b0f59304cdbf844ecabeabcb1]{
+-- Page 40, Offset 43392. Mods: @n.
+-- 辛いだろうけど、それが人間の限界なんだ。
+-- TRANSLATION HERE
+}
+[sha:ccdcf8ca0fba0512609e922bdd3a970029c9a1ae]{
+-- Page 40, Offset 43393.
+-- この際シエルは無視してよい。
+-- TRANSLATION HERE
+}
+[sha:4f292975a19877d927b2fc6f8d04ebc5a8d1d2ba]{
+-- Page 41, Offset 43394. Mods: @n.
+-- ここはカレーの大盛りを我慢するくらいの決断で、
+-- TRANSLATION HERE
+}
+[sha:1c9519ef2cbeea3bd1adf3f5968f7ec4b3e61716]{
+-- Page 41, Offset 43395.
+-- すぐ近くの頼りないＯＬを助けてあげてほしい。
+-- TRANSLATION HERE
+}
+[sha:fc5952c36b50bd8e6a508c71007414bc11cad9ec]{
+-- Page 42, Offset 43396. Mods: @n.
+-- そのＯＬ、ネコ基準から見てにゃかにゃかの逸材。
+-- TRANSLATION HERE
+}
+[sha:bbd86c565a4c38e38b2fee038665dea1621e9677]{
+-- Page 42, Offset 43397.
+-- 助けておいて損は……ないぜ？
+-- TRANSLATION HERE
+}
+[sha:0838f68173f8024d2862c70dcab1b742a25d866e]{
+-- Page 43, Offset 43398.
+-- はっ……！？
+-- TRANSLATION HERE
+}
+[sha:670ed1453a16bc0d5e4cb2fa9a11623c7e1f484f]{
+-- Page 44, Offset 43399. Mods: @n.
+-- そ、そうですね、それほどの苦渋の選択なら
+-- TRANSLATION HERE
+}
+[sha:5bf47a13d1d7889ae30ee03901d4878a85501274]{
+-- Page 44, Offset 43400.
+-- 仕方ありませんよね。
+-- TRANSLATION HERE
+}
+[sha:5060e3d51674d897a1e9956b5ac6857101d76966]{
+-- Page 45, Offset 43401. Mods: @n.
+-- 遠野くんの気持ちは大切にとっておきますので、
+-- TRANSLATION HERE
+}
+[sha:d7eebdc6ce3556157b41dcc5ee7ffb907baa7d46]{
+-- Page 45, Offset 43402.
+-- ノエルさんを助けてあげてください。
+-- TRANSLATION HERE
+}
+[sha:ae6404349fe515eb8610972515e35b77900a14ca]{
+-- Page 46, Offset 43403. Mods: @n.
+-- あ。でも、助けてあげたからといって
+-- TRANSLATION HERE
+}
+[sha:0a61696e48a183151f25625e27adef819624d1e0]{
+-- Page 46, Offset 43404.
+-- 恩に着せてはいけませんよ。
+-- TRANSLATION HERE
+}
+[sha:6652ce5e4fc10dc29c2af622583ca6c801db1db3]{
+-- Page 47, Offset 43405.
+-- 遠野くんは学生、ノエルさんは教師です。
+-- TRANSLATION HERE
+}
+[sha:1fbbc088d3f821b6b57909170a63e9d34198b393]{
+-- Page 48, Offset 43406. Mods: @n.
+-- 万が一にも間違いは起こらないよう、
+-- TRANSLATION HERE
+}
+[sha:ad612f4e4d1b579fa652cccdd554d2984467a02e]{
+-- Page 48, Offset 43407.
+-- 適切な距離を保ってくださいね！
+-- TRANSLATION HERE
+}
+[sha:650f85c388f77446eb57d2d16ba037fa93a2b2be]{
+-- Page 49, Offset 43408.
+-- にゃっふっふっ。
+-- TRANSLATION HERE
+}
+[sha:ba03f83e5e0eeaf0093cd4ed97071b435c0bb73f]{
+-- Page 50, Offset 43409. Mods: @n.
+-- 参考までに訊くけど、もしこれでノエルと
+-- TRANSLATION HERE
+}
+[sha:7bba31ec5e77a9fec0cd7d2dcfcfd772aa38f859]{
+-- Page 50, Offset 43410.
+-- フラグが立っちゃったらどうするの？
+-- TRANSLATION HERE
+}
+[sha:34c872126ce762539fce241be0d0dcb59901bb2f]{
+-- Page 51, Offset 43411. Mods: @n.
+-- ？　そんなの、『教えて！　シエル先生』の
+-- TRANSLATION HERE
+}
+[sha:7e4cc0322af3b49d71f2b09d3f19bdf669ea248b]{
+-- Page 51, Offset 43412.
+-- 放映回数が一回分増えるだけの話ですよ？
+-- TRANSLATION HERE
+}
+[sha:c055d36417641f15ea4e77f7af76ff790c2d4da5]{
+-- Page 52, Offset 43413. Mods: @n.
+-- あ、そっか。その場合、
+-- TRANSLATION HERE
+}
+[sha:fca2d8512a992e01d929957277e9b8a1737f7a1e]{
+-- Page 52, Offset 43414.
+-- 『許して！　シエル先生』になりますよね。
+-- TRANSLATION HERE
+}
+[sha:b8e21b13784e6e37cc0c92125fc3ecd4e3a04ecf]{
+-- Page 53, Offset 43415. Mods: @n.
+-- 遠野くんは初犯なので軽度の罰を、
+-- TRANSLATION HERE
+}
+[sha:edc17f9313f10d74a88879e5eb83f12327921c13]{
+-- Page 53, Offset 43416.
+-- ノエルさんには、ちょっと口では言えないものを♥
+-- TRANSLATION HERE
+}
+[sha:81685db434e2545113695018cb554f31639a7367]{
+-- Page 54, Offset 43417. Mods: @n.
+-- うーん、教習所かと思ったら監獄だった。
+-- TRANSLATION HERE
+}
+[sha:c6153565a18a5a554d03ecd8adec255c46d5a84f]{
+-- Page 54, Offset 43418.
+-- がんばれノエル、生きろ……！
+-- TRANSLATION HERE
+}

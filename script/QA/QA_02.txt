@@ -1,0 +1,165 @@
+[sha:c059e75cd31b7b774d205b33722ce6df027a5a34]{
+-- Page 30, Offset 42821. Mods: @n.
+-- ウェルカム　トゥ　マイ　テリトリー。
+-- TRANSLATION HERE
+}
+[sha:f57324a68e9a9a36137219fb5955b7c51af57656]{
+-- Page 30, Offset 42822.
+-- ようこそ無惨なバッドボーイ。
+-- TRANSLATION HERE
+}
+[sha:0837a46aec9cf6d9d6d94957f08c3b234d4ef159]{
+-- Page 31, Offset 42823. Mods: @n.
+-- 『まあどっちも同じやろ』なんて甘い考えで
+-- TRANSLATION HERE
+}
+[sha:42a78093eb80e66c793af42ee22641fe122f61ac]{
+-- Page 31, Offset 42824.
+-- 選択肢を選んでみればこのありさま。
+-- TRANSLATION HERE
+}
+[sha:c28589ad9abe60357637338908ad2086cfe5f5d3]{
+-- Page 32, Offset 42825. Mods: @n.
+-- 消極的なメガネくんに喝！　を入れる救済コーナー。
+-- TRANSLATION HERE
+}
+[sha:73e44b4f4737a07633784d280344a9c973e7961d]{
+-- Page 32, Offset 42826.
+-- 『教えて！　シエル先生』、はじまるよー。
+-- TRANSLATION HERE
+}
+[sha:a8acb4a783111d97ce1c76abcd12d2ecb1ec771d]{
+-- Page 33, Offset 42827. Mods: @n.
+-- ２回目の方はこんにちは。
+-- TRANSLATION HERE
+}
+[sha:db9d7ff4b06ecf7a3bd43cb002c148add3a3fd28]{
+-- Page 33, Offset 42828.
+-- 初めての方はよろしくお願いします。
+-- TRANSLATION HERE
+}
+[sha:f001100db32cac09f5db398717176b8e2af86a39]{
+-- Page 34, Offset 42829. Mods: @n.
+-- たいていのプレイヤーさんはこちらの回が
+-- TRANSLATION HERE
+}
+[sha:9a8f3e6ebd744c335ede4a5f0a2dc8d5239f1a91]{
+-- Page 34, Offset 42830.
+-- 初見になると思われるので自己紹介から。
+-- TRANSLATION HERE
+}
+[sha:8243ebaafff792c3639089d0bbebb8afef5fac35]{
+-- Page 35, Offset 42831. Mods: @n.
+-- Ｑ＆Ａコーナー、教官役のシエルです。
+-- TRANSLATION HERE
+}
+[sha:99793eb9ef83f3cea9baafc0084184364a8358a0]{
+-- Page 35, Offset 42832.
+-- こちらは<サ|ア><ン|シ><ド|ス><バ|タ><ッ|ン><グ|ト>のネコアルク。
+-- TRANSLATION HERE
+}
+[sha:10493f963410e7cd6e8f0e475401d94e4183469f]{
+-- Page 36, Offset 42833. Mods: @n.
+-- 毎回、端的にデッドエンドの原因を説明しますので、
+-- TRANSLATION HERE
+}
+[sha:65d85bf71c61fab13690d9e8aed0e59a65770e08]{
+-- Page 36, Offset 42834.
+-- 少しだけお付き合いくだされば幸いです。
+-- TRANSLATION HERE
+}
+[sha:7de43eb5ed26dd9864119b27ee1365f82c002fd7]{
+-- Page 37, Offset 42835. Mods: @n.
+-- たいていは直前の選択肢がマズかったんで、
+-- TRANSLATION HERE
+}
+[sha:0cc7edbdd3d21ee34f8c10e9d402a32e75d74a20]{
+-- Page 37, Offset 42836.
+-- 一個前に戻ればいいだけなんだけどぉ。
+-- TRANSLATION HERE
+}
+[sha:e22db2c4fa16fb72719661e315e5153a4b259f52]{
+-- Page 38, Offset 42837. Mods: @n.
+-- たまにずいぶん前の選択が原因で
+-- TRANSLATION HERE
+}
+[sha:cc370df0a65b20b159feb0ad6e08d285e0009c18]{
+-- Page 38, Offset 42838.
+-- デッドエンドになるコトもあるから油断なんねー。
+-- TRANSLATION HERE
+}
+[sha:b2e0b30117863ad3c8c2ea55a79f7dd2bd9bb006]{
+-- Page 39, Offset 42839. Mods: @n.
+-- そういうケースの解説はまたおいおい。
+-- TRANSLATION HERE
+}
+[sha:11100ece80f4d0c7dd8198ad8798434dc5531f1a]{
+-- Page 39, Offset 42840.
+-- 今回はよくある『即死系デッドエンド』です。
+-- TRANSLATION HERE
+}
+[sha:882794054b1c30c4886cfd35de9f8e90e20ec9c9]{
+-- Page 40, Offset 42841. Mods: @n.
+-- 異常な事態に直面した際、慎重に様子を見る……
+-- TRANSLATION HERE
+}
+[sha:01c93cc341ffd9b4acfb78ceeddd72cffa01cece]{
+-- Page 40, Offset 42842.
+-- というのは正しい考えですが、今回はアウトでしたね。
+-- TRANSLATION HERE
+}
+[sha:d09f6abae282567aafe63163f4c94b3752838b88]{
+-- Page 41, Offset 42843.
+-- なにしろ逃げ場がありませんから。
+-- TRANSLATION HERE
+}
+[sha:3abcfb522d0c902d306d55377bd2794f88bf0580]{
+-- Page 42, Offset 42844. Mods: @n.
+-- 翼でもないかぎり、
+-- TRANSLATION HERE
+}
+[sha:7dd9231db1c14dd7d17f6c2043e9ae341f316f9a]{
+-- Page 42, Offset 42845.
+-- ホテルの屋上に陣取るのはお勧めできません。
+-- TRANSLATION HERE
+}
+[sha:3d38ab46a4022ea8d8281c66efd96ff3c11010ec]{
+-- Page 43, Offset 42846. Mods: @n.
+-- ネコであれば逃げられたのだが。
+-- TRANSLATION HERE
+}
+[sha:e968ff1d0f34f60b84c26e66b9338f3828c87ec9]{
+-- Page 43, Offset 42847.
+-- ニャんと身軽に空を飛べるからニャ、ネコは。
+-- TRANSLATION HERE
+}
+[sha:555ce363b009814e84e82c1dd139deb2627cbcbf]{
+-- Page 44, Offset 42848. Mods: @n.
+-- ？　それは身が軽い、という意味ですか？
+-- TRANSLATION HERE
+}
+[sha:3bc528cc9fdf2dca0cc8553834bab4b56678f4d1]{
+-- Page 44, Offset 42849.
+-- 屋根から屋根に？
+-- TRANSLATION HERE
+}
+[sha:c628b06174692eae113bcc411f99682e6a563b00]{
+-- Page 45, Offset 42850. Mods: @n.
+-- でも、ホテルの最上階からは
+-- TRANSLATION HERE
+}
+[sha:929cad001e9c7bc4cbcab11c9770365817de68e5]{
+-- Page 45, Offset 42851.
+-- 猫でもさすがに……
+-- TRANSLATION HERE
+}
+[sha:a5422822dcc350e181f1c82e95548cfa16b99eb7]{
+-- Page 46, Offset 42852.
+-- ロケットで突き抜けた……！
+-- TRANSLATION HERE
+}
+[sha:c2a1eaa7fb33321e7d169b08a33100e3db049bcd]{
+-- Page 47, Offset 42853.
+-- なんの参考にもなりません、あのネコ！
+-- TRANSLATION HERE
+}

@@ -1,0 +1,210 @@
+[sha:30d8129289bf52a8e97536b06d84adb5516b685d]{
+-- Page 10007, Offset 19957.
+-- ……探りを入れてみよう。
+-- TRANSLATION HERE
+}
+[sha:a69d7e8a802039d1c74b6fddbb42d16209ff3b27]{
+-- Page 10007, Offset 19958.
+-- 目的が分からない以上、こっちも対応のしようがない。
+-- TRANSLATION HERE
+}
+[sha:4f910da7ca0cc0cbafe43cb8604290fbedfca3c7]{
+-- Page 117, Offset 19959.
+-- 「……俺でよければ話ぐらいは聞きますけど。
+-- TRANSLATION HERE
+}
+[sha:053d5cc19eea425624705736e61608498db67d50]{
+-- Page 117, Offset 19960.
+-- 用件はなんですか？」
+-- TRANSLATION HERE
+}
+[sha:de2d43ad75ad9db46e2f53417de491c2e41e9a63]{
+-- Page 118, Offset 19961.
+-- 「うん、北口駅前の火災のコトだよ。
+-- TRANSLATION HERE
+}
+[sha:24afa00dbb8b7db28716fd3602aad39180e581a9]{
+-- Page 118, Offset 19962.
+-- ほら、当日と翌日まで現場を仕切ってた警備会社、お宅の子会社でしょ？　もう引き上げちゃったけど、当日の責任者と話をしたいんだよね。連絡先とか分かる？」
+-- TRANSLATION HERE
+}
+[sha:f69f401784bc651dd0883e78f9dae0ee54370def]{
+-- Page 118, Offset 19963.
+-- 「―――そう、だったんですか。それは知りませんでした。
+-- TRANSLATION HERE
+}
+[sha:947ba8f1c700907bfbd6a19d77408c691ec2f452]{
+-- Page 118, Offset 19964.
+-- ですので、俺には分かりかねます」
+-- TRANSLATION HERE
+}
+[sha:87cddbc152ba63340f50c8981f2e321b6127ff18]{
+-- Page 119, Offset 19965.
+-- 「なに、長男なのに知らないの？　そりゃクマった。やっぱり妹サンの方が実権にぎってるワケ？」
+-- TRANSLATION HERE
+}
+[sha:8e31e560facde4e9588517ddb3b995d68bbab9c1]{
+-- Page 119, Offset 19966.
+-- 「……どうしてそんな話を？　荒唐無稽だとは思いますけど、あの火災の原因は遠野グループの過失だとでも？」
+-- TRANSLATION HERE
+}
+[sha:c7b06cfc59372f356102eefff39945d642312533]{
+-- Page 120, Offset 19967.
+-- 「うん？　そんな方針は持ってないナイ。ありゃどっから見ても自然発火だし。
+-- TRANSLATION HERE
+}
+[sha:583b780f5b5957fdb4a4d049bd9138d9abe0856d]{
+-- Page 120, Offset 19968.
+-- 問題は別っていうかぁ……ま、お家の人ならバラしてもいいか。もう知ってるだろうしね」
+-- TRANSLATION HERE
+}
+[sha:01c2c71509a6d6f61d6d9d6d61fad8a79fb6fc90]{
+-- Page 121, Offset 19969.
+-- 「昨日さ、地下陥没の瓦礫の下から、ちょっとよくない……というか、意味わかんないモンがでてきてね。鑑識もお手上げ状態でさ。あの土地だって遠野の持ちものでしょ？」
+-- TRANSLATION HERE
+}
+[sha:948bc76d3cbb4f4092cae82a8383ae0b7f2cdb3a]{
+-- Page 122, Offset 19970.
+-- 「記録だと10年くらい前に、遠野槙久が相場を上回る高額で買い取ったとある。
+-- TRANSLATION HERE
+}
+[sha:d0fd89e82a5916862008aad82174411c6ca7a0b7]{
+-- Page 122, Offset 19971.
+-- そのあたりの事情、聞きたいんだよね。なんで駅前の一等地を買っておいて、公園になんかしちゃったのかな、とか」
+-- TRANSLATION HERE
+}
+[sha:c6b5d2700254f254d33db86f475fbcf4504f3ae6]{
+-- Page 123, Offset 19972.
+-- 「俺には何とも。槙久は亡くなりましたので。
+-- TRANSLATION HERE
+}
+[sha:117fbd2011ee1492afd9e18b08b01e7f68981fc4]{
+-- Page 123, Offset 19973.
+-- 話はそれだけですか？」
+-- TRANSLATION HERE
+}
+[sha:c15ca6350226d2734692c2c014c48f5d829a2137]{
+-- Page 123, Offset 19974.
+-- 「え？　いや、妹さんに取り次いでくれないの？　ちゃんと身分と目的、話したよね？」
+-- TRANSLATION HERE
+}
+[sha:af69eae24b552085138be0e7f774d567b81aae1a]{
+-- Page 124, Offset 19975.
+-- 「あいにく、妹は忙しい身なので。
+-- TRANSLATION HERE
+}
+[sha:429f6e3bed0995ed3a67abf5a741942de3772b2d]{
+-- Page 124, Offset 19976.
+-- お引き取りください。話がしたいのなら、しかるべき手続きをしてからどうぞ」
+-- TRANSLATION HERE
+}
+[sha:ad6eeb0e5bf4551b7f6b886ae2864f2d8e426479]{
+-- Page 125, Offset 19977.
+-- 踵を返して坂道を降り始める。
+-- TRANSLATION HERE
+}
+[sha:822bfc2d33d9a108c6f753c8cccb0c6185ff8235]{
+-- Page 125, Offset 19978.
+-- 用件は分かった。
+-- TRANSLATION HERE
+}
+[sha:8976292f81b3222f0866b84b3c5b86e43fdf0608]{
+-- Page 125, Offset 19979.
+-- ……事情は掴めないが、あんな胡散臭い刑事を秋葉に会わせる気はない。
+-- TRANSLATION HERE
+}
+[sha:da8cd878c9b5907a7d61c556abd64866ea3ff33e]{
+-- Page 126, Offset 19980.
+-- 「おい」
+-- TRANSLATION HERE
+}
+[sha:2f0449725758f4d8f7b25cd24e4b0f334f9dba73]{
+-- Page 126, Offset 19981.
+-- トーンの高い声に呼び止められる。
+-- TRANSLATION HERE
+}
+[sha:c1520a7ef9282c6ccbe9b848cf5a6d83bbb8b63a]{
+-- Page 126, Offset 19982.
+-- 安藤刑事のものなら無視するつもりだったが、その少年の声は妙に逆らいがたい威厳に満ちていた。
+-- TRANSLATION HERE
+}
+[sha:9f334bc060ef2e224d543d3b209ddcece0a68ba5]{
+-- Page 127, Offset 19983.
+-- 「正義漢も結構だが分を<弁|わきま>えな。人間らしい死に方をしたいんなら、このあたりが引き際だぜ」
+-- TRANSLATION HERE
+}
+[sha:f6dae3824038024fd8c24225ac2fecb1b6b8ff47]{
+-- Page 127, Offset 19984.
+-- 「……なんだって？」
+-- TRANSLATION HERE
+}
+[sha:225a2de8e1dcfca165f8e85835b09c3b57e10f18]{
+-- Page 127, Offset 19985.
+-- 足を止めて少年を見据える。
+-- TRANSLATION HERE
+}
+[sha:caa3a89ff98f64b3d3801295fa890e546f312428]{
+-- Page 127, Offset 19986.
+-- いま、コイツは“人間らしい”と言ったのか……？
+-- TRANSLATION HERE
+}
+[sha:01671e9b4ae0730a2125867beb5c8ccb9e334a4d]{
+-- Page 128, Offset 19987.
+-- 「…………何が言いたいんだ、君？」
+-- TRANSLATION HERE
+}
+[sha:1808dfb5e3f6e4cb397f65e64bb5abe333be19e8]{
+-- Page 128, Offset 19988.
+-- 「言いたいコトは今ので全部だマヌケ。これで聞かなきゃ勝手に死んでな。
+-- TRANSLATION HERE
+}
+[sha:9d1361cc64e171c9c26e4b2692527f99ada4bcf4]{
+-- Page 128, Offset 19989.
+-- オラ、帰るぞアンドー。いいかげん食事時だ、ケーキ食わせろ、ケーキ。チーズと蜂蜜たっぷりなヤツな！」
+-- TRANSLATION HERE
+}
+[sha:5e5ca9d7c6b5db343bb51ca47b8c22805b93be9c]{
+-- Page 128, Offset 19990.
+-- 「へえへえ、仰せのままに。……なーんでオレ、日本に来てまでボンボンのお守りしてんだろうなぁ……」
+-- TRANSLATION HERE
+}
+[sha:2892bfd70e04d1dc690dfc295b1cbef63dc88dd2]{
+-- Page 129, Offset 19991.
+-- おかしな二人組は路上駐車させていた乗用車に乗りこむと、駅前方面に走り去っていった。
+-- TRANSLATION HERE
+}
+[sha:6684704d269554fb8a3373fd60b6dc3a24d61c8a]{
+-- Page 130, Offset 19992.
+-- 風貌はどうあれ警察の人間がうちの屋敷を監視していた……しかも、駅前の事故現場が遠野家所有の土地だった……？
+-- TRANSLATION HERE
+}
+[sha:6e5b3f39865422e0cc1703eae04a870dfa2a0186]{
+-- Page 130, Offset 19993.
+-- 「……いや、ただの偶然だ」
+-- TRANSLATION HERE
+}
+[sha:9430d34fc8f91bebd9c2910c876b72e6dcaa5829]{
+-- Page 130, Offset 19994.
+-- 偶然の筈だ。
+-- TRANSLATION HERE
+}
+[sha:279ab6d3a6e98282f0fae0d263815462e555a9ca]{
+-- Page 130, Offset 19995.
+-- そもそもあの崩落はアルクェイドのヤツが考えなしにやった事だし、吸血鬼事件と北口駅前の土地は関係がない。
+-- TRANSLATION HERE
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 131, Offset 19996.
+-- 「………………」
+"........."
+}
+[sha:0a487929952eb2b64ec3be042e29ffdf4ffac018]{
+-- Page 131, Offset 19997.
+-- 厭な予感を飲み下す。
+-- TRANSLATION HERE
+}
+[sha:456c741425480ccf07e84ffca9987f5b9003dc15]{
+-- Page 131, Offset 19998.
+-- 俺は気を取り直して、長い坂道を下り始めた。
+-- TRANSLATION HERE
+}

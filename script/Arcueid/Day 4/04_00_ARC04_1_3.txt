@@ -1,0 +1,160 @@
+[sha:52582d7bbd92da9680d680c78ff7f29f7e717eb9]{
+-- Page 10004, Offset 5769.
+-- 「そうだ秋葉。
+"Ah sí... Ey, Akiha―――
+}
+[sha:49ecbf17b7dcfd76ec7b04cc41aae2955e0314e1]{
+-- Page 10004, Offset 5770.
+-- うちの屋敷って、今はどうなっているんだ？」
+¿Qué está pasando ahora en la mansión?"
+}
+[sha:e8d46458f0b89bd1dc8fd998f04cf3a59aec8281]{
+-- Page 10004, Offset 5771.
+-- 「どうなっている、とはどういう意味ですか？
+"¿A qué te refieres con 'qué está pasando'?
+}
+[sha:18b997f724b3632a817a9923a02034b5b3dad442]{
+-- Page 10004, Offset 5772.
+-- 所有権の問題でしたら、いずれ私が相続するカタチになっていますが」
+Si te refieres a la posesión de la mansión,
+ parece que la heredaré eventualmente."
+}
+[sha:f9fa43f5e19171f49e84693a10a19ba98c9d65a0]{
+-- Page 85, Offset 5773.
+-- 秋葉が成人するまで遠野家の資産は後見人預かり、という事だろうか。
+¿Significa eso que las posesiones de la familia Tohno han sido confiadas a un tutor hasta que Akiha sea adulta?
+}
+[sha:91603fa20f70d1e61fd3c91cc19567a0ef4d7eb7]{
+-- Page 85, Offset 5774.
+-- そのあたりの取り決めは俺には関係ないのでほうっておいて、
+Ese acuerdo no tiene nada que ver conmigo, así que no voy a indagar.
+}
+[sha:5ddbcc299f8a06eef5e7dcc4ab2e955755281c55]{
+-- Page 86, Offset 5775.
+-- 「いや、そっちの話じゃなくて、単純に屋敷の状況。
+"No, no me refiero a eso.
+ Quería saber como esta organizada la mansión.
+}
+[sha:33b264ae938426229972d68265ba5a02f2b1bb49]{
+-- Page 86, Offset 5776.
+-- いまいるのは俺と秋葉、琥珀さんと翡翠だけなんだろ？
+Los únicos viviendo aquí en este momento somos tú, Kohaku-san, Hisui, y yo, ¿cierto?
+}
+[sha:0cc57ee7e26c563a4c853eca90d4d36f1700ec36]{
+-- Page 86, Offset 5777.
+-- 使ってる部屋とか、そういうのはどうなっているのかなって」
+Me preguntaba que habitaciones se están usando de verdad, ese tipo de cosa."
+}
+[sha:04378f076ce1b90e1c969c6d3da7fe1d3d148411]{
+-- Page 87, Offset 5778.
+-- 「私たちの部屋以外は原則として鍵を閉めています。
+"Como regla general, todas las habitaciones excepto las nuestras se mantienen cerradas.
+}
+[sha:68c9c27e10223401930f43b9da00604fa2bd59e0]{
+-- Page 87, Offset 5779.
+-- 兄さんの部屋は西館二階の南端、
+Tu habitación está en la terminación sur de la segunda planta del ala oeste.
+}
+[sha:4564fb4b5a7fe93fb566013c6d2a3dbf7edae2d7]{
+-- Page 87, Offset 5780.
+-- 私の部屋は東館二階の北端です。
+Mi habitación está en la terminación norte en la segunda planta del ala este.
+}
+[sha:c65a55aa457c086fc46f4bb585cf0c5e93e549d3]{
+-- Page 87, Offset 5781.
+-- 翡翠の部屋は西館二階の中央、
+La habitación de Hisui está en medio de la segunda planta del ala oeste.
+}
+[sha:f16e0c9d234150dabf9f15e76aa0ccd859960356]{
+-- Page 87, Offset 5782.
+-- 琥珀の部屋は西館一階の北端です」
+La habitación de Kohaku está en la terminación norte de la primera planta del ala oeste.
+}
+[sha:5c19c05bfb7ee5f4e34d2553c181c45de429df84]{
+-- Page 88, Offset 5783.
+-- 「二階の遊戯室と客間は閉めていますが、兄さんがお友達をお連れになられるのでしたら開放します。
+"La sala de juegos y la sala de invitados de la segunda planta están cerradas,
+ pero serán abiertas si quieres traer a tus amigos.
+}
+[sha:9f568791ce44f51bf350a5674332ea5982f13f44]{
+-- Page 88, Offset 5784.
+-- お父様の書斎は……重要な書類がまだありますので、堅く鍵をかけています。こちらは兄さんと言えど立ち入り禁止ですので、胸に留めておいてください」
+En cuanto el estudio de Padre... permanece cerrado porque dentro aún hay docuementos importantes.
+ Incluso tú no tienes permitido entrar, Nii-san, así que por favor manténlo presente."
+}
+[sha:0956c3f40919264f00fc093667b17c1efdb43ee0]{
+-- Page 89, Offset 5785.
+-- 「なるほど。基本的には西館が使われているんだな。
+"Ya veo. Así que mayormente estamos usando el ala oeste.
+}
+[sha:4c1ac12bd3c57215b82140180e9c74481bc7151b]{
+-- Page 89, Offset 5786.
+-- 東館は執務室とか、秋葉の部屋とか、なんていうか、」
+El ala este se usa para la oficina, tu habitación, y eso..."
+}
+[sha:9c9eef41fd5a1fd5646f58eec6292571027ad9c9]{
+-- Page 89, Offset 5787.
+-- 庶民にとっておっかない空間が広がっている、と。
+Para una persona normal, la cantidad de espacio en esta creciente mansión sería terrorífico.
+}
+[sha:7d60751b0ad09e541a8d375f16fe09285ca12d19]{
+-- Page 90, Offset 5788.
+-- 「兄さん？」
+"¿Nii-san?"
+}
+[sha:16f810b2fa7d73fbb255ca22420907655e81efb7]{
+-- Page 90, Offset 5789.
+-- 「なんていうか、ちゃんと事前に約束をいれておかないといけない高級なスペース、という事だな。わかる」
+"Como decirlo... Este es un espacio de clase alta donde pides cita previa. Lo entiendo."
+}
+[sha:535057e21e1ef553c033104c7722303c0ee2eb91]{
+-- Page 91, Offset 5790.
+-- 「……言い方に問題はありますが、概ねその通りです。
+"No importa mucho como lo dices, pero la mayor parte, es como dices.
+}
+[sha:bedd47c1f1a1b799665ca7e939df844b141b9bee]{
+-- Page 91, Offset 5791.
+-- あとは……そうですね。兄さんがいた頃は開かれていましたが、別館と植物園も閉めています。
+Todo lo que queda es... cierto. El anexo y el jardín botánico también están cerrados, aunque creo que estaban abiertos en el pasado cuando estabas aquí.
+}
+[sha:e75ff1d0b44d525560c97c7b3fa6b29b7266fad4]{
+-- Page 91, Offset 5792.
+-- しばらくは管理が行き届かないので」
+Ya hace tiempo que no se mantienen propiamente."
+}
+[sha:9bdb48a4b0276c557784246488bc8c778541a9ce]{
+-- Page 92, Offset 5793.
+-- 別館は外来の客が宿泊するもので、植物園は槙久が学生の頃に建てたもの、だったか。
+El anexo era para alojar huéspedes extranjeros, y el jardín botánico lo construyó Makihisa cuando era un estudiante.
+}
+[sha:e7f95419fe8e92da328522d66074f90fa2500281]{
+-- Page 92, Offset 5794.
+-- 遠野槙久は当主として家督を継ぐ前、農学、とくに育種学に傾倒していた。植物園はその時の名残だそうだ。
+Antes de asumir el cargo de cabeza de familia, Tohno Makihisa se dedicaba a la ciencia agrícola, especialmente a la trematología. El jardín botánico se considera un remanente de esos tiempos.
+}
+[sha:1539e7a4201fbadd33ed2e8bb5126667dcff9af4]{
+-- Page 93, Offset 5795.
+-- 「外の施設はのきなみ閉めたって事か。
+"¿Significa que has cerrado todas las instalaciones exteriores?
+}
+[sha:23205d1a101f4ce9cb4c8d6a40fa30892be4511c]{
+-- Page 93, Offset 5796.
+-- あ。じゃあプールも？」
+Oh. ¿Qué hay entonces de la piscina?"
+}
+[sha:1236c9b82af91f3a35d1523f638b2f9d4be653e1]{
+-- Page 93, Offset 5797.
+-- 「プールは例外です。秋になったので閉めているだけで、シーズンになれば業者を入れて再開します」
+"La piscina es una excepción. Sólo está cerrada porque es otoño.
+ Cuando mejore el tiempo, traeré al contratista para que la reabra."
+}
+[sha:5455b9118f9cc30ede4788c53015e0955bc1d679]{
+-- Page 94, Offset 5798.
+-- それは良かった。
+Está bien oir eso.
+}
+[sha:75a6649267b9afe0c0a160731a2cbd34d42e0348]{
+-- Page 94, Offset 5799.
+-- 子供の頃は使わせてもらえなかったが、来年の夏休みはリッチな体験ができそうだ。
+No se me permitía usarla de niño, el verano que viene será divertido.
+}

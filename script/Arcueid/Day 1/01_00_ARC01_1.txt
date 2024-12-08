@@ -1,0 +1,640 @@
+[sha:0f36e53967cfde27952de827faadae4ddaa9d6a3]{
+-- Page 1, Offset 1146.
+-- 先ほどまで地上に敷かれていた路線は、<前触|まえぶ>れもなく地下の路線に切り替わった。
+La vía de ferrocarril cambia a una subterránea sin previo aviso.
+}
+[sha:e724caca013abed8905bd9b837e6a919a7442ef5]{
+-- Page 1, Offset 1147.
+-- 電車は人工の光をまき散らしながら、一面の闇を<潜|もぐ>るように進んでいく。
+Iluminando con luz artificial, el tren se adentra en la oscuridad.
+}
+[sha:2e14f7e236737accbed3545cd30346e378fe49e3]{
+-- Page 2, Offset 1148.
+-- きしむ車両の音。
+Escucho los chirridos del vagón.
+}
+[sha:3d7a6c3023d0d54cde912cea13843ac6ffc9867f]{
+-- Page 2, Offset 1149.
+-- 等間隔に過ぎ去っていく人工灯。
+Escucho los chirridos del vagón.
+}
+[sha:ac25cea291e483cecb6ef9bdb647514059a5c7b3]{
+-- Page 2, Offset 1150.
+-- シートごしに伝わってくる震動を秒針に重ねて、距離と時間の経過を考える。
+Mientras mi asiento vibra al compás de los segundos del reloj,
+ pienso en el paso del tiempo y el espacio.
+}
+[sha:2bcf10eef3c07d132a166c372cd375af1676f7d9]{
+-- Page 3, Offset 1151.
+-- 早朝、午前６時33分。
+Es temprano, 6:33 AM.
+}
+[sha:3ffd13536706ce7f254a8269ce15faf245b1bf10]{
+-- Page 3, Offset 1152.
+-- この電車に乗ってから30分ほど経過した。
+Ha pasado media hora desde que subí al tren.
+}
+[sha:5d7bb6b1c118d8ba201b897737d9f04f50a322dd]{
+-- Page 3, Offset 1153.
+-- もう帰る事のない、長年お世話になった人たちの家を出てから、それだけの時間と距離が離れている。
+Ya no puedo dar la vuelta. Todo este tiempo y distancia ahora me separan de la familia que me estuvo cuidando todos estos años.
+}
+[sha:d4999d240527f5777b2549cf8f28d37480f32577]{
+-- Page 3, Offset 1154.
+-- それをどう受け入れるのかで、人間としての情の深さが計れるのかもしれない。
+// Quizá suene mejor de otra forma
+Como lo acepte puede servir como medida de mi compasión humana.
+}
+[sha:80e1d966ff7bc4d14edab054475826fd52d83f75]{
+-- Page 4, Offset 1155.
+-- 『まだそれだけ』の距離と身近に感じるのか、
+A pesar de la distancia física, ¿sigo pensando que están cerca?
+}
+[sha:ea716acf16f693e33b8333427f7f343a87802dcd]{
+-- Page 4, Offset 1156.
+-- 『もうそれきり』の距離と片付けてしまうのか。
+¿O los he descartado como parte del pasado?
+}
+[sha:d7c3428e5e6085fbc475122257e551a74caca677]{
+-- Page 5, Offset 1157.
+-- 自分はどちらだろうと考える。
+Me pregunto cuál de estos sentimientos me corresponden.
+}
+[sha:c1b24a9e3bfe0c02e568a8bdf576cc907fe26ae4]{
+-- Page 5, Offset 1158.
+-- わずかに思案して、そのどちらの所感も浮かんでいなかった事に気がついた。
+Lo valoro por un instante, y luego me doy cuenta que no es ninguno de estos.
+}
+[sha:5231b69e3c4916d4bd0fb939dd7526673a3e53c1]{
+-- Page 6, Offset 1159.
+-- 八人掛けのシートに座っているのは自分だけで、対面は空席のままだ。
+Soy el único en el banco de ocho personas, y la fila en frente está completamente vacía.
+}
+[sha:b10b9bca4ca46dc60590915b46929e809487ca4d]{
+-- Page 6, Offset 1160.
+-- 乗客は数えるほどで、となりの列のシートで居眠りをしている背広姿の男性と、ドアの前に立っている少女だけ。
+Los otros pasajeros son el hombre en traje somnoliento de la siguiente fila, y una chica de pie frente a la puerta.
+}
+[sha:35d5403f5a918672cb3f98c059b5b2d02f0df3e9]{
+-- Page 6, Offset 1161.
+-- 早朝の便という事もあり、車両の中はあまりに寂しい。
+Como es un tren de madrugada, el interior del vagón se siente solitario.
+}
+[sha:af29ccd4a38ac76394269140fc2e8d06c52a213a]{
+-- Page 7, Offset 1162.
+-- 物思いに<耽|ふけ>っていたせいか、車両外からの駆動音は不思議と耳に残っていない。
+Por alguna razón, no soy consciente del traqueteo del tren.
+ Será porque estoy absorto en mis pensamientos.
+}
+[sha:c30a7b6c2f69db8b244b2e3c498c0289b2ae832f]{
+-- Page 8, Offset 1163.
+-- 漠然と、暗い宇宙を行く宇宙船を連想した。
+Soñando despierto, me imagino una nave espacial volando a través del oscuro vacío del espacio.
+}
+[sha:dd26091f85f644ad63ad1d18825bb8863d60a51b]{
+-- Page 8, Offset 1164.
+-- 乱雑な外界の音は届かない。
+El sonido del caótico mundo exterior no me alcanza.
+}
+[sha:985b57bbda26acc2ea0c74ee37bc2401d23f7df3]{
+-- Page 8, Offset 1165.
+-- ここにあるものは益体もない自分の空想と、血液をはき出す心臓の音と、ほんの一時間前に過ぎていった思い出だけ。
+Todo lo que hay aquí es mi vana imaginación,
+ el sonido de mi corazón regando sangre,
+ y las memorias de lo que sucedió hace una hora.
+}
+[sha:869a2c1ab6cc79dd2a701eb99335aefbbd7aec56]{
+-- Page 9, Offset 1166.
+-- それは突然の話だった。
+Sucedió de la nada.
+}
+[sha:87198397e2c7ab74a7c02f68fc70f334573754ed]{
+-- Page 9, Offset 1167. Mods: @n.
+-- “遠野<槙久|まきひさ>が亡くなった。
+'Tohno Makihisa ha fallecido.
+}
+[sha:c726996b6e79c9f1b7600c2dfbb8db8746f138af]{
+-- Page 9, Offset 1168.
+-- そちらの家に預けていた<遠野|とおの><志|し><貴|き>を本家に戻すように”
+Tohno Shiki debe volver a la mansión Tohno inmediatamente.'
+}
+[sha:04b1459f61c4e8d1ad80da0e20b06ed713e52cc8]{
+-- Page 9, Offset 1169.
+-- 七年近く音沙汰のなかった実家からの電報は、そんな意味合いのものだったという。
+Decía el telegrama mandado desde mi hogar original, del cual no había oído durante casi siete años.
+}
+[sha:cab4d8658dbb01bde05c72048e6dc5afad5aff15]{
+-- Page 10, Offset 1170.
+-- 遠野本家の決定には逆らえない。自分はまだ学生であり、養育費をいただいている身分でもある。
+No podría ir en contra de una decisión tomada por la familia principal de los Tohno. Después de todo, sigo siendo estudiante y dependo de ellos para vivir.
+}
+[sha:1df0fa7193c2af362aabec41a956d3273807411b]{
+-- Page 10, Offset 1171.
+-- 屋敷に戻る日を、前日の夜ではなく当日の朝に決めたのは意地のようなものだった。
+En acto de desafío, decidí marcharme la mañana del día que tenía que volver, en vez de la noche anterior.
+}
+[sha:866278552d24c015c6c7c9bd610fe01eb34a0af1]{
+-- Page 11, Offset 1172.
+-- 少しでも長く今まで暮らしていた家に滞在する―――
+Quería quedarme el mayor tiempo posible en la casa en la que estuve viviendo hasta ahora―――
+}
+[sha:d67f266765c0b994d450cf7258b6d5491e1f3377]{
+-- Page 11, Offset 1173.
+-- それは本家の決定とはいえ、まったく繋がりのない自分を家族として迎え入れてくれた<有間|ありま>の人々への、自分なりの礼節だった。
+Esta era mi manera de demostrar mi respeto a los Arimas.
+ Quizá solo fuera por orden de la de la casa principal,
+ pero aunque no tuviera relación con ellos en absoluto,
+ me acogieron como uno de los suyos.
+}
+[sha:d70fc8d6a77f032b2c10b563de4a4a341197d5c6]{
+-- Page 12, Offset 1174.
+-- “ごちそうさまでした。今朝もおいしかったです”
+'Gracias por la comida. El desayuno de hoy estaba delicioso, como siempre.'
+}
+[sha:003994811d67f296d8f505821a9c8d66af59f7dd]{
+-- Page 12, Offset 1175.
+-- 日が昇る前に朝食を済ませ、食卓を後にして、自分用にあてがわれていた部屋に手を合わせた。
+Antes de que saliese el sol había terminado mi desayuno,
+ dejado la mesa,
+ y presentado mis respetos a la que solía ser mi habitación.
+}
+[sha:93a3ea8f7984c491207fd971d00768f35892dac9]{
+-- Page 13, Offset 1176.
+-- 長年の感謝にしては味気ないものだったが、気持ちを残してはそれこそ未練になる。
+Era una forma mínima de expresar mi gratitud por todos los años que pasé allí,
+ pero si no me desahogaba en ese momento,
+ aquellos sentimientos permanecerían en mi corazón mucho después de haberme marchado.
+}
+[sha:46323c93081ce8900f15793cc1d8e067fec1a86a]{
+-- Page 13, Offset 1177.
+-- ここでの生活は明るい事ばかりだった。持っていく荷物はそれだけで十分だ。
+La vida con ellos no era sino alegre. Y eso es todo lo que necesito recordar.
+}
+[sha:fac302c402fad404f17075a922bf7c5a28cd113c]{
+-- Page 14, Offset 1178. Mods: @n.
+-- 有間の家を出る時、見送りは<啓子|けいこ>さんひとりだった。
+Cuando dejé el hogar de los Arimas, Keiko-san fue la única que vino a despedirse.
+}
+[sha:43ab0ccfe30030b9cb83ee74dd97f0c3b2c8bf1b]{
+-- Page 14, Offset 1179.
+-- できるだけ静かに、他の家族を起こさないように提案したのは自分の方だ。
+Yo mismo sugerí que debía ser lo mas silencioso posible para no despertar al resto de la familia.
+}
+[sha:a2001dc9a0d2fd030c58c0b385487d067652aca5]{
+-- Page 15, Offset 1180. Mods: @n.
+-- “今までお世話になりました。
+'Gracias por todo lo que habéis hecho por mi.
+}
+[sha:b4591699e1cce62f81265f16b006a6e63ac31b4c]{
+-- Page 15, Offset 1181.
+-- お父さんと<都古|みやこ>にも、よろしく言っておいてください”
+Por favor saluda a papá y a Miyako de mi parte.'
+}
+[sha:c1d64b6554c9803710c6865ba167d6e1a77bc5bd]{
+-- Page 15, Offset 1182.
+-- 七年間――――俺の母親役であった人は、ひどく悲しげな目をしていた。この人のそんな顔を見ることになるなんて、思いもしなかった。
+La persona que interpretó el papel de madre durante siete años portaba una mirada terriblemente triste.
+}
+[sha:a8320df7f95d25f4686dbde99cb7967d0c1fb7e5]{
+-- Page 16, Offset 1183.
+-- “遠野のお屋敷での生活はたいへんでしょうけど、しっかりね。あなたは体が弱いのだから、あまり無茶をしてはいけませんよ”
+'Sé que será difícil vivir en la mansión Tohno, pero aguanta.
+ Eres débil físicamente, así que no seas demasiado imprudente.'
+}
+[sha:c483072f7708ed4ec9cc83a6010021355201ad18]{
+-- Page 16, Offset 1184.
+-- いたわりの言葉を素直に受け入れる。
+Acepté sus palabras de preocupación con el corazón abierto.
+}
+[sha:53e2e7e45a8aedf543381f1fcd88f6fbd6fcb71f]{
+-- Page 16, Offset 1185.
+-- この七年間は本当に穏やかだった。それと同じように、自分のいた時間が有間の家の人たちにとって苦痛でなかったのなら、これほど喜ばしい事はない。
+Mis últimos siete años han sido verdaderamente pacíficos.
+ Si a los Arimas no les ha importado tenerme cerca, entonces no podría estar más contento.
+}
+[sha:1d22acf4ffa589592379e4f8ce0dd15088282d88]{
+-- Page 17, Offset 1186. Mods: @n.
+-- “七年もたてば人並みに健康な体に戻ります。
+'Tras siete años, estoy tan sano como uno puede estar.
+}
+[sha:c18f6a2dc275f7ee9953ca472938b05fe9beea24]{
+-- Page 17, Offset 1187.
+-- こう見えてもわりと頑丈なんですよ、俺の体”
+Quizá no lo parezca pero, mi cuerpo es bastante resistente sabes.'
+}
+[sha:3366da8e8637619d4f4ccc41d581aca0310b7ca8]{
+-- Page 17, Offset 1188.
+-- “ええ、そうだったわね。
+'Sí, tienes razón.
+}
+[sha:adceca6bdb927c136a05446bb66da3da07736f0e]{
+-- Page 17, Offset 1189.
+-- 遠野の人たちは特別な人ばかりだけど、物怖じしないのがあなたですものね。子供のころからずっと、こっちがびっくりするぐらい動じない子だったわ”
+La familia Tohno está llena de gente especial, pero tu falta de miedo es algo que es único en ti.
+ Tu habilidad para tomarte las cosas con calma, incluso desde niño, siempre me ha impresionado.
+}
+[sha:c733471d7c01522bca8816da35c833526c8d84eb]{
+-- Page 18, Offset 1190.
+-- 苦笑まじりの言葉に、こちらも同じように笑ってしまう。
+Esbozaba una sonrisa dolorosa mientras hablaba.
+ De la misma forma le devolví la sonrisa.
+}
+[sha:b6373ed40a06e429f046d6942454c0567ee4924a]{
+-- Page 18, Offset 1191.
+-- 啓子さんの中では、まだ自分が“うちの子”である事が嬉しかった。
+Me hacía feliz que en la mente de Keiko-san, aún fuera su hijo.
+}
+[sha:525887f5a339434e2c8fb79848f834892c129c29]{
+-- Page 19, Offset 1192.
+-- “それは買いかぶりすぎです。
+'Me estás sobreestimando
+}
+[sha:5a72af7c1339b6647425347b1846e273e53ad7fa]{
+-- Page 19, Offset 1193.
+-- ……それじゃあ行ってきます。お母さんも元気で”
+Me voy... Cuídate, mamá.'
+}
+[sha:a277c6c142dc3998bd894fd41f675ce75c3eb9f5]{
+-- Page 19, Offset 1194.
+-- “ええ。あなたも元気でね、志貴”
+'Sí, lo haré. Cuídate tu también, vale, Shiki.'
+}
+[sha:08bb258065cad0ce33ed2594bf11ec4d6e83c8b1]{
+-- Page 19, Offset 1195.
+-- 行ってらっしゃい、と返さないのが啓子さんらしい。
+Que Keiko-san no respondiese con un 'nos vemos' era algo que me esperaba.
+}
+[sha:ba7f84ab2b70e50d5b2d1ee42f1c4f0a17e28b03]{
+-- Page 19, Offset 1196.
+-- 彼女はもう戻らないものと受け入れた上で、目尻に涙をためて俺を送り出してくれた。
+Se despidió con lagrimas en los ojos, habiendo ya aceptado que nunca volvería.
+}
+[sha:27df5c9a96813029375dfd3e97a94e4ebad4ae9e]{
+-- Page 20, Offset 1197.
+-- それがほんの40分前の出来事。
+Todo esto pasó hace cuarenta minutos.
+}
+[sha:7210e9adca8d50288231d448d4245f72ee57d48b]{
+-- Page 20, Offset 1198.
+-- 俺が新しい生活を迎える節目であり、
+Fue un punto de inflexión en mi vida.
+}
+[sha:477f9b8e676201534885735fa8410e147b4dba27]{
+-- Page 20, Offset 1199.
+-- 遠野志貴という人間の、これまでの人生の終わりだった。
+Es el comienzo de una nueva vida, y el final de la antigua de Tohno Shiki.
+}
+[sha:0d1a5eacc107d406f1d1db18cc5f707cb135931d]{
+-- Page 21, Offset 1200.
+-- 外の景色が少しずつ変化していく。
+El paisaje exterior cambia poco a poco.
+}
+[sha:3e51ac66fc1bac073a4111ac40ea964c7d558792]{
+-- Page 21, Offset 1201.
+-- 川を<隔|へだ>てて郊外だった<社木|やしろぎ>を抜け、都市部である<総耶|そうや>に入ったのだろう。
+Debimos pasar por Yashirogi, un barrio al otro lado del río, y entrado en el área metropolitana de Souya.
+}
+[sha:16804a1cca89d68de9ccf19feb62d20d8e4d49d6]{
+-- Page 22, Offset 1202.
+-- 路線は再び地上に向かっていく。
+El tren comienza a subir, hacia la superficie.
+}
+[sha:fd9d45178910588d498a428406427a6a43994dc6]{
+-- Page 22, Offset 1203.
+-- ゆるやかに傾斜を昇っていく感覚。
+Siento como poco a poco asciende la cuesta.
+}
+[sha:7afd98650c4b063213cde888cb2600fde0a28fee]{
+-- Page 22, Offset 1204.
+-- 人工の明かりに慣れきった眼に、覚めるような陽が差しこんだ。
+// No se si rejuvenecen es la palabra adecuada aquí
+Mis ojos, que se habían acostumbrado a la luz artificial, se rejuvenecen con la luz del sol.
+}
+[sha:aab045851fe48fe7b18b247ed5248543c9ad4849]{
+-- Page 23, Offset 1205.
+-- 都市を一望しながら電車は走る。
+El tren avanza, ofreciendo una visión panorámica de la ciudad.
+}
+[sha:69f11c1d21552def6ddc0963e390990dd8a177cd]{
+-- Page 23, Offset 1206.
+-- 街はまだ、その大部分が目を覚ましていない。
+La mayoría de la ciudad sigue durmiendo.
+}
+[sha:cc4cca79428b4141c1cbcfc41a6aca14b01e243c]{
+-- Page 23, Offset 1207.
+-- 外には冷たさを帯びてきた大気。
+Fuera, el aire se está volviendo frío.
+}
+[sha:bbfbe22578bac6e540429d97af04da0ff0dd8160]{
+-- Page 23, Offset 1208.
+-- 夏の面影が消え去った十月の、秋の朝そのものだ。
+Es una mañana de otoño en Octubre, momento en el que todas los vestigios del verano han desaparecido.
+}
+[sha:7d507700f7e1913f89effabe19145ff6251c4918]{
+-- Page 24, Offset 1209.
+-- 思えば、この風景を一年と半年間ながめてきた。
+Pensándolo bien, llevo ya casi año y medio mirando este paisaje.
+}
+[sha:bafcd299c8a7ca91aebca62de8cf9fa7b7454847]{
+-- Page 24, Offset 1210.
+-- 電車での登校風景もこれっきりだ。
+Esta será la última vez que lo vea de camino a la escuela.
+}
+[sha:837ec1ad26d52467b4b8a89a46628580de7b9019]{
+-- Page 24, Offset 1211.
+-- 通り過ぎる風景になぞらえるように、この七年間を振り返る。
+Pienso en los últimos siete años, que pasaron tan rápido como el paisaje tras la ventana.
+}
+[sha:7ab64350c2cc919dd4222fa04aa6b60fa8fe25cb]{
+-- Page 25, Offset 1212.
+-- 10歳の頃―――普通なら即死という重傷から回復して、
+Cuando tenía diez años, me recuperé de un grave accidente que debería haberme matado en el acto.
+}
+[sha:c77aabc99bc6045ca8f28d6a371e1aa1c5a24404]{
+-- Page 25, Offset 1213.
+-- 先生に出会って、
+Conocí a Sensei
+}
+[sha:1dff8a538a73f6d0f9264b3335551ecfaec04b0e]{
+-- Page 25, Offset 1214.
+-- 有間の家で暮らす事になって、
+Y empecé a vivir en el hogar de los Arima.
+}
+[sha:3d6ad8a5809f0ff8046ceef70119a749035b5a79]{
+-- Page 25, Offset 1215.
+-- こうして、高校生二年目の秋を迎えた。
+Y finalmente, empezó el otoño de mi segundo año de instituto.
+}
+[sha:46a8dc4d84ed6af12630d7a56f8e75e9bfc49374]{
+-- Page 26, Offset 1216.
+-- あの時―――別れ際に先生が言っていたような特別な出来事はまったく起こらなかったし、自分も先生のくれた眼鏡をつけているかぎり『線』を見る事はない。
+El tipo particular de incidente del cual Sensei me advirtió nunca ocurrió,
+ y mientras lleve las gafas que me dió,
+ no veo ninguna línea.
+}
+[sha:d314fe5bb6919f436e2c107165f40ad3c1d0ba1f]{
+-- Page 26, Offset 1217.
+-- 遠野志貴は平凡ではあるものの、得難い日々を過ごしてきたと思う。
+Creo que he pasado mis días viviendo una valiosa pero ordinaria vida.
+}
+[sha:273afbd3d38d62c937a12ed4c22482bb58f9a29e]{
+-- Page 27, Offset 1218.
+-- 今日からはそれがちょっと、<大事|おおごと>になってしまう。
+Sin embargo, desde hoy, las cosas van a volverse un poco más serias.
+}
+[sha:3928ba42ef93391941e3ae4f11b769b44c52d4bd]{
+-- Page 27, Offset 1219.
+-- もとのカタチに戻るだけなので身分不相応という事はないものの、肌に合わない、というのは本当の事だ。
+Vuelvo a mi hogar original,
+ no es como fuese a un lugar al que no pertenezco.
+ Sin embargo, al mismo tiempo, hay algo que no me gusta.
+}
+[sha:9ce607adb2d8bef5ee17a60d4d68602b095e9614]{
+-- Page 27, Offset 1220.
+-- 本家……遠野家のあり方は、一般家庭になれきった自分には面倒くさ……重すぎるきらいがある。
+Me he acostumbrado tanto a una casa convencional que vivir en un lugar como la mansión Tohno va a ser un problema... No me apetece nada.
+}
+[sha:4c292729d52fba07d40633f2d4ad6c6ba7307740]{
+-- Page 28, Offset 1221. Mods: @n.
+-- 「……だいたい、
+"Ademas...
+}
+[sha:5af5dbf30485d11d3debdd50bd68d6c9f3c5df9f]{
+-- Page 28, Offset 1222.
+-- 学校より広い洋館とか想像つかないんですけど……」
+Es difícil imaginarse una mansión más grande que mi escuela..."
+}
+[sha:07f63bf799345dae1b8489849ec50cdd3bd7b5c4]{
+-- Page 28, Offset 1223.
+-- 子供の頃はよく耐えられたものだと感心する。
+Me impresiona las cosas que podía aguantar de niño.
+}
+[sha:74ab9917d11f1904f8d09e6b1800e3561591281d]{
+-- Page 28, Offset 1224.
+-- あんな時代錯誤な生活に戻されるかと思うだけで、悩みはなくとも気後れしてしまうというものだ。
+Aunque no me me preocupa,
+ la mera idea de verme obligado a volver a un estilo de vida tan anacrónico me hace sentirme un poco abrumado.
+}
+[sha:00e4c16dd28c65fde5b1fcd9fca805c4250a4b30]{
+-- Page 29, Offset 1225.
+-- 電車は大きめの駅に到着し、数分ほど停車する。
+El tren llega a una gran estación y para durante varios minutos.
+}
+[sha:69aa033fa3694f505b764528989418a2a4978456]{
+-- Page 29, Offset 1226.
+-- 各駅停車なので、となりの快速電車が通過するまでの待ち時間だ。
+Como este tren para en cada estación, tendré que esperar que venga el siguiente tren express.
+}
+[sha:6f4caeb76e4dc97c6989bb1154a8a2ea75b55b44]{
+-- Page 30, Offset 1227.
+-- ホームに人影はない。
+No hay nadie en el andén.
+}
+[sha:a7fe4eeb4331fe587cca017e82c97efa28c13a35]{
+-- Page 30, Offset 1228.
+-- この時間なら背広姿のサラリーマンたちが何人かいそうなものだが、今朝は特に静かだ。
+A esta hora esperaría ver algún que otro empresario en traje, pero esta mañana es particularmente tranquila.
+}
+[sha:0ddc4dbf1403a3aa94843e4592d24686276d1a3e]{
+-- Page 31, Offset 1229.
+-- となりのレールを快速電車が通過していく。
+El tren express pasa por la vía de al lado.
+}
+[sha:d328b866a48c15d635f3358c575382ab0a4e254a]{
+-- Page 31, Offset 1230.
+-- 『お待たせしました。次の停車駅は―――』
+'Gracias por esperar. La próxima parada es―――'
+}
+[sha:5aa6afd2e3110df728e222498e68af5274f0a6c7]{
+-- Page 31, Offset 1231.
+-- 聞き慣れたアナウンス。
+Oigo un anuncio familiar.
+}
+[sha:cb7a006726bd42d9e58714376385d72f61427aaa]{
+-- Page 31, Offset 1232.
+-- 空圧で閉まる自動ドア。
+Las puertas automáticas comienzan a cerrarse con un siseo
+}
+[sha:e706674c916b39926293db1d8a1b4ebd1c5a4381]{
+-- Page 31, Offset 1233.
+-- 高校のある<総耶|そうや>駅まであと四駅と確認して、
+Solo quedan cuatro paradas hasta la estación de Souya, donde se encuentra mi instituto
+}
+[sha:eef79e81ff455a3f45c74b6e039f09a5aaa4b93c]{
+-- Page 32, Offset 1234.
+-- 「あわわ、待って待って！」
+"%{i}Awawa%{/i}, espera, ¡espera!"
+}
+[sha:eac011a5204abcccbfbaae2e3a1dc03536457871]{
+-- Page 33, Offset 1235.
+-- 「はあ～。あぶないあぶない、
+"%{i}Uf%{/i}, eso estuvo cerca.
+}
+[sha:c88cee16ec35be6dae65ce13fb17ea2d29767b0c]{
+-- Page 33, Offset 1236.
+-- あやうく首が飛ぶところでした」
+Por poco pierdo la cabeza."
+}
+[sha:f91f119a49fe4927325e5e1f52c7da2068021fc8]{
+-- Page 34, Offset 1237.
+-- 自動ドアの隙間から滑りこむように現れたのは、うちの高校の女生徒だった。
+La chica que se coló justo mientras las puertas se cerraban es una estudiante de mi instituto.
+}
+[sha:4cccfaaf162e80b48a519a4f68f2d09ca939ccfc]{
+-- Page 34, Offset 1238.
+-- 緑色のリボンなので三年生だ。なんとなく見覚えがある。
+Lleva un lazo verde, por lo que debe ser una estudiante de tercer año. Me resulta vagamente familiar.
+}
+[sha:48d1d4a81b932a7fe0193304b227f13f770e0a85]{
+-- Page 34, Offset 1239.
+-- 手に持っているバッグは部活の道具か何かだろうか。
+La bolsa que lleva probablemente contiene algo para sus actividades del club.
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 35, Offset 1240.
+-- 「――――――」
+"――――――"
+}
+[sha:f8d42f59b39d30902c4fd60d30e37f503c8c2bcd]{
+-- Page 35, Offset 1241.
+-- ふと視線が合った。
+Cruzamos miradas repentinamente.
+}
+[sha:8a93baf757f43c8c3fb22168579826f193ff2ce1]{
+-- Page 35, Offset 1242.
+-- 上級生の女生徒はじっとこちらを見つめてくる。
+Me está mirando fijamente.
+}
+[sha:d62f7e205a7595789a797885fe5b3ea26d888343]{
+-- Page 35, Offset 1243.
+-- そればかりか、トコトコと近寄ってきたかと思うと、
+No solo eso, también se está acercando.
+}
+[sha:6dfee1461f9a58b4fe77f2cc64a559f962089343]{
+-- Page 36, Offset 1244.
+-- 「おはようございます。朝からお騒がせしてごめんなさい」
+"Buenos días. Siento molestarte tan temprano."
+}
+[sha:498e1cfd537b39d04bddb4d26e2f91691ddd6ebd]{
+-- Page 36, Offset 1245.
+-- 「あ、いえ、こっちこそすいません。じろじろ見ちゃって」
+"Ah, no, yo tambíen lo siento. Por quedarme mirando, me refiero."
+}
+[sha:d63f1fec044619938512a0f629d91a9f597d893a]{
+-- Page 36, Offset 1246.
+-- 笑顔につられて思わず謝ってしまった。
+Su sonrisa hizo que me disculpara sin pensarlo.
+}
+[sha:6d9f6b5732a76b39b920c42eab363c62b7687ed8]{
+-- Page 37, Offset 1247. Mods: @k, @e.
+-- 「いえいえ、目立つようなコトをしたわたしに非があるんです。
+"No, es mi culpa por llamar tanto la atención.
+}
+[sha:75f413ee875552c28b95b473048099cdb5ebb1f8]{
+-- Page 37, Offset 1248.
+-- 先輩として恥ずかしいところを見せてしまいました。
+Siento que hayas tenido que ver así a tu senpai.
+}
+[sha:b6427c01fa14beeabf2c10215fae6ddc043ca355]{
+-- Page 37, Offset 1249.
+-- でも、朝は弱いって話、ホントなんですね」
+Aun así, parece que tenían razón cuando decían que no eres una persona madrugadora."
+}
+[sha:b39990d4a0c0a6c8ceb1f4c9583edc95f4efed23]{
+-- Page 38, Offset 1250.
+-- くすくすと笑う上級生。
+Se ríe.
+}
+[sha:40fd0d280fd56d8af830b4763bff50bd7a05b04a]{
+-- Page 38, Offset 1251.
+-- その仕草に呆気にとられていると、
+Mientras sigo sentado, sorprendido por su comportamiento, ella continúa:
+}
+[sha:6f0bc09950048ac3d0e7e81403b458aa98aa7b15]{
+-- Page 39, Offset 1252.
+-- 「ほら。わたし、わたしですよ。先週会ったばっかりなのに、もう忘れちゃったんですか？」
+"Vamos, soy yo, ¿recuerdas? Nos conocimos la semana pasada. ¿Ya te has olvidado de mí?"
+}
+[sha:7a3e8a5f20502db69ac8a24a17060b82fd323d18]{
+-- Page 40, Offset 1253.
+-- 「あれ……シエル先輩……？」
+"Uh... Ciel-senpai...?"
+}
+[sha:5ace112549391aa8adc2d6a8fc5f2d8ebc24fd8e]{
+-- Page 40, Offset 1254.
+-- 一瞬で記憶が揺り動かされる。
+En ese instante, refresco mi memoria.
+}
+[sha:b38412485ae4d970a9546c06d265a694c15466d4]{
+-- Page 40, Offset 1255.
+-- 見覚えがあるはずだ。この人とは学校で何度か会っている。
+Por supuesto que me resulta familiar. La he visto varias veces en la escuela.
+}
+[sha:04811f4944dd256035eb9e8a15216341ce882f4f]{
+-- Page 40, Offset 1256.
+-- というか、うちの生徒でシエル先輩を知らないヤツはいないだろう。
+Realmente, no hay nadie en la escuela que %{i}no%{/i} conozca a Ciel-senpa
+}
+[sha:af66e0a0af0fe2e58ce1626b970ba11df6758046]{
+-- Page 41, Offset 1257.
+-- 誰が呼んだか<耶高|やこう>の万能先輩。
+En algún momento, la gente la empezó a llamar la Todopoderosa Senpai del instituto Souya.
+}
+[sha:b5d0ebe7b855280b154f9f57073f7d9c6c7256f6]{
+-- Page 41, Offset 1258.
+-- 一年に悩める生徒がいれば相談に乗って<前向き|ハッピー>にし、
+Si hay alumnos de primero en problemas, ella los aconseja y los anima.
+}
+[sha:86981208d973bb87c556ac9ae05bd058919e241e]{
+-- Page 41, Offset 1259.
+-- 二年に迷える生徒がいれば問題そのものを解決し、
+Si hay alumnos de segundo perdidos, ella misma los guiará.
+}
+[sha:f3b17e98561e568ce256613f46d8170835b68fd2]{
+-- Page 41, Offset 1260.
+-- 三年に困った生徒がいれば後輩いじめを止めさせる。
+// Uso kouhais porque underclassman y upperclassman son horribles de traducir me parece mejor usar kouhai y senpai
+Si hay estudiantes de tercer año molestando a otros, ella impedirá que acosen a sus kouhais.
+}
+[sha:6993f3fd6fb924601b05314974e6ce2c56018866]{
+-- Page 42, Offset 1261.
+-- 教師たちや生徒会より頼りになることから、真の生徒会長とまで呼ぶ生徒もいる。
+Ella es más fiable que los profesores y el consejo estudiantil.
+ Tanto que, de hecho, algunos la llaman la %{i}verdadera%{/i} presidenta del consejo estudiantil.
+}
+[sha:509a1ebbb4df3fe5ee8f0ea1fc3d3e51f43c9801]{
+-- Page 42, Offset 1262.
+-- 言うまでもなく、俺も先週、ちょっとした事で助けてもらったはずだ。
+No hace falta decir que, cuando tuve un problema la semana pasada, me ayudó.
+}
+[sha:90ced9959fac43f3b76175caf446da614548d1e1]{
+-- Page 43, Offset 1263.
+-- ……まったく、ぼけているにもほどがある。
+Vaya... No me puedo creer que realmente haya olvidado todo eso.
+}
+[sha:e7fa65f44f3e39f2d2dd39aa08472e9758cdb593]{
+-- Page 43, Offset 1264.
+-- 先輩の言う通り、朝に弱いことプラス、七年ぶりの帰宅で頭が曇っていたとしか思えない。
+Tiene razón sobre que no soy una persona madrugadora. No solo eso, pero es muy posible que mis pensamientos estén nublados por el hecho de volver a casa por primera vez en siete años.
+}
+[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+-- Page 43, Offset 1265. Mods: @k, @e.
+-- 俺は、
+Yo...
+}
+[sha:d5b93c1758aae6667f0f79231057505b96e3317a]{
+-- Page 44, Offset 42569. Choice.
+-- 残念ながら話しかける用事はなかった。
+Tristemente, no tengo nada de lo que hablar con ella.
+}
+[sha:af383472ad2dc0447f31e7b37e818e9e983be21b]{
+-- Page 44, Offset 42570. Choice.
+-- ちょっとした疑問がわいてしまった。
+Tengo algunas preguntas.
+}
+[sha:e1c53c1e27d85dc1121a7585b2085f62a8945117]{
+-- Page 44, Offset 42571. Choice.
+-- せっかくなのでじっくり観賞するしかなかった。
+Debería admirarla cuidadosamente ya que tengo%{n}
+  la oportunidad.
+}

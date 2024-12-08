@@ -1,0 +1,825 @@
+[sha:9950bc2affccf83ad781ce2a86072c99b28aca26]{
+-- Page 10026, Offset 12985. Mods: @n.
+-- ヴローヴ・アルハンゲリが地上から消滅して２時間
+-- TRANSLATION HERE
+}
+[sha:8ce131c8b1e206dc5add74f0dc62e19a6103aad9]{
+-- Page 10026, Offset 12986. Glued.
+-- 後。
+-- TRANSLATION HERE
+}
+[sha:d23e45bc2f7820a98aa4854779913db883f9a4cf]{
+-- Page 10026, Offset 12987.
+-- 機動施設隊による交通規制、報道機関のシャットアウトは現時刻まで続いている。
+-- TRANSLATION HERE
+}
+[sha:a9ecaf39b1da5f0d96d565004346d1648906b2ad]{
+-- Page 786, Offset 12988.
+-- 陥没の調査はおろか映像記録すら許可しない隠蔽処理。その指揮を執っているのは警察官でもなければ自衛官でもない。
+-- TRANSLATION HERE
+}
+[sha:865c0e5881d44e198f33e99d9415e4e2c9d26222]{
+-- Page 786, Offset 12989.
+-- 金髪碧眼の外国人。
+-- TRANSLATION HERE
+}
+[sha:e2fe599e699309f1337c95aa3f28ecb20dc0948b]{
+-- Page 786, Offset 12990.
+-- 外見年齢、およそ12歳にすぎない少年だった。
+-- TRANSLATION HERE
+}
+[sha:4d107107fc160b08e79057df03e91ea90dc067e2]{
+-- Page 787, Offset 12991.
+-- 「オーオー。やりたい放題ってのはまさにコイツのコトだよなぁ。死徒の<地下墓地|カタコンベ>に真祖の空想具現化ときた。ニホンってのはアジアが誇る先進国じゃなかったのか？　いつから中世の田舎町になりやがった。
+-- TRANSLATION HERE
+}
+[sha:f8f05338b792feca62b0aac124f2a2077557113f]{
+-- Page 787, Offset 12992.
+-- こんな大騒ぎは13年前のアレ以来じゃねえのか、ええ？　おい聞いてんのかアンドー、テメェの国の話をしてんだよオレは」
+-- TRANSLATION HERE
+}
+[sha:ddbd9d12ad2f3b8e03ef237b961c3e7b77b5cc03]{
+-- Page 788, Offset 12993.
+-- 「俺に言われても困りますよ坊ちゃん。ハイテク国家とか言われてますけど、そんなのもう10年も前の話ですし？　技術も人間の程度も伸び悩んでるんスからこの国。愚痴……じゃなくて、お叱りは所轄の代行者にぶつけてください」
+-- TRANSLATION HERE
+}
+[sha:0231d344ce96084e22e73a8b29e04e1e9f268fb4]{
+-- Page 789, Offset 12994.
+-- 金髪の少年の悪態を慣れた風にかわす青年。
+-- TRANSLATION HERE
+}
+[sha:57af3265765cc61d4ac2b43595b2166bbdbb2dd7]{
+-- Page 789, Offset 12995. Mods: @n.
+-- 彼等の眼下には戦場となったクレーターが広がっている
+-- TRANSLATION HERE
+}
+[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+-- Page 789, Offset 12996. Glued.
+-- 。
+.
+}
+[sha:e67efe6edeb4c986f11fe524af54f53930a56854]{
+-- Page 789, Offset 12997.
+-- 見れば、クレーターではいくつかの人影がせわしなく活動していた。
+-- TRANSLATION HERE
+}
+[sha:9bbd9f9f454501d5fe6da28d9647b693c9f72085]{
+-- Page 789, Offset 12998.
+-- 災害現場の人命救助に出動したレスキュー隊、および所轄の警察から派遣された調査団だ。
+-- TRANSLATION HERE
+}
+[sha:8100567c8537adcc7d17aecc26e27fb0a34751c1]{
+-- Page 789, Offset 12999.
+-- 彼等は事故の真相を知らされないまま、この異様な現場の後処理に努めている。
+-- TRANSLATION HERE
+}
+[sha:95d6b0f0a1dbc0f15cf904412d9a86848c0cf21f]{
+-- Page 790, Offset 13000.
+-- 「しかし、いいんですか坊ちゃん、うちの連中使わなくて。
+-- TRANSLATION HERE
+}
+[sha:d6dc9a270deafedfcbaf558c7b792b5f7da1b899]{
+-- Page 790, Offset 13001.
+-- あれ、どんだけ箝口令ひいても漏れちゃいますぜ？」
+-- TRANSLATION HERE
+}
+[sha:5ba91d11f604e1b69d264f590de14d02c159f498]{
+-- Page 791, Offset 13002.
+-- 「気にすんな。ニホン人は仕事熱心なんだろ？　秘密厳守っていう組織の方針には従わなきゃあな。
+-- TRANSLATION HERE
+}
+[sha:9eddb6040a007371b45faa774a25d0af87efa18f]{
+-- Page 791, Offset 13003.
+-- よしんば話が漏れても噂止まりだ。事故現場に死体があるのは不思議じゃねえんだしな」
+-- TRANSLATION HERE
+}
+[sha:48e47085a1a91a3e70c500924664bbc64955c91a]{
+-- Page 792, Offset 13004.
+-- 「そりゃ不思議じゃねぇですけど、不自然ではありますよぉ？　どこにこんだけの死体があったんだって話ですし」
+-- TRANSLATION HERE
+}
+[sha:5e902f69c2a556c008e3495fc471a5739157d5ae]{
+-- Page 793, Offset 13005.
+-- 「そりゃあオマエ、ここで発見された死体は今夜ここにいた哀れな一般人だろうが。発見された死体イコール、さっきまで生きていた人間ってのが自然だろ？」
+-- TRANSLATION HERE
+}
+[sha:9b2c6ba8f13512c5a72dc0dbea571fdea981b2d2]{
+-- Page 793, Offset 13006.
+-- 「げ。マジですか。そんな方便で通るんスか！」
+-- TRANSLATION HERE
+}
+[sha:712c98a29b2debbd637b7ef7d84c82367de45e7d]{
+-- Page 794, Offset 13007.
+-- 「そこを通すんだよ。いやあ、公園だったのが幸いしたぜ。無関係な人間が山ほどいたコトの理由になる」
+-- TRANSLATION HERE
+}
+[sha:260e6fea6049d4e3def888f6142f9558abb09066]{
+-- Page 795, Offset 13008.
+-- 「理由さえあればあとは力仕事だわな。何の為にうちのジジイが権力バラまいてると思ってやがる。押さえるのは<上|トップ>だけでいいんだよ。下っ端や真ん中が不審がっても関係ねえ。最後にまとめる人間が握りつぶせばそれでおしまいだ」
+-- TRANSLATION HERE
+}
+[sha:6ea15e6faee1e6139fd1dc7d3d3a075c1d9a1735]{
+-- Page 796, Offset 13009. Mods: @k, @e.
+-- 「……はあ、そりゃあ辛い。そっかー、そういう風に闇に葬られてきたのかー。
+-- TRANSLATION HERE
+}
+[sha:68e29f8b315c8e3e2ce21da1695e602aecf16ecb]{
+-- Page 796, Offset 13010. Glued. Mods: @x.
+-- 坊ちゃん、その歳でエリートコースまっしぐらッスね。家柄的な話プラス、精神的な話で。なんかこう、もっと年相応の遊び心とかないんですか？」
+-- TRANSLATION HERE
+}
+[sha:6b5a46592fca4924d9eda81d955c113f1bc5c10d]{
+-- Page 797, Offset 13011.
+-- 「あるかンなもん。ガキってのは基本つまらねえもんだって忘れたのか30歳？　オラ、無駄話してねえで監督してきやがれ。ヤバめな証拠は隠滅しとけよ」
+-- TRANSLATION HERE
+}
+[sha:e84e94817169e354e0a426bb913baf775ca1075f]{
+-- Page 797, Offset 13012.
+-- 「へーい。上司の命令とあればよろこんでー」
+-- TRANSLATION HERE
+}
+[sha:a5be56357297b2f26e024694d5b19b0989a57747]{
+-- Page 798, Offset 13013.
+-- 「……アレでもちっと緊張感があれば使えるんだがな。あの捨て鉢さはなんだ、若い頃に挫折でもしたのかカリウス？」
+-- TRANSLATION HERE
+}
+[sha:c99b4827f10eb2502f08740495726839c3e10818]{
+-- Page 799, Offset 13014.
+-- 「私にはとんと。安藤の私生活に興味はありませんので。
+-- TRANSLATION HERE
+}
+[sha:4d5e1406f183d7f3cc5b7de59cefb742bdfb0098]{
+-- Page 799, Offset 13015.
+-- ３年前、悪徳司祭の内部告発を決意したものの、最後の最後で金に目が眩んだ恋人に裏切られ、故郷を追われ、失意の果てに父方の祖国であるこの国に島流しになった、という事ぐらいしか。
+-- TRANSLATION HERE
+}
+[sha:d1e9a07047d02264a3ff29a68ebcf4695755fcba]{
+-- Page 799, Offset 13016.
+-- また、先月は金融機関に３万円ほど返済をした後、６万円ほど追加の融資を受けたようです」
+-- TRANSLATION HERE
+}
+[sha:a9c66661f2b2efb5267c52fe7fa2644c49776ff8]{
+-- Page 800, Offset 13017.
+-- 「………充分知ってるじゃねえか。まあ、仲がいいのはいいコトだ。当面オレの下はオマエとアンドーだけだからな。チームワーク磨いとけよ」
+-- TRANSLATION HERE
+}
+[sha:072555fa8677f6eeb960c7a7d75f51e17a89e730]{
+-- Page 800, Offset 13018.
+-- 「マーリオゥ様のご命令とあらば承知いたしました」
+-- TRANSLATION HERE
+}
+[sha:86ab5589681722c0785d88688548ca23d652bc02]{
+-- Page 801, Offset 13019.
+-- 「おう、仲良くな。んじゃあそろそろ報告でも聞いとくか。
+-- TRANSLATION HERE
+}
+[sha:e4dd99a4baa0e0f2e4a0070129cbc7b03d7bb9c2]{
+-- Page 801, Offset 13020.
+-- あの使えない方の女、通していいぜ」
+-- TRANSLATION HERE
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 802, Offset 13021.
+-- 「………………」
+"........."
+}
+[sha:32f46ed92b232aa782fe714fbc8bd0d04f646c09]{
+-- Page 802, Offset 13022.
+-- 緊張した面持ちで女は現れた。
+-- TRANSLATION HERE
+}
+[sha:66d5a33c5a5fd6f76c8a5efaca8b8f9db441b855]{
+-- Page 802, Offset 13023.
+-- 代行者ノエル。事件の全容を知る数少ない人間である。
+-- TRANSLATION HERE
+}
+[sha:be87980fa54da5276b71ac25cd658c9c4e70a77a]{
+-- Page 803, Offset 13024.
+-- 「本日付けで赴任した監督司祭代行、マーリオゥ・ジャッロ・ベスティーノだ。
+-- TRANSLATION HERE
+}
+[sha:18655a5fa7f559b7f65daa3ac4e0ac190c558c04]{
+-- Page 803, Offset 13025.
+-- 顔合わせは初めてだよな、代行者ノエル？」
+-- TRANSLATION HERE
+}
+[sha:93dff7d1503327a44519102420422ec398960a50]{
+-- Page 803, Offset 13026.
+-- 「ベ……ベスティーノって、あのラウレンティス枢機卿の……ですか!?」
+-- TRANSLATION HERE
+}
+[sha:f4c30f84b247a76b3c054b96ef455b3383169d06]{
+-- Page 804, Offset 13027.
+-- ノエルが驚くのも無理はない。
+-- TRANSLATION HERE
+}
+[sha:31f091e0264cd81b49c0468dee0b5ac17f103f55]{
+-- Page 804, Offset 13028.
+-- 少年の名は教会の人間にとって無視できない事柄だ。
+-- TRANSLATION HERE
+}
+[sha:65d444335f65ff1baaac58b8abb00a2e47e112cb]{
+-- Page 804, Offset 13029.
+-- 聖堂教会の頂点である法王と、
+-- TRANSLATION HERE
+}
+[sha:cf570b2b5da72eed3a990720850659578e49f0d1]{
+-- Page 804, Offset 13030.
+-- その法王を支える128人の枢機卿。
+-- TRANSLATION HERE
+}
+[sha:3564f7b08ec911567734f56dc35c392a78c7b9a0]{
+-- Page 804, Offset 13031.
+-- 最高権力者たちの集まりである枢機卿の中でも最大の発言力を持ち、次代の法王は確実と言われているのがラウレンティス枢機卿であり、その孫がこの少年、マーリオゥなのである。
+-- TRANSLATION HERE
+}
+[sha:b3d5c55ad470ccc7e1736dc4fb1444325759a35b]{
+-- Page 805, Offset 13032.
+-- とはいえ、マーリオゥは実子ではない。枢機卿に妻帯は許されていないからだ。
+-- TRANSLATION HERE
+}
+[sha:fc0942d8f95e412226158cf3de09112528978102]{
+-- Page 805, Offset 13033.
+-- 原則として彼等は養子をとり、育て、自らの後継者とする。
+-- TRANSLATION HERE
+}
+[sha:3c0a9f2a9bdfd8519494b0b4cb2ad7611813cde8]{
+-- Page 805, Offset 13034.
+-- 血族主義ではなく実力主義。
+-- TRANSLATION HERE
+}
+[sha:81045cf5302fe2ac0f26da8fd12fcd50b8580de6]{
+-- Page 805, Offset 13035.
+-- より深い信仰、深い知識、深い道徳を持つものが神の家を支える柱として選ばれる。
+-- TRANSLATION HERE
+}
+[sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
+-- Page 806, Offset 13036.
+-- ―――が。
+―――Pero.
+}
+[sha:288eb83e3ca652440272e577e0056ca5975dc115]{
+-- Page 806, Offset 13037.
+-- ラウレンティス枢機卿には公然の秘密があった。
+-- TRANSLATION HERE
+}
+[sha:8356bb4e7555d24f131dab88fb10f9edff0beada]{
+-- Page 806, Offset 13038.
+-- 彼は多くの子を養子にし財産を分け与えたが、その息子たちの顔立ちはみな、ラウレンティス枢機卿に似通っていた。
+-- TRANSLATION HERE
+}
+[sha:a017c5e51470f4242d680cff4e2b74cf86f52ec8]{
+-- Page 807, Offset 13039.
+-- 女好きの枢機卿。金と権力で枢機卿の座についた俗物。
+-- TRANSLATION HERE
+}
+[sha:0773feae9e0a04c134706561ae92c3f0cba543ee]{
+-- Page 807, Offset 13040.
+-- それが多くの信徒たちが抱くラウレンティス枢機卿のイメージだ。
+-- TRANSLATION HERE
+}
+[sha:29071b6332eb2fa182c254b222e62d685b0cf6b2]{
+-- Page 808, Offset 13041.
+-- もっとも、ラウレンティス枢機卿を知る司祭たちは彼の真実を知っている。信仰心、思慮深さ、人間力。そのすべてが教会を支えるに相応しい人物だと。
+-- TRANSLATION HERE
+}
+[sha:6901cc7821320733d8ee47d508233ece504c4eec]{
+-- Page 808, Offset 13042.
+-- 女性好きな事だけが、彼の唯一の<瑕|きず>なのである。
+-- TRANSLATION HERE
+}
+[sha:7681a7dac155c16dd2a8f721c5bfd49f646998bf]{
+-- Page 809, Offset 13043.
+-- その孫……あくまで表向きはだが……であるマーリオゥは、特にラウレンティス枢機卿から覚えがよく、遅咲きの後継者だと言われている。
+-- TRANSLATION HERE
+}
+[sha:beecb60f3a4432254c78b4b903bcfe187b543397]{
+-- Page 810, Offset 13044.
+-- ベスティーノという姓はラウレンティス枢機卿がまだ片田舎に住んでいた頃の旧姓である。20人を超える養子……いや、兄たちを差し置いて、この姓を与えられた少年がどれほど期待されているかなど、信徒であれば説明されるまでもない。
+-- TRANSLATION HERE
+}
+[sha:7271f7746b3b84d8313830740a34462767a53317]{
+-- Page 811, Offset 13045.
+-- 表舞台から姿を隠し、隠居生活に入った権力者の秘蔵っ子。
+-- TRANSLATION HERE
+}
+[sha:b6676c9fd4eee95bf377222651494006d05e8dbd]{
+-- Page 811, Offset 13046.
+-- それが目の前にいる少年だと知れば、ノエルのごとき一代行者が震え上がるのは当然と言えた。
+-- TRANSLATION HERE
+}
+[sha:624f264c69f4764185ebe25b54bb1cf3aca441d3]{
+-- Page 811, Offset 13047.
+-- ……だからこそ彼女は思う。
+-- TRANSLATION HERE
+}
+[sha:22e2af0c45a6c9707cb5f1b1661821b73b98e48f]{
+-- Page 811, Offset 13048.
+-- 本国にいれば将来が約束されたエリート中のエリート。
+-- TRANSLATION HERE
+}
+[sha:9d5e9ffe1d78b3dcd58089c561a42c82617705b5]{
+-- Page 811, Offset 13049.
+-- その<少年|マーリオゥ>が、なぜこんな島国に単身現れたのか……？
+-- TRANSLATION HERE
+}
+[sha:b11fbab01fe64befba61f74935c259b95d047bd1]{
+-- Page 812, Offset 13050.
+-- 「で、でも……本当、に？」
+-- TRANSLATION HERE
+}
+[sha:c1d027f9c58f36a2d664674436646a6356ced878]{
+-- Page 812, Offset 13051.
+-- 「アン？　なんだ、免許証でも見せてほしいのか？　テメェ、オレがガキだからって舐めてんのか？」
+-- TRANSLATION HERE
+}
+[sha:72228f11e59023f886400f27ae70148af77715be]{
+-- Page 813, Offset 13052.
+-- 「い、いえ、そんなコトは決して……！
+-- TRANSLATION HERE
+}
+[sha:631c38f54c8d3a1c581e916c23c6d775739f496e]{
+-- Page 813, Offset 13053.
+-- で、でも……あの、枢機卿のお孫さんにしては、その……若すぎる……ような？」
+-- TRANSLATION HERE
+}
+[sha:43363c4ec437aca7817ae62d2899e9443c768d5f]{
+-- Page 814, Offset 13054.
+-- 「そりゃあ若ぇだろ。ジジイが百歳超えてから愛人に産ませたガキだからな。今年で12だ、おそれいったか。しかもまだ弟がいるって話だ。
+-- TRANSLATION HERE
+}
+[sha:038be432000cbdd7428b2090b7bb608915e5d1cf]{
+-- Page 814, Offset 13055.
+-- ……ったく、うちのジイ様は吸血鬼以上の絶倫だぜ」
+-- TRANSLATION HERE
+}
+[sha:dccc06c819437738963181f6bd25acc8e346a794]{
+-- Page 815, Offset 13056.
+-- 「マ、マーリオゥ司祭代行……！
+-- TRANSLATION HERE
+}
+[sha:1b4bd900ba8830f8ed60c18074bcc49e1aecc992]{
+-- Page 815, Offset 13057.
+-- い、今の発言は、その……！」
+-- TRANSLATION HERE
+}
+[sha:2fd2d5f6505754f3f0e9d10eb1d93a852e72d45a]{
+-- Page 816, Offset 13058. Mods: @k, @e.
+-- 「ただのグチだ、聞き流せ。
+-- TRANSLATION HERE
+}
+[sha:46f64fc807d10dbe03ade308d0aa44c10293ff20]{
+-- Page 816, Offset 13059. Glued. Mods: @x.
+-- テメェもそこまで信心深いってハラじゃねえだろ。無理して“らしい反応”してんじゃねえよ。
+-- TRANSLATION HERE
+}
+[sha:393a942bc47aad7d5b8a048b28db5425f6e9083d]{
+-- Page 816, Offset 13060.
+-- んなコトより本題だ本題。コトの始まりには間に合わなかったが、最後のシメだけは見せてもらったぜ」
+-- TRANSLATION HERE
+}
+[sha:aafbfc7662ec3b271e1c0e01c27ff863485f8390]{
+-- Page 817, Offset 13061.
+-- 「あ―――は、はい。
+-- TRANSLATION HERE
+}
+[sha:3f7231044eb691d7c6c2f208e59c03d138ab008b]{
+-- Page 817, Offset 13062.
+-- 事の始まりと言うと、どのあたりから……でしょうか？」
+-- TRANSLATION HERE
+}
+[sha:90dca1eeb69a2b3e5ea14bb2383ff3a59b9fe17e]{
+-- Page 818, Offset 13063.
+-- 「テメェが逃げ出したところからだ。いい判断だったな代行者ノエル？　おかげで命があるワケだ。三流は三流らしく、テメェの命を最優先ってなァ？
+-- TRANSLATION HERE
+}
+[sha:f58f44656ea28b85efab34432cd17d18ca153143]{
+-- Page 818, Offset 13064.
+-- 逃げ足だけは見所あるよ、オマエ。10年近く使い捨ての狗ころやってるヤツは筋金入ってやがる。オレが法王庁に帰り次第、テメェは首だ。修道院送りじゃねえぞ。ギロチン送りの方な」
+-- TRANSLATION HERE
+}
+[sha:9d63530f81ce490fd69d486daec2efd03f2ac721]{
+-- Page 819, Offset 13065.
+-- 「へ―――？」
+-- TRANSLATION HERE
+}
+[sha:493e04c81a8e6f801e7cbbe92a0b86c0ddbea98f]{
+-- Page 819, Offset 13066.
+-- 突然の死の宣告に理解が追いつかない。
+-- TRANSLATION HERE
+}
+[sha:ef4b268f6af5d10168e9c8470d268ca34e59427c]{
+-- Page 819, Offset 13067.
+-- 女は数秒、自分の心臓が停止したかのような恐怖に打ちのめされ、
+-- TRANSLATION HERE
+}
+[sha:237d40bd1a385a30da2d069e330e9f0dedc254e1]{
+-- Page 820, Offset 13068.
+-- 「まま、待ってください……！
+-- TRANSLATION HERE
+}
+[sha:0035d29a7e277d32693dcb03a336c1b0556f7dab]{
+-- Page 820, Offset 13069.
+-- あ、あの、あれには深い訳、が、ありまして―――！」
+-- TRANSLATION HERE
+}
+[sha:c6b30b9307b9f21978bb0204034a8b85e4a11769]{
+-- Page 821, Offset 13070.
+-- 必死に、両膝を地面につけて弁解した。
+-- TRANSLATION HERE
+}
+[sha:3ffde6fbfed691ac3423032e8a262289d648bb95]{
+-- Page 821, Offset 13071.
+-- 共闘者であるシエルを置き去りにしての逃亡。
+-- TRANSLATION HERE
+}
+[sha:4b27a655993f96cfa8dcb38015e594ac01c89535]{
+-- Page 821, Offset 13072.
+-- あれは自己保身から行った行為ではない。
+-- TRANSLATION HERE
+}
+[sha:3034e95f782984ff141f579572aaf4a4e2891f61]{
+-- Page 821, Offset 13073.
+-- あくまで応援を呼ぶため、本命である吸血鬼を殺すため、やむなく撤退したにすぎないと。
+-- TRANSLATION HERE
+}
+[sha:d95351f0a6020ad41cde278c08079d7b41ec619c]{
+-- Page 822, Offset 13074.
+-- 「―――ほう。本命ときたか。
+-- TRANSLATION HERE
+}
+[sha:5bbbaad4d13e2324c68c3c60a98e6aca44b11df8]{
+-- Page 822, Offset 13075.
+-- じゃあ何か。テメェとあの女のコンビの標的は別なワケか」
+-- TRANSLATION HERE
+}
+[sha:97c48553e7fa7fc414293babfa0d1dc365fde7b7]{
+-- Page 823, Offset 13076.
+-- 「そ、そうなんです、そうなんです！
+-- TRANSLATION HERE
+}
+[sha:4e2d3b8f5ec636225f757ce8750769d1cd75542a]{
+-- Page 823, Offset 13077.
+-- 嘘じゃありません、法王庁に問いただしていただいても結構です！　司祭代理ならそれぐらいできますよね!?」
+-- TRANSLATION HERE
+}
+[sha:5945e5a837b37e834521feaefff17646f52fd23d]{
+-- Page 824, Offset 13078.
+-- 「そうでもねえんだよ、マヌケ。テメェの相方は埋葬機関だろう。あそこは治外法権だ。ジジイの威光もヤツラにだけは届かねえ。テメェらがこの街にいる事もいま知ったばかりだよ」
+-- TRANSLATION HERE
+}
+[sha:a83de76122ee07d417077991b6e65f2f1b0acd69]{
+-- Page 825, Offset 13079.
+-- 「っていうか、司祭代行なんざただの肩書きだろうが。
+-- TRANSLATION HERE
+}
+[sha:a0853225208ddc7093d181b1b0accd305418019e]{
+-- Page 825, Offset 13080.
+-- 現場において代行者はその事変が収束するまで独自の権限を認められる―――<教|う><会|ち>の絶対のルールだろ。親の七光りに目が眩んでるんじゃねえよ」
+-- TRANSLATION HERE
+}
+[sha:44e9a68660a63d5aaea91641d90465ab894dc839]{
+-- Page 826, Offset 13081.
+-- 「え……じゃ、じゃあ、今のは……嘘、ですか？」
+-- TRANSLATION HERE
+}
+[sha:65aa3b979e3518633c75a5bab3d2cbdbddc23465]{
+-- Page 826, Offset 13082.
+-- 「嘘じゃあねぇさ。偽らざるオレの本心だ。こんなガキの身分じゃそんな権限は無いってだけでな」
+-- TRANSLATION HERE
+}
+[sha:ac89d01e839d20c02a0c9f7c1cb7e852ca84349e]{
+-- Page 827, Offset 13083.
+-- 「だがまあ、いい話は聞けたよなぁ？　本命ってヤツの話を聞かせてもらおうじゃねえか。テメェとあの女、いったいいつから潜入調査なんざしてやがった？」
+-- TRANSLATION HERE
+}
+[sha:c290224e01e2f45a5bfd065137f9d117561505af]{
+-- Page 828, Offset 13084.
+-- 自らの失言に気がつくノエルだが、こうなっては隠し通せない。
+-- TRANSLATION HERE
+}
+[sha:2f1191075f663495cd357b18b848347e1a341f11]{
+-- Page 828, Offset 13085.
+-- 彼女は同僚である代行者と行ったここ一ヶ月の調査内容を、本国からやってきた司祭代行に報告した。
+-- TRANSLATION HERE
+}
+[sha:0f2424b8d10badc00405b993448c0987c6432684]{
+-- Page 829, Offset 13086.
+-- ノエルの報告は10分ほどで終わった。
+-- TRANSLATION HERE
+}
+[sha:d22a7f25258fdc639f8f287ad4bbf00e366cbb94]{
+-- Page 829, Offset 13087.
+-- 簡潔に、この調査の責任は自分にはなく、あくまで同僚にある、と主張しながら。
+-- TRANSLATION HERE
+}
+[sha:25dca46b9ef816ac73b0885308ca029cb816789b]{
+-- Page 830, Offset 13088.
+-- 「裏付けのない未確認情報を頼りにスコア稼ぎねぇ。
+-- TRANSLATION HERE
+}
+[sha:7dec19c8de847bab5581bc316db7e28dc833958d]{
+-- Page 830, Offset 13089.
+-- つまりはアレだ。テメェらも独断で動いてたワケか。結構結構、それなら潰し合う必要はねぇ。協力し合えそうじゃねえか、代行者ノエル？」
+-- TRANSLATION HERE
+}
+[sha:dc1a9a84ab6b86e204e08cdecc2adaa94c517fee]{
+-- Page 831, Offset 13090.
+-- 「司祭代行……？　それはどういう意味でしょうか？」
+-- TRANSLATION HERE
+}
+[sha:8d85480676d66efa6a9e7dcbd69c2f46f5fc841c]{
+-- Page 832, Offset 13091.
+-- 「マヌケ、今ので同じ穴のムジナだって分かれよ。
+-- TRANSLATION HERE
+}
+[sha:aeef30a9d8752aac2b8e6a0a2b02338b6f9082c2]{
+-- Page 832, Offset 13092.
+-- オレはお忍び。テメェらは私的な暴走。<ヤ|・><ツ|・>を追っている事を上に知られるのは都合が悪いってコトだろう？」
+-- TRANSLATION HERE
+}
+[sha:ea23d00eca0850d2811b92703da036a368f96b61]{
+-- Page 833, Offset 13093.
+-- 「お忍び……それじゃあ、その………ここまでのお咎めもなし、というコトでしょうか……？」
+-- TRANSLATION HERE
+}
+[sha:0981f8730df5e6f8e8976fda7bb36d05047a585a]{
+-- Page 834, Offset 13094.
+-- 「咎めようがねえなァ。オレは代行者なんざ見ていないし、そっちもオレの命令は受けていないワケだし？　<仕|コ><事|ト>が終わるまではそういうコトにしておけよ。
+-- TRANSLATION HERE
+}
+[sha:31d72915f567a04e4822af7ae18395242107e35a]{
+-- Page 834, Offset 13095.
+-- 正直、こっちも自由に動かせるのはこの国の権力者だけでな。教会の実働部隊は動かせない。動かす時は最後の一手、決着をつけるタイミングだけだ。なんで、それまで使い勝手のいいコマが欲しかったんだよ」
+-- TRANSLATION HERE
+}
+[sha:e65cd19890d864ffa12c137657ccf79188c4fc85]{
+-- Page 835, Offset 13096.
+-- 「つまり……今だけわたしたちは対等、というコトですか？」
+-- TRANSLATION HERE
+}
+[sha:5d55669eef17a686994764d35efcfdb33e5e3285]{
+-- Page 835, Offset 13097.
+-- 「ああ、互いに助け合っていこうぜ。
+-- TRANSLATION HERE
+}
+[sha:a41da7a767d69b428eb377a0f69fbf59f94cb5d5]{
+-- Page 835, Offset 13098.
+-- とは言ってもコトが終われば立場も元通りだ。<後々|あとあと>いい生活がしたいってんなら尻でも振りまくるんだな。
+-- TRANSLATION HERE
+}
+[sha:4ed7d701065dcf9ea863acc99554bdba620c1b20]{
+-- Page 835, Offset 13099.
+-- オレに媚びを売れば売るほどジジイへの覚えもよくなる。テメェ程度の三下には一生に一度あるかないかのチャンスだぜ？」
+-- TRANSLATION HERE
+}
+[sha:fbab718cef519d9d69b2c40311ba1d89d76ed214]{
+-- Page 836, Offset 13100.
+-- 現場での特権を許される代行者だが、その身分階級は教会内において下層にあたる。
+-- TRANSLATION HERE
+}
+[sha:4b9d88f02dbd1d41fae5199006ae2b00404590d1]{
+-- Page 836, Offset 13101.
+-- 兵士としていくつかの権利と自由が与えられる代わりに、階級をあげる機会が剥奪されているのだ。
+-- TRANSLATION HERE
+}
+[sha:e6cd96839a5a3ad30c87f8e40b481cb8f3e573ae]{
+-- Page 836, Offset 13102.
+-- 代行者は戦いに赴き、戦場で消える消耗品。
+-- TRANSLATION HERE
+}
+[sha:82eb48b13bf67c1daf7a671abad10682cbc46070]{
+-- Page 836, Offset 13103.
+-- そんなノエルにとって、少年の言葉は破格の幸運だった。
+-- TRANSLATION HERE
+}
+[sha:c7482848040ca9ce624d148af1cd3e0a551ddf4f]{
+-- Page 837, Offset 13104.
+-- ……しかし、ノエルは素直に喜べなかった。
+-- TRANSLATION HERE
+}
+[sha:70194d7ecdd4b03ae6c5909f30a7f5c8f8176687]{
+-- Page 837, Offset 13105.
+-- あり得ないほどの出世の足がかりではあるが、こんなものは口約束にすぎない。
+-- TRANSLATION HERE
+}
+[sha:4e323567bcb4b48564d01f2eb49472f55cf043a0]{
+-- Page 838, Offset 13106.
+-- 第一、少年は完全にノエルを見下している。
+-- TRANSLATION HERE
+}
+[sha:b8a78fc578555195fd3c0d7297878efc8dc74815]{
+-- Page 838, Offset 13107.
+-- 自分の半分も歳を取っていない子供が権力を振りかざす事への反感。……加えてノエル本人も気付いていない事ではあるが、彼女は根本的に教会の人間を嫌っている。
+-- TRANSLATION HERE
+}
+[sha:4cc3d09e3e0bf34d523e474b75d216b1ad17ed04]{
+-- Page 838, Offset 13108.
+-- ノエルがマーリオゥに好意を抱くのは、よほどの事がないかぎり難しい事だった。
+-- TRANSLATION HERE
+}
+[sha:b58582dd1f6a498dc9cd3049725fa51c1602c7fb]{
+-- Page 839, Offset 13109.
+-- 「なんだ、嬉しくねえのかよ。ここは喜んでオレの靴を舐めるところじゃねえか。雌犬のクセに反応悪いなテメェ。犬っていうより豚だったか？」
+-- TRANSLATION HERE
+}
+[sha:8da8f3e9005b9f91fd81e15e3caa3f439d029831]{
+-- Page 840, Offset 13110.
+-- 「い、いえ、そんなコトないですよ？　ふって湧きすぎた幸運に慣れていないだけというか、あはは……」
+-- TRANSLATION HERE
+}
+[sha:44a24204eca210e8685ffbcc36206dbc078cad5b]{
+-- Page 841, Offset 13111.
+-- 「それより、あの、出世の話ならあの子はどうなんです？
+-- TRANSLATION HERE
+}
+[sha:556fab523c37df7a61236259298d78c7a828eb0e]{
+-- Page 841, Offset 13112.
+-- ……今でも信じられないけど、ホントに祖を倒しちゃいましたよね？　これであの子の待遇とか上がっちゃうんですか？　なにしろ初の二十七祖殺しなんですし」
+-- TRANSLATION HERE
+}
+[sha:85bb9e1a2e68d5536f3fc9a41b30670b4fe91d0d]{
+-- Page 842, Offset 13113.
+-- 「はあ？　バカいってんじゃねえぞ<七面鳥|ターキー>。
+-- TRANSLATION HERE
+}
+[sha:34d66ef851fa4563292be2a93a74e1050d5eea4f]{
+-- Page 842, Offset 13114.
+-- たとえ国を揺るがすような怪物だろうとな、<吸|・><血|・><鬼|・><殺|・><し|・>で役職が上がるかよ」
+-- TRANSLATION HERE
+}
+[sha:6fc3c2ac3effee8a1f770013eb9388335502cb77]{
+-- Page 843, Offset 13115.
+-- 恐る恐る口にしたノエルを心底から<蔑|さげす>むマーリオゥ。
+-- TRANSLATION HERE
+}
+[sha:7ce0318d590037305617e6c26d4729b69ffd474c]{
+-- Page 843, Offset 13116.
+-- ノエルはますます反感を覚えたが、同時に安堵もあった。
+-- TRANSLATION HERE
+}
+[sha:9b4719308a41d01725c9af270d56cd159d7183aa]{
+-- Page 843, Offset 13117.
+-- 死徒の王。代行者にとって最大級とも言える異端狩りをしても、あの少女の待遇は変わらないのだ、と。
+-- TRANSLATION HERE
+}
+[sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
+-- Page 843, Offset 13118.
+-- ―――だが。
+-- TRANSLATION HERE
+}
+[sha:8a97966d6a9b519a9ca9982288b7774cc14a68ca]{
+-- Page 844, Offset 13119.
+-- 「だいたい、初めての話でもねえしな」
+-- TRANSLATION HERE
+}
+[sha:e6e955327da69388f21bcdeba70c42ff320dcfaa]{
+-- Page 844, Offset 13120.
+-- 「―――はい？」
+"―――¿Perdona?"
+}
+[sha:bc7a1e3c3e00f045f8535564d75e413613bbf539]{
+-- Page 844, Offset 13121.
+-- 今度こそ本当にノエルは驚きの声をあげた。
+-- TRANSLATION HERE
+}
+[sha:456bd35ac7a7e504e8dfb917238a57ac79dfb0d0]{
+-- Page 845, Offset 13122.
+-- 極東に現れた司祭代行は戦場になったクレーターを見下ろしながら、
+-- TRANSLATION HERE
+}
+[sha:3951ca4301ea1e7b58634802719be2e9425424e7]{
+-- Page 845, Offset 13123.
+-- 「だから初めてじゃねえんだよ、あの女の二十七祖殺しは。
+-- TRANSLATION HERE
+}
+[sha:6264421ead4c496678fd7514f68006d51d7f9acc]{
+-- Page 845, Offset 13124.
+-- 『森』と『城』を含めてこれで三体目だ」
+-- TRANSLATION HERE
+}
+[sha:64e90a83b22ca6a2327529e3981ed287c063f122]{
+-- Page 845, Offset 13125.
+-- 冷めきった目で、既に姿を消した代行者の戦歴を口にした。
+-- TRANSLATION HERE
+}
+[sha:e64da0c9a1bf74a654cf1e146f71873946fc4fbf]{
+-- Page 846, Offset 13126.
+-- 「ただいまーっス。あれ？　下からチラッと見えた可愛いお嬢さんは？　もうお帰り？」
+-- TRANSLATION HERE
+}
+[sha:78caf79c1c9cdc4ed7a2a8d44a6969db7b523a49]{
+-- Page 847, Offset 13127.
+-- 「カリウスに送らせた。今後の打ち合わせもあるからな。
+-- TRANSLATION HERE
+}
+[sha:40ad5f565906e035fee67b1a8d316c5633db03a1]{
+-- Page 847, Offset 13128.
+-- 埋葬機関の方は話にならねえが、あの女は分かりやすい。ニンジンぶらさげりゃあ死ぬまで走るタマだ。
+-- TRANSLATION HERE
+}
+[sha:62db4961b0dec13fac3951e6e471ed232b5ee5f6]{
+-- Page 847, Offset 13129.
+-- んで、そっちはどうだ？」
+-- TRANSLATION HERE
+}
+[sha:db396ac648a79dfe9ffb456f4d2d89cf9bebcab0]{
+-- Page 848, Offset 13130. Mods: @n.
+-- 「いやあ、何も残っていませんわ
+-- TRANSLATION HERE
+}
+[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+-- Page 848, Offset 13131. Glued.
+-- 。
+.
+}
+[sha:1408b4ddb6362e9335efa4cf74fd2683a821da3e]{
+-- Page 848, Offset 13132.
+-- 死徒にとっての聖典、吸血鬼の<魂跡|こんせき>ってヤツ？　死体も残ってないですし、あの代行者が回収しちまったみたいですね」
+-- TRANSLATION HERE
+}
+[sha:f163a2138cf3e5af85f24e8170464d9c4bb99ccd]{
+-- Page 848, Offset 13133.
+-- 「チッ、またかよあのアマ。戦利品はきっちり上納するもんだろうが。組織の上下関係舐めてんのか」
+-- TRANSLATION HERE
+}
+[sha:99882a66c8445515ef4650c199d99a4655d1846c]{
+-- Page 849, Offset 13134.
+-- 「いやあ、そんなワケのわからない<戦利品|モノ>押しつけられても困りますけどねぇ。
+-- TRANSLATION HERE
+}
+[sha:06fe8741a9216d109759e76fe1a5e3bcb00c5dda]{
+-- Page 849, Offset 13135.
+-- 餅は餅屋、化け物は化け物殺しにでいいじゃないッスか」
+-- TRANSLATION HERE
+}
+[sha:32e87a2d7159bc2763a2dcc7adf366fa0c763e01]{
+-- Page 850, Offset 13136.
+-- 「だから、<化|・><け|・><物|・><殺|・><し|・><が|・><化|・><け|・><物|・><に|・><な|・><っ|・><た|・><ら|・><困|・><る|・><ん|・><だ|・><よ|・>。
+-- TRANSLATION HERE
+}
+[sha:21cf49b8be771968b49ab20b0d0c87d0e5e85ff9]{
+-- Page 850, Offset 13137. Mods: @n.
+-- ……いい、テメェはしばらくここの監督だ。明日にはこの土地の持ち主様が来るから顔合わせとけ。
+-- TRANSLATION HERE
+}
+[sha:bdb58cb023895358ac91ae7450875729bd716400]{
+-- Page 850, Offset 13138. Glued. Mods: @x.
+-- オレは街の把握がてら真祖の様子を見てくる。定時連絡、忘れないようにな」
+-- TRANSLATION HERE
+}
+[sha:87ae337ece698639aa0091468623a90476b13347]{
+-- Page 851, Offset 13139.
+-- 「うえ!?　坊ちゃんが直々に、そんな地味な肉体労働を!?　オレの仕事ですよそれ!?」
+-- TRANSLATION HERE
+}
+[sha:51d6bd3125d893705d32b24494ede5c6f875fe1b]{
+-- Page 852, Offset 13140.
+-- 「……死ぬほどクソだなアンドー。真祖の尾行なんざテメェに任せられるか。一日であの世行きだ」
+-- TRANSLATION HERE
+}
+[sha:11ab98989929aad52744c75e86c9c51f98de26ab]{
+-- Page 852, Offset 13141.
+-- 「坊ちゃん……そんなに俺を大切に……」
+-- TRANSLATION HERE
+}
+[sha:39d52ef46b2cc852c1356353e10e3c64c7181821]{
+-- Page 852, Offset 13142.
+-- 「まだコマの替えがねえからな。死なれたらオレが疲れる。人員が増えたらテメェに任せるから安心しろ」
+-- TRANSLATION HERE
+}
+[sha:450fcea5e0919c2d81115bf77fc34f50e92456db]{
+-- Page 853, Offset 13143.
+-- 「―――うん、まあそういう理由ッスよね。
+-- TRANSLATION HERE
+}
+[sha:d75c5b9920f7b7ec9c58721dc794754a75a9707c]{
+-- Page 853, Offset 13144.
+-- でも坊ちゃんなら上手くいくんですか？　基本的に貧弱な、ただのクソガキですよね坊ちゃん？」
+-- TRANSLATION HERE
+}
+[sha:98eea8701369f9b1aa74aac35c93f922bd8b0cd7]{
+-- Page 853, Offset 13145.
+-- 「魔術だの秘蹟だのに頼らない時点でテメェらよりマシだろうよ。よしんば見つかっても<真|ア><祖|レ>とは顔見知りだ。殺される事はねぇ」
+-- TRANSLATION HERE
+}
+[sha:b005c2a7ce842036f85c1f17f1c5b8cc4c024734]{
+-- Page 854, Offset 13146.
+-- 「え、ちょっ……枢機卿のボンボンが吸血鬼と顔見知りって、それスキャンダルどころの話じゃないですよねぇ!?」
+-- TRANSLATION HERE
+}
+[sha:67ebf0f473a23e243fcc5f54633b375bdd55d580]{
+-- Page 855, Offset 13147.
+-- 驚きの声を無視して少年は歩き出した。
+-- TRANSLATION HERE
+}
+[sha:195fd115afde80ed7a8897e52447eae148549f72]{
+-- Page 855, Offset 13148.
+-- まずはこの街の視察と、戦いの前準備。
+-- TRANSLATION HERE
+}
+[sha:f6e82b1c8331e314cdcd6f4e4bc9db8252c57c33]{
+-- Page 855, Offset 13149.
+-- その後は―――もう何年も前に遭遇し、記憶から薄れつつあった、美しい吸血姫の姿を確認する為に。
+-- TRANSLATION HERE
+}

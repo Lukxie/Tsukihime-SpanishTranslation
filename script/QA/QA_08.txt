@@ -1,0 +1,215 @@
+[sha:1815a0897754742ce0a60f1b6b994f51b62eda40]{
+-- Page 156, Offset 43048. Mods: @n.
+-- なぜトリは歌うのか。
+-- TRANSLATION HERE
+}
+[sha:ce692168ebbf0f9f4cb811cbcd8f9f961330a95e]{
+-- Page 156, Offset 43049.
+-- なぜエビは跳ねるのか。
+-- TRANSLATION HERE
+}
+[sha:d56d6106cbe2ef6e8ce563e49bee8f8c6fb7cc4a]{
+-- Page 157, Offset 43050.
+-- なぜ主人公は鍵のかかった部屋に入るのか……。
+-- TRANSLATION HERE
+}
+[sha:908b2f0055a6119b66ecbb6abacecf22f0adb58a]{
+-- Page 158, Offset 43051. Mods: @n.
+-- 人類史における数々のミステリーに
+-- TRANSLATION HERE
+}
+[sha:980e14c245f584fcd0aa28da6d05aa20b121ad63]{
+-- Page 158, Offset 43052.
+-- 真っ向から挑む知能番組『教えて！　シエル先生』、
+-- TRANSLATION HERE
+}
+[sha:ad0592bf499ed0f62f145ee17527960e407f6209]{
+-- Page 159, Offset 43053.
+-- はっじまっるよー。
+-- TRANSLATION HERE
+}
+[sha:7b3bb85ccdf99b202b765426256cd45091234dc9]{
+-- Page 160, Offset 43054. Mods: @n.
+-- こんにちは。デッドエンドのなかった６～８日間、
+-- TRANSLATION HERE
+}
+[sha:103ec3e13c5f415d3c90e7ce21e229f85de9aab1]{
+-- Page 160, Offset 43055.
+-- 十分にお休みできましたか？
+-- TRANSLATION HERE
+}
+[sha:d6730caa17aa19dfa3f24d7906c62628c85060be]{
+-- Page 161, Offset 43056. Mods: @n.
+-- 物語はいよいよ佳境。
+-- TRANSLATION HERE
+}
+[sha:ce98b7301ce5112ae6b2c702a84544a4363a904f]{
+-- Page 161, Offset 43057.
+-- ここからまた死亡ケースが多発しますので、
+-- TRANSLATION HERE
+}
+[sha:0f535da664222ae1aef264145b0c0b8969c028ed]{
+-- Page 162, Offset 43058. Mods: @n.
+-- 賢明な遠野くんにおかれましては、
+-- TRANSLATION HERE
+}
+[sha:d3063704ff3f92bb307657974cdface36789295c]{
+-- Page 162, Offset 43059.
+-- 気を引き締めて選択肢を選んでいただければ。
+-- TRANSLATION HERE
+}
+[sha:fc4a783f0b8ba107da8ca39fc4a6875f5a52005b]{
+-- Page 163, Offset 43060. Mods: @n.
+-- では今回のデッドエンドですが……
+-- TRANSLATION HERE
+}
+[sha:4d3c76f997fbc7853c760f3f6803c666c05292e8]{
+-- Page 163, Offset 43061.
+-- 後ろからグッサリ、ですね……
+-- TRANSLATION HERE
+}
+[sha:3de88b410902064f361f63ff67915ea181121a11]{
+-- Page 164, Offset 43062. Mods: @n.
+-- メガネともあろう男が油断しすぎだよニャー。
+-- TRANSLATION HERE
+}
+[sha:c154c7fcdb92e39f7d1fb57d0bcc394f74dd7aeb]{
+-- Page 164, Offset 43063.
+-- それともあの包帯男、見かけよりやるってコト？
+-- TRANSLATION HERE
+}
+[sha:a2aeab14ecc83dc6d424a198c86fc976060a0f1a]{
+-- Page 165, Offset 43064. Mods: @n.
+-- あの部屋の異様さに呑まれていた……のもありますが、
+-- TRANSLATION HERE
+}
+[sha:1fe8941e307c9f65a9519f511ab5bf289672a3d8]{
+-- Page 165, Offset 43065.
+-- 遠野くんの不注意ですね。
+-- TRANSLATION HERE
+}
+[sha:8912d5c7647afabb75fbe8e1eba2eed28e808ef1]{
+-- Page 166, Offset 43066. Mods: @n.
+-- そもそも、
+-- TRANSLATION HERE
+}
+[sha:81325c4fd6dfc5f67809c620c013cfe6286e9365]{
+-- Page 166, Offset 43067.
+-- この手の潜入捜査は二人一組が理想です。
+-- TRANSLATION HERE
+}
+[sha:d2362d66049588222368879903159166aafef94f]{
+-- Page 167, Offset 43068. Mods: @n.
+-- ひとりが扉のそばで誰かこないかを見張り、
+-- TRANSLATION HERE
+}
+[sha:631cfebd6d0bf7540e014807dfc0b8d918a7a663]{
+-- Page 167, Offset 43069.
+-- もうひとりが書類を吟味する……
+-- TRANSLATION HERE
+}
+[sha:1d0c9df12c498305f184ab936e74e92ccd6a5c31]{
+-- Page 168, Offset 43070. Mods: @n.
+-- そういった頼れる『誰か』と縁ができるまで、
+-- TRANSLATION HERE
+}
+[sha:3bdfc05f2567e5fcaf70b1e653e74422a29e69bb]{
+-- Page 168, Offset 43071.
+-- この書斎の調査は控えた方がよろしいかと。
+-- TRANSLATION HERE
+}
+[sha:bf9416a8c1d6958167f9a6d3f14295b9bf9c79f5]{
+-- Page 169, Offset 43072.
+-- まさに<ＳＰＹ|エスピーワイ>！
+-- TRANSLATION HERE
+}
+[sha:b23a766c753a9e22714e3538182714c95b07c488]{
+-- Page 169, Offset 43073.
+-- んー、でもそんなスキルもった知り合い、いる？
+-- TRANSLATION HERE
+}
+[sha:3b4e4d5f826502e84bff531073e3c72d6a81e0bb]{
+-- Page 170, Offset 43074. Mods: @n.
+-- シエルは武闘派だから、
+-- TRANSLATION HERE
+}
+[sha:7977284badccf50b01b9ff7ca36b4e1e7acb2dff]{
+-- Page 170, Offset 43075.
+-- そういうの向いてにゃさそうだし。
+-- TRANSLATION HERE
+}
+[sha:2091eabb6bdc02fc31812c411f9f8dc626a3b17b]{
+-- Page 171, Offset 43076. Mods: @n.
+-- 単独であればできないコトはありませんが、
+-- TRANSLATION HERE
+}
+[sha:7f6169eccf09485d1fa72b3a2bd2a440c4d7beb8]{
+-- Page 171, Offset 43077.
+-- 遠野くんのフォローをしながら潜入……
+-- TRANSLATION HERE
+}
+[sha:578fca72909f2f131b733a1ccc7799164a88c9dd]{
+-- Page 172, Offset 43078. Mods: @n.
+-- というのは、確かにわたし向きではありませんね。
+-- TRANSLATION HERE
+}
+[sha:a7f9c3ced42eab878b1e3ffeab3a8b51a8bdc732]{
+-- Page 172, Offset 43079.
+-- いつか、そういった味方ができればいいのですが。
+-- TRANSLATION HERE
+}
+[sha:0792a79486ffba56ae7ac469587e94549c53a059]{
+-- Page 173, Offset 43080. Mods: @n.
+-- フフフ……露骨にフラグをたてやがって……
+-- TRANSLATION HERE
+}
+[sha:30ed4dd17ada1325feb18d8c092a5412220ee946]{
+-- Page 173, Offset 43081.
+-- 誰かな？　メイドかな？　さっちんかな？
+-- TRANSLATION HERE
+}
+[sha:a6c93ac12296f12ab20da9c8f39fd37dc0ab5ff7]{
+-- Page 174, Offset 43082.
+-- さあ、そこまでは何とも。
+-- TRANSLATION HERE
+}
+[sha:f5238c3b531efc850a9d36e4f4732a83dc4ceb84]{
+-- Page 175, Offset 43083. Mods: @n.
+-- 少なくとも、わたしたちの吸血鬼事件には
+-- TRANSLATION HERE
+}
+[sha:6a661e4965282a1590820e66101c920b714fbec9]{
+-- Page 175, Offset 43084.
+-- 関わりのない話でしょう。
+-- TRANSLATION HERE
+}
+[sha:5b33f7659d1cbcc5c12ea7f712d6cd86766d3a04]{
+-- Page 176, Offset 43085. Mods: @n.
+-- さて。今回の死因ははっきりしていますので、
+-- TRANSLATION HERE
+}
+[sha:0ee3860bd6819a13d5188cebfd714150b3bf5138]{
+-- Page 176, Offset 43086.
+-- 前の選択肢に戻るだけでＯＫです。
+-- TRANSLATION HERE
+}
+[sha:14f5ac69937b583e6d3896e6f9764b8b72de7fc4]{
+-- Page 177, Offset 43087. Mods: @n.
+-- 君子危うきに近寄らず。
+-- TRANSLATION HERE
+}
+[sha:5c4d572972ccbaa68bcb46980028841721f0f8a6]{
+-- Page 177, Offset 43088.
+-- 遠野槙久氏の書斎は避けて、安全な場所を選びましょう！
+-- TRANSLATION HERE
+}
+[sha:3d658fde1e4dd05fe0dcc929b6190ba59d9e734f]{
+-- Page 178, Offset 43089. Mods: @n.
+-- 屋敷の中もデストラップだらけとか、
+-- TRANSLATION HERE
+}
+[sha:06673265353ad653caa0c2850b71b15f717ea2ac]{
+-- Page 178, Offset 43090.
+-- この屋敷どうなってんの？
+-- TRANSLATION HERE
+}

@@ -1,0 +1,164 @@
+[sha:de2a102b56c33b13c6118003c7f3c24ff91404e1]{
+-- Page 10001, Offset 4016.
+-- 「やっ。おはよう秋葉」
+// Mas informal (sin que suene mal)
+"Ey. Buenos días, Akiha."
+}
+[sha:967a84afe1d3cd05fae01434c824d715247f3553]{
+-- Page 10001, Offset 4017.
+-- 何はともあれ、まず秋葉に挨拶をする事にした。
+Decido saludar a Akiha primero.
+}
+[sha:dbdc20a35e2aff77d7ed2d7f4587736fae39b148]{
+-- Page 33, Offset 4018.
+-- 「……おはようございます、兄さん。
+"Buenos días, Nii-san.
+}
+[sha:83b7e4e33b01a4c8ec7bf3387b5a299d4ef775ab]{
+-- Page 33, Offset 4019.
+-- 挨拶に覇気がみられませんが、昨夜はきちんと眠れましたか？　今にも倒れそうな顔をしていますが」
+Ese fue un saludo un poco apagado, ¿no has dormido bien? Parece que estás a punto de desmayarte."
+}
+[sha:65d426a68f7b879e7458d5626b8652dbc8ebc6f7]{
+-- Page 34, Offset 4020.
+-- 「あいにく、これが地顔だよ。朝から覇気に満ちた挨拶とか、俺に期待しないでくれ」
+"Desafortunadamente, así es como soy.
+ No esperes que mis saludos rezumen energía tan pronto por la mañana."
+}
+[sha:cef260a6768cbca8b9a3dd1ab228b375ef535ef9]{
+-- Page 34, Offset 4021.
+-- 昨夜の出来事はともかく、挨拶ひとつで人を夜更かしする不良少年と思わないでほしい。
+Ignorando lo que paso anoche de momento,
+ apreciaría si no me etiquetase como trasnochador delincuente por un solo saludo.
+}
+[sha:7be2439111963453ca51efae2035b7b2b20aefad]{
+-- Page 35, Offset 4022.
+-- 「おはようございます志貴さん。
+"Buenos días, Shiki-san.
+}
+[sha:035e6b05974995c558cbb16041909115b305b8b0]{
+-- Page 35, Offset 4023.
+-- 朝食でしたら食堂でお出しいたしますので、いつでもお声がけくださいね」
+El desayuno normalmente se sirve en el comedor,
+ así que por favor hazmelo saber cuando quieras que te prepare algo."
+}
+[sha:2b8ef8a9503058461a15ce88c744d6fdf66f37de]{
+-- Page 35, Offset 4024.
+-- 一方、琥珀さんのこの癒し力。北風と太陽か。
+El consuelo reconfortante de Kohaku-san contrasta completamente.
+}
+[sha:0a082a7b1393b7d546104ce420c36b49fb6be0a2]{
+-- Page 36, Offset 4025.
+-- 「ありがとうございます。
+"Muchas gracias.
+}
+[sha:83856a3f813b04d1abcbd5baddeff405de00b82e]{
+-- Page 36, Offset 4026.
+-- でも、秋葉はもう済ませたのか？　見たところ食後のお茶みたいだけど」
+¿Pero ya has comido, Akiha?
+ Parece que ya te estas tomando el té post desayuno."
+}
+[sha:08f2d208b662a5e7492b72e00dbba27a7a0a82be]{
+-- Page 37, Offset 4027.
+-- 「当然です。兄さんがどんな時間に起床しようとかまいませんが、せめて朝食ぐらいは余裕をもって済ませてください。
+"Por supuesto.
+ No me importa mucho a que hora te levantas,
+ pero me gustaría pedirte que al menos te des el tiempo suficiente para desayunar.
+}
+[sha:bc4f8a19fe4b9003eef176047d9f898bb4109a09]{
+-- Page 37, Offset 4028.
+-- ７時をすぎて朝食をとるなんて、たるんでいる証拠です」
+Desayunar a las siete solo hace mas evidente lo vago que eres."
+}
+[sha:af4ec8dd210df44b106d4b0e5713e641f4cd0d1a]{
+-- Page 38, Offset 4029.
+-- いや７時はフツーだろー、と言いたい気持ちをぐっと堪える。この家はそもそもフツーではない。
+Lucho en contra de mi voluntad para no señalar que desayunar a las siete es perfectamente normal.
+ Por otro lado, no hay una maldita cosa que sea normal en %{i}esta%{/i} casa.
+}
+[sha:88e52ab2ac3a9e6a6674e397e2795df2c0b315d0]{
+-- Page 39, Offset 4030.
+-- 「ふーん。そういう秋葉は何時に起きるんだよ」
+"Hmm. ¿A qué hora te levantas, Akiha?"
+}
+[sha:9f5603eeb2cfae8ef83a48f0b1d8d59e3196b3fe]{
+-- Page 39, Offset 4031.
+-- 「５時には起床しますけど、なにか？」
+"Me levanto a las cinco, ¿pasa algo?"
+}
+[sha:368088e5ad1d9e3167701f1cd8ea1d5a5d99f629]{
+-- Page 39, Offset 4032.
+-- 「……すみません、まいりました」
+"Déjalo, me rindo."
+}
+[sha:227610139f1c2332f3132aae0cb66c8e85adbcac]{
+-- Page 39, Offset 4033.
+-- 常人では考えもしない事を、さも“不思議な事ですか？”なんて顔で返されては毒気も抜ける。
+// cortar las alas no se si es lo correcto en este contexto.
+Verla actuar como si esa inpensable respuesta fuera normal me ha quitado las ganas de seguir.
+}
+[sha:c5d2a032bfa850826a4e1eb707783cac5f7a4ecc]{
+-- Page 39, Offset 4034.
+-- こんな完璧な回答聞いたコトない。
+Nunca ví una respuesta tan perfecta.
+}
+[sha:fe651b6efb480b700a4fa86216b11fb197d92c08]{
+-- Page 40, Offset 4035.
+-- 「？　まいりました、とは何に対してですか？」
+"¿A qué te refieres con 'me rindo'?"
+}
+[sha:7e4f3b7160f9050fc1a221d09d64abcb49153e5e]{
+-- Page 40, Offset 4036.
+-- 「いや、なんでも。……にしても、そんな早くに起きてどうするんだ？　遅刻対策か？」
+"Ah, nada... Aún así, ¿por qué te levantas tan pronto? ¿Intentas no llegar tarde?"
+}
+[sha:365c7e198ad56429f8e87c5d9ca03e184ead470b]{
+-- Page 41, Offset 4037.
+-- 「あのですね。よほどのトラブルがないかぎり、時間に遅れる、なんてコトはありません。
+"Escuchame. Yo %{i}nunca%{/i} llegaré tarde. A no ser que algo vaya drásticamente mal.
+}
+[sha:01d6a63afe5914dbc571d996bfd5ef80c9832ab0]{
+-- Page 41, Offset 4038.
+-- 兄さんの学校はここから徒歩で30分ほどなんでしょう？　そう遠くない場所なんですから、遅刻なんかしないでくださいね。恥ずかしいですから」
+Tu escuela está a media hora andando de aquí, ¿correcto?
+ No está muy lejos, así que intenta no llegar tarde.
+ Sería vergonzoso si lo hiceras."
+}
+[sha:1786ff2ec0494df8bc375a0344880fe596beed6d]{
+-- Page 42, Offset 4039.
+-- いやあ、棘があってチクチクする。
+Dios, tan irascible como siempre.
+}
+[sha:f53ca4355a6801fd747406758c58e77257f66f67]{
+-- Page 42, Offset 4040.
+-- とはいえすべて正論なので、反論も浮かばない。
+Desafortunadamente, todo lo que dijo es cierto,
+ así que tampoco tengo margen para responder.
+}
+[sha:692693231da8787f7af81f64f308a06896b02e1a]{
+-- Page 42, Offset 4041.
+-- 秋葉が遠野家の体面を気にするのは当然の、いや、当主として果たさなければならない責務な訳だし。
+Es normal que Akiha se preocupe por la reputación de la familia Tohno.
+De hecho, como cabeza de familia, está %{i}obligada%{/i} a hacerlo.
+}
+[sha:f15b2a66997e8dfa2aabda9e79229f37034e8b5e]{
+-- Page 43, Offset 4042.
+-- 「はいはい。成績はともかく遅刻はしないよう心がけるよ。
+"Si, si. Daré lo mejor de mi para no llegar tarde, pero no prometo nada con mis notas.
+}
+[sha:56d7133501c2e0913f2fd2949b8437953e1d78bc]{
+-- Page 43, Offset 4043.
+-- 夜更かしも―――」
+Y sobre lo de quedarme despierto hasta tarde―――"
+}
+[sha:6e4d1fb9c22ff166c79dcfb248b41532bfba0f1f]{
+-- Page 43, Offset 4044.
+-- そこまで口にして、昨夜の出来事を思い出した。
+A mitad de frase, recuerdo lo que pasó anoche.
+}
+[sha:24007b43f9c4a00e7c6584803dc5d2e98bba2fa0]{
+-- Page 43, Offset 4045.
+-- 夜更かしをする気はないが、寝不足になる外的要因があっては同じ事だ。
+No soy del tipo que se queda despierto hasta tarde,
+ pero si algo me tiene despierto toda la noche al final da lo mismo.
+}

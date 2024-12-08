@@ -1,0 +1,137 @@
+[sha:d734c985066e3512fcbf9068de1773a1080e2c74]{
+-- Page 10008, Offset 1712.
+-- これまでとは違う帰り道を歩く。
+Camino por una nueva ruta, de vuelta a mi nuevo hogar.
+}
+[sha:fec02eebb9dcdb8fe5cf6abeee286ac39c5d79cc]{
+-- Page 10008, Offset 1713.
+-- 一般住宅が建ち並ぶ区画から、広々とした高級住宅地に入っていく。
+Tras pasar varios bloques de apartamentos adosados,
+ llego a un área residencial lujosa y espaciosa.
+}
+[sha:90cf6bedea05fc928e02410f352acdd7fda4986a]{
+-- Page 10008, Offset 1714.
+-- ……段々と、遠野の屋敷へ近付いていく。
+Me estoy acercando cada vez más a la mansión Tohno...
+}
+[sha:41fb2feefe881aa0f7cdca585b8487bc38d0e2a1]{
+-- Page 212, Offset 1715.
+-- まわりの風景は知らない風景ではなかった。
+El paisaje a mi alrededor no es desconocido.
+}
+[sha:3c211d482ae1d8f3c297e5212d21f8439a60fd1c]{
+-- Page 212, Offset 1716.
+-- 七年前―――10歳まで遠野の屋敷で暮らしていた記憶は、うろ覚えながら、この風景を懐かしいとさえ感じている。
+Viví en la mansion Tohno hasta hace siete años――hasta que cumplí los diez.
+ Mis memorias de entonces son borrosas,
+ pero este paisaje es nostálgico.
+}
+[sha:d3ab2ef5f6fdfa6513e479836778918314be3d41]{
+-- Page 213, Offset 1717.
+-- 少しだけ複雑な気持ちだ。
+No estoy completamente seguro de como me siento ahora mismo.
+}
+[sha:e10df088f2d0d017fb4b382c45f4b545e573287e]{
+-- Page 213, Offset 1718.
+-- この帰り道は懐かしく、新鮮でもある。
+Este viaje de vuelta es nuevo y nostálgico a la vez.
+}
+[sha:78bc34a2a5aa713829ee42a1b2ae043a7ded3a51]{
+-- Page 214, Offset 1719.
+-- 長い坂道を上る。
+Subo una larga cuesta.
+}
+[sha:ba61a3bc2658c07237bf11f3cc68282eeb5174ca]{
+-- Page 214, Offset 1720.
+-- 周囲から家屋が途絶えていく。
+Cada vez hay menos casas alrededor.
+}
+[sha:68477b9638d067228810beb78f3a17625571065f]{
+-- Page 214, Offset 1721.
+-- ―――鼻孔をくすぐる緑の匂い。
+―――El olor de la vegetación cosquillea mi nariz.
+}
+[sha:6c479d7ec0367dfd5ea2e72429b7df0e7f8ae3dd]{
+-- Page 214, Offset 1722.
+-- 都市のただ中にありながら、近代化を拒絶する空気を感じる。
+Aunque estamos en medio de una ciudad,
+ la atmósfera aquí da la sensación de rechazo a la modernidad.
+}
+[sha:5297b91f2921b2b7137d55579df9569da12a6e21]{
+-- Page 215, Offset 1723.
+-- ここから先はほぼ遠野の土地だ。
+Desde este punto casi todo el terreno pertenece a la familia Tohno.
+}
+[sha:dfdfc65b4d809d90ddb10206cd4acb80e05e12e1]{
+-- Page 215, Offset 1724.
+-- 遠野志貴が10歳まで暮らしていた屋敷。
+La mansión en la que Tohno Shiki vivió hasta los diez...
+}
+[sha:3b8f1d6af78f5c61be3190a1acb9276d97c397e2]{
+-- Page 215, Offset 1725.
+-- そこにあるのは古い思い出と、うまくいかなかった肉親だ。
+Todo lo que hay allí son viejos recuerdos y una familia que no se lleva bien.
+}
+[sha:e4f152a190ec73e1f5316f770fd4d795bc3ebd9c]{
+-- Page 215, Offset 1726.
+-- ……とはいっても、いま屋敷に残っている肉親はたったひとりしかいない。
+Aunque, dicho esto, ahora solo tengo un familiar directo en la mansión.
+}
+[sha:04f24cd4f9bad6ec2f95103cb1621522beac20df]{
+-- Page 216, Offset 1727.
+-- 自分を嫌っていた父親―――遠野家の当主である遠野槙久は、先日、他界した。
+El padre que me odiaba――Tohno Makihisa, la cabeza de familia de los Tohno, falleció el otro día.
+}
+[sha:c61ef7a23fac4ba762ff97805b075769650883e4]{
+-- Page 216, Offset 1728.
+-- 母親は秋葉が生まれた年に病死している。
+Mi madre murió de una enfermedad el año que Akiha nació.
+}
+[sha:dae2b3ea5b8f4b315926c21c754c14cec26c6630]{
+-- Page 216, Offset 1729.
+-- なので、遠野の人間は自分と、妹である秋葉の二人きりになってしまった。
+Así que, quedan dos Tohnos: mi hermana pequeña, Akiha y yo.
+}
+[sha:d0c9eecd02cd9da5a77d633901d5c5de0977f1b7]{
+-- Page 217, Offset 1730.
+-- 本来なら長男である自分―――遠野志貴が跡取りになるのだが、俺にそんな権利はない。
+Normalmente, como hijo mayor, Tohno Shiki sería el heredero de la familia,
+ pero he perdido ese privilegio.
+}
+[sha:995438136329abcf3fbe4fcb8b70b6d792cd52e0]{
+-- Page 217, Offset 1731.
+-- 遠野家の跡取りになる、という事は、がんじがらめの教育を受けるという事だ。
+Ser el heredero de la familia Tohno significa ser sometido a una estricta educación.
+}
+[sha:215361868bc07e96e727ca07a4832bfc6d778add]{
+-- Page 218, Offset 1732.
+-- それがイヤで自由に過ごしていた俺は、<槙久|ちちおや>から何度小言を言われたか分からない。
+Lo odiaba, así que siempre me escapaba y me iba a jugar.
+ No me acuerdo de todas las veces mi padre me echó la bronca por ello.
+}
+[sha:e18732387b026f7773d50a2f88ce86cf69238512]{
+-- Page 218, Offset 1733.
+-- そんな折、俺は事故に巻きこまれて身体的欠陥を負い、槙久はこれ幸いと俺を切り捨てた。
+Entonces, me ví involucrado en el accidente que me dejó con un defecto físico, y aprovechó la oportunidad para distanciarme.
+}
+[sha:bd4b56e65eae6611eb750efe9177bc37c5e80fd3]{
+-- Page 219, Offset 1734.
+-- 曰く、“たとえ長男であろうと、いつ死ぬか分からない軟弱者を後継者にはできない”とのこと。
+Dijo, 'Aunque seas el hijo mayor, un debilucho como tú podría morirse en cualquier momento no puede ser mi sucesor.'
+}
+[sha:6dd64022e8f84f5918127e8226560513594553dc]{
+-- Page 219, Offset 1735.
+-- 俺は<槙久|ちちおや>の予想を裏切ってなんとか回復したけれど、その頃には妹の秋葉が跡取りに決められていた。
+Desafíe las expectativas y conseguí recuperarme, pero para entonces, mi hermana pequeña Akiha había sido elegida como sucesora.
+}
+[sha:48388a872542852f3a1e2fccd3eb8c08f0c29821]{
+-- Page 220, Offset 1736.
+-- それまで『遠野の娘』として育てられていた秋葉は、俺が脱落した事により、いっそう厳しく育てられる事になった。
+Akiha ya estaba siendo educada como 'Una hija de la familia Tohno',
+ pero cuando me quedé fuera de la ecuación, su educación se volvió aún más estricta.
+}
+[sha:19a74d408363c337393d3ffa15c09dc796e95ca4]{
+-- Page 220, Offset 1737.
+-- 10歳の頃まで―――事故に巻きこまれるまで屋敷の庭で一緒に遊んだ秋葉とは、それ以降まったく会っていない。
+Hasta los diez solía jugar con ella en los jardines de la mansión――hasta que me involucré en ese accidente. No la he visto ni una vez desde entonces.
+}

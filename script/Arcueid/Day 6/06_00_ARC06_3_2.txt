@@ -1,0 +1,385 @@
+[sha:027a12989dbe4faaf9ce650c506165d088fc5510]{
+-- Page 10014, Offset 14588.
+-- 館内を観覧してみよう。
+-- TRANSLATION HERE
+}
+[sha:ab1377c90fee4c21801e43720bac20001a0b08be]{
+-- Page 10014, Offset 14589.
+-- 七年前からそう変化はないと思うが、成長した今の視点ならではの発見があるかもしれない。
+-- TRANSLATION HERE
+}
+[sha:c09f3877d5a9f201580d69b929cbe917e305a990]{
+-- Page 279, Offset 14590.
+-- ―――さて。
+-- TRANSLATION HERE
+}
+[sha:7f09a3c8b5b4356365651a869ff48b98f111d818]{
+-- Page 279, Offset 14591.
+-- １時間ほど屋敷を見て回った結論として。
+-- TRANSLATION HERE
+}
+[sha:6245b41535778e8aed9d41453926f8d13ed822be]{
+-- Page 280, Offset 14592.
+-- 「立ち入り禁止の区画が多すぎない？」
+-- TRANSLATION HERE
+}
+[sha:29bd2cb27c7e8c44391dd14c0e146f501aea8c40]{
+-- Page 280, Offset 14593.
+-- 周りには誰もいないのに、つい同意を求めてしまった。
+-- TRANSLATION HERE
+}
+[sha:47d6c51779d24e532a3df9c94aa3db2f0159f3fa]{
+-- Page 281, Offset 14594.
+-- 遠野邸本館はホテルのように広く、また、ホテルのように『関係者以外立ち入り禁止』な部屋が多かった。
+-- TRANSLATION HERE
+}
+[sha:ac6ec28f2b6660cec841e2c42eaf7b468ff6dc55]{
+-- Page 282, Offset 14595.
+-- とくに東館の二階は凄かった。
+-- TRANSLATION HERE
+}
+[sha:8efddff88a26a0f97838984abc859fd28fbf48c5]{
+-- Page 282, Offset 14596.
+-- 『酷い』のではなく『凄い』。
+-- TRANSLATION HERE
+}
+[sha:45846c9927a4bcf8926428a1b31e91d021ff6a82]{
+-- Page 282, Offset 14597.
+-- なんていうか、圧、があるのだ。
+-- TRANSLATION HERE
+}
+[sha:0438499c3f7a7946383f981580a60d6250735d4f]{
+-- Page 282, Offset 14598.
+-- 他の部屋は鍵がかかっているので入れなかったが、東館の二階は鍵や扉で塞がれている訳ではない。
+-- TRANSLATION HERE
+}
+[sha:c4e426483be255ad7ae93986821f198ccc945e65]{
+-- Page 282, Offset 14599.
+-- なのに、こう、踏み入ろうとすると眩暈がするというか、廊下が揺らいで見えるというか、
+-- TRANSLATION HERE
+}
+[sha:d731d9715549076ea5c3540af392d23d6d117809]{
+-- Page 283, Offset 14600. Mods: @n.
+-- 「許可なしで入ったら絶対に殺す、
+-- TRANSLATION HERE
+}
+[sha:6e9904bf268c658ba602a9ab0477d7f0b115d157]{
+-- Page 283, Offset 14601.
+-- という強い意志を感じる……」
+-- TRANSLATION HERE
+}
+[sha:813f28b7defacd0ea50ad2aa11c06af9815df2ac]{
+-- Page 284, Offset 14602.
+-- おもに秋葉からの。
+-- TRANSLATION HERE
+}
+[sha:6bc80e5687a2ed25c224dec077d66890840cb768]{
+-- Page 284, Offset 14603.
+-- 単なる被害妄想、否、俺が気を遣いすぎているだけなのだが、それはそれとして社会的な生命の危機を感じるので、東館の二階には入らなかった。
+-- TRANSLATION HERE
+}
+[sha:6ca04b400d4b97729ef63ee32f8762db633bacc2]{
+-- Page 285, Offset 14604.
+-- 「ああ、それが正解だ。
+-- TRANSLATION HERE
+}
+[sha:735adf1e641603bc9c61044a93695c79fdcfd21a]{
+-- Page 285, Offset 14605.
+-- おいそれと当主の生活空間に入るものじゃあない。それが家族であろうともね。
+-- TRANSLATION HERE
+}
+[sha:1d65868f5475b7d3b7f805adcaa98406e80ea8fb]{
+-- Page 285, Offset 14606.
+-- 昔からここではそうだっただろう、志貴君」
+-- TRANSLATION HERE
+}
+[sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
+-- Page 286, Offset 14607.
+-- 「―――」
+"―――"
+}
+[sha:8a3967b953bd88251ddaf6f4999e7cc65c47d987]{
+-- Page 286, Offset 14608.
+-- 後ろから話しかけられて、ビクッと背筋が跳ねる。
+-- TRANSLATION HERE
+}
+[sha:13c668cd9efad76fd58be55877d31fda50906a0d]{
+-- Page 286, Offset 14609.
+-- 振り向くとそこには、
+-- TRANSLATION HERE
+}
+[sha:1c666895192faea7b623e6e9c85443f5f70dcd8b]{
+-- Page 287, Offset 14610.
+-- 「屋敷の探索は終わったかね？　私としては、出戻った人間には自室で大人しくしていてほしいのだが」
+-- TRANSLATION HERE
+}
+[sha:a189e85b5ccb7f3cdee9074e95e9d12793364e40]{
+-- Page 287, Offset 14611.
+-- 「それはどうも。こっちも、よく知らない人間に家のまわりを歩いてほしくないですけど」
+-- TRANSLATION HERE
+}
+[sha:04c47f8fe04577e83e19a5c54c33f8b22a27e054]{
+-- Page 288, Offset 14612.
+-- 「私を知らないのは君だけなんだが、まあ、そこは流そう。お互い深く関わり合う立場じゃない。痛し痒しだ。
+-- TRANSLATION HERE
+}
+[sha:23ffd62d85b4de56a95f791e50254fb02ef3fead]{
+-- Page 288, Offset 14613.
+-- 今日は―――そうだな。
+-- TRANSLATION HERE
+}
+[sha:de57bbc7ee5dd986ee6743abc3cb07501e9a93f7]{
+-- Page 288, Offset 14614.
+-- 私も気が緩んでいたらしい。君の後ろ姿から昔を思い出してね。声をかけてしまったんだよ」
+-- TRANSLATION HERE
+}
+[sha:4ba622307516c5a65cf43b81b28ff33e485bf6d3]{
+-- Page 289, Offset 14615.
+-- 「……俺を見て、昔を思い出した、ですか……？」
+-- TRANSLATION HERE
+}
+[sha:cd6e0ac34a7a80d953c0dec69c01883ba1378914]{
+-- Page 289, Offset 14616.
+-- ……それは、もしかして。
+-- TRANSLATION HERE
+}
+[sha:c7f6d36f2001cb7cabf96778e5a9457e6eca7e09]{
+-- Page 290, Offset 14617.
+-- 「ああ。槙久さんがまだ万全だった頃だ。
+-- TRANSLATION HERE
+}
+[sha:5d1a4ebba85bf34ec0eb22af0dca73c285e0660c]{
+-- Page 290, Offset 14618.
+-- ここ数年は部屋に籠もりがちだったが、もともとは植物を愛する人でね。こうして屋敷のまわりを歩いていた」
+-- TRANSLATION HERE
+}
+[sha:bf06fbd41367afb5aa9d4f2557aaa5933a03dde9]{
+-- Page 291, Offset 14619.
+-- 「槙久さんが植物に造詣が深かった事は話したかな？
+-- TRANSLATION HERE
+}
+[sha:8094f369f16e2c195e742bd6b1641ac7654adcbf]{
+-- Page 291, Offset 14620.
+-- 私も少しは囓っていてね。二人で、よくそこの植物園で語り合ったものさ」
+-- TRANSLATION HERE
+}
+[sha:6ec1696dccf5e33e167186664a76dd80ae63c904]{
+-- Page 291, Offset 14621.
+-- 「植物園……なんか、厳重に施錠されてますけど」
+-- TRANSLATION HERE
+}
+[sha:52ffa83374e9ba396214360d18ea76f87a565aed]{
+-- Page 292, Offset 14622.
+-- 「入り口はね。裏口は簡単な鍵で開けられる。
+-- TRANSLATION HERE
+}
+[sha:52b5655a2f3b53b5bab20732eef4d343b893b723]{
+-- Page 292, Offset 14623.
+-- 持っているのは琥珀嬢かな？　ありがたい事に、今でも最低限の世話をしてくれているようだ」
+-- TRANSLATION HERE
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 293, Offset 14624.
+-- 「…………」
+"......"
+}
+[sha:6bab0a295b42a5fbb81d461b1b010ebd3d7879a3]{
+-- Page 293, Offset 14625.
+-- ちょっと意外だ。
+-- TRANSLATION HERE
+}
+[sha:3aae742fbd579696cd3e0e59c9a04dda0c56b47e]{
+-- Page 293, Offset 14626.
+-- 斎木氏は琥珀さんに『嬢』と敬称を付けた。
+-- TRANSLATION HERE
+}
+[sha:10fd9404da851ac82a80f2d04f3a7c297d044c56]{
+-- Page 293, Offset 14627.
+-- 使用人だからといって過度に下に見る……という人柄ではない……？
+-- TRANSLATION HERE
+}
+[sha:15c95d6c4f778c56089ec460b20877b6510dc5b5]{
+-- Page 294, Offset 14628.
+-- 「貴方は、琥珀さんと親しいんですか？」
+-- TRANSLATION HERE
+}
+[sha:50443da8531dd7479d3ded3098ee3f26975626f4]{
+-- Page 294, Offset 14629.
+-- 「私が？　あの使用人と？　……は。
+-- TRANSLATION HERE
+}
+[sha:60bd56dece3787d5701abf52163fcde88cb10514]{
+-- Page 294, Offset 14630. Mods: @n.
+-- はは。ははは。
+-- TRANSLATION HERE
+}
+[sha:0246d81a55e4112a5a5a967010f540aab301bf38]{
+-- Page 294, Offset 14631. Glued. Mods: @x.
+-- ははははは！」
+-- TRANSLATION HERE
+}
+[sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
+-- Page 295, Offset 14632.
+-- 男は皮肉そうに苦笑した後、本格的に笑いだした。
+-- TRANSLATION HERE
+}
+[sha:28279097501e74154d1a8b52af24020a2f8fd8e4]{
+-- Page 295, Offset 14633.
+-- 何が面白かったのか、聞くまでもない。
+-- TRANSLATION HERE
+}
+[sha:f0e59183de30efb7a4205022a5eb8ef90a82e9a1]{
+-- Page 295, Offset 14634.
+-- ……斎木業人は、今、目の前の人間の滑稽さに笑っているのだ。
+-- TRANSLATION HERE
+}
+[sha:509246071f6550cbdc4d7e05c07bc6a9d5c58974]{
+-- Page 296, Offset 14635.
+-- 「……何かおかしな事を言いましたか、俺」
+-- TRANSLATION HERE
+}
+[sha:c91dbc8d63daf088ce1c0c8bee137df43a34af86]{
+-- Page 296, Offset 14636.
+-- 「ああ、いや、失敬。
+-- TRANSLATION HERE
+}
+[sha:c7958d690bdf14f5ba049a0f50f48e2ff6d5d77c]{
+-- Page 296, Offset 14637.
+-- うん、今のは私が悪いな。なにしろ君に落ち度はない。ただ、あんまりな質問だった、というだけだ」
+-- TRANSLATION HERE
+}
+[sha:87ca879b03a51ce1bbbd2fe5a4808be603551548]{
+-- Page 297, Offset 14638.
+-- 「私は琥珀嬢とはそう親しくはないよ。彼女と話すようになったのは秋葉が当主になってからだ。
+-- TRANSLATION HERE
+}
+[sha:94dda3bbdb93022e1e4282e6d93fc09cd486e739]{
+-- Page 297, Offset 14639.
+-- 琥珀嬢は秋葉の秘書役でもある。必然、会話の機会も増える。
+-- TRANSLATION HERE
+}
+[sha:a64e8224eb97fe90708c83c72e84ddae1eb2c575]{
+-- Page 297, Offset 14640.
+-- どちらかというと、私は翡翠嬢と顔見知りだがね」
+-- TRANSLATION HERE
+}
+[sha:65448d0931938fea7c719e6ce600b3ac5edd2762]{
+-- Page 298, Offset 14641.
+-- 「え」
+-- TRANSLATION HERE
+}
+[sha:ba49ae1084f40f22eeca9b3019cdb0099ce5964c]{
+-- Page 298, Offset 14642.
+-- 二度目の予想外。
+-- TRANSLATION HERE
+}
+[sha:4a4f9781493b30650bfef614884ecf08ff5fb8a4]{
+-- Page 298, Offset 14643.
+-- この、見るからに怪人な斎木業人と、翡翠が顔見知りだって……？
+-- TRANSLATION HERE
+}
+[sha:614cc87c1eaf4369f6f4afa64fa6b6cc10b2e56c]{
+-- Page 299, Offset 14644.
+-- 「昔の話だよ、それも。
+-- TRANSLATION HERE
+}
+[sha:ac5609077bfa48838b044aa78c182af7c31e5a9c]{
+-- Page 299, Offset 14645.
+-- ここ数年はまったく話をしていない。挨拶程度はするがね。
+-- TRANSLATION HERE
+}
+[sha:c8d82120fe73b8e92719cecf718d2c43b957e2b7]{
+-- Page 299, Offset 14646.
+-- さて。私も日射しを浴びすぎた。肌がかゆくていけない」
+-- TRANSLATION HERE
+}
+[sha:8cca9cf3ec8239a1c1b66abc6ab6a86286e5dff0]{
+-- Page 300, Offset 14647.
+-- 斎木業人が片手をあげると、駐車場に待機していた乗用車が玄関前のロータリーに移動してきた。
+-- TRANSLATION HERE
+}
+[sha:575bf0046ca5fde4c0b342022487437a7fd18913]{
+-- Page 300, Offset 14648.
+-- 会話はここまで、という事だろう。
+-- TRANSLATION HERE
+}
+[sha:427d192ee92c07217b54a4041c471b9b2726853a]{
+-- Page 301, Offset 14649.
+-- 「ああ、本題を聞き忘れていた。
+-- TRANSLATION HERE
+}
+[sha:b3b0561bac1ecc9265329eed1b2305cb1e1f5a8a]{
+-- Page 301, Offset 14650.
+-- どうかな、七年ぶりに屋敷を見た感想は？」
+-- TRANSLATION HERE
+}
+[sha:53da602ac913648b5d2decc28f63b9bcfe0dd163]{
+-- Page 301, Offset 14651.
+-- 「特に驚きはないです。子供の頃の記憶合わせができたのは一階だけですし」
+-- TRANSLATION HERE
+}
+[sha:af5702177d148afb1001dbf3df7310e12e741da1]{
+-- Page 302, Offset 14652.
+-- 包帯づくめの紳士、斎木業人に返答する。
+-- TRANSLATION HERE
+}
+[sha:de480e24a2ccf3baaf485d1ef54ee854f89236eb]{
+-- Page 302, Offset 14653.
+-- 「なんだ、面白みのない。
+-- TRANSLATION HERE
+}
+[sha:f332fce4ddc3cbfbdb6f369bf930c60d2c6b3d89]{
+-- Page 302, Offset 14654.
+-- ……しかし、そうだな。過去から戻ってきたとしても、見違えるような現実など、そうはないという事か」
+-- TRANSLATION HERE
+}
+[sha:6bdf3a7bdcceed004cb5c5b7a131ec0b442d814d]{
+-- Page 303, Offset 14655.
+-- 言いたい事だけ言って、斎木業人は遠野邸から去って行った。
+-- TRANSLATION HERE
+}
+[sha:d6d0dbb1eb7781a10c9e6f6ab2a6c60278a931cd]{
+-- Page 303, Offset 14656.
+-- けっこうな頻度で遠野邸を訪れているが、総耶に住居があるのだろうか。
+-- TRANSLATION HERE
+}
+[sha:a2079df99d1f97192b0eb542e0507cb87aeb7fd9]{
+-- Page 304, Offset 14657.
+-- 「……次はそのあたりに切り込んでみるか……」
+-- TRANSLATION HERE
+}
+[sha:37e9df7e6c2b5a76e02c7850d455a8d3f1b2d193]{
+-- Page 304, Offset 14658.
+-- 斎木業人が遠野志貴を敵視、ないし邪魔者として見ているのは間違いない。
+-- TRANSLATION HERE
+}
+[sha:f2b77a0935706af5d52d19abbe2f6a767a4c0bd6]{
+-- Page 304, Offset 14659.
+-- 敵を知れば百戦あやうからず。
+-- TRANSLATION HERE
+}
+[sha:b9bb50958593d29fbfeea206c230170988e9cd05]{
+-- Page 304, Offset 14660.
+-- こちらも自衛手段として、彼の情報を少しは知っておかないと。
+-- TRANSLATION HERE
+}
+[sha:b8820687d5561f13fa7372c4209a7acf524c8388]{
+-- Page 305, Offset 14661.
+-- 「まあ、それはそれとして」
+-- TRANSLATION HERE
+}
+[sha:23e94b2fc68c62374f92913208b3b3e2605b9fd7]{
+-- Page 305, Offset 14662.
+-- せっかくの休日をこんな気持ちで終わらせたくはない。
+-- TRANSLATION HERE
+}
+[sha:8a98ab9be85bce4066841ded755539765f8c1264]{
+-- Page 305, Offset 14663.
+-- 気を取り直して屋敷の探索を再開する。
+-- TRANSLATION HERE
+}
+[sha:da5353a4259a1a3b1d97751acf7d940bf572479b]{
+-- Page 305, Offset 14664.
+-- 今度は……そうだな、中庭に出てみよう。
+-- TRANSLATION HERE
+}

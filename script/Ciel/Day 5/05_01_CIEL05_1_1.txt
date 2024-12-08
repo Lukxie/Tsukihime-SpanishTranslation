@@ -1,0 +1,90 @@
+[sha:03c1aca69530be4f669136b19222374a32e09a71]{
+-- Page 10007, Offset 11580.
+-- 見過ごす事はできなかった。
+-- TRANSLATION HERE
+}
+[sha:c88596d0839c306b3823c83969e74bc6a4f96e51]{
+-- Page 10007, Offset 11581.
+-- 女が吸血鬼に血肉を吸われる。そのイメージが神経を加速させる。それは許容できない。理由は<喪|うしな>われているが、それだけは我慢できない。
+-- TRANSLATION HERE
+}
+[sha:2f1b2043905c692ee2802cc0b62acf108b7fe9e9]{
+-- Page 273, Offset 11582.
+-- 両脚は反射的に駆動していた。
+-- TRANSLATION HERE
+}
+[sha:fed070bf5a53bcabbf85e61056c7aac8777064ba]{
+-- Page 273, Offset 11583.
+-- 呼吸なんて余分なものは止まっていた。
+-- TRANSLATION HERE
+}
+[sha:c41744ab96ae5b0031891c1484a9a3e11b5e1eac]{
+-- Page 273, Offset 11584.
+-- 真横から、俺を止めようとした指先がかすかに触れたが、間に合わない。この初動は俺の思考より早かったのだから。
+-- TRANSLATION HERE
+}
+[sha:1d62a87d6b689ea7a8d58d918fa0542dc76588e0]{
+-- Page 274, Offset 11585.
+-- けれど、あまりにも遠すぎる。
+-- TRANSLATION HERE
+}
+[sha:73f9667ee552d37d5956fa899b0a7742678bff53]{
+-- Page 274, Offset 11586.
+-- 人間の足では遅すぎる。
+-- TRANSLATION HERE
+}
+[sha:959f9c0675183018cee37dc7550cef8b1d270b53]{
+-- Page 274, Offset 11587.
+-- 開かれた吸血鬼の口は食虫植物のようだ。
+-- TRANSLATION HERE
+}
+[sha:641f8c4394399d14fcdf30c3cc57582ce5d78a7c]{
+-- Page 274, Offset 11588.
+-- 女の鎖骨から首元に、べったりと、巨大なヒルのように食らいつく。
+-- TRANSLATION HERE
+}
+[sha:278ed0d51321f1fd76157658be7e278211d803b0]{
+-- Page 275, Offset 11589.
+-- 「ひゃ―――あ！　ああ、あ―――ああぁあああ……！」
+-- TRANSLATION HERE
+}
+[sha:2019b538a49f1dd1ec80ddad3d12be80c297ecbc]{
+-- Page 275, Offset 11590.
+-- 痙攣する女の体。
+-- TRANSLATION HERE
+}
+[sha:ae220394383831a71293373526d155bace7244d2]{
+-- Page 275, Offset 11591.
+-- 絞り上げられる命の音。
+-- TRANSLATION HERE
+}
+[sha:e410aef7a503e60fe04731175287048da5b7e955]{
+-- Page 275, Offset 11592.
+-- ごくごくと。
+-- TRANSLATION HERE
+}
+[sha:8604ef6f6c0311c285c78de55622db6e908c57a6]{
+-- Page 275, Offset 11593.
+-- 汚らしく飲み下す音が、俺の<脳|みみ>にまで聞こえてくる。
+-- TRANSLATION HERE
+}
+[sha:0ea97abaf7396f7c8bc8fa1b79701c4eb40543a2]{
+-- Page 276, Offset 11594.
+-- ―――それで俺の意識も壊れた。
+-- TRANSLATION HERE
+}
+[sha:99f6e134f6b2bfbf6d103cfca7e4dd26df9c67cc]{
+-- Page 276, Offset 11595.
+-- ―――目の前で食事をされるのはこれで二度目だ。
+-- TRANSLATION HERE
+}
+[sha:a30558363167b7364fccf7d6ce13b82e53d52b37]{
+-- Page 276, Offset 11596.
+-- ―――よくも。よくも。よくも。よくも。
+-- TRANSLATION HERE
+}
+[sha:0284ebdabdf4a1ded03acd8be448c7685c5d1181]{
+-- Page 276, Offset 11597.
+-- ―――おぞましい動く死人。ここで、死ぬまで殺してやる。
+-- TRANSLATION HERE
+}

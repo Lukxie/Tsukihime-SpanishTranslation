@@ -1,0 +1,275 @@
+[sha:2e02695cc2a210a68c35dbb8c0544d9263a60129]{
+-- Page 2, Offset 42766. Mods: @n.
+-- こんにちは。
+-- TRANSLATION HERE
+}
+[sha:76bbf6c43200baeed6ccf0c07e2991e1a5e84d20]{
+-- Page 2, Offset 42767.
+-- 突然のデッドエンド、驚かれましたか？
+-- TRANSLATION HERE
+}
+[sha:d88d6157e0b5230bac1b479101ddd4a32c68126a]{
+-- Page 3, Offset 42768. Mods: @n.
+-- 迷える遠野くんを正しいエンディングまで
+-- TRANSLATION HERE
+}
+[sha:b0f8243c4cefa4fb3583d3940206db551d193c9d]{
+-- Page 3, Offset 42769.
+-- 導く救済コーナー、
+-- TRANSLATION HERE
+}
+[sha:da4d163ffd8fb6e73e6561d08e38cac618e6343c]{
+-- Page 4, Offset 42770. Mods: @n.
+-- 『教えて！　シエル先生』にようこそ。
+-- TRANSLATION HERE
+}
+[sha:cc86c2e84e7ec326d805dedf7a0261b93795a15b]{
+-- Page 4, Offset 42771.
+-- 教官のシエル（本編後、18歳想定）です。
+-- TRANSLATION HERE
+}
+[sha:eeee9ba985c06f577449ab09a6c6b66911b99f49]{
+-- Page 5, Offset 42772. Mods: @n.
+-- マジかよ。
+-- TRANSLATION HERE
+}
+[sha:13971fe097da96f4c0f5deeaece6923d46fe0674]{
+-- Page 5, Offset 42773.
+-- タイトルじゃ先生なのに教官とはこれいかに。
+-- TRANSLATION HERE
+}
+[sha:9aba7d529c9a836014fefe90c907e2a11f682047]{
+-- Page 6, Offset 42774. Mods: @n.
+-- まあ、そういう細かいところはどうでもいい、
+-- TRANSLATION HERE
+}
+[sha:8bd576a516775b6792b4350a9444c3b690c22bf4]{
+-- Page 6, Offset 42775.
+-- という精神はアタシを見てもらえば分かると思う。
+-- TRANSLATION HERE
+}
+[sha:011f138f00d88dbc71eec7ceb457b422b2d709ca]{
+-- Page 7, Offset 42776. Mods: @n.
+-- こんにちは、バッドエンド界のソムリエクイーン、
+-- TRANSLATION HERE
+}
+[sha:8072f9a8ce04aaa65fe7702497414f8162105249]{
+-- Page 7, Offset 42777.
+-- セクシーすぎて本編出禁になった、ネコアルクです。
+-- TRANSLATION HERE
+}
+[sha:5158c83eb3445911313d890f0db3a63ed78ef72a]{
+-- Page 8, Offset 42778. Mods: @n.
+-- you、こういう大人のコーナーは初めてかい？
+-- TRANSLATION HERE
+}
+[sha:bc8a44e4d78fb4920e9b46136baff2ffce6bb183]{
+-- Page 8, Offset 42779.
+-- まあ第１回だから初めてだろうけど落ち着けよ。
+-- TRANSLATION HERE
+}
+[sha:7d28db44798d939ce07f3a45a631b0a8f418a1bb]{
+-- Page 9, Offset 42780. Mods: @n.
+-- こちらの生き物は無視してもらってかまいません。
+-- TRANSLATION HERE
+}
+[sha:75676daa976e86760a22fdceb7dd0541f9f6b2c8]{
+-- Page 9, Offset 42781.
+-- 基本、わたしの発言だけ教訓としていただければ。
+-- TRANSLATION HERE
+}
+[sha:938e4edeb50939618c509a76ee6c30a1d1e6a9b9]{
+-- Page 10, Offset 42782.
+-- では、今回の死因の検証ですが……
+-- TRANSLATION HERE
+}
+[sha:07b034426cd633a35bde769eca18fde8c8b97820]{
+-- Page 11, Offset 42783. Mods: @n.
+-- さっそく燃えてますな、メガネくん。
+-- TRANSLATION HERE
+}
+[sha:688db06d425bd219d47f6cff258805ed147e8277]{
+-- Page 11, Offset 42784.
+-- 道ばたでヒューマントーチはロックすぎにゃい？
+-- TRANSLATION HERE
+}
+[sha:704b4ba8d9c49effcdc9ccd922541d32e303b87b]{
+-- Page 12, Offset 42785. Mods: @n.
+-- なんでこんなコトになってんだシエル？
+-- TRANSLATION HERE
+}
+[sha:140162b808961f04cc1dc6e9c0db2787a5b45208]{
+-- Page 12, Offset 42786.
+-- この街、道に地雷でも埋まってんの？
+-- TRANSLATION HERE
+}
+[sha:5b5e6be20dbbd6fe4ec8168d8d69fa513b74b9e3]{
+-- Page 13, Offset 42787. Mods: @n.
+-- それはもちろん、『目撃された』のに
+-- TRANSLATION HERE
+}
+[sha:c207c111da3884e17a35bee1c146d214f7c61a8f]{
+-- Page 13, Offset 42788.
+-- ひとりで出歩いてしまったからですね。
+-- TRANSLATION HERE
+}
+[sha:072e67a338a85f488f0fb39757a831e73279bdb4]{
+-- Page 14, Offset 42789. Mods: @n.
+-- 「あんな脳天気な吸血鬼と一緒の部屋にいられるか、
+-- TRANSLATION HERE
+}
+[sha:7a8e53276229044217cb37ae24640ef60774f41a]{
+-- Page 14, Offset 42790.
+-- オレは実家に帰らせてもらう！」
+-- TRANSLATION HERE
+}
+[sha:fd3f209fb2941bb99844adc7992d37035377713e]{
+-- Page 15, Offset 42791. Mods: @n.
+-- という気持ちは痛いほど分かりますが、
+-- TRANSLATION HERE
+}
+[sha:7cabbd99cbb19a26505de0ac2f3e065fdd8554b8]{
+-- Page 15, Offset 42792.
+-- ここはぐっと我慢の子。
+-- TRANSLATION HERE
+}
+[sha:7e0db35ffa19344df33d3eb739e06113d9a1959d]{
+-- Page 16, Offset 42793. Mods: @n.
+-- 巻きこまれてしまったとはいえ、
+-- TRANSLATION HERE
+}
+[sha:e352620f189620b9c451ac683fa5365fc3edf712]{
+-- Page 16, Offset 42794.
+-- 遠野くんはもう関係者なのです。
+-- TRANSLATION HERE
+}
+[sha:96ef2e8591f335d1a34f1bb084e11abd11ab3380]{
+-- Page 17, Offset 42795. Mods: @n.
+-- 当面の敵……吸血鬼をなんとかするまで、
+-- TRANSLATION HERE
+}
+[sha:8880ee12b73c204fdea93c347dc43bd53deb9a77]{
+-- Page 17, Offset 42796.
+-- お家に帰ってはいけません！
+-- TRANSLATION HERE
+}
+[sha:317fdf14353d4ce7807d561b7ef49c3777db6c2f]{
+-- Page 18, Offset 42797. Mods: @n.
+-- いったん外に出ても、
+-- TRANSLATION HERE
+}
+[sha:8285ca74b50a9295031a277e5a987a89232baae5]{
+-- Page 18, Offset 42798.
+-- まだ最後のチャンスがあったでしょう？
+-- TRANSLATION HERE
+}
+[sha:69ccbe9d6276f64023a4148ea0996ba05e341214]{
+-- Page 19, Offset 42799. Mods: @n.
+-- そのあたりでホテルに
+-- TRANSLATION HERE
+}
+[sha:85f15cffc7248887a9614a1184549a1be9086e20]{
+-- Page 19, Offset 42800.
+-- 戻ってしまうのがよろしいかと。
+-- TRANSLATION HERE
+}
+[sha:b750514c3aa8829004c38e59bc872871f7296aee]{
+-- Page 20, Offset 42801. Mods: @n.
+-- でも……途中で逃げたのに戻るとか、
+-- TRANSLATION HERE
+}
+[sha:784600a2f8bab3d2b6b43551d5da603a19ac4cdc]{
+-- Page 20, Offset 42802.
+-- ヒロインの好感度が下がってたら恥ずかしいしぃ……
+-- TRANSLATION HERE
+}
+[sha:814cbe99293475fc5cea83bc729f2e62e053cd08]{
+-- Page 21, Offset 42803. Mods: @n.
+-- ばんばん下げましょう。
+-- TRANSLATION HERE
+}
+[sha:2143a4d57885287994efe0166f8a212ad1443b22]{
+-- Page 21, Offset 42804.
+-- むしろ全編、塩対応でお願いします。
+-- TRANSLATION HERE
+}
+[sha:a0df086b783b4eec0862d918074cf9b869ef4cc6]{
+-- Page 22, Offset 42805. Mods: @n.
+-- だってこの吸血鬼、恐ろしいコトに遠野くんが
+-- TRANSLATION HERE
+}
+[sha:a4d3cf1147daba6bc8d7872390da82e0eda4b7e3]{
+-- Page 22, Offset 42806.
+-- なに言っても好感度下がりませんからね！
+-- TRANSLATION HERE
+}
+[sha:57f6b0b51dd94a818c51cc69c72fa37b4a07cce1]{
+-- Page 23, Offset 42807. Mods: @n.
+-- えー。そんなコトないと思うけどにゃ～？
+-- TRANSLATION HERE
+}
+[sha:38d2f6e3c69a292933b88edde2bb2b706851a7ca]{
+-- Page 23, Offset 42808.
+-- 怒るときは怒るよ～？
+-- TRANSLATION HERE
+}
+[sha:923b040348c44560cee9cfda7f063eb1848b9668]{
+-- Page 24, Offset 42809. Mods: @n.
+-- でもほらぁ、怒鳴ってる時の
+-- TRANSLATION HERE
+}
+[sha:9d1b4c4169185bcd55ef6c04f8d8448b5b9698ca]{
+-- Page 24, Offset 42810.
+-- 必死な感じがたまんないっていうかぁ。
+-- TRANSLATION HERE
+}
+[sha:2f538e1904c78a677f7c7aa28c570982fa0d5a29]{
+-- Page 25, Offset 42811. Mods: @n.
+-- ほらみなさい。
+-- TRANSLATION HERE
+}
+[sha:4d44d76442fadea493b2d3ff5a2f785b9e2038d7]{
+-- Page 25, Offset 42812.
+-- 恋愛脳の自覚、ないんですか？
+-- TRANSLATION HERE
+}
+[sha:12636a86a56ffdd74dc0cdfee428d671b2e24a44]{
+-- Page 26, Offset 42813. Mods: @n.
+-- 同じヒロインでも、最後までクールに振る舞い、
+-- TRANSLATION HERE
+}
+[sha:1e465472807e23db091bdf2dd430268c60271fa2]{
+-- Page 26, Offset 42814.
+-- 仕事に生きるヒロインを見習ってほしいものです。
+-- TRANSLATION HERE
+}
+[sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
+-- Page 27, Offset 42815. Mods: @n.
+-- え。
+-- TRANSLATION HERE
+}
+[sha:6379f852f958e0989de1688ea9afea95bf5e2caf]{
+-- Page 27, Offset 42816.
+-- （どの面下げて、という抗議）
+-- TRANSLATION HERE
+}
+[sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
+-- Page 28, Offset 42817. Mods: @n.
+-- え。
+-- TRANSLATION HERE
+}
+[sha:9981b9a1ea4d1152d019208df8ce212e221f6331]{
+-- Page 28, Offset 42818.
+-- （なんでしょうその反応、という驚き）
+-- TRANSLATION HERE
+}
+[sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
+-- Page 29, Offset 42819. Mods: @n.
+-- え。
+-- TRANSLATION HERE
+}
+[sha:8881e6839fde8dae9f67bcdf08ab95b3908a9f79]{
+-- Page 29, Offset 42820.
+-- （本気で言っているのか、という恐れ）
+-- TRANSLATION HERE
+}

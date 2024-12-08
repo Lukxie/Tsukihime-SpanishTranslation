@@ -1,0 +1,420 @@
+[sha:9412f297da713760ab63a8a64d37a4a8f68e70de]{
+-- Page 10027, Offset 2477.
+-- 夕食を終えて自室に戻る。
+Después de la cena, vuelvo a mi habitación.
+}
+[sha:26ed2e516730c7edf6472ff9306247944d4e2ef9]{
+-- Page 10027, Offset 2478.
+-- 時刻は９時半を回っていた。
+Son las 9:30 PM.
+}
+[sha:3857a766b9a8492604d51ffd9d5eacc69fe4e1e8]{
+-- Page 10027, Offset 2479.
+-- たっぷり２時間、食堂で過ごした事になる。
+Me he pasado dos horas enteras en el comedor.
+}
+[sha:9a74e0ba2c27e2460184122bb52a922e06921a0c]{
+-- Page 521, Offset 2480.
+-- 「お帰りなさいませ、志貴さま。ご指示はありませんでしたが、就寝の支度をさせていただきました」
+"Bienvenido, Shiki-sama. Entiendo que ha sido sin su permiso,
+ pero me he tomado la molestia de preparar su cama."
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 522, Offset 2481.
+-- ……と。
+Sin embargo...
+}
+[sha:36b2b09b52cccd0a1e5e9b32750026a1ca5e5bae]{
+-- Page 522, Offset 2482.
+-- 部屋では翡翠が黙々とベッドメイクをしていた。
+Hisui estaba haciendo mi cama discrétamente.
+}
+[sha:611beafa33bb89e876cfba3e1cb580a81eb22f14]{
+-- Page 522, Offset 2483.
+-- 一足先に戻って準備をしてくれていたようだ。
+Parece que volvió un poco antes que yo para preparar las cosas.
+}
+[sha:a009e7ad0b585bd1dea82ebb0fe9a9617bea3011]{
+-- Page 523, Offset 2484.
+-- 「あ―――うん、ありがとう」
+"Ah――genial, gracias."
+}
+[sha:113fd5d0e85336362c96856e239c76391efa73f0]{
+-- Page 523, Offset 2485.
+-- 「寝間着はそちらのものをお使いください。
+"Respecto a su pijama, por favor use uno de esos.
+}
+[sha:07d95dfb5b98e2a7b9788195aaf6bc77fd8d7b72]{
+-- Page 523, Offset 2486.
+-- 着ていらしたお洋服はそちらの<籠|かご>にいれ、廊下に出しておいてくだされば助かります」
+Si pudiera poner la ropa en ese cesto y dejarlo en el pasillo, sería de mucha ayuda."
+}
+[sha:5672320191a7675e525e5ee721e609bf0680de72]{
+-- Page 524, Offset 2487.
+-- ベッドの足側には木で編まれた<籠|かご>が置かれていた。
+Hay un cesto de mimbre artesanal en el pie de la cama.
+}
+[sha:50f69330bc181e5901363fc9e21faac63ccdbbcb]{
+-- Page 524, Offset 2488.
+-- ここに着ていた服をいれて廊下に出しておけば、後は彼女が洗濯してくれるらしい。
+Parece que si pongo mi ropa sucia en ese cesto y lo dejo en el pasillo, ella se encargará de limpiar la ropa.
+}
+[sha:6ac013b4a9aecb4f9d5e6b0006e3f0bcdabc4ba3]{
+-- Page 524, Offset 2489.
+-- ……ますます高級ホテルじみてきたな。
+Esto cada vez se parece más a estar en un hotel de lujo...
+}
+[sha:cade11aaefbab2f4dd5c88394b36f50eb0cb5c5f]{
+-- Page 525, Offset 2490.
+-- 「何かご質問はございますか？」
+"¿Tienes alguna pregunta?"
+}
+[sha:d03e5e076eebbe12d9fca9c7f9430a63d223f7d6]{
+-- Page 525, Offset 2491.
+-- 翡翠は眉一つ動かさない。
+Hisui pregunta con una mirada inexpresiva.
+}
+[sha:f5d46252523e7afada617dea04bbef67bc81183f]{
+-- Page 525, Offset 2492.
+-- 質問は色々あるけど、翡翠と琥珀さんの事を自分はまったく知らない。
+Tengo muchas preguntas, pero no se nada de Hisui o Kohaku.
+}
+[sha:34b6deb3dfae9bbc78153bfaf5d55bbe1650927a]{
+-- Page 526, Offset 2493.
+-- 「あまり関係ない話なんだけど、いいかい？」
+"No es relevante, pero ¿puedo hacerte una pregunta?"
+}
+[sha:d5b5d8d5ebd38195c37bc4d77f34049fe926228e]{
+-- Page 526, Offset 2494.
+-- 「はい、なんでしょう」
+"Si, ¿qué quiere?
+}
+[sha:ae32b827e626e4ecbaba655b8800d6f329b2249c]{
+-- Page 526, Offset 2495.
+-- 「翡翠と琥珀さんがここでどんな仕事をしてるのか知りたいんだけど、どうかな」
+"Me gustaría saber sobre el tipo de trabajo que tu y Kohaku-san hacéis aquí, si no te importa."
+}
+[sha:a1202a8dc075e4f1f6e88f8269325cb1289a8bad]{
+-- Page 527, Offset 2496.
+-- 「わたしが志貴さま付きで、姉の琥珀は秋葉お嬢さまのお世話をさせていただいております。お二人が留守の間は屋敷の管理を任されていますが、それがなにか？」
+"Yo soy responsable de atenderle, mientras que mi hermana Kohaku atiende a Lady Akiha. Estamos a cargo de la mansión mientras estén fuera, ¿es sobre eso?"
+}
+[sha:bb3f2a66b35f506286ce01a5935954102dff6c30]{
+-- Page 527, Offset 2497.
+-- 「……お世話って、やっぱりそういうコトか」
+"¿Atender? Me temía que fuera ese el caso..."
+}
+[sha:0adf05cba13070a471b39b9435c020ec2c8cd813]{
+-- Page 528, Offset 2498.
+-- がっくりと肩が重くなる。
+Mis hombros se desploman de la decepción.
+}
+[sha:04790fee438102c93b63f86bb88966bd4ff8d632]{
+-- Page 528, Offset 2499.
+-- 秋葉は当然のように言っていたけど、こっちはあくまで普通の高校生だ。
+Akiha dijo que era normal, pero solo soy un estudiante de instituto.
+}
+[sha:a7794b5198cb808b676eab1506a17cf5a681118f]{
+-- Page 528, Offset 2500.
+-- 同い年ぐらいの女の子に世話をしてもらう趣味は、今のところありはしない。
+Tener a una chica de mi edad cuidándome es algo que normalmente nunca ocurriría.
+}
+[sha:72b6f1c1340e40c955ffc04a6dcc465fe51fe9ff]{
+-- Page 529, Offset 2501.
+-- 「……志貴さま付きって事は、俺専用の使用人ってこと？」
+"¿Eso significa que eres mi criada personal?"
+}
+[sha:e74f2d4ff47b53e1f6f368e17b94f8c50567c273]{
+-- Page 529, Offset 2502.
+-- 「はい。なんなりと申し付けてください」
+"Sí. Siempre estaré a tu servicio."
+}
+[sha:09da33223a586ac8eddbb4d29546da4707c8f41c]{
+-- Page 529, Offset 2503.
+-- 深々とお辞儀をする翡翠。
+Hisui hace una profunda reverencia.
+}
+[sha:f4187c7ea9db77382875c1419ccf2bb55f6262cb]{
+-- Page 529, Offset 2504.
+-- ちくりと刺すような胸の痛みは、俺の身勝手な罪悪感によるものだ。
+Siento un agudo dolor en el pecho, provocado por mis propios remordimientos egoístas.
+}
+[sha:12d97a2c06393af78e1bd7fa3c6af433ba84fa8a]{
+-- Page 530, Offset 2505.
+-- 「分かった。秋葉のあの言いぶりじゃ俺を一人にはしないだろうし、そもそも俺の気持ちの問題で君を解雇させるのは良くはないと思う。ありがたくお世話になるけど―――」
+"Muy bien. De la forma que lo pone Akiha, no me va dejar estar, no creo que hacer que te despidan para que me sienta cómodo sea algo bueno. Así que aceptaré tu ayuda pero―――"
+}
+[sha:c9827dcf2068b0f31465e3b0fd6019fa91c5f2a7]{
+-- Page 531, Offset 2506.
+-- 「何か、特別なご要望でもあるのですか？」
+"¿Tienes alguna petición en especial?"
+}
+[sha:4102369ec3768d368911060308cdc106f8b08f04]{
+-- Page 531, Offset 2507.
+-- 「そんな大それたコトじゃなくて……その、『志貴さま』っていうのはちょっと。
+"No es muy importante... pero em, 'Shiki-sama' es un poco demasiado para mí.
+}
+[sha:c73fde0db0ef8a7d9c71aec990c49bd5d8ca7d04]{
+-- Page 531, Offset 2508.
+-- 俺はそんな<柄|がら>じゃないし、正直に白状すると、分不相応すぎて首根っこを掴まれた気分になる」
+No soy esa clase de persona, y para serte honesto, está tan por encima de mí que es como si me hubieran agarrado del cogote."
+}
+[sha:68494a6793dc3a66fa3ddc32fb372a0070fe7ebe]{
+-- Page 532, Offset 2509.
+-- 「ですが、志貴さまはわたしの主人です」
+// Este speech maid master necesita revisión
+"Pero, tu eres mi dueño."
+}
+[sha:05d18f939a9f7a54d518fb37da49a24637c1b093]{
+-- Page 532, Offset 2510.
+-- 「そうは言うけど、俺は今日まで普通に生きてきた身なんだ。
+"Dices eso, pero hasta el día de hoy estaba viviendo una vida normal.
+}
+[sha:dd79d94f8d2da7905f64f8b5089ee8009c6dd51e]{
+-- Page 532, Offset 2511.
+-- 帰ってきただけなのに、同い年ぐらいの子に様づけで呼ばれる生活とか、ちょっと難しい」
+Volver aquí e inmediatamente ser llamado de '-sama' por una chica de mi edad... es un poco demasiado."
+}
+[sha:ce7afe12ce8b81f9031764a69af9eca08f3ac706]{
+-- Page 532, Offset 2512.
+-- はあ、と翡翠は気のない返事をする。
+Hisui encoge las cejas en respuesta.
+}
+[sha:c1e907c4ded194bf2361882dc081217eb211267b]{
+-- Page 533, Offset 2513.
+-- 「俺の事は遠野さんとか志貴さんでいいよ。堅苦しいのはナシにしたいんだ。
+"Puedes referirte a mi como Tohno-san o Shiki-san. No quiero que las cosas se sientan muy formales entre nosotros.
+}
+[sha:32dae5833ac05a058f8b3613c8a576a5f4aa26ad]{
+-- Page 533, Offset 2514.
+-- こっちも君を翡翠さんって呼ぶからさ」
+A cambio me referiré a ti como Hisui-san."
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 534, Offset 2515.
+-- 「………………」
+"........."
+}
+[sha:e4a6817e1cdc96f66dac810eeb4e4b74c4862d74]{
+-- Page 534, Offset 2516.
+-- 翡翠は無表情ながらも眉を下げて、唇を強く噛みしめる。
+Hisui encoge sus cejas inexpresiva y se muerde los labios fuertemente.
+}
+[sha:bde349578c058fcc61588a5a17e87d153dcae215]{
+-- Page 534, Offset 2517.
+-- ……まいったな。
+Que desastre...
+}
+[sha:c24a45cc7d940b602b1635087d1e5dda51a9ac82]{
+-- Page 534, Offset 2518.
+-- 楽にしてほしかったのに、逆に困らせてしまっている。
+Lo quería hacer más fácil para ella, pero no ha funcionado. Sólo he complicado las cosas.
+}
+[sha:aaa2e956f68f50963f33420bf8e88fbe5a9a35b1]{
+-- Page 535, Offset 2519.
+-- 「ですが、あなたはわたしの雇い主ですから」
+"Pero, tu eres mi patrón."
+}
+[sha:5f3aee4eaddfbc8a7345975b5154e9ad7ec3ad66]{
+-- Page 535, Offset 2520.
+-- 「俺が雇ってるわけじゃないだろ？」
+"No soy el que te ha contratado, ¿no?"
+}
+[sha:706f49d777e0b0c1069e0bad17c100e39a17a2d9]{
+-- Page 536, Offset 2521.
+-- 「……失礼ながら。それは同じ事です、志貴さま。
+"Con todo el respeto, es lo mismo, Shiki-sana.
+}
+[sha:ac0baea8bc76e5d4a42f478fc8a072a7b2b10743]{
+-- Page 536, Offset 2522.
+-- わたしどもは遠野家に仕えるもの。ご当主さまもご親族の方も、ともに尊ぶべき主である事に変わりはありません。
+Soy una criada de la familia Tohno.
+ Que sea el cabeza de familia o alguno de sus familiares,
+ no cambia el hecho de que os he de respetar a todos como mis dueños.
+}
+[sha:45b0624bc86ed67257f80679b7f492536d873407]{
+-- Page 536, Offset 2523.
+-- ですので、どうかわたしの事は翡翠とだけお呼びください。
+Por lo cuál, diríjase a mi únicamente como Hisui si es posible.
+}
+[sha:df0e8ee545ab2a0742d49e0b1f395cd70accab60]{
+-- Page 536, Offset 2524.
+-- お仕えする方に敬称で呼ばれる使用人の心境を察していただければ幸いです」
+Espero que puedas simpatizar con como se siente una criada cuando su dueño se dirige a ella con honoríficos."
+}
+[sha:49190cfbd1a714fe458c5753ad7a8d8103b3ed9b]{
+-- Page 537, Offset 2525.
+-- 「―――むむ」
+"―――%{i}Hm%{/i}."
+}
+[sha:9547d04304bb271725298b15f3eeddb4386997c7]{
+-- Page 537, Offset 2526.
+-- ……そう言われると反論できない。
+No puedo rebatírselo si lo dice así...
+}
+[sha:c3b1e6e7ef86d26900645b3b6b6bcd98487be5d3]{
+-- Page 537, Offset 2527.
+-- 彼女の発言は使用人として筋が通っている。
+Desde el punto de vista de una criada, lo que dice tiene todo el sentido.
+}
+[sha:6b77aa9ac74824629afcff555b44043372b09ac0]{
+-- Page 538, Offset 2528.
+-- 「……はあ。俺にできない事をやってくれるんだから、有り難がるのはこっちなんだけど……」
+"%{i}Suspiro%{/i}. Haces cosas no puedo hacer, soy yo el que debería estar agradecido..."
+}
+[sha:7b95cafee6ea334d84e4b45a781af7c3c1284ec1]{
+-- Page 538, Offset 2529.
+-- ここで意見を通しても翡翠を困らせるだけだ。
+// laismo? :(
+Insistiendo sólo la causaré más problemas.
+}
+[sha:cdea8d82bebfedab75423f6a40323ab3f71e35c9]{
+-- Page 538, Offset 2530.
+-- 今のところはできるだけ、こっちの意向を伝えるだけにとどめよう。
+Por ahora, expresaré mis intenciones lo mejor que pueda.
+}
+[sha:1d5943ea25e7cdf485269a1f82950d4d2e0dec61]{
+-- Page 539, Offset 2531.
+-- 「呼び方、翡翠でいいんだね？」
+"¿Te debería llamar Hisui entonces?"
+}
+[sha:d26379cf0b7387df3cef7f8316b6f75e7345025b]{
+-- Page 539, Offset 2532.
+-- 「はい。なんとしてもそのように」
+"Sí, sin importar lo que pase."
+}
+[sha:4f66b712429261ba12463dbd298df73df2237113]{
+-- Page 539, Offset 2533.
+-- 「…………はは」
+"%{i}Jaja%{/i}..."
+}
+[sha:2f6459d91f2c0b33bbb3c726f50c9ede2e93fc1e]{
+-- Page 539, Offset 2534.
+-- 『なんとしても』という言い方がちょっと食い気味の翡翠だった。
+Ha sido una respuesta de Hisui mas afilada de lo que esperaba.
+}
+[sha:e8ae9fde816d7c95911876aaf68a084ea6ba999b]{
+-- Page 540, Offset 2535.
+-- 「わかった。じゃあそのように。
+"Okay. Eso haré.
+}
+[sha:4bc32ccd720d87a9dea06e0de2e08d7cf5341a6e]{
+-- Page 540, Offset 2536.
+-- でも、俺に対してあんまり堅っ苦しいのはナシにしてほしい。お姉さんの琥珀さんにも、そう伝えてくれるとありがたい」
+Pero por favor no seas %{i}muy%{/i} formal conmigo. Apreciaría si se lo puedes hacer llegar también a tu hermana, Kohaku-san."
+}
+[sha:ebd3a60774d8fe5e7552d452d9878536b174df8f]{
+-- Page 540, Offset 2537.
+-- 「はい。志貴さまがそうおっしゃるのなら」
+"Sí. Si es lo que desea, así será."
+}
+[sha:09077ee73c30f4b30c1d4c73534f68b837d36f63]{
+-- Page 541, Offset 2538.
+-- 翡翠はしずしずと頭を下げる。
+Hisui hace una reverencia.
+}
+[sha:3b0b0c8ad7ac90b426abb71ef0fed483d263ef05]{
+-- Page 541, Offset 2539.
+-- ―――よし。フランクな会話ができるようになるまで、道のりは遠そうだ。
+―――Muy bien. Aún falta mucho para que podamos tener una conversación sincera.
+}
+[sha:d4b47e901f387506388a39c9004711471ee70211]{
+-- Page 542, Offset 2540.
+-- 翡翠は一礼して退室した。
+Hisui hace una reverencia y abandona la habitación.
+}
+[sha:3ff27e1ed5cbf17cda538f8fb3b9e8522814cd0d]{
+-- Page 542, Offset 2541.
+-- ひとりになった途端、疲れが一気に押し寄せてきた。
+Tan pronto como me quedo solo, me llega toda la fatiga a la vez.
+}
+[sha:8555716f64e03733701983a61e480653e86c1071]{
+-- Page 542, Offset 2542.
+-- ……今日は朝から色々ありすぎた。
+Mucho ha pasado desde esta mañana...
+}
+[sha:c0c87ade44e39f4b79f3993f8a8dfa6f729df640]{
+-- Page 542, Offset 2543.
+-- いいかげん、体が眠りを欲している。
+Mi cuerpo necesita desesperadamente descansar.
+}
+[sha:9d3727f75f037ce97c00ba62bd1088ec9d922d2e]{
+-- Page 543, Offset 2544.
+-- 電灯を消してベッドに横になる。
+Apago las luces y me tumbo en la cama.
+}
+[sha:753b96848e360cdf8df560e63275e6b0bbdfc5d5]{
+-- Page 543, Offset 2545.
+-- 麻薬じみた眠りへの欲求。
+Mi deseo de dormir es tan fuerte que prácticamente es como si fuera una droga.
+}
+[sha:dd942262f58bb09ee6848934fb0edc0955855ce6]{
+-- Page 543, Offset 2546.
+-- 疲れ切った肉体が手足から活力を奪い、眠りに落ちる事を強要する。
+Mi cuerpo exhausto drena la fuerza de mis extremidades, forzando a quedarme dormido.
+}
+[sha:5ff2230291e6e8dfbc0ccde1adb7034bcc3a05de]{
+-- Page 544, Offset 2547.
+-- その誘惑に逆らって目蓋だけは閉じずにいるが、それも無駄な抵抗だ。
+Dejo los ojos abiertos resistiendo al tentación, pero es inútil.
+}
+[sha:4bb34e430ccc8530603b0ab5cc1d5829ab7a7e4a]{
+-- Page 544, Offset 2548.
+-- どんなに眠りたくなくても、いずれ眠りに落ちていく。
+Sin importar lo mucho que quiera estar despierto, me dormiré eventualmente.
+}
+[sha:af04db3f7e3e2c734c2acb448ad00f1f04bed025]{
+-- Page 544, Offset 2549.
+-- 人間の体はそういう風に出来ている。
+Así es como funciona el cuerpo humano.
+}
+[sha:a0142d24697c60f0c1a0dd5d054c5b32d9fea00b]{
+-- Page 545, Offset 2550.
+-- ……そんな、覚醒と睡眠の狭間にいながら、ぼんやりと天井を眺める。
+Atrapado en el limbo entre el insomnio y el sueño, miro distraídamente al techo.
+}
+[sha:dafb7c17ef1be8c6fc03575efaa321363371ed45]{
+-- Page 546, Offset 2551.
+-- ……七年ぶりの家。
+Han pasado siete años desde que estuve en casa.
+}
+[sha:a5cfe80bb76f7eedcbd0bc8ffaad9600318456a1]{
+-- Page 546, Offset 2552.
+-- ……七年ぶりの肉親。
+Siete años desde que ví a mi familia por última vez.
+}
+[sha:e223ffb7dcc677b40dbae18a7e20c64f32dc6095]{
+-- Page 546, Offset 2553.
+-- ……なんだか、他人の家のように感じる自分。
+Pero de alguna forma... se siente como si estuviera en la casa de un desconocido.
+}
+[sha:273db8d7be34707c4ebec99617ac9d13d3215a27]{
+-- Page 546, Offset 2554.
+-- 「―――でも、帰ってきたんだろ、おまえは」
+"Pero... has vuelto a casa, ¿no?"
+}
+[sha:24f0ff328514dfe7577659cd31d3e6f370b3ecf6]{
+-- Page 546, Offset 2555.
+-- ……独白は、その事実を受け入れるための。
+Hablo conmigo mismo, quizá para aceptar el hecho.
+}
+[sha:65f872fdd13c4abbd95678c7fa46a2375279f324]{
+-- Page 547, Offset 2556.
+-- ……意識は後戻りのできない深みに沈んでいく。
+Mi conciencia se sumerge en las profundidades de las que no hay vuelta atrás.
+}
+[sha:4fd2359223ea61e2b3278761d709a9252e7c8a2f]{
+-- Page 547, Offset 2557.
+-- ……街の喧騒も届かない高台の屋敷。
+Una mansión en una colina donde el bullicio de la ciudad no llega.
+}
+[sha:c38cc780d22b3a5c3952119b8c6fa94976e205a6]{
+-- Page 547, Offset 2558.
+-- ……高い木々に囲まれた陸の孤島。
+Una isla asilada rodeada de árboles altos.
+}
+[sha:4973cd468f498b36924e0b9a988c75e9d115e300]{
+-- Page 547, Offset 2559.
+-- ……目蓋を閉じきる刹那、まるで監獄のようだと、今さらながらに思い至った。
+En el momento que cierro los ojos, me doy cuenta finalmente que es como si estuviera en una prisión.
+}

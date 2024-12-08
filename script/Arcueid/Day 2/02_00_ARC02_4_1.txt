@@ -1,0 +1,273 @@
+[sha:8216f5a46ef906a02ab6385741419901a30a9b48]{
+-- Page 10015, Offset 3197.
+-- ……今日はさっそく秋葉を怒らせてしまった。
+Solo ha pasado un día, y ya he ofendido a Akiha...
+}
+[sha:ea9738d1bcc0c4e8177be8e4c1d0461fdf473a57]{
+-- Page 10015, Offset 3198.
+-- その埋め合わせではないが、軽い雑談で互いの距離感……というか、ものすごく感じるトゲトゲしい壁……を少しでも緩和させたかった。
+No es como si me fuera a redimir por mis actos,
+ pero quiero tener una conversación casual y ser un poco más cercano a ella.
+ O al menos, quiero intentar romper algunas de las barreras dolorosamente espinosas que hay entre nosotros.
+}
+[sha:bb1489910a66c814235d38f17042e5bd835a099d]{
+-- Page 225, Offset 3199.
+-- といっても時間が時間だ。
+Dicho eso, el momento lo es todo.
+}
+[sha:183b97526e56fd5be021cfa2203249f7a6c513d9]{
+-- Page 225, Offset 3200.
+-- 妹とはいえ、約束なしで女性の部屋を訪ねるのはよろしくない。
+No sería apropiado visitar la habitación de una chica de la nada, aunque sea tu hermana.
+}
+[sha:801ef7d2d9a19d3354703d7171368abd05fb7e17]{
+-- Page 226, Offset 3201.
+-- 「そもそもアイツの部屋、どこだよって話だしな……。
+"Para empezar no estoy seguro ni de donde está su habitación...
+}
+[sha:56e0827c5c751d893321b90f2117e832b6369a2f]{
+-- Page 226, Offset 3202.
+-- 東館の奥の方かな……」
+¿Quizá al final del ala este...?"
+}
+[sha:03da563564c1c25ee516808fd3ab41242f6e5ed8]{
+-- Page 227, Offset 3203.
+-- 今度、翡翠か琥珀さんに尋ねておこう。
+Tendré que preguntarle a Hisui o a Kohaku-san la próxima vez que las vea.
+}
+[sha:d6ac336d1ccf1f63157a4cfc713c3e6061c19c9a]{
+-- Page 227, Offset 3204.
+-- 今は……そうだな、居間に行ってみよう。
+Por ahora... cierto, me pasaré por la sala de estar.
+}
+[sha:9e5ea99142bf6838190271d10fc441ae987c046a]{
+-- Page 227, Offset 3205.
+-- 食後は居間で寛いでいるというし、まだ秋葉がいるかもしれない。
+A Akiha supuestamente le gusta relajarse allí tras la cena, así que quizá pueda pillarla.
+}
+[sha:552fcdd6989ffc89bbb50ac684348a9c7ae87bcb]{
+-- Page 228, Offset 3206.
+-- 「おや。一日ぶりだね志貴君。一晩たって、遠野に戻ってきた実感は出てきたかい？」
+"Oh. No puedo creer que haya pasado un día entero desde que nos vimos, Shiki-kun.
+ Ahora que has pasado la noche aquí, ¿está empezando a calar que estás de vuelta en la mansión Tohno?"
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 228, Offset 3207.
+-- 「――――――」
+"――――――"
+}
+[sha:a836599eb7063a90e08e7315b3293a315b0b7371]{
+-- Page 228, Offset 3208.
+-- 驚きで声をあげそうな自分を抑える。
+Reprimo la necesidad de gritar de la sorpresa.
+}
+[sha:ab5c89cea3082b39043466c13fd74b4bd60ae408]{
+-- Page 228, Offset 3209.
+-- 居間にはあの男……昨日出会った包帯の怪人、斎木業人の姿があった。
+Saiki Gouto―― el desalmado envuelto en vendas que conocí ayer――está en la sala de estar.
+}
+[sha:095c1932d694f5f43c21316fff373ff838d1ed47]{
+-- Page 229, Offset 3210.
+-- 「……こんばんは。斎木業人さん、でしたよね」
+"Buenas noches. Saiki Gouto-san, ¿verdad?"
+}
+[sha:e05d14c59e1a3ed5ae459faa3a52c146e62cc374]{
+-- Page 230, Offset 3211.
+-- 「斎木だけでいい。名前というものは、認めるに値する人間にしか口にされたくないものだからね」
+"Saiki solo basta.
+ Mi nombre completo es algo que prefiero escuchar solamente de aquellos que estimo dignos de ello."
+}
+[sha:e54d0269c037b968587d3d6853e135675704d2c6]{
+-- Page 230, Offset 3212.
+-- 嘲笑のまじった笑みを浮かべて、斎木業人はそんな事を言った。
+Me responde con una sonrisa burlona haciendo el tonto con sus labios.
+}
+[sha:3101a972100c8d35db942ebd69bb79f8c9a6dd17]{
+-- Page 231, Offset 3213.
+-- 「……少し驚きました。こんな時間に来訪ですか？」
+"Estoy un poco sorprendida... ¿Una visita a esta hora?"
+}
+[sha:e998e6f9e613636aa933d1538a3f3e2fcd2705cc]{
+-- Page 231, Offset 3214.
+-- 皮肉には反応せず、一般論で返す。
+Sin morder el anzuelo, respondo de manera típica.
+}
+[sha:789fb0fd6dd42a405ab1ce0b536bef1676c83c54]{
+-- Page 231, Offset 3215.
+-- 俺はまだこの人物の事を何も知らない。まず人となりを知って、どう対応するか考えるべきだ。
+Aún no se lo más mínimo de él.
+ Tengo que intentar averiguar el tipo de persona que es para saber como llevarme con el.
+}
+[sha:b12c20e4b2fd1cf0c6ec7a4d5c029740017389c2]{
+-- Page 232, Offset 3216.
+-- 「こんな時間？　ああ、消灯前だったか。
+"¿A esta hora? Ah, es casi la hora de apagar las luces, ¿no es así?
+}
+[sha:892716b224e9e603fd572ff7a65e2b18a51f0862]{
+-- Page 232, Offset 3217.
+-- 槙久氏が残した悪い伝統の一つだな。零時を迎える前に屋敷の灯を落とし、住人に眠りを強要する。
+Apagar todas las luces de la mansión antes de que el reloj indique medianoche, y forzar a los residentes a dormir...
+ Una de las malas costumbres que el señor Makihisa dejó.
+}
+[sha:54037b63271b7b7d1d71ae12dfe37b999d12d82f]{
+-- Page 232, Offset 3218.
+-- 彼は夜を嫌悪していた。いや、正確には夜に起きることを、か。
+El odiaba la noche.
+ O, más bien precisamente, odiaba las cosas que ocurrían de noche.
+}
+[sha:43ad4ea32bca62f3853fad2aa1dd9922f5d2ddd5]{
+-- Page 232, Offset 3219.
+-- ここは洋館としての造りも、土地が持つ歴史も素晴らしいものだが、この決まりだけはいただけない。
+La construcción de esta mansión es maravillosa,
+ como la historia de la tierra en la que reside,
+ pero encuentro esa regla objetable.
+}
+[sha:1d995e05b963222c840ca41677ad10fb8df7e60a]{
+-- Page 232, Offset 3220.
+-- 遠野家の当主が、夜から目を背けるなぞ」
+Es absurdo que el cabeza de la familia Tohno le de la espalda a la noche."
+}
+[sha:e85007979f36ec80e5db97e869ec12cb27bf866b]{
+-- Page 233, Offset 3221.
+-- 「……それが何か。夜通し騒ぐよりは遙かにマシな規則ですけど」
+"¿Qué tiene de malo? Es mucho mejor que hacer ruido toda la noche."
+}
+[sha:c2ef9ab993db762fa729fe96b42cc43e864a6214]{
+-- Page 233, Offset 3222.
+-- 自分も消灯時間の早さには文句があったが、つい言い返してしまった。
+Tengo mis propios problemas con cuan pronto se van las luces,
+ pero no pude evitar replicarle.
+}
+[sha:aa43fc5d4c1c4ecaf15554a7ae0c425fce663070]{
+-- Page 233, Offset 3223.
+-- 槙久を侮辱される。それは、当主を引き継いだ秋葉を侮辱されている気がしたからだ。
+Su insulto estaba dirigido a Makihisa, pero a mi,
+ me parece más que estaba instultando a Akiha, la nueva cabeza de la familia Tohno.
+}
+[sha:47deb4764c81d86612712ba1c0a0f667d0d37bda]{
+-- Page 234, Offset 3224.
+-- 「癇に障ったかね？　結構。少しは立場を弁えているようだ。
+"¿Te he ofendido? Espléndido.
+ Parece que empiezas a entender tu rol.
+}
+[sha:44943248dff90a6851d9b19fb6e8b72d87e3aa17]{
+-- Page 234, Offset 3225.
+-- 勘当された身であっても、父親の名誉を守る。槙久氏はいい息子を持ったな」
+Aunque te desheredasen, aún tienes que defender el honor de tu padre. Parece ser que Makihisa tiene un buen hijo."
+}
+[sha:4ddf685022c95721405ca108b690427f887558df]{
+-- Page 234, Offset 3226.
+-- 「こんな時間に来訪するのは非常識では、と訊いているんですが」
+"Por cierto, te estoy preguntando que haces aquí a estas horas tan absurdas."
+}
+[sha:cace9400f00090a71bc1bf7dc76eedae5a4a0b6e]{
+-- Page 234, Offset 3227.
+-- 「非常識ではないよ。遅めの仕事を終えて自分の家に帰ってくる……これは、ごく自然な日常では？」
+"No es para nada absurdo.
+ He vuelto a mi propia casa tras un largo día de trabajo...
+ ¿Hay algo más normal que eso?"
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 235, Offset 3228.
+-- 「――――――」
+"――――――"
+}
+[sha:5d13de93bba478a88e594e4a2810aa72a98408ae]{
+-- Page 235, Offset 3229.
+-- 今度こそ面食らった。
+Ahora estoy confuso.
+}
+[sha:d7a00de9b95bb934960c175e3762f19c06f83dfb]{
+-- Page 235, Offset 3230.
+-- 自分の家に帰ってくる……この屋敷を自分の家だと言ったのか、この男は？
+'Vuelvo a mi propia casa'... ¿está diciendo que vive aquí?
+}
+[sha:92cd294295c1ff2f9cd012313b944bf1204c7c24]{
+-- Page 235, Offset 3231.
+-- しかし、昨日は確かに遠野家の親戚ではないと―――
+Pero ayer, definitivamente dijo que no era parte de la familia Tohno―――
+}
+[sha:8bafc352cc4eb4ffda33f92fbb73f1e179ab1bf1]{
+-- Page 236, Offset 3232.
+-- 「失礼。少々、気の早い返答だった。
+"Lo siento. Esa fue una respuesta un poco precipitada.
+}
+[sha:15c0a283319346fe0f39ba47d4eff32e7bd8650f]{
+-- Page 236, Offset 3233.
+-- 私はよそ者だ。宿泊用に部屋を与えられているが、立場的には賓客だ。今はまだ、ね」
+Soy un forastero. Me han dado una habitación en la que quedarme, pero no soy más que un invitado. Por ahora, de todos modos."
+}
+[sha:0a9d2eab711eba6bb215b047370f6bc015626a7b]{
+-- Page 236, Offset 3234.
+-- くぐもった笑い声をあげながら、斎木業人はソファーから離れた。
+Con una risa, Saiki Gouto se levanta del sofá.
+}
+[sha:e4dc1bd94d5ece36c8416553d77943da9b5b0b79]{
+-- Page 236, Offset 3235.
+-- ……居間を後にするつもりのようだ。
+Parece que planea dejar la sala de estar.
+}
+[sha:321d9486581112b884f889c3305f6c549d1de834]{
+-- Page 237, Offset 3236.
+-- 「今夜は部屋に資料を取りに来ただけだよ、志貴君。
+"Solo estoy aquí para recolectar algunos materiales para mi habitación, Shiki-kun.
+}
+[sha:70d369db8b35ab319ff8ef4a3ac2ef5f37a6f856]{
+-- Page 237, Offset 3237.
+-- 仕事を終えて、というのは嘘でね。総耶の都市開発はこれからだ。まだ片付けなくてはいけない案件が山ほどある。今夜は寝ずの番、というヤツさ」
+// Esta frase es complicada la verdad seguramente esté mal.
+He mentido cuando dije que había terminado mi trabajo.
+ El desarrollo urbanístico de Souya es solo el principio.
+ Quedan otros asuntos que aún requieren mi atención.
+ Se podría decir que estaré quemando esta noche estaré quemando el combustible nocturno."
+}
+[sha:33faee254d8c1f2000338eaa8a499b690ae3c62f]{
+-- Page 238, Offset 3238.
+-- 「私が槙久氏を批難したのはこういうコトだ。
+"Es por lo que estaba criticando a Makihisa.
+}
+[sha:5119e6f4ca234ddecacc324dee2df3a5c7ccc151]{
+-- Page 238, Offset 3239.
+-- 現代のビジネスに昼も夜もない。夜になれば朝を待つだけなんて身の毛もよだつ方針だ。いつまでも前時代の気分で会社を回されては、これを引き継ぐ者が迷惑する」
+No hay día o noche en las empresas modernas.
+ Me estremezco de pensar en esta política de esperar a la mañana cuando cae la noche.
+ Si sigues llevando una compañía a la antigua,
+ solo le causarás dolores de cabeza a los que te sucedan."
+}
+[sha:6c0c694fc2ead21c1fee430dbbda1e1d20ea16cc]{
+-- Page 239, Offset 3240.
+-- 斎木業人が廊下に出たあと。
+Saiki Gouto deja la sala de estar.
+}
+[sha:72644509ae187bca54ada1758fa7cdf71e036076]{
+-- Page 239, Offset 3241.
+-- ほどなくしてロビーから琥珀さんの声が聞こえてきた。客人を玄関まで見送るためだろう。
+Poco después, escucho la voz de Kohaku-san viniendo del vestíbulo. Seguramente esté acompañando al invitado a la puerta.
+}
+[sha:2a27b50e06c0783c91078f220830dd0e8f4f5414]{
+-- Page 239, Offset 3242.
+-- 会社を引き継ぐ……斎木業人と<槙久|オヤジ>の関係は不明だが、あの口ぶりでは良好な関係ではなかったようだ。
+Encargarse de la compañía...
+ No estoy seguro de la relación que Saiki Gouto tenía con mi padre, 
+ pero juzgando por como hablaba, dudo que fuera especialmente amigable.
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 240, Offset 3243.
+-- 「………………」
+"........."
+}
+[sha:7d2c270c46cc73503dd09b799c89b70c34fc446e]{
+-- Page 240, Offset 3244.
+-- 何とも言えないイヤな気持ちになってしまった。
+Siento una inexplicable sensación de ansiedad.
+}
+[sha:e3f091fc1cd14d7ecaa8ed978f1ea1fff86f4699]{
+-- Page 240, Offset 3245.
+-- 秋葉との雑談はまたの機会にしよう。
+Dejaré la charla con Akiha para otro momento.
+}
+[sha:ed9c7072b32e7e78b513d7cb35244ab5b9c8bafc]{
+-- Page 240, Offset 3246.
+-- 今夜はおとなしく、部屋に戻って休むことにした。
+Decido volver a mi habitación y descansar tranquilamente esta noche.
+}

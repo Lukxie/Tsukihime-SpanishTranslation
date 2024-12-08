@@ -1,0 +1,163 @@
+[sha:5cf0303c43df8785d3f9bee2135ebc97a04c2df6]{
+-- Page 10003, Offset 2895.
+-- 教室に有彦の姿は無かった。昨日は本当に気の迷いで登校してきたらしい。
+No hay rastro de Arihiko en clase. Parece que ayer realmente vino pronto por capricho.
+}
+[sha:811866adb7b263762d45a7c9137eb139042f6ffe]{
+-- Page 10003, Offset 2896.
+-- 馴染みのあるクラスメイトに挨拶をしながら机に向かう。
+Me dirijo a mi mesa, saludando por el camino a los compañeros que son mis amigos.
+}
+[sha:6ab5dc47c856ba7b59cff36cfd9b37f65f666bbf]{
+-- Page 114, Offset 2897.
+-- ＨＲまでの数分間、椅子に座って携帯端末をチェックする。
+Uso el par de minutos que quedan antes de la tutoría para sentarme en la silla y revisar mi móvil.
+}
+[sha:b78f105bf38252e25a7307b2a2831a396634bb53]{
+-- Page 114, Offset 2898.
+-- 公共による今朝の<報道|ニュース>。若い先生がたが率先して作った学校用の掲示板と、有志によって作られた生徒専用の匿名掲示板。
+Leo las noticias de esta mañana,
+ leo por encima el boletín escolar, creado por un grupo de jóvenes profesores,
+ y el anónimo boletín estudiantil, creado por un grupo de voluntarios.
+}
+[sha:73ad7facad987db830f93f4a3199afdaa9f9f3d4]{
+-- Page 114, Offset 2899.
+-- これといって目に付くスレッドはない。
+No hay ningún hilo que me llame la atención.
+}
+[sha:3c71a3548cee8ba715329ec66417935d7a466217]{
+-- Page 114, Offset 2900.
+-- ふと視線をあげると、教室にいる生徒の大半は俺と同じように時間を使っている。
+Levanto la mirada ociosamente y veo que la mayoría de estudiantes en clase pasan el tiempo de la misma forma.
+}
+[sha:568e1e802db60afcae8513ed434516e3a6f6c54c]{
+-- Page 115, Offset 2901.
+-- 三十を過ぎた教師に言わせると今の学生は“リアルに友人がいない”ように見えるらしい。
+Los profesores mayores de treinta dice que los estudiantes de hoy en día parecen no tener amigos en la vida real.
+}
+[sha:31cc2445364b483492a740fc655026181fb33231]{
+-- Page 115, Offset 2902.
+-- もちろんそれは前時代らしい誤解だし、前時代だけの誤認だ。
+Por supuesto, es una idea errónea anticuada; una que es única a personas de la generación anterior.
+}
+[sha:92def91672aadce8bc9c4f2413344488726c3bca]{
+-- Page 115, Offset 2903.
+-- ネットへの依存と目の前にいる友人への依存が等価になっただけで、うちのクラスは誰も仲違いはしていない。
+Es solo que la dependencia en internet y la dependencia en los amigos que tienes en frente se ha vuelto equivalente.
+ No es que la gente de nuestra clase no se lleve bien.
+}
+[sha:4dd05e4fdafcda705136ab8041f4ad9b19e51c88]{
+-- Page 116, Offset 2904.
+-- かつての学校は教室の中にしか友人を作れなかった。外との繋がりが希薄だったのだ。
+La escuela solía ser un sitio en donde solo podías hacer amigos dentro de clase. Había poca conexión con el mundo exterior.
+}
+[sha:4bee25fa3e758b1052d7dd7b381aa7194bbb5461]{
+-- Page 116, Offset 2905.
+-- 今は違う。自分に合う友人はいくらでも見つける事ができる。教室の空気はアットホームである必要はない。不快でなければいいだけになった。
+Ahora es distinto. Puedes hacer tantos amigos como quieras. El ambiente en clase no tiene que ser hogareño. Mientras no sea desagradable, está bien.
+}
+[sha:88bb35878dab8fc7736ed92cdc3a6db9898ea5db]{
+-- Page 117, Offset 2906.
+-- 高度に発達したネットのおかげで、俺たちは年齢による知識量の差が希薄になった。
+Gracias a lo sofisticado que se ha vuelto internet, la brecha de conocimiento entre generaciones se ha hecho más pequeña.
+}
+[sha:86febd0eba3130afe40aa8fa9d4f4ba0d0beaeec]{
+-- Page 117, Offset 2907.
+-- 確固として積み上げた物量の差はあるものの、生活していく上ではイーブンになったように見えてしまう。
+Aunque algunas personas han acumulado mas bienes materiales que otras,
+ parece que nos hemos nivelado en términos de estilo de vida.
+}
+[sha:5bb0e0fcbd88c331effae5fa14f52a1c92aa39fd]{
+-- Page 118, Offset 2908.
+-- 熱さがない、夢がない、希望がない、と大人たちは言うけれど、それも仕方のない事だ。
+Los adultos dicen que nos falta entusiasmo, sueños, y esperanza, pero es lo que hay.
+}
+[sha:4a66c7113921f7c633bcb2bf2d207f930e9c9b80]{
+-- Page 118, Offset 2909.
+-- 今や世界は狭い。小学生ですらこの社会がどれほど行き詰まっているか知っている。
+Hoy en día el mundo es mucho más pequeño.
+ Incluso los estudiantes de primaria saben lo cercana que se ha vuelto nuestra sociedad.
+}
+[sha:e58c10d2867afa87be8240d491c4e952d54de782]{
+-- Page 118, Offset 2910.
+-- だからおいそれと未来を夢見る事が、世界を自分のフィルタ越しに受け入れる事が、難しくなっている。
+Eso es por lo que cada vez es más y más difícil soñar con el futuro, a aceptar el mundo a través de un filtro propio.
+}
+[sha:945c90eaf6f39851612a94100379f15b58113748]{
+-- Page 119, Offset 2911.
+-- 知識を共有するとはそういう事だ。
+Eso es de lo que va compartir conocimiento.
+}
+[sha:1facc9f5d81a54d8ce35c266751fc609487497ae]{
+-- Page 119, Offset 2912.
+-- 知識の蔵書が広がればひろがるほど、それを閲覧する個人の人生が狭く、小さくなっていくだけ。
+Cuanto más se expande la librería de conocimiento, más y más pequeñas se volverán las vidas de los individuos que buscan en ella.
+}
+[sha:4dd159e05547d8f071da34eea15f0547678b59f6]{
+-- Page 120, Offset 2913.
+-- かつて人間は未知を埋めるために彼方を目指した。
+En el pasado, los humanos miraban al horizonte para rellenar lo desconocido.
+}
+[sha:b4095b3982dabf221d922446aad9c8c8b9eb7dd9]{
+-- Page 120, Offset 2914.
+-- 今はその必要はない。どこにも行く必要がない。
+Ahora no hay necesidad de hacerlo. No hay que ir a ningún lado.
+}
+[sha:0606f67119fff64c239d3899f15c05da3d566f1e]{
+-- Page 120, Offset 2915.
+-- 人々はかぎりなく自由だが、それと同じぐらい、狭い箱から出て行く理由を失っている。
+Las personas son tan libres como pueden ser, pero tampoco tienen razones para salir de su zona de confort.
+}
+[sha:b016e5cc366611a141a2306096263f76352b07f3]{
+-- Page 120, Offset 2916.
+-- 教室や学校、街にあるうつろな閉塞感はそういう事だと思う。
+// Suena raro
+Creo que eso es la sensación de estar atrapado en clases, escuelas, y ciudades.
+}
+[sha:eaca45c895a4d623a74ee542afaafe414a1a02ad]{
+-- Page 121, Offset 2917.
+-- などと。偉そうに分析してみたものの、こんなものは自分の所感にすぎない。
+Pero ey,
+ sin importar cuanto parlotee sobre mi pretencioso análisis,
+ al final solo son mis propios pensamientos.
+}
+[sha:24573582b620abd093c69859bdfcfa7916e9b608]{
+-- Page 121, Offset 2918.
+-- 閉塞感というものを遠野志貴は感じていない。
+No siento que esté atrapado.
+}
+[sha:b540c2789c2dd52c5c147e721858106c4c64e5cc]{
+-- Page 121, Offset 2919.
+-- 行き詰まりも倦怠感も、社会への不満もまるでない。
+Ni tampoco siento que soy cercano, esté fatigado, o insatisfecho con la sociedad. Para nada.
+}
+[sha:389f494efc9efe268107ab6b7805e763c2f43b05]{
+-- Page 122, Offset 2920.
+-- 俺にあるものは、ただ、できるだけ毎日を楽しみたいという当たり前の願望だけだ。
+Todo lo que tengo es el deseo natural de disfrutar todos y cada uno de los días tanto como sea posible.
+}
+[sha:e9021939dd41f728b0188e4ee3044621536d805d]{
+-- Page 122, Offset 2921.
+-- そんな単純な人間が複雑化した社会を語るなんて、それこそ誤解誤認というべきか。
+Sería un error que una persona tan simple hablase de lo complicado de la sociedad.
+}
+[sha:5b56e03f750120c31cf689d407517eab0db2bedf]{
+-- Page 123, Offset 2922.
+-- 物思いをしているうちにＨＲの鐘が鳴った。
+Suena la campana de la tutoría, interrumpiendo mi contemplación.
+}
+[sha:e2560804b8d1973e957f9fbc17390342bee8abaf]{
+-- Page 123, Offset 2923.
+-- 思い思いの席で雑談していた生徒たちが自分の席に戻っていく。
+Los estudiantes que estaban paseando y hablando vuelven a sus sitios.
+}
+[sha:64539306c71ae897fcf6f575960be9a432e3be7c]{
+-- Page 123, Offset 2924.
+-- 携帯端末を仕舞って気持ちを切り替える。
+Guardo mi móvil y me concentro.
+}
+[sha:724ac7b755c1eb812b122bac4a981b113a75ac7f]{
+-- Page 123, Offset 2925.
+-- さあ、遠野家に戻ってから二日目、学校の始まりだ。
+Es el segundo día desde que volví a la mansión Tohno, y las clases estan a punto de comenzar.
+}

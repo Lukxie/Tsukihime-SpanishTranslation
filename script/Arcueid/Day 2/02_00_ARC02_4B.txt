@@ -1,0 +1,386 @@
+[sha:c9761602f167204f9ce8a8b3848842caa42eae76]{
+-- Page 10014, Offset 3127.
+-- 「た、ただいまー……」
+"E-Estoy en casa..."
+}
+[sha:8afc8aaba5c69e33dfeb1f8c77842d5881399e76]{
+-- Page 10014, Offset 3128.
+-- 玄関の扉をできるだけ静かに開閉し、控えめにロビーに入りながら、大きすぎず小さすぎずの声で帰宅を報せる。
+Abro y cierro la puerta de la entrada tan silenciosamente posible como puedo y entro al vestíbulo, anunciando mi vuelta en una voz que no es ni muy alta ni muy baja.
+}
+[sha:36baff2ff91c6b908aa351ab605294a20a978bfd]{
+-- Page 200, Offset 3129.
+-- 時刻は午後８時、１分前。
+Son las ocho en punto... o lo eran hace un minuto.
+}
+[sha:7e0da10f8520a1a348b40b799ab8e6655afdc7a5]{
+-- Page 200, Offset 3130.
+-- 駅前から全力で走ってきてギリギリ間に合ったが、正直、吐きそうなほど辛い。あの坂道が心臓破りすぎる。
+Corrí tan rápido como pude desde la estación y llegué meramente a tiempo,
+ pero honestamente, ha sido tan duro que creo que voy a vomitar.
+ Esa cuesta es demasiado para mi corazón.
+}
+[sha:f09f5941ea93c825c1b6f4ba3c4b6262314523b0]{
+-- Page 200, Offset 3131.
+-- 登校する時は下りだからいいものの、屋敷に向かう時は上りになる事を失念していた。
+Estaba bien cuando iba hacia la escuela porque era cuestabajo, pero me olvidé que sería cuestarriba a la vuelta.
+}
+[sha:1e3661423c06c42e19fd9cf64f1cb5d2ff4705a4]{
+-- Page 201, Offset 3132.
+-- 「お帰りなさいませ志貴さま。
+"Bienvenido a casa, Shiki-sama.
+}
+[sha:ba5bf8efa25c7e6a149e2494f04bb098814f1095]{
+-- Page 201, Offset 3133.
+-- お疲れとは存じますが、お部屋に戻る前に執務室においでください。―――秋葉さまから、お話があるとの事です」
+Sé que está cansado, pero antes de volver a su habitación, por favor pasese por la oficina.%{n}
+ Akiha-sama querría intercambiar unas palabras con usted."
+}
+[sha:b561532a34303758eee67be7aaee1296cdd9c73a]{
+-- Page 202, Offset 3134.
+-- 「う、ぐっ……し、執務室、ですか」
+"%{i}Ugh%{/i}... quiere, ¿verdad?"
+}
+[sha:aba577e04a0fd5e502f0cf4ff02e0fa986caf493]{
+-- Page 202, Offset 3135.
+-- わざわざ執務室に呼びつけるあたり、秋葉の不機嫌さは推してしるべしだった。
+Si Akiha se esta tomando la molestia de llamarme a su oficina,
+ no es difícil adivinar que se encuentra de muy mal humor.
+}
+[sha:7c2ef15e507c364593a17af5a16534a5467089f8]{
+-- Page 203, Offset 3136.
+-- 「寄り道をするのは金銭に余裕があるからでしょう。
+"Me imagino que has tomado un desvío porque tenías dinero de sobra.
+}
+[sha:cc740f77e96265583c230a605678df3d7eacfaeb]{
+-- Page 203, Offset 3137.
+-- 今回の罰として、兄さんの月々の交遊費を二割ほど減らす事にします」
+Como castigo, reduciré tu paga mensual un veinte por ciento."
+}
+[sha:a23b6afd82e0c331eee27af27e37fb9350f0a1a6]{
+-- Page 204, Offset 3138.
+-- そしてこの仕打ちである。
+Y ahí lo tienes.
+}
+[sha:82ec6522957894248a7993257170788921066bf9]{
+-- Page 204, Offset 3139.
+-- 執務室に入るなり、釈明の余地なく決定事項を告げられた。
+Mi sentencia fue firmada en el momento que entré a la oficina.
+ Ni siquiera tuve oportunidad de defender mi caso.
+}
+[sha:6229eb6acc6d03a5306726a0412e09fc8562b0fb]{
+-- Page 204, Offset 3140.
+-- というか、そうか……これから俺の月々のお小遣いは秋葉から貰うことになるのか……そしていきなり減額か……。
+Espera. No había pensado en ello...
+ Supongo que a partir de ahora recibiré mi paga mensual de Akiha.
+ Y pensar que ya ha sido reducida...
+}
+[sha:8d0dd94b3d89044fc2cfb8eff951573a145524ca]{
+-- Page 204, Offset 3141.
+-- 喜べ親父。秋葉はアンタ以上に厳格な当主に育ったよ。
+Regocíjate Padre,
+ Akiha se ha convertido en una cabeza de familia incluso más estricta que tú.
+}
+[sha:8813da0732bd736f72344afad0daa3a294c2cf57]{
+-- Page 205, Offset 3142.
+-- 「で、でもそれはないだろ？　俺は門限は守ったんだぞ？
+"¿P-Pero como es eso? He vuelto antes del toque de queda, ¿no?
+}
+[sha:7b3283a645b6a78f179908040c16b8b2935d907d]{
+-- Page 205, Offset 3143.
+-- ……まあ、日が暮れる前に、ってのは守れなかったけど……」
+Me refiero, sé que prometí que volvería antes de que %{i}anocheciera%{/i}, pero..."
+}
+[sha:8843054e4d61c16fc35bcf80f2b2ff95af4e8e22]{
+-- Page 206, Offset 3144.
+-- 「あら、それは意外でした。私と約束を交わした自覚はあったんですね。では、どうして守れなかったんです？」
+"Oh, estoy sorprendida. Así que %{i}eras%{/i} consciente de la promesa que habías hecho conmigo.
+ En ese caso, ¿por qué no la has mantenido?"
+}
+[sha:9f6d22d30097fb9935ca882e32930dbd6d1a8313]{
+-- Page 206, Offset 3145.
+-- 「いや。それが、つい忘れてたみたいで」
+"Ah. Bueno, supongo que la olvidé."
+}
+[sha:bc2fc24df2ac07b33c5abf413fcdd4edc81ef018]{
+-- Page 207, Offset 3146.
+-- 「兄さん、私も言い忘れていました。
+"Nii-san, me olvidé que también tengo algo que decirte.
+}
+[sha:d0d10d48d38cd84f96d57612f2a7f7cbfda36296]{
+-- Page 207, Offset 3147.
+-- 罰の追加として今夜の夕食は抜きとします」
+Como castigo extra, no tendrás cena esta noche."
+}
+[sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
+-- Page 207, Offset 3148.
+-- 「な―――」
+"Qu―――"
+}
+[sha:c17ff39d3040b2bf58297d08b2666f2123efdf94]{
+-- Page 208, Offset 3149.
+-- なんという暴君……！
+¡Menuda tirana!
+}
+[sha:fded841dc919d0488ca393e0e2afe50d23b049ef]{
+-- Page 208, Offset 3150.
+-- ギリギリ間に合ってこの厳しさとか本気で恐ろしい……仮に、もし門限を破ってしまったら、遠野志貴は一体どうなってしまうのか……。
+Está siendo dura incluso habiendo llegado a tiempo, 
+ No me quiero imaginar lo que habría ocurrido si me %{i}hubiera%{/i} saltado el toque de queda...
+}
+[sha:dbbde244cf5232b9169b1a7fa2c1b76317f14140]{
+-- Page 209, Offset 3151.
+-- ……トボトボとロビーを横断し、自室に向かう。
+Camino fatigosamente por el vestíbulo, hacia mi habitación.
+}
+[sha:81147bda283e4d82091bf7ea17fe4f225978ec88]{
+-- Page 209, Offset 3152.
+-- あの後、当主さまに抗議をしたものの、夕食取り上げの罰だけは取り消せなかった。
+Intenté reclamar mi castigo,
+ pero ella no cedía en negarme la cena.
+}
+[sha:f6e59efb3e561bb5f3d5e86ee00c56d8d0b38f54]{
+-- Page 209, Offset 3153.
+-- 反面、小遣いの額は一割カットに留まった。
+Mirando el lado positivo, mi paga solo ha sido reducida un diez por ciento.
+}
+[sha:eaec1d09969985ea68aea7136b6ac6ac8d54a275]{
+-- Page 209, Offset 3154.
+-- 兄の威厳、大勝利というところだ。
+Una gran victoria para mi dignidad como hermano mayor.
+}
+[sha:b1cb5a2e0c8ae9639770b38b1672cc3e3a82fb07]{
+-- Page 210, Offset 3155.
+-- 「志貴さん、志貴さん」
+"Shiki-san, Shiki-san."
+}
+[sha:b19c550d022d42739211ae2b1c63951c152b33f7]{
+-- Page 210, Offset 3156.
+-- 「……琥珀さん？」
+"¿Kohaku-san...?"
+}
+[sha:49f502162af574123e91f35960cd020d06cb7385]{
+-- Page 210, Offset 3157.
+-- と、部屋に戻る途中、琥珀さんが話しかけてきた。
+Mientras vuelvo a mi habitación, Kohaku-san me llama.
+}
+[sha:8140f9ede538e4b41efa3efbc138e09afd8aa212]{
+-- Page 210, Offset 3158.
+-- 朝と同じように、廊下の隅に身を隠しての内緒話モードだ。
+Se está escondiendo en uno de los rincones del pasillo,
+ dirigiéndose a mi conspiranoicamente de la misma forma que lo hizo esta mañana.
+}
+[sha:0e2afca15315ad6136ce348ac1ba2ed29a92dd1d]{
+-- Page 211, Offset 3159.
+-- 「もう。ダメですよ、今日ぐらいはちゃんと帰ってこないと。
+"Oh, no puedes ir haciendo eso.
+ %{i}Hoy%{/i} al menos deberías haber vuelto a casa a la hora.
+}
+[sha:e026d3e791714c46dea9161abd9ea54e702bc38f]{
+-- Page 211, Offset 3160.
+-- いくらなんでも一日目なら言う事をきいてくれるだろうって、もうありえないぐらい早めに帰ってきてたんですから」
+Después de todo, ella volvío increíblemente pronto,
+ pensando que no había forma de que fueras contra sus órdenes el mismísimo primer día de vuelta.
+}
+[sha:e5287130c35dd2cb20db34e485acaab3f19594d5]{
+-- Page 211, Offset 3161.
+-- 「？　帰ってきてたって、誰がですか？」
+"Espera, ¿quieén volvió?"
+}
+[sha:752c7f13d21b4e063b31c0a3c9c31d598aa868ca]{
+-- Page 212, Offset 3162. Mods: @k, @e.
+-- 「そんなの決まって……
+"Bueno, no hay nadie más a quién me pueda estar refiriendo pero――
+}
+[sha:4e2db81cb5051e0f0cddb93d965f1fd9dbb53c9c]{
+-- Page 212, Offset 3163. Glued. Mods: @x.
+-- い、いえ、なんでもございません。
+a-ah, sabes qué, olvídalo.
+}
+[sha:22eef55a75babcd70e820cde8a96fa4418bcf167]{
+-- Page 212, Offset 3164.
+-- コホン。それはともかくとして、夕食抜きは使用人として見過ごせません。
+%{i}Ajem%{/i}.
+ En cualquier caso, como criada, no puedo ignorar el hecho de que no hayas cenado.
+}
+[sha:58f99892df1823cd9472710fcfa56d2827aa588d]{
+-- Page 212, Offset 3165.
+-- ですので、お部屋の方に軽食をご用意しておきました。
+Por tanto, he preparado en tu habitación una comida ligera para ti.
+}
+[sha:8aab2bbf04a773d57dc242f8f1010acf6f881a41]{
+-- Page 212, Offset 3166.
+-- おにぎりとお味噌汁という簡単なものですが」
+Aunque solo son una bolas de arroz y un poco de sopa de miso."
+}
+[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+-- Page 213, Offset 3167.
+-- 「……！」
+¡Ah!
+}
+[sha:e01b4f55e1ccaf526b82578eebeb43b313a28ab5]{
+-- Page 213, Offset 3168.
+-- なんて気が利くお手伝いさんなんだろうか……！
+¡Es una criada increíblemente considerada!
+}
+[sha:f4a240008b961bd74f126e8feca554a4bf012671]{
+-- Page 213, Offset 3169.
+-- 朝の携帯電話といい、秋葉に見つかったら叱られるのは彼女だろうに、ここまで気を遣ってくれるなんて……。
+Y todo esto encima de devolverme el móvil esta mañana.
+ Y pensar que iría tan tan lejos por mi,
+ incluso si ella es la que Akiha enganchará si se entera...
+}
+[sha:ab99955f19d66f378a5aa2ddaf9920e13ea92455]{
+-- Page 214, Offset 3170.
+-- 「でもいいんですか？　俺はすごく助かりますけど……」
+"¿Realmente está bien? Sería de gran ayuda, pero..."
+}
+[sha:0556495c05320b8fb16708233593324cc7785efe]{
+-- Page 214, Offset 3171.
+-- 「はい。志貴さんの健康に関わる事ですもの。
+"Por supuesto. Esto es por tu salud, después de todo.
+}
+[sha:da7ccc14b4082b3f362937e2092b5699c493c69e]{
+-- Page 214, Offset 3172.
+-- それに、これは翡翠ちゃんも同意していますから。秋葉さまに見つかっても、二人で謝れば許していただけますよ」
+Además, Hisui-chan también ha accedido a esto. Incluso si Akiha-sama se entera, estoy segura de que nos perdonará si nos disculpamos las dos."
+}
+[sha:fde32c364c38ee6d2c5efb72dd24436f31f8fa1b]{
+-- Page 214, Offset 3173.
+-- 「そうか、あの子も……」
+"Ya veo, así que esa chica también..."
+}
+[sha:78e5e9757e79081e202586f68f20245997ce6029]{
+-- Page 215, Offset 3174.
+-- ああ見えて気を遣ってくれていたんだ。
+A pesar de su fría actitud, sigue preocupándose por mi.
+}
+[sha:82c46895264d812a3d2d487b50b85a5a582872b0]{
+-- Page 215, Offset 3175.
+-- 感情を出さない性格っぽいので誤解しがちだけど、翡翠も“夕食抜き”という仕打ちを哀れに思ってくれたらしい。
+Es difícil de entender porque no deja realmente ver sus emociones,
+ pero parece que Hisui también se sintió mal por como me trataron 'sin cena'.
+}
+[sha:5bfbc550ea885edc85643ebb705d7f3fbe3b5199]{
+-- Page 216, Offset 3176.
+-- 「志貴さん。あの子、じゃないのです。翡翠ちゃん、です」
+"Shiki-san. Su nombre no es 'esa chica'. Es Hisui-chan."
+}
+[sha:a0596aa1ecb973a91e16af355d3080e2bb1a906c]{
+-- Page 216, Offset 3177.
+-- 「あ、うん、分かってる。でも、その……まだうまく話せないから、気軽に名前で呼ぶのは申し訳ない気がして」
+"Ah,sí. Lo sé. Pero como aún no la conozco casi nada, me sentiría mal usando su nombre a la ligera."
+}
+[sha:248d5878d01cd9bfc72bd63e988252a2f97c6b3b]{
+-- Page 217, Offset 3178.
+-- 「いいえ、それはいけません。ひどいお話です。
+"No, no deberías hacer eso. Es muy cruel.
+}
+[sha:4db8df14976c8fe2a2bee6f3dd4a120d471e9e85]{
+-- Page 217, Offset 3179.
+-- 翡翠ちゃんはああ見えてとっても優しいんですから。
+Quizá no lo parezca, pero Hisui-chan es muy amable.
+}
+[sha:1f909fc3bf3bb35a59f3248044c4c3d4e151678d]{
+-- Page 217, Offset 3180.
+-- 志貴さんもどうか、これからは気軽に、家族と思って、翡翠ちゃんと呼んで上げてくださいな」
+Así que, por favor no pienses en ello y llámala por su nombre como si fuera familia."
+}
+[sha:e7d63a7c465dd0b2735463df12c0e055b2e43a66]{
+-- Page 218, Offset 3181.
+-- 琥珀さんは真っ正面から見つめてくる。
+Kohaku-san me mira directamente.
+}
+[sha:71dbcf1237f80773928bf3ca90df6b82390280cc]{
+-- Page 218, Offset 3182.
+-- ……確かに、いつまでも他人行儀では彼女の方もやりづらいだろう。
+Tiene razón...
+ Sería difícil para Hisui si siguiera tratándola como una desconocida.
+}
+[sha:2daedc5f57b97fbdb07f5a53cdb7b60a8cb7b811]{
+-- Page 218, Offset 3183.
+-- 今も琥珀さんと同じように気を遣ってくれた訳だし、俺もできるだけ気を許すようにしないと。
+Estoy seguro de que está tan preocupada como lo está Kohaku-san ahora mismo,
+ así que debería intentar abrirme un poco más a ella.
+}
+[sha:95dd0c04f65702c2be07e8e543379122f1d36c4f]{
+-- Page 219, Offset 3184.
+-- 「分かりました。これからは何があっても翡翠ちゃ……いや、ちゃん付けはさすがに恥ずかしいんで、翡翠の名前を呼びます」
+"Entiendo. De ahora en adelante, sin importar qué, la llamaré Hisui-chan... no, decir 'chan' es un poco vergonzoso, así que la llamaré solo Hisui."
+}
+[sha:d28ca86c8fa8f4e2d9b108f515ee4e93b11183d9]{
+-- Page 219, Offset 3185.
+-- 「はい。それはたいへん良うございます」
+"Por favor hazlo. Sería muy agradecido."
+}
+[sha:4da1fd1fb2a859271b666034929acd160808246e]{
+-- Page 220, Offset 3186.
+-- それでは、と琥珀さんは一階に下りていった。
+Kohaku-san se despide y se dirige abajo.
+}
+[sha:da54c75dc5b9e0f572a5c39d677b15fd74e17e3f]{
+-- Page 220, Offset 3187.
+-- 地獄に仏、遠野邸のナイチンゲールに心の中で手を合わせて、こっちも自室に戻る。
+Dedico una silenciosa plegaria a mi salvador, la Nightingale de la mansión Tohno, y vuelvo a mi habitación.
+}
+[sha:0c43e888afc568176281e2b82d84a62e0b0916e5]{
+-- Page 220, Offset 3188.
+-- おにぎりか……琥珀さんの事だから、さぞ美味しいに違いない……。
+Bolas de arroz, eh... Las hizo Kohaku-san, así que deben estar bastante buenas...
+}
+[sha:a5a69c4dbb4718abf12f0cf7d89534d8f0c7f300]{
+-- Page 221, Offset 3189.
+-- 「―――ふう、いいお湯だった」
+"―――%{i}Few%{/i}, ese fue un buen baño."
+}
+[sha:bce05e7df31a8a6607f543bd0d1866229261f90b]{
+-- Page 221, Offset 3190.
+-- 琥珀さん特製のおにぎりを平らげ、
+Lo primero que hice al volver fue devorar las bolas de arroz que Kohaku-san hizo para mi.
+}
+[sha:e12599aead6b1aaabd670285250387572e35880b]{
+-- Page 221, Offset 3191.
+-- 翡翠にお風呂の時間だと告げられ、
+Cuando terminé, Hisui vino a decirme que el baño estaba listo.
+}
+[sha:3761de96626972f6b6b4a7c3245795a935861a95]{
+-- Page 221, Offset 3192.
+-- 大浴場から戻ってくると、時刻は９時になっていた。
+Para cuando vuelvo del baño, son las nueve en punto de la noche.
+}
+[sha:dffcbd7ac5974ea04d5bdf4ce3f5e52ff2d83b63]{
+-- Page 222, Offset 3193.
+-- 眠るにはいささか早すぎる時間だ。
+// Traduciendo esto a las 5AM xd
+Es un poco pronto para irme a la cama.
+}
+[sha:ac5e6ade8fd698a1630e2e5ef70482bf07dcc74c]{
+-- Page 222, Offset 3194.
+-- 手元には参考書ぐらいしか読み物がないし、
+No tengo a mano nada más que leer que un libro.
+}
+[sha:c9462848626ee79894b57075e525cbfe6e2ee6fe]{
+-- Page 222, Offset 3195.
+-- 今日はそれほど疲れはたまっていない。
+Hoy ni siquiera estoy cansado.
+}
+[sha:7a05dde8b1421fb30ae432eff81f6d45fb45d07a]{
+-- Page 222, Offset 3196.
+-- 無駄に時間を過ごすぐらいなら、ここは―――
+En vez de perder el tiempo, decido―――
+}
+[sha:1161382810b01ee188f0f7c9050961f603c41934]{
+-- Page 224, Offset 42590. Choice.
+-- 居間に行って秋葉と話をする。
+ Visitar a Akiha en la sala de estar.
+}
+[sha:afc8da2d485982f6c52d4aa489feb445f3b31196]{
+-- Page 224, Offset 42591. Choice.
+-- 琥珀さんの部屋を訪ねてみる。
+ Ir a la habitación de Kohaku-san.
+}
+[sha:15a978143e0be49acca71f87854f7a909167a218]{
+-- Page 224, Offset 42592. Choice.
+-- このまま自室で休む。
+ Descansar aquí.
+}

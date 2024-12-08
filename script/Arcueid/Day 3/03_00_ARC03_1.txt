@@ -1,0 +1,397 @@
+[sha:a2eedf0c447a3d7bcba5e7d8d694c9afd89a60a3]{
+-- Page 1, Offset 3945.
+-- 先生は言った。
+Sensei una vez me dijo algo.
+}
+[sha:6d7bdea0d9d895beb3cb5153c957696459195d12]{
+-- Page 1, Offset 3946.
+-- この目が<視|み>てしまうモノは、物の壊れやすい線なのだと。
+Me dijo que lo que puedo ver son las líneas por las que las cosas se rompen con mayor facilidad.
+}
+[sha:659139cfb908c642654aa990e23ca4468e80bfbc]{
+-- Page 1, Offset 3947.
+-- 人体で言うのなら折れやすい<関節|かしょ>か、
+Usando el cuerpo como analogía, son las articulaciones más tendentes a romperse.
+}
+[sha:72d4c4c86cbc6c6bb0d10e3769cc1641710f2b68]{
+-- Page 1, Offset 3948.
+-- 柔らかい目玉みたいなものだろう。
+U ojos blandos.
+}
+[sha:64e6b0ea2f37490878671f92142bbe3d6806dee7]{
+-- Page 2, Offset 3949.
+-- そこに刃物を通せば何の力も要らず、
+Si trazo las líneas con una hoja, no hay resistencia o fricción.
+}
+[sha:7aa97be03713ab6f72647af647cc76df7484e016]{
+-- Page 2, Offset 3950.
+-- どんな抵抗も摩擦もなく、万物は切断される。
+Puedo cortar %{i}cualquier cosa%{/i}, sin requerir la mínima fuerza.
+}
+[sha:758cf58dbd3666c2ccab22c4e47343838be7df04]{
+-- Page 2, Offset 3951.
+-- 人体にかぎらず、鉱物だろうと何だろうと、
+Y tampoco está limitado a cuerpos humanos―――
+}
+[sha:ca74aafa1de85d045a6a953ae8dbf8e547b605c3]{
+-- Page 2, Offset 3952.
+-- あの『線』は等しく視界に現れる。
+Estas 'líneas' aparecen por igual en todo lo que puedo ver,
+ ya sea vegetal, animal, o mineral.
+}
+[sha:04de9859f261e777736db2b1e2d288221eb704a8]{
+-- Page 3, Offset 3953.
+-- 「よく聞いてね、志貴。
+"Escucha atentamente, Shiki.
+}
+[sha:e90366f90b21da1ba0ade1b5c14ada03f400e1fd]{
+-- Page 3, Offset 3954.
+-- あらゆるものは『壊れてしまう』という運命を内包しているの。カタチがある以上、こればっかりは逃れようのない前提でしょう？」
+// Diría inscrito pero así tiene mas sentido con lo siguiente
+Todas las cosas tienen su destino de 'desintegrarse' cosido en ellas.
+ Este es un prerequisito inevitable que comparte todo lo material."
+}
+[sha:1e6b21335c0f0f2899b76123e073b8b964dda65a]{
+-- Page 4, Offset 3955.
+-- それはつまり、セカイはツギハギだらけで、いつ壊れてもおかしくないという事だ。
+En otras palabras,
+ el mundo en sí es un frágil mosaico que podría deshilarse en cualquier momento.
+}
+[sha:5689c599ef24713ca30756e31a8ff6f8d033d29e]{
+-- Page 4, Offset 3956.
+-- 地面にもラクガキが走っているのなら。
+Como esos garabatos también recorren el suelo...
+}
+[sha:c3e7576b3eccc1a06c413b35e786bd1d1f4d9f5f]{
+-- Page 4, Offset 3957.
+-- いつか、本当に何の理由もなく地面は裂けて、何もかも壊れてしまう可能性はある。
+Cabe la posibilidad de que tambíen se deshaga en cualquier momento,
+ y todo lo que hay sobre él destruido.
+}
+[sha:f0249d5ce9aff3ce780d688796905b19dd77d4ce]{
+-- Page 4, Offset 3958.
+-- 少なくとも、ボクの視るセカイでは必ずある。
+O por lo menos, así es como funciona en el mundo que veo.
+}
+[sha:a81f829e8b21dd87b0ff9f3b81779fa19a845b6e]{
+-- Page 5, Offset 3959.
+-- 「そして、私たち人間はさらに細かく壊れやすい。
+"Y ves, nosotros los humanos somo incluso más frágiles.
+}
+[sha:9cc684ff16ea52fcccaa9c296a746f6aea7459be]{
+-- Page 5, Offset 3960.
+-- 怪我も回復も、老化も成長も、隆盛も衰弱も、すべては終わりに近づく変化だから」
+Lesión y recuperación.
+ Maduración y envejecimiento.
+ Prosperidad y decadencia.
+ Todas estas cosas son cambios que nos acercan al final."
+}
+[sha:982350168eb916d13f1ec9d861d8494a70ef6f0d]{
+-- Page 6, Offset 3961.
+-- その意味を理解した時、心の底から、先生のくれた眼鏡に感謝した。
+Cuando llegué a entender a lo que se refería,
+ gané un nuevo grado de apreciación por las gafas que me dió.
+}
+[sha:c991399046b77c5375de98d8df99d7310d23fa81]{
+-- Page 6, Offset 3962.
+-- だってそうだろう。こんな線がいつも視えてしまっていたら、とてもじゃないけど生きていけない。
+Quiero decir, ¿y quién no?
+ Si tuviera que ver estas líneas todo el tiempo, no hubiera sido capaz de vivir para nada.
+}
+[sha:8f67ebef896567548541e6a4ff466475248b8205]{
+-- Page 7, Offset 3963.
+-- モノの壊れやすい線。
+¿Que tiene de bueno poder ver estas cosas?
+}
+[sha:62435bdb7d948c15abdc1ad6c125247e117f020d]{
+-- Page 7, Offset 3964.
+-- 確かな<約束|けつごう>のない世界。
+Estas líneas por las que las cosas se rompen más facilmente.
+}
+[sha:d4556bfadd55be85357b47224e1412fdbcbe4cd4]{
+-- Page 7, Offset 3965.
+-- そんなものが視えていても、
+Este mundo donde nada garantiza que se mantenga de una pieza.
+}
+[sha:b823d9283bce4635fe0c73a64458c1811f3ff906]{
+-- Page 7, Offset 3966.
+-- 得になる事なんて、何ひとつないのだから―――――
+No hay ni un solo beneficio en ello, ¿o sí?
+}
+[sha:ac6deacd4e8dcec15a66b3be22a2d781fa684c2b]{
+-- Page 8, Offset 3967.
+-- 「――――――、ん」
+"―――%{i}Nnnh%{/i}."
+}
+[sha:eb6bcf4746c8b225ff6b1d2d80f0176ac0d40370]{
+-- Page 8, Offset 3968.
+-- 古い記憶から目を覚ます。
+Me despierto de mi sueño.
+}
+[sha:f6eb0bcf927f1c91306b911326c9fa5a3c5c19a2]{
+-- Page 8, Offset 3969.
+-- 目蓋ごしに朝の光を感じ取って、目を閉じたまま枕元に手を這わせる。
+Sintiendo la luz del día en mis ojos a través de los párpados,
+ mantengo los ojos cerrados y acerco la mano a la mesilla de noche.
+}
+[sha:ed079187fd01261368d5b6acf91f0565a9e1d85e]{
+-- Page 9, Offset 3970.
+-- ……あれ……眼鏡がない……？
+Que nari... ¿dónde están mis gafas...?
+}
+[sha:4084641a345ae85eddf6db93d198b3ce4ecf988a]{
+-- Page 9, Offset 3971.
+-- 違和感を覚えつつ、試しに枕の右側も探ってみると、あっさり眼鏡を手に取れた。
+Sintiéndome molesto, palpo la parte a mano derecha de la cama por si acaso, y las encuentro inmediatamente.
+}
+[sha:436b455eae7da53dc233681ff0689b95253a0b40]{
+-- Page 10, Offset 3972.
+-- 左側に置いておくのが習慣なんだけど……昨夜は頭痛が酷くてそれどころではなかったのかもしれない。
+Normalmente las dejo a mano izquierda...
+ Pero teniendo en cuenta lo malo que era mi dolor de cabeza anoche,
+ supongo que no puedo descartar haberme confundido de lado.
+}
+[sha:4a9438a89f6446ebde47ea2b6f0305c3c83d89e5]{
+-- Page 11, Offset 3973.
+-- 「……ふう」
+"%{i}Hahhh%{/i}..."
+}
+[sha:4d4e2bcc67ed1bff5216c23fee59c5fa78f9f266]{
+-- Page 11, Offset 3974.
+-- 眼鏡をかけてから目蓋を開ける。
+Me pongo las gafas antes de abrir los ojos.
+}
+[sha:c232c0d0c9195fa641e57fea43a75087054722b0]{
+-- Page 11, Offset 3975.
+-- もし誰かが見ていたら妙なクセと思われるだろうけど、朝から『線』を視るような事態はできるかぎり遠慮したい。
+Si alguien estuviera mirando,
+ seguro que pensaría que es un tic peculiar,
+ pero prefiero evitar mirar las líneas tanto como pueda.
+}
+[sha:6c65a761377b18958ab2281d4658e489918b70c9]{
+-- Page 12, Offset 3976.
+-- 「おはようございます、志貴さま」
+"Buenas noches, Shiki-sama."
+}
+[sha:31f1939154f5b591d791c6f339f950e243351da8]{
+-- Page 12, Offset 3977.
+-- 「うぇ!?」
+"%{i}Bwuah%{/i}?"
+}
+[sha:6f02d463051c2ee1b1153893bd99a42a811e9aef]{
+-- Page 13, Offset 3978.
+-- 壁際に振り向くと、そこにはメイド服の少女が立っていた。
+Cuando me giro hacia el sonido, veo que alguien %{i}estaba%{/i} mirando――
+ hay una joven criada apoyándose en la pared.
+}
+[sha:90f7c9910e00d2ef89163402194a689cf7e59ff2]{
+-- Page 13, Offset 3979.
+-- あまりに気配がないので気がつかなかったが、ずいぶん前から居てくれたようだ。
+Es tan discreta que ni siquiera me percaté de ella, pero parece que lleva ahí un buen rato.
+}
+[sha:f78fd89a8a53ee0496821273cc5e9525f7076fcd]{
+-- Page 13, Offset 3980.
+-- 昨日と同じように、俺が寝過ごさないように起こしに来てくれたのだろう。
+Debe haber venido a levantarme para que no me quedase dormido, como hizo ayer.
+}
+[sha:8ed2b91fe033b3aa762b750f2a46952026e6a055]{
+-- Page 14, Offset 3981.
+-- 「そっか。ごめん、驚くのはおかしかった。
+"Es cierto, perdona, no debería estar tan soprendido.
+}
+[sha:f042e79d64dcd6953f0278f18c728e27dd288095]{
+-- Page 14, Offset 3982.
+-- おはよう翡翠。起こしに来てくれてありがとう」
+Buenos días, Hisui. Gracias por venir a levantarme."
+}
+[sha:6e9803df166ec63e82109016638f7b23527d12e3]{
+-- Page 15, Offset 3983.
+-- 「それが私の役割ですから、どうか、お気になさらないようお願いします」
+"Es parte de mi deber, así que por favor, no sienta la necesidad de agradecerme."
+}
+[sha:192e87064498c698478d3c98e2474744046dcc3d]{
+-- Page 16, Offset 3984.
+-- 翡翠は厳かに頭を下げる。
+Hisui hace una solemne reverencia.
+}
+[sha:ac1bb01759b702f497c1426692095d1274cd26b4]{
+-- Page 16, Offset 3985.
+-- ……と。その途中でピタリと動きを止めた後、スッと頭を上げて、
+Pero, mientras lo hacía se deja de mover de golpe y levanta la cabeza.
+}
+[sha:e73857da72e55a204d3431d566849f5ffb670f0f]{
+-- Page 17, Offset 3986.
+-- 「いえ、驚かすのが仕事、という事ではなく。
+"Mis disculpas,
+ no quise decir que parte de mi deber incluyese sorprendele.
+}
+[sha:4d9e49e309f359078e33eb778fa3eb0ad554f5ed]{
+-- Page 17, Offset 3987.
+-- ―――明日は志貴さまを驚かせないよう、努力いたします」
+―――Haré todo lo posible por no sobresaltarle mañana."
+}
+[sha:f26267f40e23c818e38b4a2fc19d755b2701cc98]{
+-- Page 18, Offset 3988.
+-- ……微妙におかしなところのあるメイドさんだった。
+Es una criada con algo ligeramente extraño sobre ella,
+ pero no sé que es exactamente.
+}
+[sha:655995ffd29988171af0b8851ce0e0fe7e36bb50]{
+-- Page 18, Offset 3989.
+-- 侍女としての職務を完璧にこなせているのに、あまり人付き合いに慣れていない、そんな感じだ。
+Es capaz de llevar acabo sus labores como criada a la perfección,
+ pero me da la sensación de que no está realmente acostumbrada a socializar.
+}
+[sha:dff06a0b519b8d7e156046277750649617eeae3e]{
+-- Page 19, Offset 3990.
+-- 「いや、翡翠には何の問題もないと思うよ。
+"No, no creo que hayas hecho nada mal.
+}
+[sha:64daf4c5a5d049d859da972702d4ad00bd864f6a]{
+-- Page 19, Offset 3991.
+-- まだ慣れていない俺が悪いんだ」
+Es mi culpa por no estar acostumbrado a ello."
+}
+[sha:a1e141086840ed0ca4d0a545a2f15dc28eb1c5e9]{
+-- Page 20, Offset 3992.
+-- ベッドから起きると、自分が寝間着に着替えている事に気がついた。
+Cuando me levanto de la cama me doy cuenta de que llevo el pijama puesto.
+}
+[sha:b2f0c2f6f07118aab22a26a1771b30d51615a51d]{
+-- Page 20, Offset 3993.
+-- ……昨夜はたしか、あの遠吠えのせいで制服に着替えて……戻ってきた後は、そのままベッドに倒れたような……？
+Estoy bastante seguro de que me cambié a mi uniforme escolar al ir a investigar los aullidos,
+ y qué cuando volví me desplomé en la cama directamente...
+}
+[sha:a1671e7effcda9215675299e8ba1bf0bdf4f89fd]{
+-- Page 21, Offset 3994.
+-- 「……おかしいな。俺、制服のまま眠ったと思うんだけど」
+"Que raro... pensaba que había dormido con uniforme."
+}
+[sha:9db06bf07d25ad2c0b86b12be98ef7af1da065f0]{
+-- Page 22, Offset 3995.
+-- 「はい。あのままではお体に悪いので、姉さんに来てもらって、寝間着に着替えさせていただきました」
+"Es correcto. Hubiera sido malo para su salud si se hubisese quedado así, así que le pedí a Nee-san que viniera y le cambiara al pijama."
+}
+[sha:6843fddf3a4ad072360636f6df2def81a0c5fae2]{
+-- Page 23, Offset 3996.
+-- 翡翠は当然のように事情を説明してくれた。
+Hisui explica la situación como si no fuera nada raro.
+}
+[sha:01b408713b7bcb6a0cf80098aa71e22b4966bf18]{
+-- Page 23, Offset 3997.
+-- そっか、着替えさせてくれたのか。
+Ya veo. Me cambió de ropa por mi.
+}
+[sha:34dfd28398cad5bd65b1da94b7bf68c172432bd4]{
+-- Page 23, Offset 3998.
+-- 制服のままで寝ても別に体調は悪くはならないけど、皺になるし、寝間着の方が快適なのは確かだ。さすがプロのメイドさん行き届いてるなぁ―――って、ちょっと待った。
+Dormir en unforme no hará que te pongas malo necesariamente,
+ pero hará que se te arrugue el uniforme, y no se puede negar que el pijama es mucho más cómodo.
+ Esa atención al detalle es lo que esperarías justamente de un pro――espera un momento.
+}
+[sha:778a523ace705c496166c2c65321b4ecfeb06dbe]{
+-- Page 24, Offset 3999.
+-- 「着替えだって？」
+"¿Cambiarme de ropa?"
+}
+[sha:308f1abacc43c98aa2f5005c79cde75f29b368d4]{
+-- Page 24, Offset 4000.
+-- ばっ、とズボンとパンツを確認する。
+Reviso mis pantalones y ropa interior a toda prisa.
+}
+[sha:5c5319c8c15c74d460bb02f079cc0b13bf987ca5]{
+-- Page 24, Offset 4001.
+-- ズボンは真新しい寝間着で、パンツもまっさらな新品だった。
+Mis pantalones son de un set nuevo de pijama,
+ y mi ropa interior parece recién lavada.
+}
+[sha:5590f4dceb89b2a713499d81e68c62214c6b053e]{
+-- Page 25, Offset 4002.
+-- 「翡翠」
+"Hisui."
+}
+[sha:d5b5d8d5ebd38195c37bc4d77f34049fe926228e]{
+-- Page 25, Offset 4003.
+-- 「はい、なんでしょう」
+"Si, ¿qué quiere?
+}
+[sha:e54fb1dae3fc5853f6f54c6b98053172ef889c31]{
+-- Page 25, Offset 4004.
+-- 「気を遣ってくれたのは嬉しいんだけど、これからは何としても起こしてくれ。……着替えっていうのは、ほら、やっぱり自分でやるものだし」
+"Me alegro que estes tan preocupada por mi, pero en el futuro haz lo que puedas para despertarme... cambiarme de ropa es, ya sabes, algo que puedo hacer yo mismo."
+}
+[sha:a09b0efaaa662b20187e2c051968114013fa877f]{
+-- Page 26, Offset 4005.
+-- もう手遅れな気恥ずかしさから、つい視線を逸らしてしまう。そんな俺に、翡翠ははい、と無表情で頷いた。
+Estoy tan avergonzado de lo que ha pasado que no puedo evitar desviar la mirada.
+ Hisui simplemente asiente, su expresión vacía.
+}
+[sha:a8936b5b5827d4c4c49bb6f2b1249486b8b9eeec]{
+-- Page 27, Offset 4006.
+-- 「学校の制服はそちらにたたんであります。
+"Su uniforme escolar está allí doblado.
+}
+[sha:807c23424c6ff6b3b9c0b50f76a4b6d08371479f]{
+-- Page 27, Offset 4007.
+-- 着替えがお済みになられましたら居間においでください」
+Una vez se vista, por favor venga a la sala de estar."
+}
+[sha:e18a9f60b92c33db6259014b025364305d15dd1b]{
+-- Page 28, Offset 4008.
+-- 「……はあ。普通なら気がつくもんだけど、そんなに疲れてたのか、俺……」
+// Este sfx hay que cambiarlo por algo xd
+"%{i}Suspiro%{/i}...
+ No me puedo creer que no me diera cuenta,
+ debía estar totalmente exhausto anoche..."
+}
+[sha:5c1e3c51655f328863112f12807cedaf20491720]{
+-- Page 29, Offset 4009.
+-- 反省しても起きてしまった事は変わらない。
+Obsesionarse con el pasado no cambiará nada.
+}
+[sha:273cc9ba78d89947d1cd4aaf63f6a2d0ea54286d]{
+-- Page 29, Offset 4010.
+-- さっさと着替えて朝食にしよう。
+Debería vestirme rápido e ir a desayunar.
+}
+[sha:da1daa3ce287b5b6cc58fb1bb365b1ef47c28e50]{
+-- Page 29, Offset 4011.
+-- 学校の制服はきちんとたたまれていて、シャツにはアイロンまでかけられている。
+Mi uniforme escolar está doblado impecablemente y la camisa está planchada cuidadosamente.
+}
+[sha:5980833c403a59a7cce65cd59f5bfbe48c638c53]{
+-- Page 29, Offset 4012.
+-- 袖に腕を通すと、新品のように気持ちが良かった。
+Cuando paso mi brazo a través de la manga es como si fuera nueva.
+}
+[sha:a82872deaf046bb417ca6be23d839d5927591188]{
+-- Page 30, Offset 4013.
+-- 居間には秋葉と琥珀さんがいた。
+Akiha y Kohaku-san están en la sala de estar.
+}
+[sha:dc392b3fc7ad58b928b644ea318385876c0fa77b]{
+-- Page 30, Offset 4014.
+-- 秋葉はとっくに朝食を済ませたようで、優雅に紅茶を楽しんでいる。
+Akiha parece haber terminado su desayuno y disfruta elegantemente de un té.
+}
+[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+-- Page 30, Offset 4015. Mods: @k, @e.
+-- 俺は―――
+Yo―――
+}
+[sha:9f84261b8299e9b6573235853f5f3668b2e5d59d]{
+-- Page 32, Offset 42593. Choice.
+-- 秋葉に挨拶をする。
+ Saludo a Akiha.
+}
+[sha:d6db7c10056ff7bcb35ce14921b1e706c991ff69]{
+-- Page 32, Offset 42594. Choice.
+-- 琥珀さんに挨拶をする。
+ Saludo a Kohaku-san.
+}
+[sha:98b13836abcea9b44b95f0f73fb78a0a8486188e]{
+-- Page 32, Offset 42595. Choice.
+-- 二人に挨拶をする。
+ Saludo a ambas.
+}

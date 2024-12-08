@@ -1,0 +1,280 @@
+[sha:a6e429cdf3c05524baa023ea98576a205056db5e]{
+-- Page 10000, Offset 43316.
+-- みなさ～～ん、こんにちは～～！
+-- TRANSLATION HERE
+}
+[sha:4f2f5fec843d3dee0a3d8e3dd89f0c5c657f4a3d]{
+-- Page 1, Offset 43317. Mods: @n.
+-- 降り注ぐようなトラブルの中、
+-- TRANSLATION HERE
+}
+[sha:85697b77bbe5a00f5b78c056143fd5809c70e6c5]{
+-- Page 1, Offset 43318.
+-- 一生懸命な遠野くんを応援する人気コーナー、
+-- TRANSLATION HERE
+}
+[sha:4b6e396aac530529aa5568cf3291f5b68f1f7d7e]{
+-- Page 2, Offset 43319. Mods: @n.
+-- 『教えて！　シエル先生』、
+-- TRANSLATION HERE
+}
+[sha:91bc9cf2eafb0c2298b758d807b03f4c2ccc909a]{
+-- Page 2, Offset 43320.
+-- 待望の第２部、開始です！
+-- TRANSLATION HERE
+}
+[sha:7e32227d793a2bc2fb0672d82d134ae153da2ac4]{
+-- Page 3, Offset 43321. Mods: @n.
+-- 『月姫』もいよいよ後半戦。
+-- TRANSLATION HERE
+}
+[sha:a94865213255057e1be6bc0978c747b83a71f927]{
+-- Page 3, Offset 43322.
+-- いえ、ここからが本番と言っていいでしょう。
+-- TRANSLATION HERE
+}
+[sha:3e79e9332c4e304d34b98ac335c603dca934c6c6]{
+-- Page 4, Offset 43323. Mods: @n.
+-- その熱中度・満足度はアルクェイドルートの
+-- TRANSLATION HERE
+}
+[sha:1a846d24764b463bd2a42dc1239be36ffcb4d22b]{
+-- Page 4, Offset 43324.
+-- およそ２倍、いえ３倍になるとお約束します！
+-- TRANSLATION HERE
+}
+[sha:1020e3bf8bd3d46a7103e1fda1a601e9e18c08d4]{
+-- Page 5, Offset 43325. Mods: @n.
+-- <目を覚ませ|ウェイクアップ>！
+-- TRANSLATION HERE
+}
+[sha:7f8622a257810bd26bc105de3d475507c4c18e57]{
+-- Page 5, Offset 43326.
+-- <起きるな|レッツコーマ>シエル！
+-- TRANSLATION HERE
+}
+[sha:96b12f980e5d380dac1ba69d84f858ebdd22024f]{
+-- Page 6, Offset 43327. Mods: @n.
+-- ごっちっ！？
+-- TRANSLATION HERE
+}
+[sha:ac86a299391d58efe5ad777a444198372ba8fd9b]{
+-- Page 7, Offset 43328. Mods: @n.
+-- ん～～～、クリティカルコネクト。
+-- TRANSLATION HERE
+}
+[sha:82043bf390376ece7897cccd79a78cfba324f6f8]{
+-- Page 7, Offset 43329.
+-- こんな奇襲も躱せないとはガッカリです。
+-- TRANSLATION HERE
+}
+[sha:82504f7fe6b3ff3517da6ca7f023c3fa2bc9a2ad]{
+-- Page 8, Offset 43330. Mods: @n.
+-- 我が世の春が来た、とか思いましたか？
+-- TRANSLATION HERE
+}
+[sha:051d1b2e1cec87e5ecc29775fdb56e483b6263d0]{
+-- Page 8, Offset 43331.
+-- そりゃあ浮かれすぎだぜティーチャー。
+-- TRANSLATION HERE
+}
+[sha:1249e1e13aa66218cfc7e66a8dbd9ee96af3c98a]{
+-- Page 9, Offset 43332. Mods: @n.
+-- 何事も『いける！』と思った時こそ脆いんだよニャあ。
+-- TRANSLATION HERE
+}
+[sha:15c60a6438b0842fa3f295b3f3301892f8f99d8c]{
+-- Page 9, Offset 43333.
+-- 足元がお留守っていうか。
+-- TRANSLATION HERE
+}
+[sha:12b10987cd7b79e50376e7968f768086777259a9]{
+-- Page 10, Offset 43334. Mods: @n.
+-- みなさんもそのあたり、
+-- TRANSLATION HERE
+}
+[sha:92fc1b264f8f8b1a858f1bbe9f54b1b8725359c9]{
+-- Page 10, Offset 43335.
+-- ライブで痛感しているのではないでしょうか。
+-- TRANSLATION HERE
+}
+[sha:cd1db384fe61889894c7f6523d78228dac522263]{
+-- Page 11, Offset 43336. Mods: @n.
+-- 防寒対策なしで冬将軍ヴローヴに
+-- TRANSLATION HERE
+}
+[sha:6c8cbb5509efadae7c8d8d7767dff2c639eb8c57]{
+-- Page 11, Offset 43337.
+-- 近づくなんてもってのほか。
+-- TRANSLATION HERE
+}
+[sha:bb1d0b2b17cb9283a9bb093284c8e0cc151a8024]{
+-- Page 12, Offset 43338. Mods: @n.
+-- 敵はつねに超必ぶっぱしているような暴れキャラ。
+-- TRANSLATION HERE
+}
+[sha:3dca2c367784d903e7f5df8deacefd5b8df9b7af]{
+-- Page 12, Offset 43339.
+-- 一撃いいのいれたらすぐに離れるンだ！
+-- TRANSLATION HERE
+}
+[sha:a37a4148f4cd68dee6dfc757a95ce92e518e0393]{
+-- Page 13, Offset 43340. Mods: @n.
+-- 君よ、ネコのように気まぐれに戦え！
+-- TRANSLATION HERE
+}
+[sha:e5c7cae76c61c9a2f6b81df6376f915a0d0fc148]{
+-- Page 13, Offset 43341.
+-- クソが、対アリっした！
+-- TRANSLATION HERE
+}
+[sha:c55ef2bd3b9d0cddd7b49ee8f14b6a209015a4bf]{
+-- Page 14, Offset 43342. Mods: @n.
+-- くっ……やってくれましたね、このネコ型生物……
+-- TRANSLATION HERE
+}
+[sha:03214ed2b68c2765651f15975078ddf03ddb1632]{
+-- Page 14, Offset 43343.
+-- ですが、浮かれていたのは事実です。
+-- TRANSLATION HERE
+}
+[sha:d3d59429a81f7ad742355e04200a91fae9eeadb2]{
+-- Page 15, Offset 43344. Mods: @n.
+-- ここから新ヒロインによる新ルートが
+-- TRANSLATION HERE
+}
+[sha:47f116b28ad87a68ed1549147d2eb4707c3fe17f]{
+-- Page 15, Offset 43345.
+-- 始まるのですから、わたしも気を引き締めないと。
+-- TRANSLATION HERE
+}
+[sha:1566bd3ca09244800a7b2132e29bd97ffed21858]{
+-- Page 16, Offset 43346. Mods: @n.
+-- アタシの必殺ブローをくらって
+-- TRANSLATION HERE
+}
+[sha:a2d789bc18e6c8bffeb70004e01cde04b3487e64]{
+-- Page 16, Offset 43347.
+-- テンカウント内に立ち上がりやがった……
+-- TRANSLATION HERE
+}
+[sha:3f3e4d1719557bb5dab9a16ef919aa10b85f8e5a]{
+-- Page 17, Offset 43348. Mods: @n.
+-- 今の、100均で売ってるお菓子の箱すら
+-- TRANSLATION HERE
+}
+[sha:960470c989dc4f7179b3d5b94ad77d2466ea2980]{
+-- Page 17, Offset 43349.
+-- 一撃でポシャる威力なんスけどね……
+-- TRANSLATION HERE
+}
+[sha:a5d87a0b00e3c9d73346aa3416faa68f605540dd]{
+-- Page 18, Offset 43350. Mods: @n.
+-- さて。ネコの戯言は聞き流して、
+-- TRANSLATION HERE
+}
+[sha:557c31e1c6c7bf00a89a3c3228148930502273d7]{
+-- Page 18, Offset 43351.
+-- 本題に入りたいと思います。
+-- TRANSLATION HERE
+}
+[sha:edbd0d42fe658bf141aaed9298bf76571ff7d85b]{
+-- Page 19, Offset 43352.
+-- 今回の原因は自分の力を過信しすぎたコトですね。
+-- TRANSLATION HERE
+}
+[sha:e965cfa9b9e5ef1acb2d5d36de64111bc836f405]{
+-- Page 20, Offset 43353. Mods: @n.
+-- 遠野くんは普通の男の子なんですから、
+-- TRANSLATION HERE
+}
+[sha:33d588becf03684a1eb10bac3b10dfda360ae946]{
+-- Page 20, Offset 43354.
+-- どんなに調子が良くても危険地帯に長居はいけません。
+-- TRANSLATION HERE
+}
+[sha:284a0ca688b040e41aa5e624ada434461e4ba6fc]{
+-- Page 21, Offset 43355. Mods: @n.
+-- 「いける！」と思った時こそ、
+-- TRANSLATION HERE
+}
+[sha:7486b0d2744d0a767183e79cad24c4e3901002d0]{
+-- Page 21, Offset 43356.
+-- 相手だけでなく自分の状態も確認して、
+-- TRANSLATION HERE
+}
+[sha:d03d455cdd41241f49d60b6ce05ea9297e17b052]{
+-- Page 22, Offset 43357. Mods: @n.
+-- 言ったよ。
+-- TRANSLATION HERE
+}
+[sha:907ffe65dd052641ca5a28a260cd70360a269594]{
+-- Page 22, Offset 43358.
+-- もうアタシが言ったよそれ。
+-- TRANSLATION HERE
+}
+[sha:823537cf8e5e2b5e7d45d431e9ae01094d5389b1]{
+-- Page 23, Offset 43359.
+-- …………。
+-- TRANSLATION HERE
+}
+[sha:d38edb573951d4346e910490afef32e2a14e876b]{
+-- Page 24, Offset 43360. Mods: @n.
+-- たとえるなら、ヴローヴは見えない毒を
+-- TRANSLATION HERE
+}
+[sha:8843772d7142348cc2c515e55f602156e21c061d]{
+-- Page 24, Offset 43361.
+-- まき散らしているようなもの。
+-- TRANSLATION HERE
+}
+[sha:11eaf7bc9a8d8ce6d96d4fcf7f0c500301854751]{
+-- Page 25, Offset 43362. Mods: @n.
+-- 炎はもちろん、低温もまた人体にとっては脅威です。
+-- TRANSLATION HERE
+}
+[sha:8d732f3ca3c40249fe659cde56095dbeb3767ea8]{
+-- Page 25, Offset 43363.
+-- ですので、つねにヒット＆アウェイをこころが、
+-- TRANSLATION HERE
+}
+[sha:d03d455cdd41241f49d60b6ce05ea9297e17b052]{
+-- Page 26, Offset 43364. Mods: @n.
+-- 言ったよ。
+-- TRANSLATION HERE
+}
+[sha:27c1d660d139aa7053f850af9a891dcb937264cf]{
+-- Page 26, Offset 43365.
+-- それももうアタシが言ったよ。
+-- TRANSLATION HERE
+}
+[sha:6ba60f3e028f497832ac588d47ed394803f840d5]{
+-- Page 27, Offset 43366. Mods: @n.
+-- 持ち上がるよ？
+-- TRANSLATION HERE
+}
+[sha:b5d50543f08ab2320214a13ae9d5aa53915be6c4]{
+-- Page 27, Offset 43367.
+-- アタシの体が持ち上がるよ？
+-- TRANSLATION HERE
+}
+[sha:d914b2a2b0ee942e1084c6729d7070b4cb010748]{
+-- Page 28, Offset 43368. Mods: @n.
+-- そう、このように。
+-- TRANSLATION HERE
+}
+[sha:8c4866f61461816d0cf27b67e1d58ca4a3d435ee]{
+-- Page 28, Offset 43369.
+-- 一撃いれたら、ぶっ飛ばして距離をとりましょう！
+-- TRANSLATION HERE
+}
+[sha:68d0cce076ff000b5909dedd8e28afcceab4c6ed]{
+-- Page 29, Offset 43370. Mods: @n.
+-- ごっぱぁーーー！？
+-- TRANSLATION HERE
+}
+[sha:12fee443f1cb7f45dc1fd857f6e6e09fd2204c8b]{
+-- Page 29, Offset 43371.
+-- それができたら苦労はしないっつーのーーー！！！！
+-- TRANSLATION HERE
+}

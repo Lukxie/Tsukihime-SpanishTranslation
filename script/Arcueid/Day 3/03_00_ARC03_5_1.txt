@@ -1,0 +1,421 @@
+[sha:8ccdb5687d855724bd27c0292e82ca92f20fc7a6]{
+-- Page 10012, Offset 4659.
+-- ……こんなのは、悪いユメだ。
+Esto es solo una pesadilla...
+}
+[sha:b86d5a240045859dad9bb436921e4dd8d94c797e]{
+-- Page 10012, Offset 4660.
+-- けど、なんだってこう、血の匂いだけが、ひどくリアルなんだろう。
+Pero entonces, ¿por qué el olor de la sangre es tan horriblemente real?
+}
+[sha:162de3da54c2a6b273477cd86afe11b6d8af315c]{
+-- Page 248, Offset 4661.
+-- 『……違、う』
+"No es... cierto..."
+}
+[sha:e075d19235aafeab27574d987b3139df35660c4b]{
+-- Page 248, Offset 4662.
+-- 違う　違う　違う　違う。
+No es cierto. No es cierto. No es cierto. No es cierto.
+}
+[sha:e075d19235aafeab27574d987b3139df35660c4b]{
+-- Page 248, Offset 4663.
+-- 違う　違う　違う　違う。
+No es cierto. No es cierto. No es cierto. No es cierto.
+}
+[sha:1cfc5ad380fc448c918d5fc771b13f0bfb707210]{
+-- Page 248, Offset 4664.
+-- 自分が殺したというコトが違うのか。
+¿Qué no es cierto? ¿Que la haya matado?
+}
+[sha:be92a2281224101e390f3dbcf0eef8a2e1413ec7]{
+-- Page 248, Offset 4665.
+-- それとも、自分が殺していないという事が違うのか。
+¿O que no la haya matado?
+}
+[sha:5c4195a3159f128ef828bcb6ae0330f97ed82515]{
+-- Page 249, Offset 4666.
+-- 『……だって、理由が、ない』
+"Pero... no tenía ninguna razón para ello."
+}
+[sha:9acb61064b2deb26eff933258d30714b53ec14a6]{
+-- Page 249, Offset 4667.
+-- いや、理由ならはっきりしている。
+No, sé perfectamente cual era la razón.
+}
+[sha:f085159a15cd18b7315e26fc58bc762669fa971f]{
+-- Page 249, Offset 4668.
+-- 彼女を見た時、一つの事しか考えられなくなっていた。
+Cuando la miraba, solo podía pensar en una cosa.
+}
+[sha:e8a9ba70b3b5638b484c5d988d391c0a01e0e393]{
+-- Page 250, Offset 4669.
+-- 『俺は――――』
+"Yo―――"
+}
+[sha:71796e3e6dd5c242a307c86f875eff6aa0f4acf1]{
+-- Page 250, Offset 4670.
+-- そう、俺は―――
+Sí, yo―――
+}
+[sha:eec75a8dfaf5f7e828d23375dedb452b967b6ce3]{
+-- Page 250, Offset 4671.
+-- 遠野志貴は　あの女を　殺したい、と
+%{center}Quería matarla.
+}
+[sha:a6f25f0ff844106de9bc7755293673681717fc9e]{
+-- Page 251, Offset 4672.
+-- それが、あの時の俺の<中身|すべて>だった。
+En ese momento, era todo en lo que podía pensar.
+}
+[sha:69a63b5206307959a852621988681f5705b3f67a]{
+-- Page 251, Offset 4673.
+-- 頭の中がドロドロで、そのイメージを言葉にしようとしなかっただけ。
+Simplemente no intenté expresar el sentimiento en palabras porque el interior de mi cabeza estaba hecho papilla.
+}
+[sha:1cd972118144ef9c156043c676e113628768191d]{
+-- Page 252, Offset 4674.
+-- 『ちが―――――う 』
+"No es――cierto."
+}
+[sha:25efc41a5e612305c4adf7cda61719da02820aa8]{
+-- Page 252, Offset 4675.
+-- 血の匂いに、吐き気がする。
+El olor de la sangre me da naúseas.
+}
+[sha:0f072564971ba0bdbca8a32ccb0896194f926724]{
+-- Page 252, Offset 4676.
+-- 『あ―――ぐ』
+"%{i}Ah――ugh%{/i}."
+}
+[sha:398aedd87306bf86886c798b8db92523a74cc936]{
+-- Page 252, Offset 4677.
+-- 胃の中のものが、戻ってくる。
+El contenido de mi estómago empieza a ascender.
+}
+[sha:ab092de672ab908c7c0cecb98aa1572b920e09cb]{
+-- Page 253, Offset 4678.
+-- 『あ―――あ』
+"%{i}Ah――ah%{/i}."
+}
+[sha:97adb46b6deb59f13bd60bdff01114a42bcbcaab]{
+-- Page 253, Offset 4679.
+-- 眼球に朱色が染み入ってくる。
+El bermellón impregna mis ojos.
+}
+[sha:4e037d1a40fc3e5d3ec8a0b4486dbdb8f0048fd4]{
+-- Page 253, Offset 4680.
+-- 脳を揺らすような眩暈。
+Me siento mareado, como si mi cerebro mismo estuviera temblando.
+}
+[sha:c559b2d81fcc321ff9d70810cb18b05c8ddea422]{
+-- Page 253, Offset 4681.
+-- そのまま、赤い血の海にひざまずいた。
+Nauseabundo y aturdido,
+ me arrodillo en el mar de sangre.
+}
+[sha:de203363fd706634fa0168aa17b57230ddba7885]{
+-- Page 254, Offset 4682.
+-- 『ご―――ぼ――』
+"%{i}Hurk%{/i}――%{i}ughh%{/i}―――"
+}
+[sha:8492584c3a9dd05ba5799ab2d53f28a534997a34]{
+-- Page 254, Offset 4683.
+-- 胃液が逆流する。
+Jugos gástricos brotan de mi garganta.
+}
+[sha:9a86c917e8ccc4bd17693c3e8807ef4ec12d1a0e]{
+-- Page 254, Offset 4684.
+-- 胃の中のものを残らず吐いた。
+Vomito todo el contenido de mi estómago.
+}
+[sha:e64f864b6cd4359e4a333381743f29c55edd25e0]{
+-- Page 254, Offset 4685.
+-- 食い物も、胃液も、泣きながら吐き出した。
+Todo lo que he comido, mis jugos gástricos; lo vomito todo y lloro.
+}
+[sha:9864bba3fdcbca062dad0206628d860290379b63]{
+-- Page 255, Offset 4686.
+-- 胃の中には何もない。
+No hay nada más en mi estómago.
+}
+[sha:92e540528c16126604851cf2c2eb35dd92f5c606]{
+-- Page 255, Offset 4687.
+-- なのに起きてしまった出来事をなかった事に、もとの日常に戻そうとするかのように、体は嘔吐を強制する。
+Y aún así sigo con arcadas, como si estuviera rechazando todo lo que ha pasado aquí.
+ Como si estuviera intentando de alguna manera limpiar todo esto y devolver el mundo a la normalidad.
+}
+[sha:eff1ee168a59f690115eaa4546b613c012c229c2]{
+-- Page 256, Offset 4688.
+-- 『ご――――ぶ』
+"%{i}Hurg――ahh%{/i}."
+}
+[sha:70393eec05e9a75ec0deb6c2286ecaa5c50881b5]{
+-- Page 256, Offset 4689.
+-- 痛い。
+Duele.
+}
+[sha:cc9abf071161414d4635cb0cef2c90a0b19db9ee]{
+-- Page 256, Offset 4690.
+-- 内臓が焼けているみたいに、痛い。
+Arde, como si mis entrañas estuvieran en llamas.
+}
+[sha:9a194bb8f111ebe8ea1fbd948f00dd96d9149cf8]{
+-- Page 256, Offset 4691.
+-- 涙は止まらなくて、体はゴミのように地面に崩れ落ちた。
+No puedo parar de llorar, y mi cuerpo se arruga en el suelo como un trozo de basura deshechado.
+}
+[sha:a3dd1e729f518ae4361d8ec54ccea7a8ed4440f6]{
+-- Page 257, Offset 4692.
+-- べちゃりと、体が赤く染まる。
+Mi cuerpo se ha teñido de un rojo pegajoso.
+}
+[sha:d8dfe794241f47048729145dead46c55a05e6ce3]{
+-- Page 257, Offset 4693.
+-- 痛くて赤くて、ユメを見ているようだった。
+Hay tanto dolor, tanto rojo, que creo que estoy soñando.
+}
+[sha:9e96a7470e061a635bf9baba9dcf2c9ee5ca90d5]{
+-- Page 258, Offset 4694.
+-- 涙が止まらない。
+Mis lágrimas no se detienen.
+}
+[sha:c7277e217c0dedbd53d060bd2af840d5be505ea2]{
+-- Page 258, Offset 4695.
+-- 人を殺したというコトが、ひどく悲しかった。
+Me consterna el pensar haberla matado.
+}
+[sha:32ef9203a6535fedf3f30797152dd66465cedc53]{
+-- Page 258, Offset 4696.
+-- ……いや、それは違う。
+No... no es eso.
+}
+[sha:37f16fc971da34f79b8abbec6eacf00c975cceb9]{
+-- Page 258, Offset 4697.
+-- 人形をバラすようにあっさりと、何の意味もなく、容赦なく殺してしまったコトが、悲しかった。
+Me consterna el hecho de que la he matado tan fácilmente como desmembrar una muñeca.
+ Sin previo aviso, sin piedad.
+}
+[sha:2c9a7b38c8fd1a7b04e110bed0469e3a6c95e795]{
+-- Page 259, Offset 4698.
+-- ―――よくわからない。
+―――Simplemente no lo entiendo.
+}
+[sha:adaea4944faf7b7e16ea0e668960d3938ce5753d]{
+-- Page 259, Offset 4699.
+-- どうしてこんな気持ちになっているのか、
+No se lo que me ha dado.
+}
+[sha:a3763e83fd8233625bf8b13f4b78bce7af006803]{
+-- Page 259, Offset 4700.
+-- どうしてわけもなく殺してしまったのか、
+No sé por qué la he matado sin razón alguna.
+}
+[sha:3053521c5dc7945ad4e7936b2ca9288c4d03d2a7]{
+-- Page 259, Offset 4701.
+-- その理由が解らない。
+No entiendo por qué.
+}
+[sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
+-- Page 260, Offset 4702.
+-- 『――――うそだ』
+"―――Es una mentira."
+}
+[sha:7ed2512026b899a859374619f4218d0ca8287bc2]{
+-- Page 260, Offset 4703.
+-- 現実感がまるでないから。
+Tiene que serlo. Nada de esto se siente real.
+}
+[sha:4ef6e012d37f8edc44bfe6a232ee0c8717367303]{
+-- Page 260, Offset 4704.
+-- ほら、いつもみたいに目眩がして、
+Quiero decir, piénsalo. Tuve uno de mis mareos, y entonces...
+}
+[sha:bfaca634e335d3175e214f6bf87e35557d0a1640]{
+-- Page 260, Offset 4705.
+-- その間に見ていたユメなんだ―――
+Todo esto es un sueño que he visto mientras estaba aturdido―――
+}
+[sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
+-- Page 261, Offset 4706.
+-- 『――――うそだ』
+"―――Es una mentira."
+}
+[sha:7fec099781037b0d2b827ea3c70468fa2dd67b9e]{
+-- Page 261, Offset 4707.
+-- だいたい、どうしてナイフ一本で人間をあそこまでバラバラにできるっていうんだ。
+Quiero decir, ¿como es posible despedazar una persona así sin nada más que un cuchillo?
+}
+[sha:c5771a571221b008447b1585a91afe94e4869ac0]{
+-- Page 261, Offset 4708.
+-- 人間<一体|ひとり>をバラバラにするのは、ノコギリを使っても丸一日はかかる重労働だと聞いた事がある。
+He oído que se tarda un día entero de duro trabajo en despedazar un ser humano, incluso con una sierra.
+}
+[sha:071ca558aaa05201a41ba3de09f06fe2a65b9689]{
+-- Page 262, Offset 4709.
+-- だから、こんなナイフ一本で出来る筈がない。
+No hay forma de que puedas hacerlo con nada más que un cuchillo.
+}
+[sha:6b419ec259b33a24f1543de8a2d536a2a7d0d6af]{
+-- Page 262, Offset 4710.
+-- あの『線』なんて初めからなくって、自分が勝手に思いこんでいるだけの妄想で――――
+Además que, esas 'líneas' no son reales para empezar.
+ Solo son un delirio conveniente que me inventé―――
+}
+[sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
+-- Page 263, Offset 4711.
+-- 『――――うそだ』
+"―――Es una mentira."
+}
+[sha:bceed0a6817de3687e59765128d366e4d747b0a5]{
+-- Page 263, Offset 4712.
+-- 胃液が唇からもれる。
+Jugos gástricos gotean de mis labios.
+}
+[sha:9d96bae293753f0333679fe73174d1033af313fb]{
+-- Page 263, Offset 4713.
+-- 口はおろか、あごから下は胃液でベトベトだ。
+Mi cuerpo entero de barbilla para abajo está pringado fluido estomacal.
+}
+[sha:8f4321c572d0c7e2e0e68b3d52d78c7097595227]{
+-- Page 263, Offset 4714.
+-- 胃液には朱色が混ざっている。
+Los jugos gástricos se mezclan con el carmesí.
+}
+[sha:86b69a7f0de4bba578ef69467c5f31447e757c72]{
+-- Page 263, Offset 4715.
+-- 吐き出すものもないくせに胃が<蠕動|ぜんどう>するため、食道も喉も出血している。
+Mi estómago se contrae, aunque no quede nada dentro de él.
+ Mi exófago y garganta están sangrando.
+}
+[sha:e770cf955d04135fbd04805ea59821ec4f8f4b08]{
+-- Page 264, Offset 4716.
+-- 『い……た――――』
+// Añado 'como' para que tenga sentido
+"Como... duele―――"
+}
+[sha:70393eec05e9a75ec0deb6c2286ecaa5c50881b5]{
+-- Page 264, Offset 4717.
+-- 痛い。
+Duele.
+}
+[sha:f43a4625a7f0a0b8a7c3aca2db55ac88a1261f0c]{
+-- Page 264, Offset 4718.
+-- だからきっと。
+Por eso estoy seguro.
+}
+[sha:c7188820f8a45ced6edf2d9b62a00707c44b5336]{
+-- Page 264, Offset 4719.
+-- これはユメなんかじゃなく、俺は、自分にうそをついている。
+Esto no es un sueño; solo me estoy engañando.
+}
+[sha:65532994eea777002f2b313cac09a4d43b719997]{
+-- Page 265, Offset 4720.
+-- 『―――全部、うそだ』
+"―――Todo... todo es una mentira."
+}
+[sha:8ad7f53a5515cc586410ffd9a9e51c204d4cb30e]{
+-- Page 265, Offset 4721.
+-- そう、本当は理解している。
+En el fondo, entiendo que.
+}
+[sha:97d1fe7ce098be3d83dfbd2a8e7fb992afa7b1b5]{
+-- Page 265, Offset 4722.
+-- 欲情していた。この女性を見て興奮していた。
+La deseaba. Verla me excitaba.
+}
+[sha:5dc279efb1e66eff4e67eec2cbb389ae443677fd]{
+-- Page 266, Offset 4723.
+-- この目だってそうだ。
+Lo mismo va por mis ojos.
+}
+[sha:d750d58e05584ec6f5ea09ae74e661db4a20e276]{
+-- Page 266, Offset 4724.
+-- あの『線』が紙を切るようにモノを切断してしまうと分かっていたのなら。
+Ya entendí que esas 'líneas' me dejan cortar las cosas tan fácil como cortar papel.
+}
+[sha:835bf45bb5328af2f06fd26cd2adc68a63863190]{
+-- Page 266, Offset 4725.
+-- 遠野志貴は、人間だって簡単にバラしてしまうと理解していた筈なのに。
+Tohno Shiki debió saber que los humanos podían ser despedazados con la misma facilidad.
+}
+[sha:0a0493252b546d2720ed8cf4ad169d14085c5e97]{
+-- Page 266, Offset 4726.
+-- 俺は、そんな事を考えもしないで、ただ無責任に暮らしてしまった。
+He vivido de manera irresponsable, sin pararme a considerar esa posibilidad.
+}
+[sha:3ddd3378bdbc6937d432e2dd754213f44e8d5b99]{
+-- Page 267, Offset 4727.
+-- ……自分が、簡単に何かを殺してしまう危険な人間なら。
+Puedo matar las cosas tan fácilmente... soy un ser humano peligroso.
+}
+[sha:9815145bb18c84e837728fc603d7d149f503f3c9]{
+-- Page 267, Offset 4728.
+-- 俺はこの目を潰すか、誰とも会わないような生活をするべきだったのに。
+Debería haberme cegado, o haberme dedicado a una vida donde nunca viese otro alma.
+}
+[sha:73b3875b7cc445b8f0994a620111a0f5b0219311]{
+-- Page 268, Offset 4729.
+-- 『……ごめん、先生』
+"Lo siento, Sensei..."
+}
+[sha:b1349ab69a4aad594ac23e18eb78182a378ff50f]{
+-- Page 268, Offset 4730.
+-- ―――ほんとうに、ごめんなさい。
+―――Lo siento mucho.
+}
+[sha:cf900682312f2620dabeb3d9320169182f8c33af]{
+-- Page 268, Offset 4731.
+-- そんな簡単な事さえ、遠野志貴は守れなかった――――
+No pude si quiera mantener una simple promesa―――
+}
+[sha:d0c65a37d78a60138ea57124b6afe610d22aa6c8]{
+-- Page 269, Offset 4732.
+-- 『俺は―――まだ、<正気|まとも>なのか』
+"¿Sigo... cuerdo?"
+}
+[sha:cef09a4cb5651072223edde1906db8df7755e7d2]{
+-- Page 269, Offset 4733.
+-- わからない。さっきまで湧きあがっていた衝動は、もう微塵も残っていない。
+No lo sé. No queda ni una mota del impulso que me superó antes.
+}
+[sha:8f5557d312f23b0c7189bd36bd3560bce84950e3]{
+-- Page 270, Offset 4734.
+-- けれどあの時、耐えるとか堪えるとか、そういった思考すら浮かばなかった。
+Pero en ese momento, ni siquiera pensé en aguantar o suprimir esos pensamientos.
+}
+[sha:d304556dbe1feaaf8ece5ac24700ad67fe7e921f]{
+-- Page 270, Offset 4735.
+-- 『この女を殺す』
+"Mátala."
+}
+[sha:382bbc52a76ec16695ff17b0f5ec6b8bb65bcf23]{
+-- Page 270, Offset 4736.
+-- そんなコトを当たり前のように考えて、実行していた。
+Estaba pensando y actuándo como si esos impulsos fueran totalmente naturales.
+}
+[sha:1f82d4bbbd969608403d51a0b56c65f9ade73f69]{
+-- Page 271, Offset 4737.
+-- ……なら答えは簡単だ。
+En cuyo caso... la respuesta es obvia.
+}
+[sha:e916bff46040c4338a2b0932069cdccf7ff6012e]{
+-- Page 271, Offset 4738.
+-- 俺は、きっと狂っている。
+Definitivamente me he vuelto loco.
+}
+[sha:4bd5e90187b9ef8c99fc9fbf025ad6abbe32bbf5]{
+-- Page 271, Offset 4739.
+-- おそらくは七年前。
+Probablemente haya estado loco estos últimos siete años.
+}
+[sha:d9a00e2fa0dc4299547e533e13db112962405d07]{
+-- Page 271, Offset 4740.
+-- 死亡するべきだった事故から、
+Desde aquel accidente que debería haberme matado.
+}
+[sha:5c260bd3218a6b0482d8cd54e0cb35e055e752c7]{
+-- Page 271, Offset 4741.
+-- 奇跡的に蘇生したその時から―――――――
+Desde el momento en el que sobreviví milagrosamente―――
+}
