@@ -27,8 +27,8 @@ MRG_TEMP_DIR = '.allpac_extracted'
 PNG_TEMP_DIR = '.gamecg_dds'
 
 # Source dir with game CG images to replace
-GAMECG_TEXTURES_DIR = '../../images/en_gamecg/allpac_textures'
-GAMECG_RAW_DIR = '../../images/en_gamecg/allpac_raw'
+GAMECG_TEXTURES_DIR = '../../images/es_gamecg/allpac_textures'
+GAMECG_RAW_DIR = '../../images/es_gamecg/allpac_raw'
 
 # External texture replacement program
 REPLACER = 'bntx_replace/bntx_replace.py'
