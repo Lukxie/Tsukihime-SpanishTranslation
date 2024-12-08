@@ -15,7 +15,7 @@ OUTPUT_DIR = '_new_mrgs/'
 OUTPUT_BASENAME = os.path.join(OUTPUT_DIR, 'allui')
 MRG_TEMP_DIR = '.allui_extracted'
 PNG_TEMP_DIR = '.user_interface_dds'
-USER_INTERFACE_DIR = '../../images/en_user_interface/'
+USER_INTERFACE_DIR = '../../images/es_user_interface/'
 REPLACER = 'bntx_replace/bntx_replace.py'
 SCRIPT_TRANSLATIONS_FOLDER = '../../'
 
