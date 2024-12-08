@@ -1,6 +1,6 @@
 # Tsukihime-SpanishTranslation
 * Fork del repo de Tsukihimates
-Traducción open source de Tsukihime -A Piece of Blue Glass Moon- basada en la versión traducida al inglés by [Tsukihimates](https://twitter.com/tsukihimates).
+* Traducción open source de Tsukihime -A Piece of Blue Glass Moon- basada en la versión traducida al inglés by [Tsukihimates](https://twitter.com/tsukihimates).
 
 
 ## Recursos
