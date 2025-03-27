@@ -1,27 +1,29 @@
 [sha:0f4785cc8f4604876fc93f876467784e8ab2292d]{
 -- Page 10027, Offset 10832.
 -- 牽引だ。
--- TRANSLATION HERE
+Tiene que ser remolcado.
 }
 [sha:19963c84a7d1600e8ead689845c9d2bba6ffbd73]{
 -- Page 10027, Offset 10833.
 -- それしかない。我ながら冴えてる。
--- TRANSLATION HERE
+Es la única forma. Una idea brillante diría yo.
 }
 [sha:930c0f53e12ed0365cf49935afda1c5599bf0623]{
 -- Page 10027, Offset 10834.
 -- そう、こちらが近づけないのなら、相手の方から来て貰えばいい。
--- TRANSLATION HERE
+Sí... si no puedo acercarme, entonces tendremos que hacer que venga.
 }
 [sha:a84e4b5093f1c988ef8001b843c10ea07deb2f24]{
 -- Page 801, Offset 10835.
 -- 俺ひとりでは不可能だが、アルクェイドにまだあれだけの力が残っているならいけるかも……！
--- TRANSLATION HERE
+No hay forma de que lo consiga solo,
+ ¡pero si Arcueid aún tiene suficiente fuerza,
+ quizá seamos capaces de hacerlo!
 }
 [sha:37a671def28e07be82b190e94ab81a2f096e9a78]{
 -- Page 802, Offset 10836.
 -- 後方のアルクェイドまで走る。
--- TRANSLATION HERE
+Corro hacia Arcueid.
 }
 [sha:fda297ca50faf7c7b71dc0e83225128e187d3179]{
 -- Page 802, Offset 10837.
@@ -31,117 +33,122 @@
 [sha:e0498f2249d138924fe05a1db57ebd78cecb64e9]{
 -- Page 802, Offset 10838.
 -- 背中で氷の砕ける音がする。
--- TRANSLATION HERE
+Escucho el sonido del hielo rompiéndose detrás de mí.
 }
 [sha:272d90cda65a68017925f53eaa34662bd111d2ea]{
 -- Page 802, Offset 10839.
 -- アルクェイドが起こす爪の形をした風圧は、彼女の手が届く範囲だけでなく、この距離でも正確に発生するようだ。
--- TRANSLATION HERE
+Supongo que las ondas con forma de garra de Arcueid no están limitadas al combate cuerpo a cuerpo――
+también son precisas a distancia.
 }
 [sha:dc33a6b51aec617ec94fadbdd52d2277a2160164]{
 -- Page 803, Offset 10840.
 -- 「どうしてこっちに来ちゃったの志貴！？
--- TRANSLATION HERE
+"Shiki, ¿por qué narices vienes aquí?
 }
 [sha:cf1bb80366446212dbadc5001a7c679daa2745f5]{
 -- Page 803, Offset 10841.
 -- なんかすごく得意げな顔してるけどーー！？」
--- TRANSLATION HERE
+¡¿Y por qué pones esa cara tan orgullosa?!"
 }
 [sha:9a50c8cfbea26272de69352bd39c73cec40710cd]{
 -- Page 803, Offset 10842.
 -- 「説明は後だ、いいからアレやってくれ！
--- TRANSLATION HERE
+"¡Luego te lo explico, solo haz lo que te digo!
 }
 [sha:8a9e124e7bf1d1070efddb2e2c81f31e3d8ade53]{
 -- Page 803, Offset 10843.
 -- さっきヴローヴを捕まえた蔦！」
--- TRANSLATION HERE
+¡La hiedra con la que atrapaste antes a Vlov!
 }
 [sha:1f13c088b46f8d95659c3e30699c4f577538e93c]{
 -- Page 804, Offset 10844.
 -- 今は時間が惜しい。
--- TRANSLATION HERE
+No hay tiempo que perder.
 }
 [sha:a27c2665c1de07f7f32961b9366b73790f60ddfa]{
 -- Page 804, Offset 10845.
 -- 『ヴローヴを蔦で縛ってほしい』というジェスチャーをしながら叫ぶ。
--- TRANSLATION HERE
+Grito y señalo mi intención de atar a Vlov con la hiedra.
 }
 [sha:df3de613c78372bc45aa30eeef1153dea51a55ea]{
 -- Page 805, Offset 10846. Mods: @k, @e.
 -- 「この距離でー！？
--- TRANSLATION HERE
+"¡¿A esta distancia?!
 }
 [sha:10041de412535b576d41b587e6cac881c0d1e42b]{
 -- Page 805, Offset 10847. Glued. Mods: @x.
 -- と、危ない危ない……っ！」
--- TRANSLATION HERE
+Uf, ¡qué cerca ha estado!"
 }
 [sha:881ac9909ef01dd9442f26624825e071d99caf77]{
 -- Page 805, Offset 10848.
 -- 「投げ縄の要領でなんとか！」
--- TRANSLATION HERE
+"¡Sí, ya sabes, como un lazo lo que sea!"
 }
 [sha:cb8914450c9ac4945ae1dc37b48857e86867a095]{
 -- Page 805, Offset 10849.
 -- 「はあ！？　ああもう、よくわかんないけど捕まえればいいのね！？」
--- TRANSLATION HERE
+"¡¿Eh?! Realmente no lo entiendo, ¡¿solo tengo que atraparlo verdad?!
 }
 [sha:9a85fb8fc02f2c545a028e3cfb3cb29ff52e9c3a]{
 -- Page 806, Offset 10850.
 -- こちらの必死さが伝わったのか、アルクェイドは訳が分からないながらもヴローヴに向けてその手をかざし、
--- TRANSLATION HERE
+Debo haber transmitido mi desesperación porque,
+ aun aparentemente desconcertada,
+ Arcueid levanta su mano hacia Vlov―――
 }
 [sha:edc7c9aaecfbace90c44c3e035b5e6f3d0a6091b]{
 -- Page 807, Offset 10851.
 -- 「さっすが！　すごいな、アルクェイド！」
--- TRANSLATION HERE
+"¡Eso es! ¡Eres increíble, Arcueid!"
 }
 [sha:d0757b138d76d7f0ac77f32422c3ba15daaf5d87]{
 -- Page 807, Offset 10852.
 -- 「えへへ。でも、これからどうするのー！」
--- TRANSLATION HERE
+"%{i}Ejeje%{/i}. ¿Pero ahora qué hacemos?"
 }
 [sha:7d1ef2e3bcedcf37ab5d007c7dff2d9d6a7dd710]{
 -- Page 808, Offset 10853.
 -- 「もちろん―――全力で引っ張ってくれ！」
--- TRANSLATION HERE
+"¿No es obvio? ¡Tira tan fuerte como puedas!"
 }
 [sha:6dcf2869842ca09fc5931c98ce849277cf18f395]{
 -- Page 808, Offset 10854.
 -- 「全力って、こんな感じー！？」
--- TRANSLATION HERE
+"¿Tan fuerte como pueda? ¡¿Así?!"
 }
 [sha:36c49e1ca4559debce2bd8d2acc155a93b9c2fc1]{
 -- Page 809, Offset 10855.
 -- 瓦礫をあの勢いで投げつけられるアルクェイドなら、ヴローヴを高速で引っ張れる筈だ。
--- TRANSLATION HERE
+Teniendo en cuenta como ha lanzado forzosamente los escombros,
+ debería ser capaz de pescar a Vlov a gran velocidad.
 }
 [sha:171c4c75f2943ef3c4eeea138deb9cf2c86d8793]{
 -- Page 809, Offset 10856.
 -- 俺が走るよりそちらの方が遙かに速い。
--- TRANSLATION HERE
+Esto será mucho más eficiente que intentar correr hacia el.
 }
 [sha:f05d519dc48814c5a2f62c2f14176a2f4c66c1b7]{
 -- Page 810, Offset 10857.
 -- 問題はヴローヴの“踏み止まる力”がどれほどなのか。
--- TRANSLATION HERE
+La pregunta es hasta qué punto Vlov es capaz de defenderse.
 }
 [sha:c92f8f504a2a408f8c453a3f3b44db40e4c234fa]{
 -- Page 810, Offset 10858.
 -- 『距離』という有利をヤツが手放す筈がない。ヤツは最大限、アルクェイドによる牽引に抵抗するだろう。
--- TRANSLATION HERE
+La distancia le da ventaja, no hay forma de que la ceda voluntariamente.
+ Definitivamente resistirá el tirón de Arcueid con todo lo que tiene.
 }
 [sha:018e6bc868542036e49ff9b261795583555271cc]{
 -- Page 811, Offset 10859.
 -- これはふたりの吸血鬼による綱引きだ。
--- TRANSLATION HERE
+Es un tira y afloja entre dos vampiros.
 }
 [sha:c1d7d62c5caa8820a28e408995880ec80e241b33]{
 -- Page 811, Offset 10860.
 -- 力を弱めた方が相手の陣地に引き込まれ―――
--- TRANSLATION HERE
+El que sea más débil de los dos perderá su posi―――
 }
 [sha:5d631305fe85b050fba007113d99888b063f126c]{
 -- Page 812, Offset 10861.
@@ -151,70 +158,73 @@
 [sha:b24dec695dbd81cb1d50e84f2cf6fb1d20e59410]{
 -- Page 812, Offset 10862.
 -- 瞬間。50メートル向こうの、黒い外套が消失し、
--- TRANSLATION HERE
+En un instante, la capa negra a cincuenta metros se desvanece.
 }
 [sha:5dc2b68a29c31113a45bd738c942a83b885f7134]{
 -- Page 812, Offset 10863.
 -- こちらが構えるより速く、倒すべき敵が、目の前に現れていた。
--- TRANSLATION HERE
+Antes de tener oportunidad de prepararnos,
+ el enemigo que vinimos a derrotar esta justo frente a nosotros.
 }
 [sha:fd92586a1a81324757832cea6396f9c97b2560c4]{
 -- Page 813, Offset 10864.
 -- この空間に安全圏はない。
--- TRANSLATION HERE
+Hemos perdido nuestra distancia de seguridad.
 }
 [sha:02e32cef3e03a0ba3f548ee6d5ecf94f4e82b44a]{
 -- Page 813, Offset 10865.
 -- ヴローヴは近づかないのではなく、俺同様、近づく余力が無かっただけだ。
--- TRANSLATION HERE
+No es que Vlov no %{i}quisiera%{/i}  acercarse.
+ El, como yo, no tenía las fuerzas para hacerlo.
 }
 [sha:54bfa73523fa85dc6b44ace59002f8df421a35e7]{
 -- Page 813, Offset 10866.
 -- だというのに、俺はヤツに追い風を与えてしまった。
--- TRANSLATION HERE
+// Darle viento de cola no se si es demasiado literal
+Pero entonces... voy y le doy alas.
 }
 [sha:fb46cf4014202dbf9eca78c840b52d228c00f2fa]{
 -- Page 814, Offset 10867.
 -- 「―――、ァ」
--- TRANSLATION HERE
+"%{i}Ghu%{/i}―――"
 }
 [sha:c1beaf559d81350afba43ff25c5c9675de43defc]{
 -- Page 814, Offset 10868.
 -- 胸に、巨大な異物が刺し込まれている。
--- TRANSLATION HERE
+De mi pecho sobresale algo que no debería estar ahí.
 }
 [sha:3d297f21df4cf3d88728881691bd859a19fb03c7]{
 -- Page 814, Offset 10869.
 -- 俺は大きく、人生最後になる息を吐いて、
--- TRANSLATION HERE
+Respiro hondo por última vez.
 }
 [sha:b0b2ebcffb8a7765760e9e5d40b21bed1845df21]{
 -- Page 815, Offset 10870.
 -- 「“―――狩りの基本も知らないのか。
--- TRANSLATION HERE
+"¿No conoces las bases de la caza?
 }
 [sha:aec75670db6353065150201a9d5bc9b77a07d468]{
 -- Page 815, Offset 10871.
 -- 縄をかけるのは、獲物を仕留めた後だろう”」
--- TRANSLATION HERE
+Solo atas la presa una vez muerta."
 }
 [sha:ea5e3e23c87a20e626d9a0d0e306f85971866a16]{
 -- Page 815, Offset 10872.
 -- 心底から失望した、狩人の声を聞いた。
--- TRANSLATION HERE
+Escucho la voz de un cazador, decepcionado desde el fondo de su corazón.
 }
 [sha:c4b9284f046636db6099297a337ce18b7f7f40f7]{
 -- Page 816, Offset 10873.
 -- まったくだ。
--- TRANSLATION HERE
+La he cagado.
 }
 [sha:8eb4648f66334d03d9bcaf51c410e659f88cbe05]{
 -- Page 816, Offset 10874.
 -- 自分の命も使わず、安易な思いつきに飛びついた。
--- TRANSLATION HERE
+He llevado a cabo un plan descerebrado sin pensar en mi propia vida.
 }
 [sha:88127311b7f69dc04e89af8bddbfccda567a5890]{
 -- Page 816, Offset 10875.
 -- 野良犬以下の阿呆には、相応の結末だ。
--- TRANSLATION HERE
+Un final apropiado para un idiota peor que un perro callejero.
 }

@@ -1,632 +1,678 @@
 [sha:6a404ae2d6681ba728fb4b8e2048c8ee00deadf1]{
 -- Page 10022, Offset 10421.
 -- アルクェイドの前で身を屈める。
--- TRANSLATION HERE
+Me agacho frente a Arcueid.
 }
 [sha:fa1e5311dfe889bb0a8186830ca0c5ba26f79877]{
 -- Page 10022, Offset 10422.
 -- 膝と両手を地面につく。
--- TRANSLATION HERE
+Manos y rodillas tocan el suelo.
 }
 [sha:91831c54c6ca49ffaaf49a813f9459bc4adbab9d]{
 -- Page 659, Offset 10423.
 -- 地中を走る見えざる<腕|かいな>。
--- TRANSLATION HERE
+Un brazo invisible atraviesa el suelo.
 }
 [sha:b9820fda68b08930686fce2624234b3bc513c5cb]{
 -- Page 659, Offset 10424.
 -- アルクェイドは先ほどと同じ<礫|つぶて>を―――いや、その何倍もの規模で、細かな瓦礫ごと、<こ|・><の|・><地|・><形|・><を|・><変|・><動|・><さ|・><せ|・><た|・>。
--- TRANSLATION HERE
+Arcueid comienza a socavar otro trozo de tierra――no, esta vez está yendo mucho más profundo.
+ Está socavando los mismos cimientos del suelo, escombro y todo, cambiando el terreno en el proceso.
 }
 [sha:7a8ba45340de7d451b6e194b8e00a021e27459df]{
 -- Page 660, Offset 10425.
 -- それは爆発を思わせる、大地そのものの隆起だった。
--- TRANSLATION HERE
+Erupciona la tierra misma. Sería excusable pensar que ha explotado una bomba.
 }
 [sha:31a2d2135a66b7f81bd20088656aea4a539bd2cf]{
 -- Page 660, Offset 10426.
 -- 木っ端微塵の力技。ヴローヴの冷気が吹雪なら、アルクェイドの所行は大地の津波だ。
--- TRANSLATION HERE
+Es una hazaña de fuerza que aniquila todo a su paso.
+ Si el aire frío de Vlov es una ventisca,
+ entonces Arcueid es un tsunami de tierra.
 }
 [sha:afef4e00d09328d323a22a176d37427de0f746d6]{
 -- Page 661, Offset 10427.
 -- 飛翔する氷の槍など、この壁の如き土砂の前では飛沫にすぎない。
--- TRANSLATION HERE
+// Un mix entre las dos tls
+Incluso las lanzas heladas de Vlov no son más que gotas de lluvia ante el maremoto de tierra y arena.
 }
 [sha:c73702798442718915e7264a11a3280ca85d4e3a]{
 -- Page 661, Offset 10428.
 -- 高さ50メートル、7000トンに相当する質量が、ヴローヴを飲み込まんと押し寄せる。
--- TRANSLATION HERE
+El muro, de cincuenta metros de alto y 7000 toneladas de peso,
+ se abalanza sobre Vlov para tragárselo entero.
 }
 [sha:9dd9d12d247e76a4030a2d9b9b1d05a8285ea39c]{
 -- Page 662, Offset 10429.
 -- されど、地を返す天変地異に<騎|ヤ><士|ツ>は動じず。
--- TRANSLATION HERE
+Y aún así,
+ incluso al enfrentarse a este cataclismo sísmico,
+ el caballero ni se inmuta.
 }
 [sha:e4f0fe3300f8ddb1ce8792301d79f29142589838]{
 -- Page 662, Offset 10430.
 -- 土砂の大波を、鋼鉄の槍の一刺しで貫き、押し返す。
--- TRANSLATION HERE
+La inundación de tierra es repelida por una estocada de su lanza de hierro.
 }
 [sha:8cc99c482015cce5197240150ee92acb3d33a1ac]{
 -- Page 663, Offset 10431.
 -- 瓦礫の土砂降りの中、ヴローヴは視認したハズだ。
--- TRANSLATION HERE
+Con los escombros esparcidos por el golpe, debe ser capaz de ver lo que ha pasado.
 }
 [sha:a73a62161a1d455fabdcaced3fff75a3791ba0bc]{
 -- Page 663, Offset 10432.
 -- 最後の力で岩盤を両手でひっくり返し、その消耗から膝をついたアルクェイドと、おそらく、この土砂を目くらましにして接近する“脅威”が、どこにも見当たらない事を。
--- TRANSLATION HERE
+Ambas cosas, que Arcueid está de rodillas tras usar sus fuerzas restantes para levantar las rocas,
+ y que la amenaza――quien asume que está acercándose usando los escombros como pantalla de humo――no está por ningún lado.
 }
 [sha:f80ab1991bb3b2ad95818f4ff954cd3c6ab7c235]{
 -- Page 664, Offset 10433.
 -- <聳|そび>える大波を前にして、ソレは、かつての思考を取り戻した。
--- TRANSLATION HERE
+// Tl oficial
+Frente a la enorme ola, los instintos del hombre regresan.
 }
 [sha:839c9e5128a6b6b6535cd92c4b1928f700fe0392]{
 -- Page 664, Offset 10434.
 -- いや、正確には２分前から。
--- TRANSLATION HERE
+En realidad, regresaron dos minutos antes.
 }
 [sha:e47fc39eb406a0747647ec50cab6374fbf065c09]{
 -- Page 664, Offset 10435.
 -- 常に寒波に<侵|おか>され正気を無くした筈の脳が、あの一瞬―――目前に迫る人間から飛び退いた時から、正常に稼働しようと努めていた。
--- TRANSLATION HERE
+// Mix de entre las dos tls
+Aún afligido por la ola de hielo,
+ desde que el humano le forzó a retirarse,
+ su mente delirante ha estado trabajando duro para funcionar con normalidad.
 }
 [sha:b3844f900627f429dfc32eed40cee279372ad559]{
 -- Page 665, Offset 10436.
 -- “あの人間には自分を殺す用意がある。”
--- TRANSLATION HERE
+%{i}Ese humano tiene una forma de matarme%{/i}.'
 }
 [sha:8e98bc68528e891d0b30c02491dc610881d81809]{
 -- Page 665, Offset 10437.
 -- “理屈は不明だが、それは間違いない。”
--- TRANSLATION HERE
+%{i}No se como pero estoy seguro de ello%{/i}.'
 }
 [sha:c84e6ed2fd6a4bb8de0d874d2a1d0d5f10d766df]{
 -- Page 665, Offset 10438.
 -- かつて、彼が正常だった頃の残滓。
--- TRANSLATION HERE
+En el aún permanecen los vestigios de cuando era un hombre común.
 }
 [sha:e7307f7f73537b5f3349684e6089d128f3bf44fc]{
 -- Page 665, Offset 10439.
 -- 中世の暗黒時代に培った騎士としての闘争経験が、全身に巡る呪いを打ち払った。
--- TRANSLATION HERE
+Su experiencia en batalla como caballero,
+ forjada en la Era Oscura,
+ lo ha liberado de la maldición que plagaba su cuerpo.
 }
 [sha:a74607d5c95044806bac2e4940e4c57b77bc5320]{
 -- Page 665, Offset 10440.
 -- たった二十年程度の矜持が、千年を超える狂気に勝ったのだ。
--- TRANSLATION HERE
+El orgullo y la dignidad de esos meros veinte años,
+ triunfantes sobre la locura que trasciende los miles.
 }
 [sha:3e0a372963bb9d733231bbb905fd8570a6b75282]{
 -- Page 666, Offset 10441.
 -- それがどのような奇跡なのか、彼はよく判っている。
--- TRANSLATION HERE
+Es muy consciente del milagro que esto supone.
 }
 [sha:39ea8e8d16c72c05fbed114e50889680fd6d18ac]{
 -- Page 666, Offset 10442.
 -- こんなものは一瞬だ。あの人間を殺すまでの気の迷いだ。本来起こりえない、死後の夢そのものだ。
--- TRANSLATION HERE
+Esto es efímero.
+ Nada más que una ilusión, destinada a disiparse una vez muera el humano.
+ Algo normalmente imposible――un sueño más allá de la muerte.
 }
 [sha:fbf4165628e00cb99fed2458d278ef2ea93906f4]{
 -- Page 666, Offset 10443.
 -- 戦闘に興じるなぞ―――そんな人間らしい<歓|よろこ>びは、あと数秒で凍り付く。
--- TRANSLATION HERE
+Deleitarse en batalla es un placer humano――el que se congelará en unos pocos segundos.
 }
 [sha:301736443bc97cea3f628c5711c206b56bd869cf]{
 -- Page 667, Offset 10444.
 -- 「“――――――、ハ”」
--- TRANSLATION HERE
+"―――%{i}Hah%{/i}."
 }
 [sha:2bc900fdb7edb167bee2b58ed51f57f68aed6bab]{
 -- Page 667, Offset 10445.
 -- だからこそ、この展開に燃え上がらずにはいられない。
--- TRANSLATION HERE
+// Me baso mas en la tl oficial y en el jp
+Siendo así, pretende degustar el desarrollo de los acontecimientos.
 }
 [sha:e014c1cd2ae6fb7f167a7c954daac4d1e256a8c0]{
 -- Page 667, Offset 10446.
 -- 敵の狙いは明白だ。
--- TRANSLATION HERE
+El objetivo del enemigo es claro.
 }
 [sha:e8186a8618a878b9ef684a07e620a6735188c735]{
 -- Page 667, Offset 10447.
 -- この土砂を盾にしてあの敵は接近してくる。
--- TRANSLATION HERE
+Me abordará usando la pared de escombros como cobertura.
 }
 [sha:fb0d5e4cc8e1a5ed3aa45faf0b66abc73a77f580]{
 -- Page 667, Offset 10448.
 -- 敵の武器は切断だ。この壁もヤツにとっては扉のようなもの。切り裂いてこちらの間合いに踏み込んでくるだろう。
--- TRANSLATION HERE
+Sabe que es un arma humana. Sabe que lucha cortando.
+ Para él incluso esta pared es una puerta.
+ Seguro que la rebanará, e invadirá su territorio.
 }
 [sha:982209fcd12633ff14dfc24a7683e24559c415b1]{
 -- Page 668, Offset 10449.
 -- 槍を構える。
--- TRANSLATION HERE
+Prepara su arma.
 }
 [sha:a62cb27a6f3af2efe6123eac44f38bbe03a886fa]{
 -- Page 668, Offset 10450.
 -- 本来ならこの大波ごと、その後ろに身を隠す敵を砕くべきだと理解している。
--- TRANSLATION HERE
+Sabe que, normalmente, podría aplastar a su enemigo junto a la pared en la que se esconde.
 }
 [sha:beed81985da8390a3f8aa7076860f1d894dbfbdd]{
 -- Page 669, Offset 10451.
 -- 敵の戦法に対応する必要はない。
--- TRANSLATION HERE
+No hay necesidad de adaptarse a las tácticas del enemigo.
 }
 [sha:2542fea7b493ce427a7fbf044721c9cc8b86c5ae]{
 -- Page 669, Offset 10452.
 -- その戦法ごと粉砕するのが彼の戦法だ。
--- TRANSLATION HERE
+%{i}Su%{/i} estrategia es aplastar al enemigo junto a cualquier plan que tenga.
 }
 [sha:968717e6aa13ff5893f075d2ee046e6e751f4532]{
 -- Page 669, Offset 10453.
 -- まだ自分には余力がある。
--- TRANSLATION HERE
+Aún le queda poder.
 }
 [sha:9f256f2a0698332aa3d8ea8bf0999a83da97e596]{
 -- Page 669, Offset 10454.
 -- 極上の血液は量にして10人分ものストックがある。
--- TRANSLATION HERE
+Tiene en reserva la mejor sangre por valor de diez personas.
 }
 [sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
 -- Page 669, Offset 10455.
 -- だが―――
--- TRANSLATION HERE
+Sin embargo―――
 }
 [sha:aff2106b0fc6a5e43d14afbbbc055bcea0a5b217]{
 -- Page 670, Offset 10456.
 -- 「“それは、できない。この魂を消費する事だけは、決して”」
--- TRANSLATION HERE
+"Eso... No puedo hacerlo. Estas almas son las únicas que %{i}nunca%{/i} podré consumir."
 }
 [sha:0b13b1fe2a3d999c1f4bbbdaffd2622d69ce054e]{
 -- Page 670, Offset 10457.
 -- 彼にとっての暖。燃え上がる為の血液を、永遠に温存する。
--- TRANSLATION HERE
+Es su calidez. Con el fin de arder, conservará esta sangre por toda la eternidad.
 }
 [sha:718844bbcfb927336f25d7cd725af02dce611d7b]{
 -- Page 671, Offset 10458.
 -- あの人間を<侮|あなど>っての事ではない。
--- TRANSLATION HERE
+Y por eso es que no mira al humano por encima del hombro.
 }
 [sha:ae3d75b1bf6c16f1c06792dab9601672f69bc635]{
 -- Page 671, Offset 10459.
 -- アレが名状しがたい特例である事はもう理解している。
--- TRANSLATION HERE
+Ya ha captado que él es una excepción indescriptible.
 }
 [sha:1ae894771e4b4657430180c5e55fac01f5ee580d]{
 -- Page 671, Offset 10460.
 -- アレに接近された時が自らの終わりだと予感している。
--- TRANSLATION HERE
+Puede sentir que si deja que se acerque, será su final.
 }
 [sha:6e6a01817751ec2e82126b4db2db60a99737bd10]{
 -- Page 671, Offset 10461.
 -- それでも、譲れないものがある。
--- TRANSLATION HERE
+Pero aún así, hay cosas que no puede dejar ir.
 }
 [sha:bb83bed2f8371a5adc2436f09cac3de6c583976e]{
 -- Page 672, Offset 10462.
 -- 「“―――砕く―――！”」
--- TRANSLATION HERE
+"¡Rómpete!"
 }
 [sha:538dfd4a717831cd6ff970210cf4e4fabedb9bd9]{
 -- Page 672, Offset 10463.
 -- それでは<手|・><ぬ|・><る|・><い|・>と読みながら、長槍に残された力の五割をたたきこむ。
--- TRANSLATION HERE
+Empuña la mitad de su fuerza en su lanza,
+ incluso sabiendo que esa cantidad será insuficiente.
 }
 [sha:7cadefd600a2c01246ae25177beece0b54261bb8]{
 -- Page 673, Offset 10464.
 -- 衝突し、四散する瓦礫の大波。
--- TRANSLATION HERE
+Al colisionar, una gran ola de escombros de esparce.
 }
 [sha:008ad5759a0ad9826cf48734425b366e6738e6f5]{
 -- Page 673, Offset 10465.
 -- それでは足りない。いま穿ったものは己の正面のみ。
--- TRANSLATION HERE
+No será suficiente.
+ Solo ha penetrado lo que está directamente frente a él.
 }
 [sha:6dae51800a0ee4b1406250979b82d952e4bce0e7]{
 -- Page 673, Offset 10466.
 -- これは自身の安全を確保しただけの一撃だ。そんな一撃をあの“敵”が被弾する筈がない。
--- TRANSLATION HERE
+Ese golpe ha servido meramente para garantizar su seguridad.
+ ¿Cómo podría un ataque como ese golpear a su enemigo?
 }
 [sha:e927bda1376ba2e146dc0ec38e19c1fbc824ba5b]{
 -- Page 673, Offset 10467.
 -- 必ず来る。何を犠牲にしようとやって来る。
--- TRANSLATION HERE
+El enemigo %{i}vendrá%{/i}.
+ Sin importar lo que cueste.
 }
 [sha:c19aa878cb697ef5e70dcec51412a82fd25753f7]{
 -- Page 674, Offset 10468.
 -- 「“だが―――”」
--- TRANSLATION HERE
+"Pero―――"
 }
 [sha:637c00e235a7919289a0a5096626c737a2be73d0]{
 -- Page 674, Offset 10469.
 -- 悲しいかな、それが人間の限界だ。
--- TRANSLATION HERE
+Aunque sea triste, el cuerpo humano tiene un límite.
 }
 [sha:f70a76f4317230ff2aa1ae9226555643ede6e67f]{
 -- Page 674, Offset 10470.
 -- 人の身では瓦礫の雨をくぐり抜ける事はできない。
--- TRANSLATION HERE
+Es imposible para un humano atravesar esa lluvia de escombros.
 }
 [sha:f6dc95af6904944bd4332a85c1d88744049ea3db]{
 -- Page 674, Offset 10471.
 -- 真祖の姫による援護を満足に活用する事もできない。
--- TRANSLATION HERE
+Y por lo tanto, imposible para él utilizar el apoyo que le ha brindado la Princesa de los Verdaderos Ancestros.
 }
 [sha:e72ad5d7940d9b0d041765f54aa0ee2ef65302fe]{
 -- Page 675, Offset 10472.
 -- この土砂降りが<止|や>めばそれで終わりだ。
--- TRANSLATION HERE
+Todo se acabará en cuanto el aguacero termine.
 }
 [sha:5392727981d3a88a08004014a6304a959e352fb4]{
 -- Page 675, Offset 10473.
 -- 姿さえ見えていれば、二度とあのような奇襲は許さ―――
--- TRANSLATION HERE
+Mientras pueda rastrearlo,
+ nunca permitirá una ataque sorpresa como ese de nue―――
 }
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 676, Offset 10474.
 -- 「“――――――”」
--- TRANSLATION HERE
+"――――――"
 }
 [sha:c86caf5a9f5755a96a08cb6877cf83c394725384]{
 -- Page 676, Offset 10475.
 -- 千里先を知覚する両目が見開かれる。
--- TRANSLATION HERE
+// Un mix entre la tl y el jp
+Sus ojos se abren de par en par para percibir el amplio espacio ante él.
 }
 [sha:a9459e0d71a892021171532ecccca56135d03c85]{
 -- Page 676, Offset 10476.
 -- ―――ない。その姿が、微塵もない。
--- TRANSLATION HERE
+―――No está. No hay ni rastro.
 }
 [sha:dcdb61055934bb3d52dd0d12a096cac02dd48100]{
 -- Page 677, Offset 10477.
 -- 走り去る影すらない。
--- TRANSLATION HERE
+Ni siquiera un atisbo de su sombra escabulléndose.
 }
 [sha:9b4b778f128fced2088d9207330c8106b2f57a06]{
 -- Page 677, Offset 10478.
 -- 槍の一撃でそのまま死んだか。まさか。あの敵にかぎってそれはない、と己を責める。
--- TRANSLATION HERE
+¿Quizá murió ante el asalto de su lanza? No, imposible.
+ Se recrimina ante su necio pensamiento.
+ Su enemigo nunca moriría tan fácilmente.
 }
 [sha:65b39b3c300b12269e7a3ab09b23805cc83315f7]{
 -- Page 677, Offset 10479.
 -- なにより背筋には、より強い死の悪寒が走っている。
--- TRANSLATION HERE
+// Mix entre tl y la oficial
+De hecho, un escalofrío mortal recorre su espalda.
 }
 [sha:c35490e2e908ceeac40d1634f9bdaacbd476c2d7]{
 -- Page 678, Offset 10480.
 -- わずか１秒、彼の思考は“敵”から離れた。
--- TRANSLATION HERE
+// Tl oficial
+Por un segundo, sus pensamientos se distrajeron del enemigo.
 }
 [sha:f7998a56b8c82544d4b0552b8a8134705625e95e]{
 -- Page 678, Offset 10481.
 -- 接近してくるのは明白だ。
--- TRANSLATION HERE
+// Tl oficial
+Sabe que el enemigo vendrá.
 }
 [sha:034fe00cc0ee4511ec4d7d316e9a299ae28649ee]{
 -- Page 678, Offset 10482.
 -- 索敵できないというのなら前提が間違えている。
--- TRANSLATION HERE
+Por lo que si no puede localizar al enemigo, algo sobre su suposición inicial no debe ser correcto.
 }
 [sha:921389526c16f38701a65b335b2a5236d7bf8087]{
 -- Page 678, Offset 10483.
 -- この土砂は盾として使われると彼は読んだ。
--- TRANSLATION HERE
+Predijo que el muro de escombros sería usado como cobertura.
 }
 [sha:7efbd4a17661a2f56d8eaa940cd40839e27e6d11]{
 -- Page 678, Offset 10484.
 -- だが、それが盾ではないとしたら―――
--- TRANSLATION HERE
+Sin embargo, si no era cobertura, entonces sería―――
 }
 [sha:faf3770869b19cb1ae7ccdff7fdf06c332a5e477]{
 -- Page 679, Offset 10485.
 -- 「“――――――道、か！”」
--- TRANSLATION HERE
+"¡―――Un camino!"
 }
 [sha:a11aa5914c88651f87e5d19e80d2017bc4fdf764]{
 -- Page 679, Offset 10486.
 -- 空を仰ぐ。<彼|か>の敵は月光を背に。
--- TRANSLATION HERE
+El hombre mira al cielo. A la figura del enemigo delineada por la luz lunar.
 }
 [sha:6080505a7984b1c8a5976d9c9d0f8f4fa21cf1d2]{
 -- Page 679, Offset 10487.
 -- 亡霊のように青く<灯|とも>る、直死の魔眼がそこにある。
--- TRANSLATION HERE
+Y ahí, iluminados de un azul fantasma, los Ojos Místicos de Percepción Mortal.
 }
 [sha:5bf1406ee8b8a51298b6ed992315389b9a7304a6]{
 -- Page 680, Offset 10488.
 -- アルクェイドが飛ばしたものは、ヴローヴを飲み込む瓦礫だけじゃない。
--- TRANSLATION HERE
+// Tl oficial
+Sepultar a Vlov en escombros era el objetivo de Arcueid.
 }
 [sha:f8da567034535ecd17a9ac4ae7062e9068a9014b]{
 -- Page 680, Offset 10489.
 -- 本命はこの岩盤。
--- TRANSLATION HERE
+// Tl oficial
+Era lanzar esta roca al aire.
 }
 [sha:6c00d220196cb605f57f47829cd01f4a8ac1929b]{
 -- Page 680, Offset 10490.
 -- 吸血鬼の視界から外れ、<超|・><低|・><温|・><の|・><影|・><響|・><を|・><受|・><け|・><な|・><い|・><ヤ|・><ツ|・><の|・><頭|・><上|・><に|・>、俺を縛り付けてふっ飛ばしたのだ。
--- TRANSLATION HERE
+Me ha atado y lanzado fuera de su área de visión,
+ a un lugar fuera del alcance de su frío criogénico――por encima de él.
 }
 [sha:1948c6a45d63a40d55dd0443ed9803d2fdc38fe6]{
 -- Page 681, Offset 10491.
 -- 30メートル下の地上で、土砂の津波が突き砕かれる。
--- TRANSLATION HERE
+// Tl oficial
+En el suelo, treinta metros por debajo, el tsunami de tierra y arena ha sido aplastado.
 }
 [sha:0a4292ebbd7e66c52a8f4bf1d883ece2ae1b5943]{
 -- Page 681, Offset 10492.
 -- 彼と我。互いに最後の空白。
--- TRANSLATION HERE
+// Tl oficial
+Lo que queda somos el, yo y el vasto espacio aéreo entre nosotros.
 }
 [sha:593e0696ec631bbad44d7b62675b3f696407bfee]{
 -- Page 681, Offset 10493.
 -- 俺は自らの選択を、その結果を再確認する。
--- TRANSLATION HERE
+Reafirmo mis decisiones, junto a sus futuras consecuencias.
 }
 [sha:432f37bcfa6554915504f363ae516eb9e558a67c]{
 -- Page 682, Offset 10494.
 -- 成功すれば遠野志貴は両脚を失う。
--- TRANSLATION HERE
+Si esto tiene éxito, perderé ambas piernas.
 }
 [sha:5f62a1c944dc71e4ca848bf987e176c4396573bd]{
 -- Page 682, Offset 10495.
 -- ここで生き残ったところで、一生歩く事は出来なくなる。
--- TRANSLATION HERE
+Incluso si sobrevivo, no volveré a caminar.
 }
 [sha:b46c712ff580288e0e5f3c8919f1669c1d608769]{
 -- Page 682, Offset 10496.
 -- その人生を明確に<想像|イメージ>する。
--- TRANSLATION HERE
+Me imagino ese tipo de futuro con gran detalle.
 }
 [sha:312f9b4263d2fc7b6df7407249ec750c389aedcf]{
 -- Page 682, Offset 10497.
 -- ―――構わない。この２秒の対価なら、納得のいく結末だ。
--- TRANSLATION HERE
+―――Pero no me importa. Es un precio que pagaré con gusto a cambio de estos dos segundos.
 }
 [sha:09235332015ef516d3f8a5a1257795b987c9cabe]{
 -- Page 683, Offset 10498.
 -- わずか１秒の索敵。
--- TRANSLATION HERE
+Tarda un segundo en localizarme.
 }
 [sha:d4345cfae62fb268f7f164075cb782a2261a0800]{
 -- Page 683, Offset 10499.
 -- その洞察力には敬意を払うが、１秒では遅すぎる。
--- TRANSLATION HERE
+Su percepción es admirable, pero un segundo y ya es demasiado tarde.
 }
 [sha:7b2cbb0855dab6953bb65b35e4be6811fe4605e2]{
 -- Page 684, Offset 10500.
 -- 『あれ？　でもそれって、志貴は途中で落っこちない？
--- TRANSLATION HERE
+"%{i}Um pero... ¿no caerás a mitad de camino?%{/i}
 }
 [sha:6cdbb03092f0bec9004f0636ee27a110d4675253]{
 -- Page 684, Offset 10501.
 -- わたし、そのあたり加減できないよ？』
--- TRANSLATION HERE
+%{i}No soy muy buena conteniéndome, sabes.%{/i}"
 }
 [sha:dfc4c28e12f22dc83a6bc84bc8f68eb034b42508]{
 -- Page 684, Offset 10502.
 -- 『そりゃあ落ちるに決まってるだろ！　だから―――』
--- TRANSLATION HERE
+"%{/i}¡Por supuesto que me voy a caer! Es por eso que―――%{/i}"
 }
 [sha:3683043ca53b0eda73343fd579dd5e183b9486e0]{
 -- Page 685, Offset 10503.
 -- 「―――おまえが、俺に道を作ってくれ」
--- TRANSLATION HERE
+"―――Necesito que me crees un camino."
 }
 [sha:637046ff04a2d5e2212f3c70f8d00dd8b5dd5188]{
 -- Page 686, Offset 10504.
 -- 舞い上げられた岩盤がパズルのように組み上がる。
--- TRANSLATION HERE
+Las rocas voladoras se juntan como si fueran un puzle.
 }
 [sha:fc15f60203e09ca2623e886946d2f1eb880224bb]{
 -- Page 686, Offset 10505.
 -- 蔦でつながれ、固定された急造の滑空路。
--- TRANSLATION HERE
+Una rampa improvisada unido por la hiedra.
 }
 [sha:0a9705fad10ac9bfdb1627e594160b8e7602636f]{
 -- Page 686, Offset 10506.
 -- 高さの差を除けば、俺とヤツはいま、同じ座標に存在している。
--- TRANSLATION HERE
+Ambos existimos en las mismas coordenadas del espacio, separados por el aire.
 }
 [sha:4b1d73fa1852a765cb50f35d0d1115dedcb10741]{
 -- Page 687, Offset 10507.
 -- 「―――さあ」
--- TRANSLATION HERE
+"Vamos allá pues―――"
 }
 [sha:a1e59de6ae27b340fb89561e413dec3621e78b7b]{
 -- Page 687, Offset 10508.
 -- 生存率のアベレージを計る。
--- TRANSLATION HERE
+Estimo mis probabilidades de supervivencia.
 }
 [sha:9110c96474ca512caf80ff125363c6942a52f8c0]{
 -- Page 687, Offset 10509.
 -- 始める前に、その<一|・><点|・>を確定させる。
--- TRANSLATION HERE
+Antes de empezar, confirmo mi objetivo.
 }
 [sha:26b1a28d24822928be84f855820b39cc1a67ff9b]{
 -- Page 687, Offset 10510.
 -- ルートは決まった。
--- TRANSLATION HERE
+La ruta está establecida.
 }
 [sha:a85a166b4d81ba9f30428ee637555ccc79018a1b]{
 -- Page 687, Offset 10511.
 -- わずか２秒、30メートルの一方通行。
--- TRANSLATION HERE
+Un sendero de sentido único: treinta metros en dos segundos.
 }
 [sha:c9c218fd18c3b4a169d52075ef47ffccae99a4da]{
 -- Page 687, Offset 10512.
 -- 「ショウタイムだ、吸血鬼」
--- TRANSLATION HERE
+"―――Que empiece el show, vampiro."
 }
 [sha:6a1cdbd15eee095b8295f007b7b4fcbf24016c8c]{
 -- Page 688, Offset 10513.
 -- 滑空落下が始まる。
--- TRANSLATION HERE
+Empieza mi descenso.
 }
 [sha:d877802f747e3e81892ef9deb660dd220b7c2195]{
 -- Page 688, Offset 10514.
 -- 死に迫る、一呼吸分のスライダー。
--- TRANSLATION HERE
+Me deslizo hacia las fauces de la muerte.
 }
 [sha:91e8b91690e586e7dd1d3724918e21312646055c]{
 -- Page 689, Offset 10515.
 -- この時点で、俺は対応を放棄している。
--- TRANSLATION HERE
+Llegados a este punto renuncio a reaccionar.
 }
 [sha:d34f43aea8ce075329bb89da3577d632105bc2db]{
 -- Page 689, Offset 10516.
 -- 俺の思考速度では１秒に一つの判断しかできない。
--- TRANSLATION HERE
+A la velocidad a la que opera mi cerebro,
+ solo puedo hacer una decisión por segundo.
 }
 [sha:30960f1b447709dbe89ca21e38612d4208b26e3f]{
 -- Page 689, Offset 10517.
 -- 落下までの２秒、全能力を二点にのみ集中する。
--- TRANSLATION HERE
+Dos segundos antes de que caer,
+ concentro todas mis habilidades en dos cosas.
 }
 [sha:0f420374fe129e25e4f707e71a071eb63bccc274]{
 -- Page 690, Offset 10518.
 -- この選択において、あらゆる行動が死に面している。
--- TRANSLATION HERE
+Cada decisión que tome puede llevarme a la muerte.
 }
 [sha:e0a2e077573b42d76a8fdf91323704b05aef02c1]{
 -- Page 690, Offset 10519.
 -- その中でも特に死の濃度の高い地点、
--- TRANSLATION HERE
+Al enfrentarme a esta situación, debo centrarme donde mis probabilidades de morir sean más altas.
 }
 [sha:2234095158f647965f9346feca5487b7e19de094]{
 -- Page 690, Offset 10520.
 -- 何をしても生き残れない<瞬間|ポイント>を想定する。
--- TRANSLATION HERE
+Visualizo cada punto que me llevará a una muerte segura.
 }
 [sha:503519f1995b00bdfcbebe79abb5def678a48bf5]{
 -- Page 691, Offset 10521.
 -- マイナス地点は二ヵ所と決めた。
--- TRANSLATION HERE
+Solo existen dos.
 }
 [sha:e82eda5dc1b418ea7e211695b4dbe1e1a7df25c8]{
 -- Page 691, Offset 10522.
 -- そこ以外の生存率は一割ほどだろう。それについては考慮しない。一割あるのなら問題ない。
--- TRANSLATION HERE
+Excluyéndolos, mis probabilidades de sobrevivir son alrededor de 10%,
+ no hace falta preocuparme por ellos. Diez por ciento es más que suficiente.
 }
 [sha:94c576dfc6f4d99b454de5460b2202ae57c65751]{
 -- Page 692, Offset 10523.
 -- 問題なのはゼロの地点だ。
--- TRANSLATION HERE
+El problema son los casos en los que la probabilidad es de 0%.
 }
 [sha:74d9dea5342a632aa232b3c5b107e74f8f516d71]{
 -- Page 692, Offset 10524.
 -- 人間の性能ではどうあっても死ぬしかない絶対死の地点。
--- TRANSLATION HERE
+Casos donde mis pobres capacidades humanas suponen una muerte segura.
 }
 [sha:253d3890d9cc4e5630095d948f39b734806dd555]{
 -- Page 692, Offset 10525.
 -- そこに全能力を注ぎ込み、ゼロを１％に引き上げる。
--- TRANSLATION HERE
+Por lo que debo hacer lo que pueda para incrementar esas posibilidades de cero a uno por ciento.
 }
 [sha:e2e238124fb74e24181b1d734a5a61a6278b5702]{
 -- Page 693, Offset 10526.
 -- この二つの<致|マ><死|イ><地|ナ><点|ス>を踏み越えるため、意識を固める。
--- TRANSLATION HERE
+Tengo que agudizar mis sentidos para superar estos dos obstáculos mortales.
 }
 [sha:edb2184f7c371fc63c68e09ea4e77e3040765489]{
 -- Page 693, Offset 10527.
 -- それ以外の事象に振り分ける<意識|よぶん>はない。
--- TRANSLATION HERE
+No me puedo permitir dedicarlos a otra cosa.
 }
 [sha:0df06b142239c91ae758079373e614b3eefa6017]{
 -- Page 693, Offset 10528.
 -- だからもう、降り始めた俺には<対|も><応|の>を考える機能はない。
--- TRANSLATION HERE
+Ahora que he iniciado el descenso,
+ tampoco tengo la capacidad para planificar nada por adelantado.
 }
 [sha:c057faa764c9a44cf6a342af0afa3732afa36dc0]{
 -- Page 694, Offset 10529.
 -- もしマイナスが二ヵ所に留まらない場合は？
--- TRANSLATION HERE
+¿Y si hay más de dos puntos críticos?
 }
 [sha:a246cbce56656d812d3d22aa8c69c334bdbeef13]{
 -- Page 694, Offset 10530.
 -- それは考慮しない。三ヵ所もの『死』を超える余力は俺にはない。その時はヤツの勝ちだ。ヤツの異常性が、俺の想像を上回っているだけの話。
--- TRANSLATION HERE
+No puedo imaginarmelo.
+ No tengo lo que hace falta para superar tres de ellos.
+ Si es así, la victoria es suya.
+ Eso significaría que sus poderes exceden mis expectativas más descabelladas.
 }
 [sha:75680ba2b152fc7b3c04412eff6c4bb7e01ba93f]{
 -- Page 695, Offset 10531.
 -- 氷の槍は折り重なるように、落下する獲物に殺到する。
--- TRANSLATION HERE
+Un aluvión de lanzas de hielo bombardean a la presa que cae.
 }
 [sha:ba9c2a1086ba55450f0e1c97fe70b959fa0c1def]{
 -- Page 695, Offset 10532.
 -- まるで獣の<顎|あぎと>だ。恐ろしいがどうでもいい。
--- TRANSLATION HERE
+Se acercan como la mandíbula de la bestia. Es terrorífico, pero llegados a este punto ya no me importa.
 }
 [sha:9f532dbc35cebc5dc45cc94b45e9300a64065ff8]{
 -- Page 695, Offset 10533.
 -- そんな、ただ本能に因っただけの<咀嚼|そしゃく>など知った事か。
--- TRANSLATION HERE
+El miedo se convierte en nada más que un básico, instinto animal.
 }
 [sha:0032cdf383b9b0e7c3f16d1068f5192c946dc6f9]{
 -- Page 695, Offset 10534.
 -- 俺がそうくると確信し、そうなれば殺されると恐れた迎撃は、
--- TRANSLATION HERE
+No. Este no es el contraataque que temía――él que temía hubiese acabado con mi vida.
 }
 [sha:a7dd57312c121a7f9c51ed5e3e188e8021d13109]{
 -- Page 696, Offset 10535.
 -- ―――10メートル。
--- TRANSLATION HERE
+Diez metros.
 }
 [sha:4588bd93b586acd91c5ad6c79553cf6c46f49156]{
 -- Page 696, Offset 10536.
 -- 一つめの<致|マ><死|イ><地|ナ><点|ス>。
--- TRANSLATION HERE
+He atravesado el primer obstáculo.
 }
 [sha:14ddcf60c129574c8c7ce8d52a5e0be55c98fe41]{
 -- Page 696, Offset 10537.
 -- 手足の感覚、筋力の微調整、体幹の急制動とその返し。
--- TRANSLATION HERE
+Arde cada uno de mis nervios. Mis músculos están calibrados a la perfección.
+ Retuerzo rápidamente mi torso.
 }
 [sha:1644499370d5cef8c5a25d0cb93e78abc0f7409a]{
 -- Page 696, Offset 10538.
 -- 本来変えられない落下軌道を、その射角を『見て』から変える……！
--- TRANSLATION HERE
+Aunque debería ser imposible cambiar mi trayectoria de descenso,
+ de alguna forma lo consigo tras calcular el ángulo de su arma.
 }
 [sha:10ebf3883815768d5447579b886dadc38eae117e]{
 -- Page 697, Offset 10539.
 -- 真横を過ぎていく鉄塊。
--- TRANSLATION HERE
+El objeto metálico me pasa a milímetros por el lado.
 }
 [sha:0f07182c5ca4e3ceb35a1ae85972bfede2a17ccd]{
 -- Page 697, Offset 10540.
 -- ０パーセントの賭けを越えた。
--- TRANSLATION HERE
+Superado las probabilidades del '0%', evitando la muerte segura.
 }
 [sha:3baa29fcfa55296607c413064142144b1e3bfa4a]{
 -- Page 697, Offset 10541.
 -- 残り１秒。俺の勝ちだ。ヤツにはもう手段がない。
--- TRANSLATION HERE
+Queda un segundo. La victoria es mía. No le quedan opciones.
 }
 [sha:ee723f8a0a4c3d974af8817e754c5223e1f492ab]{
 -- Page 698, Offset 10542.
 -- 二つ目のマイナスは『その瞬間』と決めている。
--- TRANSLATION HERE
+Ahora tengo que matarlo antes de que mis entrañas colapsen por el impacto de la caída.
 }
 [sha:6f7387f3696eeddc9c434a036ba5ad7e0d4e0a54]{
 -- Page 698, Offset 10543.
 -- この落下の衝撃をいなし、俺の<身体|なかみ>が粉々になる前に、ヤツを殺す。
--- TRANSLATION HERE
+El momento será durante el segundo punto crítico.
 }
 [sha:62f05f9e0d4a87c99d51e63377908e10665ce9ce]{
 -- Page 698, Offset 10544.
 -- その後の事は知らない。ただヤツの線を突く事にのみ専心する。
--- TRANSLATION HERE
+No me importa lo que suceda tras eso.
+ Me centraré únicamente en cortar sus líneas.
 }
 [sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
 -- Page 699, Offset 10545.
 -- だから。
--- TRANSLATION HERE
+Es por eso que―――
 }
 [sha:c3d968f89754249ddf0dfe392c984ff12f7c968c]{
 -- Page 699, Offset 10546.
 -- もし、俺の予測より、ヤツの行動が一手多ければ。
--- TRANSLATION HERE
+Si tuviera un movimiento más bajo la manga―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 700, Offset 10547.
@@ -636,117 +682,133 @@
 [sha:2934d4f17fc305bc1e5babf6f545fe21e0c14a1c]{
 -- Page 700, Offset 10548.
 -- 考えない。躱すまでもない。たとえ<最中|さなか>にポイントを変更できるとしても、そんな無駄は俺にはない。
--- TRANSLATION HERE
+Ni siquiera pensaré en ello.
+ Ni siquiera esquivaré.
+ Incluso si pudiera cambiar mi trayectoria a mitad de camino,
+ no me molestaré en algo tan inútil.
 }
 [sha:41dcc27291b361e03d4885d814ea5752a428a7f0]{
 -- Page 700, Offset 10549.
 -- その為に思考を放棄した。
--- TRANSLATION HERE
+// Tl oficial
+Ya no es momento de pensar.
 }
 [sha:e1afcb30aea356fbeeca4831e880af642c941e46]{
 -- Page 700, Offset 10550.
 -- 死ぬというのなら滑走を始めた時に死んでいる。
--- TRANSLATION HERE
+Si muero aquí, entonces estaba muerto desde el momento que empecé a descender.
 }
 [sha:3594ab588d3aeafbfb54333802bca2cdb76c2a23]{
 -- Page 700, Offset 10551.
 -- いい。
--- TRANSLATION HERE
+No me preocupa.
 }
 [sha:122e7ae036f6925857c6f7ff85721ec3ff76f36a]{
 -- Page 700, Offset 10552.
 -- ここで脳を串刺しにされても、きっとまったく気がつかない。
--- TRANSLATION HERE
+Si me ensarta el cerebro, lo más seguro es que ni me de cuenta.
 }
 [sha:971acb814509ba993bae03b39f220a3bb03c8ede]{
 -- Page 701, Offset 10553.
 -- ―――二つ目。
--- TRANSLATION HERE
+―――El segundo punto crítico.
 }
 [sha:d95c8a03bac7384afab1a75dd91a6b99327c37bc]{
 -- Page 701, Offset 10554.
 -- 摂氏マイナス100℃の非常法則が全身を停止させる。
--- TRANSLATION HERE
+// Tl oficial.
+Las temperaturas de  -100℃ que desafían las leyes de la naturaleza y detienen el cuerpo en seco.
 }
 [sha:b4e5150c5558ca7fb00de7ba18876e65b4be4794]{
 -- Page 701, Offset 10555.
 -- 着地に備えようとする本能も、
--- TRANSLATION HERE
+Tanto el impulso que me prepara para el aterrizaje,
+ como el raciocinio que valora mi propia vida―――
 }
 [sha:461e0c66f605cafe1e758b72e6ab03cebb33feda]{
 -- Page 701, Offset 10556.
 -- 命の意義を唱える理性も、もう遙か上空に置いてきた。
--- TRANSLATION HERE
+―――los he dejado atrás en cielo nocturno.
 }
 [sha:3039bd95f611564ee3928fb9ab8c165cd8946fdb]{
 -- Page 702, Offset 10557.
 -- 「ヴローヴ……！」
--- TRANSLATION HERE
+"¡Vlov!"
 }
 [sha:d77615b2ed4f6ac67a6a713cf6a4a9b43dbc9a11]{
 -- Page 702, Offset 10558.
 -- <腿|もも>から腰、腰から背筋、背筋からの運動エネルギーを、ナイフを持つ右手の振りに譲渡する。
--- TRANSLATION HERE
+Transfiero la energía cinética de mis piernas a la cadera,
+ de mi cadera a la espalda,
+ y de ahí finalmente hasta mi brazo derecho mientras arremeto con el cuchillo.
 }
 [sha:a25b30e53e0a3ccaaaae29226180ac9e14bcb8aa]{
 -- Page 702, Offset 10559.
 -- もはや筋肉が停止しようと止まらない。
--- TRANSLATION HERE
+No podría parar mis músculos aunque quisiera.
 }
 [sha:fb16367ddc94cf1f968853d590da72e1b66a0763]{
 -- Page 702, Offset 10560.
 -- つまり感性だけで動く殺人機巧。振り絞るものは、線を<捉|とら>える脳だけでいい。
--- TRANSLATION HERE
+Soy una máquina de matar que funciona con inercia.
+ Todo lo que necesita mi mente es localizar las líneas.
 }
 [sha:fad49b5744f6a9c2f3720b4c7c485acd0fe7bd6f]{
 -- Page 703, Offset 10561.
 -- その極限で、光を視た。
--- TRANSLATION HERE
+En el centro de todo, veo una luz.
 }
 [sha:6da9846454cbfff274a467e972ef5971dbedc70a]{
 -- Page 703, Offset 10562.
 -- 渦を巻く原子の意思。定められた物質の寿命。
--- TRANSLATION HERE
+// Tl oficial
+Un vórtice de átomos. La certeza del final de la vida.
 }
 [sha:ebb47f3edccbd9fd47ed92abcd7a8f2c6f0a4c50]{
 -- Page 703, Offset 10563.
 -- 落とし穴のような“死の点”を。
--- TRANSLATION HERE
+Un lugar de muerte pura que atrae todo como un agujero negro.
 }
 [sha:a88f8bc5fdb9db70580a432836ef26da53c5c36b]{
 -- Page 704, Offset 10564.
 -- 思考を棄てた脳が、本能で理解する。
--- TRANSLATION HERE
+Mi cerebro puede haber abandonado el pensamiento racional, pero entiende lo que por mero instinto.
 }
 [sha:04d230e003f52a531fecf54f3f5200a449dcbed7]{
 -- Page 704, Offset 10565.
 -- 線が生命活動の死だと言うのなら、アレは存在起源の死。
--- TRANSLATION HERE
+Si las líneas representan la muerte de la vida,
+ entonces ese punto representa la muerte de la existencia.
 }
 [sha:df8c498b97cf72836e228c3f1dfc166cd82e0a56]{
 -- Page 704, Offset 10566.
 -- どのような不死身、どのような怪物であれ一刺しで“殺す”、この世でもっともおぞましい、宇宙の終わりに他ならない。
--- TRANSLATION HERE
+El fin del universo,
+ donde cualquier criatura――inmortal o monstruosa
+ ――puede morir simplemente apuñalada.
 }
 [sha:fc4e8bebf9e835e52a6ff35be384391e4eb413e0]{
 -- Page 705, Offset 10567.
 -- だが、そんな発見は本当にどうでもいい。
--- TRANSLATION HERE
+Aunque este descubrimiento no me podría importar menos.
 }
 [sha:8c950a1c5970e4ac775572980be3f77cfbd7b517]{
 -- Page 705, Offset 10568.
 -- それよりも強い感情に全身が打ち震える。
--- TRANSLATION HERE
+Todo mi cuerpo tiembla con una emoción mucho más fuerte que esa.
 }
 [sha:2044cd5ed28fb93c562208d484661cd8d9ef9964]{
 -- Page 706, Offset 10569.
 -- ヴローヴの手には鉈が握られていた。必殺の巨槍を放った後でさえ、この吸血鬼は、俺が“来る”と確信し、さらなる迎撃を選択したのか。
--- TRANSLATION HERE
+Vlov tiene un machete en mano.
+ Incluso tras desatar tu lanza colosal,
+ este vampiro está totalmente convencido que vendré,
+ y escogió guardarse un último contraataque en la manga.
 }
 [sha:ecf61b08dc8671d899752b510fbc142972c89fc1]{
 -- Page 706, Offset 10570.
 -- この局面で。俺のような反則相手に。
--- TRANSLATION HERE
+Es su movimiento final en este juego contra un adversario ladino como yo.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 707, Offset 10571.
@@ -756,100 +818,108 @@
 [sha:19bb0eedee6e04977f40726e9987ce1ba3bb4279]{
 -- Page 707, Offset 10572.
 -- コイツは本物だ。吸血鬼としての基準は知らない。そんなものは興味がない。シンプルに人殺しとして卓越している。
--- TRANSLATION HERE
+Este tipo es real.
+ Alguien ejemplar en su especie.
+ No se cual es el estándar para los vampiros.
+¿Pero como asesino?
+Es simplemente extraordinario.
 }
 [sha:38cf26c67706a17d8d45e2809883eada7ac7338a]{
 -- Page 708, Offset 10573.
 -- 憎悪せずにはいられない。
--- TRANSLATION HERE
+No puedo evitar odiar las circunstancias.
 }
 [sha:799548616b599fc16cd39277facf8448e37d9272]{
 -- Page 708, Offset 10574.
 -- 正気であれば、吸血鬼でなければ、嫉妬するほどの騎士だっただろう。
--- TRANSLATION HERE
+Si estuviera cuerdo, y no fuera un vampiro,
+ seguramente sería un caballero envidiable.
 }
 [sha:bbf5e3ab1a6e64075268c9daf5aa8b5a5c6e66ca]{
 -- Page 708, Offset 10575.
 -- たとえ、今は見る影すらないとしても。
--- TRANSLATION HERE
+Ahora no queda ni rastro del hombre que era.
 }
 [sha:4e6b6b190f2e226877f2762110dc9f8d10eb1c2e]{
 -- Page 709, Offset 10576.
 -- その凶器が俺に届く機会は、もう永遠に訪れない。
--- TRANSLATION HERE
+Pero su hoja nunca tendrá oportunidad de alcanzarme.
 }
 [sha:023d4405006b5ba3fa3a8abf8fe72fa8580550c6]{
 -- Page 709, Offset 10577.
 -- 廻り、躱し、<捻|ね><子|じ>るように。
--- TRANSLATION HERE
+Me giro, esquivo, y tuerzo―――
 }
 [sha:64c6901894b392dbc04c5f9e66fa90de66a8da7b]{
 -- Page 709, Offset 10578.
 -- 俺の眼は、ヤツの<最中|さなか>を一線した。
--- TRANSLATION HERE
+Hasta que mis ojos vislumbran su núcleo.
 }
 [sha:abdd3265d97d929bc88472db6caa85874a19c7b5]{
 -- Page 710, Offset 10579.
 -- 気温は一瞬で、本来の温度に切り替わる。
--- TRANSLATION HERE
+En un instante, la atmósfera vuelve a su temperatura original.
 }
 [sha:b6309c49f1b7074280aca18cb6e090a0a0b26f8d]{
 -- Page 710, Offset 10580.
 -- 自然現象とはかけ離れた寒波は、ヤツの命と共に消失する。
--- TRANSLATION HERE
+La ola de frío, desaparece junto a la fuerza de vital de su amo.
 }
 [sha:dad68dc0d57ba4fe53a4ebc71004f2cdb270f5ab]{
 -- Page 710, Offset 10581.
 -- その中で、
--- TRANSLATION HERE
+Y en ella―――
 }
 [sha:a669233dbfffaf9a946f525435b18fcda1e0b581]{
 -- Page 710, Offset 10582.
 -- 「“―――なんだ、これは？”」
--- TRANSLATION HERE
+"¿Qué es esto...?"
 }
 [sha:5936ee14ab501c4927ddc86ebc341ac4d7060768]{
 -- Page 710, Offset 10583.
 -- ゆらりと、吸血鬼は独白した。
--- TRANSLATION HERE
+Apabullado, el vampiro habla consigo mismo.
 }
 [sha:4c5346adff8f8c3139a3e221711fe60d0b3beaf6]{
 -- Page 711, Offset 10584.
 -- 「“……この傷は知らない。この喪失は思い出せない。
--- TRANSLATION HERE
+// Tl oficial
+"No tengo conocimiento de una herida así... ni recuerdo una pérdida como esta.
 }
 [sha:505c740e7a8408848b96a465167c053debc73047]{
 -- Page 711, Offset 10585.
 -- この―――言語化できない大気の肌触りは、いつか失った何物かだ”」
--- TRANSLATION HERE
+// Tl oficial
+Solo sé que esta gentil e indescriptible caricia del aire es algo que perdí hace mucho."
 }
 [sha:b83a9b5c6f1d97c446abb7657176e51abac4ee1f]{
 -- Page 712, Offset 10586.
 -- 何を言っているのか、
--- TRANSLATION HERE
+No sé lo que está diciendo―――
 }
 [sha:52e209242e6d256f000d320108fb8b613022dc53]{
 -- Page 712, Offset 10587.
 -- どこの国の言葉かも分からない。
--- TRANSLATION HERE
+Ni el lenguaje en el que habla.
 }
 [sha:52fce6f3e316f69d01cc8f964cee06bafc074fde]{
 -- Page 712, Offset 10588.
 -- ただ、穏やかなその声は、春を<謳|うた>う詩人のようだった。
--- TRANSLATION HERE
+Pero su voz es gentil, como la de un poeta elogiando la primavera.
 }
 [sha:69a97d8f5e9484360f6aa09be52052768358fd6b]{
 -- Page 713, Offset 10589.
 -- 「“ああ―――痛みも、寒波も感じない。
--- TRANSLATION HERE
+// Tl oficial
+"%{i}Ahh%{/i}... No siento ni el dolor ni el frío.
 }
 [sha:a55a4dd1a3e4b5e062f0906848eaf9520c7322fb]{
 -- Page 713, Offset 10590.
 -- 恐ろしいが、懐かしい。
--- TRANSLATION HERE
+Es terrorífico pero a la vez familiar.
 }
 [sha:9801e9d84c9d4b68611f826711fd8ad876460399]{
 -- Page 713, Offset 10591.
 -- これではまるで、僕は死人になったようだ”」
--- TRANSLATION HERE
+Es como si... estuviera muerto."
 }

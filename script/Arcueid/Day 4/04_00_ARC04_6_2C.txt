@@ -1,67 +1,72 @@
 [sha:f0621f3048cbe01ad4256320c45a0bdac8bdb8d6]{
 -- Page 10020, Offset 7001.
 -- 「まずは種類分けね。
--- TRANSLATION HERE
+"Empecemos por dividirlos en distintos tipos.
 }
 [sha:9a0899b064a92005ecb62957cbcd61a28bc00ee5]{
 -- Page 10020, Offset 7002.
 -- 一般に吸血鬼とは言うけど、大きく二つのモノに分けられるわ」
--- TRANSLATION HERE
+Aunque el término común es vampiros, pueden dividirse principalmente en dos grupos."
 }
 [sha:612e45a72c817d7e3664e1a6298cb33b79a3140e]{
 -- Page 528, Offset 7003.
 -- 「もとから吸血鬼だったモノと、後から吸血鬼になったモノ。
--- TRANSLATION HERE
+"Aquellos que eran vampiros desde un principio, y aquellos que fueron convertidos en vampiros.
 }
 [sha:0bec8367b0b18367a0a0ce19e3af0933803ee4bf]{
 -- Page 528, Offset 7004.
 -- 前者を真祖といって、後者を死徒と呼ぶの」
--- TRANSLATION HERE
+A los primeros se les conoce como Verdaderos Ancestros, mientras que a los segundos se les denomina Apóstoles Muertos.
 }
 [sha:5893a170b8bd8e3f39ff67f171aa09d39500e620]{
 -- Page 529, Offset 7005.
 -- 「あなたたちが吸血鬼と呼んでいるのは死徒のほう。
--- TRANSLATION HERE
+"Los Apóstoles Muertos son a los que vosotros os referís cuando habláis de vampiros.
 }
 [sha:d826cefcca31fa583cc89281e5a47a732e23ec35]{
 -- Page 529, Offset 7006.
 -- さっきの階梯の話も死徒の生態系ね。人間の血を吸い、下僕にして、太陽の光に弱く、洗礼儀式の前に敗退する。
--- TRANSLATION HERE
+Mi explicación de antes sobre los Rangos de los Apóstoles Muertos también era un curso intensivo sobre la ecología de los Apóstoles Muertos.
+ Chupan sangre de humanos y los hacen sus subordinados,
+ son débiles a la luz del sol,
+ y pueden ser derrotados mediante el Sacramento del Bautismo.
 }
 [sha:8164716a2b138431aa77a6bab9d2654cbc5ceb5b]{
 -- Page 529, Offset 7007.
 -- わたしたちの敵も、死徒と区別される吸血鬼よ」
--- TRANSLATION HERE
+Nuestro enemigo también se puede clasificar como un Apóstol Muerto."
 }
 [sha:a3a31e3c53250c19f3764906ba210484a3578f19]{
 -- Page 530, Offset 7008.
 -- いつのまにか『わたしの敵』から『わたしたちの敵』になっている。指摘したいところだが、現状、間違いではないのでスルーしよう。
--- TRANSLATION HERE
+En algún momento, ella empezó a decir 'nuestro enemigo' en vez de 'mi enemigo'.
+ Quise remarcar esto, pero teniendo en cuenta las circunstancias no es incorrecto, así que lo dejaré pasar.
 }
 [sha:921f50d10bbe2e866cc8c33fcc36dcff4c9c159a]{
 -- Page 531, Offset 7009.
 -- 「……ふぅん。その死徒ってのは初めから吸血鬼じゃないって言ったけど、それはどういうコトだ？」
--- TRANSLATION HERE
+"Hmm... has dicho que los Apóstoles Muertos no son vampiros al principio; ¿a qué te refieres?"
 }
 [sha:4a74d676ab54776c0fb03c887c999bf0c51dd85a]{
 -- Page 532, Offset 7010.
 -- 「死徒は人間とか動物とか、とにかく“もともとは吸血種ではなかった”ものたちよ。
--- TRANSLATION HERE
+"Los Apóstoles Muertos son seres que eran humanos, animales, o cualquier otra cosa que no sea un chupasangre por naturaleza.
 }
 [sha:cabd02be85d305124e7bfb8ccae09c80f840e6c2]{
 -- Page 532, Offset 7011.
 -- 魔術の果てに不老になったものか、血を吸われて下僕になったものとがいる。
--- TRANSLATION HERE
+Algunos obtienen la juventud eterna a través de la hechicería, mientras que a otros les chupan la sangre y se convierten en subordinados.
 }
 [sha:fc3dee1cc07187a1b9e1d58401ed4f12ae512047]{
 -- Page 532, Offset 7012.
 -- まあ、どっちの場合も結果は同じだけど。
--- TRANSLATION HERE
+Bueno, sea como sea, el resultado es el mismo.
 }
 [sha:0bf8ceec0e62a80454f45f7767852a2c3c35aefb]{
 -- Page 532, Offset 7013.
 -- 吸血鬼になったものは不完全ながらも不老不死の肉体を手に入れて、人間のカテゴリーから外されるの」
--- TRANSLATION HERE
+Aquellos convertidos en vampiros ganan un cuerpo inmortal pero imperfecto,
+ y cesan de ser algo que se pueda considerar humano."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 533, Offset 7014.
@@ -71,107 +76,119 @@
 [sha:8d946bd194e19722a3db8ae1cfeecd1ddb6f343c]{
 -- Page 533, Offset 7015.
 -- 初めから吸血鬼だったもの、『真祖』と、
--- TRANSLATION HERE
+Así que hay dos tipos de vampiros:
+ los Verdaderos Ancestros, que eran vampiros desde un principio―――
 }
 [sha:8ec8e727fa0756722e356903bfe8bcfd3f1ef281]{
 -- Page 533, Offset 7016.
 -- 人間から吸血鬼になったもの、『死徒』がいる……か。
--- TRANSLATION HERE
+Y los Apóstoles Muertos, que son humanos convertidos en vampiros.
 }
 [sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
 -- Page 533, Offset 7017.
 -- ……なんだろう。
--- TRANSLATION HERE
+Pero... algo no tiene sentido.
 }
 [sha:fe244f7250a66e35f7aa3a2e49a1c9dcb18a4479]{
 -- Page 533, Offset 7018.
 -- この話には齟齬というか、構造的な矛盾があるような気がする。
--- TRANSLATION HERE
+Creo que hay una discrepancia o una inconsistencia estructural en algo de lo que dijo.
 }
 [sha:f7fe7b8496bd05e17f8d1c77b569624d46f5da5b]{
 -- Page 534, Offset 7019.
 -- 「ねえ志貴。 あなたは吸血鬼の特徴をどのくらい知ってるの？」
--- TRANSLATION HERE
+"Ey, Shiki. ¿Cuánto sabes sobre las características de los vampiros?"
 }
 [sha:e2e6f217dcac146bd7449c24fa55305b82bf759c]{
 -- Page 535, Offset 7020.
 -- 「ありきたりのイメージしか持ってないよ。
--- TRANSLATION HERE
+"Solo se lo básico.
 }
 [sha:27becb94614c90fb292fd786d80f3e3a2c63144e]{
 -- Page 535, Offset 7021.
 -- 処女の血を吸ったり、<睨|にら>むだけで<金縛|かなしば>りにしたり、霧になったり、狼に変わったりする……あたりが、一般的に聞く吸血鬼のイメージだけど」
--- TRANSLATION HERE
+Dicen que beben sangre de vírgenes y que pueden paralizar a otros con la mirada,
+ volverse niebla, o transformarse en lobos... cosas así."
 }
 [sha:4bfa8823e382e6c678412fa6c0a6d73f9f417a8e]{
 -- Page 536, Offset 7022.
 -- 「うん、だいたいはあってるかな。
--- TRANSLATION HERE
+"Sí, todo lo que has dicho es prácticamente cierto.
 }
 [sha:bb4b0ec106fa2ee251a0d13fc769616122d49bb6]{
 -- Page 536, Offset 7023.
 -- 処女の血を吸う、というのは、まだ他の人間と体液の交換をしていない血液が、彼等の遺伝子を補うのに適しているから。通常の血液より栄養がある、程度の違いね」
--- TRANSLATION HERE
+La razón por la que beben la sangre de vírgenes es porque su sangre――
+ que aún no ha sido mezclada con los fluidos corporales de otros humanos――
+es más apta para reponer sus genes.
+ La principal diferencia es que es más nutritiva comparada con la sangre normal."
 }
 [sha:fc829e6f5a483bb1ec0db2cb6d7ec097b3ebb7b1]{
 -- Page 537, Offset 7024.
 -- 「死徒―――後天的に吸血鬼になったものは、不完全な不老不死なの。たしかに不老で死に<難|にく>い動的な細胞を持つ生命体に変貌した。
--- TRANSLATION HERE
+"Apóstoles Muertos――aquellos %{i}convertidos a%{/i} vampiros――solo poseen una inmortalidad imperfecta,
+ Para aclarar, se han transformado en formas de vida con células dinámicas, haciéndolos muy difíciles de matar.
 }
 [sha:e6eed478cebebd56d2d58dd5bee05359ebd4b647]{
 -- Page 537, Offset 7025.
 -- けど、それは燃え盛る火のようなもので、エネルギーを常に補充しないと消えてしまう」
--- TRANSLATION HERE
+Sin embargo, son como una llama, deben estar reponiendo constantemente su energía o sino se extinguirán."
 }
 [sha:92bf912faa0fed1d720791e0172d821457dbf8d9]{
 -- Page 538, Offset 7026.
 -- 「どんな生物だって栄養を<摂|と>らないと活動できないでしょう？　それと同じよ。ただ、吸血種は食事……<血液|えいよう>さえ摂り続けていれば寿命がない、という事だけ」
--- TRANSLATION HERE
+"Todos los seres vivos necesitan sustento para funcionar, ¿cierto?
+ Es lo mismo.
+ La única diferencia es que mientras sigan consumiendo sangre, la esperanza de vida de un chupasangre no tiene límite."
 }
 [sha:4580f949af7a0a9ff8a2c09c5deb72768adaea07]{
 -- Page 539, Offset 7027.
 -- 「死徒たちのような『吸血鬼になった』吸血鬼はね、自分が生きていくのに必要だから血を吸うの。
--- TRANSLATION HERE
+"Los Apóstoles Muertos chupan sangre porque lo necesitan para sobrevivir.
 }
 [sha:c756e0b71850ed0c15f82b33ad4995d50b971174]{
 -- Page 539, Offset 7028.
 -- もともとは人間だったから、不老不死の肉体というのは無理があるのよ」
--- TRANSLATION HERE
+Eran humanos originalmente, así que para ellos es imposible conseguir un cuerpo verdaderamente inmortal."
 }
 [sha:ac4f02717f705aa5b9f19badce693b9bc3fd086e]{
 -- Page 540, Offset 7029.
 -- 「彼らの肉体を構成する遺伝子は、長生きすればするほど、力を付ければ付けるほど原子の増大に耐えられなくなる。力を増やし続けないと崩壊してしまうクセに、力をつけすぎると自己のカタチ―――“秩序”を保てない」
--- TRANSLATION HERE
+"Cuanto más viven, y cuanto más poder ganan,
+ menos genes que constituyen su propio cuerpo son capaces de soportar la acumulación de átomos.
+ Si no continúan aumentando su fuerza colapsarán,
+ pero si aumentan mucho su fuerza,
+ no serán capaces de mantener su propia forma."
 }
 [sha:8ae338099106830cd11b50d53bee5b83cd2fd0e6]{
 -- Page 541, Offset 7030.
 -- 「それを補うためにはどうするか？
--- TRANSLATION HERE
+"Entonces ¿qué hacen para compensarlo?
 }
 [sha:7687ec228d67dabc83b43f316c26a58c12d7f6ac]{
 -- Page 541, Offset 7031.
 -- 簡単よ。他から、自分のような異常な秩序ではない、正常な秩序をとりこんで、失われていく秩序を補完していけばいい」
--- TRANSLATION HERE
+Simple. Mientras sus propios genes se corrompen, absorben genes normales de otros lados para compensar los que se han perdido."
 }
 [sha:f0a3c5e8412e043339b050422f7e9b3d79f50a22]{
 -- Page 542, Offset 7032.
 -- 「人間が食事に有機化合物を好むのと一緒。
--- TRANSLATION HERE
+"Es lo mismo a como los humanos consumen compuestos orgánicos en su dieta.
 }
 [sha:d5d1fcf1c8ef57cc22d8ac2f3feb5fa0e4e29cca]{
 -- Page 542, Offset 7033.
 -- 吸血鬼は血液から、その正常な遺伝情報や<熱量|カロリー>を採集する。魂の熱量、と言い換えてもいいわ」
--- TRANSLATION HERE
+Los vampiros obtienen de la sangre tanto calorías como información genética normal. El valor calórico del Alma, por así decirlo."
 }
 [sha:0529bbc9938f8e8a7f5222ef935e773e3be9fc60]{
 -- Page 543, Offset 7034.
 -- 「ようは、人間の血を吸って、その遺伝情報を取り込むことで自身の肉体を固定してるってコト。
--- TRANSLATION HERE
+"En otras palabras, arreglan su cuerpo chupando sangre humana y obteniendo su información genética.
 }
 [sha:91fb5bfe55fd1009f6a7cca08c5342288662d24a]{
 -- Page 543, Offset 7035.
 -- 死徒にとって吸血は食事や力の<貯蓄|プール>であるのと同時に、存在のために必要不可欠な行為なの」
--- TRANSLATION HERE
+Para los Apóstoles Muertos, beber sangre no es solo una forma de alimentarse y aumentar su poder, es esencial para continuar su existencia."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 544, Offset 7036.
@@ -181,222 +198,237 @@
 [sha:5b9325ca5bc66a1025eb6359cc245327b5296225]{
 -- Page 544, Offset 7037.
 -- ややこしい。それに長い。
--- TRANSLATION HERE
+Esto es complicado.
+ Por no decir largo.
 }
 [sha:007a90f5a07f83a72339ba7160484cc130a3c2e6]{
 -- Page 544, Offset 7038.
 -- こっちの理解も追いついていないのに、アルクェイドはかまわず話を続けていく。
--- TRANSLATION HERE
+ Arcueid prosigue, sin tener en cuenta que estoy siguiendo la explicación a duras penas.
 }
 [sha:086957228b616721464f9c32bee1f8751dd065bd]{
 -- Page 545, Offset 7039.
 -- 「で、次は……睨むだけで金縛りにする、ってヤツね。
--- TRANSLATION HERE
+"Bien, lo siguiente es... la cosa sobre paralizar con la mirada, ¿cierto?
 }
 [sha:d7c4112b4bd3855de0ac44e1bcde4436eeda3269]{
 -- Page 545, Offset 7040.
 -- これは<魔眼|まがん>の一種よ。
--- TRANSLATION HERE
+Ese es un ejemplo de a lo que nos referimos como a los Ojos Místicos.
 }
 [sha:d530e852a2422d5b768eceb5d4d61eb39ff29bb3]{
 -- Page 545, Offset 7041.
 -- 眼球は便利で強力な魔術回路だから、<魔眼|まがん>を持つ吸血種は多いわ」
--- TRANSLATION HERE
+El ojo es un Circuito Mágico útil y poderoso, por lo que hay muchos chupasangre con Ojos Místicos."
 }
 [sha:863e304c00d61f86d7aa31ff5b5266c279a55979]{
 -- Page 546, Offset 7042. Mods: @k, @e.
 -- 「指向性の魔力放出機能、が分かりやすいかな。
--- TRANSLATION HERE
+"Sería más fácil pensar en ellos como 'un mecanismo direccional para liberar energía mágica'.
 }
 [sha:3f3a35f65d91b0c888aa916d8d66440b2f70d98d]{
 -- Page 546, Offset 7043. Glued. Mods: @x.
 -- 目から、そうね……ビームっていうの？　ああいうのを出すイメージ」
--- TRANSLATION HERE
+Es como un... ¿si le saliera un rayo del ojo? Imagínatelo así."
 }
 [sha:fa53645977c431cb57df639e88cf1193f50e8f40]{
 -- Page 547, Offset 7044.
 -- 「ちょっ、出るのか、ビーム!?」
--- TRANSLATION HERE
+"Espera, ¡¿en serio pueden disparar rayos láser?!"
 }
 [sha:53187c255be291b53885e8eb106d1d839d6abb5e]{
 -- Page 547, Offset 7045.
 -- あまりにデタラメな単語の登場で、思わず身を乗り出してしまった。
--- TRANSLATION HERE
+Brinco involuntariamente cuando menciona una palabra tan absurda
 }
 [sha:8573987f0731a078bc1c08c52908b7eee1b3b6f7]{
 -- Page 548, Offset 7046.
 -- 「え……!?　えっと……うん、出ない、と思う。
--- TRANSLATION HERE
+"¡¿Eh?! Bueno... quiero decir, no es un rayo de verdad.
 }
 [sha:cc8e4300ad65dc252cf9223e2da38d4cf93323be]{
 -- Page 548, Offset 7047.
 -- いくらなんでもそんな意味不明な吸血鬼はいないと思う。あくまでイメージ。イメージの話ね」
--- TRANSLATION HERE
+No hay forma de que ningún vampiro pueda hacer algo tan ridículo.
+ Es solo una analogía. Una forma de verlo."
 }
 [sha:8c7b0b996ef61c27f7686f5108eb174141b910d1]{
 -- Page 548, Offset 7048.
 -- そうか。それは良かったような、残念なような。
--- TRANSLATION HERE
+Ya veo. Eso es al mismo tiempo bueno y decepcionante.
 }
 [sha:5b06fe92d22d854da977fed26e6cc79e15c77424]{
 -- Page 549, Offset 7049.
 -- 「っていうか、<魔眼|まがん>ってなんだよ」
--- TRANSLATION HERE
+"Muy bien, entonces qué %{i}son%{/i}  los Ojos Místicos?"
 }
 [sha:ce30d3be2555589659721b87913709e33651a902]{
 -- Page 549, Offset 7050.
 -- 「特別な眼のこと。魔術回路を使用して、<一工程|シングルアクション>の魔術を放出する異能……まあ、技術みたいなものね」
--- TRANSLATION HERE
+"Son un tipo especial de ojo――
+una técnica que ejecuta un hechizo de acción única a través de sus Circuitos Mágicos...
+ Supongo que puedes pensar en ellos como una especie de habilidad."
 }
 [sha:f2a708d79ce153dc57b36fc070b288b98199d9a6]{
 -- Page 550, Offset 7051.
 -- 「ほら、人間には剣術とかあるでしょ？　アレと同じ。
--- TRANSLATION HERE
+"Quiero decir, los humanos tienen cosas como la esgrima, ¿cierto? Es la misma idea.
 }
 [sha:97491aa4305bacda75abe290d91aab2f561ac7f7]{
 -- Page 550, Offset 7052.
 -- 色々な種類があるけど、死徒であれば誰でも使える技法みたいなものよ。もっとも、鍛えたところで威力は術者の個体差・才能に左右されるけどね」
--- TRANSLATION HERE
+Hay de muchos tipos, pero es una habilidad que puede usar cualquier Apóstol Muerto.
+ Dicho eso, sin importar lo mucho que entrenen, su fuerza está limitada al talento del usuario.
 }
 [sha:956bf94557e729005fe3433eaa3fbd8937adc31f]{
 -- Page 551, Offset 7053.
 -- 「わたしたち吸血鬼が持つのは<魅惑|みわく>の魔眼。これが基本にしてもっとも強力というか……吸血鬼という在り方において、魅惑以外の魔眼はあんまり意味がないというか」
--- TRANSLATION HERE
+"Los que tenemos los vampiros son los Ojos Místicos del Encantamiento.
+ Son básicamente del tipo más poderoso que hay...
+ en el mundo de los vampiros, Ojos Místicos que no sean del Encantamiento son considerados bastante inútiles."
 }
 [sha:6c484a84711830540f429e4c73011875fabb8f5d]{
 -- Page 552, Offset 7054.
 -- 「魅惑の魔眼は、見た相手を魅惑するんじゃなくて、吸血鬼の目を見てしまった相手を魅惑するの。
--- TRANSLATION HERE
+"Los Ojos Místicos del Encantamiento no dejan encantar a alguien con simplemente mirarlo.
+ Solo hacen efecto si el objetivo mira directamente a los ojos del vampiro.
 }
 [sha:f4600da531fe999c60076c89c20f4960e6bf611a]{
 -- Page 552, Offset 7055.
 -- 強力な吸血鬼は魔眼で相手の脳に意志を叩きつけて、その思考を完全に掌握するんだけど……まあ、そこまでの魔眼を保持する死徒は<稀|まれ>かな」
--- TRANSLATION HERE
+Los vampiros poderosos pueden usar sus Ojos Místicos para entrar en la mente de una persona y controlar sus pensamientos.
+ Aunque, Apóstoles Muertos con Ojos Místicos de ese nivel son raros."
 }
 [sha:0d1365597143cbc82a12187d18d9b01f5f187ea6]{
 -- Page 553, Offset 7056.
 -- ……ふむ。
--- TRANSLATION HERE
+Hmm... cual es la mejor manera de explicar esto..."
 }
 [sha:d7d62b5316165b83de8a3a982e1de5a2c06fef4a]{
 -- Page 553, Offset 7057.
 -- ようは洗脳、催眠術のようなものか。
--- TRANSLATION HERE
+Osea que funcionan como un lavado de cerebro o hipnosis.
 }
 [sha:f521400a334914114af4923404b4bf7bb9159fa1]{
 -- Page 553, Offset 7058.
 -- たとえば、『ここで見たコトは忘れろ』みたいな。
--- TRANSLATION HERE
+Podrías ordenar a alguien 'Olvida lo que has visto aquí' por ejemplo.
 }
 [sha:fc636f9294b1ba3f7af91fee4cf274cb847407bd]{
 -- Page 553, Offset 7059.
 -- たしかにそんな眼があるなら、第三者に殺人現場を目撃されてもいくらでも<隠蔽|いんぺい>できる。
--- TRANSLATION HERE
+Si tuvieras ojos como esos, podrías encubrir fácilmente un asesinato, incluso si hubiera testigos.
 }
 [sha:fca7e61dda3c11dfcdb6bfdd21745c7654f9f207]{
 -- Page 554, Offset 7060.
 -- 「……理屈はさておいて、要は眼を見たらまずい、ってコト？」
--- TRANSLATION HERE
+"Ignorando por un momento cómo funcionan, la cosa es que no debería mirar a esos ojos, ¿verdad?"
 }
 [sha:39b6c1df1d98cae3b67a42c28837eadab10bc9bc]{
 -- Page 554, Offset 7061.
 -- 「うん、よくできました。だから吸血鬼と向かい合った時は顔じゃなくて全体を俯瞰するのが基本よ。
--- TRANSLATION HERE
+"Si, lo has pillado. Por lo que, cuando te enfrentes a un vampiro, intenta mirar a su dirección en general más que a su cara.
 }
 [sha:8a525a5759ce41784287f68e134d1c7fa6c919f6]{
 -- Page 554, Offset 7062.
 -- 相手と目線を合わせるなんて自殺行為だからね」
--- TRANSLATION HERE
+Hacer contacto visual con un vampiro enemigo es esencialmente suicidio."
 }
 [sha:08c747720bd99f7b24ce26f1a41bec912c5f9c53]{
 -- Page 555, Offset 7063.
 -- 「次は霧になる、だっけ。
--- TRANSLATION HERE
+"El siguiente punto es el de convertirse en niebla, ¿verdad?
 }
 [sha:2ceb309ac5add281313d091d455d6dc2b8f14ebc]{
 -- Page 555, Offset 7064.
 -- これも二種類に分類されるかなあ。
--- TRANSLATION HERE
+Supongo que esto se puede clasificar en dos tipos.
 }
 [sha:32f5aa2c8fd2a8a79f41c5a7592cf136c6fbf41e]{
 -- Page 555, Offset 7065.
 -- 高等なのは本当に粒子化するもの。自己を拡散させて現象になる、という離れ技。これが広範囲、かつ長時間できる死徒は数えるほどしかいないはず」
--- TRANSLATION HERE
+Los de alto grado son del tipo que implica una transformación en partículas de verdad. Es una técnica que difumina a uno mismo, esparciendo las partículas que constituyen el cuerpo. Solo unos pocos Apóstoles Muertos pueden hacer esto en un amplio área y por largos periodos de tiempo."
 }
 [sha:3db6dbbcb611c5b81844c6e1a64a4e21c3017a82]{
 -- Page 556, Offset 7066.
 -- 「で、下等なのは目くらましね。カゲムシャの方が分かりやすいかな？
--- TRANSLATION HERE
+"Los de grado bajo hacen algo más parecido a un truco de magia.
+ Puedes pensar que es como %{i}Kagemusha%{/i}.
 }
 [sha:7272857adfc91e0c5fcfb2cdeb339e248eb3e170]{
 -- Page 556, Offset 7067.
 -- 用心深い吸血鬼は分身を作って、それに意識を乗せて活動する。用が済んだら分身を操る魔力をカットするんだけど、それが塵になって霧散することから“霧になって消えた”ように見えるだけ」
--- TRANSLATION HERE
+Los vampiros precavidos crean clones y los manejan imbuyendolos con algo de su consciencia.
+ Una vez terminen con ellos, cortarán el suministro de energía mágica que animaba el clon.
+ Esto causa que se vuelvan polvo y se dispersen, haciendo parecer que han desaparecido en una nube de niebla."
 }
 [sha:346a2177270d94b9358b52bb4a06dc91451887be]{
 -- Page 557, Offset 7068.
 -- ふむふむ。
--- TRANSLATION HERE
+Mmm-hmm.
 }
 [sha:94c8a70171c498c9acd2da0f43ce72501a9d816b]{
 -- Page 557, Offset 7069.
 -- カゲムシャ、は影武者の事だろう。
--- TRANSLATION HERE
+Kagemusha' significa 'guerrero sombra', ¿cierto?
 }
 [sha:eba13ac7b154d1a88fc240952e72c06a99d6036a]{
 -- Page 557, Offset 7070.
 -- こいつ、外国人……じゃなくて、外国吸血鬼のクセに日本文化に詳しいな。
--- TRANSLATION HERE
+Esta extranjera... no, este %{i}vampiro%{/i}  extranjero sabe una cantidad sorprendente de cultura japonesa.
 }
 [sha:b7aac7e33561ef6d07318fbd48cb59cf1509af5e]{
 -- Page 558, Offset 7071.
 -- 「狼になる―――他の動物に変わるっていうのは、破損した肉体を使い魔で補っている副産物ね。
--- TRANSLATION HERE
+"Convertirse en un lobo, u otro animal cualquiera, es un efecto secundario del usar un familiar para compensar por un cuerpo dañado.
 }
 [sha:d861bd5e5c83c555f904faf883605bdfb88b6728]{
 -- Page 558, Offset 7072.
 -- 長い年月を生きた吸血鬼ほど、崩壊する肉体の補完は通常の命では間に合わない。だから力のある獣を取りこんで、それを体として使っている。
--- TRANSLATION HERE
+Cuanto más vive un vampiro, más difícil es para las células normales reparar un cuerpo en descomposición.
+ Es por eso que capturan bestias poderosas para suplementar esto en su lugar.
 }
 [sha:528d0209f15217048fb77fe96b838c14450ee742]{
 -- Page 558, Offset 7073.
 -- 必要な時はその獣をもとに戻して使役するから、“狼になった”“狼を出した”ように見える」
--- TRANSLATION HERE
+Cuando es necesario, las bestias vuelven a su estado original y las ponen a trabajar,
+ lo que hace parecer que el vampiro se ha 'convertido en lobo' o 'invocado un lobo'."
 }
 [sha:be691520ee551fe6f3d7fdb7f556896275bd338a]{
 -- Page 559, Offset 7074.
 -- 「死徒たちは命のリペアとして、旧い獣を一匹ぐらいは体に取りこんでいる。けどそれが限界。あんまり多く取りこむと、今度は吸血鬼の自我が獣と混濁してしまう。
--- TRANSLATION HERE
+"Los Apóstoles Muertos son capaces de introducir bestias antiguas en sus cuerpos para reponer su fuerza vital.
+ Aunque, una es el límite――si introducen demasiadas, nublaran el alma del vampiro.
 }
 [sha:769288a0a6dcab41de2507bfa9744cdce52e98af]{
 -- Page 559, Offset 7075. Mods: @k, @e.
 -- 死徒の中でも複数の獣を使い魔にしているヤツはひとりだけ。
--- TRANSLATION HERE
+Solo hay un vampiro entre todos los Apóstoles Muertos que ha introducido más de una bestia como familiar.
 }
 [sha:25bb37e51c5cacf2f4b5cfd5ff2cf172d747a32e]{
 -- Page 559, Offset 7076. Glued. Mods: @x.
 -- そいつももう消えたけど」
--- TRANSLATION HERE
+Aunque, ese vampiro ya está muerto."
 }
 [sha:090f53502eeaf729a35faf4cf1dba8bc0e0e02b4]{
 -- Page 560, Offset 7077.
 -- 「えっと、こんなところかな。
--- TRANSLATION HERE
+"Bueno, creo que eso es todo.
 }
 [sha:ef2cd97806790c7c23a383b9324561f552164a85]{
 -- Page 560, Offset 7078.
 -- 志貴が言ったイメージを元に、ざっと概要だけを説明したけど、吸血鬼がどんなものか分かってもらえた？」
--- TRANSLATION HERE
+Solo te he dado una idea general basándose en los puntos que me diste, ¿pero ahora entiendes lo que son los vampiros?"
 }
 [sha:a6fbd13b7c80175c995acc62203256e7a4c2e22a]{
 -- Page 561, Offset 7079.
 -- 「乱暴なまとめだけど、とにかく“ヒトのカタチをした、ヒトと同じ知性構造をした吸血種”を吸血鬼と呼ぶの。
--- TRANSLATION HERE
+"Para definirlo en grandes rasgos, se llama vampiros a chupasangres con forma y estructura intelectual humana.
 }
 [sha:2e84a60cf5363179b9deccb5d58974ecf11a0b40]{
 -- Page 561, Offset 7080.
 -- その中身がどれだけ異物でも、基本形態がヒトなら吸血鬼として問題ないわ」
--- TRANSLATION HERE
+Sin importar lo externos que sean los contenidos, mientras su estructura básica sea humana, será prácticamente un vampiro."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 562, Offset 7081.
@@ -406,10 +438,11 @@
 [sha:f4bbb0b88abcc3807e7db2a11820841a5863c8d5]{
 -- Page 562, Offset 7082.
 -- むしろますます分からなくなった。
--- TRANSLATION HERE
+En todo caso, cada vez estoy más confuso.
 }
 [sha:6f7e45da42fadccbebeb807645808da0a11639cc]{
 -- Page 562, Offset 7083.
 -- 吸血鬼というモノがどれほど怪物じみているのかは把握したが、だからこそ余計、目の前の女が吸血鬼とは思えないというか……
--- TRANSLATION HERE
+Entiendo lo monstruosos que pueden ser los denominados vampiros,
+ pero es por eso que no me puedo creer que la mujer frente a mi sea uno de ellos...
 }

@@ -36,12 +36,12 @@ Hay un patio del tamaño de cuatro pistas de tenis, y un jardín al final a lo l
 [sha:b6f4795f5d7264fbe776081b85fbfccef3126494]{
 -- Page 309, Offset 1941.
 -- 庭園の向こうにはさらに林があって、たしか―――
-En el otro lado del jardín, hay mas bosque, si no recuerdo mal―――
+En el otro lado del jardín, hay más bosque, si no recuerdo mal―――
 }
 [sha:46a00b3a7597c7e0479ca6dcf774335c1f73ba09]{
 -- Page 310, Offset 1942.
 -- 「おや。戻る前に立ち寄ったのだが、先客がいたとはね」
-"¿Oh? Pensé en pasarme por aquí antes de irme, pero no sabía que había un huesped anterior.
+"¿Oh? Pensé en pasarme por aquí antes de irme, pero no sabía que había un huésped anterior.
 }
 [sha:63dcc2872e5a5260a905214451b76ca656e32ba0]{
 -- Page 310, Offset 1943.
@@ -121,7 +121,7 @@ Saiki...?
 [sha:84cf0a7a560db48ef33108ea629faa6f4895df89]{
 -- Page 314, Offset 1958.
 -- いや、それ以前に―――この人物は、なんというか―――
-No, mas importante――esta persona es, como decirlo――
+No, más importante――esta persona es, como decirlo――
 }
 [sha:39be5be5cd44cdd909817ece900a369c359af270]{
 -- Page 315, Offset 1959.
@@ -171,7 +171,7 @@ Es un gesto de uno nacido con dignidad natural... una elegancia informal.
 [sha:04987a1021a05529a85040baf45a7a220a2bceae]{
 -- Page 318, Offset 1968.
 -- 「脱落。そう、脱落だ。君はご両親からの投資を投げ捨て、自らの義務を放棄した脱落者だ。にも拘わらずこうして屋敷に戻り、秋葉の兄として振る舞おうとしている。
-"Desertaste. Si, desertaste. Deshechaste la inversión de tus padres y abandonaste tu deber. Y aún así aquí estas, de vuelta en la mansión, intentando actuar como el hermano de Akiha.
+"Desertaste. Si, desertaste. Desechaste la inversión de tus padres y abandonaste tu deber. Y aún así aquí estas, de vuelta en la mansión, intentando actuar como el hermano de Akiha.
 }
 [sha:4e807edd974bfb1b6457441e98fc28823eb18d71]{
 -- Page 318, Offset 1969.
@@ -223,14 +223,14 @@ Criar a un niño es una inversión para el futuro de la familia.
 [sha:6b2a5f609d6b6bec1c5156b3d68f68c7c1d74476]{
 -- Page 321, Offset 1978.
 -- 自由……いや、自意識といってもいいな。それらは成人した後、一族を背負えるようになって、はじめて獲得できる権利の筈だ」
-Libertad... no, egotismo lo describe mejor. Estos son derechos que solo puedes adquirir cuando te vuelves un adulto y puedes llevar a tu familia a las espaldas."
+Libertad... no, egotismo lo describe mejor. Estos son derechos que sólo puedes adquirir cuando te vuelves un adulto y puedes llevar a tu familia a las espaldas."
 }
 [sha:9de26150b17193c0e8b973935a85adaa1e856f34]{
 -- Page 322, Offset 1979.
 -- 「君は遠野の子でありながら、それを理解していなかった。秋葉とは似ても似つかぬ三流だ。まあ、一度地に落ちていながら帰ってくる厚顔さだけは、一流と言えなくもないがね」
 "Eres un hijo de la familia Tohno, pero no entiendes eso.
  Aunque de primeras te parezcas a Akiha, en realidad, eres mediocre.
- Bueno, tu valor es aceptable por lo menos, viendo como has vuelto despues de caer tan bajo."
+ Bueno, tu valor es aceptable por lo menos, viendo como has vuelto después de caer tan bajo."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 323, Offset 1980.
@@ -260,7 +260,7 @@ Parece que te he confundido, no me opongo a que vuelvas. En todo caso, estoy a f
 [sha:8715a1ed1b3ac95a7014e4dc292e9bafdde32dc9]{
 -- Page 325, Offset 1985.
 -- 「斎木家は祖父の代から遠野家とは対等の付き合いをしている。現代風に言うとビジネスパートナーというやつだ。
-"La familia Saiki ha estado en igualdad de condiciones con la familia Tohno desde la generación de mi abuelo. En terminos actuales, lo llamaríamos socios.
+"La familia Saiki ha estado en igualdad de condiciones con la familia Tohno desde la generación de mi abuelo. En términos actuales, lo llamaríamos socios.
 }
 [sha:bc98ed12cdb1cad9c7859ac189c499a422495412]{
 -- Page 325, Offset 1986.
@@ -320,7 +320,7 @@ Parece que se ha dado cuenta que las palabras de Saiki Gouto me han desanimado.
 [sha:a11e7874de983c5c10312cc821a485527c1a422d]{
 -- Page 332, Offset 1997.
 -- 「まあ。お上手ですね。
-"Ay, me siento alagada.
+"Ay, me siento halagada.
 }
 [sha:1546b78ee0ddae5cc998ce99570c5cd52252f1e6]{
 -- Page 332, Offset 1998.

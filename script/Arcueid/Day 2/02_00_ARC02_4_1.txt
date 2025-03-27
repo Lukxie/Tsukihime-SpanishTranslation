@@ -125,7 +125,7 @@ La construcción de esta mansión es maravillosa,
 [sha:1d995e05b963222c840ca41677ad10fb8df7e60a]{
 -- Page 232, Offset 3220.
 -- 遠野家の当主が、夜から目を背けるなぞ」
-Es absurdo que el cabeza de la familia Tohno le de la espalda a la noche."
+Es absurdo que el cabeza de la familia Tohno le dé la espalda a la noche."
 }
 [sha:e85007979f36ec80e5db97e869ec12cb27bf866b]{
 -- Page 233, Offset 3221.
@@ -135,14 +135,14 @@ Es absurdo que el cabeza de la familia Tohno le de la espalda a la noche."
 [sha:c2ef9ab993db762fa729fe96b42cc43e864a6214]{
 -- Page 233, Offset 3222.
 -- 自分も消灯時間の早さには文句があったが、つい言い返してしまった。
-Tengo mis propios problemas con cuan pronto se van las luces,
+Tengo mis propios problemas con cuán pronto se van las luces,
  pero no pude evitar replicarle.
 }
 [sha:aa43fc5d4c1c4ecaf15554a7ae0c425fce663070]{
 -- Page 233, Offset 3223.
 -- 槙久を侮辱される。それは、当主を引き継いだ秋葉を侮辱されている気がしたからだ。
 Su insulto estaba dirigido a Makihisa, pero a mi,
- me parece más que estaba instultando a Akiha, la nueva cabeza de la familia Tohno.
+ me parece más que estaba insultando a Akiha, la nueva cabeza de la familia Tohno.
 }
 [sha:47deb4764c81d86612712ba1c0a0f667d0d37bda]{
 -- Page 234, Offset 3224.
@@ -153,12 +153,12 @@ Su insulto estaba dirigido a Makihisa, pero a mi,
 [sha:44943248dff90a6851d9b19fb6e8b72d87e3aa17]{
 -- Page 234, Offset 3225.
 -- 勘当された身であっても、父親の名誉を守る。槙久氏はいい息子を持ったな」
-Aunque te desheredasen, aún tienes que defender el honor de tu padre. Parece ser que Makihisa tiene un buen hijo."
+Aunque te desheredase, aún defiendes el honor de tu padre. Parece ser que Makihisa tiene un buen hijo."
 }
 [sha:4ddf685022c95721405ca108b690427f887558df]{
 -- Page 234, Offset 3226.
 -- 「こんな時間に来訪するのは非常識では、と訊いているんですが」
-"Por cierto, te estoy preguntando que haces aquí a estas horas tan absurdas."
+"Por cierto, te estoy preguntando qué haces aquí a estas horas tan absurdas."
 }
 [sha:cace9400f00090a71bc1bf7dc76eedae5a4a0b6e]{
 -- Page 234, Offset 3227.
@@ -248,7 +248,7 @@ Poco después, escucho la voz de Kohaku-san viniendo del vestíbulo. Seguramente
 -- Page 239, Offset 3242.
 -- 会社を引き継ぐ……斎木業人と<槙久|オヤジ>の関係は不明だが、あの口ぶりでは良好な関係ではなかったようだ。
 Encargarse de la compañía...
- No estoy seguro de la relación que Saiki Gouto tenía con mi padre, 
+ No estoy seguro de la relación que Saiki Gouto tenía con mi padre,
  pero juzgando por como hablaba, dudo que fuera especialmente amigable.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{

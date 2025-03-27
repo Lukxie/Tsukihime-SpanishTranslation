@@ -1,27 +1,28 @@
 [sha:cc8029d1169ace7bca710958ddb7aa2132983e98]{
 -- Page 10021, Offset 7084.
 -- 「じゃあ次はわたしの番ね。
--- TRANSLATION HERE
+"Bueno, supongo que ahora es mi turno.
 }
 [sha:90dbc5f69759d0c20ca9f51c1f782cd11e5d2219]{
 -- Page 10021, Offset 7085.
 -- 実を言うと、わたしも大事なことを聞き忘れてた」
--- TRANSLATION HERE
+Para ser sincera, también se me olvidó preguntarte algo importante."
 }
 [sha:b78e3d4a19afd9321935b39352988aba827ab449]{
 -- Page 10021, Offset 7086.
 -- 「……？　なんだよ、俺に聞くような事は何もないだろ。俺は吸血鬼でもなんでもない、ただの学生なんだから」
--- TRANSLATION HERE
+"¿Eh? No lo entiendo, ¿que podrías preguntarme?
+ no soy un vampiro ni nada por el estilo, solo soy un estudiante."
 }
 [sha:8876350a5cfde04fedc4871ce53c999ce11b4e23]{
 -- Page 564, Offset 7087.
 -- 「ふーん。それじゃあ聞くけど志貴。
--- TRANSLATION HERE
+"Hmm. Entonces déjame preguntarte algo, Shiki.
 }
 [sha:8775229c95698cb275a973745a76804bcad6272a]{
 -- Page 564, Offset 7088.
 -- あなた、どうやってわたしを殺したの？」
--- TRANSLATION HERE
+¿Como narices me mataste?"
 }
 [sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
 -- Page 564, Offset 7089.
@@ -31,152 +32,162 @@
 [sha:6ca4efb7ceaef3509336c924162ddc031d4f58d2]{
 -- Page 565, Offset 7090.
 -- 「だから、どんな手段を使ったのかって聞いてるの。
--- TRANSLATION HERE
+"Te estoy preguntando qué método usaste para matarme.
 }
 [sha:c868cab101c6c1c8917b1c8aceb1f4163c1de402]{
 -- Page 565, Offset 7091.
 -- ルーンやカバラあたりの秘術には抗体が出来ているから効かないし、抗体耐性が出来てない<神|も><秘|の>―――わたしがまだ経験した事のない魔術となると、この国の古神道と南米の秘宝ぐらいなものよ」
--- TRANSLATION HERE
+Mis anticuerpos pueden inutilizar la mística como las runas y el kabbalah,
+ pero no pudieron formar ninguna resistencia contra el misticismo que usaste.
+ Si hablamos de hechicería que nunca haya experimentado,
+ tiene que ser el Shintoismo de este país o los tesoros ocultos de Sudamérica."
 }
 [sha:b362b3538cab1cf4a3f2e755bd1255a823859c06]{
 -- Page 566, Offset 7092.
 -- 「いえ、それだってあそこまでわたしを“殺して”おく事はできない。
--- TRANSLATION HERE
+"No... ninguno de esos sería capaz de 'matarme' tan minuciosamente.
 }
 [sha:83a6fb4f1ea0647feda7120d38aef85214c6413c]{
 -- Page 566, Offset 7093.
 -- 答えて志貴。あなた、どんな年代物の神秘で、わたしを再起不能にしてくれたの？」
--- TRANSLATION HERE
+Contestame, Shiki. ¿Qué tipo de misticismo antiguo usaste para incapacitarme?"
 }
 [sha:d1c5df2a26571a1f707e084050a7ceca36306c4b]{
 -- Page 567, Offset 7094.
 -- 「いや、年代物の神秘って、何のことだ？」
--- TRANSLATION HERE
+"Un momento, ¿que es leches es un 'misticismo antiguo'?"
 }
 [sha:4cf03d1db92c936c8c4120c2c7fce6540b37cc86]{
 -- Page 567, Offset 7095.
 -- アルクェイドが真剣なのは分かる。
--- TRANSLATION HERE
+Puedo ver que Arcueid va en serio.
 }
 [sha:4a1043d8cd7dfa9cfb3f49931f8bcc195078cc31]{
 -- Page 567, Offset 7096.
 -- が、俺にはまったく彼女の言わんとするものが分からない。
--- TRANSLATION HERE
+Pero no entendí ni una cosa de lo que dijo.
 }
 [sha:54603b833cac38d488fd4a99c013112fc80047fe]{
 -- Page 568, Offset 7097.
 -- 「だから<概念|がいねん>武装のことよ。
--- TRANSLATION HERE
+"Obviamente estoy hablando de Armas Conceptuales.
 }
 [sha:efb0758a6b6cdfec746db1d4acc61afa4826beb4]{
 -- Page 568, Offset 7098.
 -- 歴史と想念を蓄えた触媒。
--- TRANSLATION HERE
+Catalizadores compuestos de historias e ideas.
 }
 [sha:5554ada94507d65870f7419c999c4ba59183b403]{
 -- Page 568, Offset 7099.
 -- この国にも神器ってあるんでしょう？　たいていは法杖や剣、宝石や仮面を使用する魔術礼装の事だけど――ねえ志貴、あなた本当にそっちの方面の人じゃないの？」
--- TRANSLATION HERE
+Incluso este país tiene algún artefacto sagrado, ¿cierto?
+ aunque creo que en su mayoría son varas budistas, espadas, o joyas y máscaras usadas como Códigos Místicos.%{n}
+Ey, Shiki―― ¿estás %{i}seguro%{/i} de que no estás involucrado con nada de eso?"
 }
 [sha:08b9f3cfaa484b8c9f270e2eb94fd57549b4bee9]{
 -- Page 569, Offset 7100.
 -- 「そっち方面もなにも、俺はただの学生だって言ったじゃないか。知ってる事なんてなにもないよ」
--- TRANSLATION HERE
+"Por supuesto que no. Como he dicho, solo soy un estudiante ordinario.
+ Literalmente no tengo idea de nada de esto."
 }
 [sha:9617f3d27abdaa8a8a4c0d709457f10f09a72b4f]{
 -- Page 570, Offset 7101.
 -- 「うそよ。魔術師でもない人間がわたしを傷つける事なんてできないわ。
--- TRANSLATION HERE
+"¡Mientes! No hay forma de que un humano que ni siquiera es mago sea capaz de dañarme.
 }
 [sha:5109c160835a3483bb13a93973c1bcdca00db831]{
 -- Page 570, Offset 7102.
 -- ……志貴、わたしに隠していること、あるでしょ？」
--- TRANSLATION HERE
+Shiki... hay algo que no me estás diciendo, ¿no?"
 }
 [sha:6b81057ec3eb669f37c3d74d98eaa644552b7ca3]{
 -- Page 571, Offset 7103.
 -- アルクェイドはむーっ、と怒った猫のように俺を睨む。
--- TRANSLATION HERE
+Arcueid me mira como un gato enfadado.
 }
 [sha:bdefb8ef37d4cb2a323f7f8e6cf8ec029a8230da]{
 -- Page 571, Offset 7104.
 -- が、そんな目をされてもこっちには隠し事なんて―――
--- TRANSLATION HERE
+Me puede mirar todo lo que quiera, no es que esté escondiendo nada―――
 }
 [sha:0d102a587af2996cde94c4c4b34368a193fe65c1]{
 -- Page 571, Offset 7105.
 -- ―――あった。
--- TRANSLATION HERE
+Espera... hay algo.
 }
 [sha:b7aa4d40013897ea9f149e169d633001b80b5a6e]{
 -- Page 572, Offset 7106.
 -- 「……すまん、実を言うと一つあったっぽい。
--- TRANSLATION HERE
+"Perdón. Para serte sincero, hay una cosa.
 }
 [sha:209c0d090882ac1cbdb3d779c5516721a9c5721c]{
 -- Page 572, Offset 7107.
 -- ………けど関係あるのかな、これ」
--- TRANSLATION HERE
+Pero... no estoy seguro de si es relevancia."
 }
 [sha:9e3a3d9774a6087546d5a7029649d5bd25e25a08]{
 -- Page 573, Offset 7108.
 -- アルクェイドはまだ睨んでいる。
--- TRANSLATION HERE
+Arcueid continúa mirándome mal.
 }
 [sha:86fa6c77f17cbb0d734dd408a037e80de65a36d5]{
 -- Page 573, Offset 7109.
 -- これは打ち明けないと収まらない流れだ。
--- TRANSLATION HERE
+No va a echarse atrás hasta que la cuente todo.
 }
 [sha:edc1137e036b1b509d519efb7a5139c8e9310800]{
 -- Page 574, Offset 7110.
 -- 「なんて言ったらいいのかな……俺さ、モノの切れる線が見えるんだよ」
--- TRANSLATION HERE
+"Como digo esto... puedo ver líneas por las que pueden cortarse las cosas."
 }
 [sha:440b060294a0d253ec70f5166e823fbf36aadf8f]{
 -- Page 574, Offset 7111.
 -- 「切れる線？」
--- TRANSLATION HERE
+"¿Líneas que pueden cortarse?"
 }
 [sha:b33305b86b3630d37c17b2c730721d33d2ab7ec4]{
 -- Page 574, Offset 7112.
 -- だろうな。こんな話、普通は信じてはもらえない。
--- TRANSLATION HERE
+Ese es el tipo de reacción que me esperaba.
+ ¿Quién se creería algo así?
 }
 [sha:bf294f91b1853a5f7227388f66755b84677b4d77]{
 -- Page 574, Offset 7113.
 -- 事実、今までずっとそうだった。
--- TRANSLATION HERE
+De hecho, no creo que haya hecho ni una sola persona a quién se lo haya dicho.
 }
 [sha:81c05dc09d862d01d9628ea05bc48308921b5326]{
 -- Page 575, Offset 7114.
 -- 「……それ、どういう意味？」
--- TRANSLATION HERE
+"¿A qué te refieres con eso?"
 }
 [sha:5b3953513c5612e833c6cd7f47d025cbde6d8331]{
 -- Page 575, Offset 7115.
 -- が、アルクェイドは真剣に問い返してきた。
--- TRANSLATION HERE
+Sin embargo, la respuesta de Arcueid parece totalmente seria.
 }
 [sha:f0be73d761850b0a194d637070e1cb83ff86343a]{
 -- Page 576, Offset 7116.
 -- 「だからモノの切れる線が視えるんだよ、俺。
--- TRANSLATION HERE
+"Ya te lo he dicho, puedo ver las líneas por las que se pueden cortar las cosas.
 }
 [sha:c4645bc4bd2dfdad9b4f66de562f61b344b80c8f]{
 -- Page 576, Offset 7117.
 -- 生き物とか地面とか、とりあえず触れられるものなら全部。亀裂みたいでさ、それに刃物を通すとあっさり切断できるんだけど……これ、意味あるか？」
--- TRANSLATION HERE
+No importa que sea algo vivo, la superficie de la tierra, o lo que sea entre medias――si puedo tocarlo, entonces puedo cortarlo.
+ Es como una grieta, si la trazo con una hoja puedo dividir la cosa en dos... ¿me explico?"
 }
 [sha:7435446c9859166eb4ed9e7ff12dc103ad6aa0af]{
 -- Page 577, Offset 7118.
 -- 「鉄をナイフ程度で切れるのは便利だけど、別に好きなところが切れるわけじゃないんだ。線が視えてるところしか切れないから、日曜大工にも使えない。
--- TRANSLATION HERE
+"Es bastante conveniente poder cortar acero con nada más que un cuchillo,
+ pero no que pueda cortar las cosas como quiera.
+ Solo puedo cortarlas por las líneas que están ahí, así que no es muy útil para manualidades o nada por el estilo.
 }
 [sha:d2e3904b68ce472561c0a942e46188c3298ce538]{
 -- Page 577, Offset 7119.
 -- おまえを切った時だって……その、ナイフなら女の肌ぐらい切れるだろ？」
--- TRANSLATION HERE
+Y cuando te corté a ti... bueno, tiene sentido que pudiera atravesar la piel de una mujer con un cuchillo, ¿no?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 578, Offset 7120.
@@ -186,107 +197,114 @@
 [sha:c9455eb28deb72ec442c46376f24705898eb2884]{
 -- Page 578, Offset 7121.
 -- 「………っ」
--- TRANSLATION HERE
+"......"
 }
 [sha:2df517f4569c4227279403d318c42aaa3880beaa]{
 -- Page 578, Offset 7122.
 -- 背筋に寒気が走る。
--- TRANSLATION HERE
+Me recorre un escalofrío.
 }
 [sha:739b1e33010ab3872de68204b4b916e34ceb1555]{
 -- Page 578, Offset 7123.
 -- 真っ正面から、こちらの呼吸を止めるほどの、強い視線を向けられる。
--- TRANSLATION HERE
+Me está mirando tan intensamente que casi se me olvida respirar.
 }
 [sha:8d2858b4b8e55e3645cdcd518eeed6480caf5b71]{
 -- Page 579, Offset 7124.
 -- 「そう。直死の魔眼なんて童話の中だけの話と思ってたけど、いるところにはいるものね。
--- TRANSLATION HERE
+"Ya veo. Pensaba que los Ojos Místicos de Percepción Mortal era algo de cuentos de hadas.
+ Aún así, supongo que este mundo hay gente rara.
 }
 [sha:658564e232b0d93fda97a9faf0d6c0265fa39ff9]{
 -- Page 579, Offset 7125.
 -- あなたみたいな、突然変異の化物が」
--- TRANSLATION HERE
+Mutantes monstruosos como tú, por ejemplo."
 }
 [sha:dd5d6b1cfcba5ddda870ced869dab688fc1f1fb2]{
 -- Page 580, Offset 7126.
 -- 「なっ……なんだよ、それ。俺は吸血鬼に化物なんて言われる筋合いはないぞ！」
--- TRANSLATION HERE
+"Qu... ¿de qué hablas? ¡Un vampiro como tú no tiene derecho a llamarme monstruo!"
 }
 [sha:3654ff9063c0b3852fce8e997d9aba0d93c09ed2]{
 -- Page 580, Offset 7127.
 -- 「化物は化物でしょう。『モノの死を視る』魔眼なんて、わたしたちでさえ保有している者はいないんだから」
--- TRANSLATION HERE
+"Solo llamo las cosas por lo que son.
+ Ni siquiera existen %{i}vampiros%{/i}  que posean Ojos Místicos que puedan ver la muerte de las cosas."
 }
 [sha:1915c863113b668107e0ff75eab27719672ce685]{
 -- Page 581, Offset 7128.
 -- 「……？　モノの、死をみる……？」
--- TRANSLATION HERE
+"¿La muerte... de las cosas...?"
 }
 [sha:e1752d4fcd4861b21688d0283c67869375c4fa92]{
 -- Page 581, Offset 7129.
 -- 「それ以外のなんだっていうの？
--- TRANSLATION HERE
+"¿Cómo lo llamarías si no?
 }
 [sha:788586e5da2dae6bcfea4e6cb37b7e659af241c2]{
 -- Page 581, Offset 7130.
 -- 志貴。あなたの目は、生物として繋がってはいけない場所と回線が開いているんでしょうね。その目は生まれついてのものなの？」
--- TRANSLATION HERE
+Shiki- Tus ojos están recibiendo una transmisión de un lugar al que ningún ser vivo debería estar conectado... ¿Naciste con esos ojos?"
 }
 [sha:7d1e9881a1bd09e0a00572cae32cf628305fc9de]{
 -- Page 581, Offset 7131.
 -- 「……いや、こうなったのは昔からだけど、生まれついてのものじゃない」
--- TRANSLATION HERE
+"No... Han sido así por mucho tiempo, pero no nací con ellos."
 }
 [sha:d5badc4e4ddf7dead82ce951be937ba337385659]{
 -- Page 582, Offset 7132.
 -- 「それじゃあ以前、一度ぐらい死んでみた事があるでしょう？」
--- TRANSLATION HERE
+"En ese caso, debes haber experimentado la muerte al menos una vez, ¿cierto?"
 }
 [sha:624c8767c66ec1bbdbcc5b2bcfe1df8bad627f0f]{
 -- Page 582, Offset 7133.
 -- 「<吸|お><血|ま><鬼|え>じゃあるまいし、そう簡単に死ねるか。
--- TRANSLATION HERE
+"No soy como tú, ¿vale? No puedo morir y volver a la vida.
 }
 [sha:891d5d38d31ad1db8479992c5d92e74b172f8742]{
 -- Page 582, Offset 7134.
 -- ……でもまあ、そうだよ。以前、事故で死にかけた。線が見えるようになったのはその後からだ」
--- TRANSLATION HERE
+Pero sí... ha ocurrido. Una vez casi muero en un accidente.
+ Fue después de ese incidente cuando fui capaz de ver esas líneas."
 }
 [sha:51c337163f6d0552c4456e8354aba4b88b3f1b12]{
 -- Page 583, Offset 7135.
 -- 「ふぅん。潜在的な素質もあったんだろうけど、きっかけはそれでしょうね。……直死の魔眼、か。
--- TRANSLATION HERE
+"Hmm. Entonces debías de tener algún tipo de poder latente, y el incidente fue lo que lo despertó.
+ Ojos Místicos de Percepción Mortal, eh...
 }
 [sha:c22c27e888cb5a976ec8371813c9ab01d70adf4f]{
 -- Page 583, Offset 7136.
 -- たしかにそれなら、間違いなくわたしを殺せるわ」
--- TRANSLATION HERE
+Ciertamente encaja.
+ Tiene sentido que pudieras matarme con ojos como esos."
 }
 [sha:795984a59b532fae5152dd000b01c880010c6c6c]{
 -- Page 584, Offset 7137.
 -- ふん、と不機嫌そうに鼻を鳴らして、アルクェイドは俺から視線を逸らした。
--- TRANSLATION HERE
+Arcueid hace un puchero enfurruñada y aparta la mirada.
 }
 [sha:7b1794540b6aa82c3086e23d33f0fd5f9ac793e7]{
 -- Page 584, Offset 7138.
 -- 明らかな嫌悪を向けられたものの、あの眼でなくなったのは有難い。
--- TRANSLATION HERE
+Me alegro de que lo haga. Me ha estado mirando con repulsión visible en sus ojos.
 }
 [sha:48e557d35b549725c3ebede873d4ee7cef230d7b]{
 -- Page 585, Offset 7139.
 -- 「アルクェイド……おまえ、この線がなんだか知ってるのか？」
--- TRANSLATION HERE
+"Arcueid... ¿qué crees que son esas líneas?"
 }
 [sha:4874adaaf856a1e1e20885d56f7fbd21d6b1ab03]{
 -- Page 585, Offset 7140.
 -- 「実際に知覚できるあなたほどじゃないけど、知識としてなら説明できるわ」
--- TRANSLATION HERE
+"No las entiendo tan bien como alguien como tú que las puede ver,
+ pero te puedo contar la teoría."
 }
 [sha:73e00ae6f46c6f4e11ed01ef140d1d343b89ecb4]{
 -- Page 586, Offset 7141.
 -- 「あなたが見ているものはね、万物の結果、物の死に<易|やす>い箇所なのよ。もっと解りやすく言うのなら、あらゆる存在の死期……“死”そのものよ」
--- TRANSLATION HERE
+"Lo que ves es la conclusión de todas las cosas; los puntos donde las cosas mueren con facilidad.
+ En términos simples, puedes ver el final predestinado de todo lo que existe... la 'muerte' misma."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 586, Offset 7142.
@@ -296,82 +314,88 @@
 [sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
 -- Page 587, Offset 7143.
 -- それは。
--- TRANSLATION HERE
+Eso es...
 }
 [sha:9458db94277b2c61bc24d999923a176a527e6fbf]{
 -- Page 587, Offset 7144.
 -- 微妙に違ってはいたが、この眼鏡をくれた先生が、子供だった俺に教えてくれた事に近かった。
--- TRANSLATION HERE
+Es ligeramente distinto, pero es bastante parecido a lo que me enseñó Sensei cuando recibí estas gafas de niño.
 }
 [sha:b5198fa9673acec4f50067ed1e27a47f246b1269]{
 -- Page 588, Offset 7145.
 -- ……万物の結果。ものの未来。
--- TRANSLATION HERE
+La conclusión de todas las cosas――su futuro.
 }
 [sha:a168faab18ca673eb9217fcad715abc25961a311]{
 -- Page 588, Offset 7146. Mods: @n.
 -- それを俺は、今まで意識せずに、
--- TRANSLATION HERE
+Sin siquiera darme cuenta de lo que hacía―――
 }
 [sha:f2b1bb836ae68486fed30caeb818ebd1ac8a29a0]{
 -- Page 588, Offset 7147.
 -- 努めて意識しないように―――
--- TRANSLATION HERE
+Me he pasado todo este tiempo intentando no ser consciente de ellos.
 }
 [sha:2fb0396419a5cb66a064db5dc0bc494e32c7987b]{
 -- Page 589, Offset 7148.
 -- 「……なに言ってんだ。俺が見てる線なんて、ただそこが切れるだけのものじゃないか」
--- TRANSLATION HERE
+"Qué dices... ¿No son estas líneas los sitios por los que puedo cortar las cosas?"
 }
 [sha:df21a959fe1a4a3be1178bd73a5fa75702d0b912]{
 -- Page 590, Offset 7149.
 -- 「だから、その線が『死』なの。
--- TRANSLATION HERE
+"Como he dicho, esas líneas son la 'muerte' misma.
 }
 [sha:54016684e4602038ca1208ae699f32a7dca5d011]{
 -- Page 590, Offset 7150.
 -- いい、志貴？　ありとあらゆるものには終わりがある。
--- TRANSLATION HERE
+Escucha, Shiki. Todas y cada una de las cosas en este mundo tienen un final.
 }
 [sha:9a312b9488ef19bec04dce331d4fe87e57e7f066]{
 -- Page 590, Offset 7151.
 -- それがいつになるかは個別差があるけど、とにかく果てというものはある。
--- TRANSLATION HERE
+Cuándo ocurrirá ese final puede variar, pero igualmente hay un final.
 }
 [sha:ad911242c2de8a49bc63809c92cc20e0783805e4]{
 -- Page 590, Offset 7152.
 -- 死は到来するものではなく、誕生した瞬間に内包していて、いつか発現するものよ。それが原因と結果。因果律って言葉、聞いた事あるでしょう？」
--- TRANSLATION HERE
+La muerte no es algo que venga.
+ Está contigo desde el momento que naces, y eventualmente, se manifestará.
+ Simple causa y efecto.
+Conoces la ley de la causalidad, ¿no?"
 }
 [sha:31bb2d66a0b5863d9dd298d6981339fcc37783bc]{
 -- Page 591, Offset 7153.
 -- 「<こ|・><こ|・>にある以上、それは必ず消えなくてはいけない。原子の流動、エネルギーの約束事ね。たった一つの例外、ほんの小さな間違いも秩序は許容しない。
--- TRANSLATION HERE
+"Todo aquello que tiene un principio %{i}debe%{/i} tener un final.
+ Los átomos solo recirculan――es la conservación de la energía, ¿cierto?
+ El orden no tolera ninguna discrepancia. Ni siquiera el más mínimo error.
 }
 [sha:3e3862c1dba6948ef997a2b3243649588da09ffd]{
 -- Page 591, Offset 7154.
 -- だって、そんなものがあったら、この宇宙の前提が崩れてしまうんだもの。それこそ泡のように消えてしまうわ」
--- TRANSLATION HERE
+Quiero decir, si hubiera algún desajuste, la premisa en la que se basa el universo se caería en pedazos.
+ El universo mismo desaparecería como una burbuja al explotar."
 }
 [sha:f8fe0d4ad2addadc837bbbbee4bed53ad86c2fc1]{
 -- Page 592, Offset 7155.
 -- いや、だとしても。
--- TRANSLATION HERE
+Vale, incluso si todo eso fuera cierto―――
 }
 [sha:cf910fc17bdb9a0cfd80f83d8923d7d3011bf74b]{
 -- Page 592, Offset 7156.
 -- 宇宙とか、さすがに見当違いの話ではないだろうか？
--- TRANSLATION HERE
+Hablar de la muerte del universo ¿no es exagerar un poco las cosas?
 }
 [sha:84da0403335decb184bfe569a5bb99f8b5b8c8d7]{
 -- Page 593, Offset 7157.
 -- 「見当違いじゃないっ！
--- TRANSLATION HERE
+"¡No estoy exagerando nada!
 }
 [sha:87590f6b6b36decc1f99caaf1c9275a36ef1eccf]{
 -- Page 593, Offset 7158.
 -- 貴方の眼はそれぐらい最悪な眼ってコト！」
--- TRANSLATION HERE
+¡No bromeo cuando digo que tus ojos son así de malos!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 593, Offset 7159.
@@ -381,52 +405,57 @@
 [sha:d76c3b3073f73a30dcb5bccd8a97d22e37b1ee55]{
 -- Page 594, Offset 7160.
 -- 「いい？　消滅は万物に予め設計された決まりなの。
--- TRANSLATION HERE
+"Escucha. Todo en este mundo tiene su deceso determinado desde un principio.
 }
 [sha:aa086cf3af750f0a69b4cacb438d2d5cc91323c3]{
 -- Page 594, Offset 7161.
 -- どんなに長い寿命、どんなに強大な生命にだってこれはある。たとえ宇宙の寿命より長い寿命を持つ生命があるとしても、それは無限に生き続ける訳じゃない」
--- TRANSLATION HERE
+Esto aplica a todo el mundo, sin importar lo longevos que sean, o lo poderosa que sea su existencia.
+ Si alguien alguien tiene una esperanza de vida más larga que el universo, eso aún no significa que vayan a vivir para siempre."
 }
 [sha:dd7deffcd1cae1fdeaf064ee524c03a04197f0f9]{
 -- Page 595, Offset 7162.
 -- 「この、定められた『消滅』が物の『死期』。
--- TRANSLATION HERE
+"Este 'deceso' predeterminado es el 'fin predestinado' de todas las cosas.
 }
 [sha:5b4dc88cf235848145217b5cfbb8d46dc56314a0]{
 -- Page 595, Offset 7163.
 -- で、それは初めから在るわけだから、『死期』という概念を理解できる機能、それと回線が合っている脳髄と眼球があるのなら、目で視る事は不可能じゃない」
--- TRANSLATION HERE
+Como es algo que está ahí desde el inicio,
+ si tienes la capacidad de entender el concepto del 'fin predestinado', además de ojos y cerebro cuyas líneas de transmisión estén sintonizadas para ello,
+ entonces tiene sentido que puedas verlas visualmente."
 }
 [sha:d839b5eb72c8615ef8924412dbbc30dc449b4e3a]{
 -- Page 596, Offset 7164.
 -- 「それがあなたの視ている『線』の正体よ。
--- TRANSLATION HERE
+"Esa es la verdadera naturaleza de las 'líneas' que ves.
 }
 [sha:d486ffd24cba0e063e8e35091a239ae37dbfcf8d]{
 -- Page 596, Offset 7165.
 -- あえてあなたたち風に理論づけるのなら、原子結合の宿命的欠陥部分、というところかしらね。
--- TRANSLATION HERE
+Si teorizasemos en términos humanos, diría que es algo parecido al flujo intrínseco de los enlaces atómicos.
 }
 [sha:7bedd776d10c38028ce750376d41c4c49db950f4]{
 -- Page 596, Offset 7166.
 -- それとも、その個体の死因を発現させる、遺伝子に用意された<自|テ><滅|ロ><装|メ><置|ア>的なスイッチかな」
--- TRANSLATION HERE
+// Nasu y sus porros sobre la genética, xdd es gracioso leer esto habiendote especializado en genética
+O quizá es más como un telómero, un switch genético autodestructivo que se manifiesta la causa de muerte de un individuo."
 }
 [sha:4bba28edaa87f124ebedb3dbd04d62260bf87ab1]{
 -- Page 597, Offset 7167.
 -- 「とにかくあなたが視ているのは“モノの死に易い線”、死という結論そのものよ。
--- TRANSLATION HERE
+"De todas formas, lo que ves es la conclusión de la muerte misma: líneas donde las cosas son propensas a morir.
 }
 [sha:1b5a890c36ff064fc0bc26c8fed1219cd6100b36]{
 -- Page 597, Offset 7168.
 -- よくそんな状態で今まで生きてこれたものだわ。よっぽどあなたは心が穏やかなんでしょうね、志貴」
--- TRANSLATION HERE
+Me sorprende que hayas sobrevivido tanto tiempo si ves cosas así.
+ Shiki, debes de tener un corazón muy sereno."
 }
 [sha:3f27780644b21f52380a863472fbbb5df21d51c3]{
 -- Page 598, Offset 7169.
 -- アルクェイドは淡々と語る。
--- TRANSLATION HERE
+La afirmación de Arcueid es directa.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 598, Offset 7170.
@@ -436,72 +465,76 @@
 [sha:fb87f9345c0a46dfe832408ca55a4fbf7de1c41e]{
 -- Page 598, Offset 7171.
 -- 人の気も知らないで、冗談じゃない。
--- TRANSLATION HERE
+No me creo que de verdad sea %{i}tan%{/i} insensible.
 }
 [sha:ed46a7af8c6a8e9ad3c331b67523e531611037b2]{
 -- Page 598, Offset 7172.
 -- 俺はコイツの説明を理解しながら、なにひとつ同意したくなかった。
--- TRANSLATION HERE
+Aunque entienda su explicación, no estoy de acuerdo con nada de ella.
 }
 [sha:ec3e27012491103d68b997c638fb6abd3b13b378]{
 -- Page 599, Offset 7173.
 -- 「そんなものある筈がないし、まして見える訳がない」
--- TRANSLATION HERE
+"No hay forma de que algo así exista, e incluso si lo hiciese, no sería capaz de verlo."
 }
 [sha:f2b2b80ae326639f5ba9171b0cfcd892fdac87ef]{
 -- Page 600, Offset 7174.
 -- 「あなたには視えてるじゃない。
--- TRANSLATION HERE
+"Pero %{i}puedes%{/i} verlo.
 }
 [sha:03936a926b45c784ae41d222cadaffcdfb7b2b63]{
 -- Page 600, Offset 7175.
 -- 普通、生物は首を切ったら殺されるわ。これは切断したから停止した、という事よね。
--- TRANSLATION HERE
+Normalmente, un ser vivo moriría si le cortas la cabeza.
+ Si decapitas algo, lo normal es que deje de moverse, ¿verdad?
 }
 [sha:da663aea5b5a295f83c755c9c03852179b46071c]{
 -- Page 600, Offset 7176. Mods: @k, @e.
 -- 逆にいえば、首を切断できない生物は殺されないという事になる。
--- TRANSLATION HERE
+Por el contrario, dirías que una criatura que no puedes decapitar es imposible de matar.
 }
 [sha:7a9900e0b3c0efda91a2296c8cf89b4d560367ad]{
 -- Page 600, Offset 7177. Glued. Mods: @x.
 -- あ、これはわたしの事だから例外にしておいて」
--- TRANSLATION HERE
+Oh, bueno, supongo que eso también se me aplica pero dejemos eso a un lado por ahora."
 }
 [sha:41ea5feb086f1230591ee750ec8b1621b41ed027]{
 -- Page 601, Offset 7178.
 -- 「あなたはその決まり事を無視できるのよ。
--- TRANSLATION HERE
+"Lo que quiero decir es que tu puedes desafiar esa norma.
 }
 [sha:b4ba6e8483166b02e6d2a8fc91d2bac0589d26f0]{
 -- Page 601, Offset 7179.
 -- あらゆる外的要因を無効化するモノが相手でも、まず殺す。殺された相手はその後で『死んだ』状態になるんでしょうね。
--- TRANSLATION HERE
+Incluso si te enfrentas a un oponente que pueda anular todo lo que le echen, tu puedes saltarte eso y 'matarlo'.
+ Al final un oponente al que han matado tiene que estar 'muerto', ¿verdad?
 }
 [sha:e22d918d45888787b30b35813d4726094f60fba8]{
 -- Page 601, Offset 7180.
 -- 切断したから殺害できた、じゃない。
--- TRANSLATION HERE
+No es como si los hubieses matado cortandoles la cabeza.
 }
 [sha:1f51d3639ba2ad591e529dc510e58dd3d84ef148]{
 -- Page 601, Offset 7181.
 -- あなたの場合はモノを殺害したから、その結果として対象が切断される」
--- TRANSLATION HERE
+más bien, eres capaz de matarlos primero, y entonces su cabeza se corta como resultado."
 }
 [sha:b9f57cbe8caf3427aaa3ce289caade4db8ab78f0]{
 -- Page 602, Offset 7182.
 -- 「ほら、これが化物でなくてなんだというの？
--- TRANSLATION HERE
+"Ves, si eso no es un monstruo, ¿que lo es?
 }
 [sha:f09e5c9a1266320059a4be3e5723a066edb37b34]{
 -- Page 602, Offset 7183.
 -- 物が切れるだけの線って言うけど、その両目は今まで生まれてきたどんな異能より特異なものよ。
--- TRANSLATION HERE
+Dices que solo son líneas donde las cosas pueden ser cortadas,
+ pero esos ojos tuyos son más especiales que cualquier otra habilidad que haya existido hasta ahora.
 }
 [sha:c0292e47da842cacabfe77f40a8d075ee22d3241]{
 -- Page 602, Offset 7184.
 -- あなたはね、志貴。あらゆるものを殺してしまう、死神みたいな目を持っているんだから」
--- TRANSLATION HERE
+Verás, Shiki――tus ojos te dan la habilidad de matar cualquier cosa a tu alrededor.
+ Es como si tuvieras los ojos de la mismísima Muerte."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 603, Offset 7185.
@@ -511,117 +544,119 @@
 [sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 603, Offset 7186.
 -- ……そうだ。
--- TRANSLATION HERE
+Eso es verdad...
 }
 [sha:57c0ea42b651c36b1708aaebfa28d131c2cb4c35]{
 -- Page 603, Offset 7187.
 -- だから意識しないように、認めないように、今までやってきた。
--- TRANSLATION HERE
+He llegado hasta aquí intentando no ser consciente de esto, sin aceptarlo.
 }
 [sha:c57a0a89abe2fb70e0599f18cb8cd69612da74a1]{
 -- Page 604, Offset 7188.
 -- 本当はずっと前から分かっていた。
--- TRANSLATION HERE
+Pero la verdad es que he sabido esto por mucho tiempo.
 }
 [sha:96a2a41967ef213af07db892484aaaa044648c21]{
 -- Page 604, Offset 7189.
 -- アルクェイドの言う通り、この眼は、その命は、世界にとって何かの間違いでしかないのだと。
--- TRANSLATION HERE
+Tal y como dijo Arcueid,
+ en lo que respecta al mundo estos ojos y esta vida no pueden ser más que un error.
 }
 [sha:c85a14703471b77a40db9575344f42a8a88a086c]{
 -- Page 605, Offset 7190.
 -- だって、あの日からずっと、終わる世界を見せられてきた。
--- TRANSLATION HERE
+Porque desde aquel día, se me ha mostrado el final del mundo.
 }
 [sha:b422e40d61264d7e6ab12925405a380fe64b6b94]{
 -- Page 605, Offset 7191.
 -- あらゆるものが、一秒後には崩れる可能性を知らされていた。
--- TRANSLATION HERE
+He sido forzado a lidiar con la posibilidad de que todo pueda desmoronarse en cualquier momento.
 }
 [sha:b76935a4ba2c242e0ea9e74d1ca7bcb288c3bcfd]{
 -- Page 605, Offset 7192.
 -- 生きているかぎり、俺の周りには。
--- TRANSLATION HERE
+Mientras siga vivo, estoy rodeado de ello.
 }
 [sha:521973911f61f2a938c12dbdc6e9a8c9ced805e3]{
 -- Page 605, Offset 7193.
 -- あんなにも、死の予兆が充満していた。
--- TRANSLATION HERE
+Sofocado por los presagios de la muerte.
 }
 [sha:3dd9d799ff4094a1e2752deaadc0a625b700a9d4]{
 -- Page 606, Offset 7194.
 -- 「……じゃあ、なにか。
--- TRANSLATION HERE
+"Entonces... que.
 }
 [sha:aa4bed10106703bc3ca2e89d699997a5326eb1a0]{
 -- Page 606, Offset 7195.
 -- 俺はおまえだって殺せる事になるぞ。なんでも殺す、物騒なヤツなんだからな」
--- TRANSLATION HERE
+Eso significa que incluso puedo matar a alguien como tú.
+ Después de todo, soy un chico peligroso. Puedo matar cualquier cosa."
 }
 [sha:fc3374ab37ebfd4f987b43c0e456b80720bc88a8]{
 -- Page 606, Offset 7196.
 -- 「そう？　じゃあ試しにやってみよっか」
--- TRANSLATION HERE
+"¿De veras? Entonces vamos a intentarlo."
 }
 [sha:52d25ead3b32bc753bd94f528e45c41fe8df0d3a]{
 -- Page 607, Offset 7197.
 -- アルクェイドは部屋の電気を消すと、窓際に移動した。
--- TRANSLATION HERE
+Arcueid apaga todas las luces y camina hacia la ventana.
 }
 [sha:49808b43a8f3180972fdbc5ab30227772ea62726]{
 -- Page 607, Offset 7198.
 -- カーテンが開かれる。
--- TRANSLATION HERE
+Abre las cortinas.
 }
 [sha:58b69dd5ba4a23c09532677bdf2901e4e42bad01]{
 -- Page 607, Offset 7199.
 -- 遮断されていた多くの光、多くの情報が視界に入る。
--- TRANSLATION HERE
+La plétora de luces y detalles previamente ocultos es ahora visible.
 }
 [sha:3d6e5b5905e4701fea17669b9c2b095c24cb66e4]{
 -- Page 607, Offset 7200.
 -- 窓越しの月明かりが、白い女の影を作る。
--- TRANSLATION HERE
+La luz de la luna difundiendose a través de la ventana proyecta la sombra de la pálida figura.
 }
 [sha:38727119d34be15edcb4972c9bb601154f9c4f31]{
 -- Page 608, Offset 7201.
 -- 「ほら、いいから本気になってみて。
--- TRANSLATION HERE
+"Venga, está bien así que no te contengas.
 }
 [sha:abc6dc0f44c7fa71fd28dafd1eb1d5fe96ffb495]{
 -- Page 608, Offset 7202.
 -- あ、もしかしてその眼鏡で視えないようにしてるの？」
--- TRANSLATION HERE
+Oh, ¿podría ser que no puedes verlas con esas gafas puestas?"
 }
 [sha:ba990daf56a9fcaf35740aff843ebffd64e38a4d]{
 -- Page 609, Offset 7203.
 -- 「―――いいんだな」
--- TRANSLATION HERE
+"¿―――Estás segura de esto?"
 }
 [sha:4127df4fe65215f8284381d79280a12e128185a2]{
 -- Page 609, Offset 7204.
 -- ……ありえない。
--- TRANSLATION HERE
+No es posible...
 }
 [sha:9209766b5446abf76e9d3cd3bc9e8355e7d04851]{
 -- Page 609, Offset 7205.
 -- 今まで人前で外す事のなかった眼鏡に手をかける。
--- TRANSLATION HERE
+Pongo mi mano sobre las gafas. Nunca antes me las he quitado en frente a nadie.
 }
 [sha:a1ff179c70072e1c036e40b32d7f48db4ee14b0e]{
 -- Page 610, Offset 7206.
 -- ……アルクェイドの告発を受けて、俺は<自|ヤ><棄|ケ>になっていたんだろう。
--- TRANSLATION HERE
+Supongo que tras sufrir las acusaciones de Arcueid me he rendido a la desesperación .
 }
 [sha:db6b70180a343966e0a1817c9a7e53c878d4f650]{
 -- Page 610, Offset 7207.
 -- 暴力的な気持ちに押されて眼鏡を外す。
--- TRANSLATION HERE
+Mis violentos sentimientos me incitan a quitarme las gafas.
 }
 [sha:feb49ff0c5634f354f8644dd7ae8e20223c9f4db]{
 -- Page 611, Offset 7208. Mods: @n.
 -- 部屋中に線が蠢き出す
--- TRANSLATION HERE
+Las líneas se retuercen por toda la habitación
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 611, Offset 7209. Glued.
@@ -631,7 +666,7 @@
 [sha:3fd83aeb0cfe296cf88fda355bae463e966c8f65]{
 -- Page 611, Offset 7210. Mods: @n.
 -- ……<視界|せかい>が、死の結末に満ちていく
--- TRANSLATION HERE
+Un mundo repleto de muerte
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 611, Offset 7211. Glued.
@@ -646,77 +681,84 @@
 [sha:dbcec3df76e528d0dbb31c560813f3de94457a0c]{
 -- Page 612, Offset 7213. Glued. Mods: @x.
 -- え？」
--- TRANSLATION HERE
+¿Eh?"
 }
 [sha:010570ee168adaa64e924e0265e3c1ffb5c539ca]{
 -- Page 612, Offset 7214.
 -- それは、我が眼を疑いたくなるほどの、奇蹟だった。
--- TRANSLATION HERE
+Lo que veo frente a mi es un milagro que me hace poner en duda mi propios ojos.
 }
 [sha:b0c599594237eae686fe0a4e1c44ab81a1c07d5a]{
 -- Page 613, Offset 7215.
 -- 窓の外には白い月。
--- TRANSLATION HERE
+Una luna blanca cuelga del cielo tras la ventana.
 }
 [sha:ec3132d6b3572db490bfcf59ecfb34905f1289ca]{
 -- Page 613, Offset 7216.
 -- 昼間は強い陽射しで視えにくい線は、
--- TRANSLATION HERE
+Las líneas, las cuales son difíciles de ver bajo la molesta luz del sol―――
 }
 [sha:68933663f4763756e14b9a728befc45fa46d8749]{
 -- Page 613, Offset 7217.
 -- 微弱な月の明かりでは光ってさえ視えてしまう。
--- TRANSLATION HERE
+Son más que visibles bajo la leve iluminación de la luna. Son casi brillantes.
 }
 [sha:e0846ca3c8b6f9bfb2d7b567c500369928acf9cc]{
 -- Page 614, Offset 7218.
 -- その中で。
--- TRANSLATION HERE
+Pero entre ellas―――
 }
 [sha:71806f4b26066382d7336032b1df45d4b5c9d5bb]{
 -- Page 614, Offset 7219.
 -- アルクェイドの体にある『線』は、ひどくか細く、意識を集中しなくては見えない程、不確かなものだった。
--- TRANSLATION HERE
+Las 'líneas' del cuerpo de Arcueid son tan finas e insustanciales que casi no puedo verlas.
+ Tengo que achinar los ojos y prestar mucha atención para siquiera verlas.
 }
 [sha:7be7ff4cbc955cb349246ec4873f6f13f16e8f51]{
 -- Page 615, Offset 7220.
 -- 「そんな―――どうして？」
--- TRANSLATION HERE
+"Son... ¿pero por qué?"
 }
 [sha:ed7d5b63fdd494f9d62000d1a2137ed018dc9eba]{
 -- Page 616, Offset 7221.
 -- 「どう？　線はほとんど視えないでしょう？
--- TRANSLATION HERE
+"¿Qué ves?
+ Las líneas son casi invisibles, ¿verdad?
 }
 [sha:96ef3aed6c46d6e82dce065ae8cf9a7e754c6c53]{
 -- Page 616, Offset 7222.
 -- わたしね、夜は『死期』のない生き物なの。
--- TRANSLATION HERE
+Soy un ser cuyo 'final predestinado' no existe de noche.
 }
 [sha:57488310524e2140c198e001a453268950ae78d1]{
 -- Page 616, Offset 7223.
 -- だからあなたの眼でも殺すことは不可能でしょうね」
--- TRANSLATION HERE
+Por eso, no serías capaz de matarme, incluso con esos ojos tuyos."
 }
 [sha:e6637352d2186a0c4a26be5351195863b81c076e]{
 -- Page 617, Offset 7224.
 -- 「んー、それでもちょっとは視えちゃうのかなぁ。
--- TRANSLATION HERE
+"Hmm, pensándolo mejor, supongo que quizá las puedas ver por un segundo.
 }
 [sha:24622abce9fec857e6965fd0cbb19b2b18d5097d]{
 -- Page 617, Offset 7225.
 -- 夜は死なないわたしだけど、昼間は多少の死期ができてしまう。その弱点をつかれてわたしはあなたに殺された。あの時は大仕事の後だったし、即死耐性も落ちてたしね」
--- TRANSLATION HERE
+// Creo que como comentan los de Tsukihimates dejarlo en stat esta bien
+Aunque no pueda morir por la noche, aún tengo un 'final predestinado' por el día.
+ Ese punto débil es lo que antes te permitió matarme.
+ Y aún peor, acababa de terminar un gran encargo, por lo que mi stat de resistencia a la muerte era más baja de lo normal."
 }
 [sha:79c980c949f82cc5fe8a730619a0ea7f4b2a9f81]{
 -- Page 618, Offset 7226.
 -- 「結果、わたしはあなたに殺されて、この通り、夜でも『死期』ができるほど弱ってしまった。
--- TRANSLATION HERE
+"En cualquier caso, acabaste matándome,
+ y entonces como puedes ver terminé estando tan débil que tengo un 'final predestinado' incluso de noche.
 }
 [sha:8f12faabc990302832700279fbb1200c6489e540]{
 -- Page 618, Offset 7227.
 -- ようするに不老不死でなくなったワケだけど、志貴、わたしの体の線が切れる？」
--- TRANSLATION HERE
+En otras palabras, ya no soy realmente inmortal, pero――
+ Shiki, ¿crees que podrías cortar las líneas de mi cuerpo?"
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 619, Offset 7228.
@@ -726,127 +768,131 @@
 [sha:3e5ae5656f27c10b314425c66dbc8f435d5bfd7f]{
 -- Page 619, Offset 7229.
 -- ……どうだろう。
--- TRANSLATION HERE
+No estoy seguro...
 }
 [sha:61fc0bb5dedb3b563378038fae7f5dc704ec26e5]{
 -- Page 619, Offset 7230.
 -- たしかに線があるんだから切れるとは思う。
--- TRANSLATION HERE
+Es verdad que puedo cortar cualquier cosa a la que recorra una línea.
 }
 [sha:82906c820965dc8b38face42e9cfcb6e728e0917]{
 -- Page 619, Offset 7231.
 -- けれど、あの時のように鮮やかに、一秒もかけずに切断するのは出来そうにない。
--- TRANSLATION HERE
+Aún así, no creo que sea capaz de cortarlas tan hábilmente como hice entonces,
+ trazándolas en menos de un segundo.
 }
 [sha:a91214e083fdc38ca021141bb3a7e2b62b0b8ce9]{
 -- Page 620, Offset 7232.
 -- 「……やりにくいと思う。線が見えたり見えなかったりするから、アルクェイドが眠ってでもいないかぎり、できない」
--- TRANSLATION HERE
+"Creo que sería bastante difícil...
+ Las líneas siguen apareciendo y desapareciendo, así que probablemente no podría hacerlo a no ser que estuvieras dormida."
 }
 [sha:e672024f9ad3ea95cb30e83f3c6f77a96f79264e]{
 -- Page 621, Offset 7233.
 -- 「でしょう？　それがあなたの最大の欠点ね。
--- TRANSLATION HERE
+"¿Ves? Ese es tu mayor defecto.
 }
 [sha:8e444c1d3cfafacf39126f598227f5242cea6afc]{
 -- Page 621, Offset 7234.
 -- どんなに『死』が見えていようとも、その『線』を引くのは志貴自身の腕じゃないといけない。
--- TRANSLATION HERE
+No importa lo bien que puedas ver la 'muerte' si no puedes alcanzar esas 'líneas' con tus propias manos.
 }
 [sha:6ffdb4a079e17255cc966a7a74aabc6ef02af39a]{
 -- Page 621, Offset 7235.
 -- いくらわたしが弱ってるからって、志貴に捕まるほど運動能力は低下してないもの」
--- TRANSLATION HERE
+Quizá ahora mismo esté débil, pero no estoy tan debilitada como para que me puedas alcanzar."
 }
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 622, Offset 7236.
 -- ……そっか。
--- TRANSLATION HERE
+Ya veo...
 }
 [sha:d3043b3492e436fc14aeb7b578046e18b38b3065]{
 -- Page 622, Offset 7237.
 -- 言われてみれば、俺はすばしっこく動きまわる動物には追いつけないし、捕まえられない。
--- TRANSLATION HERE
+Tal como dice ella, no hay forma de que pueda seguirle el ritmo a un animal ágil, mucho menos alcanzarlo.
 }
 [sha:481d1341050a22cfb4fb462ef09d3f5a2fa1463a]{
 -- Page 622, Offset 7238.
 -- 捕まえられない以上、線に触れる事もできない。
--- TRANSLATION HERE
+Y no puedo poner un dedo sobre esas líneas, si en primer lugar no puedo alcanzarlas.
 }
 [sha:f6655173f37c988981bdf3975f083bc5d15c09a0]{
 -- Page 623, Offset 7239.
 -- つまり、こんな『線』が見えていても、動くモノは殺せない。
--- TRANSLATION HERE
+Resumiendo, incluso si puedo ver estas 'líneas', no significa que pueda matar a un objetivo móvil.
 }
 [sha:1bafed35d1fe115beb4d101b3477b76556266d65]{
 -- Page 623, Offset 7240.
 -- 俺が抱いていた恐れは、そんな言葉で緩和される程度のものだと、人間ではないモノは笑い飛ばした。
--- TRANSLATION HERE
+Con esas palabras el miedo que me amarraba se relaja de cierta forma, y soy capaz de tomarme a risa mi naturaleza inhumana.
 }
 [sha:e36d69dab928058330f9809c9d2a7463e69ed09d]{
 -- Page 624, Offset 7241.
 -- そう、笑い話だ。気休めの洒落話だ。
--- TRANSLATION HERE
+Sí... solo es una historia graciosa.
+ Un chiste que me reconforta.
 }
 [sha:42de7fb76bef397c4e683ce5f791bb7effcc9777]{
 -- Page 624, Offset 7242.
 -- どんな喩えを、どんな欠点を教えられたところで、俺が見続けてきた世界の在り方は変わらない。
--- TRANSLATION HERE
+Sin importar qué metáforas o defectos me enseñen, el mundo al que he estado mirando toda mi vida no cambiará.
 }
 [sha:4639368de8833925067b37deafe8e5b3f318a9ed]{
 -- Page 624, Offset 7243.
 -- 俺はこの世に、混ざってはいけない故障箇所だ。
--- TRANSLATION HERE
+En este mundo, soy una parte defectuosa a la que no se debe permitir unirse con el resto.
 }
 [sha:fb2f56a2efe74f47ffc9795bc119bca666639ebf]{
 -- Page 625, Offset 7244.
 -- ああ、それでも―――
--- TRANSLATION HERE
+Ah, pero aún así―――
 }
 [sha:b2115ed712e3b0c012912a28d0436218ea5c5309]{
 -- Page 625, Offset 7245.
 -- そんな当たり前の事がどうでも良くなるぐらいに、
--- TRANSLATION HERE
+Es imposible desperdiciar un pensamiento en preocupaciones corrientes como esas.
 }
 [sha:2829988b0881b984a7a002cf32734f174e110378]{
 -- Page 625, Offset 7246.
 -- ありえないものを視ている。
--- TRANSLATION HERE
+No con esta vista inimaginable ante mi.
 }
 [sha:39d37be17f9acc74401180af6acd477bc35e97e7]{
 -- Page 626, Offset 7247.
 -- 月光を<弾|はじ>く大輪の花。
--- TRANSLATION HERE
+Una preciosa flor bañada en la luz lunar.
 }
 [sha:99bcbd6189deca6906f757a3150ce0cc25ac042e]{
 -- Page 626, Offset 7248.
 -- ……そうだ。俺は永遠が欲しかった訳じゃない。
--- TRANSLATION HERE
+Sí... no quiero la eternidad, ni nada por el estilo.
 }
 [sha:4dac3707576d80889c6c97f969d5529eac77df93]{
 -- Page 626, Offset 7249.
 -- ただ、こんな自分でも触れられるものがあると、
--- TRANSLATION HERE
+Pero, pensar que existe algo en este mundo que incluso yo puedo tocar―――
 }
 [sha:37c3a218eabcd873a60ec5324ac5b9adaae2e8c4]{
 -- Page 626, Offset 7250.
 -- 希望を持って生きていたくて―――
--- TRANSLATION HERE
+Quiero vivir aferrándome a esa esperanza.
 }
 [sha:494ce6ff44458e5750f9d0cb0a2d6461c3ca48b3]{
 -- Page 627, Offset 7251.
 -- 「―――痛」
--- TRANSLATION HERE
+"―――%{i}Ow%{/i}."
 }
 [sha:9f2ea96536a2b17bdcb2e1246b6a0e0febbdbd84]{
 -- Page 627, Offset 7252.
 -- ずきり、と頭痛が走った。
--- TRANSLATION HERE
+De repente siento la punzada de un dolor de cabeza.
 }
 [sha:ad578a70a479ff95aa4d81e4523a837595d0c90d]{
 -- Page 627, Offset 7253.
 -- 線を見ていると頭痛が起きる。眼鏡をかけて、奇蹟のような光景から、もとの視界に切り替える。
--- TRANSLATION HERE
+Mirar esas líneas me da dolor de cabeza.
+ Me pongo las gafas, y la escena milagrosa ante mí vuelve a la realidad.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 628, Offset 7254.
@@ -856,87 +902,93 @@
 [sha:c5e4a2c93efd4742e7472c7b4ac18f3ffc401334]{
 -- Page 628, Offset 7255.
 -- アルクェイドは不審げにこちらの様子を見つめている。
--- TRANSLATION HERE
+Arcueid me ojea sospechosamente.
 }
 [sha:6981c731e3f7dfd75df949de46a65dfbc58cda81]{
 -- Page 629, Offset 7256.
 -- 「……なんだよ。まだ何かあるのか」
--- TRANSLATION HERE
+"¿Qué? ¿Hay algo que quieras decir?"
 }
 [sha:76f1f576b6a0fc141649898331d7bc0618d70227]{
 -- Page 630, Offset 7257.
 -- 「ううん、そうじゃなくて。
--- TRANSLATION HERE
+"No, no es eso.
 }
 [sha:082f7efbd773777ca2e98b9cdc67f596b46ebc4d]{
 -- Page 630, Offset 7258.
 -- その眼鏡をかけていれば線は見えないの？」
--- TRANSLATION HERE
+¿No ves las líneas cuando llevas esas gafas?"
 }
 [sha:e5b56d6e0ae081f462015f0a22ed9c6ddb7fc319]{
 -- Page 631, Offset 7259.
 -- 「……まあ、そうだけど。
--- TRANSLATION HERE
+"Ah... sí.
 }
 [sha:7af0babadc7d0502c406f9e1bdf68d0f8bfcd74d]{
 -- Page 631, Offset 7260.
 -- 昔、俺の眼がこうなった時に出会った人がくれたんだ。
--- TRANSLATION HERE
+Me las entregó alguien que conocí hace mucho tiempo, cuando mis ojos se volvieron así.
 }
 [sha:7ab7bfbb85bc6cce45c6d2a29258b90f09cbe109]{
 -- Page 631, Offset 7261.
 -- 今じゃレンズだけしか使ってないけど、これのおかげでなんとか普通に生活が送れてるんだよ」
--- TRANSLATION HERE
+En este momento solo las lentes son originales,
+ pero gracias a ellas soy capaz de llevar una vida normal."
 }
 [sha:d644f63a6554038f056ffb5867aee1b1add5e440]{
 -- Page 632, Offset 7262.
 -- 「そっか、そうよね。
--- TRANSLATION HERE
+"Ya veo, supongo que tiene sentido.
 }
 [sha:3455e5082f0aa2806a55bed5e684c06ded62f47a]{
 -- Page 632, Offset 7263.
 -- どんなに強い心があったって、死とずっと向き合っていたら発狂するか、眼球を潰すしかないものね」
--- TRANSLATION HERE
+No importa lo fuerte que sea tu mente,
+ si tuvieras que mirar a la muerte todo el rato con el tiempo te volverías loco o te sacarías los ojos."
 }
 [sha:97543b324f97f6baf724f0b91c9b9b2ce9e2af87]{
 -- Page 633, Offset 7264.
 -- 「……あのな。さっきから言いたい放題、物騒なことばっかり言いやがって。少しは遠慮してくれ。あと近い。止まれ。いいからそこで止まれ。止まらないと花瓶投げるぞ！」
--- TRANSLATION HERE
+"Eh perdona... ya llevas un rato soltando cosas perturbadoras.
+ Por favor dame un respiro.
+ Y también, estás demasiado cerca.
+ Para. Para justo ahí.
+ ¡Te lanzo un vaso como no te pares!"
 }
 [sha:2302a33cd0c2baa090282fee31a49ab65fac9f02]{
 -- Page 634, Offset 7265.
 -- 身の危険を感じ取って後じさる。
--- TRANSLATION HERE
+Sintiendo el peligro, me alejo.
 }
 [sha:8e422e9f871066decf89fecaf907f6e08ec3a824]{
 -- Page 634, Offset 7266.
 -- しかし、この大猫に俺の脅しが効くはずもなく、アルクェイドは興味津々とばかりに近寄ってくる。
--- TRANSLATION HERE
+Sin embargo, mi amenaza fue completamente inefectiva contra este gran felino, y Arcueid continúa acechandome con una gran curiosidad.
 }
 [sha:171a45c0ad2fffa3b4babd5a9956b91f8ecb8e3f]{
 -- Page 635, Offset 7267.
 -- 「ね。それ、見せて」
--- TRANSLATION HERE
+"Ey. Déjame ver esas un segundo."
 }
 [sha:c650c2e5db05d78f2aaf460eac25a8131ddd1f96]{
 -- Page 635, Offset 7268.
 -- 「―――ヤだ。これは大事なものだから、渡さない」
--- TRANSLATION HERE
+"―――Ni hablar. Son importantes para mi, no te las doy."
 }
 [sha:21ca43521c782b8a366fe6a3f9eb04d371f0c8fd]{
 -- Page 636, Offset 7269.
 -- 「別に壊したりしないってば。
--- TRANSLATION HERE
+"No es que las vaya a romper.
 }
 [sha:f2949a737f1da15b036501e6ba5e381268a5c973]{
 -- Page 636, Offset 7270.
 -- ねーねー。本当に見るだけだからいいでしょー？」
--- TRANSLATION HERE
+Venga. No pasa nada por echar un vistazo, ¿verdad?"
 }
 [sha:76d35f3cd12c0b692aa87e2ec5db0805c71ac581]{
 -- Page 637, Offset 7271.
 -- なんだこの馬鹿まるだしな発言……。
--- TRANSLATION HERE
+¿Qué clase de proposición estúpida es esta?
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 637, Offset 7272. Mods: @k, @e.
@@ -946,10 +998,10 @@ Yo―――
 [sha:e92f34101656133366e421025c1fec09d623f32c]{
 -- Page 638, Offset 42608. Choice.
 -- ……呆れて、つい手渡した。
--- TRANSLATION HERE
+Me rindo y las entrego.
 }
 [sha:71b938ad3f107f1d23b62c54a730c8cec1c4e7bb]{
 -- Page 638, Offset 42609. Choice.
 -- ……いや、その手には乗らないぞ。
--- TRANSLATION HERE
+Me niego... De ninguna manera las voy a entregar.
 }

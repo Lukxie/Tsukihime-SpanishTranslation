@@ -296,7 +296,7 @@
 [sha:635382ea5817fe1d87e546dc9a8efa4650575618]{
 -- Page 116, Offset 8469.
 -- <真祖|しんそ>って区分けされる吸血鬼だけど、あなたはなんていう人？」
--- TRANSLATION HERE
+Soy un vampiro del linaje de los Verdaderos Ancestros, ¿qué tipo de humano eres tú?"
 }
 [sha:f1b42a138bc14d1d47fa6f3133845201d00fe90c]{
 -- Page 117, Offset 8470.
@@ -321,27 +321,27 @@
 [sha:2506d5ca915023d2bde22cb2fdd967a3c6af581a]{
 -- Page 119, Offset 8474.
 -- 彼女はまじまじとこちらを眺めた後、
--- TRANSLATION HERE
+Me mira larga y detenidamente, y entonces―――
 }
 [sha:1f29066fda92e7d04c2c160ab777db4b902c05cb]{
 -- Page 119, Offset 8475.
 -- 改めて握手を求めてきた。
--- TRANSLATION HERE
+Me pide que la de la mano.
 }
 [sha:6aabc02091c1b5b3a325dc46a54dae569d71ba61]{
 -- Page 120, Offset 8476.
 -- 「それじゃあよろしくね、志貴。
--- TRANSLATION HERE
+"Espero con ansias trabajar contigo, Shiki.
 }
 [sha:5062200aa6da6c26cc83d9d2d1b478d9425f19d2]{
 -- Page 120, Offset 8477.
 -- わたしを殺した責任、ちゃんと取ってもらうんだから」
--- TRANSLATION HERE
+Me aseguraré de que te hagas completamente responsable por matarme."
 }
 [sha:c3cf1b15b5c37de662d6be8167d3927573235baa]{
 -- Page 121, Offset 8478.
 -- ニッコリと左手を差し出すアルクェイド。
--- TRANSLATION HERE
+Arcueid sonríe y extiende su mano izquierda.
 }
 [sha:1f6488aa717368a4d45efbe62d7b0b6435996498]{
 -- Page 121, Offset 8479.
@@ -351,7 +351,8 @@
 [sha:a9b9d23f5b9ecc41d74ab6f6c77b9ca58fa8422c]{
 -- Page 122, Offset 8480.
 -- 「……ああ、ほんと、どうかしてる」
--- TRANSLATION HERE
+// No más thio please
+"De verdad... esto es de locos."
 }
 [sha:b63e12c1f04b4858e0974538c01fe2a6d5d02bb4]{
 -- Page 122, Offset 8481.
@@ -361,5 +362,5 @@
 [sha:e03bca3d63302d606c991b4fe8b86719cb702b19]{
 -- Page 122, Offset 8482.
 -- 俺は嫌々ながら左手を差し出して、吸血鬼と名乗る白い女と握手をした。
--- TRANSLATION HERE
+Extiendo mi mano izquierda de mala gana y doy la mano a la mujer de blanco que dice ser un vampiro.
 }

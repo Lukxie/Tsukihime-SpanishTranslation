@@ -51,22 +51,22 @@
 [sha:13aee63e71a06f61c51bb9972940c88429ace488]{
 -- Page 64, Offset 11029.
 -- ハルと呼ばれた男がエレベーターのボタンを押す。
--- TRANSLATION HERE
+El hombre llamado Haru pulsa el botón del ascensor.
 }
 [sha:34b227764814acd989a9edc349b0e7ca4cc3d211]{
 -- Page 65, Offset 11030.
 -- 「……っ」
--- TRANSLATION HERE
+"%{i}Nn%{/i}."
 }
 [sha:532fd82ebdc6567d91795a119346ed35584f24ff]{
 -- Page 65, Offset 11031.
 -- 暗闇に駆動音が響く。
--- TRANSLATION HERE
+Un sonido mecánico hace eco en la oscuridad.
 }
 [sha:ad9ecf075a36389192278a0ecc87e9b693718b1a]{
 -- Page 65, Offset 11032.
 -- ここだけは電気が通っているようだ。
--- TRANSLATION HERE
+Parece que es la única cosa aquí conectada a la electricidad.
 }
 [sha:cc81d1abc7055526490e7212920b5ff919902322]{
 -- Page 66, Offset 11033.
@@ -121,7 +121,8 @@
 [sha:d4e1d1d5274f74407051172cee4fdf67c35d0a64]{
 -- Page 70, Offset 11043.
 -- エレベーターが開くなり、強烈な光に照らされる。
--- TRANSLATION HERE
+Al momento que se abren las puertas del ascensor,
+ una intensa luz lo inunda.
 }
 [sha:f539c14a1f7dc22834e935a4aa90f161fa4b523d]{
 -- Page 70, Offset 11044.
@@ -396,22 +397,22 @@
 [sha:e397b69c8447f0e7e48018c01817075d20e67a27]{
 -- Page 87, Offset 11098.
 -- 頭痛がする。
--- TRANSLATION HERE
+Siento como el dolor de cabeza se aproxima .
 }
 [sha:b3da2b297b57dd92275f26cbb6f80bcaeffd4dc3]{
 -- Page 87, Offset 11099.
 -- 吐き気がする。
--- TRANSLATION HERE
+Siento náuseas.
 }
 [sha:550ed786ec9a0e14688be1e2f4c0d1a8811fc85f]{
 -- Page 87, Offset 11100.
 -- 足音が近づいてくる。
--- TRANSLATION HERE
+Los pasos cada vez están más cerca.
 }
 [sha:d05e9348c09d0af46dee2786da7ff54771419838]{
 -- Page 87, Offset 11101.
 -- ここにいては襲われるだけだと本能が悲鳴をあげる。
--- TRANSLATION HERE
+Mis instintos me gritan que me atacarán si me quedo aquí.
 }
 [sha:e2b285cbfee3d653a6b1c137c03a94e995a45ce9]{
 -- Page 88, Offset 11102.

@@ -1,97 +1,108 @@
 [sha:027a12989dbe4faaf9ce650c506165d088fc5510]{
 -- Page 10014, Offset 14588.
 -- 館内を観覧してみよう。
--- TRANSLATION HERE
+Recorreré la mansión.
 }
 [sha:ab1377c90fee4c21801e43720bac20001a0b08be]{
 -- Page 10014, Offset 14589.
 -- 七年前からそう変化はないと思うが、成長した今の視点ならではの発見があるかもしれない。
--- TRANSLATION HERE
+// Tl oficial
+Dudo que haya cambiado mucho en estos últimos siete años,
+ pero quizá ahora puedo descubrir algo nuevo ahora que he crecido.
 }
 [sha:c09f3877d5a9f201580d69b929cbe917e305a990]{
 -- Page 279, Offset 14590.
 -- ―――さて。
--- TRANSLATION HERE
+―――Bien pues.
 }
 [sha:7f09a3c8b5b4356365651a869ff48b98f111d818]{
 -- Page 279, Offset 14591.
 -- １時間ほど屋敷を見て回った結論として。
--- TRANSLATION HERE
+Tras andar por la mansión durante una hora, he llegado a una conclusión
 }
 [sha:6245b41535778e8aed9d41453926f8d13ed822be]{
 -- Page 280, Offset 14592.
 -- 「立ち入り禁止の区画が多すぎない？」
--- TRANSLATION HERE
+"¿Por qué hay tantos sitios prohibidos?"
 }
 [sha:29bd2cb27c7e8c44391dd14c0e146f501aea8c40]{
 -- Page 280, Offset 14593.
 -- 周りには誰もいないのに、つい同意を求めてしまった。
--- TRANSLATION HERE
+Lo digo en alto, aunque no haya nadie alrededor.
 }
 [sha:47d6c51779d24e532a3df9c94aa3db2f0159f3fa]{
 -- Page 281, Offset 14594.
 -- 遠野邸本館はホテルのように広く、また、ホテルのように『関係者以外立ち入り禁止』な部屋が多かった。
--- TRANSLATION HERE
+La mansión es tan grande como un hotel,
+ y tal como un hotel, hay múltiples habitaciones a las que no se pueden acceder.
 }
 [sha:ac6ec28f2b6660cec841e2c42eaf7b468ff6dc55]{
 -- Page 282, Offset 14595.
 -- とくに東館の二階は凄かった。
--- TRANSLATION HERE
+// Tl oficial
+La segunda planta del ala oeste es especialmente increíble.
 }
 [sha:8efddff88a26a0f97838984abc859fd28fbf48c5]{
 -- Page 282, Offset 14596.
 -- 『酷い』のではなく『凄い』。
--- TRANSLATION HERE
+// Tl oficial
+Y no lo digo de mala manera.
 }
 [sha:45846c9927a4bcf8926428a1b31e91d021ff6a82]{
 -- Page 282, Offset 14597.
 -- なんていうか、圧、があるのだ。
--- TRANSLATION HERE
+Es como decirlo... abrumadora.
 }
 [sha:0438499c3f7a7946383f981580a60d6250735d4f]{
 -- Page 282, Offset 14598.
 -- 他の部屋は鍵がかかっているので入れなかったが、東館の二階は鍵や扉で塞がれている訳ではない。
--- TRANSLATION HERE
+No puedo entrar a muchas de las habitaciones porque están cerradas,
+ este no es el caso de la segunda planta del ala este.
 }
 [sha:c4e426483be255ad7ae93986821f198ccc945e65]{
 -- Page 282, Offset 14599.
 -- なのに、こう、踏み入ろうとすると眩暈がするというか、廊下が揺らいで見えるというか、
--- TRANSLATION HERE
+Pero cuando fui a echar un vistazo,
+ me empecé a marear...
+ casi como si el pasillo se estuviera moviendo detrás de mí.
 }
 [sha:d731d9715549076ea5c3540af392d23d6d117809]{
 -- Page 283, Offset 14600. Mods: @n.
 -- 「許可なしで入ったら絶対に殺す、
--- TRANSLATION HERE
+"'Si entras sin permiso morirás en el acto...'
 }
 [sha:6e9904bf268c658ba602a9ab0477d7f0b115d157]{
 -- Page 283, Offset 14601.
 -- という強い意志を感じる……」
--- TRANSLATION HERE
+Tengo la impresión de que eso es lo que ocurre..."
 }
 [sha:813f28b7defacd0ea50ad2aa11c06af9815df2ac]{
 -- Page 284, Offset 14602.
 -- おもに秋葉からの。
--- TRANSLATION HERE
+La responsable de esto es, por supuesto, Akiha.
 }
 [sha:6bc80e5687a2ed25c224dec077d66890840cb768]{
 -- Page 284, Offset 14603.
 -- 単なる被害妄想、否、俺が気を遣いすぎているだけなのだが、それはそれとして社会的な生命の危機を感じるので、東館の二階には入らなかった。
--- TRANSLATION HERE
+Quizá sea paranoia――no, solo estaba dándole demasiadas vueltas.
+ De todas formas, si entro me temo que mi vida social estaría en grave peligro,
+ así que opto por no entrar en la segunda planta del ala este.
 }
 [sha:6ca04b400d4b97729ef63ee32f8762db633bacc2]{
 -- Page 285, Offset 14604.
 -- 「ああ、それが正解だ。
--- TRANSLATION HERE
+"Sí, buena decisión.
 }
 [sha:735adf1e641603bc9c61044a93695c79fdcfd21a]{
 -- Page 285, Offset 14605.
 -- おいそれと当主の生活空間に入るものじゃあない。それが家族であろうともね。
--- TRANSLATION HERE
+Uno no debe colarse en el territorio del cabeza de familia.
+ Incluso si es parte de la familia.
 }
 [sha:1d65868f5475b7d3b7f805adcaa98406e80ea8fb]{
 -- Page 285, Offset 14606.
 -- 昔からここではそうだっただろう、志貴君」
--- TRANSLATION HERE
+Siempre ha sido así, ¿verdad, Shiki-kun?"
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
 -- Page 286, Offset 14607.
@@ -101,82 +112,99 @@
 [sha:8a3967b953bd88251ddaf6f4999e7cc65c47d987]{
 -- Page 286, Offset 14608.
 -- 後ろから話しかけられて、ビクッと背筋が跳ねる。
--- TRANSLATION HERE
+Doy un pequeño brinco, sorprendido por la voz que me llama a mi espalda.
 }
 [sha:13c668cd9efad76fd58be55877d31fda50906a0d]{
 -- Page 286, Offset 14609.
 -- 振り向くとそこには、
--- TRANSLATION HERE
+Y cuando me giro, me encuentro con―――
 }
 [sha:1c666895192faea7b623e6e9c85443f5f70dcd8b]{
 -- Page 287, Offset 14610.
 -- 「屋敷の探索は終わったかね？　私としては、出戻った人間には自室で大人しくしていてほしいのだが」
--- TRANSLATION HERE
+"¿Has terminado de explorar la mansión?
+ Personalmente, preferiría que la gente que vuelve arrastrándose se quede calladita en su habitación, sin estar en medio."
 }
 [sha:a189e85b5ccb7f3cdee9074e95e9d12793364e40]{
 -- Page 287, Offset 14611.
 -- 「それはどうも。こっちも、よく知らない人間に家のまわりを歩いてほしくないですけど」
--- TRANSLATION HERE
+"Agradezco tu preocupación.
+ Lo mismo te digo, quizá tampoco debería haber gente que casi ni conozco andando por la casa."
 }
 [sha:04c47f8fe04577e83e19a5c54c33f8b22a27e054]{
 -- Page 288, Offset 14612.
 -- 「私を知らないのは君だけなんだが、まあ、そこは流そう。お互い深く関わり合う立場じゃない。痛し痒しだ。
--- TRANSLATION HERE
+Eres el único que no me conoce, pero bueno...
+Dejémoslo pasar.
+ Ninguno de nosotros está en posición de involucrarse en los asuntos del otro.
+ Es una situación delicada.
 }
 [sha:23ffd62d85b4de56a95f791e50254fb02ef3fead]{
 -- Page 288, Offset 14613.
 -- 今日は―――そうだな。
--- TRANSLATION HERE
+Hoy es――cierto.
 }
 [sha:de57bbc7ee5dd986ee6743abc3cb07501e9a93f7]{
 -- Page 288, Offset 14614.
 -- 私も気が緩んでいたらしい。君の後ろ姿から昔を思い出してね。声をかけてしまったんだよ」
--- TRANSLATION HERE
+// mix de tls
+He bajado la guardia.
+ Verte me recordó tanto al pasado que,
+ sentí la necesidad de decirte algo."
 }
 [sha:4ba622307516c5a65cf43b81b28ff33e485bf6d3]{
 -- Page 289, Offset 14615.
 -- 「……俺を見て、昔を思い出した、ですか……？」
--- TRANSLATION HERE
+"Me miraste... ¿y recordaste el pasado?"
 }
 [sha:cd6e0ac34a7a80d953c0dec69c01883ba1378914]{
 -- Page 289, Offset 14616.
 -- ……それは、もしかして。
--- TRANSLATION HERE
+Se refiere a...
 }
 [sha:c7f6d36f2001cb7cabf96778e5a9457e6eca7e09]{
 -- Page 290, Offset 14617.
 -- 「ああ。槙久さんがまだ万全だった頃だ。
--- TRANSLATION HERE
+// Tl oficial
+"Sí. Me recordaste a Makihisa, cuando aún estaba saludable.
 }
 [sha:5d1a4ebba85bf34ec0eb22af0dca73c285e0660c]{
 -- Page 290, Offset 14618.
 -- ここ数年は部屋に籠もりがちだったが、もともとは植物を愛する人でね。こうして屋敷のまわりを歩いていた」
--- TRANSLATION HERE
+// Tl oficial
+Aunque pasó sus últimos años encerrado en su habitación,
+ antes se solía dar paseos por la mansión.
+ Le encantaban las plantas, sabes."
 }
 [sha:bf06fbd41367afb5aa9d4f2557aaa5933a03dde9]{
 -- Page 291, Offset 14619.
 -- 「槙久さんが植物に造詣が深かった事は話したかな？
--- TRANSLATION HERE
+"¿Habías escuchado que Makihisa-san poseía profundo conocimiento sobre las plantas?
 }
 [sha:8094f369f16e2c195e742bd6b1641ac7654adcbf]{
 -- Page 291, Offset 14620.
 -- 私も少しは囓っていてね。二人で、よくそこの植物園で語り合ったものさ」
--- TRANSLATION HERE
+Yo también solía trastear con ellas.
+ Los dos solíamos ir al jardín botánico a discutir sobre ello."
 }
 [sha:6ec1696dccf5e33e167186664a76dd80ae63c904]{
 -- Page 291, Offset 14621.
 -- 「植物園……なんか、厳重に施錠されてますけど」
--- TRANSLATION HERE
+"El jardín botánico...
+ Aunque ahora parece que está cerrado a cal y canto."
 }
 [sha:52ffa83374e9ba396214360d18ea76f87a565aed]{
 -- Page 292, Offset 14622.
 -- 「入り口はね。裏口は簡単な鍵で開けられる。
--- TRANSLATION HERE
+// Tl oficial
+"La entrada delantera lo está, sí.
+ Pero la trasera se abre con facilidad.
 }
 [sha:52b5655a2f3b53b5bab20732eef4d343b893b723]{
 -- Page 292, Offset 14623.
 -- 持っているのは琥珀嬢かな？　ありがたい事に、今でも最低限の世話をしてくれているようだ」
--- TRANSLATION HERE
+// Tl oficial
+Creo que la señorita Kohaku tiene la llave. Afortunadamente, se encarga del jardín, aunque solo sea lo básico."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 293, Offset 14624.
@@ -186,200 +214,218 @@
 [sha:6bab0a295b42a5fbb81d461b1b010ebd3d7879a3]{
 -- Page 293, Offset 14625.
 -- ちょっと意外だ。
--- TRANSLATION HERE
+Estoy un poco sorprendido.
 }
 [sha:3aae742fbd579696cd3e0e59c9a04dda0c56b47e]{
 -- Page 293, Offset 14626.
 -- 斎木氏は琥珀さんに『嬢』と敬称を付けた。
--- TRANSLATION HERE
+Saiki se acaba de referir a Kohaku somo 'señorita'.
 }
 [sha:10fd9404da851ac82a80f2d04f3a7c297d044c56]{
 -- Page 293, Offset 14627.
 -- 使用人だからといって過度に下に見る……という人柄ではない……？
--- TRANSLATION HERE
+Me esperaba que fuera el tipo de persona que mira por encima del hombre a la gente por ser sirvientes.
 }
 [sha:15c95d6c4f778c56089ec460b20877b6510dc5b5]{
 -- Page 294, Offset 14628.
 -- 「貴方は、琥珀さんと親しいんですか？」
--- TRANSLATION HERE
+"¿Te llevas con Kohaku por casualidad?"
 }
 [sha:50443da8531dd7479d3ded3098ee3f26975626f4]{
 -- Page 294, Offset 14629.
 -- 「私が？　あの使用人と？　……は。
--- TRANSLATION HERE
+"¿Yo? ¿Con esa sirvienta?%{i}Ja%{/i}...
 }
 [sha:60bd56dece3787d5701abf52163fcde88cb10514]{
 -- Page 294, Offset 14630. Mods: @n.
 -- はは。ははは。
--- TRANSLATION HERE
+%{i}Jaja%{/i}. %{i}Jajaja%{/i}.
 }
 [sha:0246d81a55e4112a5a5a967010f540aab301bf38]{
 -- Page 294, Offset 14631. Glued. Mods: @x.
 -- ははははは！」
--- TRANSLATION HERE
+%{i}JAJAJAJAJA%{/i}!"
 }
 [sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
 -- Page 295, Offset 14632.
 -- 男は皮肉そうに苦笑した後、本格的に笑いだした。
--- TRANSLATION HERE
+// Tl oficial
+Su burla sarcástica se convierte en carcajadas.
 }
 [sha:28279097501e74154d1a8b52af24020a2f8fd8e4]{
 -- Page 295, Offset 14633.
 -- 何が面白かったのか、聞くまでもない。
--- TRANSLATION HERE
+No hace falta preguntarle lo que le hace gracia.
 }
 [sha:f0e59183de30efb7a4205022a5eb8ef90a82e9a1]{
 -- Page 295, Offset 14634.
 -- ……斎木業人は、今、目の前の人間の滑稽さに笑っているのだ。
--- TRANSLATION HERE
+// Tl oficial
+Se está riendo de mi.
 }
 [sha:509246071f6550cbdc4d7e05c07bc6a9d5c58974]{
 -- Page 296, Offset 14635.
 -- 「……何かおかしな事を言いましたか、俺」
--- TRANSLATION HERE
+"¿Dije algo gracioso?"
 }
 [sha:c91dbc8d63daf088ce1c0c8bee137df43a34af86]{
 -- Page 296, Offset 14636.
 -- 「ああ、いや、失敬。
--- TRANSLATION HERE
+"Oh, no, perdona.
 }
 [sha:c7958d690bdf14f5ba049a0f50f48e2ff6d5d77c]{
 -- Page 296, Offset 14637.
 -- うん、今のは私が悪いな。なにしろ君に落ち度はない。ただ、あんまりな質問だった、というだけだ」
--- TRANSLATION HERE
+Sí, eso fue maleducado.
+ La culpa es mía y solo mía.
+ Tu pregunta fue tan absurda que, no pude evitarlo."
 }
 [sha:87ca879b03a51ce1bbbd2fe5a4808be603551548]{
 -- Page 297, Offset 14638.
 -- 「私は琥珀嬢とはそう親しくはないよ。彼女と話すようになったのは秋葉が当主になってからだ。
--- TRANSLATION HERE
+"No me llevo con la señorita Kohaku. Solo empecé a hablar con ella cuando Akiha se volvió cabeza de familia
 }
 [sha:94dda3bbdb93022e1e4282e6d93fc09cd486e739]{
 -- Page 297, Offset 14639.
 -- 琥珀嬢は秋葉の秘書役でもある。必然、会話の機会も増える。
--- TRANSLATION HERE
+A parte de sus obligaciones, la señorita Kohaku es la secretaria de Akiha.
+ Naturalmente, hemos tenido oportunidades de sobra para hablar.
 }
 [sha:a64e8224eb97fe90708c83c72e84ddae1eb2c575]{
 -- Page 297, Offset 14640.
 -- どちらかというと、私は翡翠嬢と顔見知りだがね」
--- TRANSLATION HERE
+Aunque entre las dos,
+ diría que me llevo mejor con la señorita Hisui."
 }
 [sha:65448d0931938fea7c719e6ce600b3ac5edd2762]{
 -- Page 298, Offset 14641.
 -- 「え」
--- TRANSLATION HERE
+"¿Eh?"
 }
 [sha:ba49ae1084f40f22eeca9b3019cdb0099ce5964c]{
 -- Page 298, Offset 14642.
 -- 二度目の予想外。
--- TRANSLATION HERE
+Otra sorpresa.
 }
 [sha:4a4f9781493b30650bfef614884ecf08ff5fb8a4]{
 -- Page 298, Offset 14643.
 -- この、見るからに怪人な斎木業人と、翡翠が顔見知りだって……？
--- TRANSLATION HERE
+Me estas diciendo que Saiki Gouto...
+ este bicho raro...
+ ¿se lleva con Hisui...?
 }
 [sha:614cc87c1eaf4369f6f4afa64fa6b6cc10b2e56c]{
 -- Page 299, Offset 14644.
 -- 「昔の話だよ、それも。
--- TRANSLATION HERE
+// Tl oficial
+"Aunque, eso está todo en el pasado.
 }
 [sha:ac5609077bfa48838b044aa78c182af7c31e5a9c]{
 -- Page 299, Offset 14645.
 -- ここ数年はまったく話をしていない。挨拶程度はするがね。
--- TRANSLATION HERE
+No he hablado con ella estos últimos años.
+ Sin tener en cuenta los saludos ocasionales por supuesto.
 }
 [sha:c8d82120fe73b8e92719cecf718d2c43b957e2b7]{
 -- Page 299, Offset 14646.
 -- さて。私も日射しを浴びすぎた。肌がかゆくていけない」
--- TRANSLATION HERE
+Bueno.
+ Creo que es suficiente sol por hoy.
+ Me está empezando a picar la piel."
 }
 [sha:8cca9cf3ec8239a1c1b66abc6ab6a86286e5dff0]{
 -- Page 300, Offset 14647.
 -- 斎木業人が片手をあげると、駐車場に待機していた乗用車が玄関前のロータリーに移動してきた。
--- TRANSLATION HERE
+Saiki Gouto levanta la mano,
+ y un coche que estaba esperando en el parking se aproxima a la entrada a la mansión.
 }
 [sha:575bf0046ca5fde4c0b342022487437a7fd18913]{
 -- Page 300, Offset 14648.
 -- 会話はここまで、という事だろう。
--- TRANSLATION HERE
+Supongo que eso significa que se ha acabado nuestra conversación.
 }
 [sha:427d192ee92c07217b54a4041c471b9b2726853a]{
 -- Page 301, Offset 14649.
 -- 「ああ、本題を聞き忘れていた。
--- TRANSLATION HERE
+"Ah, se me olvidaba preguntar algo importante.
 }
 [sha:b3b0561bac1ecc9265329eed1b2305cb1e1f5a8a]{
 -- Page 301, Offset 14650.
 -- どうかな、七年ぶりに屋敷を見た感想は？」
--- TRANSLATION HERE
+¿Cómo se siente ver la mansión por primera vez en siete años?
 }
 [sha:53da602ac913648b5d2decc28f63b9bcfe0dd163]{
 -- Page 301, Offset 14651.
 -- 「特に驚きはないです。子供の頃の記憶合わせができたのは一階だけですし」
--- TRANSLATION HERE
+"No había nada muy sorprendente.
+ Solo podía recordar la primera planta, por lo que tampoco había mucho con lo que comparar."
 }
 [sha:af5702177d148afb1001dbf3df7310e12e741da1]{
 -- Page 302, Offset 14652.
 -- 包帯づくめの紳士、斎木業人に返答する。
--- TRANSLATION HERE
+// Tl oficial
+Respondo la pregunta de Saiki Gouto, la momia humana.
 }
 [sha:de480e24a2ccf3baaf485d1ef54ee854f89236eb]{
 -- Page 302, Offset 14653.
 -- 「なんだ、面白みのない。
--- TRANSLATION HERE
+"Qué, ¿eso es todo? Qué soso.
 }
 [sha:f332fce4ddc3cbfbdb6f369bf930c60d2c6b3d89]{
 -- Page 302, Offset 14654.
 -- ……しかし、そうだな。過去から戻ってきたとしても、見違えるような現実など、そうはないという事か」
--- TRANSLATION HERE
+// Tl oficial
+Aunque,
+ supongo que alguien que viene del pasado tampoco vería la realidad de manera diferente."
 }
 [sha:6bdf3a7bdcceed004cb5c5b7a131ec0b442d814d]{
 -- Page 303, Offset 14655.
 -- 言いたい事だけ言って、斎木業人は遠野邸から去って行った。
--- TRANSLATION HERE
+Habiendo dicho lo que quería decir, Saiki Gouto deja la mansión Tohno.
 }
 [sha:d6d0dbb1eb7781a10c9e6f6ab2a6c60278a931cd]{
 -- Page 303, Offset 14656.
 -- けっこうな頻度で遠野邸を訪れているが、総耶に住居があるのだろうか。
--- TRANSLATION HERE
+Ha estado visitando la mansión con frecuencia.
+ Me pregunto si tiene su propia casa en algún lugar de Souya.
 }
 [sha:a2079df99d1f97192b0eb542e0507cb87aeb7fd9]{
 -- Page 304, Offset 14657.
 -- 「……次はそのあたりに切り込んでみるか……」
--- TRANSLATION HERE
+"La próxima vez debería intentar presionarlo sobre eso..."
 }
 [sha:37e9df7e6c2b5a76e02c7850d455a8d3f1b2d193]{
 -- Page 304, Offset 14658.
 -- 斎木業人が遠野志貴を敵視、ないし邪魔者として見ているのは間違いない。
--- TRANSLATION HERE
+No hay duda de que Saiki me considera su enemigo, o al menos una molestia.
 }
 [sha:f2b77a0935706af5d52d19abbe2f6a767a4c0bd6]{
 -- Page 304, Offset 14659.
 -- 敵を知れば百戦あやうからず。
--- TRANSLATION HERE
+Si conoces al enemigo y te conoces a ti mismo, no tendrás que temer el resultado de cien batallas.
 }
 [sha:b9bb50958593d29fbfeea206c230170988e9cd05]{
 -- Page 304, Offset 14660.
 -- こちらも自衛手段として、彼の情報を少しは知っておかないと。
--- TRANSLATION HERE
+Debería recopilar información  de él como seguro.
 }
 [sha:b8820687d5561f13fa7372c4209a7acf524c8388]{
 -- Page 305, Offset 14661.
 -- 「まあ、それはそれとして」
--- TRANSLATION HERE
+"Bueno, como sea."
 }
 [sha:23e94b2fc68c62374f92913208b3b3e2605b9fd7]{
 -- Page 305, Offset 14662.
 -- せっかくの休日をこんな気持ちで終わらせたくはない。
--- TRANSLATION HERE
+No quiero terminar el día de esta forma.
 }
 [sha:8a98ab9be85bce4066841ded755539765f8c1264]{
 -- Page 305, Offset 14663.
 -- 気を取り直して屋敷の探索を再開する。
--- TRANSLATION HERE
+Me sereno y continúo con mi exploración de la mansión.
 }
 [sha:da5353a4259a1a3b1d97751acf7d940bf572479b]{
 -- Page 305, Offset 14664.
 -- 今度は……そうだな、中庭に出てみよう。
--- TRANSLATION HERE
+Lo siguiente es... cierto.  El patio.
 }

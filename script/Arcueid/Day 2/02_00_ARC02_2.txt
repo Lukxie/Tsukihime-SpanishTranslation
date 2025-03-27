@@ -11,7 +11,7 @@ Ahora es después de clase.
 [sha:1b94b3652a50b698382fcc487c23e1ed3cfadb12]{
 -- Page 10005, Offset 2988.
 -- 今日は貧血による目眩もなく、俺個人の話で言えばいたって平穏に過ごせた一日だった。
-Hoy no sufrí de ningún episodio anémico, 
+Hoy no sufrí de ningún episodio anémico,
  y el resto de la tarde pasó pacíficamente, en lo que me respecta por lo menos.
 }
 [sha:5459b733d1a07c982f37a3691cd5d8c4012c9809]{
@@ -60,7 +60,7 @@ Aun así, no entiendo por qué todo el mundo está tan loco por ella.
 [sha:4b066838be39b5258165682b8e3d486af64f65b3]{
 -- Page 151, Offset 2996.
 -- 美人だというのなら、秋葉の方がよっぽど―――
-Si hablamos de belleza, Akiha es mucho mas―――
+Si hablamos de belleza, Akiha es mucho más―――
 }
 [sha:a9e60ef31f5e289486f690b2f3f46416c970ae63]{
 -- Page 152, Offset 2997.
@@ -70,7 +70,7 @@ Si hablamos de belleza, Akiha es mucho mas―――
 [sha:ca526d5737b077e8cf5c066623395abf6e196b50]{
 -- Page 152, Offset 2998.
 -- とんでもないタイミングで、渦中の人物がやってきた！？
-¡Hablando de la reina de roma! Aquí esta la misma mujer que es el centro de toda esta conmoción.
+¡Hablando de la reina de roma! Aquí está la misma mujer que es el centro de toda esta conmoción.
 }
 [sha:4a3720996b74ec4313c70d103620eb6413e9da16]{
 -- Page 153, Offset 2999.
@@ -149,7 +149,7 @@ Son mis nervios, ¿o la magia de la puesta de sol?
 [sha:ff4172e5b3e934bac1f268af3d0e619afa975b55]{
 -- Page 159, Offset 3013.
 -- 彼女の声は前からではなく、真後ろ―――それも耳元で<囁|ささや>かれたように、俺の耳に滑りこむ。
-Su voz se cuela en mi oído―― no desde el frente, sino detrás de mi, como si me estuviera susurrando directamente.
+Su voz se cuela en mi oído―― no desde el frente, sino detrás de mí, como si me estuviera susurrando directamente.
 }
 [sha:57e6bef7edfa117182267cd3f9a271d0f99230bc]{
 -- Page 160, Offset 3014.
@@ -166,7 +166,6 @@ Sólo cruza tus dedos con los míos.
 [sha:39fe3630b427ff508a29e0e65b50b6a45e452406]{
 -- Page 160, Offset 3016.
 -- ……そう。貴方に私を、食べてもらいたいだけ……」
-// Noel shotacon furtiva de manual
 Si... Sólo quiero que me devores..."
 }
 [sha:90247e1a8090b1d1ce8ed5741323e1a0642817b2]{
@@ -193,7 +192,7 @@ El extrañamente cautivador, suave cuello de una mujer―――
 [sha:984960545f8cd6a1308e36f73304a2c1b39463bf]{
 -- Page 162, Offset 3021.
 -- だから忘れて、貴方を忘れて……邪魔なものはぜんぶ取ってしまえばいいの……その建前も、その眼鏡も―――」
-Solo olvídate, olvidate de ti, olvidate de... todo lo que está por medio, deshazte de todo... las formalidades, las gafas―――"
+Solo olvida, olvidate de ti, olvidate de... todo lo que está por medio, deshazte de todo... las formalidades, las gafas―――"
 }
 [sha:bd592329525f4d0d52125fd2873fc3720a93f67a]{
 -- Page 163, Offset 3022.
@@ -270,10 +269,10 @@ No puedo dejar de pensar en lo que acaba de decir―――
 [sha:4f328e0f57d461ebcd3dd169a5840089b9dbb838]{
 -- Page 168, Offset 42585. Choice.
 -- 戸山先生について、質問した。
- Así que pregunto por Toyama-sensei.
+Así que pregunto por Toyama-sensei.
 }
 [sha:c313d14169e46c2942a1675b232c3b27d0db08ec]{
 -- Page 168, Offset 42586. Choice.
 -- ……あえて考えない事にした。
- Pero decido dejarlo ir.
+Pero decido dejarlo ir.
 }

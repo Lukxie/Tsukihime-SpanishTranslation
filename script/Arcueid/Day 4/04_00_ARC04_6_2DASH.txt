@@ -1,267 +1,275 @@
 [sha:62c7375604af9be9b849143a84a2ae9942504cd2]{
 -- Page 10018, Offset 6797.
 -- ―――白。
--- TRANSLATION HERE
+―――Blanco.
 }
 [sha:1a0d7100f0ccb3c5de31583f7590b9753dd144cf]{
 -- Page 10018, Offset 6798.
 -- 目のさめるような白。
--- TRANSLATION HERE
+Un blanco cegador.
 }
 [sha:b92005dc3490de4d0874810b4a525c1ff3b2ce0c]{
 -- Page 10018, Offset 6799.
 -- その色は、懐かしい記憶を呼び起こす。
--- TRANSLATION HERE
+El color evoca memorias nostálgicas.
 }
 [sha:c7b0c4ac2323f274863076b370e163cf14bc3b72]{
 -- Page 448, Offset 6800.
 -- 夏の、あつい日。
--- TRANSLATION HERE
+Un cálido día de verano.
 }
 [sha:b79caec5fb27187a6db4c5d652730be4aef95024]{
 -- Page 449, Offset 6801.
 -- 青い空と　おおきなおおきな入道雲。
--- TRANSLATION HERE
+El cielo azul.
+ En el horizonte, gigantes e imponentes nubes de tormenta.
 }
 [sha:c12e997c9c8593402cca860e0f4c8623cb0ab971]{
 -- Page 449, Offset 6802.
 -- じりじりとゆらぐ風景と
--- TRANSLATION HERE
+El paisaje resplandeciendo bajo el calor.
 }
 [sha:3741bd1adbe8202db62f98c65b2ac940d63efac2]{
 -- Page 449, Offset 6803.
 -- 気がとおくなるような蝉の声。
--- TRANSLATION HERE
+El abrumador reclamo de las cigarras.
 }
 [sha:60ddd9037a9b1cd9c07b41e051925014fcedd35c]{
 -- Page 449, Offset 6804.
 -- 蝉の声。
--- TRANSLATION HERE
+Un coro de cigarras.
 }
 [sha:9fd47ccef6b59542323cbb239e93cfa56f986c79]{
 -- Page 449, Offset 6805.
 -- 両手には、ペンキをぶちまけたような　あかい<艶|つや>。
--- TRANSLATION HERE
+Mis manos, ambas de un rojo brillante, como si se hubieran manchado de pintura.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 450, Offset 6806. Mods: @k, @e.
 -- みーん　みんみん
--- TRANSLATION HERE
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 450, Offset 6807. Mods: @k, @e.
 -- みーん　みんみん
--- TRANSLATION HERE
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 450, Offset 6808. Mods: @k, @e.
 -- みーん　みんみん
--- TRANSLATION HERE
+%{i}Chiiiirp    chirp chirp%{/i}.
 }
 [sha:85627e8dc4f5686e42fc5deb9c8a82d9571893c9]{
 -- Page 450, Offset 6809.
 -- 広場には蝉のぬけがら。
--- TRANSLATION HERE
+El caparazón de las cigarras ensucia el suelo.
 }
 [sha:045b9de947d69135540d7585916cdb903fab392e]{
 -- Page 450, Offset 6810.
 -- たいようはすぐそばにあるようで、
--- TRANSLATION HERE
+El claro se está quemando poco a poco―――
 }
 [sha:9e5804d06f92c5105f66949acc6e6a978544fde7]{
 -- Page 450, Offset 6811.
 -- 広場はじりじりと焦げていく。
--- TRANSLATION HERE
+Como si el sol estuviera justo encima de nosotros.
 }
 [sha:b25204bdeea529f6ba9e24d5890ca4b4475ea42f]{
 -- Page 451, Offset 6812.
 -- 真夏のあつい日。
--- TRANSLATION HERE
+Un cálido día de verano.
 }
 [sha:238f67a8df12f7b2c765bfb6a0bff24e420cc547]{
 -- Page 451, Offset 6813.
 -- まるで、セカイがふらいぱんになったみたい。
--- TRANSLATION HERE
+Como si el mundo se hubiera convertido en una sartén de freír.
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 452, Offset 6814. Mods: @k, @e.
 -- えーん　えんえん
--- TRANSLATION HERE
+%{i}Uwah%{/i}... %{i}waah%{/i}...
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 452, Offset 6815. Mods: @k, @e.
 -- えーん　えんえん
--- TRANSLATION HERE
+%{i}Uwah%{/i}... %{i}waah%{/i}...
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 452, Offset 6816. Mods: @k, @e.
 -- えーん　えんえん
--- TRANSLATION HERE
+%{i}Uwah%{/i}... %{i}waah%{/i}...
 }
 [sha:5705e066a1b69c51f76a77c798ad4164690c0e68]{
 -- Page 452, Offset 6817.
 -- 秋葉が泣いている。
--- TRANSLATION HERE
+Akiha está llorando.
 }
 [sha:f41bebdeaa84a3f8ff47dae5b8d4b80f24e3450a]{
 -- Page 452, Offset 6818.
 -- おとなしくて、いつもボクの後についてきていた秋葉が、ぽろぽろと泣いている。
--- TRANSLATION HERE
+Akiha, que siempre me ha seguido dócilmente, rebosa a lágrimas.
 }
 [sha:1bce7311c9767ac749d551046e2b67207d98c1c9]{
 -- Page 453, Offset 6819.
 -- 秋葉の他には子供がひとり倒れている。
--- TRANSLATION HERE
+A parte de Akiha hay otro niño tirado en el suelo.
 }
 [sha:2f10cbe7ec55c09f591749d9902def4e278defb4]{
 -- Page 453, Offset 6820.
 -- ボクの両手はぬらぬらと陽射しを<弾|はじ>いている。
--- TRANSLATION HERE
+Los rayos del sol rebotan en mis manos pringosas.
 }
 [sha:5f3adb61b55f91bafbd433c4c62b9f2efddcddce]{
 -- Page 453, Offset 6821.
 -- ああ。この両手は、　　　　　　　つめたい
--- TRANSLATION HERE
+Ah. Estas manos...                           están frías.
 }
 [sha:8dbb706212c1a99af373013baaafc049c8d63e38]{
 -- Page 453, Offset 6822.
 -- 倒れている子供の　　　　　　　　つめたい
--- TRANSLATION HERE
+El niño colapsado                            está frío.
 }
 [sha:d0d48e59dfe6baba77869ba1d636584b43781cc0]{
 -- Page 453, Offset 6823.
 -- ぶちまけた血で赤いのだ。　　　　あたたかい。
--- TRANSLATION HERE
+La sangre brotando es roja.               Es cálida.
 }
 [sha:1493c33a585121340d31e90514be6f979740ff95]{
 -- Page 454, Offset 6824.
 -- 「シキ―――――」
--- TRANSLATION HERE
+"%{i}Shiki%{/i}―――"
 }
 [sha:822c8e7d86088958378b8d76d608aaed962dfc70]{
 -- Page 454, Offset 6825.
 -- おとなたちがやってくる。
--- TRANSLATION HERE
+Los adultos han llegado.
 }
 [sha:49ffe577ee2d2d174ed5db9e62ecdb727ecf1d66]{
 -- Page 454, Offset 6826.
 -- 倒れた子供は死んだまま。
--- TRANSLATION HERE
+El niño colapsado está muerto.
 }
 [sha:262775550cb50440729a7ef0574dffba390dbf60]{
 -- Page 454, Offset 6827.
 -- おとなたちはさけんでいる。
--- TRANSLATION HERE
+Los adultos están gritando.
 }
 [sha:df51c650b026f81c5010be7d97c7aa08f78fdcb8]{
 -- Page 454, Offset 6828.
 -- おまえがコロシタのかとさけんでいる。
--- TRANSLATION HERE
+Me gritan, demandando saber como lo he matado.
 }
 [sha:975ef7eb1be587341341769fde10c6fce170270a]{
 -- Page 455, Offset 6829.
 -- ―――そんな、夢の中でさえ忘れている、夢を見た。
--- TRANSLATION HERE
+―――Incluso para los estándares de algo tan efímero como un sueño, la visión que acabo de presenciar era algo que olvidé hace mucho tiempo.
 }
 [sha:be1c6232a1048d8a71c5df5e2037069850c4a149]{
 -- Page 456, Offset 6830.
 -- 「志貴。ほら、目を覚まして。
--- TRANSLATION HERE
+"Shiki. Venga, despierta.
 }
 [sha:b34fd3ed49a39832a9b24ff062f7eb384854219a]{
 -- Page 456, Offset 6831.
 -- もう日が落ちちゃってるじゃない」
--- TRANSLATION HERE
+El sol ya se ha puesto."
 }
 [sha:1af37d4072016b0aef88acbb88aa9cbe7057aea7]{
 -- Page 457, Offset 6832.
 -- 乱暴に体がゆすられる。
--- TRANSLATION HERE
+Me están sacudiendo el cuerpo violentamente.
 }
 [sha:86eed0ef720cde84b0035a557331eacbfe4bdb4c]{
 -- Page 457, Offset 6833.
 -- ……あまり聞き覚えのない声と、肩にふれる冷たい手の感触。
--- TRANSLATION HERE
+Puedo escuchar una voz desconocida... y en mi hombro hay una mano fría.
 }
 [sha:b00063e65ec6e5f40ef30878476ed133be7b84be]{
 -- Page 458, Offset 6834.
 -- 目の前にはアルクェイドがいる。
--- TRANSLATION HERE
+Arcueid está justo frente a mi.
 }
 [sha:67726722fb2b677645cb5dc04e2f1b5b264ce2a1]{
 -- Page 458, Offset 6835.
 -- 窓の外は真っ暗だ。
--- TRANSLATION HERE
+Tras la ventana está completamente oscuro.
 }
 [sha:4e56cb257e4cfaff0c38e56db5ed6d08cb9f45a2]{
 -- Page 458, Offset 6836.
 -- 時計に目をやると、時刻は夜の８時を回っていた。
--- TRANSLATION HERE
+Miro mi reloj y veo que son sobre las ocho en punto de la tarde.
 }
 [sha:54fbfd8231b8a0137ab694080408be919232ede4]{
 -- Page 459, Offset 6837.
 -- 「…………、あれ？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:02bddaba4d59694df47c693f45fb1e98f29891ed]{
 -- Page 459, Offset 6838.
 -- 「あれ、じゃないわ。日が沈んだら起こしてって言ったのに、志貴ったら眠ってるんだもん」
--- TRANSLATION HERE
+"¿A qué te refieres con 'eh'?
+ Te dije que me levantaras cuando se pusiera el sol, y vas y te duermes."
 }
 [sha:1ff9af7c145e9314782fffcf25ccb515674c26d8]{
 -- Page 460, Offset 6839.
 -- 「……悪い。寝てたのか、俺」
--- TRANSLATION HERE
+"Perdón... supongo que no pude mantener mis ojos abiertos."
 }
 [sha:1e51361f98e9f8e67e436660346a417adaac1ded]{
 -- Page 460, Offset 6840.
 -- ……情けない。アルクェイドの寝顔を見ているうちに寝落ちしていたとは……。
--- TRANSLATION HERE
+Qué patético...
+ No me puedo creer que me quedase dormido mirando la cara de Arcueid durmiendo.
 }
 [sha:d4d14d1adfa55e2ef33bc18c3c048ab4873468d4]{
 -- Page 461, Offset 6841.
 -- 「もう。そんなんじゃ護衛失格よ。
--- TRANSLATION HERE
+"De verdad. Es un comportamiento inaceptable para un guardia.
 }
 [sha:be1a1d3f428acc842acaef55a88941e62d9a5229]{
 -- Page 461, Offset 6842.
 -- 二人とも眠っていたなんて、襲われていたらわたしも志貴も死んでたところよ？」
--- TRANSLATION HERE
+No me puedo creer que los dos estuviéramos dormidos...
+ ¿Te das cuenta de que si nos hubieran atacado, habríamos muerto verdad?"
 }
 [sha:7326a8d532cc93119f190ba0603754da1817ebe0]{
 -- Page 462, Offset 6843.
 -- 「だから悪いって言ってるだろ。でもほら、昼間は安全だって言ったのはおまえじゃないか」
--- TRANSLATION HERE
+"Vale, ya he dicho que lo siento, dios.
+ Y un momento, ¿no eres tu la que ha dicho que por el día estábamos seguros "
 }
 [sha:8f2f1ef7143eadf95795046d6ea7a9de2fccdbd8]{
 -- Page 462, Offset 6844.
 -- 「絶対とは言いきれないわ。朝みたいに使い魔がやってくる事だってあるんだから」
--- TRANSLATION HERE
+"Nunca sabes lo que puede pasar.
+ Podrían haber mandado familiares como los de esta mañana."
 }
 [sha:f3015ed0ac7ee24f605dc7f997832c2ea80f056d]{
 -- Page 463, Offset 6845.
 -- アルクェイドは怒っている。
--- TRANSLATION HERE
+Arcueid está enfadada.
 }
 [sha:9298d8a0d0ff468f72096b031a2f9786338b26c0]{
 -- Page 463, Offset 6846.
 -- もちろん、全面的に俺が悪い。
--- TRANSLATION HERE
+Es mi completamente culpa, por supuesto.
 }
 [sha:8e82922d527aff299c4efc2f12f6050ad71ba6af]{
 -- Page 463, Offset 6847.
 -- 見張り役が一緒に眠っていたなんて、それこそ<案|か><山|か><子|し>以下だ。
--- TRANSLATION HERE
+Si cuando se supone que estoy montando guardia me quedo dormido, soy tan útil como un espantapájaros.
 }
 [sha:727b581f1f052585512e4244e562d6c55fb527b9]{
 -- Page 464, Offset 6848.
 -- 「それにね、わたしだって吸血鬼なんだよ、志貴。
--- TRANSLATION HERE
+"Además, Shiki, soy un vampiro sabes.
 }
 [sha:b01ddb32f42a7ecde5f2b67674e4b2322cc9f989]{
 -- Page 464, Offset 6849.
 -- なのにどうして、身の危険とか感じないで眠っちゃったりできるのかなあ。少しは緊張して眠れないとか、<畏|おそ>れ<敬|うやま>うとか、そういう反応してもいいんじゃない？」
--- TRANSLATION HERE
+¿Cómo es posible que te quedases dormido como si no me temieras?
+ No podrías al menos haber estado %{i}un poco%{/i} demasiado nervioso como para cerrar los ojos,
+ aterrado, ¿o algo por el estilo?"
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 465, Offset 6850.
@@ -271,40 +279,42 @@
 [sha:ec9aa8be3a993a64bd0cf6f87151ff0ba4c0c297]{
 -- Page 465, Offset 6851.
 -- ……全面的に悪い、は言い過ぎだった。
--- TRANSLATION HERE
+Vale... quizá %{i}completamente%{/i} mi culpa es pasarse un poco.
 }
 [sha:4cdc33194d6974d999c804e931f3193c7e73c202]{
 -- Page 465, Offset 6852.
 -- こいつ、俺が見張り役をしていなかった事より、フツーに眠りこけていた事がたいへんご立腹らしい。
--- TRANSLATION HERE
+En realidad parece que está más molesta por el hecho de que haya podido quedarme dormido a su alrededor que porque no estuviera montando guardia.
 }
 [sha:330101df861cd3f36a583ca479faa6684636c1b2]{
 -- Page 466, Offset 6853.
 -- 「体も少しは動くようになって目を覚ましてみれば、志貴ったら幸せそうに眠ってるじゃない。
--- TRANSLATION HERE
+"Me levanto tras recuperar un poco de mi fuerza, solo para encontrarte durmiendo tranquilamente.
 }
 [sha:2f8c894ccf8ff547c50a62b91bb168cbaed41a77]{
 -- Page 466, Offset 6854.
 -- あんまりにも無防備だから、吸血種として威厳がないのかなって本気で不安になったんだから」
--- TRANSLATION HERE
+Habías bajado tanto la guardia que empezaba a preocuparme por parecer en absoluto ser una chupasangre.
 }
 [sha:0c0342af464895bc706c375e2ea28907e29cdb3f]{
 -- Page 467, Offset 6855.
 -- 「なんだよ、無防備なのはそっちだって同じだろ。
--- TRANSLATION HERE
+"Qué dices, tú eras tan vulnerable como yo.
 }
 [sha:a63b9d08e1086d6b8cea11efaf15eea915bb4ec9]{
 -- Page 467, Offset 6856.
 -- 俺だって一度はおまえを殺してるんだぞ。今回だってそうしないとはかぎらないのに、お姫さまみたいにグースカ寝やがって。人間だからって甘く見るなよな」
--- TRANSLATION HERE
+Ya te he matado una vez, ¿recuerdas?
+ Nada te garantizaba que no lo volviera a hacer, pero ahí estabas, dormida profundamente como una princesa.
+ No me subestimes solo porque sea humano."
 }
 [sha:f516c46a8c086be331d1506fd9c5a0800c787c64]{
 -- Page 468, Offset 6857.
 -- <窮鼠|きゅうそ>猫を噛むことだってあるんだぞ、と言い返す。
--- TRANSLATION HERE
+Respondo, recordándola que rata acorralada muerde al gato.
 }
 [sha:af21886aef797cb596a230a506ac1f47a8496018]{
 -- Page 468, Offset 6858.
 -- ほとんど苦しまぎれの言い訳だったのだが、
--- TRANSLATION HERE
+Fue un intento de excusa bastante desesperado.
 }

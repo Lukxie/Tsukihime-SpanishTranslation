@@ -151,7 +151,7 @@
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 101, Offset 15055.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:78033ebc701bb1c5910c80ef5aedb4e59a026832]{
 -- Page 101, Offset 15056.
@@ -401,7 +401,7 @@
 [sha:b7d5011c4d2766da470cff84531f4bed96d090f3]{
 -- Page 125, Offset 15105. Mods: @n.
 -- 「そうじゃなくて。
--- TRANSLATION HERE
+"No es eso.
 }
 [sha:b2a09f3fa9959463aa43f8ad87e82d176a912bdc]{
 -- Page 125, Offset 15106. Glued.

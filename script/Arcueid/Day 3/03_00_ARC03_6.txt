@@ -51,12 +51,12 @@ Tan pronto como lo hago, escucho la voz de alguien, y siento cerca su presencia�
 [sha:199364e5e1ea2885430effa934aa3d5215c1952f]{
 -- Page 274, Offset 4752.
 -- いつのまにか自分の部屋で横になっている。
-No estoy seguro de como he llegado aquí, pero estoy tumbado en mi habitación.
+No estoy seguro de cómo he llegado aquí, pero estoy tumbado en mi habitación.
 }
 [sha:44646d1b96b5720c5e74d5c66d2c28a629a632be]{
 -- Page 274, Offset 4753.
 -- 枕元に置かれている眼鏡をかける。
-Cojo las gafas de la mesilla de noche y me las pongo.
+Tomo las gafas de la mesilla de noche y me las pongo.
 }
 [sha:6c65a761377b18958ab2281d4658e489918b70c9]{
 -- Page 275, Offset 4754.
@@ -91,7 +91,7 @@ No hay nada particularmente mal con mi cuerpo―――
 [sha:661e97293dfa2e20ef4f89f4a61b634a47cc940c]{
 -- Page 277, Offset 4760.
 -- 「なん―――で」
-"¿Wh――y?"
+"¿Por――qué?"
 }
 [sha:319bb7a767d7474c7081fc1dc08e4d581c4e026f]{
 -- Page 277, Offset 4761.
@@ -265,7 +265,7 @@ Increíble...
 [sha:be4e4561418b92167ab75439fda4bc6341799baa]{
 -- Page 290, Offset 4793.
 -- 血の海にひざまずいて、足も腕も真っ赤になっていたっていうのに……？
-¿Incluso tras arrodillarme en ese mar de sangre y con mis brazos y piernas de rojo claro?
+¿Incluso tras arrodillarme en ese mar de sangre con mis brazos y piernas de un rojo claro?
 }
 [sha:7284f5611731388e4990b253052da5925cd2214f]{
 -- Page 291, Offset 4794.
@@ -393,7 +393,7 @@ Su expresión parece decir '¿Qué pasa con eso?'.
 [sha:a04da436beaa0a49753eef026f84d19016f96ff9]{
 -- Page 299, Offset 4818.
 -- 帰ってきてまだ三日目なのに迷惑をかけて、呆れてるだろうなって」
-Apenas he vuelto hace tres días y ya la estoy dándola problemas...
+Apenas he vuelto hace tres días y ya la estoy dando problemas...
  Seguro que ya está harta de mí."
 }
 [sha:02a3bfab72571fc79b1baae4ff735e2b88e748d5]{
@@ -424,12 +424,12 @@ Si necesita algo más, por favor hágamelo saber."
 [sha:2f578e606224efc253687ff8b445d298864e94fd]{
 -- Page 302, Offset 4824.
 -- 「はい、なんでしょう志貴さま」
-"Sí, ¿qué es, Shiki-sama?"
+"Sí, ¿qué pasa, Shiki-sama?"
 }
 [sha:5daa31473e21f0c734a0f5309af4c895897d79f2]{
 -- Page 302, Offset 4825.
 -- 「外、雨が降ってるんだね。いつから降り始めたのかな、コレ」
-"Está lloviendo fuera, ¿no? Me preguntaba cuando empezó."
+"Está lloviendo fuera, ¿no? Me preguntaba cuándo empezó."
 }
 [sha:30afebe24ac4fbfbfb756fceff154912001f06b3]{
 -- Page 302, Offset 4826.
@@ -535,14 +535,14 @@ Todo fue un sueño...
 [sha:f1e7d213fbc2ba078d23dbcc61a492130cf4a61b]{
 -- Page 307, Offset 4846.
 -- 夢以外の何物でもないじゃないか。
-¿Como podría ser otra cosa?
+¿Cómo podría ser otra cosa?
 }
 [sha:8bf2761d99c8d6f797e98696ea1457ec4db6ba92]{
 -- Page 307, Offset 4847.
 -- 自分自身を誤魔化すよう、そう繰り返して目蓋を閉じる。
 Cierro los ojos,
  aún repitiendo esas palabras una y otra vez en mi cabeza,
- como si estuviera engañandome para creérmelas.
+ como si estuviera engañandome para creerlas.
 }
 [sha:cf0014337ce74a53e9789e848a0b809b4fd00073]{
 -- Page 308, Offset 4848.

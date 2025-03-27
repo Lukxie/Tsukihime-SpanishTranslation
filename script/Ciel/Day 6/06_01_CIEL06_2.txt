@@ -1,42 +1,42 @@
 [sha:30818fa89cb84659f2aa00148139e978ea10388a]{
 -- Page 10005, Offset 13315.
 -- 「わかりました。この件に関して、これ以上の追及は勘弁してさしあげます。
--- TRANSLATION HERE
+"Entiendo. Me abstendré de insistir en este asunto.
 }
 [sha:114b0f56fd7448fff540d5d6db96b18f4740de72]{
 -- Page 10005, Offset 13316.
 -- 連絡をいただけなかった点については、私にも落ち度がありますから」
--- TRANSLATION HERE
+Después de todo, soy parcialmente responsable de que no te pusieras en contacto."
 }
 [sha:d6a3fe8d0eff1c8db83b5b29f62733eb72a64c18]{
 -- Page 10005, Offset 13317.
 -- 「？　落ち度なんて、そんなの秋葉にないだろ？」
--- TRANSLATION HERE
+"No se como nada de esto puede ser tu culpa."
 }
 [sha:30818fa89cb84659f2aa00148139e978ea10388a]{
 -- Page 12007, Offset 13399.
 -- 「わかりました。この件に関して、これ以上の追及は勘弁してさしあげます。
--- TRANSLATION HERE
+"Entiendo. Me abstendré de insistir en este asunto.
 }
 [sha:114b0f56fd7448fff540d5d6db96b18f4740de72]{
 -- Page 12007, Offset 13400.
 -- 連絡をいただけなかった点については、私にも落ち度がありますから」
--- TRANSLATION HERE
+Después de todo, soy parcialmente responsable de que no te pusieras en contacto."
 }
 [sha:d6a3fe8d0eff1c8db83b5b29f62733eb72a64c18]{
 -- Page 12007, Offset 13401.
 -- 「？　落ち度なんて、そんなの秋葉にないだろ？」
--- TRANSLATION HERE
+"No se como nada de esto puede ser tu culpa."
 }
 [sha:d6a3fe8d0eff1c8db83b5b29f62733eb72a64c18]{
 -- Page 12003, Offset 14256.
 -- 「？　落ち度なんて、そんなの秋葉にないだろ？」
--- TRANSLATION HERE
+"No se como nada de esto puede ser tu culpa."
 }
 [sha:1bdef7267761c99bf7cb8705baef0dd177dac141]{
 -- Page 12008, Offset 13422. Mods: @k, @e.
 -- 「携帯電話を取り上げたのは私です。
--- TRANSLATION HERE
+"Yo soy la que te quitó el móvil.
 }
 [sha:3ebf85f91ae52521d671a32e40643205a1067182]{
 -- Page 12008, Offset 13423. Glued. Mods: @x.
@@ -51,37 +51,37 @@
 [sha:50cc0a85415e15154cfa30bed6fde7ef29101f81]{
 -- Page 103, Offset 13425.
 -- あの……いや、それが、ですね……。
--- TRANSLATION HERE
+Bueno... verás, la cosa es...
 }
 [sha:fafe7120f9c25faf6608ffadfb541941b4a2eb15]{
 -- Page 103, Offset 13426.
 -- 携帯はー……こっそりー……返してもらっていたとー……言うかー……。
--- TRANSLATION HERE
+El teléfono... ya me lo han devuelto a escondidas...
 }
 [sha:853dc8bd658fdd27d0ebecec54272a7ff946794a]{
 -- Page 104, Offset 13427. Mods: @n.
 -- 「ですが、
--- TRANSLATION HERE
+"Sin embargo,
 }
 [sha:2ed8e1aefd8ad0d6707d1f8c875365062d4355f5]{
 -- Page 104, Offset 13428. Glued.
 -- それも今回だけです。今後はこのような事は控えてください。兄さんは遠野家の唯一の男性なんですから、もう少しご自分の立場を理解していただかないと困ります。
--- TRANSLATION HERE
+%{s} que esta sea la última vez. Por favor abstente de tales conductas en el futuro. Después de todo, eres el único hombre en la Mansión Tohno. Sería problemático si no te empezases a tomar tu rol un poco más seriamente.
 }
 [sha:dc79f3ad272d24a15e565d2d88f2fa553a9dba4b]{
 -- Page 104, Offset 13429.
 -- よくない外聞が広まってしまったら、遠野家の今後の人付き合いにも影響がありますし」
--- TRANSLATION HERE
+Si se dañase nuestra reputación, en el futuro afectaría a la habilidad de la familia Tohno para formar conexiones."
 }
 [sha:5825ea7035adc30609c7e8f847631cf6c9f1959e]{
 -- Page 105, Offset 13430.
 -- 「いやぁ、それこそ問題ないだろー。俺が何しようと興味も持たないって、<親戚|あっち>の方々は。
--- TRANSLATION HERE
+"Bueno, seguramente no sea un problema. No es como si nuestros familiares tuvieran interés en mis asuntos.
 }
 [sha:658750af7b14042a1f7c0969b2d1f295dcca120d]{
 -- Page 105, Offset 13431.
 -- だいたい遠野の跡取りは秋葉なんだから、家の事を思うなら俺を余所に出すなり、遠野の家に相応しい婿養子でも見つければいいのに」
--- TRANSLATION HERE
+Además, tu eres la sucesora de la familia Tohno. Si te preocupan esas cosas, siempre puedes mandarme a algún lado y buscarte un hombre que sea más apropiado para llevar el nombre de la familia."
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 105, Offset 13432.
@@ -91,17 +91,17 @@
 [sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
 -- Page 106, Offset 13433.
 -- ……？
--- TRANSLATION HERE
+¿Hmm...?
 }
 [sha:02cc68a87add0ec4944fcc2ba055d0b7cd92f8ca]{
 -- Page 106, Offset 13434.
 -- なぜか秋葉は黙りこんでしまった。
--- TRANSLATION HERE
+Por alguna razón Akiha se ha quedado callada.
 }
 [sha:f4ee25df96c7c5e4e8de05eb7e0e7c77fa5ee559]{
 -- Page 107, Offset 13435.
 -- 「どうした？　気分でも悪いのか、秋葉」
--- TRANSLATION HERE
+"¿Qué ocurre? ¿Akiha, no te encuentras bien?"
 }
 [sha:f2757ec719b34645db180bd0b79ba06c6026fda2]{
 -- Page 107, Offset 13436.
@@ -111,117 +111,120 @@
 [sha:11e263afe73cbacb4c43d91d7c4fa31bf82d58a1]{
 -- Page 107, Offset 13437.
 -- 慢性的な貧血持ちなんですから、兄さんは」
--- TRANSLATION HERE
+Después de todo, eres tú el que tiene anemia crónica, Nii-san."
 }
 [sha:599e6aeb0adb86cc07f4df1c93907b1c416c720f]{
 -- Page 108, Offset 13438.
 -- 「………む」
--- TRANSLATION HERE
+"Mmm..."
 }
 [sha:d2e2228b48d2b92cc0d0135f05583d8c04e35e51]{
 -- Page 108, Offset 13439.
 -- そりゃあ確かに、こっちは頻繁に貧血で倒れるけど。
--- TRANSLATION HERE
+Tiene razón. Colapso frecuentemente por la anemia.
 }
 [sha:95c2c5bc00b3adbce30484a701ad97c2791e6a2a]{
 -- Page 109, Offset 13440.
 -- 「ともかく、あまりおひとりで屋敷を出ないでください。
--- TRANSLATION HERE
+"En cualquier caso, por favor no dejes solo la mansión tan a menudo.
 }
 [sha:fb0b556c5191817e85af44080642b5caab70832b]{
 -- Page 109, Offset 13441.
 -- そうでなくとも近頃の街は物騒なんです。兄さんみたいにぼう、としている人は、通り魔に襲ってください、と言っているようなものなんですから」
--- TRANSLATION HERE
+Estoy segura de que no hace falta decirte que últimamente la ciudad se ha vuelto más peligrosa.
+ Gente como tú que anda con la cabeza en las nubes prácticamente pide a gritos ser el objetivo del asesino en serie."
 }
 [sha:dff50c11b61c35062843fc5c92485ffaf42068d9]{
 -- Page 109, Offset 13442.
 -- 「それなら大丈夫。あんな事件、二度と起きないよ」
--- TRANSLATION HERE
+"Si eso es lo que te preocupa, está bien. Ese tipo de incidentes no volverá a ocurrir."
 }
 [sha:d7fc1e4d19afb49312303b55919deb15416cfcca]{
 -- Page 110, Offset 13443.
 -- 街を騒がせていた連続殺人。
--- TRANSLATION HERE
+Los asesinatos han puesto la ciudad patas arriba.
 }
 [sha:6efc22412b75d1ee8b9365c918bad5fece726fe9]{
 -- Page 110, Offset 13444.
 -- 現代の吸血鬼と報道され、今も犯人が発見されていない、人々を脅かす夜の闇。
--- TRANSLATION HERE
+Todo el mundo está aterrorizado del asesino que las noticias denominaban como 'vampiro contemporáneo',
+ que ha evadido detección incluso al tener vigiladas las calles de la ciudad.
 }
 [sha:fc384f7b29f177b616773f0ba3c56d5abb38975e]{
 -- Page 110, Offset 13445.
 -- しかし、それはもう過去の事だ。
--- TRANSLATION HERE
+Pero eso ahora está en el pasado.
 }
 [sha:c79408923aa28c69572b036fbd090accb3138cfa]{
 -- Page 111, Offset 13446.
 -- 「――――は？」
--- TRANSLATION HERE
+"¿―――Eh?"
 }
 [sha:25ec3bea90280d7a9112ff8d052b465ebe60b381]{
 -- Page 111, Offset 13447.
 -- 「吸血鬼はいないって事だよ。その犯人はもう捕まったんだ」
--- TRANSLATION HERE
+"Quiero decir que ya no hay vampiro. Ya han pillado al asesino."
 }
 [sha:0023488c022998b43375131c4a415c708be7f102]{
 -- Page 112, Offset 13448. Mods: @n.
 -- 「そうなんですか？
--- TRANSLATION HERE
+"Oh, ¿es eso así?
 }
 [sha:d91167bb923773e4ca15e1119145ead69fca21ea]{
 -- Page 112, Offset 13449. Glued. Mods: @x.
 -- それは良い報せですが……兄さん、よくそんな事を知っていますね」
--- TRANSLATION HERE
+Son buenas noticias ciertamente, pero... Nii-san, parece que sabes mucho de esto."
 }
 [sha:b053b7361135271b2ccc7a618b3a09a0b6122558]{
 -- Page 112, Offset 13450.
 -- 「あ、ああ。たまたま逮捕現場に居合わせたというか」
--- TRANSLATION HERE
+"S-Sí. Es solo que casualmente presencié como lo arrestaban."
 }
 [sha:8dc165b5d1facc12de9b79c82d2bb4c9164e5676]{
 -- Page 113, Offset 13451.
 -- たまたま、と自分で口にして笑ってしまった。
--- TRANSLATION HERE
+Me río ante lo ridícula que es mi afirmación.
 }
 [sha:9078ae866ae654843cfa811dae97ebe4316c24dc]{
 -- Page 113, Offset 13452.
 -- 確かにあれは、偶然が重なり合って起きた事だ。
--- TRANSLATION HERE
+// Tl oficial
+Es la verdad técnicamente, una que proviene de una increíble serie de coincidencias.
 }
 [sha:4f985a4dbe57f29e1e871fca08b3544cfe07998d]{
 -- Page 114, Offset 13453.
 -- アルクェイドと過ごした二日間。
--- TRANSLATION HERE
+Solo pasé dos días con Arcueid.
 }
 [sha:52b801028ef4caf43d62bc5c032060b796ff976c]{
 -- Page 114, Offset 13454.
 -- 色々ありすぎて今でも夢のようだけど、とにかく、街に巣くっていた怪物は消え去った。
--- TRANSLATION HERE
+Ha pasado tanto que incluso ahora se siente como un sueño, pero al menos ya no está el monstruo que anidaba en la ciudad.
 }
 [sha:5178950907d56e27a84e337d914e6c1588dfe4f0]{
 -- Page 114, Offset 13455.
 -- その事実に関しては、胸を張って良かったと言える筈だ。
--- TRANSLATION HERE
+Al menos en ese aspecto, creo que puedo decir con orgullo que todo se ha arreglado.
 }
 [sha:9f4321cefafe82c63189d3cffd80679c91478652]{
 -- Page 115, Offset 13456.
 -- 「兄さん？　どうしたんです、急に嬉しそうな顔をして」
--- TRANSLATION HERE
+"¿Ni-san? Qué pasa, de repente pareces muy feliz."
 }
 [sha:df32deeb00d9cf4f4cf4833ec6e22fb69d010078]{
 -- Page 115, Offset 13457.
 -- 「別になんでもない。
--- TRANSLATION HERE
+"Oh, no es nada.
 }
 [sha:d8aa8e2f95d1232b8c6c22230b5baf338a9238a0]{
 -- Page 115, Offset 13458.
 -- ただ、終わったんだなって、ようやく実感できた」
--- TRANSLATION HERE
+Es solo que... me doy cuenta finalmente que se ha acabado."
 }
 [sha:ab9d195d95e6dcb66649982fce22ee606880d846]{
 -- Page 116, Offset 13459.
 -- 知らずに笑顔で、そんな呟きを洩らす。
--- TRANSLATION HERE
+Murmuro esas palabras, sonriendo sin siquiera darme cuenta.
 }
 [sha:20533b1839bc8e3c80d19ac0d5cda76366d12257]{
 -- Page 116, Offset 13460.
@@ -231,25 +234,26 @@
 [sha:de77e1da84e2102f61691728b476e9a4d79dab49]{
 -- Page 116, Offset 13461.
 -- それに礼を言って立ち上がる。
--- TRANSLATION HERE
+La agradezco mientras me levanto.
 }
 [sha:b0458e758afe8739d76b998dc6ff52058966e096]{
 -- Page 117, Offset 13462.
 -- 「いや、安心したらお腹が減ってきた。朝食をもらってきてもいい？」
--- TRANSLATION HERE
+"Bueno, ahora que me he quitado ese peso de encima, me muero de hambre. ¿Te importa si voy a por algo de desayunar?"
 }
 [sha:69e6acdd6ed259b0cf2d0745de488da021229ed1]{
 -- Page 118, Offset 13463.
 -- 「わ、私に許可を求める必要はありません。
--- TRANSLATION HERE
+"N-No necesitas pedirme permiso.
 }
 [sha:53b3cb2721f2bac00d7a15bd8a760c617acadcdd]{
 -- Page 118, Offset 13464.
 -- 朝食まで管理する気はありませんから、ご自由に摂ってください。琥珀なら厨房で朝食の支度をしているでしょうし」
--- TRANSLATION HERE
+No tengo interés en controlar tu desayuno, así que por favor vé y disfrútalo como quieras.
+ Si estás buscando a Kohaku, probablemente esté en la cocina preparando las cosas."
 }
 [sha:04d0c43d3804e579cdf1aeaef13b7f8593ba74e6]{
 -- Page 118, Offset 13465.
 -- 「サンキュ。じゃあ遠慮なく」
--- TRANSLATION HERE
+"Gracias. Iré a ello pues."
 }

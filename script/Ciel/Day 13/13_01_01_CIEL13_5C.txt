@@ -11,7 +11,7 @@
 [sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
 -- Page 661, Offset 35167.
 -- 「…………！」
--- TRANSLATION HERE
+"%{i}Ugh%{/i}!"
 }
 [sha:8ad26485b56cf50ea80dce740e49782b00fcfd51]{
 -- Page 661, Offset 35168.

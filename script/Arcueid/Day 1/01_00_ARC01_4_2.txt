@@ -11,7 +11,7 @@ Aparentemente ella vino a visitarme unas pocas veces justo después de ser encom
 [sha:26967599dda6f69b3d1e7e50f4c76e357faaf0bb]{
 -- Page 232, Offset 1762.
 -- あいにくと病院通いの毎日で会う事はできず、秋葉が全寮制の女学院に進学してからは、若干、手紙のやりとりをしたぐらいだった。
-Desafortunadamente, no pude verla. Siempre estaba llendo y viniendo del hospital.
+Desafortunadamente, no pude verla. Siempre estaba yendo y viniendo del hospital.
  Después de irse a un internado, solo intercambiamos unas pocas cartas.
 }
 [sha:96191f7fcc07dca977c5cb879249a71a4e68a076]{

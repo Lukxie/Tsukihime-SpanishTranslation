@@ -64,7 +64,7 @@ Gracias a lo sofisticado que se ha vuelto internet, la brecha de conocimiento en
 [sha:86febd0eba3130afe40aa8fa9d4f4ba0d0beaeec]{
 -- Page 117, Offset 2907.
 -- 確固として積み上げた物量の差はあるものの、生活していく上ではイーブンになったように見えてしまう。
-Aunque algunas personas han acumulado mas bienes materiales que otras,
+Aunque algunas personas han acumulado más bienes materiales que otras,
  parece que nos hemos nivelado en términos de estilo de vida.
 }
 [sha:5bb0e0fcbd88c331effae5fa14f52a1c92aa39fd]{
@@ -159,5 +159,5 @@ Guardo mi móvil y me concentro.
 [sha:724ac7b755c1eb812b122bac4a981b113a75ac7f]{
 -- Page 123, Offset 2925.
 -- さあ、遠野家に戻ってから二日目、学校の始まりだ。
-Es el segundo día desde que volví a la mansión Tohno, y las clases estan a punto de comenzar.
+Es el segundo día desde que volví a la mansión Tohno, y las clases están a punto de comenzar.
 }

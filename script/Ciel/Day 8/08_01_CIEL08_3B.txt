@@ -291,7 +291,7 @@ Sin embargo...
 [sha:70a544ce909034266812004d9aca986952265be1]{
 -- Page 271, Offset 18945.
 -- 「!?」
--- TRANSLATION HERE
+"¡¿%{i}Uwah%{/i}?!"
 }
 [sha:81bf3339924c51c3b10f0e1af22217cc18f2b54b]{
 -- Page 271, Offset 18946.
@@ -996,7 +996,7 @@ Sin embargo...
 [sha:11ea1ebdad61867797537439434201effb9d2ecd]{
 -- Page 333, Offset 19087.
 -- ……さて。
--- TRANSLATION HERE
+Ahora pues...
 }
 [sha:b47766bd86b4c65f403caf649427d441915af20c]{
 -- Page 333, Offset 19088.

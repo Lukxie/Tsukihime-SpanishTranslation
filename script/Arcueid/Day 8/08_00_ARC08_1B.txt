@@ -6,57 +6,59 @@
 [sha:87fd230380f16b79ce0bfd637f2098893cd4e16d]{
 -- Page 10001, Offset 19734.
 -- 扉を開けた瞬間、閃光のように昨夜の記憶が蘇った。
--- TRANSLATION HERE
+En cuanto abro la puerta, me asaltan las memorias de anoche.
 }
 [sha:7f16320fb4a5b7308b7df3f1ed7555565b7ddbdb]{
 -- Page 24, Offset 19735.
 -- すごい。我ながらほんとすごい。
--- TRANSLATION HERE
+A veces me sorprendo hasta a mi mismo.
 }
 [sha:6011408b4268bbc1e147c5233e9bdbe83516f640]{
 -- Page 24, Offset 19736.
 -- あんな恐ろしい<出来事|イベント>を失念できるとか、俺の精神構造はどうなっているのか、本気で一度スキャニングを求む。
--- TRANSLATION HERE
+Me tienen que mirar la cabeza.
+ Quizá puedan descubrir qué narices ha hecho posible que mi mente olvidase de algo tan aterrador.
 }
 [sha:7b8195546208e44ef2ba2242f4276bed007e2c50]{
 -- Page 25, Offset 19737.
 -- が、それはここを生き延びた後の話だ。
--- TRANSLATION HERE
+Aunque, eso es solo si salgo de aquí con vida.
 }
 [sha:edebc0d46be0a3335780c3bbecee04e7da23fcb8]{
 -- Page 25, Offset 19738.
 -- 俺は扉を開けたまま、中に一歩も踏み入れず、石像のように固まっている。
--- TRANSLATION HERE
+Me quedo congelado como una estatua, con la mano aun en el pomo, incapaz de dar un paso más.
 }
 [sha:14d121abeb2c75734a684faa47a74e7aa23e08e7]{
 -- Page 26, Offset 19739.
 -- 一方、居間には。
--- TRANSLATION HERE
+Mientras tanto, en la sala de estar...
 }
 [sha:9cbc22a1abd71919dfab72e3ce079125f843f62d]{
 -- Page 26, Offset 19740.
 -- 昨夜の焼き直しのように、ソファーに座る秋葉の姿があった。
--- TRANSLATION HERE
+Akiha está sentada en el sofá,
+ como si recrease su papel de anoche.
 }
 [sha:59bdbd610c184096877da29ac72b31ef05d6483e]{
 -- Page 27, Offset 19741.
 -- 秋葉の後ろには琥珀さんが控えている。
--- TRANSLATION HERE
+Kohaku-san está detrás suya como de costumbre.
 }
 [sha:1562bee355dc268787b70e70f4dddea64ead665a]{
 -- Page 27, Offset 19742.
 -- いつもはどんなに刺があろうが、
--- TRANSLATION HERE
+Normalmente, sin importar lo malhumorada que esté,
 }
 [sha:84309a2d79b60432c6bf2220afa03c7e98a36fe9]{
 -- Page 27, Offset 19743.
 -- 『おはようごさいます、兄さん』
--- TRANSLATION HERE
+Akiha siempre me saluda con un 'buenos días, Nii-san'.
 }
 [sha:5a508a297a7e715a9216f62bebc61596ddbc8aea]{
 -- Page 27, Offset 19744.
 -- と挨拶をする秋葉は、今朝にかぎってこちらを見もしない。
--- TRANSLATION HERE
+Pero hoy, es como si no estuviera aquí.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 28, Offset 19745.
@@ -66,22 +68,24 @@
 [sha:0ec564bc73a79fc7265b3ee10bab546b258eaf03]{
 -- Page 28, Offset 19746.
 -- 言うまでもなく、昨夜のアルクェイドについての説明義務を放棄しまくった結果だ。
--- TRANSLATION HERE
+No hace falta decir que
+ es por irme anoche sin explicar nada sobre Arcueid
+ como me he ganado este trato.
 }
 [sha:f29e77187b861f4df7be500d5a0e17b0b0354564]{
 -- Page 29, Offset 19747.
 -- 優雅に寛いでいるように見えるが、秋葉からにじみ出る圧力はハンパじゃない。
--- TRANSLATION HERE
+Quizá parezca que Akiha esté relajada, pero la presión que emana no es ninguna broma.
 }
 [sha:a244b5620f8a3f673299cf23561e63f39b462a5d]{
 -- Page 29, Offset 19748.
 -- 居間は、打てば響く緊張感に支配されている。
--- TRANSLATION HERE
+La tensión en la sala es tan intensa que puedes palparla.
 }
 [sha:babc49c79bd2e771cf537f5d994a98a62cab4d64]{
 -- Page 30, Offset 19749. Mods: @n.
 -- 「おはようございます志貴さん
--- TRANSLATION HERE
+"Buenos días, Shiki-san
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 30, Offset 19750. Glued.
@@ -91,37 +95,38 @@
 [sha:70290167680a2a89b43adc23908c34a9ddf34277]{
 -- Page 30, Offset 19751.
 -- 朝ごはんの前にお茶にいたしますか？」
--- TRANSLATION HERE
+¿Querrías té antes de desayunar?"
 }
 [sha:6a7daf3ee9bd1e59948111a86adb8d5c496f2e12]{
 -- Page 30, Offset 19752.
 -- ……まあ、それもこの人だけには関係のない話っぽいけど。
--- TRANSLATION HERE
+Bueno, al menos hay una persona a la que esto no le preocupa...
 }
 [sha:90ad057a3b3ccb7ed20a666da245659c78b8f9d9]{
 -- Page 31, Offset 19753.
 -- 「お、おはよう琥珀さん。お茶はまた、落ち着いた時に」
--- TRANSLATION HERE
+"B-Buenos días, Kohaku-san.
+ El té tendrá que esperar, a cuando se hayan calmado las cosas."
 }
 [sha:d0c6833d20a80a2c643ced44b887dbbd98645eff]{
 -- Page 31, Offset 19754.
 -- 琥珀さんに挨拶を返して、居間に入る。
--- TRANSLATION HERE
+Le devuelvo el saludo a Kohaku-san y entro en la sala de estar.
 }
 [sha:049107b713839aac1d346b1cc6820f51b1301a7b]{
 -- Page 31, Offset 19755.
 -- テムテムと足音を忍ばせて歩く俺に、秋葉はじろりと流し目を向けてきた。
--- TRANSLATION HERE
+Akiha me mira de reojo mientras entro tímidamente.
 }
 [sha:9013542359fa875b5cd877ad3f92ab199ff79e92]{
 -- Page 31, Offset 19756.
 -- 無言の圧力になんか負けないぞ。
--- TRANSLATION HERE
+No voy a vacilar ante su presión silenciosa.
 }
 [sha:22200b84fe9e7cf3ba132de02b85180cda9bb5ca]{
 -- Page 32, Offset 19757.
 -- こういう時こそ人間力の真価が問われる。
--- TRANSLATION HERE
+Momentos como este ponen a prueba el coraje de uno.
 }
 [sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
 -- Page 32, Offset 19758.
@@ -131,15 +136,15 @@ Yo...
 [sha:d6ffb5473910527a98da707236fd04eab00ad3e8]{
 -- Page 34, Offset 42644. Choice.
 -- ひたすら陽気に挨拶をする。
--- TRANSLATION HERE
+Saludarla enérgicamente.
 }
 [sha:2827ce41682068065f6c2ff9eae3199367703ce4]{
 -- Page 34, Offset 42645. Choice.
 -- そろそろと挨拶をする。
--- TRANSLATION HERE
+Decir hola de una vez por todas.
 }
 [sha:8644d8104825f56e890829934d3932b063a18abf]{
 -- Page 34, Offset 42646. Choice.
 -- とにかく謝るほかありません。
--- TRANSLATION HERE
+Disculparme de inmediato.
 }

@@ -22,7 +22,7 @@ No me gusta el rojo carmesí.
 [sha:40c3c42f1a1c7f582ab7fa8af6cba821a61c0633]{
 -- Page 191, Offset 1659.
 -- 眼球の奥に染みこんできそうで吐き気がする。
-Cuando lo veo me da náuseas. Es como si penetrase directamente en lo mas profundo de mis ojos.
+Cuando lo veo me da náuseas. Es como si penetrara directamente en lo más profundo de mis ojos.
 }
 [sha:aff49d4010f0cd356ac49d5971f28f0bec039490]{
 -- Page 191, Offset 1660.
@@ -32,7 +32,7 @@ Resulta que, lo paso mal con cosas que me recuerdan a la sangre.
 [sha:afa97e745eae8b7a93e5a360be7dc9c2596be6da]{
 -- Page 191, Offset 1661.
 -- 正確には血に弱い体質になってしまった。
-O mas precisamente, he desarrollado una enfermedad que me hace así.
+O más precisamente, he desarrollado una enfermedad que me hace así.
 }
 [sha:2b316128cbc3fad9c4637e1df773d147a05d32bd]{
 -- Page 192, Offset 1662.
@@ -68,7 +68,7 @@ Un día, me ví inesperadamente involucrado en un accidente, me golpeó un objet
 [sha:623ee3586d80fcf179a087fd6b8eb0ec1d869c23]{
 -- Page 195, Offset 1668.
 -- 強制的に電源を落とされた機械のようなものだ。
-Era como úna máquina apagada forzosamente.
+Era como una máquina apagada forzosamente.
 }
 [sha:16d4c8e6828ac306037893403d84e15804ab3f49]{
 -- Page 195, Offset 1669.
@@ -183,7 +183,7 @@ Yo―――
 [sha:afc11b33608d21461358eff944b820119d5706a1]{
 -- Page 202, Offset 42575. Choice.
 -- 学校をぶらつく。
- Vagar por la escuela.
+Vagar por la escuela.
 }
 [sha:73ed24da49c21647fe551aacf27339e454ed12e5]{
 -- Page 202, Offset 42576. Choice.

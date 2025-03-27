@@ -1,215 +1,222 @@
 [sha:1b1f701da0594df28827e1400822b304ac6d43d4]{
 -- Page 179, Offset 43091. Mods: @n.
 -- ん～？　普通に10日目が始まったと思ったら
--- TRANSLATION HERE
+¿Hmm? Parece que el día diez empezó como siempre,%{n}
 }
 [sha:b619d30e5e8b6458491f275bc3e988bd2238fbcd]{
 -- Page 179, Offset 43092.
 -- 普通に学校に行って普通にエンドになったよ？
--- TRANSLATION HERE
+fuimos a la escuela como cualquier otro día,%{n}y entonces de repente el juego termina.
 }
 [sha:6625d8a2ed8b8999321b3c9d3e3d23286cc74bad]{
 -- Page 180, Offset 43093. Mods: @n.
 -- これどうなってんのシエルー？
--- TRANSLATION HERE
+¿Qué narices está pasando Ciel?%{n}
 }
 [sha:52b89007ccb5acc6d793c429d13f9b4ffbbfe1ea]{
 -- Page 180, Offset 43094.
 -- エラー？　この先作ってないのかにゃ？
--- TRANSLATION HERE
+¿Un error? ¿No han terminado%{n}
+el resto del juego nya?
 }
 [sha:8fabeb892ab12b38809f213aa0466c4e8a79bf65]{
 -- Page 181, Offset 43095. Mods: @n.
 -- どう考えても悪い選択はしてにゃいしなぁ……
--- TRANSLATION HERE
+No veo como ninguna de las elecciones que tomaste%{n}
+pudo haberte llevado aquí nya...%{n}
 }
 [sha:9be622da570e7facb7ea2dad2af1c256e41d5890]{
 -- Page 181, Offset 43096.
 -- え？　妹との約束を破った？
--- TRANSLATION HERE
+¿Eh? ¿Rompiste una promesa con tu hermana?
 }
 [sha:339406d581b48b090f3f6b9eb2c4a930e7e52ea8]{
 -- Page 182, Offset 43097. Mods: @n.
 -- でも金髪美少女との約束の方が大事っしょ？
--- TRANSLATION HERE
+Pero la promesa con esa belleza rubia es más importante,%{n}¿verdad?
 }
 [sha:844f8f16b24abcdd563165a8a734f88795b375b0]{
 -- Page 182, Offset 43098.
 -- これこそ正解ルートの筈にゃんだけど、なぜ……？
--- TRANSLATION HERE
+Yo también estoy bastante segura de que esta era la%{n}ruta correcta, ¿cómo ha podido...?
 }
 [sha:15d7f99070b120ede3fac3819901e55b9f6cdf59]{
 -- Page 183, Offset 43099.
 -- なにを言っているんですか。
--- TRANSLATION HERE
+¿Qué estás diciendo?
 }
 [sha:8948e36b18701dcd826d8147126ce081ddd15648]{
 -- Page 184, Offset 43100. Mods: @n.
 -- 秋葉さんがあれほど心配していたのに
--- TRANSLATION HERE
+Decidiste ir a pesar de que Akiha-san%{n}
+estaba tan preocupada por ti.
 }
 [sha:cf8ce052c915999aa3cfd6cc2ee3c0c6eaf7dd26]{
 -- Page 184, Offset 43101.
 -- 出かけてしまうなんて、お兄さん失格です。
--- TRANSLATION HERE
+Es simple,%{n}fracasaste como hermano mayor.
 }
 [sha:7094467a5ae1b23c3ecda811a85def3423ca21d0]{
 -- Page 185, Offset 43102. Mods: @n.
 -- 今まで何度も倒れてきた遠野くんですが、
--- TRANSLATION HERE
+Puede que hayas estado pachucho en otras%{n}ocasiones y seguido adelante,
 }
 [sha:b5e7c1caf270bf0fcd603352eec765d4c422e959]{
 -- Page 185, Offset 43103.
 -- この日の『体調不良』は特別なものです。
--- TRANSLATION HERE
+pero hoy estás%{n}experimentando una enfermedad más peculiar.
 }
 [sha:1295ef601daa5383374678cf5b62e0a1a50db654]{
 -- Page 186, Offset 43104. Mods: @n.
 -- 半日は休んでいないと回復しない不調ですから、
--- TRANSLATION HERE
+Para recuperarse tipo de aflicción necesitas%{n}al menos medio día
+de descanso
 }
 [sha:2e740edfa65a2227575e2df765ceebea26e76e5b]{
 -- Page 186, Offset 43105.
 -- しっかり休んでくださいね？
--- TRANSLATION HERE
+por lo que%{n}asegurate
+de dormir bien, ¿vale?
 }
 [sha:5148ec0e866d111ad190b1bb18f8abbb90dcbd11]{
 -- Page 187, Offset 43106. Mods: @n.
 -- もちろん、アルクェイドとの待ち合わせは
--- TRANSLATION HERE
+Por supuesto, no hay ningún problema%{n}
 }
 [sha:5053e8ccb173c84af58de0870506d0badc6a09fc]{
 -- Page 187, Offset 43107.
 -- ぜんぜん無視してＯＫです。
--- TRANSLATION HERE
+si no vas a ver a Arcueid.
 }
 [sha:f9cff917395edb9661f4c2856f0ad7fd480529ad]{
 -- Page 188, Offset 43108. Mods: @n.
 -- しょせん口約束なので法的強制力もなければ、
--- TRANSLATION HERE
+Como fue una promesa verbal, ni es%{n}
 }
 [sha:084c9d20fb50bfcccaa82c1e56d557711a0fcf34]{
 -- Page 188, Offset 43109.
 -- 違約金も発生しませんしね♥
--- TRANSLATION HERE
+legalmente aplicable ni está sujeto a sanciones ♥
 }
 [sha:b7c5c45febeeac1efe2f225ef0085679da47bdf6]{
 -- Page 189, Offset 43110. Mods: @n.
 -- そういう問題じゃニャいんだけどな～。
--- TRANSLATION HERE
+Pero, ese no es el problema nyaaa.%{n}
 }
 [sha:0cbab10021c639e029d0988fdb1d51e9e869ad6c]{
 -- Page 189, Offset 43111.
 -- ココロとココロの問題ニャんだけどな～。
--- TRANSLATION HERE
+Lo que importa es lo que esté bien en%{n}nuestros corazones nyaaa.
 }
 [sha:2bba050a6e69b8cb05b030abc7790e5e36a456fe]{
 -- Page 190, Offset 43112. Mods: @n.
 -- でも、そういったココロのすれ違いが
--- TRANSLATION HERE
+Pero, si esto hace que se echen de menos,%{n}
 }
 [sha:3a6643088f64d115ee5a88315ced0ddd5f7da8a5]{
 -- Page 190, Offset 43113.
 -- 次のロマンスを生み出すのよね……ウフフ……
--- TRANSLATION HERE
+// Hmm interpretativo
+pero sabes lo que dicen, la distancia hace que el amor%{n}florezca... ejeje...
 }
 [sha:7836a955647a8cffad963e6f01881ee9a27ecea0]{
 -- Page 191, Offset 43114. Mods: @n.
 -- 感じる……感じる……
--- TRANSLATION HERE
+Aquí viene... aquí esta...
 }
 [sha:3a5438cc1d54ea84623824418efcb1a19f7c751c]{
 -- Page 191, Offset 43115.
 -- すぐ近くに、デートイベントの気配を感じる……！
--- TRANSLATION HERE
+¡siento que hay%{n}un evento de cita a la vuelta de la esquina!
 }
 [sha:c1f70756bef2b9ac976e2b7756272ab1d7e658f6]{
 -- Page 192, Offset 43116. Mods: @n.
 -- あ、シエルにはないんだっけ、デートイベント。
--- TRANSLATION HERE
+Ah cierto. Ciel no tiene un evento de cita, ¿verdad?%{n}
 }
 [sha:b5e50e453063d7eb5d5c92e51cabc39cedecc9cc]{
 -- Page 192, Offset 43117.
 -- ソーリー。恵まれすぎてソーリー。
--- TRANSLATION HERE
+Sorry... el privilegio es solo mio.
 }
 [sha:5bf8f0072171c6e0f7fcebfe54533e2527fb2b44]{
 -- Page 193, Offset 43118. Mods: @n.
 -- いえいえ。その分こちらは夜だけでなく、学校で
--- TRANSLATION HERE
+Oh no, te equivocas. De hecho, estamos juntos%{n}en la escuela todo el tiempo.
 }
 [sha:e2777f8c2009c762f3c50c007ecd4cedccd6aee0]{
 -- Page 193, Offset 43119.
 -- 長時間過ごさせていただいているのでお気になさらず。
--- TRANSLATION HERE
+No solo estamos juntos de noche%{n}no tienes que preocuparte.
 }
 [sha:91c74b68a8c32da1f71c85d1b815bc79d7a6f711]{
 -- Page 194, Offset 43120. Mods: @n.
 -- 遠野くんとのトーク時間は当社比４：６で
--- TRANSLATION HERE
+Si comparas el ratio de tiempo que%{n}hablo con Tohno-kun,
 }
 [sha:75466bed57e309051fee824e7708a9c73c269576]{
 -- Page 194, Offset 43121.
 -- わたしの方が上ですので。
--- TRANSLATION HERE
+verás que salgo ganando%{n}
+6:4.
 }
 [sha:b6dbaef4b643196040c13bac9ab07edf1fd273cf]{
 -- Page 195, Offset 43122. Mods: @n.
 -- はーん。
--- TRANSLATION HERE
+¿Eeeh?%{n}
 }
 [sha:51ce0c304d80c3ce4cd0c4f8052eca36d76f2b5e]{
 -- Page 195, Offset 43123.
 -- どうせ長ったらしい教会の設定語りでしょ？
--- TRANSLATION HERE
+¿La mayoría de eso no eres tu dando la chapa%{n}sobre cosas de la iglesia?
 }
 [sha:719e5b23b46774758b4e387854d0c5d4b9aac623]{
 -- Page 196, Offset 43124.
 -- 吸血鬼社会の説明よりはよっぽど短いですよ。
--- TRANSLATION HERE
+No mientras la lección no vaya sobre jerarquía vampírica.
 }
 [sha:8add83eaa646cc6d2b97ae57faf22914c3402a88]{
 -- Page 197, Offset 43125. Mods: @n.
 -- 基本的には頼れる先輩と迷える後輩の、
--- TRANSLATION HERE
+En nuestro caso, es simplemente, una%{n}conversación pura y platónica
 }
 [sha:4d9019bb07c8396d980d7d9198cfa4ae139a532a]{
 -- Page 197, Offset 43126.
 -- 清らかな男女交際トークです。
--- TRANSLATION HERE
+entre un%{n}kouhai perdido y una senpai confiable.
 }
 [sha:ceb4ede87e45ce551a0cbf9f4b4002f991df605d]{
 -- Page 198, Offset 43127.
 -- 学校ならアタシも行ったし。
--- TRANSLATION HERE
+Ey, que yo también fui a la escuela.
 }
 [sha:06ab8a64dfe7f8f3b834561c53dc3a7a0fcd50a3]{
 -- Page 199, Offset 43128.
 -- 不法侵入とかアナタらしいですけどね。
--- TRANSLATION HERE
+Bueno, más bien allanaste supongo,%{n} ¿no?
 }
 [sha:4e0fa222e711187e04e5e1801d7f1b3bfa357468]{
 -- Page 200, Offset 43129.
 -- 戦闘ドレス等々、着替えもあるし。
--- TRANSLATION HERE
+Y también tenía ropas molonas, como%{n}el vestido de combate.
 }
 [sha:ef569aa891f8e0ce58724a638cbac48c8e9ea0e0]{
 -- Page 201, Offset 43130. Mods: @n.
 -- ああ、あのヴローヴに即オチした（笑）。
--- TRANSLATION HERE
+Ah, ¿el que llevabas cuando Vlov te%{n}derrotó instantáneamente? (Se ríe).%{n}
 }
 [sha:5d8ef6c0cb642128b3079f110a272c5512790cbd]{
 -- Page 201, Offset 43131.
 -- 出だしだけは良かったですね（笑）。
--- TRANSLATION HERE
+¿La transformación estuvo bien, creo?
 }
 [sha:b8ad7c901f9e3048b2e3c71d7fa111da6a8cad12]{
 -- Page 202, Offset 43132.
 -- よし、死ねぇ！
--- TRANSLATION HERE
+¡Estas muerta!
 }
 [sha:c98228ffdf3d776f63ce5dd94ceef53b517967df]{
 -- Page 203, Offset 43133.
 -- しゃっ！
--- TRANSLATION HERE
+¡Ven aquí!
 }

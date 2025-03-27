@@ -446,7 +446,7 @@
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 117, Offset 11195.
 -- 「―――！」
--- TRANSLATION HERE
+"%{i}Hnh%{/i}!"
 }
 [sha:968ca74d23b8452959c27bfc666d1243011fbe85]{
 -- Page 117, Offset 11196.
@@ -511,7 +511,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 120, Offset 11208.
 -- 「！」
--- TRANSLATION HERE
+"¡%{i}Agh%{/i}!"
 }
 [sha:d78d1b822003d7e9ee00c4f4354c8668769cce39]{
 -- Page 121, Offset 11209.
@@ -801,7 +801,7 @@
 [sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
 -- Page 141, Offset 11266.
 -- それでも―――
--- TRANSLATION HERE
+Y aún así―――
 }
 [sha:f889174f485d1f01017e1dd59cd8b556caad7f0a]{
 -- Page 142, Offset 11267.

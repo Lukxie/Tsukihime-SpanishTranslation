@@ -36,10 +36,10 @@ Por aquel entonces había mucha gente entrando y saliendo de la mansión. Me ent
 [sha:3f5bc28fbd26766309f6868e12afcd24f423de4e]{
 -- Page 241, Offset 1783.
 -- 日に何人も見知らぬ人々が来ていたのだから、いちいち覚えている方がおかしい、とも言える。
-Teniendo en cuenta cuantos desconocidos aparecían en la mansion cada día, sería realmente raro si %{i}recordase%{/i} a cada uno de ellos.
+Teniendo en cuenta cuantos desconocidos aparecían en la mansión cada día, sería realmente raro si %{i}recordase%{/i} a cada uno de ellos.
 }
 [sha:e4d0051af10761257c1d575a298dc4654d0315d0]{
 -- Page 241, Offset 1784.
 -- 「……そうだった。それより、今は親父の事だ」
-"Si, probablemente no fuera importante... De todos modos, mi padre es la razón por la que estoy aquí ahora.
+"Si, probablemente no fuera importante... De todos modos, mi padre es la razón por la que ahora estoy aquí.
 }

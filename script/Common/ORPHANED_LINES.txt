@@ -213,7 +213,7 @@ No te presionaré más. No voy a cuestionar tus razones.
 [sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
 -- Page -1, Offset 28384.
 -- ……
-...
+%{nothing}
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page -1, Offset 32193.

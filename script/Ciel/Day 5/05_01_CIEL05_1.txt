@@ -186,7 +186,7 @@
 [sha:31258328a433139751c9295e8b7fb0ece5a58166]{
 -- Page 17, Offset 10913.
 -- 「っ――――――」
--- TRANSLATION HERE
+"――――――"
 }
 [sha:77d3f8ee16a0e4bcde9ee3dcbe95e3cc8d61e518]{
 -- Page 17, Offset 10914.

@@ -21,7 +21,7 @@
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 56, Offset 625.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:d8e40b92dd6b792a6c3b89a37b01ba62d70b7810]{
 -- Page 56, Offset 626.
@@ -76,7 +76,7 @@
 [sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
 -- Page 60, Offset 636.
 -- ……なんだろう。
--- TRANSLATION HERE
+Pero... algo no tiene sentido.
 }
 [sha:8f768b6522a605ed64429adc30317100910f2ea8]{
 -- Page 60, Offset 637.
@@ -506,7 +506,7 @@
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 98, Offset 722.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:ec9441c670ffd247418c15e78814f081a0fcfa89]{
 -- Page 98, Offset 723. Mods: @n.
@@ -606,7 +606,7 @@
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 104, Offset 742.
 -- 「――――――――」
--- TRANSLATION HERE
+"――――――――"
 }
 [sha:17eafd1974a285b46d0da8f2be413dd9070f704a]{
 -- Page 104, Offset 743.
@@ -631,7 +631,7 @@
 [sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 105, Offset 747.
 -- と。
--- TRANSLATION HERE
+Y entonces―――
 }
 [sha:494f62508b18243224891d1a0f4d3aca3856884b]{
 -- Page 105, Offset 748.

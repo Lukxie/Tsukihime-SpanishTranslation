@@ -226,7 +226,7 @@
 [sha:34209719ca290c596bcd97cad96fca8c9353cf33]{
 -- Page 530, Offset 28563.
 -- 「っ……」
--- TRANSLATION HERE
+"%{i}Ngh%{/i}..."
 }
 [sha:30c88820775db2a82df2b5b5c848ae56821f49a6]{
 -- Page 530, Offset 28564.
@@ -401,7 +401,7 @@
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 541, Offset 28598.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:94578c91d3de22daf681419ab5ecb28715819dc5]{
 -- Page 542, Offset 28599.
@@ -496,7 +496,7 @@ No tengo palabras.
 [sha:9c24c147b8a2ba3f0ca2cb28d7f6b8807249019b]{
 -- Page 548, Offset 28617.
 -- 「え……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:99c4618dd424ab7d7ca2ba5769afcd4267b29088]{
 -- Page 548, Offset 28618.
@@ -601,7 +601,7 @@ No tengo palabras.
 [sha:68dc30bcee06ae050d3267b903ddfe1dc3e22d0c]{
 -- Page 556, Offset 28638.
 -- 「……なに？」
--- TRANSLATION HERE
+"¿Qué...?"
 }
 [sha:446f8d9dc026a84527122f3c834a9e3b71ee3c30]{
 -- Page 556, Offset 28639.

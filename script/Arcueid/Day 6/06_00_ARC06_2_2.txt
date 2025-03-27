@@ -1,397 +1,456 @@
 [sha:8b2147dd2dc8bafd9b19feb56cf0dbbf3aa0b844]{
 -- Page 10008, Offset 14432.
 -- 阿良句博士に診てもらおう。
--- TRANSLATION HERE
+Dejaré que la Dra. Arach me atienda.
 }
 [sha:084713f4f8a02b935ce999674c1664f21950e371]{
 -- Page 10008, Offset 14433.
 -- いまだにどんな人物なのか不明だが、白衣を着ている以上、お医者さんであるのは確かなんだし。
--- TRANSLATION HERE
+No sé qué tipo de persona es,
+ pero alguien que lleva bata todo el rato tiene que ser un doctor.
 }
 [sha:f37aca9eb1a0bf5524425580a706b119726f3dbf]{
 -- Page 217, Offset 14434.
 -- 「わかりました。阿良句先生には私から伝えておきますので、後は自室で待機していてください。
--- TRANSLATION HERE
+"Entendido. Le haré saber a Arach-sensei que la estás buscando, así que por favor espérala en tu habitación una vez hayas desayunado.
 }
 [sha:b430abdcfccc97ee5656a1aceb1c1c1c189cb459]{
 -- Page 217, Offset 14435.
 -- 阿良句先生は予想のつかない方ですが、医師としての腕は確かです。ここで暮らすのなら頻繁に会う人ですし、これを機に親睦を深めてください」
--- TRANSLATION HERE
+Arach-sensei puede ser un poco impredecible, pero sus habilidades como doctor son innegables. Ahora que vives aquí te encontrarás frecuentemente con ella, así que por favor aprovecha esta oportunidad para conocerla mejor."
 }
 [sha:8851614032f8b206278abf91ad3a567e4c7137cf]{
 -- Page 218, Offset 14436.
 -- 淡々とした秋葉の声。
--- TRANSLATION HERE
+// tl oficial
+Akiha habla sin emoción.
 }
 [sha:45360b8191ed1833b4f0043e7de9e96fd68721ee]{
 -- Page 218, Offset 14437.
 -- 連絡事項を伝えるような簡潔さだ。
--- TRANSLATION HERE
+Perfectamente concisa y al grano.
 }
 [sha:11ea1ebdad61867797537439434201effb9d2ecd]{
 -- Page 218, Offset 14438.
 -- ……さて。
--- TRANSLATION HERE
+Ahora pues...
 }
 [sha:f6e56bede459f5d14fa1220a06498b66cda5c33b]{
 -- Page 218, Offset 14439. Mods: @n.
 -- とりあえずは朝食、その後は診察を受けるとしよう。
--- TRANSLATION HERE
+Mi primera prioridad es el desayuno, una vez haya lidiado con eso, iré a que me miren.
 }
 [sha:29ec4acc78936db26bd933dcd524a9fbccdeca67]{
 -- Page 219, Offset 14440.
 -- 自室で文庫本などを読みつつ時間を潰す。
--- TRANSLATION HERE
+// tl oficial
+En mi habitación decido pasar el rato leyendo un libro.
 }
 [sha:96caabacbf8d7a827237c0902dbf1aa072d299f1]{
 -- Page 219, Offset 14441.
 -- 午前10時にさしかかった頃、窓越しに廊下を闊歩する白衣が目に入った。
--- TRANSLATION HERE
+Un poco ante de las diez en punto, miro por la ventana y veo una figura en bata blanca contoneando por el pasillo.
 }
 [sha:45d6613866cffaec262b6b6b39d485c5548530ba]{
 -- Page 219, Offset 14442.
 -- きたな、と本をしまう。
--- TRANSLATION HERE
+// Tl oficial
+Guardo el libro y me preparo para lo que viene.
 }
 [sha:05323e9aafc28fa71cd331892acdc91dd9a00b9d]{
 -- Page 219, Offset 14443.
 -- 同時に、
--- TRANSLATION HERE
+Al mismo tiempo―――
 }
 [sha:0f47e994796114ea6d2b122e8e6960f80b072c9b]{
 -- Page 220, Offset 14444.
 -- 「ハァーイ、おっはよっうチャーン！
--- TRANSLATION HERE
+"¡Hiiiiii, buenoooos diiiiiias!
 }
 [sha:c633a41078b07a5d6ad59b4896839c95f1a321a1]{
 -- Page 220, Offset 14445. Mods: @k, @e.
 -- 朝からカラダをいじってほしいとかぁ、
--- TRANSLATION HERE
+¿Quieres que juegue contigo a primera hora de la mañana?
 }
 [sha:92cdecc5cfa817fe4b675499cf299302602e397d]{
 -- Page 220, Offset 14446. Glued. Mods: @x, @k, @e.
 -- 志貴チャンったら超インラーンーーー！
--- TRANSLATION HERE
+¡Shiki-chan, que guarreteeee!
 }
 [sha:fac05c390222ab161f6f2bfeeea111d97e3ce5b3]{
 -- Page 220, Offset 14447. Glued. Mods: @x.
 -- アタシ、シチューみたいにたぎった思春期少年病の餌食になっちゃうのかしらぁん！」
--- TRANSLATION HERE
+// Tl oficial.
+¡¿Me vas a devorar ahora que tus deseos adolescentes amenazan con desbordarse?!"
 }
 [sha:413f683ee71e961653994a66b3e5f46cf6c521d7]{
 -- Page 221, Offset 14448.
 -- ノックもなしで、派手なバッグ片手に酔っ払いが入って来た。
--- TRANSLATION HERE
+// Tl oficial.
+Sin siquiera llamar a la puerta, la borracha se cuela en mi habitación, con una bolsa llamativa en mano.
 }
 [sha:e9c056eaf720cc783a594c5b8021f1c15e7a0671]{
 -- Page 221, Offset 14449.
 -- 今さらながら琥珀さんを選ばなかった事を後悔する。
--- TRANSLATION HERE
+// Tl oficial.
+Me arrepiento de no haber escogido a Kohaku.
 }
 [sha:84b60af66d1ed16b157f173941d41fabeb99cf4e]{
 -- Page 222, Offset 14450.
 -- 「すみません。どうも頼む人を間違えたみたいなんで、帰ってもらっていいですか？」
--- TRANSLATION HERE
+Lo siento mucho. Parece que he escogido a la persona equivocada, ¿puedes irte?"
 }
 [sha:5e4b89908f014976c4445f386dc4ce98298d0bf3]{
 -- Page 222, Offset 14451.
 -- 「ああん、ウソウソ、かぎりなく本気だけどジョウダンよぅ。外来の診察なんて久しぶりだから、患者さんとの距離感掴めなくてぇ。フランクな挨拶のほうがいいかなぁー？　って気を遣ってみたのよぅ」
--- TRANSLATION HERE
+// Tl oficial.
+"Ahh, es broma, es broma. Aunque no lo es.
+ Ha pasado mucho desde la última vez que hice una consulta a domicilio, ¡mis modales en la cama están un poco oxidados!
+ Aunque agradecería que fueras un poco más sincero, ¿sabes? Solo intento ser maja."
 }
 [sha:cf51a07cb24b2ac218578646527a09d37a295ce9]{
 -- Page 223, Offset 14452.
 -- などと言いながら、阿良句氏は既にベッドまで歩み寄っていた。派手なモデル歩き……胸とか腰とか必要以上にくねらせている……にも拘わらず、足音ひとつたてない、忍者の如き忍び足である。
--- TRANSLATION HERE
+Charla mientras se acerca a mi cama, bamboleando exageradamente su pecho y caderas con la sutileza de una modelo de pasarela. Curiosamente, sus pasos no hacen ruido, casi como si fuera una ninja.
 }
 [sha:f2878b858a2e9a8e7e21c0cffb8a8cd5f185211a]{
 -- Page 224, Offset 14453.
 -- 以前はこれでもかとヒールを鳴らしていたものだが、今回は診察だし、少しは真面目になってくれているのだろうか？
--- TRANSLATION HERE
+// Añado 'lo digo' para que quede más claro.
+Lo digo porque antes he notado que por lo general a cada paso taconearía lo más alto posible.
+ ¿Eso significa que se está tomando la revisión en serio?
 }
 [sha:3a91ee246dd4d8cc184c68e26bf5822cd3eea044]{
 -- Page 225, Offset 14454.
 -- 「はーい、それじゃあ患部を出してねー。すぐ出してねー。どうせなら裸になってねー！　お姉さん、あふれる興味を一秒も抑えられないからぁ、モタモタしてると食ベチャウゾ♡」
--- TRANSLATION HERE
+"Vaaale, dime donde duele.
+ Venga, no seas tímido.
+ Sabes qué, ¡desnúdate!
+ Realmente me has abierto el apetito,
+ así que vamos a ello antes de que pierda el control ♡"
 }
 [sha:ed4c0f528086a383d5f36beb4bf9579def985d56]{
 -- Page 225, Offset 14455.
 -- 「……酒、飲んでませんよね？」
--- TRANSLATION HERE
+"No... estas borracha, ¿no?"
 }
 [sha:f87f9fd79268364d6398d537225cacc943bead1d]{
 -- Page 226, Offset 14456.
 -- 「飲んでませんわよ？　アタシ、常時シラフだもぉん。アルコールなんて摂取するぐらいならチョコ飲むわよぅ、チョコ」
--- TRANSLATION HERE
+"¿Hm? No he bebido nada.
+ Has de saber que estoy sobria 24/7.
+ Nunca tocaría el alcohol, la única bebida que me gusta es el chocolate caliente. El chocolatito caliente."
 }
 [sha:1440082c34091a85f98a3322de06f56a30f0ecc0]{
 -- Page 226, Offset 14457.
 -- ……確かに酒の匂いはしない。
--- TRANSLATION HERE
+Tiene razón... no huele a bebida.
 }
 [sha:fcdf73b813435ed44310ae4657f31dc13a305150]{
 -- Page 226, Offset 14458.
 -- このテンションは平常運転という事か。
--- TRANSLATION HERE
+// Tl oficial.
+Lo que significa que es %{i}así%{/i} normalmente.
 }
 [sha:3972b41940d8728e2a55d95e10192c626c281153]{
 -- Page 227, Offset 14459.
 -- 「お、素直に見せてくれたわねぇ。でも裾をまくしあげるだけ？　パンツは？　パンツ一丁にならないの？　男の裸が綺麗な時期なんてせいぜい二十五までなんだから、いまのうちに露出癖つけておかないともったいないわよぅ？」
--- TRANSLATION HERE
+"%{i}Oho%{/i}, ¿vas a ser obediente y dejarme ver?
+ ¿Pero de verdad vas a parar tras arremangarte el dobladillo?
+ ¿Y tus pantalones?
+ ¿No vas a quedarte en ropa interior?
+ El cuerpo desnudo del hombre es bonito hasta los 25 como mucho, ¡sería un desperdicio
+ si no adquirieses el hábito de enseñarlo mientras puedas!"
 }
 [sha:31b9174e55d428ed5a4b166572f36130f31d5dd4]{
 -- Page 227, Offset 14460. Mods: @n.
 -- 「いいから早く診てください博士。
--- TRANSLATION HERE
+"Terminemos de una vez con este reconocimiento, doctora.
 }
 [sha:98b907fe859eae72c3b9bafb90681eac14fb8ad7]{
 -- Page 227, Offset 14461.
 -- 俺にも我慢の限度があります」
--- TRANSLATION HERE
+Incluso mi paciencia tiene un límite."
 }
 [sha:d3943a8e959a4d98ca3c75f72b1e87f5f7eab5bf]{
 -- Page 228, Offset 14462.
 -- 「博士って言った？　ねえ、いま博士って言った？　やっぱそう見える、アタシ!?」
--- TRANSLATION HERE
+"¿Has dicho 'doctora'? Ey, ¿me acabas de llamar 'doctora'? ¡¿Parezco una, verdad?!"
 }
 [sha:e434a86c6a0ec732b15650cc60ea083bed6c1250]{
 -- Page 228, Offset 14463.
 -- 「……まあ。白衣着ていますし、なんというか、ほら」
--- TRANSLATION HERE
+"Bueno... Llevas bata de laboratorio, y esas cosas, sabes..."
 }
 [sha:0f8a0b53f2b5eb1e6ee138ec076551d7fd7e7c27]{
 -- Page 228, Offset 14464.
 -- マッドがつく方の科学者そのものというか。
--- TRANSLATION HERE
+Podrías decir que es el científico personificado――uno loco en este caso.
 }
 [sha:124b6d997494bdc253f73ec05015631035021bd0]{
 -- Page 229, Offset 14465.
 -- 「ラブい。ゴダイヴァばりにラブい。よし、ちょっと本気だすか」
--- TRANSLATION HERE
+"Encantador. Tan encantador como Lady Godiva. Bueno, es hora de ponerme en serio."
 }
 [sha:fe50fcd51c166a418fe9c2ac7cfbed9c40fc789d]{
 -- Page 230, Offset 14466.
 -- 阿良句博士は腰を落として俺の両脚を触診する。
--- TRANSLATION HERE
+La Dra. Arach se sienta y palpa mis piernas.
 }
 [sha:ead5e80552f98be778df6da9b74a67e2363270e2]{
 -- Page 230, Offset 14467.
 -- ……妙な感触だった。
--- TRANSLATION HERE
+Es una sensación extraña...
 }
 [sha:bbc62ceecd1df8d2c26a4d6d15e1bc1892467667]{
 -- Page 230, Offset 14468.
 -- 指が肌をなぞっていくというより、ヒタヒタと伝っていく感じがする。こーん、こーん、と体の内部に響くものがあるが、痛みはまったくない。
--- TRANSLATION HERE
+// Tl oficial.
+Más que pasar los dedos por mi piel, hace ligeros toques que resuenan por mi pierna, aunque no duele nada.
 }
 [sha:7ef9baeeecd3ec02e44847095f5a68e877630c24]{
 -- Page 230, Offset 14469.
 -- なんというか、潜水艦のソナーのような触診だった。
--- TRANSLATION HERE
+Es como un submarino usando un sonar para guiarse.
 }
 [sha:80aaff16efc6ef5a699b9b1491fba9d09a2ff0ca]{
 -- Page 231, Offset 14470.
 -- 「やっだぁ～、骨に<罅|ヒビ>入ってるわよぅ？
--- TRANSLATION HERE
+// Demasiado?
+"Oh nyooo. Parece que te has fracturado la pierna.
 }
 [sha:e7e0572f0ad2173583f617452c5e90a11f8233ff]{
 -- Page 231, Offset 14471.
 -- 志貴チャンは痛いの大好きな子だったのねぇ。だってこんなの、フツーは我慢できないし！」
--- TRANSLATION HERE
+// mix de ambas
+Debes ser bastante masoquista, ¿o no Shiki-chan? ¡No hay mucha gente que pueda aguantar este dolor!
 }
 [sha:62046bc5262d2106f3cdba5d75d7335dde131543]{
 -- Page 232, Offset 14472.
 -- あー……やっぱりそうか。
--- TRANSLATION HERE
+Vaya... me preocupaba que fuera el caso.
 }
 [sha:8dbcdfc888915432c70c7c4146bad7a55ed78ddf]{
 -- Page 232, Offset 14473.
 -- むしろ罅だけで助かった。
--- TRANSLATION HERE
+Aunque me alegro que solo sea una fractura.
 }
 [sha:f601d3346eaad0dd460edd545bf796848af9429c]{
 -- Page 232, Offset 14474.
 -- 所々、折れていても不思議ではなかったんだし。
--- TRANSLATION HERE
+No me sorprendería si me dijera que está rota por todos lados.
 }
 [sha:8325094722e5c263af28b426fef3ac1c3bac4f36]{
 -- Page 233, Offset 14475. Mods: @k, @e.
 -- 「んー、でもヘンな話ねぇ？　ココに亀裂があるってコトは、このあたり折れてないとおかしいんだけどぉ。
--- TRANSLATION HERE
+"Hmm, ¿pero que raro, no?
+ Si aquí hay una fractura, esperarías que el área alrededor también estuviera dañada.
 }
 [sha:08a4ab1d413511fec5331c30768f4f4b9aea45d3]{
 -- Page 233, Offset 14476. Glued. Mods: @x, @k, @e.
 -- んー、
--- TRANSLATION HERE
+Hmm...
 }
 [sha:a3ec962b1c05ac623b75b8f93978c4234fb33984]{
 -- Page 233, Offset 14477. Glued. Mods: @x.
 -- おもむろにカプるアタシ」
--- TRANSLATION HERE
+Creo que le daré un mordisquito."
 }
 [sha:fd37e33c3201ca264d7a8725b69158dd85027488]{
 -- Page 233, Offset 14478.
 -- 「ひゃあ!?　アアアンタ、なにした、いま!?」
--- TRANSLATION HERE
+"¡¿%{i}Ahh%{/i}?!  T-T-Tú, ¡¿qué narices ha sido eso?!"
 }
 [sha:bb3edf3e7730b956fc40f39776d934adb3400de5]{
 -- Page 234, Offset 14479. Mods: @k, @e.
 -- 「ちょっとした消毒よぅ。
--- TRANSLATION HERE
+"Solo un poco de antiséptico.
 }
 [sha:23bb66f92ebc1ddac1f54f31d4c1253d9d08bcbc]{
 -- Page 234, Offset 14480. Glued. Mods: @x.
 -- んー、でもこれ開く必要ないわねぇ。固定しとけば明日には治ってるわぁ。阿良句つまんなーい」
--- TRANSLATION HERE
+// Mix de ambas
+Hmm, parece que no tengo que abrirte.
+ Mantenlo inmovilizado y mañana estará bien. ¡Qué aburriiidoo!"
 }
 [sha:12b8619956d70985210ee28ee036dd0e02a6b3cd]{
 -- Page 235, Offset 14481.
 -- 阿良句氏……阿良句博士は不満げに頭を掻くと、バッグから医療器具を取り出した。
--- TRANSLATION HERE
+// mix de ambas
+Arach... La %{i}doctora%{/i} Arach se rasca la cabeza decepcionada, y entonces saca equipo médico de su bolsa.
 }
 [sha:b59a90cbbf86f529846fd64ae21102d9aa322b75]{
 -- Page 235, Offset 14482.
 -- いま封を切った新品のビニール手袋をはめると、注射器の準備をする。
--- TRANSLATION HERE
+Se pone un nuevo par de guantes de látex y prepara una jeringuilla.
 }
 [sha:a31553a73fcc0d492e5e890c09332dfd3e919a14]{
 -- Page 236, Offset 14483.
 -- 「一応、痛み止めイっとくわねぇ？　必要ないンだけどぉ、当主チャンから念入りにって頼まれちゃったしぃ？」
--- TRANSLATION HERE
+"Te voy a dar unos analgésicos por si acaso, ¿vale?
+ No es estrictamente necesario, pero Matriarca-chan me dijo que fuera minuciosa, así que allá voy."
 }
 [sha:2f43cb0870adc7dc6a3c3719b9ef58e6dece943b]{
 -- Page 237, Offset 14484.
 -- 阿良句博士は流れるような手つきで、俺の左脚に注射をした。
--- TRANSLATION HERE
+Con un movimiento fluido la Dra. Arach introduce la aguja en mi pierna izquierda.
 }
 [sha:c78559d614aeeb0c6d41a49e903a5701fa870535]{
 -- Page 237, Offset 14485.
 -- その後、カカトをテーピングで固定し、包帯を巻いて治療は完了した。
--- TRANSLATION HERE
+Una vez hecho eso, me fija el talón y lo envuelve en vendas, completando así el tratamiento.
 }
 [sha:606cdb3ec24faa2eb98a9049bf8ccc8ae68e5b8f]{
 -- Page 237, Offset 14486.
 -- ……本当に見事な手際だった。
--- TRANSLATION HERE
+Ha hecho un trabajo brillante...
 }
 [sha:72845258f898c8809b61a756f1c6efb828176940]{
 -- Page 237, Offset 14487.
 -- 有間の家にいた頃お世話になっていた医院のじじいにも引けを取らない。この人、黙っていれば名医なんじゃないのか？
--- TRANSLATION HERE
+Está a la par con los cuidados que recibí del viejo de la clínica, quién se encargaba de mi cuando vivía con los Arimas.
+ Si se quedase callada seguramente sería una gran doctora.
 }
 [sha:6ac59120e4f3060d02042430c8f5ad15d81f07b5]{
 -- Page 238, Offset 14488.
 -- 「ありがとうございます。おかげで助かりました」
--- TRANSLATION HERE
+"Muchas gracias. Gracias a ti me siento mucho mejor."
 }
 [sha:1d1d95ce0e45595f743d1dc8f38dc986803e85e7]{
 -- Page 238, Offset 14489. Mods: @k, @e.
 -- 「いいのいいの。アタシ、しょせん無免かつ専門外だし？　本職はカガク者だし？
--- TRANSLATION HERE
+El placer es mío. Además, ni siquiera soy licenciada y esto no es mi área de especialidad. Soy más bien investigadora.
 }
 [sha:4cc43f5eb89dc608704245bb8f7d1cf2dfce9903]{
 -- Page 238, Offset 14490. Glued. Mods: @x.
 -- 志貴チャン、博士って呼んでくれたし？」
--- TRANSLATION HERE
+// Tl oficial.
+Y me llamaste 'Doctora' que estuvo superbien."
 }
 [sha:acde0b55ba9a0e7317e101d55d915d134e432b99]{
 -- Page 239, Offset 14491.
 -- 博士と呼ばれた事がよほど嬉しいらしい。
--- TRANSLATION HERE
+Parece que se le ha subido a la cabeza que la llamara 'Doctora'.
 }
 [sha:6e1dee1203851baf461755a9af989b1e61aea463]{
 -- Page 239, Offset 14492.
 -- ……この様子では、今まで秋葉たちに呼ばれた事はないのだろう。
--- TRANSLATION HERE
+// Tl oficial
+Juzgando por su reacción, asumo que Akiha y compañía nunca la han llamado así.
 }
 [sha:c353ee0b7ca1d515cf0b891950f0a26a2d8d2dfd]{
 -- Page 240, Offset 14493.
 -- 「けどぉ、志貴チャン、ずいぶんと体に無茶させたみたいねぇ。人体の運動性、その限界に挑んだ感じ？
--- TRANSLATION HERE
+// Mix de ambas tls
+"Pero sabes, Shiki-chan,
+ Realmente parece que hubieras sometido a tu cuerpo a un gran estrés.
+ Como, llegando al límite de lo humanamente posible.
 }
 [sha:0da21e6ef79a42b099bfec9d74b95df4ada4e4c4]{
 -- Page 240, Offset 14494.
 -- アタシ、そういう無茶苦茶なの大好きだから医者として止めないけどぉ」
--- TRANSLATION HERE
+Personalmente, me encanta ese tipo de comportamiento, así que aunque sea tu doctora no voy a detenerte."
 }
 [sha:eaa976cc52169bdea5c28112770466e4a069e618]{
 -- Page 240, Offset 14495.
 -- 「おや。医者は本職じゃないんでしょ？」
--- TRANSLATION HERE
+"¿Oh? ¿No eras más investigadora que doctora?"
 }
 [sha:c007bf8ff0d56b3cd5d5d59252715aaf157a5ebc]{
 -- Page 241, Offset 14496.
 -- 「きゃー、志貴チャンったら辛辣ー♡
--- TRANSLATION HERE
+"%{i}Kyaaa%{/i}, Shiki-chan, que duro eres ♡
 }
 [sha:3a84b7c930685eb34b549a9eb798fc607e7aeeeb]{
 -- Page 241, Offset 14497. Mods: @k, @e.
 -- おとなしそうに見えて根は冷血？　みたいな？　身体だけじゃなく精神もハイブリッドなの？
--- TRANSLATION HERE
+Pareces mono, pero en realidad eres bastante frío, ¿eh? ¿Eres híbrido tanto en cuerpo como en alma?
 }
 [sha:02fc15f161283317aaaf905f0154a49d67389910]{
 -- Page 241, Offset 14498. Glued. Mods: @x.
 -- ってゆーかぁ、貴方、自分の体についてどこまで理解しているの？」
--- TRANSLATION HERE
+Quiero decir, ¿cuánto entiendes de tu propio cuerpo en realidad?"
 }
 [sha:8cc7cd8c272d5b21cb0f65bed8778bc800a4b5de]{
 -- Page 242, Offset 14499.
 -- 「……えっと、貧血持ちの事ですか？」
--- TRANSLATION HERE
+"Um, ¿lo dices por la anemia?"
 }
 [sha:f16a15737fdaf7130a2e99126c38a94e7b3c1baf]{
 -- Page 242, Offset 14500.
 -- 「そっちじゃなくて、筋肉と骨格のこと。エンジンとフレーム、でもいいわ。触れた感じ、キミ、珍しい体してたから」
--- TRANSLATION HERE
+// Mix de ambas tls
+"No, eso no. Quiero decir tus músculos y estructura ósea.
+ El motor y el chasis de la máquina de carne que eres.
+ Tienes un cuerpo bastante raro, basándome en lo que he sentido."
 }
 [sha:d52425c4da1b2367075d7ce4250da6f8b911650f]{
 -- Page 243, Offset 14501.
 -- 「筋肉には瞬発力重視の速筋と、持久力重視の遅筋があるワケだけど、志貴チャンは速筋メイン。それはいいんだけどぉ……なんていうか、軽いのよねぇ。骨格じゃなくて骨そのものが軽いというか。なんか、生まれつき自重をごまかしてふわふわ浮く不思議チャン？みたいな？」
--- TRANSLATION HERE
+// Mix de ambas tls
+"Hay dos tipos de músculo: los de contracción rápida, que permiten movimientos explosivos,
+ y los de contracción lenta, que están diseñados para resistencia.
+ Tu composición es mayormente del primer tipo.
+ Que está bien... pero eres, como decirlo, superligero.
+ No solo es tu complexión sino tus mismos huesos.
+ Eres como un engendro de la naturaleza, como si tuvieras la habilidad de hacerte ligero y flotar como una pluma.
+ ¿Me explico?"
 }
 [sha:814a01be8f4c66bdb73dbbdba106771bb68a2b73]{
 -- Page 244, Offset 14502.
 -- 「なんですかそれ。骨が軽いって、鳥ですか、俺は」
--- TRANSLATION HERE
+"¿De qué estás hablando? Huesos ligeros... Que soy, ¿un pájaro?"
 }
 [sha:e9cec653574d62c812e1fb32acc64a1a0263c3aa]{
 -- Page 245, Offset 14503.
 -- 「あ、そう、そんな感じ！
--- TRANSLATION HERE
+"Sí, sí, ¡exacto!
 }
 [sha:0cc5d86621b5813b015696c659f48a196942895b]{
 -- Page 245, Offset 14504.
 -- こんなん自然には生まれないわよぅ？　よっぽど配合に凝ったのねぇ。志貴チャンはまさにサラブレッド、たった10秒を走る為だけに生まれてきた。
--- TRANSLATION HERE
+Esto no pasa por accidente, ¿sabes?
+ Requiere mucha preparación.
+ Eres como un purasangre, nacido para esprintar rápido durante diez segundos.
 }
 [sha:937713b33479259f242ec7752c4880c807919982]{
 -- Page 245, Offset 14505.
 -- うふふ。兄妹なのに、当主チャンとは正反対♡」
--- TRANSLATION HERE
+%{i}Ejeje%{/i}. Aunque seáis hermanos, eres exactamente lo opuesto a la señorita cabeza de familia. ♡"
 }
 [sha:38e255d18b35421db10f78b06d9c7f64bc97ddd7]{
 -- Page 245, Offset 14506.
 -- 「……秋葉と正反対、なんですか？」
--- TRANSLATION HERE
+"¿Soy lo opuesto... a Akiha?"
 }
 [sha:332182c573010e0caade46ecfca543163e280f74]{
 -- Page 246, Offset 14507.
 -- 「そ。遠野家の子はみーんな優秀かつオールドな遺伝子の配合、異種配合の賜物だけど、当主チャンはちょっと例外。というか特例。つーか奇蹟？
--- TRANSLATION HERE
+// Mix de ambas
+"Sip.
+ Todos en la familia Tohno tienen ADN antiguo de primera clase. Todo es resultado de elaborados cruces genéticos.
+ Aunque, Matriarca-chan es una excepción. ¿O un milagro?
 }
 [sha:7870cda23f7e232eab029dd0da8c1d53e1e665b3]{
 -- Page 246, Offset 14508.
 -- 先祖返り……まあ、<隔世|かくせい>遺伝ね。配合を始める前の、純粋なパターンを持っている。
--- TRANSLATION HERE
+// Mix de ambas
+Una reversión al ADN ancestral... también denominado como 'atavismo'.
+ Posee genes puros, anteriores al comienzo de los cruces.
 }
 [sha:47ab70f72ee706ada948b8b518229f65c55193c5]{
 -- Page 246, Offset 14509.
 -- そうねぇ。貴方が十年に一人の才能なら、あの娘は……十年、百年、千年、さて、何年に一人の逸材だと思う？」
--- TRANSLATION HERE
+// Mix de ambas
+Me pregunto.
+ Si tu eres el tipo de espécimen que aparece una vez cada diez años,
+ ¿cada cuanto aparece alguien como ella? ¿Cada década? ¿Cada siglo? ¿Cada milenio?"
 }
 [sha:50509bc45141a21b85b8b694a4194ec1481d92f8]{
 -- Page 247, Offset 14510.
 -- 阿良句博士は口端をゆがめながら、そんな話を振ってきた。
--- TRANSLATION HERE
+// Tl oficial
+Los bordes de sus labios se curvan hacia arriba mientras me hace la pregunta.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 247, Offset 14511. Mods: @k, @e.
@@ -401,15 +460,18 @@ Yo―――
 [sha:5bce250361e444e381fa0245000fc3b6b9b43901]{
 -- Page 248, Offset 42629. Choice.
 -- 十年に一人、とか？
--- TRANSLATION HERE
+// Tl oficial
+¿Una vez cada década?
 }
 [sha:d741eb2ed9c6a0446daba19fc16ed3366736a7ce]{
 -- Page 248, Offset 42630. Choice.
 -- 百年に一人、とか？
--- TRANSLATION HERE
+// Tl oficial
+¿Una vez cada siglo?
 }
 [sha:9543765ad3dbe172c95d862513db3d5cb1ff5bda]{
 -- Page 248, Offset 42631. Choice.
 -- 千年に一人、とか？
--- TRANSLATION HERE
+// Tl oficial
+¿Una vez cada milenio?
 }

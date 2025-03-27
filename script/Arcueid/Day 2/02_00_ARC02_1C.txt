@@ -32,7 +32,7 @@ Creo que la Academia Privada Femenina Asagami está bastante lejos de aquí... �
 [sha:e5c69569e7ee5c014ccdff5825bdaacab5383cf0]{
 -- Page 93, Offset 2843.
 -- ソファーの背に隠れながら、こっちこっち、と手招きしている。
-Está escondida detras del sofá, haciendome señas para que me acerque.
+Está escondida detrás del sofá, haciendo señas para que me acerque.
 }
 [sha:ec2fbfb89443a1af3a24a9a8d07fca3a55f408b4]{
 -- Page 94, Offset 2844.
@@ -43,14 +43,14 @@ Está escondida detras del sofá, haciendome señas para que me acerque.
 -- Page 94, Offset 2845.
 -- 「……違います……私は使用人であって使用人ではない曖昧な存在……なので、これを貴方にお返しするのです……」
 // No se si aquí vuelve a su trato formal porque esta roleando o no, asumo que si y se revisa.
-"No hay ninguna Kohaku aquí...
- Soy una existencia efímera, una criada, pero a la vez no...
+"Kohaku no está aquí...
+ Soy una existencia efímera, una sirvienta, pero a la vez no...
  Como tal, le devuelvo %{i}esto%{/i} a usted."
 }
 [sha:486ab2e426f6d2dbc80245ab4e8daf1db7a7a72f]{
 -- Page 95, Offset 2846.
 -- 琥珀さんは着物の<袖|そで>から、こそっと携帯電話を取りだした。
-Kohaku-sann saca un teléfono de la manga de su kimono de manera furtiva.
+Kohaku-san saca un teléfono de la manga de su kimono de manera furtiva.
 }
 [sha:44c7fe4cd07b6d6782c3578730cefa64f31bedbc]{
 -- Page 95, Offset 2847.
@@ -91,7 +91,7 @@ Cojo el móvil y lo escondo rápidamente en el bolsillo interior de mi uniforme.
 [sha:9b471abcb15b16c2d565f4277a5472c686ccf559]{
 -- Page 98, Offset 2854.
 -- 「あとはこちらもどうぞ。正門の認証カードです。
-"Por favor llevate esto también. Es una tarjeta para la puerta principal.
+"Por favor llévate esto también. Es una tarjeta para la puerta principal.
 }
 [sha:44152ee4240c683dee6bf1e73a83669d27f00fac]{
 -- Page 98, Offset 2855.
@@ -157,12 +157,12 @@ Hisui asiente, aparentemente satisfecha con mi explicación.
 [sha:c6f266b70d61c5a4015b0cb428e654a6fd0b568b]{
 -- Page 102, Offset 2867.
 -- 「え―――あ、うん、どうも」
-"Uh――ah, si, gracias."
+"Uh――ah, vale, gracias."
 }
 [sha:d0476d3a03465aefb203f5ffc9b0013cf0c5453d]{
 -- Page 103, Offset 2868.
 -- ……やっぱり、自分付きの使用人というのは照れくさい。
-Si... aun no me acostumbro a lo vergonzoso que es tener tu propia criada.
+Si... aun no me acostumbro a lo vergonzoso que es tener tu propia sirvienta.
 }
 [sha:aed71d1a422779a9264f5528b15b3f355c168be6]{
 -- Page 103, Offset 2869.
@@ -172,8 +172,8 @@ Hisui me mete prisa para levantarme del sofá.
 [sha:1eefaac9e2182a0ed1ecdcf58a7a4b275b54144c]{
 -- Page 103, Offset 2870.
 -- 予想外の闖入者がいたものの、七年ぶりの朝は問題なく過ぎていった。
-Aún con el invitado inesperado, 
- mi primera mañana aquí en siete años pasa sin ningún incidiente.
+Aún con el invitado inesperado,
+ mi primera mañana aquí en siete años pasa sin ningún incidente.
 }
 [sha:5bade079fec7f5852dee9a345d5d3204b5c403cd]{
 -- Page 104, Offset 2871.
@@ -190,7 +190,7 @@ La mansión Tohno está en el borde de la ciudad, en la cima de una colina a cie
 -- Page 104, Offset 2873.
 -- 高台には都市部には不釣り合いな森が広がっており、見ようによっては遠野の家は“森の入り口に作られた門”と取れなくもない。
 La colina está cubierta por un bosque que está fuera de lugar en una zona urbana.
- Dependiendo de como lo mires, la mansión Tohno puede verse como una puerta construida en la entrada del bosque.
+ Dependiendo de cómo lo mires, la mansión Tohno puede verse como una puerta construida en la entrada del bosque.
 }
 [sha:a628cefc77aa255e923b5c92bbe762d07787bfed]{
 -- Page 105, Offset 2874.
@@ -205,12 +205,13 @@ Si me doy prisa, puedo llegar a tiempo para la tutoría.
 [sha:043cc8d7da9217a1b51feff52130444def62776d]{
 -- Page 106, Offset 2876.
 -- 長い坂を下りていく。
-Bajo por la larga cuesta.
+Bajo la larga cuesta.
 }
 [sha:c8e298f0093b6f4c8d544ce864345c2a962caac7]{
 -- Page 106, Offset 2877.
 -- 今まで有間の家から電車で総耶駅まで通っていたから、この道順での登校は初めてだった。
-Siempre tomé el tren desde la casa de los Arima hasta la Estación Souya, así que esta es mi primera vez yendo a la escuela por esta ruta.
+// Corregido
+Siempre tomaba el tren desde la casa de los Arima hasta la Estación Souya, así que esta es mi primera vez yendo a la escuela por este camino.
 }
 [sha:1c157f33cb0b47b6898322cb0565b67df40fd93d]{
 -- Page 106, Offset 2878.
@@ -225,7 +226,8 @@ Me siento como un estudiante nuevo, aunque solo haya cambiado mi ruta.
 [sha:2a71462d0aea507f916bbc8dbd9edfa6ea494b74]{
 -- Page 107, Offset 2880.
 -- このあたりの家庭には総耶高校に通っている人間は少ないようだ。
-Parece que solo unas pocas personas de este vecindario van a a al Instituto Souya.
+// corregido
+Parece que solo unas pocas personas de este vecindario van al Instituto Souya.
 }
 [sha:ba0f0ef5d179078bdfdc44c4c15414b53feba72c]{
 -- Page 107, Offset 2881.
@@ -255,7 +257,7 @@ Las inquietantes noticias de los recientes eventos parecen no tener efecto sobre
 [sha:a41ecd0405273a8fb28bd5b0192abd0a2bfee9dc]{
 -- Page 109, Offset 2886.
 -- あるいは、不穏な空気を感じていたとしても、それが日々の予定を変える理由にはならないのか。
-Eso o se sienten un poco incómodos, pero no es suficiente como para que se desvien de su rutina diaria.
+Eso o se sienten un poco incómodos, pero no es suficiente como para que se desvíen de su rutina diaria.
 }
 [sha:f80e254729b6d6b5b4d8b5238161099a0182d32b]{
 -- Page 110, Offset 2887.

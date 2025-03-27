@@ -170,7 +170,7 @@ Estoy empezando a creer que lo que dicen es cierto. Quizá realmente %{i}fue%{/i
 [sha:771833c9624ecf7125a650e552773cda911b8da6]{
 -- Page 82, Offset 4161.
 -- 「兄さんはまだ屋敷に慣れていないから、そんな質の悪い夢を見たんでしょう。
-"Estoy segura de que tu sueño es un efecto secundario de no haberte habituado a la mansión aún.
+"Estoy segura de que tu sueño es un efecto secundario por no haberte habituado aún a la mansión.
 }
 [sha:74846ae0910ec70c8d0221e156c93309f9d98c82]{
 -- Page 82, Offset 4162.
@@ -197,5 +197,5 @@ Akiha deja la sala de estar elegantemente.
 -- Page 84, Offset 4166.
 -- 主人を送るため、琥珀さんも俺におじぎをしながら退室していった。
 Tras una pequeña reverencia,
- Kohaku-san también deja la sala de estar para ir a despedira su amo.
+ Kohaku-san también deja la sala de estar para ir a despedir a su amo.
 }

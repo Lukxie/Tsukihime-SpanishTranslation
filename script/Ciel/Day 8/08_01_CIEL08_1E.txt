@@ -46,7 +46,7 @@
 [sha:e882e9a6e7f85482567785f420ce79024aff0641]{
 -- Page 135, Offset 18614.
 -- 「……………？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:1de30bc86dbee3419674ee76ba4b378af3bf8762]{
 -- Page 135, Offset 18615.
@@ -181,7 +181,7 @@
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 144, Offset 18641.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:9eabfa8cdc2cf246f5d0492a22628e5d7ce7774b]{
 -- Page 144, Offset 18642.

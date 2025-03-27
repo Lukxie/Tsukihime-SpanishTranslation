@@ -1,382 +1,405 @@
 [sha:1d9cd3aeebb17243441bb8f1e8bab9f563357d16]{
 -- Page 10019, Offset 25935.
 -- が、それを確かめるより前に。
--- TRANSLATION HERE
+Tampoco tengo oportunidad de comprobarlo.
 }
 [sha:f3c0071b9c0001bead33054bb53fb021e29c365f]{
 -- Page 10019, Offset 25936.
 -- 目の前で激しい炸裂音が響いて、突風に<煽|あお>られるように、アルクェイドの体は吹っ飛ばされた。
--- TRANSLATION HERE
+Un ruidoso crack rasga el aire frente a mi,
+ mandando a Arcueid por los aires.
 }
 [sha:e676279c8f6e9f4e7ed2be8b025f1c54ecb48c4f]{
 -- Page 626, Offset 25937.
 -- 「うっわあ、恐かったあ……！　いちかばちかでちょっかいだしたけど、反撃されなくて助かったぁ……！」
--- TRANSLATION HERE
+"¡%{i}Uwaaah%{/i}, que miedo! ¡Era todo o nada; gracias a dios que no ha contraatacado!"
 }
 [sha:e5825ed63787bd96f80045ee427b7a1ee314b4e8]{
 -- Page 626, Offset 25938.
 -- 「ノエル先生……!?」
--- TRANSLATION HERE
+"¡¿Noel-sensei?!"
 }
 [sha:9a5e0b48a7721ffccbd79f8f0082058de9dbad62]{
 -- Page 627, Offset 25939. Mods: @k, @e.
 -- 「はあい、こんばんは！
--- TRANSLATION HERE
+"Hiiii, ¡buenas noches!
 }
 [sha:1ef721732d818f386d88d2a6e426fa338dbd9d0d]{
 -- Page 627, Offset 25940.
 -- でもごめんなさい、ゆっくり話している暇はないの！」
--- TRANSLATION HERE
+Lo siento, ¡ahora no tengo tiempo para hablar!"
 }
 [sha:81b3359a8a7e700eb0309e01ab51e6439ab5251d]{
 -- Page 627, Offset 25941.
 -- ノエル先生は俺のとなりまでやってくると、吹き飛ばしたアルクェイドに視線を向ける。
--- TRANSLATION HERE
+Noel-sensei se pone a mi lado, pero sus ojos siguen fijos donde mandó a Arcueid.
 }
 [sha:c018389f2295145a11f84f977750ebceea02df95]{
 -- Page 628, Offset 25942.
 -- ……アルクェイドは、無事だった。
--- TRANSLATION HERE
+Arcueid está ilesa...
 }
 [sha:e011b8e274741862011ed595044980ca71c3a6fa]{
 -- Page 628, Offset 25943.
 -- 10メートル近く吹っ飛ばされていながら傷ひとつない。
--- TRANSLATION HERE
+A pesar de haber salido volando unos diez metros, no tiene un rasguño.
 }
 [sha:9cf348d542f85dc76ffc0747bc101fd9b8291934]{
 -- Page 629, Offset 25944.
 -- 「わた………し」
--- TRANSLATION HERE
+"Yo..."
 }
 [sha:5942332069016b2c926d738ec45159fca57322dd]{
 -- Page 629, Offset 25945.
 -- アルクェイドは呆然としている。
--- TRANSLATION HERE
+Arcueid se tambalea por el shock.
 }
 [sha:70ddaf202f8eaf3935239dc676d3025989be3e80]{
 -- Page 629, Offset 25946.
 -- 俺も―――何をするべきなのか、考える事さえできない。
--- TRANSLATION HERE
+Tal y como estoy――ni siquiera puedo pensar en que debería hacer en esta situación.
 }
 [sha:fbf6e315b8c039439186c266f3c13ef24e61a5d9]{
 -- Page 629, Offset 25947.
 -- そこへ。
--- TRANSLATION HERE
+Mientras tanto...
 }
 [sha:fb7e9d118e40d0337e18854581e620283802432b]{
 -- Page 630, Offset 25948.
 -- 「おっと、はいはい、ダメよ志貴クン。
--- TRANSLATION HERE
+"Oops, no seas impaciente Shiki-kun.
 }
 [sha:2a1fff0625151d2aeb584687828a546fc5d72f6f]{
 -- Page 630, Offset 25949.
 -- アレを追い返したら次はキミなんだから。悪いけど、そこで大人しくしていてね♡」
--- TRANSLATION HERE
+En cuanto acabe con ella vas tú.
+ Lo siento, aguanta un segundo, vale ♡"
 }
 [sha:70a544ce909034266812004d9aca986952265be1]{
 -- Page 631, Offset 25950.
 -- 「!?」
--- TRANSLATION HERE
+"¡¿%{i}Uwah%{/i}?!"
 }
 [sha:37c979662d381f50050912144602ae5a8b2878a1]{
 -- Page 631, Offset 25951.
 -- 目の前に白い壁が立ち上がる。
--- TRANSLATION HERE
+Una barrera blanca se erige frente a mi.
 }
 [sha:3788732279f092d636a68475f18fd28941f55424]{
 -- Page 631, Offset 25952.
 -- いつのまにか、俺の周りには三本の剣が刺さっていた。
--- TRANSLATION HERE
+En un instante, tres espadas han perforado el suelo a mi alrededor.
 }
 [sha:2035fbd0719080715e3ac223996798303a991cba]{
 -- Page 631, Offset 25953.
 -- 剣はそれぞれを支点にして三角形をかたちづくり、その中にいる俺を、光の壁で閉じこめている―――
--- TRANSLATION HERE
+Juntas forman un triángulo, conmigo en el centro, atrapado en la barrera de luz.
 }
 [sha:bee31338bc835f93d99af1c5261eb87c1644234b]{
 -- Page 632, Offset 25954.
 -- 「ふふ、師匠譲りの<秘蹟|ひせき><黒鍵|こっけん>、聖堂よ。
--- TRANSLATION HERE
+"%{i}Jeh-jeh%{/i}. Contempla, el Sacramento de la Llave Negra que me entregó mi maestro――el Templo.
 }
 [sha:87e5a965a56ff711a05355c8a61885929944bb50]{
 -- Page 632, Offset 25955.
 -- あ、くれぐれも壁には触れないようにね？　触ったら塩の柱になっちゃうから。ま、キミの手が塩化しようが、わたしにはどうでもいいんだけど。
--- TRANSLATION HERE
+Ah, y no intentes tocar las paredes, ¿vale?
+ O te convertirás en un pilar de sal.
+ Bueno, tampoco es que me importe si tus manos se salan o no.
 }
 [sha:6be579cec796687421b685057587144fa3a58fbb]{
 -- Page 632, Offset 25956.
 -- それより、いま問題なのは―――」
--- TRANSLATION HERE
+En todo caso, ahora el problema es―――"
 }
 [sha:0c55177686a8d31f2b051cfde81997293d68a6f4]{
 -- Page 633, Offset 25957.
 -- 「志、貴―――？」
--- TRANSLATION HERE
+"¿Shi...ki?"
 }
 [sha:3fcd9eec8a06ee086726ab5fd6e724e373711291]{
 -- Page 633, Offset 25958.
 -- アルクェイドが立ち上がる。
--- TRANSLATION HERE
+Arcueid se levanta.
 }
 [sha:3f29ec34bf4a46946e182ad7d26adc443e42929b]{
 -- Page 633, Offset 25959.
 -- 壁に閉じこめられた俺を見たあと、そのとなりにいる修道服の女に視線を移す。
--- TRANSLATION HERE
+Tras verme encerrado entre las paredes de luz,
+ dirige su mirada a la mujer vestida de monja a mi lado.
 }
 [sha:08555c119cf1a7f4d65ceadfc05d669e8082e917]{
 -- Page 634, Offset 25960.
 -- 「……問題は、不意打ち食らっても無傷の怪物よね。
--- TRANSLATION HERE
+"Ahora el problema es... que ese monstruo sigue totalmente ilesa tras mi ataque sorpresa...
 }
 [sha:d3e34036691e56ff4fc197419bf75c91d025aada]{
 -- Page 634, Offset 25961.
 -- チッ。わたし程度の鉄甲作用じゃ通らないってワケ」
--- TRANSLATION HERE
+%{i}Tsk%{/i}. Con que mi Placa de Hierro no es lo suficientemente fuerte."
 }
 [sha:b1339c82ce7c25cf7d6bd5bd7510a8cbc487c3a6]{
 -- Page 634, Offset 25962.
 -- 「代行者―――」
--- TRANSLATION HERE
+"Un Ejecutor―――"
 }
 [sha:df397c42ba273771e09a6ddfb9e3bef301af16a4]{
 -- Page 634, Offset 25963.
 -- アルクェイドの気配が変わる。
--- TRANSLATION HERE
+El aura de Arcueid cambia.
 }
 [sha:8aaeea918f7c3d7510448fcb44ef4a50cf67d3f3]{
 -- Page 634, Offset 25964.
 -- その眼が。
--- TRANSLATION HERE
+Sus ojos―――
 }
 [sha:f8b4b11aebe93da2e2eb732783e489cfbeffa164]{
 -- Page 634, Offset 25965.
 -- 渦巻くような殺気となって、修道服の女を射貫いている。
--- TRANSLATION HERE
+Se retuercen con hostilidad,
+ amenazando con perforar el corazón de la monja.
 }
 [sha:a6df2d09f346101f700f40a1ba7732e3be3a5668]{
 -- Page 635, Offset 25966.
 -- 「……なにを、してるの……？」
--- TRANSLATION HERE
+"¿Qué... te crees que haces?"
 }
 [sha:1702ebacdf91f8cba8dd4698584d4aaff74c2307]{
 -- Page 635, Offset 25967.
 -- 「っっっ……！　無理、やっぱ無理！
--- TRANSLATION HERE
+"¡%{i}Eek%{/i}! ¡No puedo, sabía que no podía hacerlo!
 }
 [sha:584e0b2fed74008bf68ebdd58d9d1a443f3e63f5]{
 -- Page 635, Offset 25968.
 -- わたしじゃアレどうにもできなーーーい！」
--- TRANSLATION HERE
+¡No puedo hacer nada contra esta cooosaaa!"
 }
 [sha:80f7d27f5b0edbd94cf6aa8f9787ee5131983e0b]{
 -- Page 636, Offset 25969. Mods: @k, @e.
 -- 「“うるせえ、死ぬ気でいけ肉体労働。
--- TRANSLATION HERE
+"Callate. Peones como vosotros debéis trabajar aunque os cueste la vida.
 }
 [sha:49318889ec83d5cd119a59969d98b3b5e2064851]{
 -- Page 636, Offset 25970.
 -- 怪物相手に体を張るのがテメエらの仕事だろうが”」
--- TRANSLATION HERE
+Se supone que luchar contra monstruo es vuestro puto trabajo, ¿no?"
 }
 [sha:7c168ecf191decd5ee00a6da17fa1e080c37d878]{
 -- Page 636, Offset 25971. Mods: @k, @e.
 -- 「あわわ、あわわわわ！　ああもう、後でぜぇっっったい、
--- TRANSLATION HERE
+"¡%{i}Awawa, awawawawa%{/i}!
+ Vale, bien, pero %{i}prométeme%{/i} que―――
 }
 [sha:9dfd4d39bb7251e11fb47abf8e77f5576d421066]{
 -- Page 636, Offset 25972.
 -- <枢機卿|すうききょう>に御目通りさせてくださいねーーー！」
--- TRANSLATION HERE
+tras esto me conseguirás una audiencia con el Cardenal, ¡¿vale?!"
 }
 [sha:ab27cc5e2402a65346d0536f980562b4246246c2]{
 -- Page 637, Offset 25973.
 -- 背中を押されたように、つんのめりながらアルクェイドへと飛びかかる修道服の女。
--- TRANSLATION HERE
+La monja se lanza hacia Arcueid,
+ como si la estuvieran empujando por detrás.
 }
 [sha:cf2dcd0f385cb5227e10a2ff2fd38f32a1cf7e8d]{
 -- Page 637, Offset 25974.
 -- ……まるで話にならない。
--- TRANSLATION HERE
+El resultado está bastante claro.
 }
 [sha:0dc6c8889546343ec61a2bdc35bd95e8bdb59cbc]{
 -- Page 637, Offset 25975.
 -- あんな突進ではアルクェイドを止められる筈がない。
--- TRANSLATION HERE
+Hay cero posibilidades de que algo así alcance a Arcueid.
 }
 [sha:fe1a8b51f6335dd1ae8ea97960b2562d6865540d]{
 -- Page 638, Offset 25976.
 -- 「志貴を―――放して……！」
--- TRANSLATION HERE
+"¡Suelta a――Shiki!"
 }
 [sha:66f0cccc9ad10b2fec93b9a254807def20190668]{
 -- Page 638, Offset 25977.
 -- 事実、アルクェイドはこちらに走りながら、虫を払うように片手を振るって―――
--- TRANSLATION HERE
+Arcueid corre hacia nosotros, palma abierta, como si fuera a reventar una mosca―――
 }
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 639, Offset 25978.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:bad56bcb1c6aa52a78ad55a8b29a3851d2a6ca66]{
 -- Page 639, Offset 25979.
 -- 「うっそぉ！？」
--- TRANSLATION HERE
+"¡¿Cómo?!"
 }
 [sha:3eb9905a96ea120d1fa50ea2b75c5bdc845280bf]{
 -- Page 640, Offset 25980.
 -- な……何だあれ、あんな腰の引けている突進で、アルクェイドを止められるのか……!?
--- TRANSLATION HERE
+¿Qu-Qué? ¡¿Cómo ha podido parar a Arcueid con un ataque tan lánguido?!
 }
 [sha:6b6570277053785c73ff635655d62d1779d7afec]{
 -- Page 641, Offset 25981. Mods: @k, @e.
 -- 「おう、やればできるじゃねえか。給料分しっかり働けよ。
--- TRANSLATION HERE
+"Eh, ¿ves? Si quieres puedes hacerlo. Venga, gánate el pan.
 }
 [sha:4bdef7c386d7190afaa61db9ca3fb1a8d4ceb0d8]{
 -- Page 641, Offset 25982.
 -- テメエらの食い扶持も<善|タ><意|ダ>じゃねえんだからな」
--- TRANSLATION HERE
+Ya sabes, no hay comida gratis para vosotros, cabrones."
 }
 [sha:42f67e9971501c89138e1f3629aebfb9048fd242]{
 -- Page 642, Offset 25983.
 -- 真横から、流暢だが乱暴な日本語が聞こえた。
--- TRANSLATION HERE
+Justo a mi lado, escucho un Japonés fluido y malsonante.
 }
 [sha:8b61480e3406358384da81a8cb5f11f8de41cfb6]{
 -- Page 642, Offset 25984.
 -- 身動きがとれない状態で視線を向ける。
--- TRANSLATION HERE
+Incapaz de moverme de donde estoy, me giro hacia el orígen.
 }
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 642, Offset 25985.
 -- そこには、
--- TRANSLATION HERE
+Allí―――
 }
 [sha:0b08a1b711cc0d8feb11d9e735a22cb4dfd85f2e]{
 -- Page 642, Offset 25986.
 -- 以前、遠野邸の前で見た外国人の子供の姿があった。
--- TRANSLATION HERE
+Está ese chico extranjero que vi frente a la mansión Tohno hace poco.
 }
 [sha:a26eefd729676c614e37ff9e1432364a777c8370]{
 -- Page 643, Offset 25987.
 -- 子供の両手には籠手のような物がつけられている。
--- TRANSLATION HERE
+Lleva puesto en sus manos algo parecido a un guantelete.
 }
 [sha:a3d2048a8f7e84e133ea8d8f584705424333d0f6]{
 -- Page 643, Offset 25988.
 -- カタカタと音をたてながら、波打つように上下する五指。
--- TRANSLATION HERE
+// Mix de tls
+Sus dedos se mueven violentamente de arriba a abajo,
+ haciendo un click mecánico a cada movimiento.
 }
 [sha:45d137232d6c55b5c7bb20e2bf817904886e1b2c]{
 -- Page 643, Offset 25989.
 -- どことなく古いタイプライターを思わせる。
--- TRANSLATION HERE
+Por alguna razón, me recuerdan a una máquina de escribir antigua.
 }
 [sha:2af78b6beb34809d3444dc0251e89a70d21dd06a]{
 -- Page 644, Offset 25990.
 -- 「あ？　なに見てんだガキ。こんなの珍しくもねえだろ。<操り|マリオ><人形|ネット>の一つも知らねえとか、ふざけたコトぬかすなよ。勤勉なのが日本人の美徳だろうが」
--- TRANSLATION HERE
+"¿Hm? ¿Qué miras, niñato? Esto no es tan raro, ¿sabes?
+ Y no me vengas con mierdas de que no has visto una marioneta antes.
+ Pensaba que los japoneses valorabaís la diligencia."
 }
 [sha:30ec98e748139f4a4de3a26c44bbb7c8402b6bee]{
 -- Page 645, Offset 25991.
 -- 俺に話しかけているらしい。
--- TRANSLATION HERE
+Parece que me está hablando.
 }
 [sha:d04fc47115fb2f273c0c7257c020f38818aed139]{
 -- Page 645, Offset 25992.
 -- しかし……マリオネット、というのはあれだろうか。
--- TRANSLATION HERE
+Pero... ¿nuestra idea de marioneta es la misma?
 }
 [sha:4ef2bee1cfe60989275608f4fb2543f153e8d3c9]{
 -- Page 645, Offset 25993.
 -- 関節のある木製の人形に糸を繋げ、上から吊るし、操者の手の動きだけで“生きている”ように見せる大道芸。
--- TRANSLATION HERE
+Pensaba que eran una de esas muñecas de madera articuladas con hilos;
+ las que los actores callejeros suelen manipular desde arriba para dar la impresión de que están 'vivas'.
 }
 [sha:e03b2921a97ee892d6e664a7aaa57d143dfe6357]{
 -- Page 646, Offset 25994. Mods: @n.
 -- 「チ、２分もたねえのかあの三下。……仕方ねえ、ここからは口八丁か。
--- TRANSLATION HERE
+"%{i}Tsk%{/i}, esta inútil no aguanta ni dos minutos...
+ Ya sabía yo, joder. Supongo que toca hablarlo.
 }
 [sha:0819415b8baa31d472380275168d825499a8ea42]{
 -- Page 646, Offset 25995. Glued. Mods: @k, @e.
 -- ―――
--- TRANSLATION HERE
+――
 }
 [sha:4a84c0d437fd80a5ae1a30b0da010258ea4d225d]{
 -- Page 646, Offset 25996. Glued. Mods: @x.
 -- おい、下がれノエル！　首ねじ切られるぞ！」
--- TRANSLATION HERE
+¡Ey! ¡Noel, retírate! ¡O te vas a quedar sin puta cabeza!"
 }
 [sha:a7911165fbfec600d4d801e23e33701029bfe70d]{
 -- Page 647, Offset 25997.
 -- 一際大きな打ち合い。
--- TRANSLATION HERE
+Tras un feroz enfrentamiento, la monja se retira rápidamente.
 }
 [sha:de754bbb129f8ec8ccbd40300b1661d00363645b]{
 -- Page 647, Offset 25998.
 -- 修道服の女は逃げるように後退し、アルクェイドは肩で息をしながら光の壁―――俺のいる方へと向き直る。
--- TRANSLATION HERE
+Arcueid, exhausta y jadeando,
+ se gira a la barrera de luz――hacia mi.
 }
 [sha:6d38d691e3ab533025faa83608c4dfb21ff28798]{
 -- Page 648, Offset 25999.
 -- 「“はぁ―――は、あ―――………！”」
--- TRANSLATION HERE
+"¡%{i}Ha――ha, ah%{/i}―――!"
 }
 [sha:913cc0249fce42c27bb1673cba5f7926702cd86b]{
 -- Page 648, Offset 26000.
 -- <爛|らん>と輝く赤い瞳。
--- TRANSLATION HERE
+Sus ojos emiten un rojo brillante.
 }
 [sha:3d57f89e604d2d9ebd1b1a8ed366ebc72dd09e8a]{
 -- Page 648, Offset 26001.
 -- アルクェイドは息を乱しながら、大型の肉食動物のように身を屈め、ここまで一足で跳びかかろうと前に出るが……。
--- TRANSLATION HERE
+Respiración irregular, espalda arqueada, como si fuera un depredador listo para abalanzarse.
+ Parece que quiere acortar la distancia en un solo movimiento, pero―――
 }
 [sha:f7514b9e2d2658b91100f1d773e028b16015b3c3]{
 -- Page 649, Offset 26002.
 -- 「あーあ、ひでえもんだ。そこいらのグールと大差ねえじゃねえか。それでも最後の真祖かよ、姫様。ラウレンティスのジジイが見たらさぞ失望するだろうぜ」
--- TRANSLATION HERE
+"Vaya jodido desastre. A este paso, no eres muy distinta a un Ghoul de mierda, Princesa.
+ ¿Y se supone que eres el último Verdadero Ancestro?
+ Si el viejo Laurentis te viera estaría decepcionado."
 }
 [sha:6ebf4d94b5f13736638f71348eebaf3fec5ee02d]{
 -- Page 649, Offset 26003.
 -- 「―――なん、ですって？」
--- TRANSLATION HERE
+"¿Qué... acabas de decir?"
 }
 [sha:5a68fbf680769f8a4dbdda61d0ff22518b8e8850]{
 -- Page 650, Offset 26004.
 -- アルクェイドの瞳に理性が戻る。
--- TRANSLATION HERE
+La cordura vuelve a los ojos de Arcueid.
 }
 [sha:9ccfdfc08daf62de1a77f3c2d876549af0614fd4]{
 -- Page 650, Offset 26005.
 -- それを好機と見たのか、俺の横にいた子供は一歩前に出て、白い吸血鬼と対峙した。
--- TRANSLATION HERE
+El niño a mi lado debe haber visto esto como su oportunidad,
+ ya que da un paso al frente y confronta al vampiro de blanco.
 }
 [sha:5a11fd9ccde059a6c1af49954478e22fbfcb52cc]{
 -- Page 651, Offset 26006.
 -- 「お初にお目にかかる。<東方慰問|とうほういもん>司祭代行、マーリオゥ・ジャッロ・ベスティーノだ。
--- TRANSLATION HERE
+"Es un placer conocerte. Soy Mario Gallo Bestino, Sacerdote en funciones de la Misión Oriental.
 }
 [sha:995636247710f004069898009063f8b0deb49ff8]{
 -- Page 651, Offset 26007.
 -- 役職の高さにはつっこまないでくれ。言いたかねえがジジイの何人目かの、便宜上の養子ってヤツでね」
--- TRANSLATION HERE
+Y no empieces a darme la chapa sobre lo alto que es mi rango.
+ No me gusta hablar de ello, pero soy uno de los niños que mi viejo adoptó por conveniencia."
 }
 [sha:055cdd97ae77c21fdcfad12736e2d5fcac2da6ef]{
 -- Page 651, Offset 26008.
 -- 「……そう。この国の、代行者の司令塔？」
--- TRANSLATION HERE
+"Ya veo... ¿supongo que estás a cargo de los Ejecutores de este país?"
 }
 [sha:e78a98a0a728c98a8282b306434e88cd671a3327]{
 -- Page 652, Offset 26009.
 -- 「ああ、赴任したばかりだがな。
--- TRANSLATION HERE
+"Sí, aunque acabamos de llegar.
 }
 [sha:119aa26eb0024aeeb352826d4d4990a56d293508]{
 -- Page 652, Offset 26010.
 -- 親の七光りだろうと役職は役職だ。オレのシマで勝手はさせねえ。―――特に、真祖が魔堕ちする不始末なんざ、クソを食うよりご免でね」
--- TRANSLATION HERE
+// Mix de tls
+Nepotismo o no, aún tengo que hacer mi trabajo, supongo.
+ No voy a dejar nadie campar a sus anchas en %{i}mi%{/i} isla――En especial si es un jodido Verdadero Ancestro sucumbe al mal.
+ Antes me como una mierda que lidiar con eso."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 653, Offset 26011.
@@ -386,32 +409,37 @@
 [sha:4350956eb6906803941677f5b9c0018db8cc810b]{
 -- Page 653, Offset 26012.
 -- アルクェイドから戦意が消える。
--- TRANSLATION HERE
+Arcueid pierde su espíritu de lucha.
 }
 [sha:30abc5eecbd659959a22aceedcd895255a37afef]{
 -- Page 653, Offset 26013.
 -- いや……あれは恐れ、だろうか。
--- TRANSLATION HERE
+No... quizá sea más bien miedo.
 }
 [sha:e9869b65d6dafbda68fc093d3f9f3fe121d79a8a]{
 -- Page 654, Offset 26014.
 -- 「ようやく自覚したか。このガキの血を吸って殺そうとしたんだよ、アンタは。
--- TRANSLATION HERE
+"%{i}Finalmente%{/i} te das cuenta. Ibas a chuparle la sangre hasta dejarlo seco.
 }
 [sha:4d796d4ec6e3a7f9435712b20b453c3199edd116]{
 -- Page 654, Offset 26015.
 -- 真祖だなんだと偉ぶっておいても所詮は吸血種だな？　同族である吸血鬼を滅ぼして回ろうが、同じ怪物である事に変わりはねえってワケだ！」
--- TRANSLATION HERE
+Los Verdaderos Ancestros os creeis jodidamente especiales, pero no sois distintos de cualquier otro chupasangre, ¿no?
+ ¡Aunque vayáis exterminando otros vampiros, nada de eso cambia que sois monstruos como ellos!"
 }
 [sha:0e78ea292ebe710be813f9569198265df411e3d6]{
 -- Page 654, Offset 26016.
 -- 「ちが―――わたしは、志貴を殺そうだなんて、思ってない」
--- TRANSLATION HERE
+"Yo... jamás pensaría en matar a Shiki."
 }
 [sha:4f2df6cd85f5c157b5c9baa4b443a86bc9206832]{
 -- Page 655, Offset 26017.
 -- 「なにカマトトぶってやがる。殺意の話じゃねえだろ。生態として当然の話だろ。いるだけで迷惑な生き物だって自覚はどこにいった？　このガキがアンタの本性を見てどんな声をあげたのか、理解できなかったワケじゃねえよな？」
--- TRANSLATION HERE
+"Venga ya, no te hagas la tonta.
+ No hablo de asesinar.
+ Hablo de la naturaleza siguiendo su curso.
+ Que estés aquí de por si ya es un problema. Pensaba que eras consciente de ello.
+ ¿O no has escuchado el puto grito del chico cuando ha visto lo que eres de verdad?"
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 655, Offset 26018.
@@ -421,37 +449,43 @@
 [sha:44866b71b6471e2af442f9c45b009183854c4864]{
 -- Page 656, Offset 26019.
 -- 「本気で我が眼を疑うぜ。痛いところを突かれれば逆ギレかよ。ジジイ曰く冷徹な兵器だって話だったが、まるっきり不出来な人間じゃねえか。
--- TRANSLATION HERE
+"No puedo creer lo que veo.
+ Sí, venga cabreate conmigo porque lo que digo sea jodidamente cierto.
+ Mi viejo siempre decía que eras una máquina de matar fría y despiadada,
+ pero parece que al final, solo eres otra inepta más.
 }
 [sha:2927a6f6cfec21f78ad0da6c4ab823a80838379d]{
 -- Page 656, Offset 26020.
 -- ……まあいい。その眼。その凶眼をアンタはそこのガキに向けたんだよ。ゼイゼイとみっともなく、男に媚びる娼婦みてえにな。その時の感想を本人に聞いてやろうか？」
--- TRANSLATION HERE
+Bueno, como sea.
+ Esos eran ojos――que dirigiste a ese chico, eran ojos llenos de mal.
+ Junto a esos resoplidos indecentes... como si fueras una fulana ligando con un hombre.
+¿Que tal si le preguntamos sobre la experiencia, eh?"
 }
 [sha:9196272e3bff1488c028a9048803f46a87795a49]{
 -- Page 657, Offset 26021.
 -- 少年……マーリオゥがようやく俺に視線を向ける。
--- TRANSLATION HERE
+El niño――Mario――finalmente se gira hacia mí.
 }
 [sha:be96beb3b4d392cf1055e6a0f503af2e561cb099]{
 -- Page 657, Offset 26022.
 -- その眼差しの鋭さに息を呑む。
--- TRANSLATION HERE
+Su mirada es tan afilada que me deja sin palabras.
 }
 [sha:31a37c3278da83bcaec2677a51c429ec79781ae8]{
 -- Page 657, Offset 26023.
 -- 口汚さとは裏腹に、この少年はなんていうか―――そう、公正さに満ちている。
--- TRANSLATION HERE
+A pesar de lo mal hablado que es, este chico... como decirlo――rebosa de justicia.
 }
 [sha:b6c89d02a72d6d2023552ef61e6bc55b019da23c]{
 -- Page 658, Offset 26024.
 -- 「出番だぜトオノ。感想を聞かせてやれ。
--- TRANSLATION HERE
+"Es tu turno, Tohno. A ver, dinos lo que piensas.
 }
 [sha:67bb4b5761b30b58439f6f44bcd38823cb914209]{
 -- Page 658, Offset 26025.
 -- ボク、あやうく一口で食べられるところでした、ちびりそうなぐらい怖かったですぅ、てな！」
--- TRANSLATION HERE
+¡Casi me devoran entero!' '¡Tenía tanto miedo que casi me meo encima!' ¿Algo así?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 658, Offset 26026.
@@ -461,17 +495,17 @@
 [sha:30feed9ccc050036beacbdd2e1d19e7bead7557a]{
 -- Page 658, Offset 26027.
 -- そんな事はない、と怒鳴ろうとして、言葉を止める。
--- TRANSLATION HERE
+Casi grito que eso no es cierto, pero me detengo.
 }
 [sha:b6d28bcdb642a976a92cca1bedf13d32c1b45445]{
 -- Page 659, Offset 26028.
 -- ……それは、嘘だ。
--- TRANSLATION HERE
+Porque sería mentira.
 }
 [sha:d702ac29d1258d2a96ad4e96700ff16e6566c9f3]{
 -- Page 659, Offset 26029.
 -- 事実、俺は恐怖した。それを誤魔化す事は、嘘をつくよりアルクェイドを傷付ける事になる―――
--- TRANSLATION HERE
+La verdad es, que estaba asustado. Intentar ocultarlo haría más daño a Arcueid que la verdad misma.
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 660, Offset 26030.
@@ -481,27 +515,29 @@
 [sha:ff72047ad2da6b9268d5b0c6acbe8329730bec9b]{
 -- Page 660, Offset 26031.
 -- 辛そうに視線を逸らすアルクェイド。
--- TRANSLATION HERE
+Arcueid aparta la mirada como si estuviera dolorida.
 }
 [sha:eb7992000aa398127518a0c4ccabf71de5c3c9cf]{
 -- Page 661, Offset 26032.
 -- 「司祭代行の言う通りです。下がりなさい吸血鬼。あなたのような怪物が人間と共にいるなんて、許されるとでも思っていたのですか」
--- TRANSLATION HERE
+"Ya has escuchado al Sacerdote en funciones. Atrás, vampiro.
+ ¿Pensabas que dejaríamos a un monstruo como tu andar por ahí con humanos?"
 }
 [sha:174132ce230a3545527099c3cbe9ccb39b3bcca2]{
 -- Page 662, Offset 26033.
 -- 「力に任せて人間を従わせる―――フン。
--- TRANSLATION HERE
+"Forzar a un humano a servirte――%{i}Hmph%{/i}.
 }
 [sha:8752d83ebb651cc764c717abcf2150f6b0e11d7b]{
 -- Page 662, Offset 26034.
 -- 吸血鬼らしい下卑た考えだけど、そうはさせないわ。
--- TRANSLATION HERE
+Una idea despreciable típica de un vampiro,
+ pero no te vas a salir con la tuya.
 }
 [sha:be46b2c54207d5236d42fa488ecf4e3f2ad25768]{
 -- Page 662, Offset 26035.
 -- わたしたちに感謝しなさい、志貴クン。あやうく吸血鬼にされるところだったんだから」
--- TRANSLATION HERE
+Tendrías que estar agradecido, Shiki-kun. Estabas a %{i}esto%{/i} de volverte un vampiro."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 663, Offset 26036.
@@ -511,172 +547,188 @@
 [sha:7b16b32ca8de096a4d82f3f31a1f4aca2e0c2941]{
 -- Page 663, Offset 26037.
 -- いや。それは違う。俺が怯えたのは本当だ。弁明できない事実だ。けど、それだけは絶対にない。
--- TRANSLATION HERE
+No. No puede ser verdad.
+ Cierto es, que estaba asustado.
+ Eso es innegable.
+ Pero ella %{i}nunca%{/i} haría algo así.
 }
 [sha:7bf4b681f9a5d514be6bef557577d258acb44466]{
 -- Page 664, Offset 26038.
 -- ……一度もなかった。
--- TRANSLATION HERE
+Nunca me ha forzado a hacer nada...
 }
 [sha:49f5cf36f4ec399dbee9658487a3627bc563f12f]{
 -- Page 664, Offset 26039.
 -- あいつはいつだって俺の選択を尊重していた。
--- TRANSLATION HERE
+Siempre ha respetado mis decisiones.
 }
 [sha:aefe449981c9a0796a80e8725b9c922c2a88236f]{
 -- Page 664, Offset 26040.
 -- 力任せなんて、一度もなかったんだ。
--- TRANSLATION HERE
+Nunca me he visto forzado a hacer nada, ni una vez.
 }
 [sha:32d4f26942777345f952d20ddf0c27d7065ccb34]{
 -- Page 664, Offset 26041.
 -- 俺がアルクェイドと一緒にいたのは、他の誰でもない、俺自身がそうしたかっただけの話だ……！
--- TRANSLATION HERE
+¡La decisión de quedarse con Arcueid, es mía y solo mía!
+ ¡Eso es todo!
 }
 [sha:1af38d69b736411ee78c09f12cad6c2762564ccd]{
 -- Page 665, Offset 26042.
 -- 「違う……！　なんだよアンタら、いきなり出てきて、全部わかってるようなコトを言って……！　アルクェイドは血を吸った事なんて一度もない！　さっきのはただの冗談だ……！」
--- TRANSLATION HERE
+!Os equivocáis! ¡¿Quién os creéis que sois, saliendo de la nada y actuando como si supierais todo?!
+ ¡Arcueid nunca ha chupado sangre, nunca! ¡Lo de antes era solo una broma!"
 }
 [sha:43104bd79f51b589d87c1295ee301a99240b1dc8]{
 -- Page 666, Offset 26043.
 -- 「……何を言っているんです？　一度も血を吸った事がない、ですって？　そんな戯言を信じろとでも？
--- TRANSLATION HERE
+"¿Qué dices? ¿Qué nunca ha chupado sangre?
+ ¿Y esperas que nos creamos esa mierda?
 }
 [sha:78c533c0777aa40c515400856cb2358ceda196cf]{
 -- Page 666, Offset 26044.
 -- たしかにそこの真祖は優秀よ。ここ八百年ほど犠牲者を出した記録もない。けど、そんなのは―――」
--- TRANSLATION HERE
+Es cierto que este Verdadero Ancestro es excepcional.
+ No hay registro de víctimas en los últimos 800 años.
+ Pero aún así, eso―――"
 }
 [sha:eea55b8994fe4a541fdb2d892bad19ecb2af9970]{
 -- Page 667, Offset 26045.
 -- 「うるさい！　そんな話なんてどうでもいい……！
--- TRANSLATION HERE
+"¡Cállate! ¡Nada de eso me importa!
 }
 [sha:22aba494d6c425eb10a4071232d32eb044f3e43a]{
 -- Page 667, Offset 26046.
 -- いいか、アルクェイドの邪魔をするなら、アンタらが何であろうと許さない。
--- TRANSLATION HERE
+Escucha bien. Si te interpones en el camino de Arcueid, me da igual quién seas, no te lo perdonaré.
 }
 [sha:097d916d50bf5b5a0790d7d2ec3c91d28fbea86a]{
 -- Page 667, Offset 26047. Mods: @k, @e.
 -- だいたい俺が―――
--- TRANSLATION HERE
+Además, yo――
 }
 [sha:fdd57565f38694ad9602e03ed721d75cefe1e109]{
 -- Page 667, Offset 26048. Glued. Mods: @x.
 -- 俺本人が好きでアルクェイドと一緒にいるんだ！　外野にとやかくいわれる筋合いはない！」
--- TRANSLATION HERE
+¡Estoy aquí con Arcueid porque quiero!
+ ¡Alguien ajeno no tiene derecho a involucrarse!"
 }
 [sha:7642eee079b4ed233cb506706bfb794d789c7e4f]{
 -- Page 668, Offset 26049.
 -- 「…………はあ？　許さない、ですって？」
--- TRANSLATION HERE
+"¿En serio? ¿No nos perdonaras, dices?"
 }
 [sha:532d938c7e37c3fc2671a3962be395c2f7c742d1]{
 -- Page 668, Offset 26050.
 -- ノエルの声に、微かな感情がこもる。
--- TRANSLATION HERE
+La voz de Noel tiene cierto filo.
 }
 [sha:4cc513ca9e186ccd1aa98e84699e9033dba74e5d]{
 -- Page 668, Offset 26051.
 -- アルクェイドに向けていたモノの一部が、そのまま俺にシフトする。
--- TRANSLATION HERE
+Ahora dirige a mi una parte de la malicia que dirigía a Arcueid.
 }
 [sha:eef8241484f0f692b60bd7608e902d357e194dd0]{
 -- Page 668, Offset 26052.
 -- ノエルは、その手に持った剣をぶら下げたまま、ゆらりと、
--- TRANSLATION HERE
+Hoja en mano, empieza a avanzar lentamente―――
 }
 [sha:eb27180b6dfa4eb9a3ae7976f60caa200e0f2c9c]{
 -- Page 669, Offset 26053.
 -- 「おい、ブタノエル」
--- TRANSLATION HERE
+// Esto definitivamente se puede hacer mejor
+"Oye, Cerdanoel."
 }
 [sha:818284a19f17d326f5bf1c6308a5714ab1d6efd0]{
 -- Page 669, Offset 26054.
 -- 「はあ？　ブタ？　ブタって言いました？　どこが？　どうして？
--- TRANSLATION HERE
+"¿Eh? ¿Cerda? ¿Acabas de llamarme cerda? ¿Cómo? ¿Por qué?
 }
 [sha:02ff7880ad0d659c6e1561a7d2b801df2835fe37]{
 -- Page 669, Offset 26055. Mods: @k, @e.
 -- っていうかアナタ口悪すぎ！　お偉いさんのボンボンだからってあんまり調子にのる
--- TRANSLATION HERE
+No, espera, ¡el problema es esa boca sucia!
+ Solo porque seas el niño consentido de un pez gordo no significa que puedas llamarme lo que――%{n}
 }
 [sha:ec30df41bfd11eb60bf87effde521b8d7479234f]{
 -- Page 669, Offset 26056. Glued. Mods: @x.
 -- ぴぎせゃあにゃーーーーーあ！！！！？」
--- TRANSLATION HERE
+¡¡¡¡¿%{i}Piggseyanyaaaa%{/i}?!!!!"
 }
 [sha:fa2e282459ac8d5ac4846ef406c8d52db461e9b5]{
 -- Page 670, Offset 26057.
 -- 「……………、えっと」
--- TRANSLATION HERE
+"Eh... que..."
 }
 [sha:1fdab5fffb174f2dd56f2397eb5ab834b6bd5b8a]{
 -- Page 670, Offset 26058.
 -- 修道服の女は不思議な叫び声をあげ、ひとりでにぴょんぴょんと跳ね回っている。
--- TRANSLATION HERE
+La monja suelta un grito peculiar y empieza a saltar espontáneamente.
 }
 [sha:05751708b577a923d744e817d3b303865725de14]{
 -- Page 670, Offset 26059.
 -- 先ほどの殺意も、地平線の彼方に消え去った。
--- TRANSLATION HERE
+La hostilidad de hace un segundo se ha desvanecido.
 }
 [sha:f6f9a6d657fb3597981a881fa6d89eb0fc7a857e]{
 -- Page 670, Offset 26060.
 -- ……なんか、だんだんノエル先生の立ち位置が分かってきたぞ……。
--- TRANSLATION HERE
+Creo que empiezo a entender en qué lugar de la jerarquía se encuentra Noel-sensei...
 }
 [sha:6c9878a5a76d23300f5579ecec818de4a3e743c5]{
 -- Page 671, Offset 26061.
 -- 「うちの脳筋がチャチャいれてマジすまん。チキンのクセに沸点低いんだコイツ。後でヤキいれとくから大目に見てやってくれ。
--- TRANSLATION HERE
+"Siento de veras las molestias causadas por esa idiota de remate.
+ Para ser una gallina, pierde los estribos en menos que canta un gallo.
+ La daré unos azotes más tarde, espero que podaís olvidar esto.
 }
 [sha:bb906a2bb2eb22b53fabfc4f2339289d049b2a3e]{
 -- Page 671, Offset 26062.
 -- ……だがまあ、バカはバカなりにいい言葉を引き出した。
--- TRANSLATION HERE
+Pero... imbécil o no, plantea buenos argumentos.
 }
 [sha:9acd46f038fb2f392e49f0d2d4fed2129ddef856]{
 -- Page 671, Offset 26063.
 -- 一度も血を吸っていない、とは泣かせるじゃねえかトオノ。なあ、そうだろアルクェイド・ブリュンスタッド？」
--- TRANSLATION HERE
+Nunca ha chupado sangre'... que buena historia, ¿no Tohno?
+¿Verdad que sí, Arcueid Brunestud?"
 }
 [sha:1a49c5aa2a8c2ab026e970b93e0eff80ea1d04a8]{
 -- Page 672, Offset 26064.
 -- 「アルクェイド……？」
--- TRANSLATION HERE
+"¿Arcueid...?"
 }
 [sha:7ef6dc156f74976249afea1d52ca7a5bb0c79955]{
 -- Page 672, Offset 26065.
 -- アルクェイドは答えない。
--- TRANSLATION HERE
+Arcueid no responde.
 }
 [sha:05d15d39f5d130316d0e9d8fdcac037c52a83de2]{
 -- Page 672, Offset 26066.
 -- ただ俯いて、悔しげに唇を噛んでいる。
--- TRANSLATION HERE
+Simplemente baja la mirada y se muerde el labio frustrada.
 }
 [sha:d839c3c39cb37783437230675ff504dc37ec2253]{
 -- Page 672, Offset 26067.
 -- ……それは。
--- TRANSLATION HERE
+Sería si―――
 }
 [sha:c1237ae94a0c535a16c8292c1b2810606eb16694]{
 -- Page 672, Offset 26068.
 -- それは、あの子供の言葉を、暗に認めているようで―――
--- TRANSLATION HERE
+Es como si admitiese implícitamente lo que acaba de decir el niño―――
 }
 [sha:5d3e434b092a37814ab622df2353114b57a1ab88]{
 -- Page 673, Offset 26069.
 -- 「あと訂正な。このガキにかけた結界は捕まえるためじゃねえ。今ここにいる、おっかねぇモンスターから守るために仕方なく、ロハでかけてやったもんだ。
--- TRANSLATION HERE
+"Y, déjame aclarar algo: la barrera no era para capturar al chico.
+ No tuvimos más remedio que erigirla para proteger al pobre chico del terrible monstruo.
+ Y gratis, además.
 }
 [sha:496db3e4087704a483ffce102131b53d8a17a421]{
 -- Page 673, Offset 26070.
 -- この意味―――<口|・><に|・><し|・><な|・><く|・><て|・><も|・><分|・><か|・><る|・><よ|・><な|・>？」
--- TRANSLATION HERE
+No hace falta decir a lo que me refiero, ¿%{i}verdad%{/i}?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 674, Offset 26071.
@@ -686,20 +738,20 @@
 [sha:d486faee99a2a9badff9907b36a9a39337b836d9]{
 -- Page 674, Offset 26072.
 -- アルクェイドの顔があがる。
--- TRANSLATION HERE
+Arcueid levanta la cabeza.
 }
 [sha:28f6b7105afe8c41c46a6ab28d93f36ecc3ed175]{
 -- Page 674, Offset 26073.
 -- ごめんなさい、と。
--- TRANSLATION HERE
+%{i}Lo siento%{/i}
 }
 [sha:b67eb0f8e190e9810a4c2097a10ef922d607fa5f]{
 -- Page 674, Offset 26074.
 -- わずかに聞き取れる声で、彼女はそう謝って、
--- TRANSLATION HERE
+Se disculpa, su voz es casi inaudible―――
 }
 [sha:fbb1715a463026813a780bcac9ff50e163ced097]{
 -- Page 674, Offset 26075.
 -- 夜の闇に逃げるように、この場から跳び去っていった。
--- TRANSLATION HERE
+Momentos después, huye hacia la oscuridad de la noche.
 }

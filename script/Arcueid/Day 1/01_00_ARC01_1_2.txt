@@ -88,12 +88,12 @@ Espera.. Su cara, su olor, y otras muchas cosas están tan cerca que no sé ni d
 [sha:dc0378842c72e084cb0a3a2f8bf1e19205e50919]{
 -- Page 52, Offset 1283.
 -- 「ほうほう。わたしの万能<高枝|たかえだ>切り<鋏|ばさみ>も見たいと。
-""%{i}Oho%{/i}, así que quieres ver mis tijeras de podar multiusos, ¿no?
+"%{i}Oho%{/i}, así que quieres ver mis tijeras de podar multiusos, ¿no?
 }
 [sha:c954dad85579d23ac1b90486a6fff49e6923d9b4]{
 -- Page 52, Offset 1284.
 -- よろしい。それでしたら放課後、いつもの茶道部に来てください。貴方なら大歓迎です」
-Muy bien. En ese caso, pásate por el club ceremonia del té despues de clase. Eres más que bienvenido."
+Muy bien. En ese caso, pásate por el club ceremonia del té después de clase. Eres más que bienvenido."
 }
 [sha:506aa919b2d2b5f46f672d95b135f11ba0a6a60c]{
 -- Page 53, Offset 1285.
@@ -168,7 +168,7 @@ Acerca de la cafetería, donde el menú nunca cambia.
 [sha:5b99eab5dc0b43f500cfc090ea8c36845b77140f]{
 -- Page 57, Offset 1299.
 -- いまどき携帯端末の使用を制限したがる学校と生徒間の論争を話し合った結果、互いにため息をついてしまったので話題を変え、最近観た映画の所感などを交わして笑いあう。
-Acerca de la polémica entre estudiantes sobre el uso de dispositivos móviles,
+Sobre de la polémica entre estudiantes por el uso de dispositivos móviles,
 que empieza a ser un poco deprimente,
 así que cambiamos de tema y nos reímos de nuestras opiniones sobre la película que vimos recientemente.
 }
@@ -195,7 +195,7 @@ No quiero pensar sobre el hecho de que pronto llegaremos a la estación de Souya
 [sha:224a5fb5d4df689b3defc39e5bbad790f768eb8a]{
 -- Page 60, Offset 1304.
 -- 「……ちょっと、うるさいんですけど」
-"Oye... estaís haciendo mucho ruido."
+"Oye... estáis haciendo mucho ruido."
 }
 [sha:496382d5de2f9c757ac48302ddbac6964272a9c0]{
 -- Page 60, Offset 1305.
@@ -297,7 +297,7 @@ Es tan rápida y ligera que me recuerda a una gacela brincando.
 [sha:0ae0330ac391e82876f7a84b2eeb80ce2a586e11]{
 -- Page 66, Offset 1324.
 -- 思わず負けじと走り出したくなったが、こっちには急ぐ理由がない。
-Casi quiero echarme a correr tambíen, para no quedarme atrás, pero no tengo ninguna razón para darme prisa.
+Casi quiero echarme a correr también, para no quedarme atrás, pero no tengo ninguna razón para darme prisa.
 }
 [sha:e3813b8a771dfd50064cfbea5ec8ac41727e5d5d]{
 -- Page 66, Offset 1325.

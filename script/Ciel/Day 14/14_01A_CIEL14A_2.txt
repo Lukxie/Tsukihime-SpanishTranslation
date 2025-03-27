@@ -181,7 +181,7 @@
 [sha:90fd714f7d010aef683042a5e455aa482d3f0e3d]{
 -- Page 28, Offset 37685.
 -- 「アル―――クェイド」
--- TRANSLATION HERE
+"Ar――cueid."
 }
 [sha:04d1535208e1f2bf29b305082ed88649b90379f2]{
 -- Page 28, Offset 37686.
@@ -381,7 +381,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 38, Offset 37725.
 -- 「！」
--- TRANSLATION HERE
+"¡%{i}Agh%{/i}!"
 }
 [sha:7c378ca79405898d1b61dc0eba9d010001ef16a5]{
 -- Page 38, Offset 37726.
@@ -496,7 +496,7 @@
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 47, Offset 37748.
 -- 「あ――――」
--- TRANSLATION HERE
+"Ah―――"
 }
 [sha:eb9d5d1d2831d52cc78db1578a1c8e94e9d7f40e]{
 -- Page 47, Offset 37749.

@@ -76,7 +76,7 @@ Espero que vuelva antes de que los fideos se vuelvan una pasta.
 [sha:f0a2cb299c31ea22e9a4f75e24ec1f55550cc9b5]{
 -- Page 141, Offset 1525.
 -- 今日は他に約束が出来たとかで、学校中を走り回ってるらしい」
-Escucuché que anda correteando por la escuela porque hoy tiene otros compromisos.
+Escuché que anda correteando por la escuela porque hoy tiene otros compromisos.
 }
 [sha:a2a4c3f3b782eae0499074b547ddcfc2c50dbe08]{
 -- Page 142, Offset 1526.
@@ -176,17 +176,16 @@ Es solo que, ya sabes. Quería asegurarme de que no estuvieras deprimido."
 [sha:1a10e582e9cf73098ccce3bac471b18252f0bc5c]{
 -- Page 148, Offset 1545.
 -- 「そうか。それで成果は？」
-"Ya veo. Entonces, ¿que te parece?"
+"Ya veo. Entonces, ¿qué te parece?"
 }
 [sha:c94462edbac802ca307c26e30ba1d9d9ffbccc91]{
 -- Page 148, Offset 1546.
 -- 「早起きするほど面白い見せ物じゃあなかったぜ。ガッカリですよ、ガッカリ」
-"No es un espectáculo lo sufientemente interesante como para madrugar. Decepcionante, muy decepcionante."
+"No es un espectáculo lo suficientemente interesante como para madrugar. Decepcionante, muy decepcionante."
 }
 [sha:dcc316e1f8ed957c2e42217afbdbfe06d642060b]{
 -- Page 148, Offset 1547.
 -- 「ご期待に添えず申し訳ない。ホント、有彦はヒマ人だな」
-You've got too much free time, Arihiko."
 "Siento no haber cumplido tus expectativas. Tienes demasiado tiempo libre, Arihiko."
 }
 [sha:03d6c06c1bbc0456e4da5cd97e1d920450d3fec4]{
@@ -239,7 +238,7 @@ Lo que recuerdo de mi infancia es una enorme mansión de estilo occidental y la 
 -- 遠野家は資産家でもあり、いくつかの会社の株主でもある。父である<遠野|とおの><槙久|まきひさ>は実業家としては平凡だったらしいが、祖父の代から受け継いだ資産は十分に力があり、会社経営は順風満帆だったという。
 La familia Tohno es extremadamente rica, y tiene acciones en varias compañías.
  Mi padre, Tohno Makihisa, aparentemente era un empresario mediocre,
- pero los activos que heredó de su abuelo fueron lo sufucientemente fuertes como para mantener la compañía sin problemas.
+ pero los activos que heredó de su abuelo fueron lo suficientemente fuertes como para mantener la compañía sin problemas.
 }
 [sha:7fbfdb39d535617bf079308ecb7cfe8f8e198abe]{
 -- Page 154, Offset 1558.
@@ -259,7 +258,7 @@ El estilo de vida allí era uno de alta clase, donde todo gira entorno al decoro
 [sha:52d80acb665d5849f793aa68b2b76cbb7aac5681]{
 -- Page 154, Offset 1561.
 -- だから“有間の家に預ける”と言われた時、さして抵抗もなく家を出ることを受け入れた。
-Así que cuando me dijeron que me dejarían con Arimas, acepté sin poner mucha resistencia.
+Así que cuando me dijeron que me dejarían con los Arimas, acepté sin poner mucha resistencia.
 }
 [sha:9032d054fdb8164ab8a50688d0a32ef9b4408de5]{
 -- Page 155, Offset 1562.
@@ -305,7 +304,7 @@ Fue abandonada en esa enorme mansión, y ha vivido con el cabezota de mi padre.
 [sha:b5dabeedae7b1b11f6b9308a5875a9b3f59f0dff]{
 -- Page 157, Offset 1570.
 -- さっさと外に逃げ出してしまった<兄|おれ>を秋葉がどう思っているかなんて、容易に想像できる。
-Es fácil imaginar como se siente por huir de ella.
+Es fácil imaginar cómo se siente por huir de ella.
 }
 [sha:e54a5ee54caada5ebf380d40a2e42b730db0c6ed]{
 -- Page 158, Offset 1571.

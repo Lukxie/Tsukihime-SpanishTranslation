@@ -12,7 +12,7 @@
 -- Page 10005, Offset 5802.
 -- 元気いっぱいにワゴンを押して琥珀さんがやってくる。
 // serving cart = carro de servicio? queda raro
-Kohaku-san entra, empujando un carrito vigorósamente.
+Kohaku-san entra, empujando un carrito vigorosamente.
 }
 [sha:32d37d81274fff67d3904cb83ea46596a6dda64e]{
 -- Page 96, Offset 5803.
@@ -33,7 +33,7 @@ No tengo mucho tiempo, así que mejor que engulla esto rápido."
 -- Page 97, Offset 5806.
 -- 「ありゃ、すっかりもとの調子に戻ったか。俺の心配をしてくれていた方がおとなしくて良かったのに」
 "Ey, has vuelto a la normalidad.
- Me gustaba más cuando te preocupabas por mi tranquilamente."
+ Me gustaba más cuando eras reservada y te preocupabas por mi."
 }
 [sha:08b48af24e6d23c01921c03786cbec65e178cd9b]{
 -- Page 98, Offset 5807.

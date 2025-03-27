@@ -16,27 +16,28 @@ He matado a esta persona.
 [sha:86caeb7936cddb3bed70652bafa939921b450166]{
 -- Page 326, Offset 6458.
 -- その結果こいつは弱って、誰かの助けを求めている。
-Como resultado, está débil y me está pidiendo ayuda.
+Como resultado, está débil y está pidiendo ayuda.
 }
 [sha:26647a296f5a74da720ed1f4b43399a3d7a805b5]{
 -- Page 326, Offset 6459.
 -- ……それにまだ少ししか話していないけど、こいつはそう悪いヤツじゃない気がして―――
--- TRANSLATION HERE
+Además... Solo he hablado un poco con ella,
+ pero tengo la sensación de que no es una mala persona―――
 }
 [sha:36d3d76067cf88ab5998551a50b4c19b88f7ac16]{
 -- Page 327, Offset 6460.
 -- 「ねえ、どうなの？
--- TRANSLATION HERE
+"Bueno, ¿qué me dices?
 }
 [sha:b872738240371616d9acdd5973e847044bff9549]{
 -- Page 327, Offset 6461.
 -- 人間のあなたとしては、やっぱり吸血鬼であるわたしには協力できない？」
--- TRANSLATION HERE
+¿O es realmente imposible para un humano como tú colaborar con un vampiro como yo?"
 }
 [sha:262428a2a0ce071d69926588f469558833d4b4f3]{
 -- Page 328, Offset 6462.
 -- 「そりゃそうだろ。分かってるじゃないか、おまえ」
--- TRANSLATION HERE
+"Por supuesto que lo es. Osea que si que lo entiendes."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 329, Offset 6463.
@@ -46,57 +47,57 @@ Como resultado, está débil y me está pidiendo ayuda.
 [sha:0f9d3ade9f4d0d81e96ca9bf6a9a6be0872e8106]{
 -- Page 329, Offset 6464.
 -- ああ、だからそういう目はしないでほしい。
--- TRANSLATION HERE
+Venga, no me mires así.
 }
 [sha:95666f37173eaa9ace2cf1427eb940d50d7f1f5b]{
 -- Page 329, Offset 6465.
 -- 罪悪感に負けて断りきれなくなってしまう。
--- TRANSLATION HERE
+Si me miras así no puedo decir que no.
 }
 [sha:4fc9e64bd1b65ceebddbf58cf754ddd92d411446]{
 -- Page 330, Offset 6466.
 -- 「……けど、乗りかかった船だしな。
--- TRANSLATION HERE
+"Pero... a hecho pecho.
 }
 [sha:8ad2500c66bda6982a1051e797d1e7a6486d850c]{
 -- Page 330, Offset 6467.
 -- ここで知らんふりするのも寝覚めが悪いし」
--- TRANSLATION HERE
+Mi conciencia no me dejaría tranquilo si fingiera no saber nada de lo que acaba de pasar."
 }
 [sha:0bbb10ac969c5ff41e1f8efcc09a80156e810a80]{
 -- Page 330, Offset 6468.
 -- ……あとで後悔するのは目に見えている。
--- TRANSLATION HERE
+Es obvio de que me arrepentiré de esto más tarde...
 }
 [sha:b2ed01a54a478e213645fd0bbd4e391de98776f5]{
 -- Page 330, Offset 6469.
 -- それでも、
--- TRANSLATION HERE
+Pero aún así―――
 }
 [sha:b5300d63e4769ba42b99973b7267be01d8fe35e5]{
 -- Page 331, Offset 6470.
 -- 「……なにより、相手はあの通り魔殺人の犯人なんだろ。
--- TRANSLATION HERE
+"Además... tu oponente es el responsable de los asesinatos en serie, ¿verdad?
 }
 [sha:485404b632ccc97ee0bfe6b27609a8b4558fbdfc]{
 -- Page 331, Offset 6471.
 -- なら、この街に住んでる人間として、おまえの手助けぐらいしないとバチがあたりそうだ」
--- TRANSLATION HERE
+En cuyo caso, como habitante de esta ciudad, sería negligente no ayudarte lo mejor que pueda."
 }
 [sha:5cc3e0acd79f6095f96e415f9b86ed31670574f5]{
 -- Page 332, Offset 6472.
 -- この、馬鹿みたいにまっすぐな視線から目を逸らすよりは、いくぶんマシだ。
--- TRANSLATION HERE
+Aceptar ayudarla al menos es un poco mejor que apartar la vista de su mirada penetrante
 }
 [sha:ebcf325acae590db7d3625947a18a9956a77e227]{
 -- Page 333, Offset 6473.
 -- 「それって、つまり―――」
--- TRANSLATION HERE
+"Entonces, eso significa―――"
 }
 [sha:61e0527438f4269e6a1dc6d4524ee606f3152ced]{
 -- Page 333, Offset 6474.
 -- 「……盾になるのはお断りだけど、見張りぐらいはしてやるってコト」
--- TRANSLATION HERE
+"No voy a ser tu escudo... pero al menos puedo hacer guardia."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 333, Offset 6475.
@@ -106,110 +107,113 @@ Como resultado, está débil y me está pidiendo ayuda.
 [sha:ffc101924b411ec6fd9252cd513064c0550d1efa]{
 -- Page 334, Offset 6476.
 -- ……これである。
--- TRANSLATION HERE
+Mira eso...
 }
 [sha:4efa9f1077e0874daa03767c8911125072ea71f7]{
 -- Page 334, Offset 6477.
 -- なんだよ、その顔。
--- TRANSLATION HERE
+¿Qué es esa cara?
 }
 [sha:9c2ed1f7fc61141b96a46d9d7295dd0c312092db]{
 -- Page 334, Offset 6478.
 -- 死んでも生き返るとか、さっきの竜巻とか、コレとか、反則の安売りすぎる。
--- TRANSLATION HERE
+Puede morir y volver a la vida, hacer un tornado agitando su mano, y ahora esto. De verdad es el paquete completo.
 }
 [sha:b3aef8db9941be71dba0593103a34120be7d34df]{
 -- Page 335, Offset 6479.
 -- 「良かった。これで契約は成立」
--- TRANSLATION HERE
+"¡Genial! Parece que tenemos un trato."
 }
 [sha:01650f46b2fb80ed2cc5f07147428868fb9bc632]{
 -- Page 335, Offset 6480.
 -- 女は俺に手を差し伸べてくる。
--- TRANSLATION HERE
+La mujer extiende su mano.
 }
 [sha:77fefcb58d88099267974ba0a18bc71f83f48ded]{
 -- Page 336, Offset 6481.
 -- 「やっと自己紹介ができるね。
--- TRANSLATION HERE
+"Finalmente puedo presentarme
 }
 [sha:28fa975ab44b7ad57e1210f7cd427f04328f90e2]{
 -- Page 336, Offset 6482.
 -- わたしはアルクェイド―――うん、長い名前だからアルクェイドだけでいいわ。
--- TRANSLATION HERE
+Soy Arcueid――bueno, es un nombre un poco largo, así que me puedes llamar Arcueid.
 }
 [sha:635382ea5817fe1d87e546dc9a8efa4650575618]{
 -- Page 336, Offset 6483.
 -- <真祖|しんそ>って区分けされる吸血鬼だけど、あなたはなんていう人？」
--- TRANSLATION HERE
+Soy un vampiro del linaje de los Verdaderos Ancestros, ¿qué tipo de humano eres tú?"
 }
 [sha:b8e8fdf7176df253199fed2594ec4823b7cd0a94]{
 -- Page 337, Offset 6484.
 -- 今までお目にかかった事もない自己紹介をされて、重苦しいため息をついた。
--- TRANSLATION HERE
+Suspiro mientras me hacen introducirme como nunca antes había me había introducido.
 }
 [sha:27a6e5b05a2400fab79eb9b3338eb07b03729fce]{
 -- Page 337, Offset 6485.
 -- ……諦めの脱力というか、このデタラメな状況を受け入れてしまった証というか。
--- TRANSLATION HERE
+No estoy completamente seguro si es un suspiro de resignación,
+ o la prueba de que finalmente he aceptado esta situación ridícula.
 }
 [sha:320a0ce06f465e3436da89dc65214d99649a3bbe]{
 -- Page 338, Offset 6486.
 -- 「遠野志貴。あいにくただの学生だよ。
--- TRANSLATION HERE
+"Soy Tohno Shiki. Siento decepcionarte, pero solo soy un estudiante.
 }
 [sha:08e5604bd2c7d6214b04cba5de2e35133fd340d6]{
 -- Page 338, Offset 6487.
 -- ……前もって言っておくけど、本当に何の役にも立たないからな」
--- TRANSLATION HERE
+Como ya he mencionado, de verdad que no te soy de utilidad."
 }
 [sha:e7dd8ccbca98ad251510d4a0f4b30b43c57172ba]{
 -- Page 339, Offset 6488.
 -- 女―――アルクェイドの手を握る。
--- TRANSLATION HERE
+Agarro la mano de esta mu――de %{i}Arcueid%{/i}.
 }
 [sha:2506d5ca915023d2bde22cb2fdd967a3c6af581a]{
 -- Page 339, Offset 6489.
 -- 彼女はまじまじとこちらを眺めた後、
--- TRANSLATION HERE
+Me mira larga y detenidamente, y entonces―――
 }
 [sha:1f29066fda92e7d04c2c160ab777db4b902c05cb]{
 -- Page 339, Offset 6490.
 -- 改めて握手を求めてきた。
--- TRANSLATION HERE
+Me pide que la de la mano.
 }
 [sha:6aabc02091c1b5b3a325dc46a54dae569d71ba61]{
 -- Page 340, Offset 6491.
 -- 「それじゃあよろしくね、志貴。
--- TRANSLATION HERE
+"Espero con ansias trabajar contigo, Shiki.
 }
 [sha:5062200aa6da6c26cc83d9d2d1b478d9425f19d2]{
 -- Page 340, Offset 6492.
 -- わたしを殺した責任、ちゃんと取ってもらうんだから」
--- TRANSLATION HERE
+Me aseguraré de que te hagas completamente responsable por matarme."
 }
 [sha:c3cf1b15b5c37de662d6be8167d3927573235baa]{
 -- Page 341, Offset 6493.
 -- ニッコリと左手を差し出すアルクェイド。
--- TRANSLATION HERE
+Arcueid sonríe y extiende su mano izquierda.
 }
 [sha:4f8d0632dd0bb7b49bc00dd141764eb100636130]{
 -- Page 341, Offset 6494.
 -- ……世の中にはいろんな責任があるんだろうけど、殺した相手を手助けして責任をとるのは、たぶん俺が最初で最後なんじゃないだろうか。
--- TRANSLATION HERE
+Estoy seguro de que hay muchas formas de hacer las paces en este mundo...
+ Pero soy probablemente la primera y última persona que se responsabilizará de algo ayudando a la misma persona que ha matado.
 }
 [sha:a9b9d23f5b9ecc41d74ab6f6c77b9ca58fa8422c]{
 -- Page 342, Offset 6495.
 -- 「……ああ、ほんと、どうかしてる」
--- TRANSLATION HERE
+// No más thio please
+"De verdad... esto es de locos."
 }
 [sha:e26f7831bb95f32838a87b92c365b3be9a6f0e8b]{
 -- Page 342, Offset 6496.
 -- けど、今は他にどうしようもない。
--- TRANSLATION HERE
+Aún así, no hay nada más que pueda hacer ahora mismo
 }
 [sha:e03bca3d63302d606c991b4fe8b86719cb702b19]{
 -- Page 342, Offset 6497.
 -- 俺は嫌々ながら左手を差し出して、吸血鬼と名乗る白い女と握手をした。
--- TRANSLATION HERE
+Extiendo mi mano izquierda de mala gana y doy la mano a la mujer de blanco que dice ser un vampiro.
 }

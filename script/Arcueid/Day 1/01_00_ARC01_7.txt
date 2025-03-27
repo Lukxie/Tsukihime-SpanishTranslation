@@ -22,7 +22,7 @@ Esta es la oficina del cabeza de familia...
 [sha:7759bd8c8c7b3887fb183bd0b6ab410827bed297]{
 -- Page 364, Offset 2085.
 -- 「志貴さまをお連れしました」
-"He traido a Shiki-sama conmigo"
+"He traído a Shiki-sama conmigo"
 }
 [sha:2b2214a6fa129e957422bbea7a01071471aa39cf]{
 -- Page 364, Offset 2086.
@@ -37,7 +37,7 @@ Esta es la oficina del cabeza de familia...
 [sha:7aa96f6df79701ca1080f986f7333e491455e99d]{
 -- Page 365, Offset 2088.
 -- お手伝いさんは琥珀という名前らしい。
-Parece que el nombre de la criada es Kohaku.
+Parece que el nombre de la sirvienta es Kohaku.
 }
 [sha:397cdbb88d9d83cd927cdb51360f567836de0fd4]{
 -- Page 365, Offset 2089.
@@ -337,7 +337,7 @@ Ser desheredado te pone en una posición complicada de muchas formas.
 [sha:d1a0f4b6fc3f379745c2e6790a9fd14a1b2f434a]{
 -- Page 387, Offset 2145.
 -- そう言っていただけると、私も少しは気が楽になります」
-Oirte decir eso me hace sentirme mejor."
+Oírte decir eso me hace sentirme mejor."
 }
 [sha:50fa5fada509f8d3df68f5c228614d2e00466140]{
 -- Page 388, Offset 2146.
@@ -392,7 +392,7 @@ He aprendido a aceptar la palabra %{i}defecto%{/i} naturalmente.
 [sha:8b532bf2878b6482e4788cdffc11dd38f1c28536]{
 -- Page 391, Offset 2156.
 -- その言葉はさんざん親父に言われたものだ。
-La mi padre la decía a menudo.
+Mi padre la decía a menudo.
 }
 [sha:baa08283e6b9da025c4b55e7d804bdf92e32c2b1]{
 -- Page 391, Offset 2157.
@@ -413,7 +413,7 @@ El linaje debe ser salvaguardado.
 [sha:23d03dcaf55b2c1ec6aa18dce726514ee79ecbc7]{
 -- Page 392, Offset 2160.
 -- お父様がどのような考えで兄さんを有間の家に預けたかは知りませんが、そのお父様もすでに他界なさった身。
-No sé en que estaba pensando padre cuando te encomendó a los Arimas, pero ha fallecido.
+No sé en qué estaba pensando padre cuando te encomendó a los Arimas, pero ha fallecido.
 }
 [sha:03e03d46c4e9495a18382ca626ef4db3d33959b5]{
 -- Page 392, Offset 2161.
@@ -433,7 +433,7 @@ Como si estuviera declarando con antelación que no escuchará ninguna de mis qu
 [sha:e4e2764bf19b6e41aafb1815bf4265be7f2c802b]{
 -- Page 394, Offset 2164.
 -- 「……監督する、か。じゃあもし遠野の家に帰る事を拒否してたら、どうなっていたんだ？」
-"Supervisión, eh... ¿Así que qué habría pasado si me hubiese negado a voler a la mansión?
+"Supervisión, eh... ¿Así que qué habría pasado si me hubiese negado a volver a la mansión?
 }
 [sha:94962b93a853cf4abdd7b114af06438913ee6120]{
 -- Page 395, Offset 2165.
@@ -463,7 +463,7 @@ Los padres tienen la responsabilidad de educar a sus hijos y mandarlos al mundo 
 [sha:e69a8744f663701293433f98101e935fa9335389]{
 -- Page 397, Offset 2170.
 -- 家族とは国家を構成する最小限の『会社』にすぎず、会社である以上、不良品を出荷する訳にはいかない。
-Una familia no es mas que la <subdivision|e m p r e s a     > más pequeña de una nación, y como empresa, no debes enviar productos defectuosos.
+Una familia no es más que la <subdivisión|e m p r e s a     > más pequeña de una nación, y como empresa, no debes enviar productos defectuosos.
 }
 [sha:129283607d141409f236cfb22393f655b07b278f]{
 -- Page 397, Offset 2171.
@@ -473,12 +473,12 @@ Hacerlo no solo daña el nombre de la familia, sino que también baja la calidad
 [sha:8d75393094846c1cd916adfda88588026b54bce7]{
 -- Page 398, Offset 2172.
 -- その責任を取れない者は親になる資格はなく、また、その責任に応えられない子供は、家族である理由がない。
-Aquellos que no toman la responsabilidad no estan cualificados para ser padres, y los hijos que no viven a la altura de esa responsabilidad no tienen razón para formar parte de una familia.
+Aquellos que no toman la responsabilidad no están cualificados para ser padres, y los hijos que no viven a la altura de esa responsabilidad no tienen razón para formar parte de una familia.
 }
 [sha:37c83676172e7e144fa480ee8c10e344f920ff0d]{
 -- Page 398, Offset 2173.
 -- 遠野槙久はこんな話を何度も俺と秋葉に語った。まるで自分自身に言い聞かせるように、何度も何度も。
-Tohno Makihisa nos dijo esto a Akiha y a mi múltiples veces. Es como si se estuviera convinciendo a si mismo, una y otra vez.
+Tohno Makihisa nos dijo esto a Akiha y a mi múltiples veces. Es como si se estuviera convenciendo a si mismo, una y otra vez.
 }
 [sha:ff3ee319d0ce0ff714ebb090fe5ef36f64f61fa3]{
 -- Page 399, Offset 2174.
@@ -498,7 +498,7 @@ No era consideración por su hermano, que había sido desheredado por su padre.
 [sha:6440962c864beb04392f440c8b289cb348cd2079]{
 -- Page 400, Offset 2177.
 -- 「どのような経緯であれ、貴方が遠野家の長男だからです。
-"Es porque independientemente de como llegamos a esto, sigues siendo el hijo mayor de la familia Tohno.
+"Es porque independientemente de cómo llegamos a esto, sigues siendo el hijo mayor de la familia Tohno.
 }
 [sha:881303a1c3a64e0f569d28ba1da6cd6ae2269c03]{
 -- Page 400, Offset 2178.
@@ -508,7 +508,7 @@ No era consideración por su hermano, que había sido desheredado por su padre.
 [sha:d67734b960e566b2c20fff3537b9259fd32dac50]{
 -- Page 400, Offset 2179.
 -- 遠野家当主として、野放しになっていた案件を片付けただけらしい。
-Como cabeza de la familia Tohno, solo está limpiando un asusnto que se había quedado desatendido.
+Como cabeza de la familia Tohno, solo está limpiando un asunto que se había quedado desatendido.
 }
 [sha:2e05fe03dbdcbbc7a3a2d37cf2f87a11f9c5af83]{
 -- Page 401, Offset 2180.
@@ -587,7 +587,7 @@ Era mi intención usar mi posición para forzarte unilateralmente a acceder, per
 [sha:0013581852fa70be614a4f845d39102c4c86e952]{
 -- Page 406, Offset 2194.
 -- むしろ七年間好き放題に生きてきた俺に、妹としてきちんと礼を執ってくれる秋葉に感謝してる」
-De hecho, te agradezco que me trates como tu hermano, incluso tras estar siete años viviendo una vida de autocomplaciencia."
+De hecho, te agradezco que me trates como tu hermano, incluso tras estar siete años viviendo una vida de autocomplacencia."
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 406, Offset 2195.
@@ -607,7 +607,7 @@ De hecho, te agradezco que me trates como tu hermano, incluso tras estar siete a
 [sha:96d589db2dbf840ccbe58d63f71318ccb27a4b3d]{
 -- Page 408, Offset 2198.
 -- この件に関して意見を挟むという事は私に、ひいては遠野に逆らう事だと明言しましたから」
-He dejado claro que inteferir con este asunto es ir contra mí, y por extensión, contra la familia Tohno."
+He dejado claro que interferir con este asunto es ir contra mí, y por extensión, contra la familia Tohno."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 409, Offset 2199.
@@ -649,7 +649,7 @@ Tienes una expresión ausente. ¿Te ocurre algo?"
 [sha:0d6e3c3ea13d2d3afe5c81c1cb551b7b1d9d7018]{
 -- Page 411, Offset 2206.
 -- 「あ、いや、感心したというか、感動したというか……、本当に当主として認められたんだな」
-"Oh, no, estoy impresionado, o mas bien, conmovido... Realmente has sido reconocida como la cabeza de familia."
+"Oh, no, estoy impresionado, o más bien, conmovido... Realmente has sido reconocida como la cabeza de familia."
 }
 [sha:24f84b82da7b1e05b4df94a0fe237423e6caf9a6]{
 -- Page 411, Offset 2207.
@@ -685,7 +685,7 @@ No hay forma de que ahora vuelva a ser una persona educada, y tampoco tengo la i
 [sha:ad3180c1497c54ca085bda9fd01866a4922492fc]{
 -- Page 414, Offset 2213.
 -- 子供じゃあるまいし、試す前から泣き言は結構です。
-No eres un niño, así que no lloriquees sin ni si quiera empezar.
+No eres un niño, así que no lloriquees sin ni siquiera empezar.
 }
 [sha:e1b95a41d1853ac961cfaf8fbc22b342dce37913]{
 -- Page 414, Offset 2214.
@@ -725,7 +725,7 @@ No hay duda. Ahora mismo estoy siendo bombardeado sin piedad por la hostilidad a
 [sha:cba6ca7fc5e75f93a02bf06768901894544d0171]{
 -- Page 416, Offset 2221.
 -- 「努力はする、ですか。都合のいい返答ですね。
-"¿Lo intentaras? Una respuesta de lo mas conveniente.
+"¿Lo intentaras? Una respuesta de lo más conveniente.
 }
 [sha:694b346b8bc3cf20a978898754ac7adccdd35d76]{
 -- Page 416, Offset 2222.
@@ -758,7 +758,8 @@ Te daré una semana como mucho un mes, así que intentalo como si tu vida depend
 -- Page 419, Offset 2227.
 -- 猶予は猶予でもそれは執行猶予というものではないか、という思いつきをぐっと堪える。
 // raro, posiblemente por como este planteada la frase
-Reprimo el pensamiento de que esto se parece más a algo postpuesto que a irse de rositas.
+// REVISAR
+Me abstengo de pensar que esto se parece más a algo postpuesto que a irse de rositas.
 }
 [sha:b6908eb821ada556a13f9b5201b6e874e5815f37]{
 -- Page 419, Offset 2228.
@@ -849,7 +850,7 @@ Bueno, la verdad es que me hace sentir mucho mejor...
 [sha:834ff8be91a395e5eccb7063a3ed60eec1107d05]{
 -- Page 426, Offset 2245.
 -- 親父だって親戚の意見には逆らわなかったのに、そんな、暴君みたいなワガママを通しちまって……」
-Ni siquiera nuestro padre podía ir en contra de las opiniones de nuestros familiares, así que para que hayas forzado algo tan tiránico y egoista..."
+Ni siquiera nuestro padre podía ir en contra de las opiniones de nuestros familiares, así que para que hayas forzado algo tan tiránico y egoísta..."
 }
 [sha:74e0c8a2c1ef21c0c1c60be5c1a65c3be0ce23e0]{
 -- Page 427, Offset 2246.
@@ -872,7 +873,7 @@ Ni siquiera nuestro padre podía ir en contra de las opiniones de nuestros famil
 [sha:d3f28f320a99e1c1babe7b2624abee8d0f236084]{
 -- Page 428, Offset 2249.
 -- そんな事より、兄さんはこれからのご自分の生活を案じてください。色々大変なコトになるって目に見えているんだから」
-Pero deberías estar mas preocupado por tu vida a partir de ahora. Es obvio que vas a tener muchos problemas a partir de ahora."
+Pero deberías estar más preocupado por tu vida a partir de ahora. Es obvio que vas a tener muchos problemas a partir de ahora."
 }
 [sha:c864003e57e92271708fd3ec0d0d71830e1bcfce]{
 -- Page 429, Offset 2250.
@@ -887,7 +888,7 @@ Dice Akiha antipáticamente, forzando a terminar la discusión.
 [sha:e660a2210d016cc1d93875631cab1a616668ef2a]{
 -- Page 430, Offset 2252.
 -- ……まあ、それもいいでしょう。その為の使用人です。
-Bueno, no es que importe. Tengo una criada para eso.
+Bueno, no es que importe. Tengo una sirvienta para eso.
 }
 [sha:35e5ec9b76b5fd94d10bf8c24d00947c3473868e]{
 -- Page 430, Offset 2253.
@@ -917,7 +918,7 @@ Es una reverencia inexpresiva pero educada, la sinceridad personificada.
 [sha:237140cd6dea7b746a9acb934d61899de114855f]{
 -- Page 433, Offset 2258.
 -- 「この子は翡翠、うちの使用人です。
-"Esta es Hisui, una de nuestras criadas.
+"Esta es Hisui, una de nuestras sirvientas.
 }
 [sha:0ebfb92536aec7db56d358cb0e06b219df53516c]{
 -- Page 433, Offset 2259.
@@ -927,7 +928,7 @@ Ella será tu asistente a partir de ahora, ¿te parece bien?"
 [sha:fc6172fb8592c05dd73bc40cdd8af0a5570ea768]{
 -- Page 433, Offset 2260.
 -- なるほど、この子が屋敷の使用人か―――って、え？
-Ya veo, así que ella es una criada... espera, ¿qué?
+Ya veo, así que ella es una sirvienta... espera, ¿qué?
 }
 [sha:f72fc3f50d41bb17de923f70bad81d3c9539e897]{
 -- Page 434, Offset 2261.
@@ -937,7 +938,7 @@ Ya veo, así que ella es una criada... espera, ¿qué?
 [sha:55b190cbba4183d8c02444c77cbb1315945ef162]{
 -- Page 434, Offset 2262.
 -- 「分かりやすくいうと召使い、という事です」
-"Una criada personal sería una mejor descripción"
+"Una sirvienta personal sería una mejor descripción"
 }
 [sha:45c5f6b1228cb3b13552935208d2b100759048ef]{
 -- Page 435, Offset 2263.
@@ -947,13 +948,13 @@ No me lo puedo creer...
 [sha:1ebd887209c2d183f4c7e95e01497bb8b633a2a1]{
 -- Page 435, Offset 2264.
 -- メイド服を着込んだ少女は秋葉同様、そうしているのが当然といわんばかりに、その<表|か><情|お>を崩さない。
-La chica en uniforme de criada parece ser de la misma edad que Akiha,
- y su rostro es desprovisto de expresión de una manera que casí parece natural en ella.
+La chica en uniforme de sirvienta parece ser de la misma edad que Akiha,
+ y su rostro es desprovisto de expresión de una manera que casi parece natural en ella.
 }
 [sha:1b98f50cb10103604c48517cc161a20a50384313]{
 -- Page 436, Offset 2265.
 -- 「ちょっと待ってくれ。召使いとか大げさすぎないか？　自分の事ぐらい自分で面倒をみれるっていうか……」
-"Un momento. ¿No es una criada personal demasiado? Puedo cuidarme a mi mismo..."
+"Un momento. ¿No es una sirvienta personal demasiado? Puedo cuidarme a mi mismo..."
 }
 [sha:adf0c471c2bcbae2a773f7c679146a911f4f1bd8]{
 -- Page 436, Offset 2266.
@@ -988,7 +989,7 @@ Por favor acepta el trato apropiado como parte de tu deber."
 [sha:58c5ee55bc0d1070ee042ee7bb1999d241dd81ca]{
 -- Page 438, Offset 2272.
 -- メイド服の少女に視線を泳がす。
-Lanzo una mirada a la chica en el uniforme de criada.
+Lanzo una mirada a la chica en el uniforme de sirvienta.
 }
 [sha:dfbb46df360e661e258d1c980a25376cfb164ea2]{
 -- Page 438, Offset 2273.
@@ -1013,7 +1014,7 @@ Parece que este hombre no es diferente a un gato que no distingue entre izquierd
 [sha:172d276e45a6446dcbce4b244561b6c64e8b0a5e]{
 -- Page 440, Offset 2277.
 -- 秋葉に一礼し、翡翠はしずしずとこちらにやってくる。
-Despues de hacer una reverencia a Akiha, Hisui se acerca silenciosamente a mí.
+Después de hacer una reverencia a Akiha, Hisui se acerca silenciosamente a mí.
 }
 [sha:5efeeea93abd37911ff65588254e415f468267e7]{
 -- Page 440, Offset 2278.
@@ -1023,7 +1024,7 @@ Me está mirando fijamente, pero yo miro a todos los lados para que nuestras mir
 [sha:75022a91897e8b3fcf17f72b206a3f76ca2b27ad]{
 -- Page 440, Offset 2279.
 -- ……その歩調も緩やかながら遅さを感じさせないもので、彼女が長く使用人を務めている事を示していた。
-Su paso es suave, pero no lento... Está claro que ha sido criada por mucho tiempo.
+Su paso es suave, pero no lento... Está claro que ha sido sirvienta por mucho tiempo.
 }
 [sha:d440e588d736785161ff92e1c74135acc645c3fd]{
 -- Page 441, Offset 2280.

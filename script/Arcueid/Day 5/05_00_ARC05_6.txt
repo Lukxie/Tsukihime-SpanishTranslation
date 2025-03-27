@@ -1,55 +1,56 @@
 [sha:c5ff37ce2f849f3c421a59389203938b512db7f0]{
 -- Page 10013, Offset 9777.
 -- 「はっ、は―――！」
--- TRANSLATION HERE
+"%{i}Haa――haa%{/i}―――!"
 }
 [sha:30376c647412b8f914fccb601c571e6b9a46eee8]{
 -- Page 10013, Offset 9778.
 -- ビルから出ると、そこは瓦礫の山と化していた。
--- TRANSLATION HERE
+Al dejar el edificio, veo que el área más adelante se ha reducido a escombros.
 }
 [sha:5ac680993a2450fc00aad76288855b880f8798c3]{
 -- Page 10013, Offset 9779.
 -- 身を<屈|かが>めながら進み、陥没した地面の直前で立ち止まる。
--- TRANSLATION HERE
+Me agacho y avanzo, deteniéndome un poco antes del borde del cráter.
 }
 [sha:7c82e6eebbe7cc2eda7321539e35f12db1c01f58]{
 -- Page 449, Offset 9780.
 -- いまや地下40メートルとなった窪地。
--- TRANSLATION HERE
+El cráter es de cuarenta metros de profundidad.
 }
 [sha:9d50ab0e1273024fc48faa22aff9d61e3aaaa9b8]{
 -- Page 449, Offset 9781.
 -- この区域はもともと公園だった。
--- TRANSLATION HERE
+Este área solía ser un parque.
 }
 [sha:4ca114cbbfc2c8e2084093fdbad56351dd0c09c3]{
 -- Page 449, Offset 9782.
 -- その面影はとうにない。
--- TRANSLATION HERE
+Pero ya no hay rastro de él.
 }
 [sha:72a6d7de359f22f752361e8486a255dfe714d68e]{
 -- Page 449, Offset 9783.
 -- 瓦礫はスロープ状の傾斜になって地下まで続いている。
--- TRANSLATION HERE
+Los escombros forman una rampa que llega al fondo del agujero.
 }
 [sha:5f215d4d86f99f3f78c6d052e15dc46ee425e5ba]{
 -- Page 449, Offset 9784.
 -- 下から登る事は不可能だが、降りていく事なら俺の足でもできそうだ。
--- TRANSLATION HERE
+Aunque sería imposible escalar desde el fondo,
+ descender sería posible incluso con piernas como las mías.
 }
 [sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
 -- Page 449, Offset 9785.
 -- だが―――
--- TRANSLATION HERE
+Sin embargo―――
 }
 [sha:2088cf598915647e9f272eff7c2dabc25c9a1c2d]{
 -- Page 450, Offset 42617. Choice.
 -- 下りていく。
--- TRANSLATION HERE
+Debería descender.
 }
 [sha:b41c1ff21fcca1ba3a833e886c8a4072737915f5]{
 -- Page 450, Offset 42618. Choice.
 -- 様子を見る。
--- TRANSLATION HERE
+Debería observar la situación.
 }

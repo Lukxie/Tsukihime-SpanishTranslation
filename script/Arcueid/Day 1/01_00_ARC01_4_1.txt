@@ -72,7 +72,7 @@ Es irónico.
 [sha:c846b9467732d7ec5799578ec8d4e982659254b5]{
 -- Page 228, Offset 1755.
 -- <槙久|おやじ>のその口癖だけは、俺にかぎって正しく機能した。
-La frase favorita de mi padre termino siendo cierta, aunque solo en mi caso.
+La frase favorita de mi padre terminó siendo cierta, aunque solo en mi caso.
 }
 [sha:b5b28694a4a80de3854c72c6323443b46a705b4a]{
 -- Page 229, Offset 1756.
@@ -82,7 +82,7 @@ Tras despertarme en el hospital, Makihisa nunca vino a verme.
 [sha:16b450a0c358ea0b5498e191c303ae74399aa4c9]{
 -- Page 229, Offset 1757.
 -- 退院し、屋敷に戻ったその日に“有間の家に行け”と命じられたのが最後の記憶だ。
-Mi última memoria de él fue ordenándome ir a la casa de los Arimas el día que volví a la mansión tras recibir el alta.
+Mi última memoria de él fue cuando me ordenó ir a la casa de los Arimas el día que volví a la mansión tras recibir el alta.
 }
 [sha:57d61367911f00f0ce5e5e43f6a3c5eed18cdf82]{
 -- Page 230, Offset 1758.

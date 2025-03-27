@@ -71,7 +71,8 @@ Resuelto e inexistente, sueñas sobre una historia que ya ocurrió.
 [sha:aca2ee4658a1f8c7542c586d1766f9b796422e57]{
 -- Page 5, Offset 2610.
 -- リフレイン、リフレイン、リフレイン、リフレイン……
-Estribillo, estribillo, estribillo, estribillo...
+// Refrain, refrain, refrain, refrain...? Como coño se traduce esto
+Refrain, refrain, refrain, refrain...
 }
 [sha:144a20a80fc2b2808477caf6fecc330721fdee6b]{
 -- Page 6, Offset 2611.
@@ -142,7 +143,7 @@ Me levanto de la cama para intentar librarme de la pereza.
 [sha:df1fb888cb7c713383877c1cf10bb21693436034]{
 -- Page 10, Offset 2624.
 -- メイド服の少女がおじぎをする。
-La chica en uniforme de criada hace una reverencia.
+La chica en uniforme de sirvienta hace una reverencia.
 }
 [sha:73e1863469c356245678fb65bc268f76edcad2f6]{
 -- Page 10, Offset 2625.
@@ -157,7 +158,7 @@ La chica en uniforme de criada hace una reverencia.
 [sha:f700ef5620ff71a580b204d432d9adad58cfc14f]{
 -- Page 11, Offset 2627.
 -- 翡翠は入り口の扉の前でピンと姿勢を正したまま、起きたばかりの俺を見ている。よく出来た彫像のようだ。
-Hisui está de pie firme frente a la puerta, observándome mientras me oriento.
+Hisui está de pie firme frente a la puerta, observando mientras me oriento.
  Es como si fuera una estatua bien hecha.
 }
 [sha:c8b6ba779002690685f470ad79be1a1d68ece1e2]{
@@ -199,7 +200,7 @@ Agito mi cabeza con fuerza despertarme.
 [sha:6bf681e844b461e3962a7c92de030d073800000f]{
 -- Page 13, Offset 2635.
 -- 志貴さまをお起こしするのがわたしの役割ですから」
-Despues de todo, es mi deber levantarte."
+Después de todo, es mi deber levantarte."
 }
 [sha:73c4511445cf32cdb9ea4ca830e3dcea792e12bd]{
 -- Page 14, Offset 2636.
@@ -209,7 +210,7 @@ Responde Hisui despreocupadamente.
 [sha:63ad2a847097c9ad654154842fb5a02dcf92c3d6]{
 -- Page 14, Offset 2637.
 -- その仕草にかすかな違和感というか、もったいなさを感じてしまう。
-Siento un ligera tensión, o que de alguna manera soy indignode este gesto.
+Siento un ligera tensión, o que de alguna manera soy indigno de este gesto.
 }
 [sha:d0c4b2afb9faf207d5f9a5f1dc3d337fd5a8c2d4]{
 -- Page 14, Offset 2638.
@@ -290,7 +291,7 @@ Bajo al vestíbulo de la primera planta.
 [sha:2babfdf7717e92bc699f07b814bbcb45525f334e]{
 -- Page 20, Offset 2653.
 -- 着替えといってもシャツと下着を替えて、あとは定番の学生服を着ただけだ。
-Dije que me iba a cambiar, pero solo mi ropa interior y camiseta estan limpios.
+Dije que me iba a cambiar, pero solo mi ropa interior y camiseta están limpios.
  El resto de mi uniforme es el mismo de ayer.
 }
 [sha:00d13a9944c891b3aadd03992b164ca1d40b4841]{
@@ -364,7 +365,7 @@ Shiki-san, ¿no te gustan los nabos?"
 [sha:560dd7eb8e19a28f4411fdf88edb875af97a6842]{
 -- Page 24, Offset 2667.
 -- 「いえ、好き嫌いはあまりない方だと自負してますけど、なんていうか……」
-"No, estoy orgulloso de no ser un sibarita, pero como decirlo..."
+"No, estoy orgulloso de no ser un sibarita, pero cómo decirlo..."
 }
 [sha:07f64c2c582bda66d9bb955508b3e3fe9a311ca0]{
 -- Page 25, Offset 2668.

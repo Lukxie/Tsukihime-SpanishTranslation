@@ -23,9 +23,7 @@
 [sha:febc2b968a9c9f2005a3c344ee846612044bdb6c]{
 -- Page 67, Offset 5728.
 -- 「あっちの家にいた頃もさ、そんな風に叱られた事なんてなかったから驚いた。おかげで、これから朝飯を抜く事はできなさそうだ」
-"Me sorprendió;
- no creo que me hayan regañado así antes――ni siquiera cuando vivía con los Arimas.
- Parece que ya no podré salirme con la mía saltándome el desayuno."
+Solo pensé que no haría daño saber a qué tipo de escuela mi hermana iba.
 }
 [sha:ba41c113aee33183820cd371035b597314fad63d]{
 -- Page 68, Offset 5729.

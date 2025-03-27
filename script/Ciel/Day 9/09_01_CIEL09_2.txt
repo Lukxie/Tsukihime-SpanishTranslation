@@ -526,7 +526,7 @@
 [sha:ead0a2909d02eb55c6d07df306c56d01a45b085d]{
 -- Page 140, Offset 22490.
 -- ……だめだ。
--- TRANSLATION HERE
+Mierda.
 }
 [sha:67715565e2aa07d64f998ddca711785e81a0e56a]{
 -- Page 140, Offset 22491.

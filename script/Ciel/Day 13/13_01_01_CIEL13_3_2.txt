@@ -16,7 +16,7 @@
 [sha:598f59221fc773a9daecfa8d368d65b74df12da3]{
 -- Page 348, Offset 34232.
 -- 「え――――？」
--- TRANSLATION HERE
+"¿Eh―――?"
 }
 [sha:3389cbeac32506970675623823e511031065ca26]{
 -- Page 348, Offset 34233.
@@ -56,7 +56,7 @@
 [sha:15666c4b28bd5363d84ef70dbadababb7c88a960]{
 -- Page 350, Offset 34240.
 -- ――――と。
--- TRANSLATION HERE
+Pero entonces―――
 }
 [sha:f732a99aedabfa02a19cdc87d44a4008997ef715]{
 -- Page 350, Offset 34241.
@@ -121,7 +121,7 @@
 [sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
 -- Page 352, Offset 34253.
 -- そこへ、
--- TRANSLATION HERE
+Y con esa puesta en escena―――
 }
 [sha:9adecb9fe985bd272b3468d6adec7745f222c7f9]{
 -- Page 353, Offset 34254.

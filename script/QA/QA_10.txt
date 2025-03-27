@@ -1,290 +1,303 @@
 [sha:236b9714b3ee889fcfda6e0944645f3481bdc2f7]{
 -- Page 204, Offset 43134.
 -- そろそろ突発死にも慣れてきた頃でしょうか？
--- TRANSLATION HERE
+Me pregunto si ya te habrás acostumbrado a las muertes%{n}abruptas.
 }
 [sha:41ab24ca99487595ffaa219884377f5e77e3cf23]{
 -- Page 205, Offset 43135. Mods: @n.
 -- 最善を尽くしたものの、あえなく死亡した
--- TRANSLATION HERE
+Este es el segmento de ayuda para%{n}Tohno-kun,
 }
 [sha:68f01dfbf90dcf89fb1169b37ca15f6eb05a66d4]{
 -- Page 205, Offset 43136.
 -- 遠野くんのための救済コーナー、
--- TRANSLATION HERE
+el cual ha muerto a pesar de sus%{n}muchos esfuerzos.
 }
 [sha:4b6e396aac530529aa5568cf3291f5b68f1f7d7e]{
 -- Page 206, Offset 43137. Mods: @n.
 -- 『教えて！　シエル先生』、
--- TRANSLATION HERE
+¡Enséñame, Ciel-Sensei!'%{n}
 }
 [sha:bb98baf48fcf44ee8e835edc1836491c341f8dd6]{
 -- Page 206, Offset 43138.
 -- 今回もはりきって開始です！
--- TRANSLATION HERE
+¡De nuevo, vamos%{n}
+con ello!
 }
 [sha:e3bc819bc10479043252a034f374833ca408edc1]{
 -- Page 207, Offset 43139. Mods: @n.
 -- といってもこれ、よくある死亡三択じゃん？
--- TRANSLATION HERE
+Dicho eso, esta es la típica trampa mortal de%{n}tres opciones, ¿verdad?
 }
 [sha:104ae539ac8888de84bead89f2bf6bd5e9c8ad32]{
 -- Page 207, Offset 43140.
 -- 一個前の選択肢に戻ってやり直すだけじゃん？
--- TRANSLATION HERE
+Solo tenemos que volver y escoger%{n}otra opción, ¿no?
 }
 [sha:aacdb2adbca064c4e08cc0aac13af587de6f90a2]{
 -- Page 208, Offset 43141. Mods: @n.
 -- 救済コーナーっていうのは、
--- TRANSLATION HERE
+¿Este segmento de ayuda no debería ir%{n}
 }
 [sha:275e4a14e07a6d8293b0832926ad44f96dffbca0]{
 -- Page 208, Offset 43142.
 -- 死ぬ前に助けてあげるモンじゃん？
--- TRANSLATION HERE
+sobre salvar gente antes de que mueran?
 }
 [sha:3233f0fe9e3501bfa13cbf77b57fc2ab9c3131f3]{
 -- Page 209, Offset 43143.
 -- 今更気づいたちゃったんだけど、これ、
--- TRANSLATION HERE
+Me acabo de dar cuenta, pero―――
 }
 [sha:dfab44f898a7e569a60035fd1ef3bc0e2ef834fd]{
 -- Page 210, Offset 43144. Mods: @n.
 -- メガネがどうやって即死するのかを見て
--- TRANSLATION HERE
+No es este segmento simplemente%{n}nosotros
 }
 [sha:c244bd380314b5395967d48767ba5de3bd592251]{
 -- Page 210, Offset 43145.
 -- アタシらが寸評するだけのコーナーでは？
--- TRANSLATION HERE
+comentando cada una de las muertes%{n}
+prematuras del gafotas?
 }
 [sha:7e8a30e1c2ed6a91f3f974d7aade278ca07171c9]{
 -- Page 211, Offset 43146.
 -- え？　そうですけど、それが何か？
--- TRANSLATION HERE
+¿Eh? Bueno, sí, ¿y qué?
 }
 [sha:a79154045e88cb0d477cbacc31445b48dccead75]{
 -- Page 212, Offset 43147.
 -- だいたい、痛くなくては覚えませんよね？
--- TRANSLATION HERE
+No se acordará si no duele,%{n}
+¿verdad?
 }
 [sha:d62e5c5e12cda093550d4abf4329c9d3e7003e03]{
 -- Page 213, Offset 43148.
 -- ん～～、スパルタ通り越したドエスだった。
--- TRANSLATION HERE
+Mmmm, ha pasado directa de Espartana a Sádica.
 }
 [sha:ca3fc8b20fa87386dff096205c01f97983a1d876]{
 -- Page 214, Offset 43149. Mods: @n.
 -- さて、今回の原因は『夜の』学校に
--- TRANSLATION HERE
+Ahora pues, esta vez la causa de la muerte se debe a%{n}
 }
 [sha:6d13c4a4fe352eba780c105020c5a25b5b0f2524]{
 -- Page 214, Offset 43150.
 -- 遠野くんひとりで入ってしまった事ですね。
--- TRANSLATION HERE
+que Tohno-kun entró la escuela, solo, de noche.
 }
 [sha:2d593bcef50b032ef5db65f2594b7bfe83c2233d]{
 -- Page 215, Offset 43151. Mods: @n.
 -- 頼れる先輩がいるでもなし、
--- TRANSLATION HERE
+No había Senpai en la que confiar, y Arcueid jamás%{n}
 }
 [sha:891c2c5245b5a50138af93f064ab482eb6b60531]{
 -- Page 215, Offset 43152.
 -- 今のアルクェイドが無人の場所に行く筈もなし。
--- TRANSLATION HERE
+iría a un lugar aislado en su estado%{n}
+actual.
 }
 [sha:d00d8cd47480821ae9972d13463afac6349bc630]{
 -- Page 216, Offset 43153. Mods: @n.
 -- ひとつ前の選択肢に戻って、
--- TRANSLATION HERE
+Por lo que, ¡vuelve a la elección previa
 }
 [sha:6950dd531ec449082e60f755f34c1969f1844e30]{
 -- Page 216, Offset 43154.
 -- もっと血なまぐさい場所を選ぶとよいでしょう！
--- TRANSLATION HERE
+y elige un lugar%{n}que apeste a sangre!
 }
 [sha:39e2bcb7a9bde8152b2567f126cdc8c2a5a4b9a7]{
 -- Page 217, Offset 43155. Mods: @n.
 -- 今の？
--- TRANSLATION HERE
+¿'En su estado actual'?%{n}
 }
 [sha:4d70677f44c7770e14ec4689fd37271074bbff9d]{
 -- Page 217, Offset 43156.
 -- 今の、って言った？
--- TRANSLATION HERE
+¿He escuchado bien?
 }
 [sha:fb30e2b84eb6c87b5dd795149918259461477665]{
 -- Page 218, Offset 43157. Mods: @n.
 -- シエル、あの完璧なヒロインが
--- TRANSLATION HERE
+Ciel, ¿sabes porque esa heroina
 }
 [sha:445130f0f7b3b4d6f78ffbf987dde32cb5e57f8e]{
 -- Page 218, Offset 43158.
 -- 脱兎（※かわいい）した理由、知ってんの？
--- TRANSLATION HERE
+perfecta decidió%{n}huir (※ser mona)?
 }
 [sha:882304f5f175401a1e3e4e6a91962ca2f6f4d7a6]{
 -- Page 219, Offset 43159. Mods: @n.
 -- スタミナ溢れそうだから慌てて家に帰った、
--- TRANSLATION HERE
+¿No fue porque estaba tan repleta de energía%{n}
 }
 [sha:c361d9c3f11d5304190dee1ffce9847478213a1c]{
 -- Page 219, Offset 43160.
 -- とかじゃなく？
--- TRANSLATION HERE
+que tuvo que salir corriendo a casa?
 }
 [sha:bf07f0a1c519627a9834196ae1a8af2a3ed107d1]{
 -- Page 220, Offset 43161. Mods: @n.
 -- さあ。
--- TRANSLATION HERE
+¿Quién sabe?%{n}
 }
 [sha:eb10237354b1c7cdf2388769abd348c9e6684766]{
 -- Page 220, Offset 43162.
 -- わたしには何とも。
--- TRANSLATION HERE
+No podría decirte.
 }
 [sha:733b3f79f24c04cf12e7e94120767feec03247a0]{
 -- Page 221, Offset 43163. Mods: @n.
 -- ま、自分が吸血鬼である事を
--- TRANSLATION HERE
+Si tuviera que adivinar, diría que quizá es porque%{n}finalmente
 }
 [sha:95e14392dd0e7e374ad2baca4a376bccb5735d9e]{
 -- Page 221, Offset 43164.
 -- 自覚したんじゃないですか？　今更ですけど。
--- TRANSLATION HERE
+se ha dado cuenta de que es un vampiro?%{n}
+Si que la ha costado.
 }
 [sha:d240d86f27274d5f08d3aebc7b7af46cf18d8467]{
 -- Page 222, Offset 43165. Mods: @n.
 -- ほら、死者たちのガレージで暴れていた時から、
--- TRANSLATION HERE
+Quiero decir, casi no podía controlarse%{n}
 }
 [sha:0f0c11d086f9f73d4cc3d2bd5e951c3e4ff05f9a]{
 -- Page 222, Offset 43166.
 -- 我慢できなくなっていたようですし？
--- TRANSLATION HERE
+desde aquel alboroto en el garaje%{n}
+lleno de Muertos.
 }
 [sha:d568ced9455a4a49407807f94af248eb911e9c85]{
 -- Page 223, Offset 43167. Mods: @n.
 -- マジかよそんな前から微熱（※かわいい）だったとか、
--- TRANSLATION HERE
+// Rigido
+¿En serio? ¿Incluso entonces sufría%{n}
+de una fiebre (※ser adorable)?
 }
 [sha:0addb30c6fa1cf8d0761eec0df8c6a5bac684a8a]{
 -- Page 223, Offset 43168.
 -- もうシエルに勝ち目なくない？
--- TRANSLATION HERE
+Wow, Ciel de veras tiene cero%{n}oportunidades de ganar, ¿eh?
 }
 [sha:900e109cd30b59adc50e0b3f2db9e9e0ee8c2e08]{
 -- Page 224, Offset 43169.
 -- 大丈夫？　<地元|インド>帰る？
--- TRANSLATION HERE
+¿Estás bien?%{n}
+¿Quieres volver a casa (India)?
 }
 [sha:e11f1ca85e7f65dfb4b47054bc6e02240e4e57a7]{
 -- Page 225, Offset 43170.
 -- インドは地元でもなんでもありません！
--- TRANSLATION HERE
+¡¿Quién dice que sea de India?!
 }
 [sha:16eb1cf0b0aaace53d292127184ffed2b75945b1]{
 -- Page 226, Offset 43171. Mods: @n.
 -- それより。自分のルートだからって、
--- TRANSLATION HERE
+Más importante, solo porque sea%{n}tu ruta
 }
 [sha:a44c0f5cf559322840a0baad5efa50b829ca3e5a]{
 -- Page 226, Offset 43172.
 -- あまり調子に乗らない事ですね。
--- TRANSLATION HERE
+no significa que debas dejarte%{n}llevar.
 }
 [sha:6226ea12ca6092b1b8281e2d75c68b4348fb456d]{
 -- Page 227, Offset 43173. Mods: @n.
 -- 即死するのは即死が似合うキュートな
--- TRANSLATION HERE
+// Duro no
+No solo es el adorable Tohno-kun,%{n}
 }
 [sha:e2915813269195d28fb5ed882f42b1635aade831]{
 -- Page 227, Offset 43174.
 -- 遠野くんだけではありません。
--- TRANSLATION HERE
+// Durisimo, me duele la vida xd
+al que la muerte repentina le queda%{n}bien por cierto,
+quién puede morir, sabes.
 }
 [sha:955dd271788d6c98777c3d883dddd2bae02875ab]{
 -- Page 228, Offset 43175.
 -- いま似合うって言った？
--- TRANSLATION HERE
+Espera, ¿acabas de decir 'queda bien'?
 }
 [sha:f6938f9964397e31e0babab629f86818d4f20d09]{
 -- Page 229, Offset 43176. Mods: @n.
 -- 物語が続く以上、誰であれ退場する可能性はあります。
--- TRANSLATION HERE
+Con el progreso de la historia, cabe la posibilidad%{n}de que
 }
 [sha:7347cbcc74d377dcea8c4a346fc8b4b01bb74279]{
 -- Page 229, Offset 43177.
 -- アルクェイドも例外ではありませんよ。
--- TRANSLATION HERE
+cualquiera muera. Arcueid no es excepción.
 }
 [sha:4da34fc947b830574af74cf04f4223c9ab83ed2a]{
 -- Page 230, Offset 43178. Mods: @n.
 -- え～～？
--- TRANSLATION HERE
+¿Eeehhh?%{n}
 }
 [sha:40ace711b29a113b641c9408fef858084bdcdb08]{
 -- Page 230, Offset 43179.
 -- ここから負ける可能性とかあるワケないじゃーん。
--- TRANSLATION HERE
+Seguro que no hay forma de que pierda.
 }
 [sha:594007d27404861ce57b3ec7d68c6149ae0f9d40]{
 -- Page 231, Offset 43180. Mods: @n.
 -- あとはこのまま感動のエンディングでしょ？
--- TRANSLATION HERE
+El buen final está prácticamente asegurado, ¿verdad?%{n}
 }
 [sha:743688c20c3c92366e252c0cadec86c09c8f4b68]{
 -- Page 231, Offset 43181.
 -- こんなん生まれたばかりのミケでも分かるし。
--- TRANSLATION HERE
+Incluso un cachorro de gato calico podría verlo.
 }
 [sha:61922d9eb0de25602add85ff66ae96a31f718868]{
 -- Page 232, Offset 43182. Mods: @n.
 -- ほほう。
--- TRANSLATION HERE
+Ya veo.%{n}
 }
 [sha:5e522d0149969089fe19f0cf3665efb045dbb84b]{
 -- Page 232, Offset 43183.
 -- では、もしそうならない場合があるとしたら？
--- TRANSLATION HERE
+¿Y que pasaría si te equivocas?
 }
 [sha:a3d665818b842e27dd607f6596303113041438ee]{
 -- Page 233, Offset 43184. Mods: @n.
 -- にゃっにゃっにゃっ。ニボシ……いや、
--- TRANSLATION HERE
+Nyha nyha nyha. Que tonta... Eso no va a pasar.%{n}
 }
 [sha:4d24d11059926110cdb35f0a044b4f1543412457]{
 -- Page 233, Offset 43185.
 -- 次のルートのヒロインの座をかけてもいい、ぜ！
--- TRANSLATION HERE
+¡Me jugaría el rol de heroína de la siguiente ruta!
 }
 [sha:38c8f9ec4080a081de641c7e640c2b41d46c8d20]{
 -- Page 234, Offset 43186. Mods: @n.
 -- ちょっと待って。
--- TRANSLATION HERE
+Espera un segundo.%{n}
 }
 [sha:205e156bf612f4d68e25441044379235c486801f]{
 -- Page 234, Offset 43187.
 -- いま、なんかイヤな音しなかった？
--- TRANSLATION HERE
+¿Qué ha sido ese efecto de sonido%{n}ominoso?
 }
 [sha:9bdd8078a27a2d9148d59060ece74ded1e4998e4]{
 -- Page 235, Offset 43188.
 -- 言質も取りましたし、今回はこのへんで！
--- TRANSLATION HERE
+¡Ahora que te he tomado la palabra,%{n}vamos a terminar la lección!
 }
 [sha:f730655ea85501f20b335d8b9e3d10881b20acb5]{
 -- Page 236, Offset 43189. Mods: @n.
 -- 以上、『さよなら！　ネコアルク先生』の
--- TRANSLATION HERE
+Esto es todo por ahora en,%{n}
 }
 [sha:d804e5ea717a42924a06f082936e153255dc1086]{
 -- Page 236, Offset 43190.
 -- コーナーでした～☆
--- TRANSLATION HERE
+¡Adios, Neco-Arc-Sensei!' ☆
 }
 [sha:0fbadfedb48794c5a7d9c8d54ae6e3d87fcda844]{
 -- Page 237, Offset 43191.
 -- おいやめろその笑顔コワイ貴様ほんとにヒロインか？
--- TRANSLATION HERE
+Oi, ¡para con esa sonrisa terrorífica!%{n}
+¡No te mereces ser la heroína!
 }

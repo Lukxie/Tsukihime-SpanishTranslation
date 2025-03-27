@@ -206,7 +206,7 @@
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 138, Offset 5205.
 -- 「―――――――――」
--- TRANSLATION HERE
+"―――――――――"
 }
 [sha:5ee267336791ffa2da98f979e0ded3d9e26f226d]{
 -- Page 138, Offset 5206.

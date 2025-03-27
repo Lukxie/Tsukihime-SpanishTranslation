@@ -876,7 +876,7 @@
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 333, Offset 39330.
 -- 「―――！」
--- TRANSLATION HERE
+"%{i}Hnh%{/i}!"
 }
 [sha:9702bf6f2ebf0cb4e26f0b88ba5a3fe0101d5647]{
 -- Page 334, Offset 39331.

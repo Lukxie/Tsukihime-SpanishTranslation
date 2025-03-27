@@ -8,17 +8,17 @@ La verja está firmemente cerrada.
 -- 子供の頃は『とにかく広い家』ぐらいにしか思っていなかったが、一般家庭である有間家で暮らした後だと、改めてどれだけ巨大なのか実感できる。
 De niño sabía que la mansión Tohno era 'bastante grande',
  pero después de vivir en una casa de tamaño normal como la de los Arimas,
-me estoy dando cuenta de lo realmente grande que es la mansión. 
+me estoy dando cuenta de lo realmente grande que es la mansión.
 }
 [sha:b2dab21471e0187afa6290d72958092f3259c0d2]{
 -- Page 243, Offset 1787.
 -- 街を一望する高台は、そのすべてが遠野家が管理する土地だ。
-La toda la colina con vistas a la ciudad es propiedad de la familia Tohno.
+Toda la colina con vistas a la ciudad es propiedad de la familia Tohno.
 }
 [sha:f3b47024ba5eef03f483602c2e85f3410f6fa8a7]{
 -- Page 243, Offset 1788.
 -- 敷地はうちの高校より広く、背後に広がる森まで含めば、その三倍にもなるだろう。
-El terreno construido de la  mansión es mas grande que mi escuela,
+El terreno construido de la  mansión es más grande que mi escuela,
  y si tenemos en cuenta el bosque que hay detrás,
  seguramente sea tres veces más grande.
 }
@@ -77,7 +77,7 @@ Tras la puerta principal, un sendero en suave pendiente se adentra en las profun
 [sha:52a81e2d729904cab8e22864a0d5a6728c6fb899]{
 -- Page 249, Offset 1799.
 -- 高い木々に囲まれた道はトンネルを思わせる。
-Los arboles altos rodean el camino, haciéndolo parecer un túnel.
+Los árboles altos rodean el camino, haciéndolo parecer un túnel.
 }
 [sha:e58bbbbcb64b3cfedd5c019005c3a22bc399de16]{
 -- Page 249, Offset 1800.
@@ -191,7 +191,7 @@ Me deshago de mis nervios y presiono el timbre.
 [sha:774e41ae7a9829555f33809255a9bd28c16444f2]{
 -- Page 258, Offset 1821.
 -- ピンポーン、といった親しみのある音はしない。
-Me deshago de mis nervios y presiono el timbre.
+Pero no suena el "%{i}pin pon%{/i} que normalmente esperarías.
 }
 [sha:8f5aab6a28b61c2c89d8433243b2f307d9505521]{
 -- Page 259, Offset 1822.
@@ -291,7 +291,7 @@ La chica inclina la cabeza perpleja ante mi confusa actitud.
 [sha:5a3051b2f74ed613e8e54c47a84c557d7de9faeb]{
 -- Page 268, Offset 1841.
 -- 「は、はい。さまっていうのは、その、余計だけど」
-"S-Si. Aunque, dirigirse a mi con un '-sama' es un poco excesivo."
+"S-Sí. Aunque, dirigirse a mi con un '-sama' es un poco excesivo."
 }
 [sha:a2a9ceed7ec867c2eb2d9f97d9b6b07e6e56fbac]{
 -- Page 269, Offset 1842.
@@ -311,7 +311,7 @@ La chica en delantal presiona su dedo índice contra sus labios con un gesto de 
 [sha:25f4a8a6ca87f4d0d99f64e44beb036ead2ace43]{
 -- Page 270, Offset 1845.
 -- どうやら本気で心配し、怒っているらしい。それでも微笑は絶やさず、少女は温かな雰囲気を崩さない。
-Parece que se preocupó de verdad y ahora esta algo molesta.
+Parece que se preocupó de verdad y ahora está algo molesta.
  Aun así, la sonrisa permanece en su rostro, y ofrece un ambiente de bienvenida.
 }
 [sha:07571617080c6612f843e7eb44982038b584ae88]{
@@ -322,7 +322,7 @@ Lleva un kimono y un delantal...
 [sha:db746d08a7825a3b5f2623711e9abe235a00ebfa]{
 -- Page 271, Offset 1847.
 -- こうやって出迎えにきてくれて、俺のことを“さま”付けで呼ぶ。
-Ha venido a recibirme, y se dirige a mi como '-sama'...
+Ha venido a recibirme, y se dirige a mí como '-sama'...
 }
 [sha:968a2d7935a5edbdcacf1268210a3b9a75414372]{
 -- Page 271, Offset 1848.
@@ -332,7 +332,7 @@ En ese caso, ella debe ser―――
 [sha:d3ef5c06e9d998be8f50e27e8f18c0026ba7e957]{
 -- Page 272, Offset 1849.
 -- 「すみません。もしかして、ここのお手伝いさんですか？」
-"Perdona. ¿De casualidad no serás una criada?"
+"Perdona. ¿De casualidad no serás una sirvienta?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 272, Offset 1850.
@@ -368,7 +368,7 @@ Se dirige hacia el pasillo en la parte este del vestíbulo, al lado de una gran 
 [sha:f7cf0636090e63444154cc93445bea7ba11938e9]{
 -- Page 275, Offset 1856.
 -- たしか、あの廊下に入ってすぐに居間があった筈だ。
-Si recuerdo correctamente, la puerta al salón esta justo en ese pasillo.
+Si recuerdo correctamente, la puerta al salón está justo en ese pasillo.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 275, Offset 1857. Mods: @k, @e.
@@ -378,15 +378,15 @@ Yo―――
 [sha:fe8f62de4fdf69638a6fd898e48611ad91d4a622]{
 -- Page 276, Offset 42580. Choice.
 -- おとなしく付いていく事にした。
- Decido obedecer y seguirla.
+Decido obedecer y seguirla.
 }
 [sha:50e590287b007d253fdab4c8f62f60e339b6e01d]{
 -- Page 276, Offset 42581. Choice.
 -- 少女を呼び止めて名前を訊く事にした。
- Decido parar a la chica y preguntarle su nombre.
+Decido parar a la chica y preguntarle su nombre.
 }
 [sha:49c6402bd4f619ff85b4ab64d4af8233e7bb449a]{
 -- Page 276, Offset 42582. Choice.
 -- ……少し、屋敷を探検したくなった。
- Creo que exploraré un poco la mansión...
+Creo que exploraré un poco la mansión...
 }

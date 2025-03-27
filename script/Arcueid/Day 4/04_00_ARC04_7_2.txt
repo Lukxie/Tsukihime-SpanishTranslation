@@ -1,85 +1,92 @@
 [sha:0be8661fa83c251f0dff7e640709ec0f3b0fc7f4]{
 -- Page 10023, Offset 7303.
 -- ……あやしい。
--- TRANSLATION HERE
+Qué sospechoso...
 }
 [sha:530ab408239a64b9885b13a5f714958c3f4ddc1e]{
 -- Page 10023, Offset 7304.
 -- 自分から『壊したりしない』というところが、すっごく怪しい。
--- TRANSLATION HERE
+Que especifique que no las va a romper es %{i}extremadamente%{/i} sospechoso.
 }
 [sha:5a4dbcc2ce0e363e418bbe0acd20b260e2a45cd3]{
 -- Page 651, Offset 7305.
 -- 「―――見るだけでもダメ。
--- TRANSLATION HERE
+"Incluso si solo vas a mirar, no.
 }
 [sha:451f3ca58d82185c629964d61cc302a54fbe964b]{
 -- Page 651, Offset 7306.
 -- 路地裏の時におまえのバカ力は思い知らされたからな。何かのはずみで握り潰されたらどうしようもない」
--- TRANSLATION HERE
+Antes vi una pequeña demostración de tremenda fuerza bruta en el callejón.
+ No puedo arriesgarme a que las aplastes con tus manos."
 }
 [sha:10e88775afe1084a4db187a2945ee260e33255c9]{
 -- Page 652, Offset 7307.
 -- 「なによ、バカ力って。路地裏の時は当然でしょ、そういう風に力をあげていたんだから。
--- TRANSLATION HERE
+"¿A qué te refieres con 'tremenda fuerza bruta'? Usar esa cantidad de fuerza era lo normal.
 }
 [sha:a4dabab9ab36ea58d369d716c357385c5f6f6d1c]{
 -- Page 652, Offset 7308.
 -- 普段であれば志貴のほうが力は上だろうし、そう無闇に物を壊したりはしないんだけどなー、わたし」
--- TRANSLATION HERE
+Además, tu poder puede ser mayor al mío bajo ciertas circunstancias,
+ y no es que vaya por ahí rompiendo cosas indiscriminadamente."
 }
 [sha:e8f96709e956bc11a7d55f463bd5ea315d70bba6]{
 -- Page 653, Offset 7309.
 -- 言いつつ、メガネを取ろうと手を伸ばしてくるアルクェイド。その態度がますます怪しい。
--- TRANSLATION HERE
+Al decir eso, Arcueid alarga la mano para quitarme las gafas.
+ Su comportamiento cada vez es más sospechoso.
 }
 [sha:bb648dfdfee875cdc1aeee4a52b3f33a74758c40]{
 -- Page 654, Offset 7310.
 -- あれはぜったいやらかす眼だ。
--- TRANSLATION HERE
+Esos ojos son los de alguien que trama algo.
 }
 [sha:363d4b87d3b3c664c18db5e4a8774270b749b29c]{
 -- Page 654, Offset 7311.
 -- 衝撃的映像を見せられる前に、ソファに座ってアルクェイドから離れる。
--- TRANSLATION HERE
+Antes de que pueda hacer nada,
+ me aparto de ella y me voy a sentar en el sofá.
 }
 [sha:9dc7eee8911345d973e629e444c0a64076412015]{
 -- Page 655, Offset 7312.
 -- 「あっ、逃げた」
--- TRANSLATION HERE
+"Maldito, ha huído."
 }
 [sha:9779d098903928b80ebd61920438ccd814a9a803]{
 -- Page 655, Offset 7313.
 -- 「そりゃあ逃げる。おまえの無茶には慣れつつあるけど、このメガネだけは渡さないからな。
--- TRANSLATION HERE
+"¿Y quién no?
+ Quizá me esté acostumbrando a tu temeridad, pero de ninguna manera te voy a dar las gafas.
 }
 [sha:1a407402f812d92b0ca8762d25adeed784ea7058]{
 -- Page 655, Offset 7314.
 -- 万が一にも壊されたりしたら替えがないんだ。それとも弁償してくれるのか？」
--- TRANSLATION HERE
+Aunque sea improbable. Si las rompes no tienen reemplazo. ¿O quieres decir que podrías compensarlo?"
 }
 [sha:b52c1fbc3daa475714345d84fec8c633d4688756]{
 -- Page 656, Offset 7315.
 -- 「んー、大抵の魔術品ならアテがあるけど、それはちょっと無理っぽい感じ？
--- TRANSLATION HERE
+"Hmm... tengo formas de obtener la mayoría de objetos de hechicería,
+ pero supongo que no podría encontrar nada como esas.
 }
 [sha:b5ddebbe49e964c6db5b9963cc8b004c0a0d3700]{
 -- Page 656, Offset 7316.
 -- ちぇっ、分かりましたよーだ。志貴のけちー」
--- TRANSLATION HERE
+%{i}Hmph%{/i}. Vale, lo entiendo. Shiki tacaño."
 }
 [sha:bdfa75cf98dd0ba8f35aeda66bb86fb5121bbdf9]{
 -- Page 656, Offset 7317.
 -- どうやら人が大切にしているものが気になるだけだったようだ。子供か。
--- TRANSLATION HERE
+Parece que tiene curiosidad por las cosas que la gente aprecia. ¿Es un crío?
 }
 [sha:6c8e1c184f4333b8da6b44676405244b99fba7e1]{
 -- Page 657, Offset 7318.
 -- 「はいはい、けちですよーだ。人間は生き返ったりできないから、何事も慎重なんです。
--- TRANSLATION HERE
+"Vale, me has pillado, soy tacaño. Los humanos no vuelven a la vida, así que tengo cuidado con todo.
 }
 [sha:1bd86749890357b586c8b2ba2e1a750db9bf0955]{
 -- Page 657, Offset 7319.
 -- ……だいたい、この眼鏡がなくなったら俺はおまえに協力するどころの話じゃなくなる。四六時中線が見えてたら、頭痛で頭がどうにかなりそうだし」
--- TRANSLATION HERE
+Además, si pierdo estas gafas, básicamente puedes decir adiós a nuestra colaboración.
+ Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo."
 }

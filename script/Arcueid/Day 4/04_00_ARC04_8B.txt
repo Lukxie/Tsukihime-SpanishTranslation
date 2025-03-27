@@ -1,187 +1,193 @@
 [sha:6ea2afb6484cf3f6652f635250d1849a50b35a0b]{
 -- Page 10025, Offset 7330.
 -- 夜が更けていく。
--- TRANSLATION HERE
+La noche está llegando a su fin.
 }
 [sha:b160d6f8953fb892eb94f9511d3d734195be1a11]{
 -- Page 10025, Offset 7331.
 -- アルクェイドはベッドの上に腰をおろし、
--- TRANSLATION HERE
+Arcueid está apoyada en el borde de la cama
 }
 [sha:ce73f0c6831d6fdb62eaba3b020765e1eb0b0b5b]{
 -- Page 10025, Offset 7332. Mods: @n.
 -- 俺はソファーに座って、ぼんやりと時計を眺めていた。
--- TRANSLATION HERE
+Mientras que yo, estoy sentado en el sofá, distraído mientras miro el reloj.
 }
 [sha:48c401a113fe84f2a2a680fc138a15f3f61e163c]{
 -- Page 662, Offset 7333.
 -- 時刻は午前４時すぎ。
--- TRANSLATION HERE
+Son las cuatro y pico de la mañana.
 }
 [sha:46d08226b52b44a2c8e31d4997f217e18b92635d]{
 -- Page 662, Offset 7334.
 -- 夜明けまで、あと１時間ばかりというところだ。
--- TRANSLATION HERE
+Falta como una hora para el amanecer.
 }
 [sha:63a6c9c1cde1c33440bbc22803f74e8ca4a59c5a]{
 -- Page 663, Offset 7335.
 -- 「あと１時間、か」
--- TRANSLATION HERE
+"Una hora más, ¿eh?"
 }
 [sha:a0186cf4e5f0820b74dc0bb4827f6ab7708efa67]{
 -- Page 663, Offset 7336.
 -- 今までこれといった異常はなかったし、アルクェイド本人は緊張している素振りさえない。
--- TRANSLATION HERE
+No ha pasado nada de momento, y Arcueid no muestra ninguna señal de estar nerviosa.
 }
 [sha:9032c6a4cd1146e548f4c8edae372b558ac4d20b]{
 -- Page 663, Offset 7337.
 -- ホテルはまったくの平和だった。
--- TRANSLATION HERE
+El hotel no podría estar más tranquilo.
 }
 [sha:96cfee9c6b44e72b2b40b6573567b9fad36a699c]{
 -- Page 664, Offset 7338.
 -- ……それなりに緊張していたが、それも取り越し苦労に終わりそうだ。
--- TRANSLATION HERE
+La verdad es que estaba un poco tenso por lo callado que estaba todo,
+ pero al final, parece que me estaba preocupando por nada.
 }
 [sha:ec54e754487eb4539124ab9b3a3d7ff5230f954f]{
 -- Page 664, Offset 7339.
 -- なんとなくではあるが、今夜はこのまま過ぎる気がする。
--- TRANSLATION HERE
+No sé porqué, pero tengo la sensación de que el resto de la noche transcurrirá con normalidad.
 }
 [sha:b605cb1a03c4cba19ae288430acd28576a55c2df]{
 -- Page 665, Offset 7340.
 -- 「ね、志貴」
--- TRANSLATION HERE
+"Ey, Shiki."
 }
 [sha:b8547dae6dc1e55faec97047ce7965cc8332e624]{
 -- Page 665, Offset 7341.
 -- そしてもう何度目かになる、アルクェイドからの呼びかけである。
--- TRANSLATION HERE
+Arcueid me llama por enésima vez.
 }
 [sha:297c88bd10510dfbe07e5aff37dbbb1ab7d26851]{
 -- Page 666, Offset 7342.
 -- 「なんだよ。もう話すコトとかないからな、こっちは」
--- TRANSLATION HERE
+"¿Qué quieres? Ya no me quedan cosas de las que hablar."
 }
 [sha:0172c17dff61e9813e699290e01f3c325d8ef3e8]{
 -- Page 666, Offset 7343.
 -- 「そうなの？　せっかくこうしてるのにもったいないね」
--- TRANSLATION HERE
+"¿De veras? Hemos venido hasta aquí, sería un desperdicio estar sentado sin hacer nada."
 }
 [sha:09ac056bf983a90d5cb6abf3dfe0f52a6668bfcf]{
 -- Page 667, Offset 7344.
 -- 「……あのな。さっきからどれだけお喋りに付き合ってると思ってるんだ。
--- TRANSLATION HERE
+"Arcueid... ¿Cuanto tiempo crees que llevamos hablando?"
 }
 [sha:33aedefe7c9ad229c1673a3059aa1ce29e5ba1d8]{
 -- Page 667, Offset 7345.
 -- ６時間だぞ、６時間。なにが疲れたかって、見張りなんかよりそっちのほうが疲れたよ、俺は」
--- TRANSLATION HERE
+// Rarillo
+Han sido seis horas. %{i}Seis%{/i}.
+ Si me preguntasen qué me cansa, hablar contigo claramente más que montar guardia."
 }
 [sha:9fd2c2de99a1f7e4439d2c37ae23da54b876fdd8]{
 -- Page 668, Offset 7346.
 -- むっ、とアルクェイドは不満そうにこちらを睨む。
--- TRANSLATION HERE
+Arcueid me mira con disgustada.
 }
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
 -- Page 668, Offset 7347.
 -- そう。
--- TRANSLATION HERE
+Solo digo las cosas como son.
 }
 [sha:3bbbc20a3f4a941e1be80df957241103a3e94cdf]{
 -- Page 668, Offset 7348.
 -- どういうワケか、アルクェイドはしきりに話しかけてきた。
--- TRANSLATION HERE
+Por alguna razón, sigue intentando empezar una conversación.
 }
 [sha:f9501449abbd6f93e162a30d2dda558e9b229341]{
 -- Page 669, Offset 7349.
 -- 弱っているのなら眠ればいいものを、
--- TRANSLATION HERE
+La he dicho que si se siente débil es mejor que duerma, pero―――
 }
 [sha:fff7d6a9cf0ac50cd82d9615c51f71d1c8455692]{
 -- Page 669, Offset 7350.
 -- 「話しているほうが楽しいから」
--- TRANSLATION HERE
+"Hablar es mucho más divertido."
 }
 [sha:87e6fef4dfe7b17e2bae408dc00404209764406e]{
 -- Page 669, Offset 7351.
 -- なんて、結局こうして二人で向かい合ってしまっている。
--- TRANSLATION HERE
+Simplemente no me escucha, por lo que acabamos hablando mucho.
 }
 [sha:8b99d41e162a8989b33dc4f7f1fd488b1f0248d9]{
 -- Page 670, Offset 7352.
 -- 「………はあ」
--- TRANSLATION HERE
+"%{i}Haaaa%{/i}..."
 }
 [sha:a74115cd61aa925d087784e9eea46830b7cf3332]{
 -- Page 670, Offset 7353.
 -- ホントに、コイツの考えてるコトは分からない。
--- TRANSLATION HERE
+No entiendo lo que hay en su cabeza.
 }
 [sha:5efb59b18f97d8938d6ed86f00cdee02e522f9cc]{
 -- Page 670, Offset 7354.
 -- おまけに腹も減ってきた。
--- TRANSLATION HERE
+Y para empeorarlo, me ruge el estómago.
 }
 [sha:198fa60b03dcdd7a64129ec0a6512a6fa536bbef]{
 -- Page 670, Offset 7355.
 -- 考えてみれば昨日の朝食からこっち、まる一日何も食べていない事になる。
--- TRANSLATION HERE
+Ahora que lo pienso, no he comido en casi 24 horas――mi última comida fue el desayuno de ayer.
 }
 [sha:e7a9663dc63b5e9a0b4d52ccff64b5a6bc21ef06]{
 -- Page 671, Offset 7356.
 -- 「お腹が減っているなら何か食べたら？
--- TRANSLATION HERE
+"Si tienes hambre, ¿por qué no comes algo?
 }
 [sha:0b854bba39dc12221f807037cc1fdbb358487e54]{
 -- Page 671, Offset 7357.
 -- せっかくホテルに泊まってるんだから、ルームサービスを使えばいいのに」
--- TRANSLATION HERE
+Nos hemos molestado en quedarnos en un hotel, ¿por qué no pides algo al servicio de habitaciones?"
 }
 [sha:f8bd5e271163b78909cb7f78b9559419874cd731]{
 -- Page 672, Offset 7358.
 -- 「いい、緊張感が削がれる。そういうおまえの方こそ何か食べた方がいいんじゃないか？　弱ってるクセに眠りもしないんだから、せめて食事ぐらいしろよ」
--- TRANSLATION HERE
+"Paso, comer algo arruinaría el ambiente.
+ Además, no eres quién para hablar.
+ Tu eres la que está débil ahora mismo, e incluso si te niegas a dormir, al menos deberías comer."
 }
 [sha:71b40b8b6072713b66f341448d037141416c9b2a]{
 -- Page 673, Offset 7359.
 -- 「志貴がいいならわたしもやめとく。
--- TRANSLATION HERE
+"Si no vas a comer, entonces yo tampoco.
 }
 [sha:72d0d837c57ff2d98e50f32b755727533404071e]{
 -- Page 673, Offset 7360.
 -- 普通の食事もそれなりに意味はあるけど、ひとりで食べてもつまらないもの」
--- TRANSLATION HERE
+Comer algo normal sería beneficioso, seguro,
+ pero es aburrido comer sola."
 }
 [sha:4b778ffbcfb993801deb2c68c8e1473b52c5a1ae]{
 -- Page 674, Offset 7361.
 -- 「普通の食事って、食事に普通も特別も―――」
--- TRANSLATION HERE
+"¿Algo normal? No creo que haya comidas normales o especiales―――"
 }
 [sha:07a952ee73f73210c7ae0c0cf23d9ef19f4d4ac7]{
 -- Page 674, Offset 7362.
 -- ……ああ、そうだった。
--- TRANSLATION HERE
+Ah...cierto.
 }
 [sha:8435039ef40e84450cbc09f5f3522d774f308a64]{
 -- Page 674, Offset 7363.
 -- とてもそうは見えないが、アルクェイドは吸血鬼らしい。
--- TRANSLATION HERE
+No lo parece en absoluto, pero Arcueid es un vampiro supuestamente.
 }
 [sha:40120cbf34cbcb2dd0fba80ee79637f1c9be4145]{
 -- Page 674, Offset 7364.
 -- そうなると、こいつだって人間の血を吸う事が『食事』になる。
--- TRANSLATION HERE
+Si lo es, entonces chupar sangre humana será su forma de 'comer'.
 }
 [sha:6093c7cca5bad224825f46a55e689b84623b948d]{
 -- Page 675, Offset 7365.
 -- 吸血鬼は生きるために人間の血を必要とする、とアルクェイドは言った。
--- TRANSLATION HERE
+Arcueid dijo antes que los vampiros necesitan sangre humana para sobrevivir.
 }
 [sha:cb1e082287a4a988c2c3e6ffa6d8237262fad149]{
 -- Page 675, Offset 7366.
 -- なら―――こいつは今まで誰の血を吸って、何人の人間を殺してきたのだろう？
--- TRANSLATION HERE
+Si es cierto――a quién le ha chupado la sangre, y por lo tanto, ¿a cuántos humanos ha matado?
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 676, Offset 7367.
@@ -191,22 +197,22 @@
 [sha:19210080ae680bac80a85d0c4e971ecbfd4bc0ee]{
 -- Page 676, Offset 7368.
 -- ちらり、とアルクェイドの顔を盗み見る。
--- TRANSLATION HERE
+Miro a Arcueid de reojo.
 }
 [sha:47d942c77a8ea227b031e92acc8b9fb14f0a0edd]{
 -- Page 676, Offset 7369.
 -- ……どうかしている。
--- TRANSLATION HERE
+Esto es ridículo...
 }
 [sha:f1b1065b28080e373c26be531999cead52c7a803]{
 -- Page 676, Offset 7370.
 -- 吸血鬼だと何度も説明されてきたのに、どうしてか俺は、コイツが人の血を吸っているところが想像できない―――
--- TRANSLATION HERE
+Aunque me haya explicado varias veces que es un vampiro, simplemente no me la puedo imaginar chupando la sangre de alguien―――
 }
 [sha:443242191388a6272cbf5a0c4b207e940e97d553]{
 -- Page 677, Offset 7371.
 -- 「なに？　わたしの顔になんかついてる？」
--- TRANSLATION HERE
+"¿Qué? ¿Tengo algo en la cara?"
 }
 [sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
 -- Page 677, Offset 7372.
@@ -216,125 +222,125 @@
 [sha:4db40cfdd41a79e223de7b61301c838e142952e0]{
 -- Page 677, Offset 7373.
 -- あわてて目を逸らす。
--- TRANSLATION HERE
+Aparto la mirada en pánico.
 }
 [sha:6600f11285b39cbd17c3ca79c034e68acb851134]{
 -- Page 677, Offset 7374.
 -- アルクェイドはじーっ、と俺の顔を見つめてから、
--- TRANSLATION HERE
+Arcueid me mira intensamente por un segundo,
 }
 [sha:b119b6cf25140eae355aded285e5f0d6fcff736b]{
 -- Page 677, Offset 7375. Glued. Mods: @x.
 -- ふふん、と意味ありげな笑みを洩らした。
--- TRANSLATION HERE
+y entonces me lanza una sonrisa traviesa.
 }
 [sha:08cce706b8cf16536b085cb45e6108c905d409ed]{
 -- Page 678, Offset 7376.
 -- 「気になる？」
--- TRANSLATION HERE
+Tienes curiosidad, ¿cierto?
 }
 [sha:bb3e988359bee2c306ce308ab3c17deae35bb481]{
 -- Page 678, Offset 7377.
 -- 「な、なにが」
--- TRANSLATION HERE
+"¿S-Sobre qué?"
 }
 [sha:f8a85200ed2ccbec9f9273ccaf38b15431c6f81c]{
 -- Page 678, Offset 7378.
 -- 「わたしがどのくらいの数、人間から血を吸ったのか、気になる？」
--- TRANSLATION HERE
+"Sobre a cuanta gente le he chupado la sangre. ¿Quieres saberlo?"
 }
 [sha:572e83e24f3b5bace06ec6bb0126990d39d8158f]{
 -- Page 678, Offset 7379.
 -- 「む……ぐ」
--- TRANSLATION HERE
+"%{i}Ngh%{/i}..."
 }
 [sha:0b73de99659436fa0199e7c83d3959cd25cf6cc1]{
 -- Page 679, Offset 7380.
 -- ……完全にこっちの考えが見透かされている。
--- TRANSLATION HERE
+Ha visto a través de mi...
 }
 [sha:8975260e5e50a0709a1533e308aee13ce173c438]{
 -- Page 679, Offset 7381.
 -- アルクェイドの笑みは余裕に満ちていて、なんだかとにかく気にくわない。
--- TRANSLATION HERE
+Arcueid está sonriendo tanto que empiezo a sentirme incómodo.
 }
 [sha:627eaa0c6532519439246399ce50844f60140384]{
 -- Page 679, Offset 7382.
 -- 気にくわないのだが―――それ以上にこいつが今までどれだけの人間を殺してきたのか、気になって仕方がない。
--- TRANSLATION HERE
+No me gusta a donde va esto――aún así, no puedo evitar preguntarme a cuanta gente ha matado.
 }
 [sha:404a18d9b978830d4bdeea6920f8d5d927829812]{
 -- Page 680, Offset 7383.
 -- 「……そりゃあ気になるよ。俺はおまえと協力してるんだ。
--- TRANSLATION HERE
+"Quiero decir... sí, tengo curiosidad. Después de todo, estoy colaborando contigo.
 }
 [sha:98180bf96e5a68748ae5743131faa3f04d7ec6d5]{
 -- Page 680, Offset 7384.
 -- それぐらい知っとかないと、いつおまえが心変わりして襲いかかってくるか、予測がつかないだろ」
--- TRANSLATION HERE
+Si no se ni siquiera eso, ¿como se supone que voy a predecir cuando vas a cambiar de opinión y atacarme?"
 }
 [sha:61ec9ce7654fc0ae22c2a1c177ad145b8792b4e4]{
 -- Page 681, Offset 7385.
 -- それは、本当に困る。
--- TRANSLATION HERE
+Eso es lo que me ha estado molestando.
 }
 [sha:91ba5f8322a27213fc74709e7c3e09089ec095c1]{
 -- Page 681, Offset 7386.
 -- なるほどねー、とアルクェイドは納得した。
--- TRANSLATION HERE
+Arcueid parece haber entendido lo que digo.
 }
 [sha:e568343a275c6c13163cfbc9c3bb0c170b5267ad]{
 -- Page 682, Offset 7387.
 -- 「それじゃあ問題。
--- TRANSLATION HERE
+"En ese caso, tengo una pregunta.
 }
 [sha:bc6261986bec42bbedb3284d5fa4db31335500a2]{
 -- Page 682, Offset 7388.
 -- わたしは今まで何人の血を吸ってきたでしょう？」
--- TRANSLATION HERE
+¿Hasta ahora a cuanta gente crees que le he chupado la sangre?"
 }
 [sha:369e229cc97c98b2f470226e1885cf28376d7ba5]{
 -- Page 683, Offset 7389.
 -- タン、と軽やかにベッドから跳ねて、アルクェイドは窓の近くまで歩いていく。
--- TRANSLATION HERE
+Arcueid salta de la cama, aterriza suavemente en el suelo,  y camina hacia la ventana.
 }
 [sha:7b9655128199d34bd7efa57f2f1a766bfed5f213]{
 -- Page 684, Offset 7390.
 -- 「何人のって、それは―――」
--- TRANSLATION HERE
+"¿Cuanta gente? Eso―――"
 }
 [sha:ce76c871bb79f961b7abea76ef32c96a60a7e267]{
 -- Page 684, Offset 7391.
 -- アルクェイドはにまにまと笑って、黙りこむ俺を愉快そうに眺めている。
--- TRANSLATION HERE
+Sonriendo satisfecha. Parece estar disfrutando de como me esfuerzo por responder.
 }
 [sha:5c1a1e24d0afbb58ac3325edb4b02795d018f928]{
 -- Page 684, Offset 7392.
 -- あきらかな挑発だった。
--- TRANSLATION HERE
+Es obvio que intenta provocarme.
 }
 [sha:d963d6f4645d72480f11b7fdf8cdb235c7be1099]{
 -- Page 685, Offset 7393.
 -- ……いいとも、スッパリ答えてやる。
--- TRANSLATION HERE
+Vale... la responderé directamente.
 }
 [sha:1f1d25986bded7a31f1f06457f5780d3c24d9899]{
 -- Page 685, Offset 7394. Mods: @k, @e.
 -- このヘンな女の事だから、きっと―――
--- TRANSLATION HERE
+Hablamos de esta rarita, así que estoy seguro de que el número es―――
 }
 [sha:7765fe3743dcbe5c5afc21ff880d7a106abd74a4]{
 -- Page 686, Offset 42610. Choice.
 -- 十人……とか？
--- TRANSLATION HERE
+¿Diez personas...?
 }
 [sha:02c7e85a4deb3fff9a805c91bd751d89b1191af5]{
 -- Page 686, Offset 42611. Choice.
 -- 百人……かよ？
--- TRANSLATION HERE
+¿Cien...?
 }
 [sha:3709d2f5d800d52c11e3c847031c2628677ef9cf]{
 -- Page 686, Offset 42612. Choice.
 -- 千人……だと？
--- TRANSLATION HERE
+¿Mil...?
 }

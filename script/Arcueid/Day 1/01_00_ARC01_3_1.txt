@@ -74,7 +74,7 @@ Debo haber deambulado hasta el campo de atletismo sin darme cuenta.
 [sha:6ce1112d2538e65a1502502910d1f751c6c63195]{
 -- Page 208, Offset 1704.
 -- 「すみません、ちょっと散歩のつもりでした。以後、気をつけます」
-"Lo siento, solo estaba paseando. En el futuro tendré mas cuidado."
+"Lo siento, solo estaba paseando. En el futuro tendré más cuidado."
 }
 [sha:4ff4c90846606f4b3e2905e54884b959233f8ee8]{
 -- Page 208, Offset 1705.

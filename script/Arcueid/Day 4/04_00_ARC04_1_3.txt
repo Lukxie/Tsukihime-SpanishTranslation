@@ -33,7 +33,7 @@ Ese acuerdo no tiene nada que ver conmigo, así que no voy a indagar.
 -- Page 86, Offset 5775.
 -- 「いや、そっちの話じゃなくて、単純に屋敷の状況。
 "No, no me refiero a eso.
- Quería saber como esta organizada la mansión.
+ Quería saber cómo está organizada la mansión.
 }
 [sha:33b264ae938426229972d68265ba5a02f2b1bb49]{
 -- Page 86, Offset 5776.
@@ -43,7 +43,7 @@ Los únicos viviendo aquí en este momento somos tú, Kohaku-san, Hisui, y yo, �
 [sha:0cc57ee7e26c563a4c853eca90d4d36f1700ec36]{
 -- Page 86, Offset 5777.
 -- 使ってる部屋とか、そういうのはどうなっているのかなって」
-Me preguntaba que habitaciones se están usando de verdad, ese tipo de cosa."
+Me preguntaba qué habitaciones se están usando de verdad, ese tipo de cosa."
 }
 [sha:04378f076ce1b90e1c969c6d3da7fe1d3d148411]{
 -- Page 87, Offset 5778.
@@ -79,7 +79,7 @@ La habitación de Kohaku está en la terminación norte de la primera planta del
 [sha:9f568791ce44f51bf350a5674332ea5982f13f44]{
 -- Page 88, Offset 5784.
 -- お父様の書斎は……重要な書類がまだありますので、堅く鍵をかけています。こちらは兄さんと言えど立ち入り禁止ですので、胸に留めておいてください」
-En cuanto el estudio de Padre... permanece cerrado porque dentro aún hay docuementos importantes.
+En cuanto el estudio de Padre... permanece cerrado porque dentro aún hay documentos importantes.
  Incluso tú no tienes permitido entrar, Nii-san, así que por favor manténlo presente."
 }
 [sha:0956c3f40919264f00fc093667b17c1efdb43ee0]{
@@ -105,12 +105,12 @@ Para una persona normal, la cantidad de espacio en esta creciente mansión serí
 [sha:16f810b2fa7d73fbb255ca22420907655e81efb7]{
 -- Page 90, Offset 5789.
 -- 「なんていうか、ちゃんと事前に約束をいれておかないといけない高級なスペース、という事だな。わかる」
-"Como decirlo... Este es un espacio de clase alta donde pides cita previa. Lo entiendo."
+"Como decirlo... Este es un espacio de clase alta donde tienes que pedir cita previa. Lo entiendo."
 }
 [sha:535057e21e1ef553c033104c7722303c0ee2eb91]{
 -- Page 91, Offset 5790.
 -- 「……言い方に問題はありますが、概ねその通りです。
-"No importa mucho como lo dices, pero la mayor parte, es como dices.
+"Me da un poco igual como lo describas, pero en su mayoría, lo que dices es correcto.
 }
 [sha:bedd47c1f1a1b799665ca7e939df844b141b9bee]{
 -- Page 91, Offset 5791.

@@ -11,7 +11,7 @@ La clase está más animada de lo normal.
 [sha:6b2a592c3307d824b2d5d7ccf5915a116ce47885]{
 -- Page 126, Offset 4272.
 -- ノエル先生の評価について、男子と女子がおかしな論争を繰りひろげている。
-Una feroz disputa se está llevando acabo entre los chicos y las chicas sobre lo que hacer de Noel-sensei.
+Una feroz disputa se está llevando a cabo entre los chicos y las chicas sobre lo que hacer de Noel-sensei.
 }
 [sha:38aafe2f9f73e9aaadbd7af7b94e211309d89a99]{
 -- Page 126, Offset 4273.
@@ -60,7 +60,7 @@ Está acompañado por un invitado inesperado.
 -- 「珍しいコトです。普通、上級生は下級生のクラスには来ませんよ。下級生のクラスとか、もろ異分子って感じで恥ずかしいじゃないですか」
 "Es bastante inusual.
  Los Senpais normalmente se mantienen alejados de las clases de años menores.
- ¿No da vergüenza estar tan obviamente fuera de lugar?"
+ ¿No le da vergüenza estar tan obviamente fuera de lugar?"
 }
 [sha:78cffb7b69acaea6a67d6582e3c170bd5b08fc98]{
 -- Page 131, Offset 4282.
@@ -131,7 +131,7 @@ Arihiko, tal como es él, se ha agenciado la mesa de otro y parece estar disfrut
 [sha:4377a2644bba0d7c23ed3f1cc80a3e8ad0575130]{
 -- Page 136, Offset 4294.
 -- なんだかどっと疲れてしまって、ため息まじりに椅子に座った。
-Me siento en mi silla con un suspiro, sintiéndome cansado de repente.
+Me siento en mi silla con un suspiro, de repente me siento cansado.
 }
 [sha:799bfda6571d98a7cb28a01c31d70111fdd64688]{
 -- Page 137, Offset 4295.
@@ -177,13 +177,13 @@ Los dos se susurran algo 'en secreto'...
 -- Page 141, Offset 4302.
 -- 「……あのさ。内緒話なら廊下でしてくれないか？　人の机でそういうコトされても、まる聞こえで頭痛いんだけど」
 "¿Sabes qué?
- Si quereís hablar en privado, ¿podeís hacerlo en el pasillo?
+ Si quereis hablar en privado, ¿podéis hacerlo en el pasillo?
  Escucharos hablar mal de mi desde el asiento de al lado me esta dando dolor de cabeza."
 }
 [sha:68d992f4853f60616f388b970e077d24562d8ec8]{
 -- Page 141, Offset 4303.
 -- 「なんと、聞こえていたというのか遠野!?」
-"¡¡No puede ser!! ¡¿Me podías oir, Tohno?!"
+"¡¡No puede ser!! ¡¿Me podías oír, Tohno?!"
 }
 [sha:03a0aadf4f386bd10cd447c1533b0316c4f5b62a]{
 -- Page 142, Offset 4304.
@@ -193,7 +193,7 @@ Demasiado bien...
 [sha:778b7d86b536788cdc4e43493cc8503f39e09a70]{
 -- Page 142, Offset 4305.
 -- あまつさえ、内緒話のフリをして先輩に接近し、さりげなく腰に伸ばした手を、さらに容赦のない先輩の手で打ち落とされるところまでバッチリ見届けましたとも。
-No solo podía oirte,
+No solo podía oírte,
  pero también he visto como has usado hablar en secreto como excusa para acercarte furtivamente a Senpai,
  y entonces intentar poner una mano casualmente en su cintura,
  solo para ser abatido sin piedad.
@@ -201,12 +201,12 @@ No solo podía oirte,
 [sha:28f4c7c5e485ea02627cd2d45b8df90c4514b6b8]{
 -- Page 142, Offset 4306.
 -- ここまであからさまな芝居をうたれると、怒る前に気が滅入ってくる。
-Ha sido una estrategia tan descarada que honestamente es mas deprimente que irritante.
+Ha sido una estrategia tan descarada que honestamente es más deprimente que irritante.
 }
 [sha:9ff1aff9201113f1ca49e84dd1e0afa1c4716b5f]{
 -- Page 143, Offset 4307.
 -- 一方、先輩はと言えば、どこまで本気なのかハッとして口元を手で隠している。
-Hablando de Senpai, ahora mismo se está cubriendo la mano con la mano de la sorpresa.
+Hablando de Senpai, ahora mismo se está cubriendo la boca con la mano, en señal de sorpresa.
  Aunque no puedo decir si es en serio o no.
 }
 [sha:eed0fd86490d25e9f87605242c5a191fe00c495b]{
@@ -223,7 +223,7 @@ Conociéndola, seguramente había estado intentando hablar en privado de verdad.
 [sha:8f6dad2009c63dddd92f578759ca4b3139f29ce8]{
 -- Page 144, Offset 4310. Glued. Mods: @x.
 -- んー、そんなに日々欲求不満なんですかー？　新しい妹サマはそんなに美人なんですかァー？　今度紹介してくれますかー？」
- ¿Hmmmm?
+¿Hmmmm?
  ¿O a día de hoy estás realmente tan %{i}frustrado%{/i}?
  ¿De verdad está tan buena tu hermana?
  ¿Me la quieres presentar?"
@@ -296,7 +296,7 @@ Nos conocemos desde hace mucho tiempo,
 [sha:da10466c42152b0037748ed65e0629d1920a2a87]{
 -- Page 149, Offset 4323.
 -- 「それで、新しい家はどうなんだ？
-"Así que, ¿cómo es la nueva casa?
+"Entonces, ¿cómo es la nueva casa?
 }
 [sha:daf90a9d90b4b0d028c3b354db59e7721cd03bc7]{
 -- Page 149, Offset 4324. Mods: @n.
@@ -307,14 +307,15 @@ Parece que ya estás bastante estresado."
 -- Page 149, Offset 4326.
 -- 「さあ、どうだろう。とりあえず昨日は妙な夢を見て、家の人たちに白い目で見られたけど」
 // Ya no se que poner en vez de tío xd
-Buah, ¿por dónde empiezo?
+En fin, ¿por dónde empiezo?
  Para empezar, tuve este sueño raro anoche y cuando le dije a la gente que vivo sobre el, me dijeron que no me creían."
 }
 [sha:97a26070d37ae3c0e3fd29a55bb618cd7229b685]{
 -- Page 149, Offset 4327.
 -- 「むう。そうか、それは災難だな」
 // No hay mas remedio xd
-"Hmm, es eso. Parece duro, tío."
+// Cambio thio por una coletilla, como "la verdad".
+"Hmm, es eso. Parece duro, la verdad."
 }
 [sha:8815dba96333c4a8b95fb441ff6a8b7a0d5bd3c4]{
 -- Page 149, Offset 4328.
@@ -335,7 +336,7 @@ Arihiko asiente con cara seria.
 -- Page 150, Offset 4331.
 -- 黙っていると思ったら、先輩は俺と有彦がくだらない会話をしているのを真剣に見つめていた。
 Pensaba que Senpai se había quedado al margen de esta conversación trivial,
- pero ha estado todo este tiempo mirándo nuestra conversación con ojos de alcón.
+ pero ha estado todo este tiempo mirando nuestra conversación con ojos de halcón.
 }
 [sha:d880620a31a090ca8f08034eb1a94d5990928a82]{
 -- Page 151, Offset 4332.
@@ -378,7 +379,7 @@ Arihiko y yo nos miramos e inclinamos nuestras cabezas.
 [sha:b224e1d6d4ee505762b4f3c8ba698881edebd713]{
 -- Page 153, Offset 4339.
 -- 「羨ましいなあ。そうやって何の気負いもなしで分かり合える友人がいるのって、憧れます」
-"Realmente os envidio――sin formalidades, simplemente os %{i}conectaís%{/i} entre vosotros.
+"Realmente os envidio――sin formalidades, simplemente os %{i}conectais%{/i} entre vosotros.
  Siempre quise una amistad así."
 }
 [sha:f7a7ba03d295e93a6c82a9d150f3dfe14ae02320]{
@@ -483,8 +484,8 @@ Sin mencionar que tu mismo parecías bastante amistosa con ella."
 [sha:2aed91c49cef9e86f3d7bba1854f5fd4c007f961]{
 -- Page 161, Offset 4359.
 -- 「ほう。そりゃあ珍しい。一日でなびかない女はめんどくさいから相手にしないってのも、おまえのポリシーじゃなかったっけ？」
-"Oho, esto si que es inusual.
- ¿No era tu política evitar lidiar con mujeres que no se pillaban por ti en un día porque eran un dolor en el culo?"
+"Oho, esto sí que es inusual.
+ ¿No era tu política evitar lidiar con mujeres que no se pillaban por ti en un día porque eran un dolor de huevos?"
 }
 [sha:4f0c0f69d7a830c4ec881c501548149ce983fe99]{
 -- Page 162, Offset 4360.

@@ -52,7 +52,7 @@ Por alguna casualidad, ¿te acabas de dar un baño?"
 [sha:b795165b8b6464f4da00d19149c6137a8bda649b]{
 -- Page 28, Offset 5639.
 -- お風呂あがりだと、志貴さんはいっそう可愛らしくなるんですね」
-Tengo que decir que estás aún mas mono tras un baño."
+Tengo que decir que estás aún más mono tras un baño."
 }
 [sha:b8fb11ffb899eaa387ced81d32f37b20b67965f9]{
 -- Page 29, Offset 5640.
@@ -67,7 +67,7 @@ Que me sonrían en este momento hace que me duela el corazón...
 [sha:e3d34d83f84c631f849a9c292c0b2c3ca30286b9]{
 -- Page 30, Offset 5642.
 -- 「ちょっと待っててくださいね。
-"Esperame un minuto, ¿vale?
+"Espérame un minuto, ¿vale?
 }
 [sha:35aa4b0cba14b431a6e9b8b3d520a527e3c2a869]{
 -- Page 30, Offset 5643.
@@ -92,7 +92,7 @@ En otras palabras, voy a comer algo.
 [sha:7a158a5a176227704ea93844e4582689a22a508b]{
 -- Page 31, Offset 5647.
 -- 些細な言葉で血の色を思い出す。
-Las palabras mas triviales me recuerdan el color de la sangre.
+Las palabras más triviales me recuerdan el color de la sangre.
 }
 [sha:8b3a1d42164d2e53db0c13be2dc15d46023ae62c]{
 -- Page 31, Offset 5648.
@@ -139,7 +139,7 @@ Cierto, el desayuno...
 [sha:56b026bb8934b471aa0f78bba19431ebe335ed76]{
 -- Page 36, Offset 5655.
 -- 「そんな<拘|こだわ>りはなかったけど……言われてみれば、有間の家では野菜ばっかり食べてた気がします」
-"No soy quisquilloso con esas cosas... aunque ahora que lo dices, creo que solo comía verduras en la casa de los Arima."
+"No soy quisquilloso con esas cosas... aunque ahora que lo dices, creo que sólo comía verduras en la casa de los Arima."
 }
 [sha:b8c6041fc820df2a42c11336a435f2317490f558]{
 -- Page 37, Offset 5656.
@@ -193,7 +193,7 @@ Sin embargo, en cuanto lo hago,
 [sha:1c0b92c455a28b6564d136191dd140227a0d08de]{
 -- Page 40, Offset 5665. Glued.
 -- がしっと腕を掴まれた。
- algo me agarra el brazo con firmeza.
+algo me agarra el brazo con firmeza.
 }
 [sha:efe8602a84bcca5a07b9c67d6cea0f7b7ec7a511]{
 -- Page 41, Offset 5666.
@@ -213,7 +213,7 @@ Kohaku-san parece... ¿enfadada?
 [sha:c051002f74cf5882f73cbb8513c6f3b0596cb6e4]{
 -- Page 42, Offset 5669.
 -- 「なんてことを言い出すんですかっ。
-"¿De qué estas hablando?
+"¿De qué estás hablando?
 }
 [sha:18c1b535f2ad94f02b17b655f3e730b4dde4b18a]{
 -- Page 42, Offset 5670.
@@ -223,13 +223,13 @@ Shiki-san, ¡¿no te has mirado al espejo esta mañana?!"
 [sha:d3303eef2a8cc1cc73cf185221441851a19360c1]{
 -- Page 42, Offset 5671.
 -- 「……いや、鏡なら風呂場で見たけど……」
-"Bueno... me he mirado en espejo del baño..."
+"Bueno... me he mirado en el espejo del baño..."
 }
 [sha:abddae0d647e83f5e3af68f52328d26a93c5733b]{
 -- Page 43, Offset 5672.
 -- 「うそですっ。ご自分の顔を一度でも見ているんなら、そんなコトは言えません！」
 "Mientes.
- Si hubieras echado mero un vistazo a tu cara, ¡no estarías diciendo algo así!"
+ Si hubieras echado un mero vistazo a tu cara, ¡no estarías diciendo algo así!"
 }
 [sha:89b1fc956d50a26ebcd0f014575007defd2d3ca4]{
 -- Page 44, Offset 5673.
@@ -247,14 +247,14 @@ Pensándolo bien,
 -- 「いや、でも大丈夫だって。俺はもともと血の気が少ないし、人より顔色が悪く見えるだけというか、」
 "Venga, no se ve tan mal.
  Mi complexión siempre ha sido tirando a pálida,
- así que puede que parezca un poco enfermo cuando me comparas con otras peronas, pero―――"
+ así que puede que parezca un poco enfermo cuando me comparas con otras personas, pero―――"
 }
 [sha:fd99179705999e72978f204cc79b06d16221bc68]{
 -- Page 46, Offset 5676.
 -- 「だめです！　朝ごはんを食べないと大きくなれないんですから！　食欲がないようでしたら病人食にいたしますから、どうぞ食堂にいらしてください」
 "¡No!
  ¡No crecerás si no desayunas!
- So no tienes mucho apetito, te prepararé algo fácil de digerir,
+ Si no tienes mucho apetito, te prepararé algo fácil de digerir,
  así que por favor ve al comedor."
 }
 [sha:7847778b26fd6e9664c069ad458bf1610794a61f]{
@@ -280,7 +280,7 @@ Esto no me entusiasma mucho de veras, pero aceptaré su amable oferta...
 [sha:0712c36193a4d73bc57b88ee5a1ebaeb011d9af0]{
 -- Page 48, Offset 5681.
 -- お体の具合はよろしいのですか？」
-¿Como te encuentras físicamente?"
+¿Cómo te encuentras físicamente?"
 }
 [sha:b77b14b5b40a6fa39d24aff4e1f115e0d9c0a405]{
 -- Page 49, Offset 5682.
@@ -301,7 +301,7 @@ Le falta su típico filo.
 [sha:4184489ebcf1ad6785d452277fd327d109f12d6f]{
 -- Page 50, Offset 5685.
 -- 挨拶を返して椅子に座る。
-La devuelvo el saludo y tomo asiento.
+Le devuelvo el saludo y tomo asiento.
 }
 [sha:aa15fc1200f7a3aa344f1f38adc5acffafcc37b7]{
 -- Page 50, Offset 5686. Mods: @n.
@@ -367,13 +367,13 @@ Sí. No lo recuerdo muy bien, pero si Kohaku-san y Hisui lo dicen, entonces ser�
 [sha:406d13196d85801a0d125f2c615a4809d21a5996]{
 -- Page 54, Offset 5698.
 -- 兄さんは体が弱いんですから、危ないと感じたら屋敷に連絡をいれてください。すぐに迎えの者を行かせますから」
-Eres débil físicamente, así que si alguna vez sientes que estas en peligro, por favor contacta a la mansión.
+Eres débil físicamente, así que si alguna vez sientes que estás en peligro, por favor contacta a la mansión.
  Mandaré alguien a buscarte de inmediato."
 }
 [sha:a6ecf959bdd8af711ca2e1c3abf546df33bdf5c7]{
 -- Page 55, Offset 5699.
 -- 「……あのな。小学生じゃないんだから、そんなのは必要ないよ。どんなに気分が悪くたって自分ひとりで帰ってこれる」
-"Oh, venga. No hay necesidad de todo eso, no como si aún estuviese en primaria.
+"Oh, venga. No hay necesidad de todo eso, no es como si aún estuviese en primaria.
  Aunque me sienta fatal, aún puedo volver a casa por mi cuenta."
 }
 [sha:868e2ab6b365d24f49cf489661390babf99cd23a]{
@@ -433,7 +433,7 @@ Me sorprende verla tan firmemente enfadada.
 [sha:bdbd4be6c3e0570df50311571d05f94c272852f4]{
 -- Page 58, Offset 5710.
 -- もう少し、ご自分を<労|いたわ>ってあげてください」
-Cuídate un poco mas por favor."
+Cuídate un poco más por favor."
 }
 [sha:d671ea7979fbab25b9a91f79139a531d17120e63]{
 -- Page 59, Offset 5711.
@@ -508,15 +508,15 @@ Parece que queda algo de tiempo antes de que la comida esté lista, así que voy
 [sha:6ce579501f4b30fb71263408efcd65ac8453cdee]{
 -- Page 65, Offset 42601. Choice.
 -- 秋葉について訊ねる。
- Preguntar sobre Akiha.
+Preguntar sobre Akiha.
 }
 [sha:87cf33b3f91546f33aa58a36e1202a61fe6d5137]{
 -- Page 65, Offset 42602. Choice.
 -- 琥珀さんについて一言。
- Hablar sobre Kohaku-san.
+Hablar sobre Kohaku-san.
 }
 [sha:43914efc6bc1bad83563e760792fc8df8906f7f9]{
 -- Page 65, Offset 42603. Choice.
 -- 屋敷について訊ねる。
- Preguntar por la mansión.
+Preguntar por la mansión.
 }

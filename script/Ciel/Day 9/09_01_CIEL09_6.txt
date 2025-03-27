@@ -96,7 +96,7 @@
 [sha:8bff0d75936c49222070ad8695c2e6b6d88a1a33]{
 -- Page 545, Offset 23538.
 -- だから―――」
--- TRANSLATION HERE
+Es por eso que―――"
 }
 [sha:d035ba6042010b12abebcf1847982f8412643420]{
 -- Page 546, Offset 23539. Mods: @k, @e.
@@ -246,7 +246,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 557, Offset 23568.
 -- 「！」
--- TRANSLATION HERE
+"¡%{i}Agh%{/i}!"
 }
 [sha:5a5dc54fb2b138eb9c06d5dca0f6872d9abb7721]{
 -- Page 558, Offset 23569.
@@ -396,7 +396,7 @@
 [sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
 -- Page 569, Offset 23598.
 -- ……なんだろう。
--- TRANSLATION HERE
+Pero... algo no tiene sentido.
 }
 [sha:9953c2e75ee3eb73dc44f4c5a2ef6ab48b3c38ca]{
 -- Page 569, Offset 23599.

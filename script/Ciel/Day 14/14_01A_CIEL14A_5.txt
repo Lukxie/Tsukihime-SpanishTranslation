@@ -1,7 +1,7 @@
 [sha:9c24c147b8a2ba3f0ca2cb28d7f6b8807249019b]{
 -- Page 10004, Offset 38081.
 -- 「え……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:66de9aa5b82efc2d2dbdb09c4ef108e54e12e289]{
 -- Page 10004, Offset 38082.
@@ -56,7 +56,7 @@
 [sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
 -- Page 158, Offset 38092.
 -- それは。
--- TRANSLATION HERE
+Eso es...
 }
 [sha:2e2e549458d91859fb9bcecda47145cd6d0553e5]{
 -- Page 158, Offset 38093.
@@ -301,7 +301,7 @@
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 174, Offset 38141.
 -- 「――――――――」
--- TRANSLATION HERE
+"――――――――"
 }
 [sha:7dc259ffac161f5fe3074290805bcc2ad08ff633]{
 -- Page 174, Offset 38142.
@@ -321,7 +321,7 @@
 [sha:c65326c478c0eb724cb410bbd7a8297912748433]{
 -- Page 175, Offset 38145.
 -- 「志―――貴」
--- TRANSLATION HERE
+"Shi――ki."
 }
 [sha:497906863ddcda632669125761cd40e466129c96]{
 -- Page 175, Offset 38146.
@@ -716,7 +716,7 @@
 [sha:dce9f1b7c8d76aac0f21cb6e6f80b9b03994dfb2]{
 -- Page 202, Offset 38224.
 -- 「……はあ。
--- TRANSLATION HERE
+"%{i}Haaa%{/i}...
 }
 [sha:ec3c9cfbe267a0c08e4cacb49b0abd16979c538a]{
 -- Page 202, Offset 38225.
@@ -786,7 +786,7 @@
 [sha:093da61a855c71259068c39e3db43b7b672e967f]{
 -- Page 207, Offset 38238.
 -- 「――――っ」
--- TRANSLATION HERE
+"―――%{i}Gh%{/i}."
 }
 [sha:bc061d48294c991535a96e8d5e05c9900eb787e1]{
 -- Page 207, Offset 38239.

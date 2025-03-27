@@ -1,7 +1,7 @@
 [sha:2e02695cc2a210a68c35dbb8c0544d9263a60129]{
 -- Page 10000, Offset 43452. Mods: @n.
 -- こんにちは。
--- TRANSLATION HERE
+Buenas tardes.
 }
 [sha:acf91cf5f3b99c20e00e0d6235a96cd7c199578f]{
 -- Page 10000, Offset 43453.

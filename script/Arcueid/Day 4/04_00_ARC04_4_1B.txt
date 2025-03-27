@@ -6,47 +6,48 @@
 [sha:6fae4925c296d4a06bb540b8a3dd6d238dcc25d0]{
 -- Page 10011, Offset 6276.
 -- 返答に<窮|きゅう>して、なんとなしに顔を上げる。
--- TRANSLATION HERE
+Sin saber cómo responder, levanto la cabeza.
 }
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 258, Offset 6277.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:51f2fc6f9477dfa0679e80abadadf173dfdf5516]{
 -- Page 258, Offset 6278.
 -- 瞬間。その、二つの目と、目が合った。
--- TRANSLATION HERE
+En el momento que lo hago, mi mirada se cruza con otro par de ojos.
 }
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 259, Offset 6279.
 -- 「っ―――！」
--- TRANSLATION HERE
+"%{i}Kh%{/i}―――!"
 }
 [sha:72702ee71f76cde7d24c0c49e1e6f67cb6e7ffbb]{
 -- Page 259, Offset 6280.
 -- 緩んでいた意識が引き締まる。
--- TRANSLATION HERE
+Mi floja conciencia se tensa.
 }
 [sha:3c701e8c352bb427ad6b9dfcce1502fefcbf1b06]{
 -- Page 259, Offset 6281.
 -- 萎えていた両脚に力が戻り、尻餅の姿勢から中腰に移行する。
--- TRANSLATION HERE
+Mientras la fuerza vuelve a mis piernas cansadas, cambio mi cuerpo de una posición sentada a una en cuclillas.
 }
 [sha:d231a5bbc7bb1c7e8178793392ea24497d7b5087]{
 -- Page 260, Offset 6282.
 -- 俺の視線に釣られて女も背後……この路地裏の入り口を振り返る。
--- TRANSLATION HERE
+Siguiendo mi mirada, la mujer también mira hacia la entrada del callejón.
 }
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 260, Offset 6283.
 -- そこには、
--- TRANSLATION HERE
+Allí―――
 }
 [sha:099f11d74de9e12d6be2210295ef62c594d035ad]{
 -- Page 260, Offset 6284.
 -- 吸血鬼を名乗る女以上に、人間の都市に居てはならない生き物がいた。
--- TRANSLATION HERE
+Hay algo incluso más extravagante que la mujer que se autodenomina vampiro.
+ Una criatura que no debería existir en esta ciudad humana.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 261, Offset 6285.
@@ -56,97 +57,103 @@
 [sha:af60df20ab01e598d769a8535de8ff90c488bcb1]{
 -- Page 261, Offset 6286.
 -- 女は平然と眺めているが、俺は状況把握が追いつかない。
--- TRANSLATION HERE
+La mujer parece despreocupada,
+ pero simplemente no puedo entender lo que está pasando.
 }
 [sha:06f52db8cca7949e7ae423ea6dd00ba2c9944835]{
 -- Page 262, Offset 6287.
 -- アレは、豹だ。それは判る。子供だって見知っている動物だ。
--- TRANSLATION HERE
+Eso es una pantera.
+ Es algo que puedo afirmar.
+ Es un animal que hasta un niño reconocería.
 }
 [sha:89c5ff80e4fb82eac1e5b4c5523a4919d5aabd4d]{
 -- Page 262, Offset 6288.
 -- ただし、あくまで図鑑の中、檻の中にいる前提だ。
--- TRANSLATION HERE
+Excepto porque normalmente, los verías en una jaula o en un álbum de fotos.
 }
 [sha:d4efe6053389524962d4726eeb7a5745338482fe]{
 -- Page 262, Offset 6289.
 -- 間になんの壁もない状態でアレと向き合う事がどれほどの恐怖なのか、俺はいま身をもって味わっている。
--- TRANSLATION HERE
+Estoy experimentando de primera mano lo terrorífico que es estar cara a cara sin nada que nos separe.
 }
 [sha:cda9430cd4c467d1c85b5473d4e929899fa920c4]{
 -- Page 263, Offset 6290.
 -- 細く強靭な四肢。
--- TRANSLATION HERE
+Sus extremidades son delgadas, pero fuertes.
 }
 [sha:70afd2569def1742312d486c55a1b29d17b7df37]{
 -- Page 263, Offset 6291.
 -- ゴムのようにしなやかな、しかし鉄骨のような筋肉。
--- TRANSLATION HERE
+Sus músculos son como barras de acero, pero flexibles como el cuero.
 }
 [sha:54e45bd3d75b61f407874adba275edc33207b203]{
 -- Page 263, Offset 6292.
 -- 人間とは大きくかけはなれた、“獲物を狩る”ことだけを追求したそのフォルム。
--- TRANSLATION HERE
+Esta criatura es vastamente diferente a un ser humano;
+ una forma de vida que ha sido tallada con el objetivo de 'cazar presa' y nada más.
 }
 [sha:1ae512d8918d372746429a590d0ca2d1f381feae]{
 -- Page 264, Offset 6293.
 -- 切り捨てたはずの太古の記憶を呼び起こされる。
--- TRANSLATION HERE
+Memorias ancestrales, que tiempo atrás debieron ser olvidadas, reptan de nuevo a mi mente.
 }
 [sha:92ce17538ca85f7acb605158ed168c4cae24a62d]{
 -- Page 264, Offset 6294.
 -- 同じ生物として、優れた運動能力への畏敬と恐怖で呼吸が止まる。
--- TRANSLATION HERE
+Como otro ser vivo, paro de respirar por temor y asombro ante su superior habilidad física.
 }
 [sha:edfb3f6a9b108ab0a43eafbdfabe01c1f6b71f84]{
 -- Page 264, Offset 6295.
 -- 言語化するまでもない事実―――この生き物と共存など、ましてや意思疎通などあり得ない。
--- TRANSLATION HERE
+No hace falta decir que no hay forma de que coexista con esta criatura,
+ mucho menos llegar a un entendimiento.
 }
 [sha:98774a977596a4ef8a714495910e326ce8a9162d]{
 -- Page 265, Offset 6296.
 -- 黒豹の体長は１メートル以上あった。
--- TRANSLATION HERE
+La pantera negra es más de un metro de larga.
 }
 [sha:b2db25f613329f70eacdc06d5958ae77da65e9e4]{
 -- Page 265, Offset 6297.
 -- 犬でさえ、その<大|サ><き|イ><さ|ズ>なら人間をたやすく組み伏せる。
--- TRANSLATION HERE
+Incluso un perro podría cazar un humano si fuera de ese tamaño.
 }
 [sha:b680e496acee20a90c8ac44c44859a1a9a9defed]{
 -- Page 265, Offset 6298.
 -- それが凶悪な牙と爪を<携|たずさ>えて、たった５メートル先で、俺と白い女を凝視している。
--- TRANSLATION HERE
+Armado con colmillos y garras despiadadas,
+ la pantera nos mira a la mujer y a mí fijamente a menos de cinco metros de distancia.
 }
 [sha:0eac84526fe0d6e75506481b82744acf1a5b270e]{
 -- Page 266, Offset 6299.
 -- 「ね。あれ、あなたの知り合い？」
--- TRANSLATION HERE
+"Ey. ¿Es algún conocido?"
 }
 [sha:b0a57840dc1f978a9174f74931f5583585893096]{
 -- Page 266, Offset 6300.
 -- 「わけあるかっ！」
--- TRANSLATION HERE
+"¡Por supuesto que no!"
 }
 [sha:20cdf0a9d6ffd3286a37c9bb7b504fb75967f167]{
 -- Page 266, Offset 6301.
 -- 空気を読まない発言に、思わず切り返してしまった。
--- TRANSLATION HERE
+No puedo evitar responder a su comentario estúpido.
 }
 [sha:a79c9bbd9a9177851898bbb108b7a3b073523761]{
 -- Page 267, Offset 6302.
 -- ―――本当に俺は馬鹿だ。
--- TRANSLATION HERE
+―――Soy idiota de verdad.
 }
 [sha:49ced6a8ee4a07afa4fbf6837cab3a28c88639d3]{
 -- Page 267, Offset 6303.
 -- その声を号令にして、黒豹は跳んだ。
--- TRANSLATION HERE
+Con mi voz como señal, la pantera salta.
 }
 [sha:70093028610a82eb7268542faad28b19d1004571]{
 -- Page 267, Offset 6304.
 -- いや、走ってきた。そのスピードが速すぎて、跳んだとしか認識できなかっただけだ。
--- TRANSLATION HERE
+O más bien, corre. Es tán rápida que mi cerebro no pudo entender que eso no fuera saltar.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 268, Offset 6305.
@@ -156,87 +163,91 @@
 [sha:003aa18ca2a23768683a833b7156c92ba55691ab]{
 -- Page 268, Offset 6306.
 -- 何もできない。
--- TRANSLATION HERE
+No hay nada que pueda hacer.
 }
 [sha:44cbb512734ac6f64aa785e2e8ec7ece2f42c8b9]{
 -- Page 268, Offset 6307.
 -- 黒い影が、初動さえ知覚させないまま、俺の肩口に牙を打ち付ける。
--- TRANSLATION HERE
+Antes de siquiera acabar de procesar su primer movimiento la pantera negra hunde sus colmillos en mi hombro.
 }
 [sha:e18189d7c38cc6f52236269b24866c0e0a36d902]{
 -- Page 269, Offset 6308.
 -- 見えているのに。
--- TRANSLATION HERE
+Aunque lo viera venir.
 }
 [sha:65cc81dc95cc46ef3927897bc728c7cdfef71dd4]{
 -- Page 269, Offset 6309.
 -- 一秒後の結末が判りきっているのに、避ける事も、避けようという考えも浮かばなかった。
--- TRANSLATION HERE
+Aunque supiera lo que iba a pasar, no podría evitarlo.
+ No tuve oportunidad de %{i}pensar%{/i} en esquivarlo.
 }
 [sha:e6c976a2a193c531a7727291ea2caf483c47dcd7]{
 -- Page 270, Offset 6310.
 -- 「と―――――!?」
--- TRANSLATION HERE
+"¿%{i}Ack%{/i}―――?"
 }
 [sha:9944dc1e2478cecf44b153bd22d51627b1c914c2]{
 -- Page 270, Offset 6311.
 -- しかし、衝撃は真横から。
--- TRANSLATION HERE
+Excepto que, siento el impacto en mi costado.
 }
 [sha:941df6ccc4c7b764da5095c4e7d8f582ad2c7304]{
 -- Page 270, Offset 6312.
 -- 黒い影に食いつかれる直前に、俺は白い女に弾き飛ばされた。
--- TRANSLATION HERE
+Antes de que la sombra negra pudiese morderme,
+ la mujer de blanco me lanza lejos.
 }
 [sha:49c894d9ea63ec547ceea5e28dde4b5a7148c4bb]{
 -- Page 271, Offset 6313.
 -- 片手で、無造作に。
--- TRANSLATION HERE
+Lo hace con una mano como si nada.
 }
 [sha:4751c630bc9471f97ca4169750abc86bda5c4cff]{
 -- Page 271, Offset 6314.
 -- 女の手がこちらの横腹に触れた途端、ボールでも投げるように、壁まで放り飛ばされたのだ。
--- TRANSLATION HERE
+En el momento que me toca el costado,
+ salgo volando hacia la pared como si me hubiese lanzado como una pelota.
 }
 [sha:1216350d832de4e99f59e47569c713c40f8685e6]{
 -- Page 272, Offset 6315.
 -- 「い、っ……！」
--- TRANSLATION HERE
+"%{i}Ouch%{/i}!"
 }
 [sha:8defb0729115547a43a5419e570731a7fdc521a4]{
 -- Page 272, Offset 6316.
 -- 背中から壁に叩きつけられた痛みに耐える。
--- TRANSLATION HERE
+Aguanto el dolor de estamparme de espaldas contra la pared.
 }
 [sha:0818ba46ed8a7699158b6445aff6e26a905a1dd0]{
 -- Page 273, Offset 6317.
 -- 「おまえ、何を―――！」
--- TRANSLATION HERE
+"¿Qué estás―――?"
 }
 [sha:e2152b65a7526e2a37ce11b2c1515667f97d30f7]{
 -- Page 273, Offset 6318.
 -- 「いいから前！」
--- TRANSLATION HERE
+"No importa, ¡mira al frente!"
 }
 [sha:a31ad06e0a05f52c4c7dd411be25ad0f4a98e80c]{
 -- Page 274, Offset 6319.
 -- 女が叫ぶ。
--- TRANSLATION HERE
+La mujer grita.
 }
 [sha:4639b00fcc6c4412b4c1462fe4620aaf6bda08c0]{
 -- Page 274, Offset 6320.
 -- 見れば、俺という標的を失った黒豹は壁に激突する事なく、くるりと反転して壁に四つ脚をつき、さらに反対側の壁へと跳躍していた。
--- TRANSLATION HERE
+Mirando atentamente, veo que aun habiendo fallado, la pantera no se chocó contra la pared.
+ En vez giró de golpe sobre sí misma, posó sus cuatro patas en la pared, y saltó hacia la pared del otro lado.
 }
 [sha:dd3a670cf147d634186be2328f379476a23d4885]{
 -- Page 275, Offset 6321.
 -- ビルの側面に黒い塊が付着する。
--- TRANSLATION HERE
+La masa negra se agarra del lado del edificio.
 }
 [sha:5e6ed8f18ad08e0aa89b3071cc5c4f1f60e9291b]{
 -- Page 275, Offset 6322.
 -- 黒豹はぴたりと壁に張り付いたかと思うと、その眼光を再び俺に向けて―――
--- TRANSLATION HERE
+Justo cuando pienso que la pantera se ha detenido en la pared, vuelve a mirarme con sus ojos brillantes de nuevo―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 276, Offset 6323.
@@ -246,77 +257,84 @@
 [sha:33335e19cd5862552d1ab3493968a973b6e4fe69]{
 -- Page 276, Offset 6324.
 -- 一瞬の出来事に息を呑む。
--- TRANSLATION HERE
+Grito asombrado ante el intercambio instantáneo.
 }
 [sha:edfd43a25112d24421e1c0d52847cdff33140ecd]{
 -- Page 276, Offset 6325.
 -- 壁から跳躍してくる黒豹の軌跡は稲妻のようだった。
--- TRANSLATION HERE
+La pantera salta de la pared tan rápida como un rayo.
 }
 [sha:6fca884e3b7ea2916a64c02dbea10296a291aac9]{
 -- Page 276, Offset 6326.
 -- その射線に入るよう跳躍し、白い女は片手で稲妻を弾いた。
--- TRANSLATION HERE
+Saltando hacia su línea de fuego, la mujer de blanco dispersa el rayo con una mano.
 }
 [sha:1971f72d9cd6adf22b72eb6c235aabde9fdee9ba]{
 -- Page 277, Offset 6327.
 -- ……恐ろしいのは、女の跳躍があまりにも軽やかだった事だ。あの黒豹の速度を上回りながら、なお“軽やか”に見える事が、俺の神経を逆なでする。
--- TRANSLATION HERE
+Lo que da más miedo es lo fácil que pareció su salto.
+ El hecho de que se haya movido incluso más rápido que esa pantera negra,
+ y aún así lo haya hecho parecer fácil, realmente me molesta.
 }
 [sha:93304a77df9e773394691674e690c5fc8f1d6d00]{
 -- Page 278, Offset 6328.
 -- 「ちょっと、わたしの方が先約だって分かるでしょ？
--- TRANSLATION HERE
+"Ey, yo llegué primero, ¿vale?
 }
 [sha:73acd830ebc414f6242264c7c81aa5266a5a9016]{
 -- Page 278, Offset 6329.
 -- あんまり聞き分けがないと殺しちゃうわよ」
--- TRANSLATION HERE
+Si no retrocedes, te mataré de verdad."
 }
 [sha:ddfefb83c874f9f98167fd382ec531cb062d9238]{
 -- Page 279, Offset 6330.
 -- 女の態度はなに一つ変わっていない。
--- TRANSLATION HERE
+Su actitud no ha cambiado ni un poco.
 }
 [sha:137b11098f16c8e206624e25dc4e3c0ce0fee38c]{
 -- Page 279, Offset 6331.
 -- 黒豹は威嚇するようにうなり声をあげながら、白い女と慎重に距離をとる。
--- TRANSLATION HERE
+La pantera gruñe de forma amenazadora, pero se mantiene a una distancia prudente de la mujer.
 }
 [sha:a1fb2d5196440e40f01ade3db636364fa64bcbe8]{
 -- Page 279, Offset 6332.
 -- その間合い、およそ３メートル。
--- TRANSLATION HERE
+Ahora mismo están a tres metros.
 }
 [sha:a49e5d0ed05ac8e7af71c161bff66bdc8709437d]{
 -- Page 279, Offset 6333.
 -- 黒豹はその先から踏みこんでこない。今の攻防で実力差を理解したのだろう。
--- TRANSLATION HERE
+La pantera no hace intento de reducir la distancia.
+ Debe de entender la diferencia de habilidad entre ellos.
 }
 [sha:f8451321f2189407810e6f3763ef7d50e210ebda]{
 -- Page 280, Offset 6334.
 -- あの黒豹は確かに怪物だ。人間にとっての怪物。人間が出遭えば殺されるしかない<獣|ケモノ>。
--- TRANSLATION HERE
+La pantera es un monstruo...
+ Un monstruo para los humanos.
+ Cualquier humano con la mala suerte de cruzarse con ella está condenado a morir.
 }
 [sha:05fbd7801a3610d04b8148c6dec2dfe5b361bbeb]{
 -- Page 280, Offset 6335.
 -- ……だが、あの女は次元が違う。怪物にとっての怪物。どんな怪物であれ出遭えば死ぬしかない魔物だった。
--- TRANSLATION HERE
+Pero... ella está a otro nivel.
+ Ella es un monstruo %{i}para los monstruos%{/i}.
 }
 [sha:a55bb36cb94b0640a440cbd09af9615bf87c9a46]{
 -- Page 281, Offset 6336.
 -- 黒豹は微動だにせず女を観察する。
--- TRANSLATION HERE
+La pantera observa inmóvil a la mujer.
 }
 [sha:7b59baa57c573003a1e1a13ee0bc92d60e451f3c]{
 -- Page 281, Offset 6337.
 -- 俺ですら把握できる力の差だ。狩猟を<性|さが>とする野生動物から見れば、目の前に巨大な壁があるようなものだろう。
--- TRANSLATION HERE
+Incluso yo puedo ver la diferencia de poder entre ellos.
+ Desde la perspectiva de un depredador salvaje, debe ser como chocarse de repente contra una pared gigante.
 }
 [sha:1369c1e1ad057c809842aefa5f23445a6882021a]{
 -- Page 282, Offset 6338. Mods: @n.
 -- 「用件は後で聞いてあげるから、わたしの邪魔を―――
--- TRANSLATION HERE
+"Te escucharé más tarde, así que mantente fuera de mi―――
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 282, Offset 6339. Glued.
@@ -326,42 +344,44 @@
 [sha:6467812eb8d5ab6fe590df7db68cacc8f8965f01]{
 -- Page 282, Offset 6340.
 -- 女の空気が変わる。
--- TRANSLATION HERE
+La actitud de la mujer cambia.
 }
 [sha:e4e351a54d625e6b3f3c19074bff2f48ebf6bbb3]{
 -- Page 282, Offset 6341.
 -- 黒い獣を前にしても動じなかった気配が、目に見えて鋭敏化する。
--- TRANSLATION HERE
+Aunque no hizo más que mover un pelo enfrentándose a la bestia negra,
+ ahora ha pasado a estar visiblemente más alerta.
 }
 [sha:57a66da2bd99d79e1b834b98a575864ae7f9301a]{
 -- Page 283, Offset 6342.
 -- 「なっ、人……!?」
--- TRANSLATION HERE
+"¡¿P-Personas?!"
 }
 [sha:c2b41ebf740b02c8c2943546420f21322b3c45b7]{
 -- Page 283, Offset 6343.
 -- それは、どう見ても通りすがりの“<第|だ><三|れ><者|か>”だった。
--- TRANSLATION HERE
+// Corregido
+A juzgar por lo que veo, diría que son transeúntes.
 }
 [sha:094c5d424da43efd474ca877d89689520ea9d392]{
 -- Page 283, Offset 6344.
 -- ビルとビルの隙間にあるこの路地裏に、薄暗い<路|みち>を通って、ゆっくりとやってくる。
--- TRANSLATION HERE
+Caminan lentamente hacia el callejón a través de los pasajes oscuros entre edificios.
 }
 [sha:2b679fb89294ba614d23a9afa98e02b863edc846]{
 -- Page 284, Offset 6345.
 -- 「だめだ、来るな！　ここには豹が―――」
--- TRANSLATION HERE
+"Parad, ¡no os acerquéis más! Hay una pantera―――"
 }
 [sha:5771338e2d6fecad39bc61bcd1b539662c767420]{
 -- Page 284, Offset 6346.
 -- 豹がいるんだ、と言いかけて、
--- TRANSLATION HERE
+Justo cuando iba a advertirles de la pantera―――
 }
 [sha:1d0b32b3a86e7e3742071692871693eaa503cd6a]{
 -- Page 284, Offset 6347.
 -- 眼球に、赤い痺れが走った。
--- TRANSLATION HERE
+Un hormigueo rojo atraviesa mis globos oculares.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 285, Offset 6348.
@@ -371,107 +391,109 @@
 [sha:5ddde7037261861144b0739d7bbcf6db9ac028fc]{
 -- Page 285, Offset 6349.
 -- 眼鏡をかけたまま目蓋をこする。
--- TRANSLATION HERE
+Meto la mano bajo las gafas y me froto los ojos.
 }
 [sha:f470d4741f25a3ba4e7c3a8ab835fc34bc917578]{
 -- Page 285, Offset 6350.
 -- いま、確かに、
--- TRANSLATION HERE
+Hace un momento―――
 }
 [sha:c44650254526c3be70bcc0dbbf1dfb21b53619c0]{
 -- Page 285, Offset 6351.
 -- 何か、無残なモノが、視えてしまった。
--- TRANSLATION HERE
+Podría jurar que ví algo innombrable.
 }
 [sha:7045e7455237ea1509f3558666f7806e16131ecd]{
 -- Page 286, Offset 6352.
 -- ソレは止まらない。
--- TRANSLATION HERE
+No se paran.
 }
 [sha:88d59626d20cdb56247627f7439ba6247c77598b]{
 -- Page 286, Offset 6353.
 -- ソレには黒豹のような野生の知覚も、誇りもない。
--- TRANSLATION HERE
+No tienen ni instintos salvajes, ni el orgullo de la pantera.
 }
 [sha:fea038a15618376e18a8dd92be40c749af0f19d2]{
 -- Page 286, Offset 6354.
 -- 目の前にいる白い女が何であろうと、あと数歩進めば踏み潰されると判っていようと、ためらいなく前進する。
--- TRANSLATION HERE
+Continúan adelante arrastrando sus pies,
+ indiferentes ante lo que la mujer frente a ellos es,
+ incluso sabiendo que serán descuartizados si dan unos pocos pasos más.
 }
 [sha:ee2ff5f6b3308d12c990d62063505e9b22cfaae0]{
 -- Page 287, Offset 6355.
 -- だって<彼等|アレら>には脳がない。
--- TRANSLATION HERE
+Al fin y al cabo, dentro de esas cosas no hay cerebro.
 }
 [sha:1ecc8d9ab49b5c77447bbebde6e6bbf8c794a1a3]{
 -- Page 287, Offset 6356.
 -- 恐怖する<心臓|こころ>がない。
--- TRANSLATION HERE
+No tienen un corazón que pueda sentir miedo.
 }
 [sha:8c43d92b0dc4eedd5059d9c963234535eb3deb93]{
 -- Page 287, Offset 6357.
 -- どう見ても、アレで生きている筈がない。
--- TRANSLATION HERE
+No ni siquiera podrías decir que están vivos realmente.
 }
 [sha:0f47bcd8f59c278c58dc33605a3f6b233032b94c]{
 -- Page 288, Offset 6358.
 -- 燃えている。眼から、口から、ごうごうと黒煙が立ち上っている。なのにああして動いている。
--- TRANSLATION HERE
+Están ardiendo. De sus ojos y bocas sale humo negro. Y aún así, se están moviendo.
 }
 [sha:702971b1140b762473dd0876bfbbd8a7e6525318]{
 -- Page 289, Offset 6359.
 -- 死人だ。
--- TRANSLATION HERE
+Están muertos.
 }
 [sha:0a96523f0049432e841077e062288a0f40a56998]{
 -- Page 289, Offset 6360.
 -- あれは死人だ。
--- TRANSLATION HERE
+Esos son personas muertas.
 }
 [sha:188e62186d5f8396b58d6331b88f1dd829d481c5]{
 -- Page 289, Offset 6361.
 -- 救いを求めるように伸ばした手から廃油がこぼれる。
--- TRANSLATION HERE
+Sus manos, extendidas como buscando la salvación, derraman aceite usado.
 }
 [sha:7a5f8ba7b49e458f0408faa76ad6c0516220774f]{
 -- Page 289, Offset 6362.
 -- こぼれた油は路面に落ちた途端、ぼう、と炎の舌を伸ばす。
--- TRANSLATION HERE
+En cuanto el aceite derramado toca la calzada, extiende una lengua de fuego.
 }
 [sha:7ec66c37f037a3d5247f148cde77fba3f38a0f67]{
 -- Page 289, Offset 6363.
 -- それが淀みきった血液なのだと、遠目で俺は理解する。
--- TRANSLATION HERE
+Incluso a distancia, puedo entender que el fluido es sangre coagulada.
 }
 [sha:cb60ef9d353f609a4189093f061f630a6d169657]{
 -- Page 290, Offset 6364.
 -- 「なにこれ、新種……？」
--- TRANSLATION HERE
+"Qué son esos... ¿un nuevo tipo?"
 }
 [sha:6dabea4c23ba758d45747f1447e5485546e60a96]{
 -- Page 290, Offset 6365.
 -- 白い女は、完全にアレに目を取られていた。
--- TRANSLATION HERE
+La mujer de blanco está completamente absorta por esas cosas.
 }
 [sha:7f94d9e600c5902f8970abee57f0a5130a761a32]{
 -- Page 290, Offset 6366.
 -- 三体の死人、その二体が白い女に手を伸ばす。
--- TRANSLATION HERE
+De los tres cadáveres, dos de ellos intentan alcanzarla.
 }
 [sha:72fb01cf1d75d2c0f7334426a40cd5814dc12b74]{
 -- Page 290, Offset 6367.
 -- そしてもう一体は、呆然と立ち尽くす俺にぐらりと首を回して、その燃え盛る眼孔を―――
--- TRANSLATION HERE
+Mientras permanezco estupefacto, el otro, agitándose violentamente, gira su cabeza hacia mí, con llamas saliendo de sus cuencas―――
 }
 [sha:832b5615ca82cc650889d81bbb05b927927f1c7e]{
 -- Page 291, Offset 6368.
 -- やられた。
--- TRANSLATION HERE
+Estoy acabado.
 }
 [sha:aa9304b48877246fea37aeb56c8a37eb1a3f8cbf]{
 -- Page 291, Offset 6369.
 -- そんな致命的な隙を、あの黒い獣は逃さない。
--- TRANSLATION HERE
+La bestia negra no va a desperdiciar la oportunidad para ir a matar.
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 292, Offset 6370.
@@ -481,90 +503,93 @@
 [sha:b8f9ec70965ccc9ee131d1e75e4b1da825180ac1]{
 -- Page 292, Offset 6371.
 -- さっきの跳躍を上回る突進。
--- TRANSLATION HERE
+Su ataque es aún más rápido que el salto de antes.
 }
 [sha:061146e467f646bbfe41f2af15b7b64b34d1522e]{
 -- Page 292, Offset 6372.
 -- 今度は知覚する事さえできなかった。
--- TRANSLATION HERE
+Esta vez, no puedo ni percibirlo.
 }
 [sha:5145188e9d68462c2803d02fe6b5720cc250b60c]{
 -- Page 293, Offset 6373.
 -- 黒豹は俺を押し倒すようにのしかかると、その牙を俺の首元に走らせた。
--- TRANSLATION HERE
+La pantera se abalanza hacia mi y contiene mi cuello con sus colmillos.
 }
 [sha:21af09be76db8321912f61f15ba5508143304366]{
 -- Page 294, Offset 6374.
 -- 「う、ぐっ……!?」
--- TRANSLATION HERE
+"¿%{i}Ugh%{/i}...?"
 }
 [sha:a4b1c4738cdb62a361958e336dbf5b3736c8d059]{
 -- Page 294, Offset 6375.
 -- 首元が締まる。
--- TRANSLATION HERE
+Puedo sentir algo apretando mi cuello.
 }
 [sha:0286741cde83b0eaa878259a9bd905e8ef45f8af]{
 -- Page 294, Offset 6376.
 -- 首の後ろがつっぱる感じ。まさか、学生服の後ろ襟を噛まれて、引っ張られているのか……!?
--- TRANSLATION HERE
+Casi como hubiese algo agarrándome del pescuezo...
+ Espera, ¡¿está agarrando el cuello de mi uniforme?!
 }
 [sha:b6d1c0118ed4653407c45e0755c77909eac068d0]{
 -- Page 295, Offset 6377.
 -- 「うわあ！？」
--- TRANSLATION HERE
+"%{i}Guaaah%{/i}?!"
 }
 [sha:7fb64135b2770a65f4fe5832a00be2c5b42c7825]{
 -- Page 295, Offset 6378.
 -- またも壁際に押しこまれた。
--- TRANSLATION HERE
+Otra vez me estampo contra la pared.
 }
 [sha:031aa2f6d50cb67eebb26f9b6c93cef3edce908f]{
 -- Page 295, Offset 6379.
 -- それも路地裏の隅。がらくたが積まれた物陰に、乱暴に連れこまれた。
--- TRANSLATION HERE
+La pantera me ha arrastrado bruscamente a otra esquina llena de basura del callejón.
 }
 [sha:ec0cc93ba987407066366448f9b3714c63bacfa0]{
 -- Page 296, Offset 6380.
 -- 「お、おまえな、人をゴミ扱いすんな―――！」
--- TRANSLATION HERE
+"¡¿A-A qué viene eso?!
+ No soy basura, ¡así que deja de tratarme como tal!"
 }
 [sha:e478449b459647ba18a42229fc1ea1b27f3ff89c]{
 -- Page 296, Offset 6381.
 -- ……なにしてんだ、俺。
--- TRANSLATION HERE
+¿Qué estoy haciendo...?
 }
 [sha:b51887ff2ebbd947ea4b841226004b582e767667]{
 -- Page 296, Offset 6382.
 -- のしかかる黒豹につい文句を漏らしてしまった。
--- TRANSLATION HERE
+No me puedo creer que me esté quejando de que la pantera me arrastrase aquí.
 }
 [sha:232cc3db8b6e4dc707bb816de79802098f4cd989]{
 -- Page 297, Offset 6383.
 -- 幸運な事に黒豹の追撃はなかった。おそらく、俺ごときに構っている場合ではなかったのだろう。
--- TRANSLATION HERE
+Afortunadamente, la pantera no se queda.
+ Probablemente porque no tiene tiempo de preocuparse por mi.
 }
 [sha:f88a1a64e04ec977d23f68b6cf6873dc14ac110f]{
 -- Page 298, Offset 6384.
 -- 姿勢を起こし、廃材に隠れながら女を見る。
--- TRANSLATION HERE
+Escondido tras un trozo de madera, me pongo de pie y miro a la mujer.
 }
 [sha:a594fd8b3f33873712850ce9262106b2c8f6badf]{
 -- Page 298, Offset 6385.
 -- <燻|くすぶ>る死体はついに、黒豹が踏み込まなかった３メートルの間合いに入った。
--- TRANSLATION HERE
+Los cuerpos ardientes han llegado finalmente a la línea que la pantera nunca se atrevió a cruzar, a tres metros de la mujer de blanco.
 }
 [sha:7acbb327e294f13370549ab130d0205e7f746058]{
 -- Page 298, Offset 6386.
 -- 瞬間、
--- TRANSLATION HERE
+El siguiente instante―――
 }
 [sha:aecb6332f4429fecb53222bbd43b795dcccd6d10]{
 -- Page 299, Offset 6387.
 -- 大気が、確かに悲鳴をあげた。
--- TRANSLATION HERE
+Podría jurar que gritó el aire mismo.
 }
 [sha:0215fb83d556c088d9c7e5382d1ea63eef8be537]{
 -- Page 299, Offset 6388.
 -- 女の腕の動きに合わせて発生した気流は<解体重機|ブルドーザー>のショベルのように、動く死体を……三つの人体を、跡形もなく消し去った。
--- TRANSLATION HERE
+La corriente generada por el movimiento de brazo de la mujer es como el de la pala de un buldócer, obliterando los tres cadáveres sin dejar rastro.
 }

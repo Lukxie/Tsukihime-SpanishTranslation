@@ -1,42 +1,42 @@
 [sha:65f60a7288ef6844bdb2fbbd045eec9fee945cc4]{
 -- Page 1, Offset 8591.
 -- アルクェイドの部屋は吸血鬼にあるまじき内装をしていた。
--- TRANSLATION HERE
+La habitación de Arcueid no es exactamente lo esperarías de un vampiro.
 }
 [sha:d2a6ae4fa1998c67747c395c94e63d93d6ee4c18]{
 -- Page 1, Offset 8592.
 -- ……あの時は部屋の様子まで頭は回らなかったが、こうして見るといたって普通の部屋だ。
--- TRANSLATION HERE
+La última vez que estuve aquí, no presté mucha atención a la habitación misma. Ahora que lo hago, veo que es bastante mundana.
 }
 [sha:41ac371708e39913fad21ce68091ffdee7d69e90]{
 -- Page 2, Offset 8593.
 -- 人間の血のつまったボトルだの、
--- TRANSLATION HERE
+No hay botellas rellenas de sangre humana.
 }
 [sha:f0529b563742099047a6567552b60dc5ecf3dd3a]{
 -- Page 2, Offset 8594.
 -- 奇怪な<彫刻品|オブジェ>だのといったものは見られない。
--- TRANSLATION HERE
+Ni tampoco puedo ver ninguna escultura bizarra ni nada por el estilo.
 }
 [sha:3d239da3e61e48ec586ac2bf437290162705ae56]{
 -- Page 3, Offset 8595.
 -- 「……冷蔵庫に食器まで完備してるし。
--- TRANSLATION HERE
+"Incluso tiene tabla de cortar y frigorífico...
 }
 [sha:20fd1f09cd428e59425165a6fb6e3aa07165859c]{
 -- Page 3, Offset 8596.
 -- なんなんだろうな、コイツ」
--- TRANSLATION HERE
+¿Qué la pasa?"
 }
 [sha:8491617dc1df73a52f7427470876dedda8f300bb]{
 -- Page 4, Offset 8597.
 -- ぼやきながらアルクェイドをベッドに寝かせる。
--- TRANSLATION HERE
+Tumbo a Arcueid en la cama mientras refunfuño.
 }
 [sha:4b09966837e05c33767fc3661a5576891eb560a2]{
 -- Page 4, Offset 8598.
 -- アルクェイドの体は軽かったが、ここまで抱きかかえてくるのは重労働だった。
--- TRANSLATION HERE
+Aunque su cuerpo sea ligero, llevarla hasta aquí no ha sido fácil.
 }
 [sha:4a9438a89f6446ebde47ea2b6f0305c3c83d89e5]{
 -- Page 5, Offset 8599.
@@ -46,192 +46,199 @@
 [sha:f6db15510e11a2bc9de835f43b6f670366ec68a5]{
 -- Page 5, Offset 8600.
 -- 床に腰を下ろして、大きく深呼吸をする。
--- TRANSLATION HERE
+Me siento en el suelo y respiro hondo.
 }
 [sha:ffa7038b33ac6d81ea9a7d5daa83886b64c36b7c]{
 -- Page 5, Offset 8601.
 -- 時刻は朝の７時になろうとしている。
--- TRANSLATION HERE
+Son casi las siete de la mañana.
 }
 [sha:2c0a6168a96f1ca0649233de343d3b73174be4ea]{
 -- Page 6, Offset 8602.
 -- 「……そっか。カーテン、閉めてやらないと」
--- TRANSLATION HERE
+"Oh sí... mejor que cierre las cortinas."
 }
 [sha:74e3cf2196800b59922a1ba7b18e480cb65a7ce2]{
 -- Page 7, Offset 8603.
 -- けだるい体に鞭を打ってカーテンを閉める。
--- TRANSLATION HERE
+Ánimo a mi cuerpo perezoso a levantarse y cierro las cortinas.
 }
 [sha:ef8309e8256a36bf0262533bb7b46760060b6e15]{
 -- Page 7, Offset 8604.
 -- やれる事をやって、ようやく緊張も解けたのだろう。
--- TRANSLATION HERE
+He hecho todo lo que he podido. Ahora finalmente puedo relajarme.
 }
 [sha:7cf739aa2eebbbfc57ec4999f7a27d86a0d01cbc]{
 -- Page 7, Offset 8605.
 -- 座ろうとした途中、膝から力が抜けて、どすん、と床に倒れこんだ。
--- TRANSLATION HERE
+Pero de camino a sentarme, mis rodillas fallan y me caigo al suelo de golpe.
 }
 [sha:f3c1842a89197e8da25cb568052aeb29bfecd5b8]{
 -- Page 8, Offset 8606.
 -- 「……情けない。女の子ひとり運んだだけでこれか」
--- TRANSLATION HERE
+"Que patético... pensar que estoy tan cansado por solo llevar a una chica."
 }
 [sha:1be0b16f24235f1716a952c0611653cbcdfec7f9]{
 -- Page 9, Offset 8607.
 -- ……俺はあの事故以来、怪我の治りづらい体になってしまった。
--- TRANSLATION HERE
+Desde aquel accidente, me ha costado mucho recuperarme de las heridas.
 }
 [sha:6f629ca5c38114d867f01bccb81797ebb632dfd9]{
 -- Page 9, Offset 8608.
 -- だからと言って運動不足な訳でもない。有間の家には道場があったので、できるかぎり運動はしていた。
--- TRANSLATION HERE
+Eso no significa que no haga suficiente ejercicio.
+ Los Arimas tenían un dojo, cuando vivía con ellos, me ejercitaba todo el tiempo.
 }
 [sha:5828f42b78d7c8827ef26fbc8e0db6b1e7446b3a]{
 -- Page 10, Offset 8609.
 -- なにしろ体力をつけておかないと風邪でも命に関わる。
--- TRANSLATION HERE
+Después de todo, para alguien con un cuerpo débil, incluso un resfriado puede ser cuestión de vida o muerte.
 }
 [sha:0640696630cd9912251a8f52ca3f2b32edc8271f]{
 -- Page 10, Offset 8610.
 -- なので、基礎的な体力、運動機能は人並みを維持している自負はある。けれど<持久力|スタミナ>だけはつけようがない。
--- TRANSLATION HERE
+Estoy orgulloso de que mi fuerza física esté a la par con la persona promedio. Sin embargo, no tengo forma de aumentar mi resistencia.
 }
 [sha:5dcf3c15cc422c8bce7728615b206aa037f52c77]{
 -- Page 10, Offset 8611.
 -- 短距離走はこなせても、長距離走は話にならない陸上選手のようなものだ。
--- TRANSLATION HERE
+Soy como un corredor de atletismo que puede hacer sprints cortos, pero no un maratón.
 }
 [sha:6b0c313d7f3ac0d7fa52f04b9c1603c56c49dc01]{
 -- Page 11, Offset 8612.
 -- 「…………はあ」
--- TRANSLATION HERE
+"%{i}Haa%{/i}..."
 }
 [sha:871845b067c9a5760b3765925f4e46b4652769ea]{
 -- Page 11, Offset 8613.
 -- 横になったまま起きあがる事ができない。
--- TRANSLATION HERE
+Estoy demasiado cansado como para levantarme del suelo.
 }
 [sha:9db5889e9cb77844c91c87dd56723d8f75b1f105]{
 -- Page 11, Offset 8614.
 -- 昨夜はずっとアルクェイドと話していたし、まともな食事を一日以上摂っていない。
--- TRANSLATION HERE
+No solo me he quedado toda la noche hablando con Arcueid,
+ si no que no he comido algo decente en más de un día.
 }
 [sha:47824b778f46ea7264cbaa00abe6657fd1d0154c]{
 -- Page 11, Offset 8615.
 -- 今まで<保|も>っていた方がおかしいのだ。
--- TRANSLATION HERE
+Es de locos que haya durado tanto.
 }
 [sha:fd9cbc2554d832eebacc8ccd5c069af3115acc5f]{
 -- Page 12, Offset 8616.
 -- 「……アルクェイド……傷、大丈夫かな……」
--- TRANSLATION HERE
+"Arcueid está bastante herida... me pregunto si estará bien..."
 }
 [sha:700ca1bca8723f0b526424d88531e8c66a10b168]{
 -- Page 12, Offset 8617.
 -- ベッドに寝かせた女を盗み見る。
--- TRANSLATION HERE
+Miro de reojo a la mujer que está tumbada en la cama.
 }
 [sha:e1d0c0d235ab0d468697442cfcaa62cc5787fd26]{
 -- Page 12, Offset 8618.
 -- 腹部からの出血は止まっていたし、バラバラにされても勝手に生き返るヤツなんだから、そんな心配なんて無用かもしれないけど。
--- TRANSLATION HERE
+Parece que su abdomen ha parado de sangrar,
+ y además, puede volver a la vida tras ser descuartizada miembro a miembro.
+ Probablemente me esté preocupando en vano.
 }
 [sha:f040c74fac749765d57d5de22ee09f75babac3af]{
 -- Page 13, Offset 8619.
 -- 「……どうかしてるな」
--- TRANSLATION HERE
+"¿Que narices me pasa?"
 }
 [sha:2a043f4fd8dc5d073e5c98e1d7c67a39c21b64e8]{
 -- Page 13, Offset 8620.
 -- 熱で頭がぐらぐらしている。
--- TRANSLATION HERE
+La fiebre me está aturdiendo.
 }
 [sha:56fe45c70091d2d5e106e6ca15e40f66339dbb4d]{
 -- Page 13, Offset 8621.
 -- こっちだって呼吸が途切れるほど疲れきっているのに、あいつの容体の方が気になるなんて、重度の風邪でも引いてしまったとしか思えない―――
--- TRANSLATION HERE
+Estoy tan cansado que casi no puedo respirar, y aún así aqui estoy, preocupándome por %{i}su%{/i} estado.
 }
 [sha:dfd46ce19bfe8cc1babda1fc32c6482dd7ea1fe1]{
 -- Page 14, Offset 8622.
 -- 『―――この衝突事故はオートバイのブレーキペダルが何らかの異常をきたしており、ブレーキのきかない状態で急な坂道を下りた事が原因と見られています。
--- TRANSLATION HERE
+"―――Se cree que el choque fue causado por un fallo desconocido en el pedal de freno de la motocicleta, haciendo que se cayera de golpe contra el arcén.
 }
 [sha:ab25f4a88f4226ab108611f9a518a30c0bae13ba]{
 -- Page 14, Offset 8623.
 -- 負傷者は二名、幸い死者はおりませんでした』
--- TRANSLATION HERE
+Dos personas resultaron heridas, pero afortunadamente, nadie ha fallecido."
 }
 [sha:c008dbc882d51b2095edd7833ffffe19328ae7e7]{
 -- Page 15, Offset 8624.
 -- 「……寝ちゃったのか、俺」
--- TRANSLATION HERE
+"¿Me he quedado dormido...?"
 }
 [sha:54b33ea95c11541033e5eed29bfbabbad39481e0]{
 -- Page 15, Offset 8625.
 -- あのまま床で眠ってしまったらしい。
--- TRANSLATION HERE
+Supongo que me desmayé en el suelo.
 }
 [sha:4028002da963458fe0117201bfb32cb0fa39f550]{
 -- Page 15, Offset 8626.
 -- なぜかカーテンが開いていて、体にはシーツがかぶせられている。
--- TRANSLATION HERE
+Parece que alguien ha abierto las cortinas,
+ y ahora hay una manta arropándome.
 }
 [sha:836e56d307eeecf281fa30a4f46dedf82ebc5b8a]{
 -- Page 16, Offset 8627.
 -- 時刻は昼を過ぎたあたり。
--- TRANSLATION HERE
+Es mediodía.
 }
 [sha:50c00909bb7306eb8b9710841071070c4ddd1ec2]{
 -- Page 16, Offset 8628.
 -- ベッドにアルクェイドの姿はなく、つけっぱなしのテレビがつまらないニュースを流していた。
--- TRANSLATION HERE
+No se ve a Arcueid en la cama, y la televisión está encendida retransmitiendo un programa de noticias aburridas.
 }
 [sha:a11d1b66b1ab9d2b06d25e6ff609dec0f7cd7ff0]{
 -- Page 17, Offset 8629.
 -- 「あいつ、どこに……？」
--- TRANSLATION HERE
+"¿Donde ha ido...?"
 }
 [sha:8345765f3d2d7c1c52330a389908443747261ef3]{
 -- Page 17, Offset 8630.
 -- 体を起こして部屋を見渡す。
--- TRANSLATION HERE
+Me siento y miro alrededor de la habitación.
 }
 [sha:a0a1573d3ace4d966966d6715ac534f7d67997f9]{
 -- Page 17, Offset 8631.
 -- となりの部屋……台所から人の気配がする。
--- TRANSLATION HERE
+Parece que hay alguien en la habitación del al lado...
+ Creo que es una cocina.
 }
 [sha:834b1559e264800dcaeb4c217adc6580abfe032f]{
 -- Page 18, Offset 8632.
 -- 「……あんな体のクセに、なに動きまわってるんだ」
--- TRANSLATION HERE
+"¿Que cree que hace, moviéndose en ese estado?"
 }
 [sha:e3ba8ac6b544da328c8d8b2e12ece03d5dab4c85]{
 -- Page 18, Offset 8633.
 -- シーツをのけて立ちあがる。
--- TRANSLATION HERE
+Me quito la manta y me levanto.
 }
 [sha:fb3710a9b3b16760f57ef8214a8388e7fd2eb71f]{
 -- Page 18, Offset 8634.
 -- すぐ台所に行って、あいつの傷を確かめなくっちゃ。
--- TRANSLATION HERE
+Tengo que ir a la cocina y revisar sus heridas.
 }
 [sha:adb383abc45d853a304a8e63133d3a119e51a108]{
 -- Page 19, Offset 8635.
 -- 『次のニュースです。
--- TRANSLATION HERE
+"Y ahora en las siguientes noticias.
 }
 [sha:85ccb6ed20da422dca0d98c6376b6fcc688d697c]{
 -- Page 19, Offset 8636.
 -- 本日未明、<鞍御橋|くらみばし>ドームホテルで火災が発生しました。内部からの火災警報はなく、午前６時、業務に戻ったスタッフがホテル内の異常を発見し、警察に通報。
--- TRANSLATION HERE
+Esta madrugada ha ocurrido un incendio en el Hotel Kuramabashi Dome.
+ No saltó ninguna alarma de incendios, resultando que el fuego no se notificara hasta que el personal que trabaja a las seis descubriera la irregularidad en el hotel y contactasen con las autoridades.
 }
 [sha:c73ccfd2a3b7ec04d98d4049dc7e348c2bc753be]{
 -- Page 19, Offset 8637.
 -- 現在、消防署と連携を取りながらホテル内の消火作業を続けている模様です』
--- TRANSLATION HERE
+Por ahora, están trabajando en conjunto con los bomberos para apagar las llamas en el interior."
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 20, Offset 8638.
@@ -241,42 +248,42 @@
 [sha:b52c1d00dab40a05e75cdc51b66c798a82ac602b]{
 -- Page 20, Offset 8639.
 -- ぴたり、と足が止まった。
--- TRANSLATION HERE
+Me paro en seco.
 }
 [sha:8b1548b902c527d2fb4b90d5a6c1a43a65518f37]{
 -- Page 20, Offset 8640.
 -- <否応|いやおう>なしにニュース映像に釘付けになる。
--- TRANSLATION HERE
+Soy incapaz de despegar los ojos del programa de noticias.
 }
 [sha:603a4b222ff9ee24cc2c3f43191475392a9b62ae]{
 -- Page 21, Offset 8641.
 -- 『ホテルに宿泊していた二百名の安否はいまだ確認されておりません。現在、消火作業は急ピッチで進められていますが、いまだホテル内から要救助者は一名も発見されず―――』
--- TRANSLATION HERE
+"La seguridad de los 200 huéspedes está por confirmar. Los bomberos trabajan a gran velocidad para extinguir las llamas. Sin embargo, de momento no se ha encontrado ninguna víctima―――"
 }
 [sha:bf5102105b42339677f994fc0467db0c38c35e24]{
 -- Page 22, Offset 8642.
 -- ニュースキャスターは淡々と情報を読み上げていく。
--- TRANSLATION HERE
+El presentador recita las noticias desapasionadamente.
 }
 [sha:5b142eda3dfe5ea069db3a2501361c09464d0c2a]{
 -- Page 22, Offset 8643.
 -- 画面は一転して、さっきまで俺たちがいたホテルの外観と、行方不明になったとされる宿泊客二百名の名前の一覧を映した。
--- TRANSLATION HERE
+La escena cambia, enseñando el exterior del hotel donde estábamos hace un momento, junto a la lista de los 200 nombres de los huéspedes desaparecidos.
 }
 [sha:00a7e5269abf1edc33c13635987f08b587cf8a1b]{
 -- Page 22, Offset 8644.
 -- 俺とアルクェイドの名前はない。
--- TRANSLATION HERE
+Ni mi nombre ni el de Arcueid aparece en la lista.
 }
 [sha:92c75772ebff90b7d33d72a50777d6811fcb7c60]{
 -- Page 23, Offset 8645.
 -- 『また、警察の調べによるとホテル内の壁が一部破損している事から通常の火災ではなく、ホテルの構造欠陥による爆発事故である可能性も考慮に―――』
--- TRANSLATION HERE
+"Además, de acuerdo con el informe policial, el daño a las partes internas de las paredes ha conducido a teorías que describen que el incidente no fue causado por un fuego común, sino por una explosión a causa de defectos estructurales en el hotel―――"
 }
 [sha:9d524735ed083e7f37bf36909764825721153778]{
 -- Page 24, Offset 8646.
 -- ぱちん、とテレビの電源を切った。
--- TRANSLATION HERE
+Con un click, apago la televisión.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 24, Offset 8647.
@@ -286,82 +293,84 @@
 [sha:03dd7296a0e21ca1184d021ad85e24fd9d832ea6]{
 -- Page 25, Offset 8648.
 -- 安否の確認――――？
--- TRANSLATION HERE
+¿La seguridad de los huéspedes aún no se ha confirmado?
 }
 [sha:57012b867316a84d2dc2b42c5ff7e16bb98332be]{
 -- Page 25, Offset 8649.
 -- 要救助者の発見―――？
--- TRANSLATION HERE
+¿Aún no se ha descubierto ninguna víctima?
 }
 [sha:9945f275c190c472f276e6b4aecace1a00ee64ce]{
 -- Page 25, Offset 8650.
 -- なぜそこまで解っていてはっきりと口にしない。
--- TRANSLATION HERE
+¿Cómo pueden decir eso cuando saben perfectamente lo que ha pasado?
 }
 [sha:c631ecbf4517c34f730ddf33ccbea27070809a1b]{
 -- Page 25, Offset 8651.
 -- ホテルに泊まっていた人間はみんな、あのワケのわからない炎にまかれて、跡形もなく燃え尽きてしまった事を。
--- TRANSLATION HERE
+Todo el que se hospedaba en el hotel fue engullido por esas inconmensurables llamas,
+ e incinerados sin dejar rastro.
 }
 [sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
 -- Page 26, Offset 8652.
 -- 「っ――――」
--- TRANSLATION HERE
+"――――"
 }
 [sha:9cbf04c220b3dbdceb6da4beafe6729e3ad11bd4]{
 -- Page 26, Offset 8653.
 -- ……吐き気を<堪|こら>える。
--- TRANSLATION HERE
+Aguanto las náuseas.
 }
 [sha:b22f29f0256d5cffd8cab07f1446f475519f0be2]{
 -- Page 26, Offset 8654.
 -- ここであの惨劇を思い返して嘔吐する事はできない。
--- TRANSLATION HERE
+No puedo pensar en la tragedia o acabaré vomitando.
 }
 [sha:f1a7413824f5d8671484ece4845b345af6ed9c21]{
 -- Page 26, Offset 8655.
 -- そんな同情、豚にも劣る。
--- TRANSLATION HERE
+// Revisar
+En esta situación quedarme tirado compadeciendome de mí mismo me haría peor que un cerdo.
 }
 [sha:2ed76b8b5747b44d4c3cdd93f3c0f6dcb1eb6a52]{
 -- Page 26, Offset 8656.
 -- あのホテルにいて自分だけ生き延びた俺には、憎むこと以外は許されない。
--- TRANSLATION HERE
+Como persona que ha escapado del hotel con vida, no puedo permitirme sentir otra cosa que no sea odio.
 }
 [sha:6a9995ce8608e0537889c26a610b9ad6a5902042]{
 -- Page 27, Offset 8657.
 -- 二百人だ。
--- TRANSLATION HERE
+Doscientas personas.
 }
 [sha:d68e7f28f4512c812a8861732c76369b780b6d1e]{
 -- Page 27, Offset 8658.
 -- 二百人の人間が、その原形を留める事さえできず、一方的に殺された。
--- TRANSLATION HERE
+Doscientos seres humanos fueron asesinados arbitrariamente, y sus cuerpos profanados.
 }
 [sha:288a81ea32d5712d2f26344b90570cb6777e0379]{
 -- Page 28, Offset 8659.
 -- あの吸血鬼の顔が浮かぶ。
--- TRANSLATION HERE
+La cara del vampiro aparece en mi cabeza.
 }
 [sha:c5e62a901dc52cf3ec4d7e6091ba7d30c4c82716]{
 -- Page 28, Offset 8660.
 -- 奴が何者なのかは知らない。
--- TRANSLATION HERE
+No se que tipo de persona es.
 }
 [sha:44332cda3016b7ec2a4fdf0d16820bd2a99c3136]{
 -- Page 28, Offset 8661.
 -- ただ、アレが元凶である事だけは間違いない。
--- TRANSLATION HERE
+Pero lo que sé es que, sin ninguna duda, él es la causa de todo esto.
 }
 [sha:d21bfeb03248da96e882320672405951be97baba]{
 -- Page 28, Offset 8662.
 -- ―――そう。
--- TRANSLATION HERE
+Sí―――
 }
 [sha:91868281f696f6b5f227c8bf814b0ad09c07f5a0]{
 -- Page 28, Offset 8663.
 -- アレが生かしてはおけないモノである事だけは、俺にとって間違いようのない真実だ。
--- TRANSLATION HERE
+La única cosa que se con seguridad es que él es alguien que tiene que morir.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 29, Offset 8664.
@@ -371,40 +380,40 @@
 [sha:6d17e4d4607a9300b345b3b69d25c06a0218da8b]{
 -- Page 29, Offset 8665.
 -- ……心がまだ麻痺している、のだろうか。
--- TRANSLATION HERE
+Me pregunto por que sigo insensible...
 }
 [sha:87b190a305866dd803554f600f1697865aa55794]{
 -- Page 29, Offset 8666.
 -- 恐怖は今も残っている。
--- TRANSLATION HERE
+Aún siento el miedo de aquel entonces.
 }
 [sha:301b2262bd78a09b3ade975eaee91081e92fa97f]{
 -- Page 29, Offset 8667.
 -- 怒りも強く渦巻いている。
--- TRANSLATION HERE
+Mi furia continúa resurgiendo intensamente.
 }
 [sha:4d5d95e9cd6b4dafb75e69ad13ddbf025de49772]{
 -- Page 29, Offset 8668.
 -- なのに、思考は冷え切っている。
--- TRANSLATION HERE
+Y aún así, mis pensamientos se están enfriando.
 }
 [sha:8c3fd281bd26a46ee2e235a6622a4b65cbd5166e]{
 -- Page 30, Offset 8669.
 -- ……心臓と脳が別物になったようだ。
--- TRANSLATION HERE
+Es como si mi corazón y mente se hubieran separado.
 }
 [sha:ff9a1acfad05778e742ce7861e01eb233a68776f]{
 -- Page 30, Offset 8670.
 -- あの毛皮の男を思い返すだけで叫びたくなるのに、指先の感覚は鋭さを増すばかり。
--- TRANSLATION HERE
+El solo pensar en el hombre bajo la capa me hace querer gritar, y aún así la sensación punzante en la punta de mis dedos sigue creciendo.
 }
 [sha:8ebdb701533fb1ecf24ff3ddc33ddca5030b612e]{
 -- Page 30, Offset 8671.
 -- 余計な感情は要らない。余分な熱も要らない。
--- TRANSLATION HERE
+No necesito esos sentimientos inútiles. Tampoco más razones para cabrearme.
 }
 [sha:0ebc0db18699cecbbd0f1374acb7fc97ff5d18eb]{
 -- Page 30, Offset 8672.
 -- 俺がするべき事は、ただ簡潔にあの線を―――
--- TRANSLATION HERE
+Solo hay una cosa que debo hacer. Y es simplemente cortar esas―――
 }

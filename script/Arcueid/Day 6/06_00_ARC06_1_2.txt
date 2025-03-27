@@ -1,107 +1,108 @@
 [sha:decefbbb86ff3490507d0f7dae325fea87f002ed]{
 -- Page 10003, Offset 14117.
 -- もう、なんとか誤魔化すしかないだろう。
--- TRANSLATION HERE
+Supongo que no tengo más remedio que intentar engañarla de alguna forma.
 }
 [sha:88fd58c66f98895cf203bbadc1b892c248f0088f]{
 -- Page 10003, Offset 14118.
 -- そもそもアルクェイドやヴローヴの話をしても信じてもらえるとは思えない。
--- TRANSLATION HERE
+Quiero decir, incluso si la dijese sobre Arcueid y Vlov, no hay forma de que me crea.
 }
 [sha:368f43c8acd5df4ef00f3f5efe20cf28c75cc2e2]{
 -- Page 10003, Offset 14119.
 -- それなら出来るだけ嘘は言わない、それでいて真実も言わない、という方針でいくしかない。
--- TRANSLATION HERE
+Tendré que evitar decirle la verdad, y al mismo tiempo intentar mantener al mínimo el número de mentiras.
 }
 [sha:a08fad88c7e939b55e7c0584146ede879e48f446]{
 -- Page 80, Offset 14120.
 -- 「―――よし、行くぞ」
--- TRANSLATION HERE
+"Muy bien... allá voy."
 }
 [sha:a50d6709065217dc698d55589b4839df8972d455]{
 -- Page 80, Offset 14121.
 -- 大きく深呼吸をして、居間に通じる扉を開けた。
--- TRANSLATION HERE
+Respiro hondo, y abro la puerta a la sala de estar.
 }
 [sha:bdcac9963a859147a3c0ee008a4ef16810efac07]{
 -- Page 81, Offset 14122.
 -- 居間にはソファーに座った秋葉と、
--- TRANSLATION HERE
+Dentro, me encuentro a Akiha sentada en el sofá.
 }
 [sha:9c1e8d414b4a05c6089d2ec931081f6b7ca45760]{
 -- Page 81, Offset 14123.
 -- 壁際に立って控えている翡翠の姿がある。
--- TRANSLATION HERE
+Hisui, mientras tanto, permanece de pie atentamente junto a la pared.
 }
 [sha:7018a626ce5e933247e6a5fd2e24355f180cacd6]{
 -- Page 82, Offset 14124.
 -- 「おはようございます、兄さん。
--- TRANSLATION HERE
+"Buenos días, Nii-san.
 }
 [sha:da7b790cb02326ac51ae07709f9c4ed4fd11f79b]{
 -- Page 82, Offset 14125.
 -- 思いのほか、すっきりとした顔をしていらっしゃいますね。何かいい考えでも浮かびましたか？」
--- TRANSLATION HERE
+Al contrario de mis expectativas, pareces tener un aspecto bastante renovado. ¿Se te acaba de ocurrir alguna brillante idea?"
 }
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 83, Offset 14126. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:ef883d8d494904c63bdb906feb306165919437c1]{
 -- Page 83, Offset 14127. Glued. Mods: @x.
 -- う」
--- TRANSLATION HERE
+%{i}Ugh%{/i}."
 }
 [sha:6921fde368e29e4411b46b28473e1deadbda02d2]{
 -- Page 83, Offset 14128.
 -- 嫌味とも牽制とも取れない、秋葉の先制攻撃だった。
--- TRANSLATION HERE
+No se decir si el golpe preventivo de Akiha es una puya,
+ o una maniobra para cortarme cualquier vía de escape.
 }
 [sha:c5e66aa6e43baf9c5b77f12d07c7a2f14774aa12]{
 -- Page 84, Offset 14129.
 -- 「あ、ああ。おはよう秋葉。
--- TRANSLATION HERE
+"S-Sí. Buenos días, Akiha.
 }
 [sha:ce1e26e2eaceacca0664a593b4c0c93fb060d9fc]{
 -- Page 84, Offset 14130.
 -- ……そこ、座っていい？」
--- TRANSLATION HERE
+Te importa si... ¿me siento aquí?"
 }
 [sha:a807c80811767c12476b0527aa1c84b51d7d4202]{
 -- Page 84, Offset 14131.
 -- 秋葉の正面のソファーを指さす。
--- TRANSLATION HERE
+Señalo el sofá frente a Akiha.
 }
 [sha:fc78f9ade8d596cf42b32a19bf149074619805e2]{
 -- Page 85, Offset 14132.
 -- 「どうぞご自由に。……ふうん。おとなしく白状する、という気はあるようですね」
--- TRANSLATION HERE
+"Sí, por supuesto... Hmm. Parece que vienes dispuesto a confesar."
 }
 [sha:aea83d7d7e79712056729430a192727a649367e0]{
 -- Page 86, Offset 14133.
 -- 「ははは。やだなあ、まるで俺が悪い事をしたみたいな」
--- TRANSLATION HERE
+"%{i}Jajaja%{/i}. Oh por favor, lo haces sonar como si hubiera estado tramando algo."
 }
 [sha:50cc6956dc466065153eb36e298261354674ba51]{
 -- Page 86, Offset 14134.
 -- 「―――みたいな？」
--- TRANSLATION HERE
+"¿―――'Como sí'?"
 }
 [sha:49d5638fd79998ee842103f930d4bbf7010075ec]{
 -- Page 86, Offset 14135.
 -- 「とりあえず座るね」
--- TRANSLATION HERE
+"Ya me siento."
 }
 [sha:3821d00f239c2603cbd5275a30ac72f1a981e76c]{
 -- Page 87, Offset 14136.
 -- 迫力に負けてソファーに座った。
--- TRANSLATION HERE
+Me siento en el sofá, intimidado por sus palabras.
 }
 [sha:50da65ef7a9ee0f323d04634a3af65048c3cbb19]{
 -- Page 87, Offset 14137.
 -- 当主さま、まじおっかない。
--- TRANSLATION HERE
+El cabeza de familia es realmente terrorífico.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 88, Offset 14138.
@@ -111,82 +112,82 @@
 [sha:a690c10f1674a68c91e61a0302068fd5e370ae74]{
 -- Page 88, Offset 14139.
 -- 秋葉は口を閉ざしている。
--- TRANSLATION HERE
+Akiha mantiene la boca cerrada.
 }
 [sha:deb73f5a429c784d1e90b0e92194113fdca93cee]{
 -- Page 88, Offset 14140.
 -- こちらからの自主性に期待している……というより、こちらから切り出さないと許さない、という意思を感じる。
--- TRANSLATION HERE
+Tengo la sensación de que espera que tome la iniciativa... O más bien, que no me perdonará si no empiezo a hablar.
 }
 [sha:31164bacf678945b6032d8adea34ac4c2381f891]{
 -- Page 89, Offset 14141.
 -- 被告人の自白を促す裁判官か。
--- TRANSLATION HERE
+Es como un juez presionando al acusado para que confiese.
 }
 [sha:db305fed04bf1ee8fdb6133be0301dc68c0fc35c]{
 -- Page 89, Offset 14142.
 -- だがこちらも方針は決めてある。この裁判、勝ちに行くぞっ。
--- TRANSLATION HERE
+Pero ya tengo un plan decidido. Voy a ganar este juicio.
 }
 [sha:18b60e150e81b45088b2c92605c43464f7764a73]{
 -- Page 90, Offset 14143.
 -- 「昨日と一昨日は、家に帰ってこなくて悪かった。
--- TRANSLATION HERE
+"Siento no haber venido a casa ayer y antes de ayer.
 }
 [sha:66f2bfdd37765bd25ab5778a3967936ecbc04591]{
 -- Page 90, Offset 14144.
 -- ちょっと急な用事ができて」
--- TRANSLATION HERE
+Tenía un asunto urgente del que encargarme."
 }
 [sha:bf3fa6048d7320e5002298f84084036d29ebb825]{
 -- Page 91, Offset 14145.
 -- 「急な用事、ですか。差し支えなければどんな用件だったのか、教えていただけますか？」
--- TRANSLATION HERE
+"¿Asunto urgente dices? Si no es mucho problema, ¿podrías elucidarme sobre la naturaleza de dicho asunto?"
 }
 [sha:d4740149ed637a4cf45270160d4a61d4701f9c43]{
 -- Page 92, Offset 14146.
 -- 「いや、ちょっとした知り合いとばったり再会して、色々あって、そいつに街を案内してやってたんだ」
--- TRANSLATION HERE
+"Bueno, me encontré con un conocido de la nada, una cosa llevó a la otra, y acabé mostrándole la ciudad."
 }
 [sha:eadb0f71e3c06411e91a41013a6432e8dc13b0f6]{
 -- Page 92, Offset 14147.
 -- 「へえ。ちょっとした知り合い、ですか」
--- TRANSLATION HERE
+"Hmm. ¿Un conocido dices?"
 }
 [sha:cba573ebd2bb1800934a6ee398444b30dacd06fe]{
 -- Page 93, Offset 14148.
 -- 「そう。最近知り合ったヤツなんだけど。
--- TRANSLATION HERE
+"Sí. Aunque hace poco que nos conocemos.
 }
 [sha:6e9d36516ced6eca33c29f814b9359008bf24e0a]{
 -- Page 93, Offset 14149.
 -- そいつ、体調を崩しててさ。でもやらなくちゃいけない用事があるとか言うから、放っておけなくて」
--- TRANSLATION HERE
+Verás, no se sentía bien, pero aún tenía asuntos extremamente urgentes de los que ocuparse. Así que no pude dejarle solo."
 }
 [sha:eb246768b22fdcc90e888b2b7b919b5de4325c6e]{
 -- Page 94, Offset 14150.
 -- 「学校を休んで、無断外泊をした、という事ですね。
--- TRANSLATION HERE
+"Así que te saltaste la escuela y pasaste la noche fuera sin permiso, ¿correcto?
 }
 [sha:344c728f87b5c75620ba928b0c51c42b547694cd]{
 -- Page 94, Offset 14151.
 -- 素晴らしい善行ですね。剥製にして、博物館に展示したいくらい」
--- TRANSLATION HERE
+Que cosa tan maravillosa has hecho. Tan maravillosa, de hecho, que la deberían disecar y exponer en un museo."
 }
 [sha:ebc2003f9b8cd9f6db8421036431fe4a202b2f81]{
 -- Page 95, Offset 14152.
 -- 秋葉の視線が冷たい。
--- TRANSLATION HERE
+La mirada de Akiha es fría.
 }
 [sha:a6eaa429253d1d0e67f17e419a12550910e29fb8]{
 -- Page 95, Offset 14153.
 -- あれは怒っている、というより、呆れはてている目だ。
--- TRANSLATION HERE
+En su ojos no se ve enfado sino exasperación.
 }
 [sha:e8fbd4907177e1a37852fba464bb4313dbfaa864]{
 -- Page 95, Offset 14154.
 -- ん？　……ってコトは、今の概要だけの話を、ちゃんと“実際にそうした事”として信じてくれている、という事か？
--- TRANSLATION HERE
+Espera... ¿Quiere decir que se lo ha creído? ¿Qué ha aceptado mi escasa explicación como si fuera la verdad?
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 96, Offset 14155.
@@ -201,22 +202,22 @@
 [sha:7c6e878f413a85437636465f012e9cce92e260b1]{
 -- Page 96, Offset 14157.
 -- 沈黙が続く。
--- TRANSLATION HERE
+El silencio se hace eterno.
 }
 [sha:7a11d6bdaa79d1ffb4f03709d2425e9b6477b786]{
 -- Page 96, Offset 14158.
 -- 俺はこれ以上ボロが出ないように、
--- TRANSLATION HERE
+Simplemente estoy intentando no delatarme.
 }
 [sha:6b922c869344c95d2c64058b27ae7d595b637d3f]{
 -- Page 96, Offset 14159.
 -- 秋葉はどこから突き崩してやろうかと思案するように。
--- TRANSLATION HERE
+Akiha, mientras tanto, está pensando la mejor forma de desacreditar mi explicación.
 }
 [sha:c3d34cef5c129806012f526066f5509975a9b874]{
 -- Page 97, Offset 14160.
 -- 「それで、誰なんですか」
--- TRANSLATION HERE
+"¿Y de quién es dicho conocido?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 97, Offset 14161.
@@ -226,130 +227,132 @@
 [sha:f857f62454227d09081e900b5595b63213bbb60e]{
 -- Page 97, Offset 14162.
 -- 「その知り合いというのは誰なんですか、と聞いたんです、私は」
--- TRANSLATION HERE
+"Te estoy preguntando exactamente qué quién es ese conocido tuyo."
 }
 [sha:c19a5af889fce1c13ac68fb04204b6c7b2f5ee40]{
 -- Page 98, Offset 14163.
 -- まっすぐに秋葉はこっちの目を見据えてくる。
--- TRANSLATION HERE
+Akiha me mira fijamente a los ojos.
 }
 [sha:6600d3bb536f9bb8f533e66cf79a47f21f8474b2]{
 -- Page 98, Offset 14164.
 -- 『絶対に誤魔化されませんから』という意思が、ありありと伝わってくる。
--- TRANSLATION HERE
+Está claro que no va a dejar que la engañen.
 }
 [sha:317a91036ea298ba87e300e95377ac3bf3597d41]{
 -- Page 99, Offset 14165.
 -- 「いや、それは―――」
--- TRANSLATION HERE
+"Bueno, eso es―――"
 }
 [sha:6780ec70d915e7a7843c2587281f1800e295029c]{
 -- Page 99, Offset 14166.
 -- 「言えない、という事は何か後ろめたい事がある、という事よ、兄さん」
--- TRANSLATION HERE
+"Si no me lo puedes decir, entonces debe ser algo sobre lo que te sientas culpable, Nii-san"
 }
 [sha:ad266b352382110c16d90b84dfb3c70944b1d6d8]{
 -- Page 100, Offset 14167.
 -- じっ、と秋葉の視線が突き刺さる。
--- TRANSLATION HERE
+Su mirada penetrante me perfora.
 }
 [sha:be13d8bdbc09715389f3ceddfb91e18a58614251]{
 -- Page 100, Offset 14168.
 -- 目を逸らすと一気に攻め入られそうなので、負けじと秋葉の顔を見つめる。
--- TRANSLATION HERE
+Siento que me atacará el momento en el que aparte la vista, así que la miro fijamente a la cara con decisión.
 }
 [sha:51bdbce0fc0f184da571771bcc3d6ae8dba73b74]{
 -- Page 101, Offset 14169.
 -- ……いや、まったく関係ないけど。
--- TRANSLATION HERE
+No es por irme por la tangente, pero...
 }
 [sha:ea7d2b50d7b684406f5a0092b8ee09624b1d49de]{
 -- Page 101, Offset 14170.
 -- 改めてこう直視すると、秋葉の変わりようを思い知らされる。
--- TRANSLATION HERE
+Mirándola bien, me doy cuenta de lo mucho que ha cambiado Akiha.
 }
 [sha:091f89142b62907cba4cb695056a08f1c1790781]{
 -- Page 101, Offset 14171.
 -- 妹に見蕩れる、というのも兄馬鹿なんだろうか。
--- TRANSLATION HERE
+Me pregunto si es estupidez hermanil estar tan fascinado por tu hermana.
 }
 [sha:27f71b2540893366835097133937d2452b0567f7]{
 -- Page 102, Offset 14172.
 -- 凛と伸びた背筋、はっきりとした口調、ゆらぐ事のない瞳。子供の頃からその素養はあったにしろ、いま目の前にいる秋葉は、なんていうか本当に―――
--- TRANSLATION HERE
+Akiha tiene una postura solemne, un claro tono de voz, y unos ojos que nunca dudan. Aunque haya poseído estas cualidades desde niña, la persona frente a mí es más bien―――
 }
 [sha:a0fbfa05d8d5895b08a5d932b1d5b1babbf32015]{
 -- Page 103, Offset 14173.
 -- 「あのさ、秋葉」
--- TRANSLATION HERE
+"Ey, Akiha."
 }
 [sha:7115de45c60011c057d18fef94814f4d9a0be6aa]{
 -- Page 103, Offset 14174.
 -- 「……？　はい、なんでしょう兄さん」
--- TRANSLATION HERE
+"¿Sí? ¿Qué pasa, Nii-san?"
 }
 [sha:093e4f06e2342834572865ec1a1f9bedb8da5ce0]{
 -- Page 103, Offset 14175.
 -- 「おまえ、眉わりと太いんだな」
--- TRANSLATION HERE
+"Tienes las cejas algo gruesas, ¿no?"
 }
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 103, Offset 14176.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:2380e70d4dfa6bebe9c8f70615956ff3ef0959d4]{
 -- Page 104, Offset 14177.
 -- がたん、とテーブルに足をひっかけて、秋葉は立ちあがった。
--- TRANSLATION HERE
+Akiha se levanta de golpe, dándose con la rodilla en la mesa en el proceso.
 }
 [sha:555de0cc3511d410b8c5608493c787d4887146d8]{
 -- Page 105, Offset 14178.
 -- 「いや、太いってのは違うか。キリッとしてるから印象が強いのかな？　あんまり眉間に皺とかよせると、よくないぞ」
--- TRANSLATION HERE
+"Hmm, quizá me lo esté imaginando.
+ Puede ser que se vean así porque las tengas apretujadas.
+ No es saludable fruncir tanto el ceño, sabes."
 }
 [sha:878a68dad00ae1f7501d8e17bacc6ce703e83027]{
 -- Page 105, Offset 14179.
 -- ただでさえ迫力ある美人なのに、視線まできつかったら並の男は逃げ出すからな？
--- TRANSLATION HERE
+Aunque sea una mujer bella y poderosa, un ceño así de fruncido espantaría a cualquier hombre.
 }
 [sha:c28dfe66a7af854820ccf14878c17a058b3f364d]{
 -- Page 106, Offset 14180.
 -- 「どうやら、兄さんには真面目に返答する気はないみたいですね」
--- TRANSLATION HERE
+"Parece que no tienes intención de responder seriamente."
 }
 [sha:d6a636c5784f712a3d0b6bb85a356c354698de34]{
 -- Page 106, Offset 14181.
 -- 「そんなコトないです。誓って言うけど、俺は秋葉に嘘はつきません」
--- TRANSLATION HERE
+"No es cierto. Aunque tendrás que creerme, te juro que nunca te mentiría."
 }
 [sha:caa42b86fb4f1a3590b95c96343a9d35ef2354b0]{
 -- Page 106, Offset 14182.
 -- ただちょっと、言えないことが多いだけなんだ。
--- TRANSLATION HERE
+Es solo que hay muchas cosas que no puedo decir.
 }
 [sha:94f4da1a32266aecb75f5c340cd473c2bbac570c]{
 -- Page 107, Offset 14183.
 -- 「……はあ。そうね、嘘はつきませんよね。
--- TRANSLATION HERE
+"%{i}Haaa%{/i}... Es cierto, no eres del tipo que miente.
 }
 [sha:0d7a0d97ebcc271be92f2f697fe57ae0bcd32cd0]{
 -- Page 107, Offset 14184.
 -- 昔から、誠実なんだか不誠実なんだか判断のつかない人でしたから」
--- TRANSLATION HERE
+Siempre ha sido difícil saber si estas siendo sincero o no."
 }
 [sha:8a63a4bfa03b8c1af9229016c02d4b4d4c8c16d2]{
 -- Page 108, Offset 14185.
 -- 「ほんと？　俺、昔のことはよく覚えてなくて」
--- TRANSLATION HERE
+"¿En serio? No recuerdo mucho el pasado."
 }
 [sha:ff5cc4d77fe5990dbbc535592d1c97ae619526eb]{
 -- Page 108, Offset 14186.
 -- 「覚えてなくていいです。
--- TRANSLATION HERE
+"Está bien si no te acuerdas.
 }
 [sha:2e5f359567fe907563f9ea230205ebd37d90cf82]{
 -- Page 108, Offset 14187.
 -- ……なんか、私も変わってない。どうせこうなるって分かってるのに問い詰めるなんて、成長がないのかしら」
--- TRANSLATION HERE
+Parece que yo tampoco he cambiado... interrogarte así sabiendo como iba a resultar... quizá no he madurado nada."
 }

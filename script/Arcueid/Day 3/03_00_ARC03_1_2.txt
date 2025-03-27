@@ -1,7 +1,7 @@
 [sha:bf35eaccf3609566e5ede2d8aa24f7f1e616f7d6]{
 -- Page 10002, Offset 4054.
 -- 「おはよう琥珀さん。今朝はいい天気ですね」
-"Buenos días, Kohaku-san. Que mañana tan preciosa, ¿no?"
+"Buenos días, Kohaku-san. Qué mañana tan preciosa, ¿no?"
 }
 [sha:305d0b3df303c8cec03424449ece4b578cac8a86]{
 -- Page 10002, Offset 4055.
@@ -32,7 +32,7 @@ Me preocupaba que te fuera incómodo pasar la noche en una mansión desconocida.
 [sha:76379e44f110dfc6ff7935784d27125c653b56a4]{
 -- Page 47, Offset 4060.
 -- 「あら。お上手ですね、志貴さん」
-"Ay dios. Que labia tienes, Shiki-san."
+"Ay dios. Qué labia tienes, Shiki-san."
 }
 [sha:ab5362901b058598acc43fd2ac0b7af8b24dea41]{
 -- Page 47, Offset 4061.
@@ -92,7 +92,7 @@ Akiha me lanza una mirada fija――no, %{i}penetrante%{/i}.
 [sha:0828748ba14490203ca152fbc1cce939caba90ef]{
 -- Page 50, Offset 4072.
 -- そのあとに何か続きがあるのかしら」
-Me pregunto que puede significar esa frase."
+Me pregunto qué puede significar esa frase."
 }
 [sha:f2cb79cf8fa9aabba3f1913c6ced6b2868c4028b]{
 -- Page 50, Offset 4073.
@@ -118,7 +118,7 @@ Contesto inmediatamente, sin pestañear siquiera.
 [sha:5e16555a147621ba4aaff7fd00045b4bb18c8047]{
 -- Page 52, Offset 4077.
 -- どうぞ、私のことは無視して結構です。兄さんは琥珀と楽しく朝を迎えたいようですから。
-Sientete libre de ignorarme.
+Siéntete libre de ignorarme.
  Parece que prefieres disfrutar de la mañana junto a Kohaku.
 }
 [sha:181e4324871c449a86a5519c153bde44dbc6b84c]{
@@ -155,12 +155,12 @@ Supongo que como su hermano, debería haberla saludado a ella antes...
 [sha:3c569ca66f0a817b900608cecff4d05312053f42]{
 -- Page 55, Offset 4084.
 -- ふん、と鼻をならす秋葉。
-Akiha exala altivamente.
+Akiha exhala altivamente.
 }
 [sha:10d4090e0f30a4c5438e4591b9628892fde8fec5]{
 -- Page 55, Offset 4085.
 -- そもそもからして、この時間まで俺が現れなかった事に不満があったようだ。
-Parece que llevaba todo este tiempo enfadada por que llegaba tarde.
+Parece que llevaba todo este tiempo enfadada porque llegaba tarde.
 }
 [sha:c3f5c8c9686d537dfd3ebd0e062ca485e85b995a]{
 -- Page 56, Offset 4086.
@@ -170,7 +170,7 @@ Parece que llevaba todo este tiempo enfadada por que llegaba tarde.
 [sha:5f25bc82b1e5038f3c263845b561349ecc042871]{
 -- Page 56, Offset 4087.
 -- 「はい、支度はバッチリです。お声をかけてくだされば、いつでもご用意いたします」
-"Sí, esta todo listo. Cuando me digas, te prepararé la comida de inmediato."
+"Sí, está todo listo. Dime, y te preparo la comida de inmediato."
 }
 [sha:0db1d471ff9a6bdb58424c0c9c6f0b8b8b8186fc]{
 -- Page 57, Offset 4088.
@@ -203,7 +203,7 @@ Desde aquí solo tardo media hora en llegar a la escuela."
 [sha:06ac0886827776a22e94d6817c73379a330f849f]{
 -- Page 59, Offset 4093.
 -- 的確にこっちの不備をついてくる……恐るべき反応速度、反射スキルと言わざるをえない。
-Señala mis errores con precisión quirúrjica... No tengo mas remedio que reconocer su formidable agudeza y reflejos supernaturales.
+Señala mis errores con precisión quirúrgica... No tengo más remedio que reconocer su formidable agudeza y reflejos sobrenaturales.
 }
 [sha:920419fe3e8c3ef7fb5b28e84c669d20bfd083ea]{
 -- Page 59, Offset 4094.

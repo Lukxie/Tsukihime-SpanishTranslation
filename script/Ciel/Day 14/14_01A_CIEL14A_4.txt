@@ -151,7 +151,7 @@
 [sha:94d2e9848339c6724a8a6c56feadec339a7da740]{
 -- Page 109, Offset 37919.
 -- 「―――！？」
--- TRANSLATION HERE
+"¿―――?!"
 }
 [sha:16c2d78ce91b1f4a0f9b2c53ee32751a825f59ec]{
 -- Page 109, Offset 37920.
@@ -436,7 +436,7 @@
 [sha:749ae8d8ac685dbb0bb89c069221bcaa792dcb90]{
 -- Page 128, Offset 37976.
 -- 「アルクェイド―――！」
--- TRANSLATION HERE
+"¡Arcueid―――!"
 }
 [sha:019a4e63c80b4c3e905ca8fabb922e801bb9da5a]{
 -- Page 129, Offset 37977.
@@ -546,7 +546,7 @@
 [sha:da77e7ef783bf3b0a2c3cbe02826cdc4cc2a5a15]{
 -- Page 136, Offset 37998.
 -- 「―――――！」
--- TRANSLATION HERE
+"¡―――!"
 }
 [sha:0d894ca3a59c3ae698c5e40b98a159f64bbebc75]{
 -- Page 136, Offset 37999.
@@ -686,7 +686,7 @@
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 142, Offset 38026.
 -- つまり。
--- TRANSLATION HERE
+En otras palabras―――
 }
 [sha:9725e324ccef5a1c6f374aa5ef7d40610365abad]{
 -- Page 142, Offset 38027.
@@ -761,7 +761,7 @@
 [sha:c5e58753d056c1d91fe3a48a320a44e9f2d8eccc]{
 -- Page 146, Offset 38041.
 -- 「―――？」
--- TRANSLATION HERE
+"¿―――%{i}Kh%{/i}?"
 }
 [sha:3c0162bfde1d345a9a2cba716cccd012cc4368d5]{
 -- Page 146, Offset 38042.
@@ -781,7 +781,7 @@
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 147, Offset 38045. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:e812c582896809bdeeedd7cfebe7141897f147cf]{
 -- Page 147, Offset 38046. Glued. Mods: @x.

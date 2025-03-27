@@ -124,8 +124,8 @@ Si esto sigue así, no voy a dormir nada.
 [sha:47891210ab324154b0b8786d73080d23c76f9a10]{
 -- Page 344, Offset 3514.
 -- 犬がうるさいなんて、警察に電話しても取り合ってもらえないだろうし」
-La policía ni siquiera me daría la hora
- si llamase para quejarme de que un perro está haciendo ruido."
+Si llamasea la policía para quejarme de que un perro está haciendo ruido,
+ ni me darían la hora."
 }
 [sha:d1394f0707e2942a97a5b25bd0ffe62c30ad62f9]{
 -- Page 345, Offset 3515.
@@ -140,7 +140,7 @@ Seguro que el resto también está teniendo problemas para dormir.
 [sha:68ffb7efb9c43ed55f03eacc058b960b3a9c6145]{
 -- Page 345, Offset 3517.
 -- 屋敷にいる男手は自分だけだし、ここは様子を見にいくしかないだろう。
-Soy el único hombre en la mansión, asi que supongo que cae en mi la responsabilidad de ir a ver que pasa fuera.
+Soy el único hombre en la mansión, así que supongo que cae en mi la responsabilidad de ir a ver que pasa fuera.
 }
 [sha:640f5bb2518d8a9f4001ffe5fa1835db049b01b3]{
 -- Page 346, Offset 3518.
@@ -256,7 +256,8 @@ Por alguna razón estoy sediento.
 [sha:790edd1b9bb868e1a44819561cd38b0446d886cb]{
 -- Page 352, Offset 3540.
 -- 屋敷の周り、高い壁が延々と続く夜道。
-La carretera serpeante al lado de la alta pared que rodea la mansión se estrecha infinitamente hacia la noche.
+// Revisar
+La carretera que serpentea al lado de la alta pared rodeando la mansión se estrecha infinitamente hacia la noche.
 }
 [sha:f96286ebee9f5dc298933cfa8b537a499cba88a8]{
 -- Page 352, Offset 3541.
@@ -474,7 +475,7 @@ Ya no escucho los aullidos.
 [sha:2d6a2372122b99e86abd52f7be548f16ff382bb0]{
 -- Page 362, Offset 3582.
 -- ……熱にうかされるように、幻を後にした。
-Dejo el sueño ilusorio que acabo de ver atrás.
+Dejo atrás el sueño ilusorio que acabo de ver.
 }
 [sha:437976b4302400051ef05462ba0b00060d37d74d]{
 -- Page 363, Offset 3583.
@@ -525,7 +526,7 @@ Mi cuerpo entero está temblando, y mi espalda se siente muy fría.
 [sha:e80352fb72ac81f6f4f440b49ad89a36ed43f3c9]{
 -- Page 365, Offset 3592.
 -- 喩えるなら、そう。
-Si tuviera que describir como se siente―――
+Si tuviera que describir cómo se siente―――
 }
 [sha:79994762489761a3f4d93deac5d9576fe625a2e1]{
 -- Page 365, Offset 3593.
@@ -550,7 +551,8 @@ Me siento aturdido y mareado.
 [sha:d101186c832e388ff0c0374f9c515fc12a8ab3ec]{
 -- Page 366, Offset 3597.
 -- 意識が脳みそごと、どしゃりと地面にぶちまけられる感覚。
-Siento como se estrella mi consciencia contra el suelo, cerebro y todo.
+// Revisar
+Siento como mi consciencia se estrella contra el suelo, cerebro y todo.
 }
 [sha:9d3e393c9ecc033350091dccc58cf8fdc83ecccd]{
 -- Page 366, Offset 3598.
@@ -575,7 +577,7 @@ Aunque lleve las gafas, aun puedo ver esas 'líneas'.
 [sha:181e4c6c4c50bfbb9a55fc21a3b02fc2074e891d]{
 -- Page 368, Offset 3602.
 -- こみ上げる吐き気に、眼球が耐えられない。
-La creciente nausea abruma mis ojos.
+La creciente náusea abruma mis ojos.
 }
 [sha:4e965f2e168c44cea5c59226d156e33610a310c2]{
 -- Page 368, Offset 3603.

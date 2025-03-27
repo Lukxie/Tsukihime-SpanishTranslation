@@ -1,167 +1,171 @@
 [sha:0c5a4f9a782b685f64880ffe733cf9128ff54a4d]{
 -- Page 10013, Offset 21721. Mods: @k, @e.
 -- 「……秋葉は学校に行っている。
--- TRANSLATION HERE
+"Akiha está en la escuela.
 }
 [sha:a6d5e3e65baff829cb0dad032317b74203d1f573]{
 -- Page 10013, Offset 21722.
 -- 琥珀さんは買い物で留守、翡翠は一階で清掃中か……」
--- TRANSLATION HERE
+Kohaku-san se ha ido a comprar, y Hisui está ocupada limpiando la primera planta..."
 }
 [sha:3ed01273d14f7ee49338642874df472e77f1a099]{
 -- Page 153, Offset 21723.
 -- いま、この廊下には自分しかいない。
--- TRANSLATION HERE
+Ahora mismo, en este pasillo solo estoy yo.
 }
 [sha:56bc9ea6d3faf8ff14db6b7d51b26ded16d14891]{
 -- Page 153, Offset 21724.
 -- 故人の部屋をあさるのはルール違反だが、俺だってこの家の人間だ。
--- TRANSLATION HERE
+Puede que hurgar en la habitación de un muerto vaya contra las normas,
+ pero soy un miembro de la familia, ¿no?
 }
 [sha:a76136aa616056bee550d9da06b5ee0c7110e5c7]{
 -- Page 153, Offset 21725.
 -- 父親の部屋に入るぐらい、そう大げさな事ではない筈だ。
--- TRANSLATION HERE
+No puede ser para tanto que un hijo entre en la habitación de su padre.
 }
 [sha:861b5e4c9c06df65e771924315a446231e9c97cf]{
 -- Page 154, Offset 21726.
 -- 突き当たりの部屋には鍵がかかっていた。
--- TRANSLATION HERE
+La habitación al final del pasillo está cerrada.
 }
 [sha:fc8508c5a7eef31bab172d24145422b2f56743ce]{
 -- Page 154, Offset 21727.
 -- 眼鏡を外し、鍵の部分の“線”を断つ。
--- TRANSLATION HERE
+Me quito las gafas y corto a través de la línea de la cerradura.
 }
 [sha:6e464c61536989a5a26e1b9540df8610258537f4]{
 -- Page 155, Offset 21728.
 -- ……今さら後戻りはできない。
--- TRANSLATION HERE
+Ahora no hay vuelta atrás...
 }
 [sha:719e353d24b69580a2ff8ad7d140f16eec81b5da]{
 -- Page 155, Offset 21729.
 -- 廊下を見渡し、誰にも見られていない事を確認して中に入った。
--- TRANSLATION HERE
+Miro alrededor del pasillo para confirmar que nadie me ha visto
+ y me cuelo.
 }
 [sha:3d2b1f3c2ea43a7cbfc21e38e8c6fb396f381ec5]{
 -- Page 156, Offset 21730.
 -- 「なんだこの部屋……暗すぎないか？」
--- TRANSLATION HERE
+"Que ocurre en esta habitación... ¿Por qué está tan oscura?"
 }
 [sha:b38e4d54230886da354349aa4332f0885b00ccd5]{
 -- Page 156, Offset 21731.
 -- カーテンを閉めきっていても、ここまでの暗さにはならない。
--- TRANSLATION HERE
+Una habitación no se vuelve tan oscura solo corriendo las cortinas.
 }
 [sha:e3ad8709b265d733893ec7bdbc5aef1c56248c38]{
 -- Page 156, Offset 21732.
 -- 壁に手をやって電灯のスイッチを探そうとし、思いとどまる。
--- TRANSLATION HERE
+Pongo la mano en la pared y empiezo a buscar el interruptor de la luz, pero me lo pienso dos veces.
 }
 [sha:d28a1c329271fd113f09c11f5b73cf5277d6add7]{
 -- Page 157, Offset 21733.
 -- スイッチを押す事で外に“誰かが入っている”と知られてしまう可能性がある。
--- TRANSLATION HERE
+Encender la luz puede alertar a alguien de que estoy aquí.
 }
 [sha:f1349e8d4998cd2627b7f764c3848fa017ccdeb3]{
 -- Page 157, Offset 21734.
 -- 用心しすぎだとは思うが、ここは携帯端末のライトだけで部屋を照らす。
--- TRANSLATION HERE
+Puede que esté siendo demasiado cuidadoso
+ pero me limitaré a mirar alrededor con la luz del móvil.
 }
 [sha:0474c09d81d63975e56d04d294c32bfca62bd891]{
 -- Page 158, Offset 21735.
 -- 「……なんだ。思ったより片付いているじゃないか」
--- TRANSLATION HERE
+"Eh... Está mucho más ordenado de lo que esperaba."
 }
 [sha:ed29cee0c3dbb95888d345db3cee8c40932cdbb1]{
 -- Page 158, Offset 21736.
 -- 秋葉が使っていた執務室と同規模の内装だ。
--- TRANSLATION HERE
+El diseño interior es parecido al de la oficina que Akiha usa.
 }
 [sha:eebedec4c090daf891c74a9118963ca26be847d8]{
 -- Page 158, Offset 21737.
 -- まあ、先月まで<槙久|おやじ>が使っていたんだから、荒れている道理もない。
--- TRANSLATION HERE
+Bueno, la estaba usando nuestro padre hasta hace un mes así que no me sorprende.
 }
 [sha:fbf772b95dc0e307d9adfb75f1561044c04cc4f6]{
 -- Page 159, Offset 21738.
 -- 本棚も生前のまま保管されている。
--- TRANSLATION HERE
+Incluso las estanterías están ordenadas como las dejó.
 }
 [sha:4fd211d9f4623e63dfa3860320c7cfb9b45864e6]{
 -- Page 159, Offset 21739.
 -- となると、残る疑問はこの暗さだ。
--- TRANSLATION HERE
+Lo único que me desconcierta es lo oscuro que está.
 }
 [sha:355a7396d9cfa98d40ec3acb3420ef6e0d0fe68c]{
 -- Page 159, Offset 21740.
 -- カーテンは一体どうなっているのか、と携帯を窓に向ける。
--- TRANSLATION HERE
+Apunto mi teléfono hacia la ventana y trato de ver lo que pasa con las cortinas.
 }
 [sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
 -- Page 160, Offset 21741. Mods: @k, @e.
 -- 「――――――、
--- TRANSLATION HERE
+"
 }
 [sha:dbcec3df76e528d0dbb31c560813f3de94457a0c]{
 -- Page 160, Offset 21742. Glued. Mods: @x.
 -- え？」
--- TRANSLATION HERE
+¿Eh?"
 }
 [sha:e1a47c61368026df31fc6c54388eccba1815c222]{
 -- Page 160, Offset 21743.
 -- ―――そこには。
--- TRANSLATION HERE
+Lo que veo no tiene sentido.
 }
 [sha:75acabe0395fea1e757c2696898f081d6d91d43e]{
 -- Page 160, Offset 21744.
 -- 通常の部屋にはある筈のない、異様な<封|のり>が施されていた。
--- TRANSLATION HERE
+Ha sido sellada por completo
+ pero de una manera que no te encontrarías en una habitación normal.
 }
 [sha:d5a7b63510f8147228cc5d64294718c7ee47083c]{
 -- Page 161, Offset 21745.
 -- 「……<鉄|てつ>……<格子|ごうし>……？　なんで……？」
--- TRANSLATION HERE
+"¿Una verja... de hierro? ¿Por qué?"
 }
 [sha:66f57ac9d1bf9ac73c7ae8cadf7a2318d028d443]{
 -- Page 161, Offset 21746.
 -- 信じられない。
--- TRANSLATION HERE
+Nada de esto tiene sentido.
 }
 [sha:f21522ef78660254eae442b4401a8a00e4d8b63c]{
 -- Page 161, Offset 21747.
 -- 信じられないが、目の前にあるモノは本物だ。
--- TRANSLATION HERE
+Pero algo que está frente a ti es innegable.
 }
 [sha:44fe03efbe94d42619e47b605eb1a0214ccd2202]{
 -- Page 161, Offset 21748.
 -- 槙久の部屋の窓は、一面の壁だった。
--- TRANSLATION HERE
+La ventana de la habitación de Makihisa ha sido sellada por completo.
 }
 [sha:f6bcad2db8576bbce6f62847e2d77f07d9ece92b]{
 -- Page 162, Offset 21749.
 -- 遮光カーテンで陽射しを殺しているだけではない。
--- TRANSLATION HERE
+No está oscuro porque haya unas pocas cortinas opacas bloqueando la luz del sol.
 }
 [sha:88650166c204bda208c9c452c9cc263fee9cd9b3]{
 -- Page 162, Offset 21750.
 -- 窓には一面、頑丈な鉄格子が打ち付けられていた。
--- TRANSLATION HERE
+Sino porque esta verja de hierro gigante se superpone con la ventana.
 }
 [sha:1fb5aa9123c0543ede5880758f8373b0ef952102]{
 -- Page 162, Offset 21751.
 -- まるで外から入ってくるものを拒むような、
--- TRANSLATION HERE
+Es como si estuviera diseñada para evitar que nadie entre desde fuera.
 }
 [sha:7c92a0dd9fd7504a10985dd384d79f8e45cbe570]{
 -- Page 162, Offset 21752.
 -- あるいは、
--- TRANSLATION HERE
+O quizá...
 }
 [sha:0e0ce665f3163cc0e6f7876745ec2b7710bd192c]{
 -- Page 162, Offset 21753.
 -- 中に入ったものを閉じこめているような、そんな光景。
--- TRANSLATION HERE
+Era para encerrar algo en su interior.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 163, Offset 21754.
@@ -171,82 +175,87 @@
 [sha:bd380461179bbc9a06ddacab3214702d17512a19]{
 -- Page 163, Offset 21755.
 -- これは、まずい。
--- TRANSLATION HERE
+Esto es malo.
 }
 [sha:d0dc486ccdd2639c6c684cd5cc79472162874cff]{
 -- Page 163, Offset 21756.
 -- この闇が何を示しているかは分からないが、これが見てはいけない秘密……狂気の檻である事は分かる。
--- TRANSLATION HERE
+No se que me intenta revelar esta oscuridad,
+ pero puedo intuir que es un secreto que nunca debe salir a la luz...
+ Este lugar es una caja construida para contener la locura.
 }
 [sha:4c514cb1c271494d2896ee602f9ba254f4979a45]{
 -- Page 164, Offset 21757.
 -- 今すぐこの部屋を出なければいけない。
--- TRANSLATION HERE
+Tengo que salir de esta habitación inmediatamente.
 }
 [sha:f381c3c24fe0638dbe673fbab3148d5b048f4f86]{
 -- Page 164, Offset 21758.
 -- 俺がここにいる事を他の誰にも……たとえ秋葉であろうと琥珀さんであろうとも……知られてはいけない。
--- TRANSLATION HERE
+Nadie puede saber que estuve aquí.
+ Ni Akiha, ni Kohaku-san... nadie.
 }
 [sha:2584752095415b2d759672f6563d885ace003511]{
 -- Page 165, Offset 21759.
 -- もし知られたら、その時は―――
--- TRANSLATION HERE
+Si se enterasen―――
 }
 [sha:6db00427e7157942e5633b338cde79a679a580bb]{
 -- Page 165, Offset 21760.
 -- もう、これまでのような関係性は保てない気さえする。
--- TRANSLATION HERE
+Tengo la sospecha de que nuestra relación no volvería a ser la misma.
 }
 [sha:7529e0aeb6ee2d818388330acb5a80934b0ae3be]{
 -- Page 166, Offset 21761.
 -- 「……いや、ここまできて何びびってるんだ、俺は」
--- TRANSLATION HERE
+"Espera... he llegado hasta aquí, ¿por qué me estoy acobardando?"
 }
 [sha:4e78942ea92a88e8782dd2a4edbd253023d1837f]{
 -- Page 166, Offset 21762.
 -- 携帯の灯りを頼りに進む。
--- TRANSLATION HERE
+Avanzo iluminándome el camino con el móvil.
 }
 [sha:600747e53c049afa03bcfa5316150535257a4dda]{
 -- Page 166, Offset 21763.
 -- 本棚も気になるが、そう時間はない。
--- TRANSLATION HERE
+Las estanterías me dan curiosidad, pero ahora no tengo tiempo de mirarlas.
 }
 [sha:17e6be36dca78a4b3eb8cffbe915f28a6808203a]{
 -- Page 167, Offset 21764.
 -- まずは槙久の机の引き出しを調べよう。
--- TRANSLATION HERE
+Mirar los cajones del escritorio de Makihisa tiene prioridad.
 }
 [sha:d05f8089d8c539b812f6c8f34813bb88bcde1bd4]{
 -- Page 167, Offset 21765.
 -- 何か目的がある訳ではないが、あの几帳面な<槙久|おやじ>の事だ。
--- TRANSLATION HERE
+No se lo que estoy buscando,
+ pero mi padre era extremadamente meticuloso.
 }
 [sha:1346045bc74de3be62291fcb85d6502004dfb104]{
 -- Page 167, Offset 21766.
 -- 秋葉の事や俺の事、会社に関する書類でも入っているかもしれない。
--- TRANSLATION HERE
+Hay una probabilidad alta de que contengan documentos relacionados con la compañía, Akiha, o yo mismo.
 }
 [sha:f36ad238b6749763b58d374dc19b97ea78c87144]{
 -- Page 168, Offset 21767.
 -- 机の引き出しには何も入っていなかった。
--- TRANSLATION HERE
+No hay nada en los cajones del escritorio.
 }
 [sha:281bb9a88f9949ec3af45ccf5929456c62af0966]{
 -- Page 168, Offset 21768.
 -- ただし、二段目の鍵のかかっていない引き出しまで。
--- TRANSLATION HERE
+O al menos en los dos primeros, que ya estaban desbloqueados.
 }
 [sha:057eabf34fe305fcdaaa443f049f22623404d61e]{
 -- Page 168, Offset 21769.
 -- 三段目の引き出しには鍵がかかっている。
--- TRANSLATION HERE
+El tercero está cerrado a cal y canto.
 }
 [sha:dc71b39e681cbd9845f5c1a96438baf3b718bb10]{
 -- Page 168, Offset 21770.
 -- どうやら親父の死後、誰も開けられずに放置されているようだ。
--- TRANSLATION HERE
+Supongo que nadie ha sido capaz de abrirlo tras su muerte,
+ así que se olvidaron de él.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 168, Offset 21771.
@@ -256,117 +265,121 @@
 [sha:128e24c9da31d81098308f95d9875ca06ad9f5e5]{
 -- Page 168, Offset 21772.
 -- もう一度眼鏡を外して、鍵を“殺す”。
--- TRANSLATION HERE
+Una vez más, me quito las gafas y 'mato' el cierre.
 }
 [sha:04cac00227ed753a33720a2e2c16507868cd80fb]{
 -- Page 169, Offset 21773.
 -- 「……本？　日記帳か、これ？」
--- TRANSLATION HERE
+"¿Un libro...? ¿Es un diario?"
 }
 [sha:87265d0e3c9047eefbccd12561c342d6d13afb11]{
 -- Page 169, Offset 21774.
 -- 中には古い紙の束と、分厚い日記帳が入っていた。
--- TRANSLATION HERE
+Dentro hay un taco de papeles viejos y un diario grueso.
 }
 [sha:6623fed0a2cd40967921f0f6c07e959a0d41109c]{
 -- Page 169, Offset 21775.
 -- 紙の方は……遠野家の家系図のようだ。
--- TRANSLATION HERE
+Los papeles... parecen ser el árbol genealógico de la familia Tohno.
 }
 [sha:fb3ba82489e4b6d5851e9c8fdbc7ff3f7e2c1b65]{
 -- Page 170, Offset 21776.
 -- 「なんだってこんなところに……けど、随分と古い紙だな」
--- TRANSLATION HERE
+"Por qué está aquí algo como esto...
+ Además este papel parece muy viejo."
 }
 [sha:f543af00840c5f7d2adbdba7bda2d9e0aad5734a]{
 -- Page 170, Offset 21777.
 -- もう何代も前から歴史として記されてきたものなのだろう。
--- TRANSLATION HERE
+Me pregunto cuántas generaciones han dejado sus marcas en estos papeles.
 }
 [sha:175e82b65ca2f0d9c019c2b289f579e6ffc6d70e]{
 -- Page 170, Offset 21778.
 -- 間違いない。
--- TRANSLATION HERE
+No hay duda.
 }
 [sha:f2054ff7042cf11d0021247904e4a134bc9925b4]{
 -- Page 170, Offset 21779.
 -- 遠野マキヒサの後には遠野シキ、遠野アキハという名前がある。
--- TRANSLATION HERE
+Bajo el nombre de Tohno %{i}Makihisa%{/i} están los nombres de Tohno %{i}Shiki%{/i} y Tohno %{i}Akiha%{/i}.
 }
 [sha:0c3648c662df9c15b14e99d34cdbcf715edf56f1]{
 -- Page 170, Offset 21780.
 -- あるの、だけど―――
--- TRANSLATION HERE
+Están ahí, pero―――
 }
 [sha:e7fde93755c6982146749f166775a09c3f208147]{
 -- Page 171, Offset 21781.
 -- 「……なんだこれ。<槙久|おやじ>のやつ、九年前に養子をとってる。……あ、けどすぐに病死しちゃってるな」
--- TRANSLATION HERE
+"Qué es esto... Mi padre adoptó a un niño hace nueve años... Ah, pero poco después murió de una enfermedad."
 }
 [sha:75c00db6a8da26d02d7eefed53ee031652e133c3]{
 -- Page 172, Offset 21782.
 -- 九年前といえば、俺が八歳の頃だ。
--- TRANSLATION HERE
+Hace nueve años... yo tenía ocho años.
 }
 [sha:3a898148da525ee8d7af23d8537518ac75687acb]{
 -- Page 172, Offset 21783.
 -- 大昔と言えば大昔だけど、まったく記憶にない。
--- TRANSLATION HERE
+Sé que fue hace mucho, pero aún así no me suena de nada.
 }
 [sha:26ed56db907310bde0c999f348d0779da72f5abc]{
 -- Page 172, Offset 21784.
 -- ……もしかして妾の子で、外で囲っていた……とか？
--- TRANSLATION HERE
+¿Quizá tuvo un hijo con una amante,
+ y lo intentaba mantener en secreto fuera de la mansión...?
 }
 [sha:e5de80f71c1754afc339bd73b13eb9ce9ed60f88]{
 -- Page 172, Offset 21785.
 -- あの生真面目な<槙久|おやじ>が？
--- TRANSLATION HERE
+¿Alguien tan estricto como Makihisa es capaz de hacer algo así?
 }
 [sha:ace50cdca547da642061e39bb1c6f3dba9d468b7]{
 -- Page 173, Offset 21786.
 -- 「……そんなワケないか。
--- TRANSLATION HERE
+"Sí, es imposible.
 }
 [sha:84b0efc0bc0c445a0c788d763650fa390311a8b6]{
 -- Page 173, Offset 21787.
 -- けど……うちの当主ってみんな短命なんだな。親父も五十前に病死した訳だし、その前は三十歳の時に事故死……その前は十八歳で自殺している……」
--- TRANSLATION HERE
+Pero... todas las cabezas de familia han tenido vidas cortas.
+ Mi padre falleció antes de los 50, y su predecesor murió a los 35 en un accidente...
+ Y el que vino antes cometió suicidio a los 18..."
 }
 [sha:2c5d18d08d5d6a4a0de65c9a680054f656d6c35a]{
 -- Page 173, Offset 21788.
 -- ――――いや、待て。
--- TRANSLATION HERE
+Espera, un momento...
 }
 [sha:bb2d4dc89c53c340fb17190fe5d16291e811e264]{
 -- Page 173, Offset 21789.
 -- いくらなんでも、これは、おかしい。
--- TRANSLATION HERE
+Algo no tiene sentido.
 }
 [sha:49139611e8032b25fa8cfa545746e96d864c5c83]{
 -- Page 174, Offset 21790.
 -- 改めて家系図に目を通す。
--- TRANSLATION HERE
+Observo de nuevo el árbol con detenimiento, esta vez fijándome bien.
 }
 [sha:48b2a9d558982e2a2260b2c7bf041b0a9d7abb40]{
 -- Page 174, Offset 21791.
 -- ……見間違いじゃない。
--- TRANSLATION HERE
+No hay duda...
 }
 [sha:9e6d5cc66d94514a2c83b782d4778a5c724b27b4]{
 -- Page 174, Offset 21792.
 -- 遠野家の人間はみな異常な死に方をしていた。
--- TRANSLATION HERE
+Todos los miembros de la familia Tohno han muerto bajo extrañas circunstancias.
 }
 [sha:5d496ff6d4189eb6a28a012267022a98f6c2e604]{
 -- Page 174, Offset 21793.
 -- 自殺。事故。他殺。行方不明。
--- TRANSLATION HERE
+Suicidio. Accidente. Asesinato. Desaparición.
 }
 [sha:bd92d9ffcf25d19db9b89f41e61b943abc2fc0f5]{
 -- Page 174, Offset 21794.
 -- ……誰一人として、安らかに寿命を全うした者がいない。
--- TRANSLATION HERE
+Ninguno de ellos ha vivido en paz su vida natural...
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 175, Offset 21795.
@@ -376,162 +389,182 @@
 [sha:00154e36df256a3e12d8436aed49acb53f4bbea1]{
 -- Page 175, Offset 21796.
 -- その一連の記録は、呪われているとしか言いようがない。
--- TRANSLATION HERE
+La racha consecutiva registrada aquí solo puede describirse como una maldición.
 }
 [sha:24667e1edde0647d8f7acd13f8f4a01ca95bab3e]{
 -- Page 175, Offset 21797.
 -- 異常なのは、死因の大半が自死である事だ。
--- TRANSLATION HERE
+Es aún más extraño que la mayoría de las muertes fueran suicidios.
 }
 [sha:e416f0957d7a1fac05c59f48427f56e82c24488f]{
 -- Page 175, Offset 21798.
 -- 遠野家の当主たちは成人を迎える前か、その後に、自らの命を断っている―――
--- TRANSLATION HERE
+Los cabezas de la familia Tohno se quitaron la vida repetidamente,
+ algunos siquiera antes de volverse adultos, otros poco después de―――
 }
 [sha:3b03b7bf880c82cb398cb7f246d0d2e3eda94e2b]{
 -- Page 176, Offset 21799.
 -- 視界から光が薄れていく。
--- TRANSLATION HERE
+Mi visión empieza a oscurecerse.
 }
 [sha:db5f51e56d269113ae90ff7a233c8717ad3edcf1]{
 -- Page 176, Offset 21800.
 -- 後頭部にぐらぐらと血液が溜まっていくような感じ。
--- TRANSLATION HERE
+Es como si toda mi sangre se estuviera acumulando en la parte posterior de mi cabeza.
 }
 [sha:c1ad643856b550bc9a61e1152e1f77990fa3c9e6]{
 -- Page 176, Offset 21801.
 -- 手足に力が入らなくなって、呼吸が段々と詰まっていく。
--- TRANSLATION HERE
+Mis extremidades se han vuelto inestables,
+ y cada vez me cuesta más respirar.
 }
 [sha:2d7fb9dc3780ec7941a444f5db95aef5916483e2]{
 -- Page 176, Offset 21802.
 -- 俺は目眩と、イヤな予感から逃げるように、日記帳に目を移した。
--- TRANSLATION HERE
+Intento escapar del mareo y las premoniciones desagradables devolviendo mi atención al diario.
 }
 [sha:0da4e4e174e52eb053444450fa8fe4e4de4f4bbc]{
 -- Page 176, Offset 21803.
 -- ページをめくる。冒頭の日付は2004年。
--- TRANSLATION HERE
+Doy la vuelta a la página. La fecha marca 2004.
 }
 [sha:3a660976579c8ee6a30fc41b365d98d3bee1145d]{
 -- Page 176, Offset 21804.
 -- ……槙久によって養子にとられた誰かが、人知れず病死した年だ。
--- TRANSLATION HERE
+El año en el que el hijo que Makihisa adoptó murió de una enfermedad en secreto...
 }
 [sha:27b9640b5e6ca73d8b8e43d0b12766ea0b9dc355]{
 -- Page 177, Offset 21805.
 -- 日記に書かれた<文字|テキスト>を追う。
--- TRANSLATION HERE
+Miro detalladamente el texto escrito en el diario.
 }
 [sha:e26674ce77f6bd65a027c3a6e0113852dbfb42c5]{
 -- Page 177, Offset 21806.
 -- <槙久|おやじ>らしい、整っているが神経質そうな筆跡。
--- TRANSLATION HERE
+Esta caligrafía le pega mucho a mi padre. Concisa, pero neurótica.
 }
 [sha:cc30652f530c7339b99166b031af0bd4c030e423]{
 -- Page 177, Offset 21807.
 -- 俺は熱に浮かされたように、その日の内容を読み上げる。
--- TRANSLATION HERE
+Leo la entrada del día en alto, como si tuviera fiebre y estuviera delirando.
 }
 [sha:ee41c9d18eaf352666c23138687bdbe2c9dd8a16]{
 -- Page 178, Offset 21808.
 -- 「……遠野の一族は呪われている。
--- TRANSLATION HERE
+"La familia Tohno está maldita.
 }
 [sha:802897c8a3e54abc26622b82bef075030ccf8b5e]{
 -- Page 178, Offset 21809.
 -- 近代に移ってから、生まれてくる子供には……の……からの隔世遺伝が……」
--- TRANSLATION HERE
+Todos los niños nacidos en la era moderna son...
+ de...
+ atavismo resultante de..."
 }
 [sha:544ef2bb5a810f80c7c149236d01857c1d54b555]{
 -- Page 179, Offset 21810.
 -- もう十年前のものだ。インクがかすれてよく読めない。
--- TRANSLATION HERE
+Esto fue escrito hace más de diez años.
+ La tinta se ha difuminado hasta el punto que casi no puedo leer.
 }
 [sha:7e02cbeb11d1106ffe09cbdf6d67dc2287f94517]{
 -- Page 180, Offset 21811.
 -- 「……もちろん……私も、私の子供たちも例外ではない。
--- TRANSLATION HERE
+"Por supuesto...
+ mis hijos y yo tampoco somos excepción.
 }
 [sha:d02fab1c0ae047551c8cd5cbe77f956a387b2231]{
 -- Page 180, Offset 21812.
 -- 秋葉には特……強……見られる。わが子の未来を思うと悲しい…………紹介された医師の話によると、幼年期から厳しく教育すれば発現は………」
--- TRANSLATION HERE
+Akiha en particular... parece... fuerte.
+ Pensar en el futuro de mis hijos me entristece...
+ De acuerdo al doctor que me recomendaron,
+ si recibe disciplina severa desde una edad temprana... sus genes..."
 }
 [sha:e059ca3aaf338750d8d1995579d1c84a4f9b9dcb]{
 -- Page 181, Offset 21813.
 -- 「……今夜も手術が必要だという……秋葉に教える事はできない……あの娘は私を怨むだろう。理由なく厳しくあたる私を憎むだろう。それもすべて遠野の…………。
--- TRANSLATION HERE
+"Esta noche también tienen que operar...
+ No puedo dejar que Akiha se entere...
+ Estoy seguro de que mi hija está resentida conmigo por ello.
+ Debe odiarme por ser tan severo con ella sin razón aparente.
+ Es todo por culpa de los Tohno...
 }
 [sha:11b491ae9fe91919d7ae1c93a079a3e9508dd0e9]{
 -- Page 181, Offset 21814.
 -- だが私は安堵している。どれほど秋葉が……の血に近……と言っても、あの兄に比べれば、秋葉は遥かに人間的だ」
--- TRANSLATION HERE
+Pero estoy aliviado. No importa lo similar... que la sangre de Akiha... sea,
+ comparada con su hermano, es mucho más humana."
 }
 [sha:434250ff7021075e99dce6234fce7b4a9fa7f35c]{
 -- Page 182, Offset 21815.
 -- ……なんだこれ。
--- TRANSLATION HERE
+¿Que demonios es esto?
 }
 [sha:0437fa62cca775c65eec4199fb700f720e115e25]{
 -- Page 182, Offset 21816.
 -- 遠野の一族は呪われている……？
--- TRANSLATION HERE
+¿La familia Tohno está maldita...?
 }
 [sha:476c152796dbb87def11dfd700833766d763fad3]{
 -- Page 182, Offset 21817.
 -- 隔世遺伝？　秋葉に手術をした？
--- TRANSLATION HERE
+¿Atavismo? ¿Operar a Akiha?
 }
 [sha:b04c0c9c6524adc904f608b401d744172e18cbcc]{
 -- Page 182, Offset 21818.
 -- それと―――最後の一行は、誰のことだ。
--- TRANSLATION HERE
+Y esa última frase... ¿a quién se refería?
 }
 [sha:4fdc6002782e40baf7edfb22cb784cb5809bc900]{
 -- Page 182, Offset 21819.
 -- あの兄。あの兄。あの兄。
--- TRANSLATION HERE
+Su hermano. Su hermano. Su hermano.
 }
 [sha:ecb0281e8e2ebf69e9409e4e74beb2d34f7c78b9]{
 -- Page 182, Offset 21820.
 -- それはどう考えても俺の事で―――
--- TRANSLATION HERE
+Tengo que ser yo, no sé quién más puede―――
 }
 [sha:2f3338d5a93d4f28330b72cf9a98eb33c85bcb43]{
 -- Page 183, Offset 21821.
 -- 「こんにちは、志貴君」
--- TRANSLATION HERE
+"Buenas tardes, Shiki-kun."
 }
 [sha:827cea366e04e2216bdd0626f89c3f2b87cbae61]{
 -- Page 183, Offset 21822.
 -- ……腹が、熱い……？
--- TRANSLATION HERE
+¿Me duele... el estómago...?
 }
 [sha:989f01d61270f298e67cf39dc04d5f019dbd587f]{
 -- Page 183, Offset 21823.
 -- 胸の傷が痺れた事は何度もあったが、これは初めての経験だ。
--- TRANSLATION HERE
+La herida de mi pecho de ha entumecido muchas veces antes, pero esto es una sensación totalmente distinta.
 }
 [sha:740cc8116978659ff48d0be6c0405a22cab978f1]{
 -- Page 184, Offset 21824.
 -- 内臓を焼けた鉄棒であぶられるような激痛。
--- TRANSLATION HERE
+Un dolor afilado y punzante,
+ como si un hierro ardiendo estuviera trinchando mis órganos internos.
 }
 [sha:c7b4b66dd4e3bf7d86101dbb2dcc952a9a0d04b3]{
 -- Page 184, Offset 21825.
 -- ついで、足先から失われていく触覚。
--- TRANSLATION HERE
+Empiezo a perder la sensibilidad,
+ primero en mis pies, pero rápidamente en el resto del cuerpo también.
 }
 [sha:b66ef62d97bb979761b278275e56b64fa901df85]{
 -- Page 184, Offset 21826.
 -- 体は机にもたれかかるように倒れ、伸ばした手も踏ん張りがきかず、背中から地面に倒れこむ。
--- TRANSLATION HERE
+Empiezo a colapsar, agarrándome al escritorio,
+ pero mis manos no pueden sostenerme mucho tiempo y acabo desplomándome en el suelo,
+cayendo de espaldas.
 }
 [sha:e61d24bac46cf46c2627868493da7490f25dbcd6]{
 -- Page 185, Offset 21827.
 -- 「その日記はまずい。なにしろまだ<検閲|けんえつ>が済んでいない。君に見られる予定もない」
--- TRANSLATION HERE
+"Ese diario son malas noticias.
+ Aún tengo que redactarlo debidamente.
+ Tampoco es que te fuera a dejar verlo de todos modos."
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 185, Offset 21828.
@@ -541,32 +574,34 @@
 [sha:c9e3b1f43b6fe07b8138b187088419eb7febaff7]{
 -- Page 185, Offset 21829.
 -- 意識が遠のく。
--- TRANSLATION HERE
+Mi consciencia se desvanece.
 }
 [sha:dd227b1b4144aeef3ae250cc412e9a6553a530ce]{
 -- Page 185, Offset 21830.
 -- あの男は―――確か―――
--- TRANSLATION HERE
+Este hombre... no era―――
 }
 [sha:f64a3a633d92ca827ea4a29774994a822cbd5c42]{
 -- Page 186, Offset 21831.
 -- 「君にはもう少し、あの未熟な当主殿をかき回してほしかったのだがね。
--- TRANSLATION HERE
+"Tenía esperanza de que le dieras un poco más de guerra a la cabeza de familia, pero %{i}c'est la vie%{/i}.
 }
 [sha:fa25c9fadfc2ccdc571557eca67a1cbcc28bb878]{
 -- Page 186, Offset 21832.
 -- どうやってかは知らないが、鍵を手に入れたのが君の不運という事だ」
--- TRANSLATION HERE
+No se como lo has hecho,
+ pero me temo que obtener esa llave selló tu destino."
 }
 [sha:bfb1b45dc9470f76195615e4c731e19b1816d78b]{
 -- Page 187, Offset 21833.
 -- ……気がつけば、呼吸はとっくに止まっていた。
--- TRANSLATION HERE
+Me doy cuenta de que mi respiración se ha detenido.
 }
 [sha:eb1df378c10daa391d2238b0a787b8bc136f8af8]{
 -- Page 187, Offset 21834.
 -- あれほど確かだった死の線も、頭痛も、今は失われている。
--- TRANSLATION HERE
+Las líneas, tan claras como el agua, ya no están.
+ Como mi dolor de cabeza.
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 187, Offset 21835.
@@ -576,20 +611,23 @@ Ya veo...
 [sha:67b5573b03ffd1b2da30dcc37c88dc26bcda8696]{
 -- Page 187, Offset 21836.
 -- こうなって初めて気がついた。
--- TRANSLATION HERE
+Ahora que las cosas han llegado a esto me doy cuenta.
 }
 [sha:44972c10f8e6aa383a850dfb8f5aa979d73755fa]{
 -- Page 187, Offset 21837.
 -- あの忌々しい頭痛は、俺にとって助けでもあったのだ。
--- TRANSLATION HERE
+Ese molesto dolor de cabeza en realidad me habría salvado.
 }
 [sha:48d6f096aac3b53d1d075d0a0c567ff568998f93]{
 -- Page 188, Offset 21838.
 -- だって、あれがないといつまでも起きられない。
--- TRANSLATION HERE
+Quiero decir, sin ellos,
+ nunca podré despertarme.
 }
 [sha:549b442efc46ee03c976d60e028a7326e7193270]{
 -- Page 188, Offset 21839.
 -- もともと死に<体|たい>だった遠野志貴の体は、このまま、目覚める事のない眠りに落ちていく―――
--- TRANSLATION HERE
+El cuerpo de Tohno Shiki,
+ que estaba condenado desde el inicio,
+ cae a lo más profundo de un sueño del que nunca despertará―――
 }

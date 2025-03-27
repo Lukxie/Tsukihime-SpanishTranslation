@@ -53,7 +53,7 @@ El ambiente animado en clase se calma instantáneamente.
 -- Page 128, Offset 2936.
 -- 教室に入ってきたその教師は今まで見た事のない、というかどう見ても日本人ではない、それどころか大学生にしか見えない、予想外の人物だった。
 El profesor que ha entrado en clase es alguien que no había visto antes.
- Me refiero, claraments no es ni japonesa, y parece más una universitaria que una profesora.
+ Me refiero, claramente no es ni japonesa, y parece más una universitaria que una profesora.
  No es lo que te sueles esperar.
 }
 [sha:d27304b3f89844260eeae49c21c06d83548683d1]{
@@ -69,7 +69,7 @@ Todo el mundo de repente se había quedado de piedra...
 [sha:010805953290f968cda34eef36f68f6a3fedd41a]{
 -- Page 129, Offset 2939. Mods: @k, @e.
 -- なに、私ったら<毒|バ><蛇|ジ>系女子？
-¿Como, qué? ¿Soy una clase de basilisco?
+¿Cómo, qué? ¿Soy una clase de basilisco?
 }
 [sha:f92e10d49b6c09cde904e407b6e7c377e395fa5a]{
 -- Page 129, Offset 2940. Glued. Mods: @x.
@@ -107,7 +107,7 @@ Solo estaremos juntos por un mes, pero estoy deseando trabajar con vosotros."
 [sha:f83e46b44c26e3ecd8c10fe8acd0f224efa87458]{
 -- Page 132, Offset 2946.
 -- 質問は随時受け付けますので、遠慮なくアタックしてください♡」
-Siempre estoy abierta a preguntas, así que no tengais miedo de venir, vale ♡"
+Siempre estoy abierta a preguntas, así que no tengáis miedo de venir, vale ♡"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 133, Offset 2947.
@@ -191,7 +191,7 @@ Estos temas suelen ser discutidos en un foro anónimo, pero los chicos que fuero
 -- Page 137, Offset 2962.
 -- 女子たちは“男子サイテー”と冷めきった視線を向けてくるが、熱に浮かされた彼らにとって、見飽きたクラスメイトからの軽蔑なんてどうでもいい問題らしい。
 Las chicas los miran fríamente con una mirada que dice 'los chicos son patéticos',
- pero a los febriles chicos no les puede dar mas igual el desprecio de sus compañeras hartas.
+ pero a los febriles chicos no les puede dar más igual el desprecio de sus compañeras hartas.
 }
 [sha:e9bcb3c2ddc9df9b8aa020b382b74d09de443b24]{
 -- Page 138, Offset 2963.
@@ -206,14 +206,14 @@ Hmm, las chicas acabarán exponiendo mi edad igualmente,
  Vivo en un apartamento alquilado a dos paradas de tren,
  y mi tipo favorito de hombre es el maduro y artístico.
  Mi hobby es el de ayudar en la iglesia los domingos.
- Es en la iglesia de la ciudad de al lado, así que si estais interesados, estaré encantada si venís y rezais."
+ Es en la iglesia de la ciudad de al lado, así que si estáis interesados, estaré encantada si venís y rezais."
 }
 [sha:209b1fc8017a4687108bbdaf3d4186c7d6b0899c]{
 -- Page 139, Offset 2965.
 -- 「教会？　なに先生、シスターなの!?　っていうか、趣味でシスターやってるんですか!?」
 "¿Iglesia?
  Espera, Sensei, ¡¿eres una monja?!
- ¡¿Nos estas diciendo en serio que eres una monja en tus tiempos libres?!
+ ¡¿Nos estas diciendo enserio que eres una monja en tus tiempos libres?!
 }
 [sha:fb8be75553dd2ed6a848adf59e7b8ac8f70027da]{
 -- Page 139, Offset 2966.
@@ -245,7 +245,7 @@ Mientras tanto, las chicas están en silencio con el móvil.
 [sha:fb12896191a380a00a43f03c0cb4bf2bba23a16c]{
 -- Page 141, Offset 2971.
 -- こちらもさりげなく生徒専用の匿名掲示板をチェックする。
-Reviso casualmente el tablón del buletín anónimo de estudiantes.
+Reviso casualmente el tablón del boletín anónimo de estudiantes.
 }
 [sha:1d7e07e22012456b2014cac213b4bc6738eec314]{
 -- Page 142, Offset 2972.
@@ -287,7 +287,7 @@ Y así nuestra clase se transformó en una extraña dimensión donde la gente es
 [sha:c50cb9bffd711d92ef67801b02fc181054628108]{
 -- Page 144, Offset 2979.
 -- 即ち、『男子サイテー』『女子ウルセー』と罵り合う、中学生もかくやという原始時代である。
-En otras palabras, hemos vuelto a la edad de piedra de secundaria, 
+En otras palabras, hemos vuelto a la edad de piedra de secundaria,
  donde las chicas y los chicos discuten con insultos infantiles como 'los chicos son idiotas' y 'las chicas son molestas'.
 }
 [sha:5d66e8256fa7dfb9aef70217b329ebf802fed16a]{

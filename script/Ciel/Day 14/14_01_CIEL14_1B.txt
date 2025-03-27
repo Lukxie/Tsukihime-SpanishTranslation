@@ -271,7 +271,7 @@
 [sha:10e53a9f241065aabe12f5913776ec09bce2c915]{
 -- Page 58, Offset 37190.
 -- 「っ―――――」
--- TRANSLATION HERE
+"%{i}Ngh%{/i}―――"
 }
 [sha:b99e79045e150ee731e7c6ff134e6dd80e70ab0a]{
 -- Page 58, Offset 37191.
@@ -711,7 +711,7 @@ Ya veo...
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 87, Offset 37278.
 -- 「――――――――」
--- TRANSLATION HERE
+"――――――――"
 }
 [sha:eadaa4d9fe2cb143905c2a976b2e3a11e2048af9]{
 -- Page 87, Offset 37279.
@@ -1226,7 +1226,7 @@ Ya veo...
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 122, Offset 37381.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:8639d64a1f21c6a03744953dce81cfe68860f41a]{
 -- Page 122, Offset 37382.
@@ -1421,7 +1421,7 @@ Ya veo...
 [sha:fdfa08beb060b3a8d06b06195029cbd1b50db08c]{
 -- Page 136, Offset 37420.
 -- 眼鏡を外す。
--- TRANSLATION HERE
+Me quito las gafas.
 }
 [sha:53d8b3c87c163f174a798e737c830118ccc0fb63]{
 -- Page 136, Offset 37421.

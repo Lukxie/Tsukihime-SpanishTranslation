@@ -116,7 +116,7 @@
 [sha:d250761c3cc039436df3d456c7bb3d0da5d1ad1c]{
 -- Page 199, Offset 5361.
 -- そこに、
--- TRANSLATION HERE
+Y ahí―――
 }
 [sha:1b8273b459fa7ed97ba4935a0791d3d29c84d14a]{
 -- Page 200, Offset 5362.
@@ -286,7 +286,7 @@
 [sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
 -- Page 210, Offset 5395.
 -- ……ああ。
--- TRANSLATION HERE
+Ah...
 }
 [sha:64cf22d362e618d79bf570d226397b9ac1367b04]{
 -- Page 210, Offset 5396.
@@ -381,7 +381,7 @@
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 219, Offset 5414.
 -- 「――――――――」
--- TRANSLATION HERE
+"――――――――"
 }
 [sha:39d4bd44796b385488a79f3aca86b108d2e9047e]{
 -- Page 219, Offset 5415.
@@ -466,7 +466,7 @@
 [sha:9c24c147b8a2ba3f0ca2cb28d7f6b8807249019b]{
 -- Page 225, Offset 5431.
 -- 「え……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:115ce4aa4cf84f10ac6dbf1a89a7210bbfd992b0]{
 -- Page 226, Offset 5432.

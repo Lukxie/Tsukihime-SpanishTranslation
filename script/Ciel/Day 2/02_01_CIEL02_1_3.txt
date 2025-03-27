@@ -391,7 +391,7 @@
 [sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 83, Offset 3807.
 -- と。
--- TRANSLATION HERE
+Y entonces―――
 }
 [sha:82e85670bbfd2cb07c9deec3e35aa530c86b2660]{
 -- Page 84, Offset 3808.
@@ -516,7 +516,7 @@
 [sha:c5d2a1bed10575d0a0b28c4140b3ae980d3cb1bf]{
 -- Page 93, Offset 3832.
 -- 「げ」
--- TRANSLATION HERE
+"%{i}Geh%{/i}."
 }
 [sha:8d7b3b12904c5291d90fc191215b4986d0915130]{
 -- Page 93, Offset 3833.

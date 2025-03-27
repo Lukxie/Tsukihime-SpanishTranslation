@@ -6,7 +6,7 @@ La vía de ferrocarril cambia a una subterránea sin previo aviso.
 [sha:e724caca013abed8905bd9b837e6a919a7442ef5]{
 -- Page 1, Offset 1147.
 -- 電車は人工の光をまき散らしながら、一面の闇を<潜|もぐ>るように進んでいく。
-Iluminando con luz artificial, el tren se adentra en la oscuridad.
+Iluminando las paredes del túnel con luz artificial, el tren se adentra en la oscuridad.
 }
 [sha:2e14f7e236737accbed3545cd30346e378fe49e3]{
 -- Page 2, Offset 1148.
@@ -16,7 +16,7 @@ Escucho los chirridos del vagón.
 [sha:3d7a6c3023d0d54cde912cea13843ac6ffc9867f]{
 -- Page 2, Offset 1149.
 -- 等間隔に過ぎ去っていく人工灯。
-Escucho los chirridos del vagón.
+Luces artificiales emergen en intervalos regulares.
 }
 [sha:ac25cea291e483cecb6ef9bdb647514059a5c7b3]{
 -- Page 2, Offset 1150.
@@ -43,7 +43,7 @@ Ya no puedo dar la vuelta. Todo este tiempo y distancia ahora me separan de la f
 -- Page 3, Offset 1154.
 -- それをどう受け入れるのかで、人間としての情の深さが計れるのかもしれない。
 // Quizá suene mejor de otra forma
-Como lo acepte puede servir como medida de mi compasión humana.
+Cómo lo acepte puede servir como medida de mi compasión humana.
 }
 [sha:80e1d966ff7bc4d14edab054475826fd52d83f75]{
 -- Page 4, Offset 1155.
@@ -63,7 +63,7 @@ Me pregunto cuál de estos sentimientos me corresponden.
 [sha:c1b24a9e3bfe0c02e568a8bdf576cc907fe26ae4]{
 -- Page 5, Offset 1158.
 -- わずかに思案して、そのどちらの所感も浮かんでいなかった事に気がついた。
-Lo valoro por un instante, y luego me doy cuenta que no es ninguno de estos.
+Lo valoro por un instante, y luego me doy cuenta que ninguno de ellos.
 }
 [sha:5231b69e3c4916d4bd0fb939dd7526673a3e53c1]{
 -- Page 6, Offset 1159.
@@ -163,7 +163,7 @@ Antes de que saliese el sol había terminado mi desayuno,
 -- 長年の感謝にしては味気ないものだったが、気持ちを残してはそれこそ未練になる。
 Era una forma mínima de expresar mi gratitud por todos los años que pasé allí,
  pero si no me desahogaba en ese momento,
- aquellos sentimientos permanecerían en mi corazón mucho después de haberme marchado.
+ aquellos sentimientos habrían permanecido en mi corazón mucho después de haberme marchado.
 }
 [sha:46323c93081ce8900f15793cc1d8e067fec1a86a]{
 -- Page 13, Offset 1177.
@@ -178,7 +178,7 @@ Cuando dejé el hogar de los Arimas, Keiko-san fue la única que vino a despedir
 [sha:43ab0ccfe30030b9cb83ee74dd97f0c3b2c8bf1b]{
 -- Page 14, Offset 1179.
 -- できるだけ静かに、他の家族を起こさないように提案したのは自分の方だ。
-Yo mismo sugerí que debía ser lo mas silencioso posible para no despertar al resto de la familia.
+Yo mismo sugerí que debía ser lo más silencioso posible para no despertar al resto de la familia.
 }
 [sha:a2001dc9a0d2fd030c58c0b385487d067652aca5]{
 -- Page 15, Offset 1180. Mods: @n.
@@ -257,7 +257,7 @@ Me voy... Cuídate, mamá.'
 [sha:a277c6c142dc3998bd894fd41f675ce75c3eb9f5]{
 -- Page 19, Offset 1194.
 -- “ええ。あなたも元気でね、志貴”
-'Sí, lo haré. Cuídate tu también, vale, Shiki.'
+Sí, lo haré. Cuídate tu también, ¿vale Shiki?'
 }
 [sha:08bb258065cad0ce33ed2594bf11ec4d6e83c8b1]{
 -- Page 19, Offset 1195.
@@ -267,7 +267,7 @@ Que Keiko-san no respondiese con un 'nos vemos' era algo que me esperaba.
 [sha:ba7f84ab2b70e50d5b2d1ee42f1c4f0a17e28b03]{
 -- Page 19, Offset 1196.
 -- 彼女はもう戻らないものと受け入れた上で、目尻に涙をためて俺を送り出してくれた。
-Se despidió con lagrimas en los ojos, habiendo ya aceptado que nunca volvería.
+Se despidió con lágrimas en los ojos, habiendo ya aceptado que nunca volvería.
 }
 [sha:27df5c9a96813029375dfd3e97a94e4ebad4ae9e]{
 -- Page 20, Offset 1197.
@@ -308,7 +308,7 @@ Siento como poco a poco asciende la cuesta.
 -- Page 22, Offset 1204.
 -- 人工の明かりに慣れきった眼に、覚めるような陽が差しこんだ。
 // No se si rejuvenecen es la palabra adecuada aquí
-Mis ojos, que se habían acostumbrado a la luz artificial, se rejuvenecen con la luz del sol.
+Mis ojos, que se habían acostumbrado a la luz artificial, se adaptan a la luz del sol.
 }
 [sha:aab045851fe48fe7b18b247ed5248543c9ad4849]{
 -- Page 23, Offset 1205.
@@ -397,7 +397,7 @@ Me he acostumbrado tanto a una casa convencional que vivir en un lugar como la m
 [sha:4c292729d52fba07d40633f2d4ad6c6ba7307740]{
 -- Page 28, Offset 1221. Mods: @n.
 -- 「……だいたい、
-"Ademas...
+"Además...
 }
 [sha:5af5dbf30485d11d3debdd50bd68d6c9f3c5df9f]{
 -- Page 28, Offset 1222.
@@ -573,7 +573,7 @@ Por supuesto que me resulta familiar. La he visto varias veces en la escuela.
 [sha:04811f4944dd256035eb9e8a15216341ce882f4f]{
 -- Page 40, Offset 1256.
 -- というか、うちの生徒でシエル先輩を知らないヤツはいないだろう。
-Realmente, no hay nadie en la escuela que %{i}no%{/i} conozca a Ciel-senpa
+Realmente, no hay nadie en la escuela que %{i}no%{/i} conozca a Ciel-senpai.
 }
 [sha:af66e0a0af0fe2e58ce1626b970ba11df6758046]{
 -- Page 41, Offset 1257.

@@ -98,7 +98,7 @@ El reloj marca justo antes de las seis.
 -- 「いや。こっちこそ驚かせてごめん。昨日の夕方から寝ていたから、早く目を覚ましたんだ。
 "No te preocupes.
  Siento haberte sorprendido de esta forma.
- Después de dormir ayer toda la tarde me he levantado antes. 
+ Después de dormir ayer toda la tarde me he levantado antes.
 }
 [sha:c2579b7abd8de3e22d357130d1b308447367ce5a]{
 -- Page 10, Offset 5589.
@@ -251,7 +251,7 @@ Tras mojarme la cabeza con agua fría,
 [sha:c4a6d0f37babcfc2a6bdce5b5264f29494ef4d18]{
 -- Page 21, Offset 5617.
 -- 冷たい水に髪を濡らしながら、大きく深呼吸をする。
-Respiro hondo mientras el agua fría gotea por pelo.
+Respiro hondo mientras el agua fría gotea por mi cabello.
 }
 [sha:0d515d075108ce59c68895de75791081344e561a]{
 -- Page 22, Offset 5618.

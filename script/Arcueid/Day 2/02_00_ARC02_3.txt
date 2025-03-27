@@ -21,15 +21,15 @@ Yo―――
 [sha:54fb79a2194ac081c6c7609e783b9176ae6cc456]{
 -- Page 174, Offset 42587. Choice.
 -- 寄り道せずに帰る。
- Iré directamente a casa.
+Iré directamente a casa.
 }
 [sha:5e09bad7ef887e3cd5948726a412436e21db1635]{
 -- Page 174, Offset 42588. Choice.
 -- ファミレスに行ってみる。
- Iré al restaurante.
+Iré al restaurante.
 }
 [sha:20f77c142efec17e486a10de152a1a164f2474e0]{
 -- Page 174, Offset 42589. Choice.
 -- 寄り道をして帰る。
- Tomaré un desvío antes de ir a casa.
+Tomaré un desvío antes de ir a casa.
 }

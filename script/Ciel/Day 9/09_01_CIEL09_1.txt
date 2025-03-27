@@ -421,7 +421,7 @@
 [sha:21986ad523b3ede52e9657892de80c97477dfb7c]{
 -- Page 34, Offset 22223.
 -- それはそうだ。
--- TRANSLATION HERE
+Tiene razón.
 }
 [sha:5635b2f3bac11af3e5bbb5d59954166522c45aaf]{
 -- Page 34, Offset 22224.

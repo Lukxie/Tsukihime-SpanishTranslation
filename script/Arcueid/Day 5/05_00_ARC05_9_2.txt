@@ -1,190 +1,208 @@
 [sha:fc5b764110de57749cb8c0d45273ecfaf0cd4ebe]{
 -- Page 10021, Offset 10383.
 -- 滑走だ。
--- TRANSLATION HERE
+Tiene que ser despegando.
 }
 [sha:eefe338a71ab6b56ff5e167521f134a9cd7de89c]{
 -- Page 10021, Offset 10384.
 -- いや、正しくは落下に近い。
--- TRANSLATION HERE
+O más bien, algo parecido a caerse.
 }
 [sha:ec152f17a92ded8286eb9b792d3ca1f19305b1b4]{
 -- Page 10021, Offset 10385.
 -- ……だができるか？　たどり着けるかは運任せだ。
--- TRANSLATION HERE
+¿Pero funcionará...?
+ Que lo consiga o no depende de la suerte.
 }
 [sha:64ee43d68cb9b8c3c9f23d30f317a561def29607]{
 -- Page 644, Offset 10386.
 -- 間違いなく無事では済まない。何もかも上手くいったとしても、着地の衝撃で<筋|に><肉|く>はえぐれ<骨|ほ><格|ね>は折れる。
--- TRANSLATION HERE
+No es %{i}seguro%{/i} ni por asomo.
+ Incluso si todo sale bien,
+ el impacto del aterrizaje me desgarrará los músculos, y me romperá los huesos.
 }
 [sha:3354128dbc527435548c5e260ba24b625c3c3a19]{
 -- Page 644, Offset 10387.
 -- おまえは、その痛みに耐えられるか？
--- TRANSLATION HERE
+¿Seré capaz de soportar el dolor?
 }
 [sha:86a2b6a5fa384f9e6dfd4280bd94808aad9643ec]{
 -- Page 645, Offset 10388.
 -- 俺の迷いを突くかのような弾丸を寸前で止める。
--- TRANSLATION HERE
+Sus proyectiles vuelan hacia mi como si intentaran aprovechar mi indecisión,
+ pero los detengo al instante.
 }
 [sha:be85ce5c613f0269618ac0c8b08432800b0f82ea]{
 -- Page 645, Offset 10389.
 -- 危ない。ありがたい。
--- TRANSLATION HERE
+Estuvo cerca, pero tengo que agradecerle.
 }
 [sha:716e3eec72ff1df48e53a009ac911f144f9c225e]{
 -- Page 645, Offset 10390.
 -- おかげでこっちも覚悟が決まった。
--- TRANSLATION HERE
+Me ha ayudado a despejar mi mente.
 }
 [sha:983c44a96bda8fcf3cc6b9b3925e920bc50fc740]{
 -- Page 645, Offset 10391.
 -- 負荷は耐えればいい。もとより、死の痛みには<鈍|にぶ>い<性|た><質|ち>だ。
--- TRANSLATION HERE
+Solo tengo que aguantar.
+ Además, nunca he sido muy sensible al dolor de la muerte.
 }
 [sha:16e87dfe197d895d19c3982565b7f316358a1cc9]{
 -- Page 645, Offset 10392.
 -- ヤツがそうであるように、俺も、一秒<違|たが>わず“殺す”事だけを考察してやる。
--- TRANSLATION HERE
+Debería concentrarme solo en cómo matarlo,
+ tal y como él hace.
 }
 [sha:15cfdfddf50b8bcf5709ed033ec5b1d3c5e37fdd]{
 -- Page 646, Offset 10393.
 -- 振り返って、後方のアルクェイドまで走る。
--- TRANSLATION HERE
+Me doy la vuelta y corro hacia Arcueid.
 }
 [sha:6429049a4c410e221d2efc0311026eba9bd0ab00]{
 -- Page 646, Offset 10394.
 -- その余分な移動で、体力は完全に尽きた。
--- TRANSLATION HERE
+Todo este movimiento excesivo agota mi resistencia.
 }
 [sha:eeb1ab711f66a04c1c759b0c7141c70cb8ea51db]{
 -- Page 646, Offset 10395.
 -- もう一歩だって前には踏み出せない。
--- TRANSLATION HERE
+No podría dar ni un paso más.
 }
 [sha:cd5fb4fb0b663d178f1ba218e0b5e4e885f6e13a]{
 -- Page 646, Offset 10396.
 -- 近づくべき敵は50メートル先の彼方だ。
--- TRANSLATION HERE
+El enemigo debe estar a unos cincuenta metros de mi.
 }
 [sha:10ded20c50d604ad45e86df0809c87281cea763e]{
 -- Page 647, Offset 10397.
 -- かまわない。
--- TRANSLATION HERE
+Pero no me importa.
 }
 [sha:ea47099af2f0c56397f00c0a890b5e6b3824a6d3]{
 -- Page 647, Offset 10398.
 -- どのみち、この選択には<横|・><軸|・><の|・><距|・><離|・>は関係ない。
--- TRANSLATION HERE
+Después de todo, la distancia %{i}horizontal%{/i} no tiene lugar en este plan.
 }
 [sha:000fac9386ae95d2c181300c240ad008b7904451]{
 -- Page 648, Offset 10399.
 -- 「アルクェイド、さっきのアレ、もう一回できるか!?」
--- TRANSLATION HERE
+"Arcueid, eso que hiciste antes――¡¿puedes hacerlo de nuevo?!"
 }
 [sha:3c83d06d727013ebc50e3c78b2c68fc901b5442a]{
 -- Page 648, Offset 10400.
 -- 「アレって何!?」
--- TRANSLATION HERE
+"¡¿'Eso' que es?!"
 }
 [sha:20ce2893eb28ee52ae0017fde9940c2a0895bccc]{
 -- Page 649, Offset 10401.
 -- アルクェイドにこちらの意図を伝える。
--- TRANSLATION HERE
+Le digo a Arcueid lo que pretendo hacer.
 }
 [sha:53a21ac67b69ade437ef3c7ce5f714ece0dcd638]{
 -- Page 649, Offset 10402.
 -- 説明は一言で終わった。
--- TRANSLATION HERE
+La explicación solo requiere unas pocas palabras.
 }
 [sha:3016900f8f0696bef88b4ac859917d07cb88f9c0]{
 -- Page 649, Offset 10403.
 -- アルクェイドは<一拍|いっぱく>戸惑ったあと、俺の顔を見て、仕方なさそうに了承した。
--- TRANSLATION HERE
+Tras un breve momento de perplejidad,
+ me mira a los ojos, y entonces acepta mi propuesta de mala gana.
 }
 [sha:537a51fe7ddcdf800d359328975955a36ffb7bcd]{
 -- Page 650, Offset 10404.
 -- 「……その規模でやるとわたしの余力もなくなるわ。
--- TRANSLATION HERE
+"Si lo hago a esa escala, habré usado lo último de mis fuerzas.
 }
 [sha:614d985e1094203171e9dfd21a50123727cef943]{
 -- Page 650, Offset 10405.
 -- それでもいいのね？　もう逃げる事もできないわよ？」
--- TRANSLATION HERE
+// Primera línea de la tl oficial
+¿Aún así quieres hacerlo?
+ Tras esto escapar ya no sera una opcion, ¿sabes?"
 }
 [sha:57bd3d7e425ee291fbc0626a1ad3f70e57209cff]{
 -- Page 651, Offset 10406.
 -- かまわない、と頷く。
--- TRANSLATION HERE
+No importa. Asiento.
 }
 [sha:7674dde39c2f7eb46c69df8e3783f4f0785e9da0]{
 -- Page 651, Offset 10407.
 -- 声をだす体力もない。というかこいつ、まだそんな機会を見計らってたのか!?
--- TRANSLATION HERE
+// Tl oficial
+No puedo malgastar fuerzas hablando.
+ Y un momento, ¡¿ha estado esperando a una oportunidad para escapar todo este tiempo?!
 }
 [sha:cf421bd519aa9c43d7ae4e73a371e520f7d54556]{
 -- Page 652, Offset 10408.
 -- 「あれ？　でもそれって、志貴は途中で落っこちない？
--- TRANSLATION HERE
+// Tl oficial
+"Um pero... ¿no caerás a mitad de camino?
 }
 [sha:c031523c722bcc758571535b74ace017d9a21e5b]{
 -- Page 652, Offset 10409.
 -- わたし、そのあたり加減できないよ？」
--- TRANSLATION HERE
+// Tl ofical
+No soy muy buena conteniéndome, sabes."
 }
 [sha:2725081cb1a3b3bdbeab7948d71956683182a5ad]{
 -- Page 652, Offset 10410.
 -- 「そりゃあ落ちるに決まってるだろ！　だから―――」
--- TRANSLATION HERE
+"¡Por supuesto que me voy a caer! Es por eso que―――"
 }
 [sha:06e653c8f0db4d79ee23084ecc53bcc51899d475]{
 -- Page 653, Offset 10411.
 -- 少しでも呼吸を整えたいっていうのに、つい大声をあげて説明する。
--- TRANSLATION HERE
+Acabo gritando para hacer que me entienda.
+ Aunque debería estar intentando recuperar el aliento.
 }
 [sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
 -- Page 653, Offset 10412.
 -- そこへ、
--- TRANSLATION HERE
+Y con esa puesta en escena―――
 }
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 654, Offset 10413.
 -- 「っ―――！」
--- TRANSLATION HERE
+"%{i}Kh%{/i}―――!"
 }
 [sha:e1201e09bcd131d9b607ac385ad6408a56ff237c]{
 -- Page 654, Offset 10414.
 -- 説明する余裕はない。
--- TRANSLATION HERE
+No hay más tiempo para explicaciones.
 }
 [sha:955fbb19af4140ba3a8cbb4bf2b4cf24e0177db1]{
 -- Page 654, Offset 10415.
 -- 氷の槍が掃射される。ヴローヴは容赦なく、俺ごとアルクェイドを貫きにかかる。
--- TRANSLATION HERE
+Un aluvión de lanzas de hielo se nos viene encima.
+ Vlov planea ensartarme sin piedad junto a Arcueid.
 }
 [sha:b85b28b82c39f8122cf929f130d340d0f1287d4c]{
 -- Page 655, Offset 10416.
 -- 「いいから全力で、手を抜かずやってくれ！　やりすぎてもいい！　おまえに殺されるなら、それはそれで本望だ！」
--- TRANSLATION HERE
+// Ultima línea de la tl oficial.
+"¡Solo hazlo, y no te contengas!
+ ¡No me importa si te pasas!
+ ¡Si voy a morir al menos que sea por tu mano!"
 }
 [sha:4ec46d598a8fc211d7c3c8eef3a426bbd0c2f29d]{
 -- Page 656, Offset 10417.
 -- 建前を言う余裕はない。
--- TRANSLATION HERE
+No hay tiempo para pretextos.
 }
 [sha:879af88c00870e2549b62ee015d88f48da8cf1da]{
 -- Page 656, Offset 10418.
 -- アルクェイドから視線を外し、彼方の敵を凝視する。
--- TRANSLATION HERE
+Aparto la mirada de Arcueid y la dirijo al enemigo en la distancia.
 }
 [sha:1253fa3c3f379d40b936fc39da62d867668e7975]{
 -- Page 656, Offset 10419.
 -- 背後にいる女は、俺の注文に応えるように、
--- TRANSLATION HERE
+La mujer detrás de mí parece tener un mensaje.
 }
 [sha:f9433defee6309c9ce64edbe14708570fc58213a]{
 -- Page 657, Offset 10420.
 -- 「うん、任せて！　わたしが志貴を勝たせてあげる！」
--- TRANSLATION HERE
+"¡Sí, yo me encargo! ¡Shiki, me aseguraré de que ganes!
 }

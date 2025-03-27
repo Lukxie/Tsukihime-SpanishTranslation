@@ -1,87 +1,93 @@
 [sha:0ba91aa2ede30769cb1ef654dbdc5ecfc88e3550]{
 -- Page 10018, Offset 20328.
 -- ……正直に話そう。
--- TRANSLATION HERE
+Diré la verdad.
 }
 [sha:404c0728a66dd166da362c6dd8b8e42cda6551f4]{
 -- Page 10018, Offset 20329.
 -- どんなに誤魔化しても、屋敷の管理を任されている翡翠と琥珀さんに隠し通す事はできない。
--- TRANSLATION HERE
+Hisui y Kohaku-san están a cargo de llevar la mansión.
+ No hay forma de que me escabulla de ellas, sin importar cómo lo intente.
 }
 [sha:1467c7d48791f179aef8085e24ef0e55a639ff93]{
 -- Page 10018, Offset 20330.
 -- なら、せめて夜は留守にする事をちゃんと伝えておこう。
--- TRANSLATION HERE
+Dicho eso, debería ser honesto y decir que saldré de casa esta noche.
 }
 [sha:d5bc993e6af5a6289530b737b1d9c0d625ec5f5d]{
 -- Page 265, Offset 20331.
 -- 「……ああ。実はこれから何日か、夜は出かける事になる。
--- TRANSLATION HERE
+"Sí... saldré de casa cada noche por un tiempo.
 }
 [sha:ec27d685f5b027f4952a41face1f83488a464719]{
 -- Page 265, Offset 20332.
 -- でも誓って悪い遊びをしている訳じゃない。秋葉には嫌われる一方だろうけど、途中で止める事はできないんだ」
--- TRANSLATION HERE
+Pero juro que no es para hacer el tonto ni nada inapropiado.
+ Sé que Akiha me va a odiar por esto, pero no puedo dejar a medias lo que estoy haciendo."
 }
 [sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 266, Offset 20333.
 -- ……そうだ。
--- TRANSLATION HERE
+Eso es verdad...
 }
 [sha:caf88f516fc5b47af49d8c923673e2436a28c403]{
 -- Page 266, Offset 20334.
 -- 得体の知れない吸血鬼がいて、何人もの人間が犠牲になって、これを止められるのがアルクェイドしかいないのなら。
--- TRANSLATION HERE
+Hay un vampiro misterioso suelto,
+ tomando vidas de dios sabe cuánta gente,
+ y la única que puede pararlo es Arcueid.
 }
 [sha:6ce20405ebe8818842563d2cc457590e25a2add8]{
 -- Page 266, Offset 20335.
 -- 俺はこの街に住む人間として、見なかったフリはできない。
--- TRANSLATION HERE
+Como humano que habita esta ciudad, no puedo apartar la mirada y pretender que no pasa nada.
 }
 [sha:67a9c679b4030d863bddc6d4967584a8157e0fe3]{
 -- Page 267, Offset 20336.
 -- 「翡翠にも迷惑をかけるけど、しばらくは見過ごしてくれると助かる。零時になったら帰ってくるから、玄関の鍵だけ開けておいてほしい」
--- TRANSLATION HERE
+"Sé que te estoy pidiendo mucho, pero si puedes hacer la vista gorda por un rato, lo apreciaría mucho.
+ Volveré a medianoche, ¿puedo pedirte que dejes la puerta delantera abierta?"
 }
 [sha:878603be907a03e31cac5915cfbef0194efb8b25]{
 -- Page 268, Offset 20337.
 -- 「わたしたちに理由は話せない、というのですね」
--- TRANSLATION HERE
+"¿Quiere decir que no puede darnos una razón?"
 }
 [sha:484ad8cf2c4d3132adb1936fb51eba0aec596416]{
 -- Page 268, Offset 20338.
 -- 「……そうだ。ごめんな翡翠。だらしないヤツだと思って、今はなにも聞かないでほしい」
--- TRANSLATION HERE
+"Sí... Lo siento, Hisui.
+ Prefiero que me consideres un inútil y no hagas más preguntas."
 }
 [sha:b986ccec8eddbb27fd9442efa5d882558e11862f]{
 -- Page 269, Offset 20339.
 -- 「……いえ。志貴さまはわたしの主人です。
--- TRANSLATION HERE
+"No. Tu eres mi amo.
 }
 [sha:7c0238c77d11848d193b9503501a3162218b800b]{
 -- Page 269, Offset 20340.
 -- 主人をだらしない方と蔑む使用人はおりません」
--- TRANSLATION HERE
+Ninguna sirvienta regañaría a su amo y lo llamaría inútil."
 }
 [sha:c257dc692c2dc369aacecfc15f49ca9da5ed1c2c]{
 -- Page 270, Offset 20341.
 -- 無表情で、淡々と翡翠は語る。
--- TRANSLATION HERE
+Hisui responde como si fuera lo más normal del mundo, inexpresiva.
 }
 [sha:ba4dc13214af0db31b9b08af5ab686b87920031b]{
 -- Page 270, Offset 20342.
 -- それきり会話は途絶えた。
--- TRANSLATION HERE
+Con eso, la conversación termina.
 }
 [sha:c43a9f56b4ac269b5e257deb07b4d6635fd59904]{
 -- Page 270, Offset 20343.
 -- 俺は翡翠に頭を下げて、ロビーの階段を昇っていく。
--- TRANSLATION HERE
+Inclino la cabeza y empiezo a subir las escaleras.
 }
 [sha:8c8f95d1f73f5c880ceb7ea3076301cf5e7ff5af]{
 -- Page 271, Offset 20344. Mods: @n.
 -- 「お待ちください
--- TRANSLATION HERE
+"Por favor espere un momento.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 271, Offset 20345. Glued.
@@ -96,140 +102,147 @@ Sin embargo...
 [sha:c1dd4f6d4f69ca4bb767816c415b107eac06cbf6]{
 -- Page 271, Offset 20347.
 -- 後ろから、今までにない落ち着いた声で、翡翠に呼び止められた。
--- TRANSLATION HERE
+Nunca había escuchado su voz tan apagada.
 }
 [sha:c2106df8183f882f00424f5de251dc81bb4b717d]{
 -- Page 272, Offset 20348.
 -- 「……その、差し出がましい事なのですが」
--- TRANSLATION HERE
+"Bueno... sé que es impertinente preguntar esto, pero..."
 }
 [sha:f3b43211d9aae9ef22836350f2a138dfc49f074f]{
 -- Page 272, Offset 20349.
 -- 翡翠は一度言葉をきってから、ぐっ、と両手を握り締めてこちらに視線を向けてきた。
--- TRANSLATION HERE
+Hisui pierde el hilo, pero aprieta las manos con fuerza, se gira y me mira directamente.
 }
 [sha:5132bb2ad9dbf2075b8de864c059e47559186ad0]{
 -- Page 273, Offset 20350.
 -- 「志貴さまさえよろしければ、夜に出かける事を秋葉さまにお隠しする事ができます」
--- TRANSLATION HERE
+"Si lo desea, puedo ocultarle a Akiha-sama el hecho de que sales de noche."
 }
 [sha:77a01822d0e4c3712e7f7323b859b2ec1c813364]{
 -- Page 273, Offset 20351.
 -- 「……それって、口裏を合わせてくれる……ってこと？」
--- TRANSLATION HERE
+"Quieres decir... que puedes cubrirme...
+ ¿Es lo que estás diciendo?"
 }
 [sha:bbae65089832bc34b3a3582539c783bdd08d1549]{
 -- Page 274, Offset 20352.
 -- 「はい。夕食後、秋葉さまはお部屋からお出になる事は稀です。就寝前の見回りはわたしと姉さんがしておりますから、その報告を怠ってしまえば、志貴さまのお部屋の様子は誰にもわからなくなります」
--- TRANSLATION HERE
+"Sí. Es raro que Akiha-sama deje su habitación tras la cena.
+ Nee-san y yo somos responsables de hacer la inspección nocturna,
+ si no mencionamos nada fuera de lo común en nuestro informe
+ nadie podrá saber que no estabas en tu habitación."
 }
 [sha:04c49421862c7af374386abbff6bb9eba4b467a4]{
 -- Page 275, Offset 20353.
 -- 「いや、そりゃあ助かる。助かるけど……いいのか？
--- TRANSLATION HERE
+"Bueno, sería de mucha ayuda. Pero... ¿te parece bien hacer eso?
 }
 [sha:57370b4a7e11656f7684abbfe7dca4307ad5b353]{
 -- Page 275, Offset 20354.
 -- 秋葉は二人の雇い主じゃないか」
--- TRANSLATION HERE
+¿No os ha contratado Akiha?"
 }
 [sha:694aed47672c2f8c67cfa3864319e8d1362ccfff]{
 -- Page 275, Offset 20355.
 -- 「わたしの主人は志貴さまだと申しあげた筈ですが」
--- TRANSLATION HERE
+"Creo haber dicho antes que usted es mi amo."
 }
 [sha:66e15f7b8e01ef8d7b9e187bb0d145d6f539ce89]{
 -- Page 276, Offset 20356.
 -- ……自分でもどうかと思う。
--- TRANSLATION HERE
+Aún no sé qué pensar de eso...
 }
 [sha:2bef1c415f7a5d08028b0160a2163f4b9acec383]{
 -- Page 276, Offset 20357.
 -- さま付けはやめてくれ、なんて言っておいて、いま猛烈に感謝している。
--- TRANSLATION HERE
+Al principio la pedía que parase de incluir '-sama' en mi nombre,
+ y ahora estoy agradecido de todo corazón.
 }
 [sha:bee2ba37e0172e50b58a3b7cdd0a9b647c566120]{
 -- Page 276, Offset 20358.
 -- 翡翠は翡翠なりに、俺のつたない言い分を聞いて、その助けをすると言ってくれた。
--- TRANSLATION HERE
+Hisui, a su manera, ha escuchado mi excusas baratas y luego se ha ofrecido a ayudar.
 }
 [sha:7b7a8c7421ce2610ef84d2cfa51769c73fefe570]{
 -- Page 277, Offset 20359.
 -- 「ありがとう翡翠。そうしてくれると、とても助かる」
--- TRANSLATION HERE
+"Gracias, Hisui. Sería de gran ayuda si hicieras eso."
 }
 [sha:2ae0c8c209893f379a04c56822c86072f9048610]{
 -- Page 277, Offset 20360.
 -- 「それでは今夜からはこちらのカードキーをご利用ください。
--- TRANSLATION HERE
+"En ese caso, por favor use esta tarjeta de aquí en adelante.
 }
 [sha:31f74d32da4fbe9068fbafeac6798454662e485e]{
 -- Page 277, Offset 20361.
 -- 秋葉さまの言いつけで屋敷の正門の暗証を変えたのです。
--- TRANSLATION HERE
+Siguiendo las órdenes de Akiha-sama
+ el código de la puerta principal a la mansión fue cambiado.
 }
 [sha:2cad3ccb4fa6671570f9ca3770af84bb2d398500]{
 -- Page 277, Offset 20362.
 -- こちらのカードキーでしたら、深夜でも正門の鍵は外れます」
--- TRANSLATION HERE
+Si usa esta tarjeta, podrá desbloquear la puerta, incluso de noche."
 }
 [sha:5432a73eafc5688b037c10ced94f4795b0289277]{
 -- Page 278, Offset 20363.
 -- 「うお、さすが秋葉、対応早いな……」
--- TRANSLATION HERE
+"Uy, Akiha no pierde el tiempo, eh..."
 }
 [sha:7faac3dccdc1823eb09bffd7b2d6cad13ff5f603]{
 -- Page 278, Offset 20364.
 -- 危なかった……知らずに出かけていたら、帰りは正門の前で夜を明かす事になっていたかもしれない。
--- TRANSLATION HERE
+Estuvo cerca...
+ Si llego a salir sin saberlo, quizá me hubiese pasado la noche tumbado frente a la puerta sin poder dormir.
 }
 [sha:4e26db9b78c4b899da374dd5c50cba88d6757fab]{
 -- Page 279, Offset 20365.
 -- 「わたしからの提案は以上です。
--- TRANSLATION HERE
+"Eso es todo lo que puedo ofrecerte.
 }
 [sha:f76ee8c12ca9b4b52220ad6f94f67dfddf6cc8e6]{
 -- Page 279, Offset 20366.
 -- 夜の外出をお止めはいたしませんが、どうか怪我のないよう、お気を付けて」
--- TRANSLATION HERE
+No le detendré si quiere salir de noche, pero espero que tenga especial cuidado de no hacerse daño."
 }
 [sha:21472829fb3f89e26c5dda11ab208cc442cd6fb9]{
 -- Page 279, Offset 20367.
 -- では、と一礼して翡翠は立ち去った。
--- TRANSLATION HERE
+Hisui hace una reverencia y se despide.
 }
 [sha:a105f5c37f0d7484c04da696089d281f4fdbc9c0]{
 -- Page 280, Offset 20368.
 -- 「―――――やった」
--- TRANSLATION HERE
+"―――Jackpot."
 }
 [sha:4ec4cf784a260c284c3f71d496ce4a344e6de0ed]{
 -- Page 280, Offset 20369.
 -- 思わぬところで救いの手が入ってくれた。
--- TRANSLATION HERE
+Me han ayudado cuando menos lo esperaba.
 }
 [sha:1b62f14000538b57c7c4576326e2fb4ba0381094]{
 -- Page 280, Offset 20370.
 -- これでこの先、秋葉に心配をかけず屋敷を抜け出す事ができそうだ。
--- TRANSLATION HERE
+Con esto, debería poder salir a hurtadillas de la mansión sin preocupar a Akiha.
 }
 [sha:d4a60250a6d8549e710579c01cdeccf9efcc475b]{
 -- Page 281, Offset 20371.
 -- ひとりきりの夕食が終わって部屋に戻る。
--- TRANSLATION HERE
+Tras cenar solo, vuelvo a mi habitación.
 }
 [sha:32f8b8b516fdff80e2a27fe1b8efdb0e73e55305]{
 -- Page 281, Offset 20372.
 -- 時刻はじき夜の10時。
--- TRANSLATION HERE
+Son casi las diez.
 }
 [sha:131d5e1a1993a0fdb94f3518db933cf52cddff6e]{
 -- Page 281, Offset 20373.
 -- 「よし―――行くか」
--- TRANSLATION HERE
+"Vale――vamos a ello."
 }
 [sha:9955b707e77864d73e17522469ef4b56ea36f4e8]{
 -- Page 281, Offset 20374.
 -- ポケットにナイフをしまいこんで、できるだけ物音を立てないように部屋を後にした。
--- TRANSLATION HERE
+Me meto mi cuchillo en el bolsillo, y salgo de mi habitación lo más silenciosamente posible.
 }

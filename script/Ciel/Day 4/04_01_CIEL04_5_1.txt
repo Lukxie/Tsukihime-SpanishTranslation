@@ -106,7 +106,7 @@
 [sha:92eb9c74ab9c6b3c1662b9deec0ee7db62edb52c]{
 -- Page 131, Offset 8504.
 -- 「―――――はあ」
--- TRANSLATION HERE
+"―――%{i}Haaa%{/i}."
 }
 [sha:1e0599d3842f0466cc7d5b517f91c60ca43d4357]{
 -- Page 131, Offset 8505.
@@ -161,7 +161,7 @@
 [sha:7001ef7ee962be43ca6288ae979fcf6ded3ac4f7]{
 -- Page 10006, Offset 8515.
 -- 「……………っ」
--- TRANSLATION HERE
+"........."
 }
 [sha:7a0daa1b23ebf4f58145c6bb8207bda624dc504e]{
 -- Page 10006, Offset 8516.

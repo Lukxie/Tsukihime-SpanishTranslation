@@ -6,7 +6,7 @@ Eso fue hace siete años.
 [sha:e6fd7bd16b9ff522ca26bbd9f5e3ba458f98a76d]{
 -- Page 10009, Offset 1739.
 -- 遠野の屋敷はどう変わったのだろう。
-Me pregunto como habrá cambiado la mansión Tohno.
+Me pregunto cómo habrá cambiado la mansión Tohno.
 }
 [sha:3f96a1c04fc68bb996b3cba1c78e572f11fd3e34]{
 -- Page 222, Offset 1740.
@@ -21,12 +21,12 @@ Si hay algo que sigue en mi mente, es―――
 [sha:2c7b2b387f88f40774336cd57cf137c2cc684ee4]{
 -- Page 223, Offset 42577. Choice.
 -- 父親である遠野槙久の事だ。
- Mi padre, Tohno Makihisa.
+Mi padre, Tohno Makihisa.
 }
 [sha:df03cd8a822f2bb93dedd9e8a2785cc68a324ac3]{
 -- Page 223, Offset 42578. Choice.
 -- やはり、妹の秋葉の事だ。
- Mi hermana Akiha, por supuesto.
+Mi hermana Akiha, por supuesto.
 }
 [sha:a5b07ed58ea39f133464c55286147cbaa39fea27]{
 -- Page 223, Offset 42579. Choice.

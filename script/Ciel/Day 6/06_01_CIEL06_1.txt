@@ -1,7 +1,7 @@
 [sha:606c8921f179a1a6b6b1326ba892b4944250db21]{
 -- Page 1, Offset 13150.
 -- 柔らかな陽射しが眠りを払っていく。
--- TRANSLATION HERE
+Los gentiles rayos de sol me sacan del letargo.
 }
 [sha:9791eb49d3d095d6792cc8ee2df01d8286a392ed]{
 -- Page 1, Offset 13151.
@@ -16,7 +16,7 @@
 [sha:b0001e3c3171a02f8705aad31acdac12c3fc83bd]{
 -- Page 1, Offset 13153.
 -- どうやら今日は、これ以上ないほど晴れ上がった空のようだ。
--- TRANSLATION HERE
+De alguna forma, siento que hoy el cielo está más despejado que nunca.
 }
 [sha:6f4112ccd7b3c3b539371ded6d965a4d3d6bc60d]{
 -- Page 2, Offset 13154.
@@ -41,27 +41,27 @@
 [sha:d60c7b1ae3d22b9580e1496ab14eb718463a78ee]{
 -- Page 3, Offset 13158.
 -- 条件反射で眼鏡をかけ、視線を泳がせる。
--- TRANSLATION HERE
+Me las pongo en piloto automático, y miro a mi alrededor.
 }
 [sha:f4e31a48126e12343a0e703a8aea51334a7be7ae]{
 -- Page 3, Offset 13159. Mods: @n.
 -- 深呼吸をして新鮮な空気を
--- TRANSLATION HERE
+Respiro profundamente
 }
 [sha:6074b61588eb85f1467133c7b9df56e2dc378d17]{
 -- Page 3, Offset 13160. Glued.
 -- とりこむ。
--- TRANSLATION HERE
+y saboreo el aire fresco.
 }
 [sha:ef6564413970bc05d0559a9bebf80b2217459a46]{
 -- Page 4, Offset 13161.
 -- 時計の針はカッチコッチと音をたてて、
--- TRANSLATION HERE
+%{i}Tictac%{/i}, se escuchan las manecillas del reloj .
 }
 [sha:3072881d5d4dc02049bc51af67b26fac194fae5b]{
 -- Page 4, Offset 13162.
 -- 外からは小鳥の鳴き声が聞こえてくる。
--- TRANSLATION HERE
+Fuera se oye el canto de los pájaros.
 }
 [sha:7b834fa26b0f52281503162406d9edea449d13f8]{
 -- Page 4, Offset 13163.
@@ -91,12 +91,12 @@
 [sha:dd9f8aded9b2bfbaf6dd7036514c4e22ab85eb25]{
 -- Page 6, Offset 13168.
 -- ちっぽけな人間にとって、それはこの上ない報酬と―――
--- TRANSLATION HERE
+No hay mayor recompensa para una persona tan insignificante como yo―――
 }
 [sha:6fd03902d270dc64fb9d031eca37447cd6ffd244]{
 -- Page 7, Offset 13169. Mods: @n.
 -- 「おはようございます、志貴さま
--- TRANSLATION HERE
+"Buenos días, Shiki-sama.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 7, Offset 13170. Glued.
@@ -106,42 +106,42 @@
 [sha:968f796042ad67a19e949d1b284fdfd856c29a7c]{
 -- Page 7, Offset 13171.
 -- 「うわああああ！」
--- TRANSLATION HERE
+"¡%{i}UWAAAAAAH%{/i}!"
 }
 [sha:921d7ad03ca3d02ca063fdb60aef17885b4a4c52]{
 -- Page 8, Offset 13172.
 -- 思わず上半身が跳ねあがる。
--- TRANSLATION HERE
+Por reflejo me pongo derecho de golpe.
 }
 [sha:e7161f491b87a040ab59f316dd7750e9f127e9b4]{
 -- Page 8, Offset 13173.
 -- 見れば、ドアの前には翡翠が控えていた。
--- TRANSLATION HERE
+Al mirar hacia arriba, veo a Hisui de pie, firme frente a la puerta.
 }
 [sha:6ec2bd9cd5db367c89049073e0ca7fea84298bcd]{
 -- Page 9, Offset 13174.
 -- 「ひ、翡翠―――」
--- TRANSLATION HERE
+"H-Hisui―――"
 }
 [sha:07be82f2edb2fd8a61738098c86dae8ec0cce1df]{
 -- Page 9, Offset 13175.
 -- 「……申し訳ありません。
--- TRANSLATION HERE
+"Mis más sinceras disculpas.
 }
 [sha:3ac2d4ed81de3e729bfc00defef4eb3be5f18c2b]{
 -- Page 9, Offset 13176.
 -- 志貴さまが中々お気づきになられませんので、こちらから声をおかけしたのですが……」
--- TRANSLATION HERE
+Parece que no estaba al tanto de mi presencia, por lo que decidí llamarle, pero..."
 }
 [sha:7c2f7950e627de25eaa1c1ad41be212352f654bb]{
 -- Page 10, Offset 13177.
 -- 「あ―――うん、いや、こっちこそ、ゴメン」
--- TRANSLATION HERE
+"Ah――no, yo también lo siento."
 }
 [sha:539e3cf0129db387b00028645db64c19fb87b74e]{
 -- Page 10, Offset 13178.
 -- びっくりした。
--- TRANSLATION HERE
+Me sorprendió.
 }
 [sha:1edc5d3448c98fae6772c5ba70256e6e3ecd9b2e]{
 -- Page 10, Offset 13179.
@@ -151,27 +151,27 @@
 [sha:e5fe1321ef27b5547273d6849a12be9deed5e4c3]{
 -- Page 11, Offset 13180.
 -- 「……あれ？　まだ７時前だけど」
--- TRANSLATION HERE
+"¿Eh? Pero si aún no son las siete."
 }
 [sha:0df6d00aeda2865881f6a5b1f2f0bde62d0546b0]{
 -- Page 11, Offset 13181.
 -- 「はい。志貴さまのお目覚めには、少しばかり早い時間です」
--- TRANSLATION HERE
+"Sí. Es un poco temprano para que esté despierto, Shiki-sama."
 }
 [sha:97f016c43c598bb59580f19b5c40268fd21366f5]{
 -- Page 11, Offset 13182.
 -- 「だよね。じゃあ翡翠は何をしに来たんだ？」
--- TRANSLATION HERE
+"Supongo. ¿Qué te trae por aquí, Hisui?"
 }
 [sha:7df496570c4dfd3c1c7b941a4856a70cceb2555b]{
 -- Page 12, Offset 13183.
 -- 「志貴さまを起こしにまいりました。
--- TRANSLATION HERE
+"He venido a levantarle.
 }
 [sha:8473e4bf82694058d4685fb360786260b40313d1]{
 -- Page 12, Offset 13184.
 -- 秋葉さまから、ここ二日間の事情を説明してもらいますので、テコを使ってでも連れて来るように、と言付かっております」
--- TRANSLATION HERE
+Akiha-sama desea que explique lo que ha estado haciendo los últimos dos días, y me ha ordenado que le traiga ante ella por cualquier medio necesario."
 }
 [sha:2932dc7ba7aedc503cd03508abe3a28f25920688]{
 -- Page 13, Offset 13185.
@@ -181,7 +181,7 @@
 [sha:5b7d8d05db2e49d0375c26a05edc662947ecd5ea]{
 -- Page 13, Offset 13186.
 -- “秋葉”“ここ二日間”“説明”。
--- TRANSLATION HERE
+Akiha', 'últimos dos días'. 'explique'.
 }
 [sha:a2e3264bb6e0d5a3dc62489d32dc3c8e1758390f]{
 -- Page 13, Offset 13187.
@@ -191,7 +191,7 @@
 [sha:746c752290f83469905518de92815163c2d9d502]{
 -- Page 14, Offset 13188.
 -- 思考を放棄したい誘惑に耐えながら、察すること10秒。
--- TRANSLATION HERE
+Resistiendo la tentación a dejar de pensar, me tomo diez segundos para darle sentido.
 }
 [sha:8d39d8369ea04082a441a2c956f9f0981fc07319]{
 -- Page 14, Offset 13189.
@@ -201,7 +201,7 @@
 [sha:fd15df4d87827f0b3bd0467eb9f60b32cebde3af]{
 -- Page 14, Offset 13190.
 -- 夕暮れ前に帰らなかっただけでアレな秋葉である。アイツがいまどんな顔をしているのか、恐ろしくて想像もできない。
--- TRANSLATION HERE
+Akiha ya da miedo cuando no vengo antes del anochecer. Me da miedo pensar la cara que está poniendo ahora mismo.
 }
 [sha:27937e420c451848df02430ca3a97af40a2dd488]{
 -- Page 15, Offset 13191.
@@ -221,27 +221,27 @@
 [sha:5f7adfa0bdec0a3fb3ac5fa8eef949a78d496b7e]{
 -- Page 16, Offset 13194.
 -- 「……あのさ、翡翠。
--- TRANSLATION HERE
+"Ey, Hisui...
 }
 [sha:dbf5964430e1983711d998c5bec4b96fbeb2d322]{
 -- Page 16, Offset 13195.
 -- 控えめに言って、秋葉のヤツ、怒ってる……？」
--- TRANSLATION HERE
+¿Decir que Akiha está enfadada sería quedarse corto...?"
 }
 [sha:db2fe1e03ef43d14fafb3b1e81601a29c09f26cc]{
 -- Page 17, Offset 13196.
 -- 「さあ、どうでしょうか。
--- TRANSLATION HERE
+"Hmm, ¿quién sabe?
 }
 [sha:7e8b6cd6d020fb5232e18e3051c951f10f055849]{
 -- Page 17, Offset 13197.
 -- それは志貴さまが直にお確かめください」
--- TRANSLATION HERE
+Tendrá que averiguarlo usted mismo, Shiki-sama."
 }
 [sha:8d4d5a78d543ab048b244526c85c7de38e4d29ec]{
 -- Page 18, Offset 13198.
 -- よし。心なしか、翡翠の声もさりげなく冷たかった。
--- TRANSLATION HERE
+Vale. Al parecer el tono de Hisui también es frío .
 }
 [sha:d9aedf22fbe721110aeb365b34ed3bc9a324bb2f]{
 -- Page 18, Offset 13199.
@@ -251,12 +251,12 @@
 [sha:afe32248c5f5bf8541c6a32043ff017b63e58afa]{
 -- Page 19, Offset 13200.
 -- 「いや、ちょっと待った。
--- TRANSLATION HERE
+"Espera, un momento.
 }
 [sha:9c541dd3423358a87750d92e3689453c0369b8f9]{
 -- Page 19, Offset 13201.
 -- それ以前に、なんで部屋で眠ってるんだ、俺……？」
--- TRANSLATION HERE
+Antes de eso, ¿por qué estaba dormido en mi habitación...?"
 }
 [sha:1e75860c5dd77a3139095ac0f889cc309187f026]{
 -- Page 20, Offset 13202.
@@ -346,12 +346,12 @@
 [sha:d3ac0f0a3cc6fe784a5867a3104370746ef93f1a]{
 -- Page 28, Offset 13219.
 -- ……ともかく起きよう。
--- TRANSLATION HERE
+Bueno... mejor me voy levantando.
 }
 [sha:9c54892e29632dbf396c30200753ae8f99f5612a]{
 -- Page 28, Offset 13220.
 -- いつまでもベッドにいては始まらない。
--- TRANSLATION HERE
+No tiene sentido quedarme en la cama para siempre.
 }
 [sha:946a7449945f80fd985fbd4a8e0969a524bca916]{
 -- Page 29, Offset 13221.
@@ -386,12 +386,13 @@
 [sha:c7c4d69b99d4e96525ed9bf7762c87e5e7476414]{
 -- Page 31, Offset 13227.
 -- ……そうか。何に驚くべきかと言ったら、俺は自分が生きている事を驚くべきだった。
--- TRANSLATION HERE
+Así son las cosas...
+ Si me preguntasen que me sorprende, diría que es el hecho de que siga vivo.
 }
 [sha:506e102ee879cf2b8572dc95f1f0af4051aee2d2]{
 -- Page 31, Offset 13228.
 -- あれだけの無茶をしておいて、こうして朝を迎えられる事自体が不自然だというのに。
--- TRANSLATION HERE
+Tras hacer todas esas locuras, por supuesto que se siente antinatural el levantarse una mañana como esta.
 }
 [sha:b849b1b95a5830565a3ea02b3e007287ea32a018]{
 -- Page 32, Offset 13229.
@@ -411,7 +412,7 @@
 [sha:20ad404af83113d4c0a76b41d5823ca8230f6f3f]{
 -- Page 33, Offset 13232.
 -- 深々とお辞儀をして翡翠は退室した。
--- TRANSLATION HERE
+Hisui hace una profunda reverencia y deja la habitación.
 }
 [sha:15ec76169cf747eadc82f4af7556d20005f882cb]{
 -- Page 33, Offset 13233.

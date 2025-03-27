@@ -118,7 +118,7 @@ Son %{i}demasiado%{/i} brillantes,
 [sha:933dc681f3e7b5c3d53f93b9d2ffec8ba1aed865]{
 -- Page 185, Offset 3088.
 -- もっと暗い、夜に相応しい闇に足を向ける。
-Procedo hacia la mas gris, más apropiada, oscuridad de la noche.
+Me adentro en la más grisácea y apropiada, oscuridad de la noche.
 }
 [sha:f179038b0fcef4c7fd75ec5947db0d657ff0d43a]{
 -- Page 186, Offset 3089.
@@ -154,12 +154,12 @@ Alguien me para en seco.
 -- Page 188, Offset 3095.
 -- 軽い火花のような目眩で目が覚めた。
 Sigo algo mareado,
- pero he vuelto a mis cabáles,
+ pero he vuelto a mis cabales,
 }
 [sha:27414b622bfd52d0d3e8c6cc975df6274400946d]{
 -- Page 188, Offset 3096.
 -- ……意味が分からない。
-No sé que está pasando...
+No sé qué está pasando...
 }
 [sha:dd54237ca21c2065e05193c9187f5b0be4a8609a]{
 -- Page 188, Offset 3097.
@@ -230,7 +230,7 @@ Frunce el ceño, pareciendo decepcionada.
 [sha:34dfbf3d9d52edc45c1774b2b93290866a1108f2]{
 -- Page 192, Offset 3110.
 -- 「え―――ああ……！」
-"Huh――¡si!"
+"Ah――¡si!"
 }
 [sha:5ede16ac693ffd7e1642bfb5909222ffcf76614e]{
 -- Page 193, Offset 3111.
@@ -245,7 +245,7 @@ El reloj sin piedad marca las 7:40 PM――mierda, ¡solo tengo veinte minutos h
 [sha:2f523f69a71d12c9e96a3fa274640f1b67b7c84b]{
 -- Page 194, Offset 3113.
 -- あわてて路地裏から駆け出す。
-En pánico, empiezo a pitarme corriendo del callejón.
+En pánico, salgo pitando del callejón.
 }
 [sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
 -- Page 194, Offset 3114.
@@ -280,7 +280,7 @@ Aturullado, consigo cogerla, ¿pero no es esta la lata que ha comprado?
 [sha:ecee7c73e50302c5dfe6f9662ea6c8c604282f0b]{
 -- Page 196, Offset 3120.
 -- 「それ、あげます」
-"Qúedatela"
+"Quédatela"
 }
 [sha:1522082e629032e95ef53e45edb28963f90a201b]{
 -- Page 196, Offset 3121.

@@ -7,7 +7,7 @@ La chica me guía a la sala de estar.
 -- Page 10017, Offset 1901.
 -- 七年ぶりの居間は、初めて見るような気がするほど、<豪華さ|スケール>が違っていた。
 La sala de estar, en la que no he estado en siete años,
- es ahora mucho mas lujosa, tanto que siento que la estoy viendo por primera vez.
+ es ahora mucho más lujosa, tanto que siento que la estoy viendo por primera vez.
 }
 [sha:39f8be5f879ef92d1a43068a8270b3bc6744dd57]{
 -- Page 296, Offset 1902.
@@ -32,7 +32,7 @@ Miro alrededor de la sala de estar.
 [sha:943672db68b0e1e6465469a8a359f5665fe03f58]{
 -- Page 297, Offset 1906.
 -- お気持ちは分かりますが、どうぞ楽にしてくださいまし。ここは志貴さまの家なんですから」
-Entiendo como se siente, pero por favor pongase cómodo. Esta es tu casa, después de todo, Shiki-sama."
+Entiendo como se siente, pero por favor póngase cómodo. Esta es tu casa, después de todo, Shiki-sama."
 }
 [sha:0f9b492735bc53d3e6234383ba72477d82d32111]{
 -- Page 297, Offset 1907.
@@ -92,13 +92,13 @@ Tardaré aproximadamente diez minutos, así que quizá quiera echar un vistazo p
 [sha:4f85cb3e438cde85d49385c8732a05b047120425]{
 -- Page 303, Offset 1918.
 -- 「何を仰いますやら！　ここは志貴さまのお家です、勝手も何もございません！
-"¡De qué esta hablando!
+"¡De qué está hablando!
  Esta es ahora tu casa, ¡por supuesto que puede ir donde quiera!
 }
 [sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
 -- Page 303, Offset 1919. Mods: @k, @e.
 -- ……
-...
+%{nothing}
 }
 [sha:6d92e3e9d248d7f9eee77df52cfd61fcfe5bdd8a]{
 -- Page 303, Offset 1920. Glued. Mods: @x.
@@ -173,10 +173,10 @@ Yo―――
 [sha:d0477e488a7518cefecb6bb2b9ee5d93746fa177]{
 -- Page 308, Offset 42583. Choice.
 -- ここで大人しく待っている。
- Esperaré aquí tranquilamente.
+Esperaré aquí tranquilamente.
 }
 [sha:8951887da9a305bfb653aa6356d68f8e07421fcc]{
 -- Page 308, Offset 42584. Choice.
 -- ちょっと足を延ばしてみよう。
- Iré a dar una vuelta.
+Iré a dar una vuelta.
 }

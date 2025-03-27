@@ -27,7 +27,7 @@ Sin embargo...
 [sha:36b2b09b52cccd0a1e5e9b32750026a1ca5e5bae]{
 -- Page 522, Offset 2482.
 -- 部屋では翡翠が黙々とベッドメイクをしていた。
-Hisui estaba haciendo mi cama discrétamente.
+Hisui estaba haciendo mi cama discretamente.
 }
 [sha:611beafa33bb89e876cfba3e1cb580a81eb22f14]{
 -- Page 522, Offset 2483.
@@ -67,7 +67,8 @@ Esto cada vez se parece más a estar en un hotel de lujo...
 [sha:cade11aaefbab2f4dd5c88394b36f50eb0cb5c5f]{
 -- Page 525, Offset 2490.
 -- 「何かご質問はございますか？」
-"¿Tienes alguna pregunta?"
+// Corregido, speech formal
+"¿Tiene alguna pregunta?"
 }
 [sha:d03e5e076eebbe12d9fca9c7f9430a63d223f7d6]{
 -- Page 525, Offset 2491.
@@ -102,7 +103,9 @@ Tengo muchas preguntas, pero no se nada de Hisui o Kohaku.
 [sha:bb3f2a66b35f506286ce01a5935954102dff6c30]{
 -- Page 527, Offset 2497.
 -- 「……お世話って、やっぱりそういうコトか」
-"¿Atender? Me temía que fuera ese el caso..."
+// Corregido, salto de línea
+"¿Atender?
+ Me temía que fuera ese el caso..."
 }
 [sha:0adf05cba13070a471b39b9435c020ec2c8cd813]{
 -- Page 528, Offset 2498.
@@ -122,12 +125,13 @@ Tener a una chica de mi edad cuidándome es algo que normalmente nunca ocurrirí
 [sha:72b6f1c1340e40c955ffc04a6dcc465fe51fe9ff]{
 -- Page 529, Offset 2501.
 -- 「……志貴さま付きって事は、俺専用の使用人ってこと？」
-"¿Eso significa que eres mi criada personal?"
+"¿Eso significa que eres mi sirvienta personal?"
 }
 [sha:e74f2d4ff47b53e1f6f368e17b94f8c50567c273]{
 -- Page 529, Offset 2502.
 -- 「はい。なんなりと申し付けてください」
-"Sí. Siempre estaré a tu servicio."
+// Corregido, speech formal
+"Sí. Siempre estaré a su servicio."
 }
 [sha:09da33223a586ac8eddbb4d29546da4707c8f41c]{
 -- Page 529, Offset 2503.
@@ -163,7 +167,7 @@ No soy esa clase de persona, y para serte honesto, está tan por encima de mí q
 -- Page 532, Offset 2509.
 -- 「ですが、志貴さまはわたしの主人です」
 // Este speech maid master necesita revisión
-"Pero, tu eres mi dueño."
+"Pero, tu eres mi amo."
 }
 [sha:05d18f939a9f7a54d518fb37da49a24637c1b093]{
 -- Page 532, Offset 2510.
@@ -178,6 +182,7 @@ Volver aquí e inmediatamente ser llamado de '-sama' por una chica de mi edad...
 [sha:ce7afe12ce8b81f9031764a69af9eca08f3ac706]{
 -- Page 532, Offset 2512.
 -- はあ、と翡翠は気のない返事をする。
+// Revisar
 Hisui encoge las cejas en respuesta.
 }
 [sha:c1e907c4ded194bf2361882dc081217eb211267b]{
@@ -198,7 +203,8 @@ A cambio me referiré a ti como Hisui-san."
 [sha:e4a6817e1cdc96f66dac810eeb4e4b74c4862d74]{
 -- Page 534, Offset 2516.
 -- 翡翠は無表情ながらも眉を下げて、唇を強く噛みしめる。
-Hisui encoge sus cejas inexpresiva y se muerde los labios fuertemente.
+// Revisar
+Hisui encoge sus cejas inexpresiva y se muerde los labios con fuerza.
 }
 [sha:bde349578c058fcc61588a5a17e87d153dcae215]{
 -- Page 534, Offset 2517.
@@ -213,34 +219,36 @@ Lo quería hacer más fácil para ella, pero no ha funcionado. Sólo he complica
 [sha:aaa2e956f68f50963f33420bf8e88fbe5a9a35b1]{
 -- Page 535, Offset 2519.
 -- 「ですが、あなたはわたしの雇い主ですから」
+// Revisar
 "Pero, tu eres mi patrón."
 }
 [sha:5f3aee4eaddfbc8a7345975b5154e9ad7ec3ad66]{
 -- Page 535, Offset 2520.
 -- 「俺が雇ってるわけじゃないだろ？」
-"No soy el que te ha contratado, ¿no?"
+// Corregido, pero no me convence del todo
+"Yo no soy el que te ha contratado, ¿verdad?"
 }
 [sha:706f49d777e0b0c1069e0bad17c100e39a17a2d9]{
 -- Page 536, Offset 2521.
 -- 「……失礼ながら。それは同じ事です、志貴さま。
-"Con todo el respeto, es lo mismo, Shiki-sana.
+"Con todo el respeto, es lo mismo, Shiki-sama.
 }
 [sha:ac0baea8bc76e5d4a42f478fc8a072a7b2b10743]{
 -- Page 536, Offset 2522.
 -- わたしどもは遠野家に仕えるもの。ご当主さまもご親族の方も、ともに尊ぶべき主である事に変わりはありません。
-Soy una criada de la familia Tohno.
- Que sea el cabeza de familia o alguno de sus familiares,
- no cambia el hecho de que os he de respetar a todos como mis dueños.
+Soy una sirvienta de la familia Tohno.
+ Sea el cabeza de familia o alguno de sus familiares,
+ no cambia el hecho de que os he de respetar a todos como mis amos.
 }
 [sha:45b0624bc86ed67257f80679b7f492536d873407]{
 -- Page 536, Offset 2523.
 -- ですので、どうかわたしの事は翡翠とだけお呼びください。
-Por lo cuál, diríjase a mi únicamente como Hisui si es posible.
+Por lo cual, diríjase a mí únicamente como Hisui si es posible.
 }
 [sha:df0e8ee545ab2a0742d49e0b1f395cd70accab60]{
 -- Page 536, Offset 2524.
 -- お仕えする方に敬称で呼ばれる使用人の心境を察していただければ幸いです」
-Espero que puedas simpatizar con como se siente una criada cuando su dueño se dirige a ella con honoríficos."
+Espero que pueda simpatizar con como se siente una sirvienta cuando su amo se dirige a ella con honoríficos."
 }
 [sha:49190cfbd1a714fe458c5753ad7a8d8103b3ed9b]{
 -- Page 537, Offset 2525.
@@ -250,12 +258,12 @@ Espero que puedas simpatizar con como se siente una criada cuando su dueño se d
 [sha:9547d04304bb271725298b15f3eeddb4386997c7]{
 -- Page 537, Offset 2526.
 -- ……そう言われると反論できない。
-No puedo rebatírselo si lo dice así...
+Si lo dice así no puedo rebatírselo ...
 }
 [sha:c3b1e6e7ef86d26900645b3b6b6bcd98487be5d3]{
 -- Page 537, Offset 2527.
 -- 彼女の発言は使用人として筋が通っている。
-Desde el punto de vista de una criada, lo que dice tiene todo el sentido.
+Desde el punto de vista de una sirvienta, lo que dice tiene todo el sentido.
 }
 [sha:6b77aa9ac74824629afcff555b44043372b09ac0]{
 -- Page 538, Offset 2528.
@@ -291,12 +299,13 @@ Por ahora, expresaré mis intenciones lo mejor que pueda.
 [sha:2f6459d91f2c0b33bbb3c726f50c9ede2e93fc1e]{
 -- Page 539, Offset 2534.
 -- 『なんとしても』という言い方がちょっと食い気味の翡翠だった。
-Ha sido una respuesta de Hisui mas afilada de lo que esperaba.
+Ha sido una respuesta de Hisui más afilada de lo que esperaba.
 }
 [sha:e8ae9fde816d7c95911876aaf68a084ea6ba999b]{
 -- Page 540, Offset 2535.
 -- 「わかった。じゃあそのように。
-"Okay. Eso haré.
+// Corregido
+"Vale. Eso haré.
 }
 [sha:4bc32ccd720d87a9dea06e0de2e08d7cf5341a6e]{
 -- Page 540, Offset 2536.
@@ -356,7 +365,7 @@ Mi cuerpo exhausto drena la fuerza de mis extremidades, forzando a quedarme dorm
 [sha:5ff2230291e6e8dfbc0ccde1adb7034bcc3a05de]{
 -- Page 544, Offset 2547.
 -- その誘惑に逆らって目蓋だけは閉じずにいるが、それも無駄な抵抗だ。
-Dejo los ojos abiertos resistiendo al tentación, pero es inútil.
+Dejo los ojos abiertos resistiendo la tentación, pero es inútil.
 }
 [sha:4bb34e430ccc8530603b0ab5cc1d5829ab7a7e4a]{
 -- Page 544, Offset 2548.
@@ -411,7 +420,7 @@ Una mansión en una colina donde el bullicio de la ciudad no llega.
 [sha:c38cc780d22b3a5c3952119b8c6fa94976e205a6]{
 -- Page 547, Offset 2558.
 -- ……高い木々に囲まれた陸の孤島。
-Una isla asilada rodeada de árboles altos.
+Una isla aislada rodeada de árboles altos.
 }
 [sha:4973cd468f498b36924e0b9a988c75e9d115e300]{
 -- Page 547, Offset 2559.

@@ -1,117 +1,125 @@
 [sha:a3813423413a2cd60fed84bd5e6946d008c2f636]{
 -- Page 10005, Offset 9132.
 -- 「そっか。じゃあわたしは何も言わない。
--- TRANSLATION HERE
+"Ya veo. En ese caso, no diré nada.
 }
 [sha:bcac3d7504b37322c7785e42c0b22a5b7f737149]{
 -- Page 10005, Offset 9133.
 -- 志貴が一緒に戦ってくれるのは助かるしね。あなたならヴローヴなんて問題なく一撃で“殺”せるんだから」
--- TRANSLATION HERE
+Me alegro que decidas luchar a mi lado. Después de todo, contigo alrededor, definitivamente podremos 'matar' a Vlov de un golpe."
 }
 [sha:76a2ccc7a265ad4a64465ceb5c9dce093ec2dc1c]{
 -- Page 218, Offset 9134.
 -- 「……いや、それは無理だろ？
--- TRANSLATION HERE
+"No, no veo cómo eso podría llegar a funcionar...
 }
 [sha:180c8c4ad2ac9cb6355b30aae844faf513a41acf]{
 -- Page 218, Offset 9135.
 -- あいつのまわり、熱くて近づけないんだから。
--- TRANSLATION HERE
+Irradia demasiado calor. No creo que pueda acercarme a él.
 }
 [sha:106cfe1f830d7ba56c744415925e818f0ebbf0d1]{
 -- Page 218, Offset 9136.
 -- それ以前にどうやってアイツを見つけるんだ？」
--- TRANSLATION HERE
+Y además, ¿cómo vamos a encontrarlo en primer lugar?"
 }
 [sha:c9a6d685b339c21acda59c88beb831f3a218cadd]{
 -- Page 219, Offset 9137.
 -- 「見つけるって……志貴ってほんと極端なのね。逃げないって決めたら、今度はこっちから攻めに行こうだなんて」
--- TRANSLATION HERE
+"¿Encontrarlo?
+ Si que eres un hombre de extremos, ¿no?
+ Hace un segundo decidiste no huir, y ahora dices que deberíamos ir a la ofensiva."
 }
 [sha:d8cb65cc1a24079338e5be4b4f5a0cffc5768445]{
 -- Page 219, Offset 9138.
 -- 「な、なんとなくそう思っただけだっ！　極端の化身みたいなおまえに言われたくないっ」
--- TRANSLATION HERE
+"E-Ey, ¡solo estaba pensando en alto! No quiero escuchar eso de la mismísima reina del extremo."
 }
 [sha:378a28af0ee5738a915317f056dc9c1c8ab55144]{
 -- Page 220, Offset 9139.
 -- 「わたしは効率重視なだけよ。
--- TRANSLATION HERE
+"Simplemente me centro más en la eficiencia.
 }
 [sha:127569c2608f3e82bcf56c02cbf2d2c9d3136378]{
 -- Page 220, Offset 9140.
 -- ……まあいいわ。言っておくけど、ここからは持久戦だから。
--- TRANSLATION HERE
+Bueno, como sea... Para que lo sepas, de aquí en adelante será una batalla de desgaste.
 }
 [sha:c6778861bba95a892d3abcb32df6ebcf07de85c1]{
 -- Page 220, Offset 9141.
 -- 一番確実な戦法は、わたしの体力が戻りきるまで逃げること。
--- TRANSLATION HERE
+La estrategia más segura es que sigamos huyendo,
+ al menos hasta que recupere algo de mi fuerza.
 }
 [sha:dd144ea0616cb8ec28646e761dfe79416e1fe996]{
 -- Page 220, Offset 9142.
 -- あと三日もすればわたしの規模は三割ぐらいまで回復する。それだけの出力があれば、わたしひとりでもヴローヴを倒しきれる」
--- TRANSLATION HERE
+En tres días, mi Escala de Vida estará de vuelta a un treinta por ciento de su nivel original. Eso debería ser suficiente para derrotar a Vlov por mi cuenta."
 }
 [sha:108ca5be3f8903f4dfc82d856d66b63ac4b3c7db]{
 -- Page 221, Offset 9143.
 -- 「三日……？　いや、でも」
--- TRANSLATION HERE
+"¿Tres días? Pero, eso significa―――"
 }
 [sha:d03ce8c4e257acf82f9ae01226f012b840fa917b]{
 -- Page 221, Offset 9144.
 -- 「ええ。その三日間、ヴローヴは野放しよ。アイツは地下に潜って人間から血液を補充する。……ううん、それだけじゃない。あの様子からすると夜の街を徘徊するかもしれない。
--- TRANSLATION HERE
+"Sí. Durante esos tres días, Vlov campará a sus anchas.
+ Se esconderá y alimentará de humanos para reponer su suministro de sangre... pensándolo mejor, no se detendrá en eso.
+ Juzgando por el estado en el que está, quizá deambule las calles por la noche.
 }
 [sha:09cd56cf78f07e6251c23dd8e97d8c7daeaa4e8c]{
 -- Page 221, Offset 9145.
 -- アイツ、正気が欠けていたし。姿を隠さないと教会に狙われる、なんて<定石|セオリー>、頭にないのかもね」
--- TRANSLATION HERE
+Después de todo, no está bien de la cabeza. No creo que entienda que la Iglesia puede perseguirlo si no se esconde."
 }
 [sha:a09b4b607b62f1ee796d7e8151d4c199ee23aab6]{
 -- Page 222, Offset 9146.
 -- 「それは駄目だ、アイツはいるだけで炎をまき散らす怪物なんだぞ!?　一日だって放っておけるか！」
--- TRANSLATION HERE
+"No puedo permitirlo. ¡Es un monstruo que deja un rastro de llamas donde sea que vaya!
+ ¡No podemos dejarlo campar a sus anchas, ni siquiera por un día!"
 }
 [sha:045aca649b20aa8b97988cf54ce62fab854fe30d]{
 -- Page 223, Offset 9147.
 -- 「なら昼間のうちにヴローヴを見つけて、殺すしかない。
--- TRANSLATION HERE
+"Entonces nuestra única opción es encontrar y matar a Vlov durante el día.
 }
 [sha:96f5411c7fef549c4a9a9bdd46c08ec7aa6b9ca4]{
 -- Page 223, Offset 9148.
 -- でもそれには反対よ。大まかな場所は目星がつくけど、睡眠中の死徒ほど用心深いものはないわ。今のわたしたちじゃ返り討ちになる可能性の方が高いもの」
--- TRANSLATION HERE
+Pero me opongo. Tengo una ligera idea de donde está, pero no hay nada mas cauteloso que un Apóstol Muerto dormitando. Si nos dirigimos allí tal y como estamos, hay una alta posibilidad de que simplemente nos maten."
 }
 [sha:f4a2871a062bd8ff51d3a7d91f1fc50ef7779e33]{
 -- Page 224, Offset 9149.
 -- 「そんな。ヤツの居場所に目星がついてるのに、むざむざ見逃すっていうのか……？」
--- TRANSLATION HERE
+"No te creo.
+ Aunque hayas descubierto dónde está, ¿vas a hacer la vista gorda?"
 }
 [sha:849f3640e48cbbe80e8b2cc8034048e44e3274f5]{
 -- Page 224, Offset 9150.
 -- 「ええ。言ったでしょう。人間が何人ヴローヴの餌食になろうと、わたしには関係のない話だって」
--- TRANSLATION HERE
+"Sí. Como he dicho, no me importa cuantos humanos acaben siendo presa de Vlov."
 }
 [sha:b8c6d98ed8c5c283f0345668e376eb6bc3d89e75]{
 -- Page 225, Offset 9151.
 -- ……息を呑む。
--- TRANSLATION HERE
+No tengo palabras...
 }
 [sha:35596c7aae350e97ea936be7d2e79a0668d66b50]{
 -- Page 225, Offset 9152.
 -- アルクェイドの言い分は分かる。
--- TRANSLATION HERE
+Entiendo su punto de vista.
 }
 [sha:5f3f9bb53878f6833cedfd00d03e08419a5b2cb8]{
 -- Page 225, Offset 9153.
 -- 安全策……いや、確実性をとるのなら、今はこいつの傷の回復と、体力が戻るのを待つべきだ。
--- TRANSLATION HERE
+Si queremos ir a lo seguro――o más bien, si queremos estar seguros de ganar,
+ el mejor curso de acción sería esperar a que Arcueid recupere su fuerza.
 }
 [sha:1f86460ac2cbe779a1bb0402b04ebb37c92252db]{
 -- Page 226, Offset 9154.
 -- しかし……その代償として、俺たちがここで時間を潰せば潰すほど、犠牲者は増えていく。
--- TRANSLATION HERE
+Pero a cambio... Cuanto más tiempo perdamos aquí, más víctimas se acumularán.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 226, Offset 9155.
@@ -121,10 +129,10 @@ Yo―――
 [sha:821392827f0cf8157ece759065cd3cbad8b13730]{
 -- Page 228, Offset 42615. Choice.
 -- ……今すぐヴローヴを捜すべきだ。
--- TRANSLATION HERE
+Buscaré a Vlov de inmediato.
 }
 [sha:b5f77c46dd63c6d77710fc7162f01c768ed967ba]{
 -- Page 228, Offset 42616. Choice.
 -- ……せめて、夜までここに残る。
--- TRANSLATION HERE
+Al menos, me quedaré hasta el anochecer.
 }

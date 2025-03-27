@@ -21,7 +21,7 @@ Hisui me mira fijamente, y entonces toma un poco de aire como si estuviera reuni
 [sha:a5bd921f2a673309f5af41a896156685306ee47e]{
 -- Page 102, Offset 5814.
 -- 「……志貴さま。昨日はどうなされたのですか」
-"Shiki-sama... ¿Qué paso ayer?"
+"Shiki-sama... ¿Qué ocurrió ayer?"
 }
 [sha:4de570dbfb1bfaec2ca16374bc4a2d11c7627de4]{
 -- Page 103, Offset 5815.
@@ -44,7 +44,7 @@ Hisui me mira fijamente, y entonces toma un poco de aire como si estuviera reuni
 -- ……でも、たしかに秋葉の言う通り軽率だった。これからは気をつける」
 // creo que uso demasiado 'aun así' sorry el que lea esto y siga leyéndolos.
 Aún así, no puedo negar que Akiha tuviera razón. %{i}Fue%{/i} descuidado por mi parte.
- Tendré mas cuidado a partir de ahora."
+ Tendré más cuidado a partir de ahora."
 }
 [sha:232d9ac10de935c9181b1634af3239bb498194b4]{
 -- Page 104, Offset 5819.
@@ -54,7 +54,7 @@ Aún así, no puedo negar que Akiha tuviera razón. %{i}Fue%{/i} descuidado por 
 [sha:c0da21e6d79545d69b869dfeb74a1e01c90553b0]{
 -- Page 104, Offset 5820. Mods: @k, @e.
 -- ……今朝の志貴さまはひどく無理をしているように見えたのです。
-Solo que esta mañana parecía estar esforzándse demasiado...
+Solo que esta mañana parecía estar esforzándose demasiado...
 }
 [sha:125c6881c8a3a75d1c5f8fc93cabcc89a6c72ef1]{
 -- Page 104, Offset 5821. Glued. Mods: @x.
@@ -192,7 +192,7 @@ No, eso no es verdad.
 [sha:dc7b7d5a6f0e68425f0955f9e99394acc16c2fad]{
 -- Page 112, Offset 5847.
 -- アレは悪いユメにすぎないと翡翠が、秋葉が、琥珀さんだって言ってくれ――――
-No fue nada mas que una pesadilla; Hisui, Akiha, e incluso Kohaku-san todas dijeron―――
+No fue nada más que una pesadilla; Hisui, Akiha, e incluso Kohaku-san todas dijeron―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 112, Offset 5848.
@@ -277,7 +277,7 @@ Solo yo me quedo parado entre la multitud, demasiado aturdido como para moverme.
 [sha:7f26737efbab3de553ab186a49db48c26cda0e70]{
 -- Page 10007, Offset 5864.
 -- 女はガードレールに腰をかけて、足をぶらぶらとゆらしている。
-La mujer está sentada en el guardaraíl, moviendo las piernas al tuntún.
+La mujer está sentada en el guardarraíl, moviendo las piernas al tuntún.
 }
 [sha:54f569a2fb9b7e1e2389bc5b089f7c1735f0f9fb]{
 -- Page 116, Offset 5865.
@@ -293,7 +293,7 @@ No tengo idea de cuanto lleva esperando,
 [sha:528e3b37f8aab6e2d8a94d79ca5782e7f3ea8aa0]{
 -- Page 117, Offset 5867.
 -- ―――誰を待っているのだろう。
-―――Me pregunto a quién esta esperando.
+―――Me pregunto a quién está esperando.
 }
 [sha:8c17023a44c2dcde5e781cb4991ce7437c097603]{
 -- Page 117, Offset 5868.
@@ -343,7 +343,7 @@ No tendría ni que pensar a quién querría ver primero.
 [sha:87ceddab8ba0c2e35d1e5381cbec68bbadcc2681]{
 -- Page 119, Offset 5877.
 -- 背筋に走る、<百足|ムカデ>が這うような悪寒。
-Un escalofrío me recorre la columna como si un cienpiés estuviera reptando por mi espalda.
+Un escalofrío me recorre la columna como si un ciempiés estuviera reptando por mi espalda.
 }
 [sha:9f48b699091889b53c828ceee9de07f54f28be64]{
 -- Page 119, Offset 5878.
@@ -405,7 +405,7 @@ Y aún así, ella %{i}está%{/i} viva, y sonriéndome.
 [sha:477427074d7518ef7b5c94e419908aadf0d64863]{
 -- Page 122, Offset 5888.
 -- やっと来たわね、と。
-Una sonrisa que dice, 'por fín estas aquí'.
+Una sonrisa que dice, 'por fin estás aquí'.
 }
 [sha:aad9b025b17a23c59c7b7aca6e46570be7445ffa]{
 -- Page 122, Offset 5889.
@@ -415,7 +415,7 @@ Parece profundamente satisfecha de haber encontrado a la persona que la mató.
 [sha:e0735b39ac2b99d4a02d547fc8816f27385791fe]{
 -- Page 123, Offset 5890.
 -- 女は手を挙げて親しげに微笑むと、ガードレールから腰をあげた。
-La mujer sonríe cálidamente y me saluda con la mano, entonces se levanta del guardaraíl.
+La mujer sonríe cálidamente y me saluda con la mano, entonces se levanta del guardarraíl.
 }
 [sha:9159c624f97c2ae8a8834c2e6d7a898c10286458]{
 -- Page 123, Offset 5891.
@@ -488,7 +488,7 @@ Corro tan rápido como puedo.
 -- 恥も外聞もなく、通り過ぎる人々を突き飛ばしながら、アスファルトの<路|みち>を全力で走り続けた。
 Sin importarme la vergüenza o las apariencias,
  sigo corriendo lo más rápido que puedo al lado de la vía asfaltada,
- apartando otros transeuntes de mi camino.
+ apartando otros transeúntes de mi camino.
 }
 [sha:e36d3310ea398d7ffbee0a09778326e7cf8edd98]{
 -- Page 129, Offset 5905.
@@ -513,8 +513,7 @@ Mi expresión facial está fija en una mueca.
 [sha:90b664d89be163bedc93ecd8f904760c79dd9686]{
 -- Page 130, Offset 5909.
 -- 視界が涙で歪む。喉が<灼|や>かれる。肺が<萎|しな>びる。
-Mis piernas han olvidado de como moverse y sólo golpean el suelo al azar.
- A cada paso que doy, un dolor entumecedor recorre mi muslo.
+Las lágrimas distorsionan mi vista. Me quema la garganta. Mis pulmones se están resecando.
 }
 [sha:f3df17729cf1fbb3531f6c10202af42a7cf89c80]{
 -- Page 130, Offset 5910.
@@ -524,7 +523,7 @@ Los músculos de mis manos tiemblan tan violentamente que siento como si se fuer
 [sha:7155c8fc75e224df39e317816033ccd7ebc20daf]{
 -- Page 131, Offset 5911.
 -- 両脚はでたらめに、加減を忘れて地面を蹴る。一歩進むたびに<腿|もも>に痺れるような痛みが走った。
-Mis piernas han olvidado de como moverse y sólo golpean el suelo al azar.
+Mis piernas han olvidado de cómo moverse y sólo golpean el suelo al azar.
  A cada paso que doy, un dolor entumecedor recorre mi muslo.
 }
 [sha:ad114d07798ce3b7d5de5fbedcbec8ca39ecd307]{
@@ -540,7 +539,7 @@ Porque si no corro, me volveré loco.
 [sha:0ea29167528ab35de76aef53fb1ae1594cdbc53c]{
 -- Page 132, Offset 5914.
 -- 背後を見る。
-Miro detrás de mi.
+Miro detrás de mí.
 }
 [sha:9e01706fd08fbe9f9f74842c3fb5b1c90792be0c]{
 -- Page 132, Offset 5915.
@@ -575,7 +574,7 @@ Mi corazón se siente como si fuera a estallar, pero lo ignoro y sigo corriendo.
 [sha:7b7b2862ae3917b228743631f7d0824ce698eb8a]{
 -- Page 133, Offset 5921.
 -- 振り返るとあの女の姿がある。
-Cuando miro detrás de mi, ella sigue ahí.
+Cuando miro detrás de mí, ella sigue ahí.
 }
 [sha:c7918d16bc5c77d7512a17019039684abde19e50]{
 -- Page 133, Offset 5922.
@@ -621,7 +620,7 @@ Respiro aún más fuerte.
 [sha:e47f92c9192f0ab043245aeb882d34e1ac76100b]{
 -- Page 135, Offset 5930.
 -- もう何キロ全力で走っただろうか。
-He estado corriendo a toda velocidad durante quién sabe cuantos kilómetros ya.
+He estado corriendo a toda velocidad durante ya quién sabe cuántos kilómetros.
 }
 [sha:5bc65173801d05d69e8173668229be1f480e5e18]{
 -- Page 135, Offset 5931.
@@ -678,7 +677,7 @@ Si me alcanza, me matará seguro.
 [sha:e8d9e8f87f1c20f0b8e302154b96677efaf7e846]{
 -- Page 138, Offset 5941.
 -- 何を根拠にと笑い飛ばしても、それが気休めである事は自分が一番よく分かっていた。
-Me río de ello, pero se mejor que nadie que solo es una manera de sobrellevarlo.
+Me río de ello, pero sé mejor que nadie que solo es una manera de sobrellevarlo.
 }
 [sha:1437293f336797af9573b6fefe7fe8213ab52166]{
 -- Page 139, Offset 5942.
@@ -759,7 +758,7 @@ Ahí despatarrado, ahora mi cuerpo se niega a siquiera moverse.
 [sha:05606e5235a7d031c51964ac033a0b21d1a7965d]{
 -- Page 144, Offset 5957.
 -- 顔をあげて息を吸う。
-Inclino mi cabeza hacia atrás e inspiro.
+Inclino mi cabeza hacia atrás y tomo aire.
 }
 [sha:c029fa13e7e5fb5b4a256e5e06faa4e77bb8657a]{
 -- Page 144, Offset 5958.
@@ -779,7 +778,7 @@ Como resultado, mi cerebro no está funcionando como debería.
 [sha:1113fa543e1b5160e89c605668861ec7562c3815]{
 -- Page 144, Offset 5961.
 -- 自分がなにをしているのかも意味不明。
-Ni siquera puedo encontrarle el sentido a lo que hago.
+Ni siquiera puedo encontrarle el sentido a lo que hago.
 }
 [sha:1f0a704f9e090b27d913f3e396b2a03a9cf27bf2]{
 -- Page 144, Offset 5962.
@@ -794,7 +793,7 @@ Por qué. Por qué. ¿Por qué está viva la mujer que maté?
 [sha:69399e69af668a0b8e8b8f37935850e3d546e2df]{
 -- Page 145, Offset 5964.
 -- 間違いなく完璧に、
-No hay duda de lo que la hice.
+No hay duda de lo que le hice.
 }
 [sha:0fff865ff7e4df9d1ea89f196b0e904406feb277]{
 -- Page 145, Offset 5965.
@@ -984,7 +983,7 @@ Dieciocho horas después, finalmente te atrapo."
 [sha:df5bbaa21cd86d7ae776f6a20b18197508e1760e]{
 -- Page 156, Offset 6001.
 -- かつん、と更に一歩、女は路地裏に入ってくる。
-Oigo el click de sus tacones mientras da otro paso hacia el callejón.
+Oigo el clic de sus tacones mientras da otro paso hacia el callejón.
 }
 [sha:0d55e0732b1f85075d55a44ec038ccfefc190989]{
 -- Page 157, Offset 6002.
@@ -1014,7 +1013,7 @@ Me alegro que me recuerdes."
 [sha:80dcbc251f2a4b7f5036fe4241316f29be748b99]{
 -- Page 158, Offset 6007.
 -- 嘘だろうと事実だろうと聞きたくもない返答だった。
-Es una respuesta que no quería oir,
+Es una respuesta que no quería oír,
  sin importar si es verdad o mentira.
 }
 [sha:792c05fab68ff1bfe830661b5d761104fd05590b]{
@@ -1026,7 +1025,7 @@ Es una respuesta que no quería oir,
 [sha:ed2f0b1ea320739377a086eab4333af14f4d196f]{
 -- Page 159, Offset 6009.
 -- 「そうだけど、そう驚くコトでもないんじゃない？
-"Quiero decir, ¿no se realmente de que te sorprendes?
+"Quiero decir, ¿no se realmente de qué te sorprendes?
 }
 [sha:12757bb9a2cb4fae60e54aab572a49fa8a3f7a84]{
 -- Page 159, Offset 6010.
@@ -1062,7 +1061,7 @@ Reflexiono sobre lo que acaba de decir, anonadado.
 -- Page 161, Offset 6016.
 -- つまり、瀕死から回復した？　じゃあ医者にでもかかって手術の末、あの状態から蘇生した……？
 ¿Como si, estuviera al borde de la muerte pero se recuperase?
- Lo que significaría que fue a un doctor, se sometió a cirujía, y consiguió recuperarse... ¿de %{i}ese%{/i} estado?
+ Lo que significaría que fue a un doctor, se sometió a cirugía, y consiguió recuperarse... ¿de %{i}ese%{/i} estado?
 }
 [sha:c194b9b516b9024b3d8615e32c5eaf5639ade694]{
 -- Page 162, Offset 6017.
@@ -1108,7 +1107,7 @@ No se puede negar lo que esta mujer acaba de decir frente a mí.
 -- Page 165, Offset 6025.
 -- 「当たり前でしょ。手足をバラバラにされて、ひとりでに再生できる人間がいると思う？」
 "Por supuesto que no.
- ¿De verdad crees que hay humanos capaces de regenerarse despues de ser despedazados extremidad por extremidad?"
+ ¿De verdad crees que hay humanos capaces de regenerarse después de ser despedazados extremidad por extremidad?"
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 165, Offset 6026.
@@ -1129,17 +1128,17 @@ Si las hubiera, no serían para nada humanos――
 [sha:4932fa07cd248fe53c3a31f084cc2ce5a4a58af4]{
 -- Page 166, Offset 6029.
 -- 殺しても蘇る。
-Incluso si los matas, vuelven a la vida.
+Aunque los mates, vuelven a la vida.
 }
 [sha:d0d36567f62a4e0c885710e9d001e3b21677994a]{
 -- Page 166, Offset 6030.
 -- 息の根を止めてもおかまいなし。
-Incluso si los estrangulas, no les importa.
+Aunque los estrangules, no les importa.
 }
 [sha:b6d5816e3d901eba21ef2bb01ccacfd67acb9813]{
 -- Page 166, Offset 6031.
 -- バラバラにしても元通りになって動きはじめる、
-Incluso si los despedazas, se coserán ellos mismos y empezarán a moverse de nevo.
+Aunque los despedaces, se coserán ellos mismos y empezarán a moverse de nuevo.
 }
 [sha:fa8a9a78ddc329d93721baec78717b12316c8d63]{
 -- Page 166, Offset 6032.
@@ -1159,7 +1158,7 @@ Esa parece ser la verdadera forma de la mujer frente a mí.
 [sha:00b4a636557968589613a662adcba42bffd4db0a]{
 -- Page 167, Offset 6035.
 -- 笑おうとして声をあげたけれど、渇ききった喉は引きつるばかりで、うまく笑う事さえできなかった。
-Intento reirme, pero mi garganta está tan seca y dolorida que ni siquiera me puedo reir propiamente.
+Intento reírme, pero tengo la garganta tan seca y dolorida que ni siquiera me puedo reirme como es debido.
 }
 [sha:037fe3eaa6ac83ff80dd61a2ca360bba4bd4e85a]{
 -- Page 168, Offset 6036.
@@ -1185,7 +1184,7 @@ Quiero decir, todo encaja.
 -- Page 169, Offset 6040.
 -- この女が人間じゃないのなら、殺した筈なのに生きている事に、道理が通るかもしれないじゃないか。
 Si ella no es humana,
- entonces no es tan loco que siga incluso después de haberla matado.
+ entonces no es tan loco que siga viva incluso después de haberla matado.
 }
 [sha:62ffeb40a6a845ae289ca8516bee1059411ead22]{
 -- Page 170, Offset 6041.
@@ -1318,7 +1317,7 @@ Bueno, supongo que tengo otras cosas de las que preocuparme ahora mismo.
 [sha:084cefaef03703b4813f74ef219c03cfac46f06f]{
 -- Page 179, Offset 6066.
 -- その怪物が、俺なんかに何の用だっていうんだ」
-¿Qué quiere de mi un monstruo como tu?"
+¿Qué quiere de mí un monstruo como tu?"
 }
 [sha:394e30bda78b674aa811f4bf1cad7d461f427df6]{
 -- Page 180, Offset 6067.
@@ -1338,18 +1337,18 @@ Aunque solo por un momento――en el siguiente instante, cierra las manos frent
 [sha:e0fc8e7c40baa70f020277bc85859ec0efa01308]{
 -- Page 181, Offset 6070.
 -- 「驚いた。昨日、わたしに何をしたか忘れたの？
-"Estoy soprendida. ¿Ya te has olvidado de lo que me hiciste ayer?
+"Estoy sorprendida. ¿Ya te has olvidado de lo que me hiciste ayer?
 }
 [sha:74824a4bdba7c58bc59370468d6eb81df7e97b4e]{
 -- Page 181, Offset 6071.
 -- あなたは見ず知らずのわたしを、会った瞬間にバラバラに殺してくれたのよ。それで何の用だ、なんて、よっぽど手慣れているみたいね」
-Me desmembraste a mi――una completa desconocida――en el momento que me pusiste los ojos encima.
+Me desmembraste a mi――una completa desconocida――el momento que me pusiste los ojos encima.
  Y sin embargo, aquí estas, preguntándome que quiero de ti como si estuvieras totalmente acostumbrado a este tipo de cosas."
 }
 [sha:a00d6864b646d66ec360a872c845750ca0e6cb21]{
 -- Page 182, Offset 6072.
 -- 女は怒っている……というより呆れているようだ。
-La mujer está mas soprendida que enfadada...
+La mujer está más sorprendida que enfadada...
 }
 [sha:f0e77644d09e5f28e1146269c9ec4db7ebf4fdb4]{
 -- Page 182, Offset 6073.
@@ -1394,7 +1393,7 @@ Tras todo este tiempo, finalmente entiendo cuán mala es mi suerte realmente.
 [sha:c8ed3d66c3180d5b50b27192ab47f0435796c7ee]{
 -- Page 185, Offset 6081.
 -- 理由もなく突然殺したくなった女がいて、
-Me crucé con una mujer la cual quisé matar de repente sin ningún motivo.
+Me crucé con una mujer la cual quise matar de repente sin ningún motivo.
 }
 [sha:7494769bbf430d1eb43eec89b180175b6996870d]{
 -- Page 185, Offset 6082.
@@ -1476,7 +1475,7 @@ Claro, me persigue un monstruo, pero prefiero eso mucho antes a ser un asesino.
 [sha:c069e2f2d761da93722ae83756e9bd90702f7b6c]{
 -- Page 191, Offset 6097.
 -- 悪運は悪運でも、とびっきりの悪運だろう。
-Mala suerte es mala suerte, pero esto es %{i}exceptionalmente%{/i} mala suerte.
+Mala suerte es mala suerte, pero esto es %{i}excepcionalmente%{/i} mala suerte.
 }
 [sha:3b9d3349c62afd3f3ab80f6dd7edc1e504c1db23]{
 -- Page 191, Offset 6098.
@@ -1497,13 +1496,13 @@ Tienes algo que decir, ¿no? Adelante desahógate de todas las quejas o resentim
 -- Page 193, Offset 6101.
 -- 「そりゃあ言いたいコトはいっぱいあるけど……あなた、変わった人ね。吸血鬼を前にして、なに、その態度？」
 "Bueno sí, hay muchas cosas que quiero decir, pero... eres raro.
- Estas cara a cara con un vampiro, ¿qué es esa actitud?"
+ Estás cara a cara con un vampiro, ¿qué es esa actitud?"
 }
 [sha:1299c9b98f96632d781109ba9c88b239759f729d]{
 -- Page 193, Offset 6102.
 -- 「悪かったな、必死に居直ってるんだよ。……そうでもしないと、自分で自分を殺しかねない」
 "Lo siento, estoy bastante enfadado ahora mismo...
- Si no actuo así, cabe la gran posibilidad de que %{i}me%{/i} suicide."
+ Si no actúo así, cabe la gran posibilidad de que %{i}me%{/i} suicide."
 }
 [sha:649617d27712d447aec05410b2c22e8a26502371]{
 -- Page 194, Offset 6103.
@@ -1596,7 +1595,7 @@ Me quedo mirándola perdido por un momento, asombrado.
 [sha:4f5d64f308b16ef5d0bdd1f6658c44a3ae67494b]{
 -- Page 200, Offset 6119.
 -- この女が、なにか、場違いな声を出したからだ。
-Lo que acaba de decir ha sonado completamente a non sequitur.
+Lo que acaba de decir no tiene nada que ver.
 }
 [sha:f901de8c7f072af720780e23bbaf36aaf683b52b]{
 -- Page 201, Offset 6120.
@@ -1612,7 +1611,7 @@ Tengo la sensación de que no eres muy buen mentiroso para ser humano."
 [sha:e8177d69799af9c25aa0eeacae0fd0c3e9b55dee]{
 -- Page 202, Offset 6122.
 -- 「反省って……俺が？」
-"Me estas preguntando... ¿si siento remordimiento?"
+"Me estás preguntando... ¿si siento remordimiento?"
 }
 [sha:58c267a08cdeb03064f936d8283bd9636478953a]{
 -- Page 202, Offset 6123.
@@ -1637,7 +1636,7 @@ Es el hecho de que su voz sonase tan increíblemente amable.
 [sha:213d0d767e81d7d789d2f3d90c892a07322ed4a1]{
 -- Page 205, Offset 6127.
 -- 「もうっ。こっちが真面目に訊いているんだから、ちゃんと答えるのが筋ってものでしょ。
-"Ey. Te estoy preguntando seriamente, lo mínimo que puedes hacer es responderme apropiadamente.
+"Ey. Te estoy preguntando seriamente, lo mínimo que puedes hacer es responder apropiadamente.
 }
 [sha:423bf3c2a85c733bb6597104d5f520185fd31276]{
 -- Page 205, Offset 6128.

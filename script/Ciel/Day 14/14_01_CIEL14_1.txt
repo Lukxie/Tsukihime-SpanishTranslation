@@ -416,7 +416,7 @@
 [sha:b2ed01a54a478e213645fd0bbd4e391de98776f5]{
 -- Page 24, Offset 37086.
 -- それでも、
--- TRANSLATION HERE
+Pero aún así―――
 }
 [sha:49dccb7b9cb1d8fc24cd350b8b27b12ed3556ac7]{
 -- Page 25, Offset 37087.

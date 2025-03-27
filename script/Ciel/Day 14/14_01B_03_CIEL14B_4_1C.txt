@@ -186,7 +186,8 @@
 [sha:276b4ef5cc677d0055cd4456564928823f1aebbf]{
 -- Page 52, Offset 40405.
 -- そうだろうとも。
--- TRANSLATION HERE
+// Tl oficial
+Seguro que lo es.
 }
 [sha:435efa103ee58eb2d063104a8ffcce9e1f7fa5ef]{
 -- Page 52, Offset 40406.
@@ -266,7 +267,7 @@
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 58, Offset 40421.
 -- つまり。
--- TRANSLATION HERE
+En otras palabras―――
 }
 [sha:9725e324ccef5a1c6f374aa5ef7d40610365abad]{
 -- Page 58, Offset 40422.
@@ -321,7 +322,7 @@
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 62, Offset 40432.
 -- 「“――――――”」
--- TRANSLATION HERE
+"――――――"
 }
 [sha:c225556f683ebbe5b97113edcded8388daf089df]{
 -- Page 62, Offset 40433.

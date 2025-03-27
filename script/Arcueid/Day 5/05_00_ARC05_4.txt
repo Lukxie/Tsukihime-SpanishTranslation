@@ -1,112 +1,115 @@
 [sha:a109852b6143674947e86027a8f5abc3cfa70ed0]{
 -- Page 10009, Offset 9396.
 -- 夜の９時を過ぎた頃、俺たちは公園に移動した。
--- TRANSLATION HERE
+Nos dirigimos al parque a las nueve y pico de la noche.
 }
 [sha:b6434394dd4758437db9a21ff394f535ad2a2d32]{
 -- Page 315, Offset 9397.
 -- 「大事なコトだから、もう一度だけ説明しておこうかな。
--- TRANSLATION HERE
+"Esto es bastante importante, así que quizá deba explicarlo otra vez.
 }
 [sha:a4190b2d5ffab28a5e99b5824cda60ccce91bd82]{
 -- Page 315, Offset 9398.
 -- 長く生きた死徒には、その在り方を武器にした“超抜能力”がある。
--- TRANSLATION HERE
+Los Apóstoles Muertos longevos tienen 'superpoderes' que convierten en arma su propia existencia.
 }
 [sha:ff88958eaf36e90941c37115c54261c22a25394c]{
 -- Page 315, Offset 9399.
 -- 吸血種に備わった基本的な能力とは別の、その個体が血を飲む事で持ってしまった“特別な呪い”みたいなものね」
--- TRANSLATION HERE
+Además de sus habilidades básicas como chupasangre, estos individuos pueden beber sangre para obtener algo parecido a una 'maldición especial'."
 }
 [sha:37791987e2d971f3276c3910a98d0d549e679c17]{
 -- Page 316, Offset 9400.
 -- 「ヴローヴはその域に達している死徒よ。
--- TRANSLATION HERE
+"Vlov es un Apóstol Muerto que ha llegado a ese nivel.
 }
 [sha:7a1a70380a0a64b2fbade04246b6cc00f366a2d4]{
 -- Page 316, Offset 9401.
 -- 死徒を倒すという事は、その超抜能力を<破|やぶ>るという事。
--- TRANSLATION HERE
+Derrotar a un Apóstol Muerto significa vencer a su superpoder.
 }
 [sha:ca302ba0d00c3287a2ae3b8cfb0ce72542e186bd]{
 -- Page 316, Offset 9402.
 -- あの炎を消す手段を獲得しないかぎり人間に勝ち目はない。だから―――わたしがヴローヴの呪いを壊すまで、志貴はアイツに近づかないでね」
--- TRANSLATION HERE
+Sin una forma de extinguir las llamas los humanos no tienen oportunidad contra Vlov.
+ Es por eso que necesito que estés alejado de él hasta que rompa su maldición."
 }
 [sha:0971ad639697657b6dbf5d757b667ca185b4e213]{
 -- Page 317, Offset 9403.
 -- 計画自体はいたってシンプルだ。
--- TRANSLATION HERE
+El plan en sí es bastante simple.
 }
 [sha:79e5c5e1f11a08eb65228675e192247822fb625a]{
 -- Page 317, Offset 9404.
 -- アルクェイドはここでヴローヴを誘き出す。
--- TRANSLATION HERE
+Arcueid se quedará aquí y atraerá a Vlov.
 }
 [sha:967a526ed18af2380cd278393f299739a59ed05c]{
 -- Page 317, Offset 9405.
 -- なんでも生体波長とやらを隠さずにいれば、吸血鬼同士には互いの位置が丸わかりなのだとか。
--- TRANSLATION HERE
+Aparentemente, los vampiros pueden localizarse entre ellos si no esconden su longitud de onda biológica... o algo así.
 }
 [sha:426642a9054454caa13e1ea25555561a19dfcc18]{
 -- Page 318, Offset 9406.
 -- ヴローヴは自分の波長を隠していないらしい。
--- TRANSLATION HERE
+Parece que Vlov no esconde su longitud de onda.
 }
 [sha:58ee87d81c3106d1138183ccc8b0b88509c141eb]{
 -- Page 318, Offset 9407.
 -- その気がないのか、単に出来ないのかは不明とのこと。
--- TRANSLATION HERE
+No se si es porque no le importa, o porque simplemente no puede.
 }
 [sha:83996a5542e7fd5bad41146964313f8683e602d6]{
 -- Page 319, Offset 9408.
 -- 事実として、ヴローヴが近づいてくれば、アルクェイドは事前にこれを察知できる。
--- TRANSLATION HERE
+De cualquier forma, si Vlov comienza a acercarse, Arcueid será capaz de detectarlo antes de que llegue.
 }
 [sha:bc0346c8cb64c82e1703b09e6a0feda951def481]{
 -- Page 319, Offset 9409.
 -- 一方、アルクェイドは波長を常時抑えているが、今は解放してヴローヴを挑発している。
--- TRANSLATION HERE
+Por otro lado, Arcueid normalmente suprime su longitud de onda,
+ pero ahora mismo está emitiendola a propósito para provocar a Vlov.
 }
 [sha:0720500700f04f0247706d83284cd78a65b0da4c]{
 -- Page 320, Offset 9410.
 -- ようは<誘蛾灯|ゆうがとう>だ。
--- TRANSLATION HERE
+En otras palabras, es como una trampa para polillas.
 }
 [sha:cb90076b2ff79a5ddc17674ed9874133aba10704]{
 -- Page 320, Offset 9411.
 -- アルクェイドという<灯|あか>りに、ヴローヴという<蛾|が>が誘われるのを待てばいい。
--- TRANSLATION HERE
+Todo lo que tenemos que hacer es esperar a que la polilla――Vlov――sea atraída por la luz――Arcueid.
 }
 [sha:6c2156623aa8768ea9fb92b84c3c58b47971982e]{
 -- Page 321, Offset 9412.
 -- あとは事前の打ち合わせ通り、
--- TRANSLATION HERE
+Tras eso, el plan es el mismo de antes.
 }
 [sha:3fb1572e3438021b040d13e1f3f13244b70514c6]{
 -- Page 321, Offset 9413.
 -- 俺は茂みに隠れて戦いを見守り、
--- TRANSLATION HERE
+Me esconderé en los arbustos y vigilaré la pelea desde lejos.
 }
 [sha:0afb495b12827078f975c33a5df6981fd6d91759]{
 -- Page 321, Offset 9414.
 -- アルクェイドがヴローヴを鎖で拘束したら物陰から飛び出し、
--- TRANSLATION HERE
+Cuando Arcueid atrape a Vlov con sus cadenas,
+ esa será la señal.
 }
 [sha:412a33c2b907b407168b082fa71c2d7503b23de4]{
 -- Page 321, Offset 9415.
 -- ヴローヴの『線』を切断する。
--- TRANSLATION HERE
+Saldré de las sombras, y cortaré sus 'líneas'.
 }
 [sha:04344b58cfede022096df950d131cc933a100108]{
 -- Page 322, Offset 9416.
 -- アルクェイドに緊張した様子はない。
--- TRANSLATION HERE
+Arcueid no muestra señales de nerviosismo.
 }
 [sha:f2984ce2f00b512ce814b61e0b7919518d1af8ee]{
 -- Page 322, Offset 9417.
 -- 退屈そうに虚空を見つめているだけだ。
--- TRANSLATION HERE
+Simplemente mira al cielo aburrida.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 323, Offset 9418.
@@ -116,132 +119,136 @@
 [sha:1be342c4105715d513b96165113849f6a1d1ba16]{
 -- Page 323, Offset 9419.
 -- けど俺はそうはいかない。
--- TRANSLATION HERE
+Pero no se puede decir lo mismo de mi.
 }
 [sha:41ab5affd8df474cc7c4ca1405dc6ebf2fe62727]{
 -- Page 323, Offset 9420.
 -- つい、<懐|ふところ>に忍ばせた<短刀|ナイフ>を握りしめる。
--- TRANSLATION HERE
+Mi mano aprieta inconscientemente el cuchillo escondido en mi bolsillo.
 }
 [sha:4632da07f950fca63e3e6a7c10a0f923ada700ce]{
 -- Page 324, Offset 9421.
 -- ……わかっている。
--- TRANSLATION HERE
+Nuestro plan no es infalible.
 }
 [sha:9c249b3d7a710bb2d21194d915fcd43e754cccb5]{
 -- Page 324, Offset 9422.
 -- この作戦にはいくつかの不確定要素がある。
--- TRANSLATION HERE
+Soy muy consciente de ello.
 }
 [sha:37a4428d4b1612399dcd144e796bfc1155e8296c]{
 -- Page 325, Offset 9423.
 -- 一つは隠れている俺を、ヴローヴが察知している場合。
--- TRANSLATION HERE
+Para empezar, cabe la posibilidad de que Vlov se de cuenta de que me estoy escondiendo.
 }
 [sha:e8e10f9a91b63966a93d9b43d9ed926506f371f6]{
 -- Page 325, Offset 9424.
 -- この可能性は極めて低いとアルクェイドは言うが、それでもゼロじゃない。
--- TRANSLATION HERE
+Aunque Arcueid ha dicho que la posibilidad de que esto pase es extremadamente baja, la realidad es que, no es cero.
 }
 [sha:82a7cba52995b8b3dddb3e9c1be9a8a4a10fdbdf]{
 -- Page 325, Offset 9425.
 -- そうなれば俺の安全は保証されない。ホテルの時のように、何もできないまま焼かれる危険性がある。
--- TRANSLATION HERE
+Si eso ocurre, no se puede garantizar mi seguridad. Corro el riesgo de morir en vano quemado, como la gente del hotel.
 }
 [sha:404820038a6bd0f8b1b7866cea151c3d6885d34c]{
 -- Page 326, Offset 9426.
 -- でも、それはいい。
--- TRANSLATION HERE
+Pero no pasa nada.
 }
 [sha:db8411f252ab755fb8c1cfa2ef3274bf4048bd31]{
 -- Page 326, Offset 9427.
 -- そのくらいのリスクは承知の上だ。
--- TRANSLATION HERE
+Es un riesgo que estoy dispuesto a tomar.
 }
 [sha:d60ca3b02ac2d2b91762404d88172fafe5705a34]{
 -- Page 326, Offset 9428.
 -- 問題はもう一つの可能性。
--- TRANSLATION HERE
+El verdadero problema es la otra posibilidad―――
 }
 [sha:ed6010a292334ac8a9211411770d2efd9080b640]{
 -- Page 326, Offset 9429.
 -- もしアルクェイドがヴローヴを拘束できない……つまり、あいつがヴローヴにやられてしまう場合だ。
--- TRANSLATION HERE
+La posibilidad de que Arcueid falle en inmovilizar a Vlov. En otras palabras, si Arcueid pierde.
 }
 [sha:4f6a078d056c55662d482ca15b667d064b19b4fd]{
 -- Page 327, Offset 9430.
 -- ……その時は、俺しかいない。
--- TRANSLATION HERE
+Si eso ocurre... todo estará en mis manos.
 }
 [sha:d3ecfccc0fd7c559cf3cc693ee66536ec9c5e797]{
 -- Page 327, Offset 9431.
 -- ヴローヴを止めるのも、アルクェイドを助けるのも、このナイフ一本にかかっている。
--- TRANSLATION HERE
+Recaerá en este cuchillo tanto detener a Vlov como salvar a Arcueid.
 }
 [sha:68cebf0b5cfca6d42577500cee0f495df16257b9]{
 -- Page 328, Offset 9432.
 -- あの吸血鬼を。
--- TRANSLATION HERE
+Puedo de verdad ir contra ese vampiro―――
 }
 [sha:ba97b1b7fb963fe2eef0add17027072a3e785dde]{
 -- Page 328, Offset 9433.
 -- あの<劫火|ごうか>を、俺ひとりで、本当に……？
--- TRANSLATION HERE
+Contra esas llamas――¿yo solo?
 }
 [sha:bc8f10a78184aeed1bce240951371a2c0c090dda]{
 -- Page 329, Offset 9434.
 -- それを思うと手足が震える。
--- TRANSLATION HERE
+Solo pensarlo hace que mis extremidades tiemblen.
 }
 [sha:9510d3e8af814e27190d00f8d7bba982badb129c]{
 -- Page 329, Offset 9435.
 -- ナイフを持つ指先が、痛いほど柄を握りしめる。
--- TRANSLATION HERE
+Estoy apretando el cuchillo tan fuerte que empieza a doler.
 }
 [sha:1bed0db013bcec37e9099ceb13b5f634de906987]{
 -- Page 329, Offset 9436.
 -- ……言いようのない恐れ。
--- TRANSLATION HERE
+Siento un miedo indescriptible...
 }
 [sha:7aad4485be7da45a376877a5752277ca3f7f863a]{
 -- Page 329, Offset 9437.
 -- それが何に起因するものなのか、俺自身把握できず―――
--- TRANSLATION HERE
+Ni yo mismo sé lo que causa este sentimiento―――
 }
 [sha:54e9feb8577be56e1346f9d629ec980f1302799b]{
 -- Page 330, Offset 9438.
 -- 「怖いの、志貴？」
--- TRANSLATION HERE
+"¿Shiki, estás asustado?"
 }
 [sha:08a9da9f70ab174d7e81afafe993c0be292fbd32]{
 -- Page 330, Offset 9439.
 -- 気がつくと、アルクェイドのヤツが俺の正面に立っていた。
--- TRANSLATION HERE
+Al salir de mis pensamientos, Arcueid está de pie frente a mi.
 }
 [sha:5ae3d81b012d7bc28d0659606dff22a7e0b8acca]{
 -- Page 330, Offset 9440.
 -- ……情けない。震えているのがバレたようだ。
--- TRANSLATION HERE
+Debe haber notado que estaba temblando.
+ Dios, que patético soy...
 }
 [sha:810a066feb712b686621b805e9eab380550f7414]{
 -- Page 331, Offset 9441.
 -- 「ああ、メチャクチャ怖い。あの吸血鬼が近づいてくるかと思うだけで泣きたくなる」
--- TRANSLATION HERE
+"Sí, me estoy cagando encima.
+ El mero hecho de pensar que ese vampiro se pueda estar acercando me tiene al borde de las lágrimas."
 }
 [sha:a8480e534e1373ec162d0d7f2549b7b33e78c78b]{
 -- Page 331, Offset 9442.
 -- 「？　志貴、泣いてないけど？」
--- TRANSLATION HERE
+// Modificado para que tenga sentido en español
+"¿Eh? Pero Shiki, ¿por qué no te veo llorar?"
 }
 [sha:4552496b301a59864a6fd725a8b8ecf39399bcf9]{
 -- Page 331, Offset 9443.
 -- 「必死に我慢してんだよ。わかれ、バカ」
--- TRANSLATION HERE
+"Eso es porque me estoy aguantando, obvio.
+ Lee un poco el ambiente, idiota."
 }
 [sha:a07a7603a48648cccfb495fc18a6272a9068436a]{
 -- Page 332, Offset 9444.
 -- ほんとに無神経なヤツである。少しはこっちの意地を分かってほしい。
--- TRANSLATION HERE
+Es muy insensible. Estaría bien que pudiera entenderme, aunque solo sea un poco.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 333, Offset 9445.
@@ -251,32 +258,32 @@
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 333, Offset 9446.
 -- しかし。
--- TRANSLATION HERE
+En vez, esto es lo que me toca.
 }
 [sha:c64b2e74391360b4437d36b9201fe32055e687b8]{
 -- Page 333, Offset 9447.
 -- なにが不満なのか、アルクェイドは俺の返答がお気に召さなかった様子だ。
--- TRANSLATION HERE
+No estoy seguro de que parte de lo que acabo de decirla la ha sacado de quicio, pero parece estar molesta.
 }
 [sha:b52f95a3f3666e4d0bfe58c5eb75dcb2f9e1f0ee]{
 -- Page 334, Offset 9448.
 -- 「ところで、私もその吸血鬼なんだけど」
--- TRANSLATION HERE
+"Por si no lo sabías, cómo el, yo tambíen soy un vampiro."
 }
 [sha:372141908e42903237aaf914ab79fd55216f95ea]{
 -- Page 334, Offset 9449.
 -- 「ああ。知ってるよ、何度も聞いた」
--- TRANSLATION HERE
+"Sí, lo sé. Me lo has dicho un millón de veces."
 }
 [sha:797cd41a3ae3f3c701722cc63a859ed352652a9a]{
 -- Page 335, Offset 9450.
 -- 「だーかーらー、吸血鬼である私が恐くないの？
--- TRANSLATION HERE
+"Como he dicho, %{i}yo también soy un vampiro%{/i}. ¿No deberías temerme a mí también?
 }
 [sha:2e9010dbe3c4fe6644c3b60fd51088abbec6b0ac]{
 -- Page 335, Offset 9451.
 -- 今までのあなたの定義からすると、生き物として嫌悪の対象になると思うんだけど」
--- TRANSLATION HERE
+Teniendo en cuenta lo que has dicho hasta ahora, esperaría que pensases de mí como un monstruo desagradable."
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 335, Offset 9452.
@@ -286,145 +293,154 @@
 [sha:fddde5b81387ba3575c56dc959ab3c09ed1ba95e]{
 -- Page 336, Offset 9453.
 -- ……指摘されて、ちょっと驚いた。
--- TRANSLATION HERE
+Que raro... no me había dado cuenta hasta que lo ha dicho.
 }
 [sha:42fd8c436e18c534235726a47f3ac9c9af4b3fec]{
 -- Page 336, Offset 9454.
 -- それはその通り……なんだけど……。
--- TRANSLATION HERE
+Tiene toda la razón... pero...
 }
 [sha:89e873e2bb498a354656d102be1a6ca3658e6f61]{
 -- Page 337, Offset 9455.
 -- 「なんか、おまえは別。だって血を吸った事ないんだろ。ならいい。吸血鬼だろうと何だろうと、俺たちに手を出さないでいてくれるなら、それでいいんだ」
--- TRANSLATION HERE
+"Por alguna razón... siento que eres distinta.
+ Después de todo, ni siquiera has bebido sangre antes, osea que no importa.
+ Que seas un vampiro u otra cosa, mientras no nos pongas la manos encima, no pasa nada."
 }
 [sha:139b81906484218ab8f22bddac1837a8f7b15412]{
 -- Page 338, Offset 9456.
 -- 「なるほど。そういう考えもありなんだ」
--- TRANSLATION HERE
+"Ya veo. Esa es una manera de verlo."
 }
 [sha:46799c69025e33f7954627edc3f217785a6e6548]{
 -- Page 338, Offset 9457.
 -- 納得がいったのか、ふーん、とアルクェイドは他人事のように流していた。
--- TRANSLATION HERE
+No se si lo ha entendido o no, pero hace un sonido evasivo y deja el tema.
 }
 [sha:62e6a2d9fbe85f13223ca9f1af927e0574ded7b9]{
 -- Page 339, Offset 9458.
 -- 時計の針が10時を指す。
--- TRANSLATION HERE
+Las manilla del reloj marca las diez.
 }
 [sha:a834825558544ec372aa9dc8fc7352121c46b6dc]{
 -- Page 339, Offset 9459.
 -- アルクェイドによれば、このあたりから吸血鬼の活動時間になるらしい。
--- TRANSLATION HERE
+De acuerdo con Arcueid, ahora es cuando los vampiros son más activos.
 }
 [sha:5be267c6d61236ee1374ce17510d6d1e9fe22740]{
 -- Page 340, Offset 9460.
 -- ……ヴローヴが地上に出てくる。
--- TRANSLATION HERE
+Vlov se mostrará en la superficie...
 }
 [sha:4936a52e4281ab26fbdd63922c1cf2c3f83832de]{
 -- Page 340, Offset 9461.
 -- どこにヤツの根城があるのかは知らないが、目覚めたヴローヴはアルクェイドの気配を感知して、この公園を目指す筈だ。
--- TRANSLATION HERE
+No sabemos dónde está su fortaleza, pero estoy seguro que cuando despierte, sentirá la presencia Arcueid y vendrá hacia nosotros.
 }
 [sha:1ae63f24a0f2dd5ff14809a38210a5ec720d8f1a]{
 -- Page 341, Offset 9462.
 -- 「――――――正気？」
--- TRANSLATION HERE
+"¿―――Está loco?"
 }
 [sha:117da6980d4c88b2d484650c1a817c5f68af0ed1]{
 -- Page 341, Offset 9463.
 -- アルクェイドの口調が変わる。
--- TRANSLATION HERE
+El tono de Arcueid cambia.
 }
 [sha:c0734d1e6405d90cb7bf9d7fb1f63908b97f63c2]{
 -- Page 341, Offset 9464.
 -- 激しい嫌悪をこめた呟きと共に、アルクェイドは北……駅のある方角を睨み付けた。
--- TRANSLATION HERE
+Murmurando con un asco intenso, mira al norte――en dirección a la estación.
 }
 [sha:1a49c5aa2a8c2ab026e970b93e0eff80ea1d04a8]{
 -- Page 342, Offset 9465.
 -- 「アルクェイド……？」
--- TRANSLATION HERE
+"¿Arcueid...?"
 }
 [sha:709fc5a208dc0e95631e8a78c2f7e518d9a3c640]{
 -- Page 342, Offset 9466.
 -- 「信じられない―――アイツ、本当に祖の<一角|ひとり>なの？」
--- TRANSLATION HERE
+"No me lo puedo creer.
+ ¿%{i}De verdad%{/i} es uno de los Ancestros?"
 }
 [sha:ed9cc5b09fea443411758e88349da2f1fe9d419f]{
 -- Page 343, Offset 9467.
 -- アルクェイドが見ている方角に視線を向ける。
--- TRANSLATION HERE
+Me giro para mirar donde Arcueid mira.
 }
 [sha:0ae624b624dbbb2973e89904357fc7153aa7c783]{
 -- Page 343, Offset 9468.
 -- あれは……煙か？
--- TRANSLATION HERE
+Eso es... ¿humo?
 }
 [sha:214ef82fc4e9344c8c52ea2812f5251ce580d90c]{
 -- Page 343, Offset 9469.
 -- 空に煙が上がっている。
--- TRANSLATION HERE
+Hay un pilar de humo levantándose en el horizonte.
 }
 [sha:3c8b3452e8ee8ad639a183181389e86a473ed227]{
 -- Page 343, Offset 9470.
 -- どこかで火事でも起き―――いや、待て。
--- TRANSLATION HERE
+Debe haber un fuego en algu――no, un momento.
 }
 [sha:3a9c6f2a770ea52420c242bf96e78120d93cb171]{
 -- Page 343, Offset 9471.
 -- <火|・><災|・>だと……！？
--- TRANSLATION HERE
+¡¿Un %{i}fuego%{/i}?!
 }
 [sha:d121651bde222cd6d8558ccd845bbbeff4fecf25]{
 -- Page 344, Offset 9472.
 -- 「アルクェイド、あれ、まさか……!?」
--- TRANSLATION HERE
+"Arcueid, ¡¿No me digas que eso es―――?!"
 }
 [sha:bfb428b620d8a25a373d070f59fb3c7ff683ca76]{
 -- Page 344, Offset 9473.
 -- 「ヴローヴよ。無差別に人を襲ってる」
--- TRANSLATION HERE
+"Es Vlov. Está atacando a la gente indiscriminadamente."
 }
 [sha:b472a193fc36eb083425c17437c69c8f9edbc97b]{
 -- Page 345, Offset 9474.
 -- 「正気が欠けている、なんて甘かった。アイツは死者と変わらない。血が足りなければ目の前の人間から補充するケダモノだった。文明社会―――この時代の人間のルールを、まるで把握していない」
--- TRANSLATION HERE
+"Decir que está demente no lo hace justicia.
+ He sido demasiado optimista.
+ No es diferente a los Muertos.
+ No es más que una bestia que se alimenta de cualquiera a la vista cuando le falta sangre.
+ Es como si fuera totalmente incapaz de entender las reglas humanas de esta era――de la sociedad civilizada."
 }
 [sha:9ccdbe19e8d089c41c0d97fc3e9593f4cd360ad4]{
 -- Page 346, Offset 9475.
 -- 遠くで大きな爆発音がした。
--- TRANSLATION HERE
+Escucho una gran explosión a lo lejos.
 }
 [sha:6ab0587cc72c17d26ed327687d280d4d9c8914e8]{
 -- Page 346, Offset 9476.
 -- 夜空に立ち上る黒煙は勢いを増していく。
--- TRANSLATION HERE
+El humo ascendente continúa ennegreciendo el cielo nocturno.
 }
 [sha:fbcd878da3cc6b207cf53e043a563b34e9fdb123]{
 -- Page 346, Offset 9477.
 -- まずい。ホテルの時の比じゃない。人の集まる繁華街にアイツが現れれば、犠牲のケタが違う……！
--- TRANSLATION HERE
+Mierda. Esto es mucho peor que lo que pasó en el hotel.
+ Si aparece así en un área concurrida del centro,
+ ¡el número de bajas será de varios órdenes de magnitud mayor!
 }
 [sha:9e36f17e2755dd352f4e3e0cc86b2b1760bd791b]{
 -- Page 347, Offset 9478.
 -- 「アルクェイド……！」
--- TRANSLATION HERE
+"¡Arcueid!"
 }
 [sha:a5eccd068aaee68b511515c6fa022aad99beab29]{
 -- Page 347, Offset 9479.
 -- 「分かってる。急ぎましょう、志貴」
--- TRANSLATION HERE
+"Lo sé. Shiki, tenemos que darnos prisa."
 }
 [sha:27064977416abf97dc96f9b9e4a3095704aadad2]{
 -- Page 348, Offset 9480.
 -- 駅前に向かって走りだす。
--- TRANSLATION HERE
+Empiezo a correr hacia la estación.
 }
 [sha:5750eeaa3e753041cfbad85f0ef2532b6110497a]{
 -- Page 348, Offset 9481.
 -- 一体、何がどうなっていやがるんだ……!?
--- TRANSLATION HERE
+¡¿Qué demonios pasa aquí?!
 }

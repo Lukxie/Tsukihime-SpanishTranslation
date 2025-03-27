@@ -1,60 +1,60 @@
 [sha:8698057db19d1fc1d7a151c38074dc82413bc1bc]{
 -- Page 10017, Offset 9968.
 -- アルクェイドは言った。
--- TRANSLATION HERE
+Arcueid dijo algo antes.
 }
 [sha:7d2ad7c075505e8e7f652d5df083672e971425b0]{
 -- Page 10017, Offset 9969.
 -- 吸血鬼を倒すという事は、特異能力を封じる事だと。
--- TRANSLATION HERE
+Que para derrotar a un vampiro, debes sellar su habilidad sobrenatural.
 }
 [sha:128e0e5a06768c9171ee83ae0344ed21840ab862]{
 -- Page 10017, Offset 9970.
 -- なら、俺たちは間違えている。
--- TRANSLATION HERE
+En ese caso, hemos cometido un error.
 }
 [sha:dd30df9a39651e819781ab9b5f3f21662e97caad]{
 -- Page 10017, Offset 9971.
 -- そうじゃない。
--- TRANSLATION HERE
+No era eso.
 }
 [sha:705a97c18737dfeaf90dd9f0184e8d788f624481]{
 -- Page 10017, Offset 9972.
 -- あいつの異常性はソレじゃなくて―――
--- TRANSLATION HERE
+Esa no era su habilidad―――
 }
 [sha:258c921eb126976a3ded3b653b3d78e83a987558]{
 -- Page 514, Offset 9973. Mods: @k, @e.
 -- 「違う！
--- TRANSLATION HERE
+"¡No es eso!
 }
 [sha:91a67e94732760ed733be16c74ad2a52933fbe37]{
 -- Page 514, Offset 9974. Glued. Mods: @x.
 -- 逆なんだ、アルクェイド……！」
--- TRANSLATION HERE
+¡Arcueid, lo has entendido al revés!"
 }
 [sha:dec8b0f01bdd48e2693f8312193b34d74137c388]{
 -- Page 514, Offset 9975.
 -- 地上から、遠く離れた彼女に向けて叫ぶ。
--- TRANSLATION HERE
+Desde lo alto del agujero, la grito a lo lejos.
 }
 [sha:b295f878348aac5f23c9a5ec66412addcbd5ed5a]{
 -- Page 514, Offset 9976.
 -- この距離から叫んでも、もう間に合わない。
--- TRANSLATION HERE
+A esta distancia es demasiado tarde, incluso si grito.
 }
 [sha:b56bb7178ea3f2d90bd0e0c1e116087caaafa885]{
 -- Page 514, Offset 9977.
 -- それでも叫ばずにはいられなかった。
--- TRANSLATION HERE
+No puedo evitar gritar de todas formas.
 }
 [sha:702c35304211b6f06d5f8003786150d79628a6b1]{
 -- Page 515, Offset 9978.
 -- 強力な個体が保有する、その在り方を武器にした“超抜能力”。
--- TRANSLATION HERE
+Los individuos poderosos tienen 'superpoderes' que hacen de su propia existencia un arma.
 }
 [sha:1278dbc47a9af3e5c5b4646d22c9477c91953918]{
 -- Page 515, Offset 9979.
 -- ヴローヴにとってそれは高温ではなく―――
--- TRANSLATION HERE
+Pero el superpoder de Vlov no es calor: es―――
 }

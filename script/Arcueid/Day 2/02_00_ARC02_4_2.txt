@@ -36,7 +36,7 @@ Toco la puerta.
 [sha:a7e5bd88c325bf068e7f52ba82237538a12b6157]{
 -- Page 243, Offset 3254.
 -- 「琥珀さん、います？」
-"Kohaku-san, ¿estas ahí?"
+"Kohaku-san, ¿estás ahí?"
 }
 [sha:5b359886200fc2312cc45f52edf9b8a64cf2cc8b]{
 -- Page 244, Offset 3255.
@@ -61,7 +61,7 @@ Tras dos minutos, ella sale.
 [sha:8330531635d35112a217a904272d1947381c05ca]{
 -- Page 245, Offset 3259.
 -- どうしたんです、こんな時間に？」
-¿Que estás haciendo aquí a estas horas?"
+¿Qué estás haciendo aquí a estas horas?"
 }
 [sha:c174edddeb88bcff3d5f2ad271d2ac3cff34a2fa]{
 -- Page 245, Offset 3260.
@@ -177,7 +177,7 @@ La mitad está cubierta en tatami,
 [sha:dd26800398de6827d6b9a255bb23c372bac402cc]{
 -- Page 254, Offset 3281.
 -- 一方、もう半分は洋風ではあるものの質素な造りで、洋館の一室というより学校の保健室を思わせる。
-La otra mitad de la habitación, mientras tanto, es occidental, pero tambíen adornada ligeramente.
+La otra mitad de la habitación, mientras tanto, es occidental, pero también adornada ligeramente.
  Es más parecido a una enfermería escolar que a una habitación de mansión.
 }
 [sha:9be26f0e439c0c37ba6a43aaf27f5f75c96a9a1b]{
@@ -235,7 +235,6 @@ Es para guardar medicina, ¿verdad?
 -- ……きっとそうだ。有間の家で暮らしていた頃、お世話になっていた町医者の爺さんの部屋にあれと同じ箪笥があった。
 Estoy bastante seguro.
  El viejo doctor que me solía cuidar cuando vivía con los Arima tenía un armario justo como este en su casa.
- 
 }
 [sha:70cfdc4f7bb96c325b46209efe4524f85a182ead]{
 -- Page 259, Offset 3293.
@@ -251,7 +250,7 @@ No, no puede serlo.
 [sha:56257d15049b3a25c76613e50ec93aa82197fa8e]{
 -- Page 260, Offset 3295.
 -- ふと視線を逸らすと、座布団の上にはテレビのリモコンがあった。
-Mirando alrededor, encuentro un mando a distancia en el cojín. 
+Mirando alrededor, encuentro un mando a distancia en el cojín.
 }
 [sha:51f7d9be14c6feab115974d1b9b289f6086264e2]{
 -- Page 260, Offset 3296.
@@ -311,7 +310,7 @@ Tienes una personalidad tan relajada que asumía que eras del tipo que lee despu
 [sha:0bb70cf8a6c5f20136143cbed17c61a6a51188c7]{
 -- Page 265, Offset 3307.
 -- 「残念ながら、そんな殊勝な心がけはないんです。
-"Desafortunadamente, no tengo tales inclinaciones dignas de alago.
+"Desafortunadamente, no tengo tales inclinaciones dignas de elogio.
 }
 [sha:fe6e148cd50d4e76b2c2ddb3b903c020a722c04b]{
 -- Page 265, Offset 3308.
@@ -346,7 +345,7 @@ Ayer al recibirte me sorprendí bastante cuando te vi con ellas."
 [sha:2b98ccd04151145ec55bccd5eb364e580f54b43f]{
 -- Page 267, Offset 3314.
 -- 「だって、秋葉さまは志貴さんが眼鏡をかけているなんて、一度も仰りませんでしたから。
-"Bueno, Akiha-sama nunca me dijo que llevabaras gafas.
+"Bueno, Akiha-sama nunca me dijo que llevabas gafas.
 }
 [sha:7240548b30025cf1c7ea5da5061abb52b0adf1ad]{
 -- Page 267, Offset 3315.
@@ -388,7 +387,7 @@ Es totalmente cierto que hay algo mal con mis ojos, pero mi vista es mejor que e
 [sha:3bbe5904443396bdb0ae195980ff026cbce2928a]{
 -- Page 270, Offset 3322.
 -- わたしだって本よりテレビのほうが楽しいですもの。
-Yo también disfruto mas viendo la tele que leyendo libros.
+Yo también disfruto más viendo la tele que leyendo libros.
 }
 [sha:411c79435495c920acb4834391516206c0d5ed91]{
 -- Page 270, Offset 3323.
@@ -493,7 +492,7 @@ Supongo que están restringiendo la información para evitar que criminales imit
 -- Page 277, Offset 3342.
 -- 「怖い話ですねー。お巡りさんは何をしているんでしょう」
 "Realmente espantoso, ¿no?
- ¿Qué esta haciendo la policía siquiera?"
+ ¿Qué está haciendo la policía siquiera?"
 }
 [sha:6cdfdb0fada61807ce63335d8af9b8bfe8dbea28]{
 -- Page 277, Offset 3343.
@@ -566,10 +565,10 @@ Sin importar si la especulación de Kohaku-san sea correcta o no,
 [sha:a23375f5f23fd4631265541ec55e723669db0d18]{
 -- Page 282, Offset 3355.
 -- ……仮にそいつが通り魔のフリをして計画的に事を進めているんなら、殺された人たちは無関係に見えて、やっぱり繋がりがあるとか？」
-Si solo estuvieran pretendiendo ser un asesino en busca de adrenalina,
- y realmente estuvieran actuando de acuerdo a un plan secreto,
- ¿entonces no sugeriría eso que aunque las víctimas no parezcan estar relacionadas de ninguna forma,
- realmente tienen algo que las relaciona?"
+Si solo pretendiera ser un asesino en busca de adrenalina,
+ y en realidad estuviera actuando de acuerdo a un plan secreto,
+ ¿entonces eso no sugeriría que aunque las víctimas no parezcan estar relacionadas de ninguna forma,
+ en realidad tienen algo que las relaciona?"
 }
 [sha:1b1df388fe44b203a8b2162ec229d04a3c5e5e46]{
 -- Page 283, Offset 3356.
@@ -630,7 +629,7 @@ Que manera tan clara de pensar.
 -- そう割り切るには生々しすぎる話題だけど、ニュースで知る事件なんて、そんなものなのかもしれない。
 // suena forzado
 Pero diría que es un asunto un poco espeluznante como para descartarlo tan fácilmente,
- pero quizá así es como es con los indicidentes de los que nos enteramos por las noticias.
+ pero quizá así es como es con los incidentes de los que nos enteramos por las noticias.
 }
 [sha:0dd77b5be91d593d6bf3336c23e28f28092c6489]{
 -- Page 288, Offset 3367.

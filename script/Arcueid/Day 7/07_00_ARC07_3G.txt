@@ -1,47 +1,52 @@
 [sha:d02478af9f2bcaf475e86c55ea711a5d013f1832]{
 -- Page 10014, Offset 17636.
 -- アルクェイドとの握手……一方的に掴まれていただけとも言う……から解放された時、時刻は夜の９時にさしかかっていた。
--- TRANSLATION HERE
+Para cuando Arcueid me suelta la mano, son casi las nueve en punto.
 }
 [sha:1e773c4171d3270e6748f250899b55e819c2d8e5]{
 -- Page 427, Offset 17638.
 -- 帰ってからの事を考えると頭が痛いが、協力すると決めた以上、今夜はまだ帰れない。
--- TRANSLATION HERE
+// Tl oficial
+Me duele la cabeza con solo pensar en lo que ha pasará cuando vuelva a casa,
+ pero eso tendrá que esperar ahora que he decidido ayudarla.
 }
 [sha:6b8d2773e63974e1c41094b0fe68afc3668999a3]{
 -- Page 427, Offset 17639.
 -- 吸血鬼退治はここから仕切り直しだ。
--- TRANSLATION HERE
+De aquí en adelante, comienza la verdadera exterminación vampírica.
 }
 [sha:b48b9b57cf3440a74a01118da78405b569fd5278]{
 -- Page 428, Offset 17640.
 -- 「……それで、これからどうするんだ。
--- TRANSLATION HERE
+"Entonces, ¿ahora qué?
 }
 [sha:4b365d2fb64afcd826445122116003fe683566a3]{
 -- Page 428, Offset 17641.
 -- やっぱり街を歩いて死者を探すのか？」
--- TRANSLATION HERE
+¿Asumo que seguiremos paseando por la ciudad buscando más Muertos?"
 }
 [sha:b90491152a1f83394105db420c22a83a31189db1]{
 -- Page 429, Offset 17642.
 -- 「そうね。この街にいる死者を全滅させれば、親基の吸血鬼は出てこざるをえなくなるでしょうし。
--- TRANSLATION HERE
+"SÍ.
+ Si eliminamos a todos los Muertos de la ciudad
+ el vampiro progenitor no tendrá más remedio que salir de su escondite.
 }
 [sha:59a321ec1c69d659012d6be25b1746fb4dcac460]{
 -- Page 429, Offset 17643.
 -- 今はそれぐらいしか手はないけど……」
--- TRANSLATION HERE
+Eso es todo lo que podemos hacer por ahora, pero..."
 }
 [sha:1bb6dbf0c347fe42e895824ac2f487169a868459]{
 -- Page 429, Offset 17644.
 -- それでもいい？　とアルクェイドは視線で問うてくる。
--- TRANSLATION HERE
+Arcueid me mira, como si preguntara si estoy realmente de acuerdo con ello.
 }
 [sha:78b0e62ccebdeae07ee123054cdb5e66581c8927]{
 -- Page 430, Offset 17645.
 -- 「いいもなにも、俺はアルクェイドに付き合うだけだ。餅は餅屋って言うし、専門家に従うよ」
--- TRANSLATION HERE
+"No tienes que preguntar, te seguiré donde quiera que vayas.
+ Tu eres la experta después de todo, así que solo dime que hay que hacer."
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 431, Offset 17646.
@@ -51,17 +56,19 @@ Sin embargo...
 [sha:0a4dea956a2dbfd6e8fb38265e7f2d4150535976]{
 -- Page 431, Offset 17647.
 -- アルクェイドのやつ、今度はニマニマと余裕そうに俺を観察している。
--- TRANSLATION HERE
+Se me queda mirando,
+ con una amplia sonrisa en su rostro.
 }
 [sha:7460368af67ecba930bb438d740f792947fc1249]{
 -- Page 432, Offset 17648.
 -- 「なんだよ。おかしなこと言ったか、俺」
--- TRANSLATION HERE
+"¿Qué? ¿He dicho algo raro?"
 }
 [sha:aa18decd0d25ae7f4d64e2a27560a9fa39946f75]{
 -- Page 432, Offset 17649.
 -- 「うん。志貴、やけに素直だなぁって」
--- TRANSLATION HERE
+// Tl oficial
+"No. Solo me sorprende lo obediente que eres."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 432, Offset 17650.
@@ -71,142 +78,164 @@ Sin embargo...
 [sha:8a3666ce93f52745b52474d5b14fb587a904a6c1]{
 -- Page 432, Offset 17651.
 -- ……これからはもっと乱暴にいこう。
--- TRANSLATION HERE
+Quizá tenga que ser un poco más brusco de ahora en adelante...
 }
 [sha:01f9c3b4ac461d4d1e590f5d84032cbd6e431b79]{
 -- Page 432, Offset 17652.
 -- こいつを調子に乗せると、またとんでもない無茶な要求をしてくる気がする。
--- TRANSLATION HERE
+Tengo la sensación de que si no pongo límites
+ me volverá a pedir algo excesivo de nuevo.
 }
 [sha:5a1d33117c2b9fbffa09446fcf1f37c796d98f33]{
 -- Page 433, Offset 17653.
 -- 「行くぞ。街を回ればいいんだろ。さっきの高架線下とか、もう一度調べて見るか？」
--- TRANSLATION HERE
+"Vamos.
+ Solo tenemos que deambular por la ciudad, ¿no?
+ ¿Volvemos al paso de antes a echarle un vistazo?"
 }
 [sha:a66a3b60b58c42c5e28f510298bae370249b85a1]{
 -- Page 434, Offset 17654.
 -- 「ううん、あの区域はもういいわ。
--- TRANSLATION HERE
+"No, no hay necesidad de volver allí.
 }
 [sha:0f1fd02a5802a00fe3fb50d5160c8cb341219416]{
 -- Page 434, Offset 17655.
 -- 死者は互いに食い合わないよう、犠牲者の数を一区間に集中させないよう、それぞれ活動ルートを定めているの。
--- TRANSLATION HERE
+Cada Muerto está asignado a una ruta que no se superpone con otras,
+ para tanto prevenir que intenten atacarse entre ellos
+ como para asegurarse de que las víctimas no se concentren en un mismo sitio.
 }
 [sha:4f52509ce9331e8b529836ace535f5c3cf151cc8]{
 -- Page 434, Offset 17656.
 -- 一晩に食事をさせる死者の数は決まっている。今夜はさっきので打ち止めだと思うけど……せっかく志貴がいるんだし、もうちょっと探索してみましょうか」
--- TRANSLATION HERE
+El número de Muertos que sale a alimentarse cada noche está planeado de antemano.
+ Estoy bastante segura que el de antes era el último, pero...
+ Ya que estás aquí, podríamos buscar un poco más."
 }
 [sha:fd27beb2306789201d7b6ce2dbae109dfc752fca]{
 -- Page 435, Offset 17657.
 -- 「……互いに食い合わないように、か……本格的に統率されてるんだな。もっと無差別なものかと思った」
--- TRANSLATION HERE
+"Todo está planeado para que no se coman entre ellos...
+ Me sorprende lo bien organizado que está. Me daba la impresión de que actuaban aleatoriamente."
 }
 [sha:7d9c4186797dc7b4c395327a5c2f2c8ae964062e]{
 -- Page 436, Offset 17658.
 -- 「親基の吸血鬼にしてみれば血液の採集は娯楽じゃなくて、生存するための必要作業、仕事だもの。ルーチンワークを良しとするのよ」
--- TRANSLATION HERE
+"Bueno, piénsalo desde la perspectiva del progenitor.
+ No están recolectando sangre por diversión, es un requerimiento indispensable para que sigan existiendo.
+ Es trabajo, da por hecho que valoran consistencia y fiabilidad."
 }
 [sha:91425b1d5d44b30403db738299bdff7ea27f0fe5]{
 -- Page 437, Offset 17659.
 -- 「貴重な労働力ってワケか。でも、それだと向こうも手を打ってこないか？
--- TRANSLATION HERE
+"Hmm, así que los Muertos son trabajadores bastante cruciales.
+ Aunque, si ese es el caso, ¿no empezará el enemigo a implementar contramedidas?
 }
 [sha:2040599f54fc2e3e4df9ae14054bb6ecea519f3b]{
 -- Page 437, Offset 17660.
 -- アルクェイドが数を減らしているんだから、ここから先は増員させるか、あるいは、死者を引っ込めて姿を隠すとか……」
--- TRANSLATION HERE
+Como has estado agitando al rebaño,
+ ¿no crees que empezará a mandar más?
+ O quizá hará que todos los Muertos se retiren y se escondan..."
 }
 [sha:71883943066c948891798eda41d1c04c8a2989ea]{
 -- Page 438, Offset 17661.
 -- 「基本的には“出し渋る”方でしょうね。
--- TRANSLATION HERE
+// Tl oficial
+"Generalmente escogen la opción más tacaña.
 }
 [sha:73a9019e8aedb7e3e262aef83b7436511d00a438]{
 -- Page 438, Offset 17662.
 -- けど、吸血鬼である以上、どうしても他者から血や精を搾取しないと生存していられない。
--- TRANSLATION HERE
+Dicho eso, como vampiros, si quieren sobrevivir no tienen más opción que extraerle la sangre y energía a la gente.
 }
 [sha:1a309e275f7aaedd1295042062adca34fc2895b6]{
 -- Page 438, Offset 17663.
 -- 親基はわたしに狙われていると判っていても、最低限の食料を得る為に死者を出すしかないってわけ」
--- TRANSLATION HERE
+Es por eso que incluso si el progenitor es consciente de lo persigo
+ aún tiene que mandar sus Muertos para al menos subsistir."
 }
 [sha:5599af88891f6a10c967bbece2e2a2b0af4a0991]{
 -- Page 439, Offset 17664.
 -- ……なるほど。
--- TRANSLATION HERE
+Ya veo...
 }
 [sha:52d736738802edcd699e965eec38b6abfac8abc4]{
 -- Page 439, Offset 17665.
 -- アルクェイドがやっている事は<兵糧|ひょうろう>攻めだったのか。
--- TRANSLATION HERE
+Arcueid quiere matarlos de hambre.
 }
 [sha:328d6486dda31834f4fa1472c070123510266eae]{
 -- Page 440, Offset 17666.
 -- この街のどこかで眠っている親を見つける事は困難だ。
--- TRANSLATION HERE
+Averiguar dónde se esconde el progenitor sería muy difícil.
 }
 [sha:c5a1c6d2af46ff8c5c7e9decda0b2439e45d5059]{
 -- Page 440, Offset 17667.
 -- なので、探し出すのではなくいぶり出す。
--- TRANSLATION HERE
+En vez de buscarle, planea atraerle.
 }
 [sha:bd68d7f1bf13b1c9b9acd623cbe07b8a7507a58c]{
 -- Page 440, Offset 17668.
 -- 生きていく為に必要な労働力・栄養源を断たれた親は、最終的に自ら行動せざるを得ない。
--- TRANSLATION HERE
+Separarle de sus trabajadores, y por extensión de la nutrición que necesita para vivir.
+Al final el progenitor no tendrá más remedio que hacerlo el mismo.
 }
 [sha:de44f784470017d530eb26b282d6956f515b60e1]{
 -- Page 441, Offset 17669.
 -- そして動きだしさえすれば、アルクェイドは吸血鬼の気配を感知できる。
--- TRANSLATION HERE
+En cuanto haga su movimiento
+ Arcueid será capaz de sentir su presencia.
 }
 [sha:878dfdae29fbb1f38d2d0057bb9c52619ca02429]{
 -- Page 441, Offset 17670.
 -- ……吸血鬼退治はそこからが本番だ。
--- TRANSLATION HERE
+Y entonces empezará la caza del vampiro.
 }
 [sha:8acfc72078bb8fe57c79375bbee55f9d94c7093a]{
 -- Page 441, Offset 17671.
 -- ヴローヴと殺し合った時のように、俺たちは正面から、この事件の元凶を駆逐できる。
--- TRANSLATION HERE
+// Tl oficial
+Vamos a cortar esto de raíz,
+ tal y como hicimos con Vlov.
 }
 [sha:59f8ef16aa48bd01e33881363314b8d64f45e99a]{
 -- Page 442, Offset 17672.
 -- 「状況は分かった。とにかく夜になったら街を歩き回って、まだ活動している死者を見つければいいんだな」
--- TRANSLATION HERE
+Entiendo la situación.
+ Cada noche patrullaremos la ciudad y buscaremos cualquier Muerto activo que ande por ahí, ¿correcto?"
 }
 [sha:d9ebfc4f1f9c8c366fb0e09a14c15a1ab99968fe]{
 -- Page 443, Offset 17673.
 -- 「ええ。それで、志貴。あなたには眼鏡を外して付いてきてほしいんだけど、いい？」
--- TRANSLATION HERE
+"Sí. Y respecto a eso, Shiki――
+ ¿estarías dispuesto a quitarte las gafas mientras me acompañas?"
 }
 [sha:40fbacbab297c4bab8710022dfd0a6adc268fe03]{
 -- Page 443, Offset 17674.
 -- 「眼鏡を外してって……なんで？」
--- TRANSLATION HERE
+"¿Quitarme las gafas...? ¿Por qué?"
 }
 [sha:2b660872b32cf8952e4b7bfcb8af2acf8bb582ea]{
 -- Page 444, Offset 17675.
 -- 「その方が確実だから。
--- TRANSLATION HERE
+"Porque así lo sabremos seguro.
 }
 [sha:2c84f38f88d18404507329a76a1ddf1cbe880415]{
 -- Page 444, Offset 17676.
 -- わたしは人間と人間じゃないものの気配を感じ取れる。
--- TRANSLATION HERE
+Puedo sentir la presencia de humanos y de no humanos.
 }
 [sha:be3e9714c564ece7d445da12688f3b2967bfa24c]{
 -- Page 444, Offset 17677.
 -- 貴方は生者と死者の違いが視覚情報として読み取れる。
--- TRANSLATION HERE
+Mientras que tú puedes percibir visualmente la diferencia entre los vivos y los muertos.
 }
 [sha:0bd1baf438093ae1851bf99aa6fc78b3ca6c6d78]{
 -- Page 444, Offset 17678.
 -- 索敵方法は多いに越した事はないでしょう？」
--- TRANSLATION HERE
+// Tl oficial
+Cuantas más formas de buscar mejor, ¿no?"
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 445, Offset 17679.
@@ -216,52 +245,53 @@ Sin embargo...
 [sha:bb727296863369d48b3fda7ecae60aa2a6790f24]{
 -- Page 445, Offset 17680.
 -- ……アルクェイドの説明は納得できる。
--- TRANSLATION HERE
+La explicación de Arcueid tiene sentido.
 }
 [sha:13e148b8bd8fa88138207bce0cced46136f45da2]{
 -- Page 445, Offset 17681.
 -- 協力すると言ったのはこっちだし、断る理由はない。
--- TRANSLATION HERE
+Fui el primero en sugerir que cooperaremos, no tengo razón para negarme.
 }
 [sha:d230924b5237e651e0f7d6c7757bd354e7484f4d]{
 -- Page 445, Offset 17682.
 -- けど、眼鏡を外して行動するのは―――
--- TRANSLATION HERE
+Pero ir por ahí sin gafas es―――
 }
 [sha:be019ab0eff6680331862d7d2cc47d226ed5a0ec]{
 -- Page 446, Offset 17683.
 -- 「あなたの体に大きく負担をかける事になるでしょうね。
--- TRANSLATION HERE
+"Estoy segura de que esto supondrá mucha tensión para tu cuerpo.
 }
 [sha:f765379836f833a7de49d6ac5aa0a49ce4a4d174]{
 -- Page 446, Offset 17684.
 -- でも、いい機会だからもう一度だけ確認したいの。
--- TRANSLATION HERE
+Sin embargo, dado que tenemos la oportunidad, hay algo que quiero confirmar de nuevo.
 }
 [sha:41c4e5eb1277e4582db0fa661bcd0d8b3dfff6f2]{
 -- Page 446, Offset 17685.
 -- 志貴が大丈夫だと判断するのなら、眼鏡を外して付いてきて」
--- TRANSLATION HERE
+Si crees que puedes soportarlo, quítate las gafas y sígueme."
 }
 [sha:a97f4285d1ccc20f260972b1fc224311431f2259]{
 -- Page 447, Offset 17686.
 -- ……眼鏡を外して街を歩く、か。
--- TRANSLATION HERE
+Andar por la ciudad sin las gafas eh...
 }
 [sha:a1bc40dd07fdc5cc47df77928df87305305e633f]{
 -- Page 447, Offset 17687.
 -- そんなこと、この眼鏡を貰ってからの七年間、一度も試した事はない。
--- TRANSLATION HERE
+En los siete años que he tenido estas gafas, nunca he intentado algo así.
 }
 [sha:931f72f073fb8145b512f3b6c4ada29538cc8b37]{
 -- Page 448, Offset 17688.
 -- そもそもモノを視るだけで頭痛が走るっていうのに、その状態で街を歩いたらどうなるのかは容易に想像できる。
--- TRANSLATION HERE
+Quiero decir, solo ver esas cosas sin las gafas puestas es suficiente darme un dolor de cabeza.
+ Es sencillo imaginarse lo que pasaría si fuera deambulando sin ellas.
 }
 [sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
 -- Page 448, Offset 17689.
 -- それでも―――
--- TRANSLATION HERE
+Y aún así―――
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 449, Offset 17690.
@@ -271,42 +301,42 @@ Sin embargo...
 [sha:26a3a4f12c101d2a0fe7504f19419853bc9e10ec]{
 -- Page 449, Offset 17691.
 -- ……大丈夫、たかだか頭痛じゃないか。
--- TRANSLATION HERE
+Estaré bien, después de todo solo es un dolor de cabeza.
 }
 [sha:36be5f3d3bf2c591b80e31fcf93000dcade0d8bb]{
 -- Page 449, Offset 17692.
 -- 体の痛みを堪えているアルクェイドに比べれば、その程度、大した問題じゃない。
--- TRANSLATION HERE
+No es nada comparado al dolor por el que Arcueid está pasando.
 }
 [sha:0e6c8d1ff27a4803d74d9633445dd5d993d2de27]{
 -- Page 450, Offset 17693.
 -- 「いいよ、眼鏡を外して付いていく。
--- TRANSLATION HERE
+"De acuerdo, me las quitaré.
 }
 [sha:7c514e9d72467b1ca96fa94a15383a0b6ca48737]{
 -- Page 450, Offset 17694.
 -- それでカタがつくっていうんなら安いもんだ」
--- TRANSLATION HERE
+Si hace las cosas más sencillas, no se hable más."
 }
 [sha:b0021844b5ab46415ea25befd22aa4e658b7d51d]{
 -- Page 451, Offset 17695.
 -- 「―――そう。なら行きましょう」
--- TRANSLATION HERE
+"―――Vale. Entonces vamos a ello."
 }
 [sha:4c5321cd66172498335126cb2101166fbf74dd6e]{
 -- Page 451, Offset 17696.
 -- 俺は一度だけ深呼吸をして、眼鏡を外し、街に向かって歩き出した。
--- TRANSLATION HERE
+Respiro hondo, me quito las gafas, y me dirijo a la ciudad.
 }
 [sha:377a34e82bd29a2cb06cda450d2fb7852bc54e45]{
 -- Page 452, Offset 17697.
 -- アルクェイドと肩を並べて、人混みの中を行く。
--- TRANSLATION HERE
+Arcueid y yo caminamos codo con codo a través de las multitudes.
 }
 [sha:1f6976965ee0c537f4852b4876ec54a75878fd2b]{
 -- Page 452, Offset 17698.
 -- こうしてラクガキだらけの風景を歩くのなんて、入院していた時以来だ。
--- TRANSLATION HERE
+La última vez que camine por un paisaje plagado de garabatos fue la primera vez que me hospitalizaron.
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 453, Offset 17699.
@@ -316,67 +346,74 @@ Sin embargo...
 [sha:a258fef097ef831c105f3a7fb657e546b48a30dd]{
 -- Page 453, Offset 17700.
 -- いまのところ目眩はない。
--- TRANSLATION HERE
+De momento no siento mareos.
 }
 [sha:74dca44265c34af2d76a265e037501dcb84ca510]{
 -- Page 453, Offset 17701.
 -- 視るだけならそう頭痛はしないらしい。
--- TRANSLATION HERE
+Supongo que mirar a mi alrededor no es suficiente para darme dolor de cabeza.
 }
 [sha:64a536d19c6f8c127310cc17a52e3341e9156f4d]{
 -- Page 453, Offset 17702.
 -- ただ、建物にある薄い線ではなく、道を歩いていく人間の“線”を見るたびに気分が悪くなる。
--- TRANSLATION HERE
+Aunque, las finas líneas de los edificios no son el problema.
+ Cuando miro las 'líneas' de la gente que anda por la calle me empiezo a encontrar mal.
 }
 [sha:e2c6846359e6dd97c59ec836fa34a176c0506053]{
 -- Page 454, Offset 17703.
 -- ……どうしても嫌悪感が先に湧く。
--- TRANSLATION HERE
+No puedo evitar sentir asco.
 }
 [sha:736ee018fddf8a2fab813c5de6dcf8e2c87cf6d8]{
 -- Page 454, Offset 17704.
 -- 『体中にラクガキのある人間』が気色悪いんじゃない。
--- TRANSLATION HERE
+No es por la gente cubierta en garabatos como tal.
 }
 [sha:7e540e52923ccdb9929b508b2f6c909e50bedfca]{
 -- Page 454, Offset 17705.
 -- そんなにも―――人間というのはそんなにも死に易い生き物なのかと知らされているようで、吐き気がするだけだ。
--- TRANSLATION HERE
+Lo que me revuelve el estómago es el hecho de que me recuerden lo sencillo――
+ la %{i}facilidad%{/i} con la que la vida humana puede apagarse.
 }
 [sha:d6f2a02b2cb0181510a6fab2165e752b175ed22d]{
 -- Page 455, Offset 17706.
 -- 夜の街を歩く。
--- TRANSLATION HERE
+Caminamos por el bullicio de la noche.
 }
 [sha:c206965f46b31ec9efe751792772f1f3eec81319]{
 -- Page 455, Offset 17707.
 -- アルクェイドは何も言わずに、目的地があるかのように、迷う事なく足を進めた。
--- TRANSLATION HERE
+// No me gusta como se repite mente aquí
+Arcueid no dice ni una sola palabra.
+ Simplemente avanza decididamente,
+ como si tuviese un destino en mente.
 }
 [sha:55994a26b9b5ac652dc27cb454cc62e1e067c584]{
 -- Page 456, Offset 17708.
 -- ２時間ほどかけて駅前の主立った場所を回った。
--- TRANSLATION HERE
+En estas dos horas, hemos visitado cada localización destacada alrededor de la estación.
 }
 [sha:db04190f66198d7c6cbb208892a0ca70fc327788]{
 -- Page 456, Offset 17709.
 -- 結局、ただの一つも、異常な“<線|し>”を内包した人間を見つける事はできなかった。
--- TRANSLATION HERE
+Al final,
+ no encontramos a nadie con '<líneas|m u e r t e   >' anormales
+ que íbamos buscando.
 }
 [sha:30fd1d86aa98cc7826ef731161210e830cdd8893]{
 -- Page 457, Offset 17710.
 -- 「志貴、眼鏡をかけていいわ。
--- TRANSLATION HERE
+"Shiki, ya te puedes poner las gafas.
 }
 [sha:c641ddfea1c66f69e0712757d2d4e1860b4edc84]{
 -- Page 457, Offset 17711.
 -- やっぱり、もう今夜の死者はいないみたい」
--- TRANSLATION HERE
+Como pensaba, esta noche no hay más Muertos."
 }
 [sha:13bf6d09c53931986069abecd9f8ed45db9f7435]{
 -- Page 458, Offset 17712. Mods: @n.
 -- 眼鏡をかける
--- TRANSLATION HERE
+Me pongo las gafas.
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 458, Offset 17713. Glued.
@@ -386,32 +423,38 @@ Sin embargo...
 [sha:8ee140ba1eb6b4c44d75891480b32e42c48ed963]{
 -- Page 458, Offset 17714.
 -- 視界が健全なものに戻って、ホッと胸を撫で下ろした。
--- TRANSLATION HERE
+Mi visión vuelve a la normalidad y finalmente obtengo mi anhelado respiro.
 }
 [sha:70eb07ac789c43c3f1e5fefb691f466b0c469a4a]{
 -- Page 459, Offset 17715.
 -- 「そんな簡単に見きりをつけていいのか？　まだ一回しか街を見まわってないけど」
--- TRANSLATION HERE
+"¿Deberíamos rendirnos tan fácilmente?
+ Solo hemos dado una vuelta por la ciudad."
 }
 [sha:6e88345648ea32cc5f0b798b81b1b755a52edc9c]{
 -- Page 460, Offset 17716.
 -- 「ううん、一度見まわれば十分よ。気配っていうのはね、多少はその場所に残留するものなの。でも街には死者の気配がどこにもなかった。
--- TRANSLATION HERE
+"Sí, un vistazo es todo lo que necesitamos.
+ El rastro de una persona permanece por un tiempo, incluso tras haberse marchado.
+ Y a pesar de esto, no he encontrado nada en la ciudad.
 }
 [sha:f9e41a96470af90e1aef9c98497df7d6e001c70c]{
 -- Page 460, Offset 17717.
 -- 食料を調達する死者はさっきので最後だったのかも。ここからはもう一段階上の死者を潰していくわ」
--- TRANSLATION HERE
+Es posible que el Muerto de antes fuera el último que siguiera recaudando comida.
+ De aquí en adelante, empezaremos con los Muertos del siguiente rango."
 }
 [sha:d17fa691409cd8b36d2a71cf3fb49197b7bb7ee3]{
 -- Page 461, Offset 17718.
 -- 「……不機嫌そうだな、アルクェイド」
--- TRANSLATION HERE
+"Pareces de mal humor, Arcueid."
 }
 [sha:1d30f12f350dfbc31acd464a1251ef968c6ad6be]{
 -- Page 461, Offset 17719.
 -- 「当然でしょう。せっかく志貴がいてくれるのに空振りなんだもの。あーあ。格好いいとこ見せようと思ったの」
--- TRANSLATION HERE
+"Por supuesto.
+ Vienes conmigo y no encontramos nada.
+  %{i}Haaa%{/i}. Y yo que quería mostrarte mi lado genial."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 462, Offset 17720.
@@ -421,212 +464,259 @@ Sin embargo...
 [sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
 -- Page 462, Offset 17721.
 -- ……。
--- TRANSLATION HERE
+...
 }
 [sha:552839905214f32b5de491d43def80739bf0fa5e]{
 -- Page 462, Offset 17722.
 -- そんな理由で機嫌を損ねられると、なんか、困る。
--- TRANSLATION HERE
+Ahora que sé lo que la ha molestado, tengo la necesidad de hacer algo al respecto...
 }
 [sha:8dc34379620d56e782b6b84b1dd9976024cf0dbf]{
 -- Page 463, Offset 17723.
 -- 「ま、まあ、俺は無駄骨でも気にしないけど……そんなにご不満なら、もう一度街をまわってもかまわないぞ。
--- TRANSLATION HERE
+"B-Bueno, no importa si acaba siendo una pérdida de tiempo...
+ si estás tan descontenta, ¿por qué no damos otra vuelta por la ciudad?
 }
 [sha:77e0418fb1c74797061a1990c64e955f96213b68]{
 -- Page 463, Offset 17724.
 -- 俺も今度は意識を集中して視る。もしかしたら何か見つけられるかもしれない」
--- TRANSLATION HERE
+Veré si puedo agudizar mis sentidos esta vez.
+ Nunca se sabe, quizá aún podamos encontrar algo."
 }
 [sha:1382306c52833586445ea6befee9e7d627be6a4f]{
 -- Page 464, Offset 17725.
 -- 「ダメよ。今夜はこれ以上、あなたに無理はさせられない」
--- TRANSLATION HERE
+"No. No puedo dejar que esta noche te esfuerces más."
 }
 [sha:3103c6d2e23589e70cd49cd153060248e0198203]{
 -- Page 464, Offset 17726.
 -- 「？　無理って、別に俺は無理なんか……」
--- TRANSLATION HERE
+"¿Qué quieres decir? No me estoy esforzando tanto..."
 }
 [sha:b0f6abd11575aea33e33ef8a13d31ef72711ca44]{
 -- Page 465, Offset 17727.
 -- 「してるのよ。志貴本人は気がついてないだけ。いまだって顔色、すごく青いし。ほら、ベンチに座って。少しは楽になるんでしょ？」
--- TRANSLATION HERE
+"Pero lo haces. Simplemente no te has dado cuenta.
+ Incluso ahora, tu cara está extremadamente pálida.
+ Venga, siéntate en el banco.
+ Así te podrás relajar un poco, ¿no?"
 }
 [sha:d8807e1dd0c8db2b7191f157232817aa94ad3064]{
 -- Page 466, Offset 17728.
 -- ほらほら、とベンチにまで押し込まれた。
--- TRANSLATION HERE
+Arcueid me conduce, o más bien, me empuja al banco.
 }
 [sha:8c72da904a20a57a54c349ebb7ec0abfde774a23]{
 -- Page 466, Offset 17729.
 -- まあ、正直言うと吐く一歩手前だったし、とりあえず腰を下ろす、と……。
--- TRANSLATION HERE
+// mix de tls
+Bueno, para ser sincero, estoy a punto de vomitar.
+ Así que me sentaré por ahora.
 }
 [sha:efbaf100f6d78029b5560074de79bcb9f6dfe384]{
 -- Page 467, Offset 17730.
 -- 「ぁ……」
--- TRANSLATION HERE
+"Ah..."
 }
 [sha:fd07d8c85f9098978877b94750282793f02a66b6]{
 -- Page 467, Offset 17731.
 -- あまりの心地良さに声が漏れてしまった。
--- TRANSLATION HERE
+Incluso ese pequeño confort es suficiente para hacerme suspirar.
 }
 [sha:749c7995445f22f015d2b55d1ef5552a44d0ee50]{
 -- Page 467, Offset 17732.
 -- 座った事で緊張が解けたのか、たまっていた疲れが一気にやってきたというか……肩が重くなったのに気持ちがいいなんて、無理をしていた証拠だ。
--- TRANSLATION HERE
+Me pregunto si el sentarme ha liberado la tensión,
+ o si me ha afectado la fatiga que había acumulado me hasta ahora.
+ Aunque mis hombros se sientan pesados, me siento mucho mejor en general...
+ Supongo que eso prueba lo mucho que me estaba esforzando.
 }
 [sha:cd3b78adce027efd044582b7e7148991911fe2fc]{
 -- Page 468, Offset 17733.
 -- 「……ありがとう、助かった。
--- TRANSLATION HERE
+"Gracias... lo necesitaba.
 }
 [sha:98711788de2b9e03c429557090696837a3faeda7]{
 -- Page 468, Offset 17734.
 -- でも、これぐらい今までの頭痛に比べたら軽度だぞ。意識を保っていられない目眩に比べれば、危ない事もないんだし……」
--- TRANSLATION HERE
+Pero, esto no es ni de cerca como los dolores de cabeza que sufrí en el pasado.
+ Había veces que me daban vértigos tan intensos que pensaba que iba a perder la consciencia,
+ comparado esto no es nada."
 }
 [sha:1bd24b27655ffcf9104dbdb4e75ce8f995620835]{
 -- Page 469, Offset 17735.
 -- こうやって夜の風にあたって、深呼吸をして、少し休めば吐き気も治まる。
--- TRANSLATION HERE
+Si descanso aquí un rato,
+ respirando hondo el aire fresco nocturno,
+ mi nausa debería irse en breves.
 }
 [sha:4dca368ac9b27ef966694ef1e803565d468b994a]{
 -- Page 469, Offset 17736.
 -- アルクェイドの傷に比べたらどうって事ない。
--- TRANSLATION HERE
+// Tl oficial
+Comparado con las heridas de Arcueid esto no es nada.
 }
 [sha:7e740adc077ab4ba55995968d4400b777d0de2ea]{
 -- Page 469, Offset 17737. Mods: @n.
 -- だから気にしないでいい―――
--- TRANSLATION HERE
+Es por eso que no tienes que preocuparte――
 }
 [sha:c71f08d413460db7f1cafc39a833650d88f75015]{
 -- Page 469, Offset 17738. Glued.
 -- アルクェイド？
--- TRANSLATION HERE
+¿Arcueid?
 }
 [sha:8b73af72d166d499b21c7d559092b27d18107a61]{
 -- Page 470, Offset 17739.
 -- 「弱い生き物のクセに無理はしないで。
--- TRANSLATION HERE
+"Eres una criatura frágil, así que no te fuerces.
 }
 [sha:89b76e9002784d66ea42d349349b99d5dcd66557]{
 -- Page 470, Offset 17740.
 -- 失神しなければ軽度？　それは間違いよ。あなたの眼に軽いも重いもない。
--- TRANSLATION HERE
+¿Piensas que estás bien porque no te has desmayado?
+ Te equivocas por completo.
+ Con solo usar esos ojos te expones al peligro.
 }
 [sha:c987763b2dc17e3610c435e4f4a233dc818c53cb]{
 -- Page 470, Offset 17741.
 -- あまり視えないものを視ようとしないで。そんなに脳を酷使したら廃人になりかねないわ」
--- TRANSLATION HERE
+No deberías intentar mirar cosas que no puedes ver.
+ Si abusas así de tu cerebro, cabe la posibilidad de que te vuelvas un inválido."
 }
 [sha:ec43a63c3df5f4cbca3c808ebba32f79820d0e03]{
 -- Page 470, Offset 17742.
 -- 「……？　廃人って、誰が？」
--- TRANSLATION HERE
+"¿Eh? ¿Volverse un inválido? ¿Quién?"
 }
 [sha:0f58f2908a99a7a7761f395e4991545821d2b01a]{
 -- Page 471, Offset 17743.
 -- 「あなたがよ！　どうしてそんなに危機感がないの!?
--- TRANSLATION HERE
+"¡Tú! ¡¿A dónde ha ido tu sensación del peligro?!
 }
 [sha:c018ac253899c1fbc9d582391dd4345638c305b2]{
 -- Page 471, Offset 17744.
 -- こんな希少な魔眼持ちなのに平和主義者とか、おいしい獲物にも程があるし！　よく今まで生きてこられたわね、ひょいってつまんで食べられるわよ、普通！」
--- TRANSLATION HERE
+¡A pesar de poseer unos Ojos Místicos tan raros eres pacifista!
+ ¿Tienes idea de la presa tan jugosa que eres?
+ Me sorprende que hayas llegado tan lejos.
+ ¡Normalmente, alguien ya te habría devorado!"
 }
 [sha:a46c53b991a9632f9071fafd690ea17da6cb90b9]{
 -- Page 472, Offset 17745.
 -- ……どこの国の普通だそれ。
--- TRANSLATION HERE
+¿En qué país considerarías eso normal...?
 }
 [sha:78f78950c338e11f3dda96cb8b1b95e258c92f14]{
 -- Page 472, Offset 17746.
 -- というか、世界有数の法治国家を舐めないでいただきたい。平和ボケと言われようと、これだけの治安の良さを維持しているのはホント凄いコトなんだぞ？
--- TRANSLATION HERE
+O más bien, apreciaría si dejases de despreciar los países que respetan las leyes.
+ Llámame pacifista idiota, ¿pero no es sorprendente que hayamos mantenido este nivel de orden público por tanto tiempo?
 }
 [sha:8719596211f8ffffa7e2cc93558d046c5e037b11]{
 -- Page 473, Offset 17747.
 -- 「……分かった。あんまり言いたくなかったけど、ちゃんと説明してあげる」
--- TRANSLATION HERE
+"Vale... no quería decirte esto, pero déjame explicarte bien las cosas."
 }
 [sha:d0a2294f9f02157f501b5cd984f71352cfc59197]{
 -- Page 474, Offset 17748.
 -- 「いい？　志貴は生物の死は視やすくて、鉱物の死は視にくいって言ってたでしょ？
--- TRANSLATION HERE
+"¿Listo?
+ Shiki, dijiste que podías ver las líneas de muerte mucho más fácilmente
+ en seres vivos que en objetos inanimados, ¿verdad?
 }
 [sha:df58b677bafbe58419434a3ea9409ccc15a8ddf1]{
 -- Page 474, Offset 17749.
 -- それはね、結局はあなたの脳の回線の問題なの。
--- TRANSLATION HERE
+La razón de esto reside en tus conexiones cerebrales.
 }
 [sha:c700a8b0b5c4ce6c2a7f4804d814102d178cd544]{
 -- Page 474, Offset 17750.
 -- モノの死。その因果を視る、という事は、実際は視ているではなく読んでいる、という意味合いに近いわ」
--- TRANSLATION HERE
+Cuando hablamos de ver la muerte de las cosas
+ decimos que estas 'viendo' el <destino|c a u s a l i d a d   > de un objeto, pero en realidad, es un poco distinto;
+ más que 'verlo' lo estás 'leyendo'."
 }
 [sha:3cad7ac871256e275b1c8e8982a196bda200db39]{
 -- Page 475, Offset 17751.
 -- 「すべての事象には大本になった原因、絶対の一がある。
--- TRANSLATION HERE
+"Todos los eventos comparten una causa fundamental: un principio absoluto.
 }
 [sha:91a378903530dce68e2051c0deada9ff850506c7]{
 -- Page 475, Offset 17752.
 -- この宇宙のはじまりにしておしまいの地点。
--- TRANSLATION HERE
+El punto donde se origina pero a la vez termina el universo.
 }
 [sha:dae90a2dace9f7f388e7840b68e690cb0d7e1a34]{
 -- Page 475, Offset 17753.
 -- そこには“全てを記録したモノ”がある。記録というよりは“有る”ものだから、情報とは呼べない。ただ“有る”だけ。それ自体に意思はないし、方向性もありえない。原因を垂れ流しているだけの、根源の渦みたいなものね」
--- TRANSLATION HERE
+// Mix de tls.
+En este punto, hay un 'registro de todas las cosas'.
+ Aunque es menos un registro y más algo que simplemente %{i}existe%{/i}, en realidad no puedes llamarlo información.
+ Simplemente %{i}es%{/i}.
+ No tiene voluntad propia, ni tampoco capacidad de direccionalidad.
+ Es como el Remolino de la Raíz, que emana causalidad."
 }
 [sha:86119b21e4887c111e0977f80a5373c27a2731fe]{
 -- Page 476, Offset 17754.
 -- 「この<宇宙|せかい>にあるものは、その渦から流れ、派生して、今のカタチに行き着いたわ。わたしも志貴も、吸血種も人間も、もとはそこから始まった原子にすぎない。
--- TRANSLATION HERE
+// Mix de tls.
+"Todo lo que existe en este mundo proviene de ahí
+ derivando y asumiendo su forma actual;
+ tu y yo――chupasangres y humanos;
+ Somos átomos que se originaron del mismo lugar.
 }
 [sha:1e503bc56cf5c5b6fb36f64908215f26a0414e44]{
 -- Page 476, Offset 17755.
 -- ……もう離れすぎ、複雑になりすぎてしまって、原因である始まりに戻ることはできないけど、とにかくそういった“一”があるのは分かるでしょう？」
--- TRANSLATION HERE
+// Mix de tls.
+Ahora nos hemos alejado demasiado――vuelto demasiado complejos,
+ como para volver a la causa inicial...
+ Bueno, al menos comprendes que dicho 'principio' existe, ¿cierto?"
 }
 [sha:39c60dab1b546189b059215b2dc281eca5fc6ef0]{
 -- Page 477, Offset 17756.
 -- 「でもね、たとえどんなに大本からかけ離れたカタチになっても、派生した存在である以上、とても細い線だけど糸はつながっているのよ」
--- TRANSLATION HERE
+"Pero verás, sin importar lo mucho que nos hayamos alejado del fundamento,
+ aún somos existencias derivadas del mismo.
+ Como tal, seguimos conectadas a ello por unos hilos imperceptibles."
 }
 [sha:542ad5b18cd1e6178e61023459b606acdeeeca3d]{
 -- Page 478, Offset 17757.
 -- 「全ての根源、全ての始まりと終わりを記録したレコード。
--- TRANSLATION HERE
+// Tl oficial
+"La Raíz. En ella residen todas las cosas――un registro de los inicios y del final de todo.
 }
 [sha:852c2cf04ace0957b18d8537e1064d15cfac519d]{
 -- Page 478, Offset 17758.
 -- それと繋がっているものは、物事の終わりを“識っている”事になる。
--- TRANSLATION HERE
+Estar conectada a ella significa 'entender' el fin de todo lo existente.
 }
 [sha:6010ec80f9fcec4115d75e66ad1600acf420e28b]{
 -- Page 478, Offset 17759.
 -- 高等動物の脳は受信と送信をつかさどる機能なんだけど、たいていの人間はその回線が自分に対してのみで閉じてしまっている。けど、中には潜在的に回線が開いている人間もいる。なんの魔術回路も利用せず、超越種でさえないのに超常現象を可能とする人間」
--- TRANSLATION HERE
+// Trascendental races, supongo que se referirá a Dragones True Ancestors es decir las especies fantasmales, pero tanto en la tl oficial como en japones las llama razas Trascendentales.
+En seres superiores, el cerebro es lo que gobierna las capacidades de recepción y transmisión,
+ pero en casi todos los humanos, estas conexiones no son receptivas a nada más que ellos mismos.
+ Sin embargo, entre ellos hay aquellos cuyas conexiones latentes %{i}son%{/i} receptivas;
+ Humanos que son capaces de obrar fenómenos sobrenaturales sin el uso de Circuitos Mágicos o sin formar parte de las razas Trascendentales.
 }
 [sha:ad771f65fdabeb48801442ab44554492759ccb66]{
 -- Page 479, Offset 17760.
 -- 「これをね、魔術師たちは超能力者って区分している。
--- TRANSLATION HERE
+"Es lo que los magos clasifican como Psíquico.
 }
 [sha:862cbbf52e2dfb04a230c420ecefa5cdf417e577]{
 -- Page 479, Offset 17761.
 -- 人間でありながら、生まれついて何らかの魔術回路そのものという突然変異体。
--- TRANSLATION HERE
+// Tl oficial
+Son humanos, pero poseen una especie de mutación que funciona como Circuito Mágico.
 }
 [sha:465b3cfc42588a0003968a493220d397df6b426f]{
 -- Page 479, Offset 17762.
 -- ―――例えば何の神秘も学んでいないのに“物の死”を視てしまう人間とか、ね」
--- TRANSLATION HERE
+// Mystics - la tl oficial localiza las cosas de manera distinta, pero me parece bien ya que se interpreta como el estudio del Misterio
+Por ejemplo, una persona que nunca ha estudiado Mística pero es capaz de ver la 'muerte de las cosas'."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 480, Offset 17763.
@@ -636,27 +726,29 @@ Sin embargo...
 [sha:81b41f1e109cadd9e09be8612988c001dd603941]{
 -- Page 480, Offset 17764.
 -- ……いや、申し訳ないんだけど、アルクェイド。
--- TRANSLATION HERE
+Lo siento, Arcueid...
 }
 [sha:5609078a5930e31fdd4954f4f8c2400459654358]{
 -- Page 480, Offset 17765.
 -- せっかくのお話ですが、肝心の俺の脳みそは、まったく話に追いついておりません。
--- TRANSLATION HERE
+Se que te has molestado en explicarme todo esto, pero mi cerebro no puede mantener el ritmo de la conversación.
 }
 [sha:6734050352c84ba6086a0e37f1d79b50046a5748]{
 -- Page 481, Offset 17766.
 -- 「いいわよ、志貴は理解なんかしなくて。
--- TRANSLATION HERE
+"Está bien. No tienes que entender nada de ello.
 }
 [sha:1270c9e90b0456c1e8052c23d3ed85bdcf96a5ed]{
 -- Page 481, Offset 17767.
 -- 言っておきたいのは、あんまり視えにくいモノを自分から視ようとしちゃダメってこと。
--- TRANSLATION HERE
+Lo único que quería decir es que no deberías forzarte a ver cosas que son difíciles de ver.
 }
 [sha:418f76b26fe2731434d7665419150549f04e2ca0]{
 -- Page 481, Offset 17768.
 -- わたしは視えないから断言はできないけど、志貴が視てしまってるものは『線』だけじゃないはずよ。あなたには『線』の他に、その基点である『点』も視えているんじゃない？」
--- TRANSLATION HERE
+Como no percibo nada de esto, no puedo estar segura,
+ pero me imagino que esas 'líneas' no son lo único que puedes ver.
+ A parte de las 'líneas', también puedes ver el 'punto' del que originan, ¿me equivoco?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 481, Offset 17769.
@@ -666,112 +758,129 @@ Sin embargo...
 [sha:0359112af9e1511c90a7dea7ca694996a00709fc]{
 -- Page 482, Offset 17770.
 -- ……確かにその通りだ。
--- TRANSLATION HERE
+Ha dado en el clavo...
 }
 [sha:acd4f305d002f36c48431957d204c041ef020d9d]{
 -- Page 482, Offset 17771.
 -- 線だけのように視えて、目をこらすと点が視える事がある。事実、ヴローヴとの最後の瞬間、ヤツの体には大渦のような“点”があった。
--- TRANSLATION HERE
+Cuando me concentro en intentar ver las líneas,
+ si me esfuerzo lo suficiente, también puedo ver puntos.
+ De hecho, durante el final de mi cara a cara con Vlov,
+ en su cuerpo podía ver un 'punto' vortiginoso gigante.
 }
 [sha:a386b9e3da53e05457290961d7bc34fed50493f9]{
 -- Page 483, Offset 17772.
 -- 振り返ってみれば、それはヴローヴの時だけじゃない。
--- TRANSLATION HERE
+Ahora que lo pienso, esa no es la primera vez que los veía.
 }
 [sha:c8df1db77d7f7b2f12c0261c9b25433144fdb902]{
 -- Page 483, Offset 17773.
 -- たいてい脳幹をぶった斬るような<幻痛|ショック>から意識を失うけど、点は確かにあった。
--- TRANSLATION HERE
+Cuando los veo, me asalta un <dolor fantasma|s h o c k     >,
+ como si me arrancaran el bulbo raquídeo de raíz, y perdiera la consciencia.
+ Pero desde luego veo los puntos.
 }
 [sha:43fa44b480ef41b347dc474301a37211159216b8]{
 -- Page 484, Offset 17774. Mods: @n.
 -- 「……そうだ。
--- TRANSLATION HERE
+"Cierto...
 }
 [sha:4f357de2b9b72503fd52323eb0c1d3b8a8c70db4]{
 -- Page 484, Offset 17775. Glued.
 -- あの時―――おまえを殺した時も、たしかに、点が見えてた。何個もあって、線は点と点を結ぶように流れてた」
--- TRANSLATION HERE
+En aquel entonces――cuando te maté, estoy seguro de que vi esos puntos.
+ Había unos cuantos, y las líneas iban de punto a punto,
+ como si estuvieran cosidos."
 }
 [sha:b7232ef218866335831e6f1513d095ff2c03095b]{
 -- Page 485, Offset 17776.
 -- 喩えるのなら、それは血管のように。
--- TRANSLATION HERE
+En términos metafóricos, eran como venas.
 }
 [sha:920e00571fbb560756c1f1afcfaa8dc44ba55210]{
 -- Page 485, Offset 17777.
 -- 線が血管なら、点はその血管を生み出す何かだ。
--- TRANSLATION HERE
+Si las líneas son venas,
+ entonces esos puntos serían donde nacen esas venas.
 }
 [sha:fafbbb18ae1cad11f0ae2f859f2a0d84ad2fa770]{
 -- Page 486, Offset 17778.
 -- 「『モノの死に易い線』と『その死』……なんでしょうね、それ。
--- TRANSLATION HERE
+"Líneas donde las cosas tienden a morir y la 'muerte' misma... Me pregunto qué significa todo eso.
 }
 [sha:26c0af2eb669fdcf7d6cf14f2c6b2bfc76d5274c]{
 -- Page 486, Offset 17779.
 -- ……志貴はその気になれば鉱物の死を視ることだって可能だと思う。けどそのために脳が生物の範疇から鉱物の範疇に回線を開いて、鉱物の死を識ろうとしてしまう。
--- TRANSLATION HERE
+Si quisieras de verdad, creo que te sería posible ver la muerte de las cosas inorgánicas.
+ Pero para que tu cerebro pueda hacer eso, las conexiones tendrían que pasar de ser receptivas a la frecuencia de lo vivo,
+ a ser receptivas a la frecuencia de lo inanimado, y entonces intentar comprender su muerte.
 }
 [sha:17225902d1716c1ed4f6ffb97f5af5612d90d2c5]{
 -- Page 486, Offset 17780.
 -- それは本来ありえない運動よ。脳は過負荷を起こして、志貴は間違いなく使い物にならなくなる」
--- TRANSLATION HERE
+Pero en realidad, esto es imposible.
+ Si sobrecargas tu cerebro de esa forma dejarás de funcionar."
 }
 [sha:3afabf4e67ada5f3fae261d11e112c2e9bf0c621]{
 -- Page 487, Offset 17781.
 -- ……使い物にならなくなる、か。
--- TRANSLATION HERE
+Dejaría de funcionar... ¿eh?
 }
 [sha:5f761930d3e4665c739a843c2814c7a64ea0382d]{
 -- Page 487, Offset 17782.
 -- 「それは、この目が死を視なくなってくれるってコト？」
--- TRANSLATION HERE
+"¿Quieres decir que estos ojos no podrán ver más la muerte?"
 }
 [sha:39cdc6827c0b3f1d2e2ca7902ce34d48e65f75ec]{
 -- Page 488, Offset 17783.
 -- 「まさか。ねえ志貴、無茶をしてオーバーブロウしたエンジンはどうなるのかしら？」
--- TRANSLATION HERE
+"Para nada. Shiki, ¿qué crees que ocurre cuando un motor explota por forzarlo demasiado?"
 }
 [sha:315d54f8ac3c037029c411a2b6fa5183a908b796]{
 -- Page 488, Offset 17784.
 -- 「そりゃあジャンク行きだろ。一度でも焼き付いたエンジンは二度と使い物にならな――――」
--- TRANSLATION HERE
+"Va directo al basurero, ¿no?
+ Si un motor se gripa aunque sea una vez, no volverá a funcionar de n―――"
 }
 [sha:d40a398c2ea957a3b5b4a0d4f17bc72de7c28ab9]{
 -- Page 489, Offset 17785.
 -- ああ、そういうコト。
--- TRANSLATION HERE
+Ah, así que a eso se refería.
 }
 [sha:dfd4db7648eaa59d44dd4d056c4b251e5de795f0]{
 -- Page 489, Offset 17786.
 -- つまりは、死を見ている時の頭痛は、スピードをあげすぎて悲鳴をあげているエンジンと同じだったのか。
--- TRANSLATION HERE
+En términos simples, los dolores de cabeza que me dan al ver la muerte son los gritos de un motor pasando la línea roja.
 }
 [sha:7885b91c416329c8442d45023c9ab39781542be6]{
 -- Page 490, Offset 17787.
 -- 「分かった？　ただ視えているだけなら問題はないでしょうけど、視えないモノを視ようとするのだけは止めて。
--- TRANSLATION HERE
+"¿Lo entiendes?
+ Mirar a las cosas son visibles con facilidad no debería ser problema,
+ pero deberías intentar parar de mirar cosas que no pueden verse.
 }
 [sha:7cdf9e5e071efd279ab2296386f684afe9e2e4d5]{
 -- Page 490, Offset 17788.
 -- せいぜい、血管が破裂して脳に負荷がかかる、ぐらいに留めておきなさい。その先に踏み込んだら、生きながらにして石になる、なんて末路になりかねない」
--- TRANSLATION HERE
+Al menos, para cuando llegues al punto donde tus vasos empiecen a explotar y supongan estrés a tu cerebro.
+ Si vas más allá, acabarás viviendo el resto de tus días como un vegetal."
 }
 [sha:495604819c4d7b1f9f72b1412805a48de18889b1]{
 -- Page 491, Offset 17789.
 -- 「その眼鏡を作ってくれた魔術師には感謝しないとね。
--- TRANSLATION HERE
+"Deberías agradecerle más al mago que hizo esas gafas para ti.
 }
 [sha:60ea0a9e15bc18679213547b5ac8588f516fdb67]{
 -- Page 491, Offset 17790.
 -- たいていの超能力者は自分の力がどんなに危険なものか知らずに使用して、自分から廃人になってしまうから。
--- TRANSLATION HERE
+La mayoría de Psíquicos usan sus poderes sin conocer los riesgos,
+ y como resultado acaban inválidos.
 }
 [sha:e904f915b7cef97109cb893f6c067ec4a8f999ac]{
 -- Page 491, Offset 17791.
 -- ……まあ、人間でありながら人間の社会では生きられない存在的不適合者だから、その方が幸せなのかもしれないけど」
--- TRANSLATION HERE
+Aunque... dado que están destinados a ser marginados de la sociedad humana aun siendo humanos,
+ quizá sea mejor así."
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 492, Offset 17792.
@@ -781,67 +890,72 @@ Sin embargo...
 [sha:debb7dadf80d4a716b940de487cedf19463237b2]{
 -- Page 492, Offset 17793.
 -- “どうやらそれが、私がここにきた理由のようだし。
--- TRANSLATION HERE
+"Parece que es la razón por la que estoy aquí.
 }
 [sha:7a1160e23a84a6062d63156c2ba496a0f00bf50e]{
 -- Page 492, Offset 17794.
 -- 私が君を、以前の生活に戻してあげる。”
--- TRANSLATION HERE
+Te devolveré tu antigua vida."
 }
 [sha:a1972c11935f081633ae5682f463d2433ea3f902]{
 -- Page 493, Offset 17795.
 -- 先生はそう言って、この眼鏡を作ってくれた。
--- TRANSLATION HERE
+Tras decir eso, Sensei creó estas gafas para mi.
 }
 [sha:24de6c89fee40db3a339adcc208d562984d7406d]{
 -- Page 493, Offset 17796.
 -- ……感謝すべきことが多すぎて、胸がいたい。
--- TRANSLATION HERE
+La debo tanto que me duele el corazón.
 }
 [sha:e56e41b7ec33aa43f9e55c1dca3d4b8581ee66c0]{
 -- Page 493, Offset 17797.
 -- あの人は本当に色んな意味で、七年前のあの日、今の遠野志貴を救ってくれていた。
--- TRANSLATION HERE
+Ese día, hace siete años, esa persona salvó al Tohno Shiki de hoy de múltiples formas.
 }
 [sha:90b377cb59219173402fcaa0ca17d7530b378a54]{
 -- Page 494, Offset 17798.
 -- 「ところで」
--- TRANSLATION HERE
+"Por cierto."
 }
 [sha:17c393b2429c260820a77147a6b1ee3a9e1304ea]{
 -- Page 494, Offset 17799.
 -- 「うわあ!?」
--- TRANSLATION HERE
+"¡¿%{i}Uwah%{/i}?!"
 }
 [sha:ec8ff07ee7999ee8da28bbbfee0d917d10e40a0c]{
 -- Page 495, Offset 17800.
 -- 人が<感慨|かんがい>に浸っている中、アルクェイドは真横から顔を覗きこんできた。
--- TRANSLATION HERE
+// Mix de tls
+Mientras estaba sentado lidiando con estas profundas emociones,
+ Arcueid aparece de la nada y me mira a la cara.
 }
 [sha:262f59c1a1383ec65cbb2bca142bafc224583fb0]{
 -- Page 495, Offset 17801.
 -- 心臓に悪い。
--- TRANSLATION HERE
+Esto no es bueno para el corazón.
 }
 [sha:a88fadf7f1eb888380f47726f61d042ffa57d7bc]{
 -- Page 495, Offset 17802.
 -- いい話の後なんだから、少しぐらいは気を遣ってほしい。
--- TRANSLATION HERE
+// Tl oficial
+Agradecería que me diera un momento, teniendo en cuenta sobre lo que acabamos de hablar.
 }
 [sha:722d951efb1c14ad02adb0b9afcb84c3bc243bbf]{
 -- Page 496, Offset 17803.
 -- 「なんだよ。眼鏡ならもう渡さないぞ」
--- TRANSLATION HERE
+"¿Qué quieres? Si son las gafas, no te las voy a dar."
 }
 [sha:b7d5011c4d2766da470cff84531f4bed96d090f3]{
 -- Page 496, Offset 17804.
 -- 「そうじゃなくて。
--- TRANSLATION HERE
+"No es eso.
 }
 [sha:8ab73e10367825cb88a849a0f74ac5ef63f44247]{
 -- Page 496, Offset 17805.
 -- これからどうする？　もう死者は出てきそうにないし、今夜はここでお別れにする？」
--- TRANSLATION HERE
+¿Qué quieres hacer ahora?
+ No parece que vayan a salir mas Muertos esta noche,
+ ¿quieres terminar por hoy?"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 497, Offset 17806.
@@ -851,12 +965,12 @@ Sin embargo...
 [sha:c692b78995d7cdb6ed3ef2017fb682c2053a5d1c]{
 -- Page 497, Offset 17807.
 -- 時刻は夜の11時。
--- TRANSLATION HERE
+Son las once en punto.
 }
 [sha:3c26acfc53a8d268757af5a5e58c79232f8cb858]{
 -- Page 497, Offset 17808.
 -- 遠野邸の門限はとっくに破っている。
--- TRANSLATION HERE
+Ya hace mucho que me salté el toque de queda de la mansión.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 497, Offset 17809.
@@ -866,10 +980,10 @@ Yo―――
 [sha:64d21b047b45eef0a2e2cb308fdcefc4a53358e4]{
 -- Page 499, Offset 42639. Choice.
 -- もうすこしアルクェイドと話をする。
--- TRANSLATION HERE
+Hablaré con Arcueid un rato más.
 }
 [sha:2fc9ab5284f28a8236db6db5b91b29ae0b2d9503]{
 -- Page 499, Offset 42640. Choice.
 -- ……確かに、そろそろ帰らないと。
--- TRANSLATION HERE
+Mejor me voy yendo.
 }

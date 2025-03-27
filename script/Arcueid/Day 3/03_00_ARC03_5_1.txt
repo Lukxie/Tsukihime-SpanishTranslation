@@ -41,7 +41,7 @@ No es cierto. No es cierto. No es cierto. No es cierto.
 [sha:9acb61064b2deb26eff933258d30714b53ec14a6]{
 -- Page 249, Offset 4667.
 -- いや、理由ならはっきりしている。
-No, sé perfectamente cual era la razón.
+No, sé perfectamente cuál era la razón.
 }
 [sha:f085159a15cd18b7315e26fc58bc762669fa971f]{
 -- Page 249, Offset 4668.
@@ -81,7 +81,7 @@ Simplemente no intenté expresar el sentimiento en palabras porque el interior d
 [sha:25efc41a5e612305c4adf7cda61719da02820aa8]{
 -- Page 252, Offset 4675.
 -- 血の匂いに、吐き気がする。
-El olor de la sangre me da naúseas.
+El olor de la sangre me da náuseas.
 }
 [sha:0f072564971ba0bdbca8a32ccb0896194f926724]{
 -- Page 252, Offset 4676.
@@ -163,7 +163,7 @@ Arde, como si mis entrañas estuvieran en llamas.
 [sha:9a194bb8f111ebe8ea1fbd948f00dd96d9149cf8]{
 -- Page 256, Offset 4691.
 -- 涙は止まらなくて、体はゴミのように地面に崩れ落ちた。
-No puedo parar de llorar, y mi cuerpo se arruga en el suelo como un trozo de basura deshechado.
+No puedo parar de llorar, y mi cuerpo se arruga en el suelo como un trozo de basura desechado.
 }
 [sha:a3dd1e729f518ae4361d8ec54ccea7a8ed4440f6]{
 -- Page 257, Offset 4692.
@@ -244,7 +244,7 @@ Todo esto es un sueño que he visto mientras estaba aturdido―――
 [sha:7fec099781037b0d2b827ea3c70468fa2dd67b9e]{
 -- Page 261, Offset 4707.
 -- だいたい、どうしてナイフ一本で人間をあそこまでバラバラにできるっていうんだ。
-Quiero decir, ¿como es posible despedazar una persona así sin nada más que un cuchillo?
+Quiero decir, ¿cómo es posible despedazar una persona así sin nada más que un cuchillo?
 }
 [sha:c5771a571221b008447b1585a91afe94e4869ac0]{
 -- Page 261, Offset 4708.
@@ -367,7 +367,7 @@ Debería haberme cegado, o haberme dedicado a una vida donde nunca viese otro al
 [sha:cf900682312f2620dabeb3d9320169182f8c33af]{
 -- Page 268, Offset 4731.
 -- そんな簡単な事さえ、遠野志貴は守れなかった――――
-No pude si quiera mantener una simple promesa―――
+No pude siquiera mantener una simple promesa―――
 }
 [sha:d0c65a37d78a60138ea57124b6afe610d22aa6c8]{
 -- Page 269, Offset 4732.
@@ -392,7 +392,7 @@ Pero en ese momento, ni siquiera pensé en aguantar o suprimir esos pensamientos
 [sha:382bbc52a76ec16695ff17b0f5ec6b8bb65bcf23]{
 -- Page 270, Offset 4736.
 -- そんなコトを当たり前のように考えて、実行していた。
-Estaba pensando y actuándo como si esos impulsos fueran totalmente naturales.
+Estaba pensando y actuando como si esos impulsos fueran totalmente naturales.
 }
 [sha:1f82d4bbbd969608403d51a0b56c65f9ade73f69]{
 -- Page 271, Offset 4737.

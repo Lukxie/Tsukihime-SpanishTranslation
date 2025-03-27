@@ -6,7 +6,7 @@ Tras tomar el desayuno en el comedor, voy al vestíbulo.
 [sha:f543ca5618ebab486754e7989884987ee8afd71c]{
 -- Page 10005, Offset 4168.
 -- 後ろには鞄を持った翡翠が付き添ってくれている。
-Hisui va detras de mí, llevando mi bolsa.
+Hisui va detrás de mí, llevando mi bolsa.
 }
 [sha:bc12d92c312004e52327697877f9e21c7ce58fd2]{
 -- Page 10005, Offset 4169.
@@ -23,7 +23,7 @@ Parece que no solo soy débil ante Akiha, sino que ante Hisui también.
 -- Page 86, Offset 4171.
 -- あ、いや、正しくは、翡翠には甘い、かもしれない。
 Hmm, pensándolo de nuevo,
- sería mas preciso decir que soy %{i}blando%{/i} ante Hisui.
+ sería más preciso decir que soy %{i}blando%{/i} ante Hisui.
 }
 [sha:5d994db5b2ca817836e5a46fd20c5978565f659a]{
 -- Page 87, Offset 4172.
@@ -117,7 +117,7 @@ Todo lo que usaba allí pertenecía a la familia Arima originalmente.
 [sha:3da07b7a614b34715abfee780c7e027786597a2c]{
 -- Page 93, Offset 4189.
 -- 「そうなんですか？　こちらが届けられたお荷物ですけど」
-"¿Estas seguro? Aquí está el paquete que ha llegado."
+"¿Estás seguro? Aquí está el paquete que ha llegado."
 }
 [sha:0e84401ac471ec2100aae606b40f7e3edc60cab4]{
 -- Page 93, Offset 4190.
@@ -204,7 +204,7 @@ Solo tengo un poco de curiosidad por saber el tipo de regalo que es,"
 [sha:a3a83ec91f4855a4a24c4aba8270d5a0027a6a70]{
 -- Page 98, Offset 4206.
 -- ……いや、十分気になってますよ、家政婦さん。
-No, tienes algo mas que %{i}un poco%{/i} de curiosidad, criada traviesa.
+No, tienes algo más que %{i}un poco%{/i} de curiosidad, sirvienta traviesa.
 }
 [sha:15fcb822c358189be3f971ff08bd59c324a91165]{
 -- Page 99, Offset 4207.
@@ -240,7 +240,7 @@ Mi padre debía odiarme mucho para dejarme esta antigualla como recuerdo...
 [sha:cd8be107067c6e82ddd65a95570da9acf5784fee]{
 -- Page 101, Offset 4213.
 -- それに、親父が使っていた鉄の棒は、もう少し太くて、無骨だった気が―――
-Además, estoy bastante seguro de que las varas de hierro con las que trabajaba mi padre eran mas gruesas y robustas―――
+Además, estoy bastante seguro de que las varas de hierro con las que trabajaba mi padre eran más gruesas y robustas―――
 }
 [sha:0de236300fc8293dad61ab6721301a9165c49a57]{
 -- Page 102, Offset 4214.
@@ -277,7 +277,7 @@ Con un click metálico,
 [sha:d279ea6d09481d01b9c71b5aa85a2bc7fad41726]{
 -- Page 104, Offset 4220.
 -- ……なるほど、たしかにこれはナイフだ。
-Huh, de verdad es un cuchillo.
+Ja, es un cuchillo de verdad.
 }
 [sha:7bb5286d6f76cffa393f8322e4cdcac284df8f26]{
 -- Page 105, Offset 4221.
@@ -368,7 +368,7 @@ En todo caso, su diseño me parece más bien soso y anticuado."
 [sha:68bbcb20d8f2c17c167b14c8ece93d328194246e]{
 -- Page 112, Offset 4238.
 -- 翡翠があんまりにも強く断言するもんだから、こっちもその気になってきた。
-Aún así, tras oir a Hisui decirlo tan convencida,
+Aún así, tras oír a Hisui decirlo tan convencida,
  empiezo a sentirme como ella.
 }
 [sha:1c19755fcd1578ac9c4afe079a31995d28340a2e]{
@@ -400,8 +400,8 @@ Repliego la hoja y me guardo el cuchillo en el bolsillo.
 [sha:5863c088d64e7f50a23d644f16f80a827d1a4d94]{
 -- Page 114, Offset 4244.
 -- 後で有彦に見せて自慢してやろう。……まあ、あいつが学校に来ていたら、の話だけど。
-Se lo enseñaré a Arihiko después y presumiré de él.
- Bueno, asumiendo que se preocupe de venir a la escuela.
+Luego se lo enseño a Arihiko y presumo de él.
+ Bueno, asumiendo que se moleste en venir a la escuela.
 }
 [sha:bb256c3bfd96141da34859a265df1e22860dbe7b]{
 -- Page 115, Offset 4245.
@@ -519,7 +519,7 @@ Hisui hace una profunda reverencia.
 -- Page 123, Offset 4267.
 -- ただ学校に行くだけでお気をつけてもないけど、翡翠なりに俺の体を気遣ってくれているのだろう。
 Sólo voy a la escuela, no creo que haya mucho de lo que preocuparse.
- Aún así, estoy segura de que ella se preocupa por mi salud a su manera.
+ Aún así, estoy seguro de que ella se preocupa por mi salud a su manera.
 }
 [sha:da0cbbbbfd08de98e31f70e9a807aa4d46488fff]{
 -- Page 124, Offset 4268.
@@ -529,5 +529,5 @@ Sólo voy a la escuela, no creo que haya mucho de lo que preocuparse.
 [sha:02ed6b28fc443e92cbc742a36cd0bf521372a2e4]{
 -- Page 124, Offset 4269.
 -- 軽く手をあげて、翡翠にお礼を言って屋敷の門を後にした。
-Con un gesto rápido con mi mano, doy las gracia a Hisui y dejo la puerta principal atrás.
+Con un gesto rápido con mi mano, doy las gracias a Hisui y dejo la puerta principal atrás.
 }

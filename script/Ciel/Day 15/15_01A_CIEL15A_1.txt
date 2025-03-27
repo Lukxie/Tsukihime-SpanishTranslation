@@ -731,7 +731,7 @@
 [sha:92eb9c74ab9c6b3c1662b9deec0ee7db62edb52c]{
 -- Page 50, Offset 41529.
 -- 「―――――はあ」
--- TRANSLATION HERE
+"―――%{i}Haaa%{/i}."
 }
 [sha:41c1122f0787ca0b15741f173d093ef5b39ed92a]{
 -- Page 50, Offset 41530.
@@ -1116,7 +1116,7 @@
 [sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
 -- Page 75, Offset 41607.
 -- ……？
--- TRANSLATION HERE
+¿Hmm...?
 }
 [sha:b1394a5067d342435db50dd2d9eef63721c99736]{
 -- Page 75, Offset 41608.
@@ -1266,7 +1266,7 @@
 [sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 84, Offset 41637.
 -- ……そうだ。
--- TRANSLATION HERE
+Eso es verdad...
 }
 [sha:7fd7b9ad51ebc9f0ef4bca70adc46bc063b92903]{
 -- Page 84, Offset 41638.
@@ -1606,7 +1606,7 @@ Ya veo...
 [sha:2b4ea5f170dddaa2b902679c31e3853326cf4d09]{
 -- Page 109, Offset 41705.
 -- その背中に、
--- TRANSLATION HERE
+Pero antes de irse―――
 }
 [sha:f6576bc96e1903c1db6e5bb21a33e5e2af6c9c69]{
 -- Page 109, Offset 41706.
@@ -1641,7 +1641,7 @@ Ya veo...
 [sha:eb8a1f5d4ce1179a95007e17a428905717dc25dc]{
 -- Page 111, Offset 41712. Mods: @n.
 -- ―――
--- TRANSLATION HERE
+―――
 }
 [sha:b1c7ff776f1869bea06ef3e49b4aefd1d61fecd1]{
 -- Page 111, Offset 41713. Glued.
@@ -1731,7 +1731,7 @@ Ya veo...
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 117, Offset 41730.
 -- 「―――――――――」
--- TRANSLATION HERE
+"―――――――――"
 }
 [sha:dab67995be362a07b5b0f1eaac7c4f85c7d6ce01]{
 -- Page 117, Offset 41731.
@@ -1831,7 +1831,7 @@ Ya veo...
 [sha:f889664de1a3c4a4dfe7432ffde5b8ae2e80f616]{
 -- Page 122, Offset 41750.
 -- 駄々をこねる子供のようだ。
--- TRANSLATION HERE
+Como un niño haciendo un berrinche.
 }
 [sha:2567359224e404e62c498c9d751ff84de3cd64ba]{
 -- Page 122, Offset 41751.

@@ -26,7 +26,7 @@
 [sha:a2799ad269f186bf3d3294e4fbd75795c39685d4]{
 -- Page 101, Offset 29333.
 -- ところで。
--- TRANSLATION HERE
+No viene a cuento, pero...
 }
 [sha:72b3901e70fd9bbdc4b4d8400e4ea9cdab9625c6]{
 -- Page 101, Offset 29334.

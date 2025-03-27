@@ -1,265 +1,267 @@
 [sha:c4b5ae45494d8cc8f1b130ddce9b95b86abe102c]{
 -- Page 67, Offset 42889.
 -- おおっとデッドエーンド！
--- TRANSLATION HERE
+¡Vaya, dead end!
 }
 [sha:c5214f5ffb897de08e9335c11dee512fdf544892]{
 -- Page 68, Offset 42890. Mods: @n.
 -- そこの遠野くーん！
--- TRANSLATION HERE
+¡Ey, Tohno-kun!
 }
 [sha:ebeaad8b8c4d27252a17f3d5e62d10ed02255d69]{
 -- Page 68, Offset 42891.
 -- スピード違反で補導、補導です！
--- TRANSLATION HERE
+¡Detente ahora mismo, estás%{n}bajo arresto por exceso de velocidad!
 }
 [sha:6eb48312bd53973c39b69b03bb7ccd22663291ce]{
 -- Page 69, Offset 42892. Mods: @n.
 -- なーんで嬉しそうなんだよこのシエル。
--- TRANSLATION HERE
+¿Por qué pareces tan contenta, Ciel?%{n}
 }
 [sha:beb1829b10c7cb4be5f15afe63bcc1d928543784]{
 -- Page 69, Offset 42893.
 -- バーベＱになってる主人公もいるんですよ？
--- TRANSLATION HERE
+Lo de aquí es un prota a la barbacoa, ¿sabes?
 }
 [sha:26d91914f2ff88ae9e140e27b746827a2071e247]{
 -- Page 70, Offset 42894. Mods: @n.
 -- 失礼。いよいよ本格的なバトルが始まったので、
--- TRANSLATION HERE
+Mis disculpas. Al fin ha comenzado la gran batalla,%{n}
 }
 [sha:07e8cb365822a3fef1134d2cc1552b4bc27e4f1d]{
 -- Page 70, Offset 42895.
 -- つい興奮してしまって……。
--- TRANSLATION HERE
+así que me he dejado llevar...
 }
 [sha:207bbf95f3e87d678aee00f130d09fa28954c277]{
 -- Page 71, Offset 42896. Mods: @n.
 -- 案内役のシエル教官ことわたしと、
--- TRANSLATION HERE
+Este segmento Q&A es presentado por vuestro anfitrión:%{n}
 }
 [sha:a98e3b7351a93b2dc343095b2c2eab4c82687dfb]{
 -- Page 71, Offset 42897.
 -- 部外者のネコでお届けするＱ＆Ａコーナー……
--- TRANSLATION HERE
+yo, Ciel, junto a este forastero, Neco...
 }
 [sha:cd1128a549e191270283268d7df8ce9f5d1f86a9]{
 -- Page 72, Offset 42898.
 -- 『教えて！　シエル先生』にようこそ！
--- TRANSLATION HERE
+Bienvenido a '¡Enséñame, Ciel-Sensei!'
 }
 [sha:56cae7723494568cd797002ea242e9eeb2465d6f]{
 -- Page 73, Offset 42899. Mods: @n.
 -- プレイによってはここが初めての
--- TRANSLATION HERE
+Dependiendo de como has jugado,%{n}
 }
 [sha:07677610ff6b6b72710865ff4357577193a5fb5f]{
 -- Page 73, Offset 42900.
 -- デッドエンドかもしれません。
--- TRANSLATION HERE
+este puede ser tu primer final sin salida.
 }
 [sha:81f934129105648015b8a6ec37f7ac7b3c66ce62]{
 -- Page 74, Offset 42901. Mods: @n.
 -- それくらい、なんていうか、
--- TRANSLATION HERE
+Esta, como decirlo, debía ser la%{n}la elección normal a tomar,
 }
 [sha:e10ab1944502deeff2fc8eb3dc18d0a34df8e035]{
 -- Page 74, Offset 42902.
 -- 自然に選んでしまいますから、今回のは。
--- TRANSLATION HERE
+o al menos, esta%{n}vez lo era.
 }
 [sha:9fffa4d28100a92efcbcb36da63e61a8a5644fad]{
 -- Page 75, Offset 42903. Mods: @n.
 -- でも落ち着いて、よく状況を確かめましょう。
--- TRANSLATION HERE
+Pero, vamos a calmarnos y evaluar atentamente la situación.%{n}
 }
 [sha:5af2a2888517311f43539ddddd74efde393f5e8a]{
 -- Page 75, Offset 42904.
 -- 人間は炎の中では生きられないのです！
--- TRANSLATION HERE
+Ya que, ¡los humanos no sobreviven a estar en llamas!
 }
 [sha:7202b3e3a8f997640aabbc89f033b486359de587]{
 -- Page 76, Offset 42905. Mods: @n.
 -- まあネコ的に、
--- TRANSLATION HERE
+Bueno, desde el punto de vista felino,%{n}
 }
 [sha:dc4d6e332b5965793be6d1aa8154a8ff15aaa37e]{
 -- Page 76, Offset 42906.
 -- このデッドエンドは評価するけどニャ。
--- TRANSLATION HERE
+puedo apreciar este tipo de final sin salida.
 }
 [sha:a7be880b347d75c4e20afc5942b01fe671ca274e]{
 -- Page 77, Offset 42907. Mods: @n.
 -- だって目の前で絶世の美女が戦ってるんだぜ？
--- TRANSLATION HERE
+Piénsalo, frente a ti hay una mujer de belleza %{n}sin igual luchando.
 }
 [sha:d182285082b34fdab61a1d33fcf4a3f6b14085a5]{
 -- Page 77, Offset 42908.
 -- いったい誰が冷静になれようか。ここで一句。
--- TRANSLATION HERE
+// Frase o dicho no se xd
+¿Quién en su sano juicio podría%{n}mantener la calma? Hay una frase para esto.
 }
 [sha:369b844b2c55baf482a87907747a5fb9590cfe2f]{
 -- Page 78, Offset 42909. Mods: @n.
 -- “火中の栗がピクニック。
--- TRANSLATION HERE
+// Eh xd
+Sacar las castañas del fuego%{n}para el picnic de otro.%{n}
 }
 [sha:3217188f80fb5e42bcd02ed46084b3e7962932f4]{
 -- Page 78, Offset 42910.
 -- ウェルカムウェルカムウエルダン。”
--- TRANSLATION HERE
+Welcome, welcome, well-done.'
 }
 [sha:1f28f8c72cf66f416cea700cdfa1e946e1a68d62]{
 -- Page 79, Offset 42911. Mods: @n.
 -- どうですかな？
--- TRANSLATION HERE
+¿Qué opina?%{n}
 }
 [sha:932d150c8a1bb3378c20605785b3113300bb866e]{
 -- Page 79, Offset 42912.
 -- 無闇に食欲をそそりますかな、マドモアゼル？
--- TRANSLATION HERE
+¿Le abre irresistiblemente el apetito, mademoiselle?
 }
 [sha:5476eb2ea3644da3c7ec138a4b52ec061ae4954a]{
 -- Page 80, Offset 42913. Mods: @n.
 -- いえ、ぜんぜん意味が分からないので……
--- TRANSLATION HERE
+No, no tengo ni idea de que hablas...%{n}
 }
 [sha:22f24c1fc597d29d33abae3c1fde3cb201949ded]{
 -- Page 80, Offset 42914.
 -- まあ、お肉は堅焼き派ですけど……。
--- TRANSLATION HERE
+Aunque, personalmente prefiero la carne%{n}bien hecha...
 }
 [sha:6cfac5ca710e3c353a11ae85f4cdf9fb8c91110a]{
 -- Page 81, Offset 42915. Mods: @n.
 -- あれ、そうニャの？　ちょっと意外。
--- TRANSLATION HERE
+¿Oh en serio? No me lo esperaba.%{n}
 }
 [sha:932bab22ac023f9e40871387c63152a7f00f4851]{
 -- Page 81, Offset 42916.
 -- フランス人なのに、血の滴るステーキはダメ？
--- TRANSLATION HERE
+¿No te gustan los filetes un poco sangrientos aunque%{n}seas de Francia?
 }
 [sha:5331a6b3de3db64ed26aba329edb772a2d909b60]{
 -- Page 82, Offset 42917. Mods: @n.
 -- ビーフカレーのお肉は柔らかいものが至高ですが、
--- TRANSLATION HERE
+Me gusta la carne tierna en el curry de ternera,%{n}
 }
 [sha:6972bffffd6bf839fe40fbd8fa7c2e84fae3d026]{
 -- Page 82, Offset 42918.
 -- 生焼けはちょっと……生理的に。
--- TRANSLATION HERE
+pero un filete poco hecho es un poco... demasiado.
 }
 [sha:51a35eb92178ad1982642ad66cea397f7ceeb516]{
 -- Page 83, Offset 42919. Mods: @n.
 -- レア……というか、活け作りを好むのは、
--- TRANSLATION HERE
+Gente a la que le gustaría poco hecho, o algo %{n}como el sashimi crudo,
 }
 [sha:49fd64df9316896af07e71b3ee1c528a81e75abc]{
 -- Page 83, Offset 42920.
 -- たぶん秋葉さんではないでしょうか。
--- TRANSLATION HERE
+sería alguien como Akiha-san,%{n}supongo.
 }
 [sha:6bcdb5332ce3534cba64c5f8143722a43cfecb28]{
 -- Page 84, Offset 42921. Mods: @n.
 -- ほら。日本の方って生きた魚を調理して
--- TRANSLATION HERE
+Quiero decir, los japoneses son conocidos por preparar sashimi%{n}
 }
 [sha:6ab25593bc7781b66a9fca885790687f4ee049b4]{
 -- Page 84, Offset 42922.
 -- 刺身にするんでしょう？　信じられないコトに。
--- TRANSLATION HERE
+con pez crudo, ¿verdad? Es difícil de creer.
 }
 [sha:5cc919ae1b39cfa8765d6d19be07433ff496e6c1]{
 -- Page 85, Offset 42923.
 -- ばっか、魚は新鮮なほどうめぇつーの。
--- TRANSLATION HERE
+Necia. El pescado es mejor cuanto más fresco es.
 }
 [sha:3ea77624ebd07ed8856194a064fe3afd61cfb425]{
 -- Page 86, Offset 42924. Mods: @n.
 -- ウソだと思うニャら
--- TRANSLATION HERE
+si no me crees,%{n}
 }
 [sha:76f5afbc083cb1cc6cfd7333d9de237ef18d65ba]{
 -- Page 86, Offset 42925.
 -- 今度回らない寿司おごられてやんよ。
--- TRANSLATION HERE
+Te invitaré a una ronda de sushi de primera%{n}la próxima vez.
 }
 [sha:2aea74fdea0c737e33d62aa8c34e9b46e4d4ca97]{
 -- Page 87, Offset 42926.
 -- <鰈|かれい>とか、お好きでしょう、オタク？
--- TRANSLATION HERE
+%{n}Te gusta el <'karei'|p l e u r o n é c t i d o>, ¿verdad, otaku?
 }
 [sha:85143984e8b9b11e18af0644b467cf45a4e83dd1]{
 -- Page 88, Offset 42927. Mods: @n.
 -- ……それは、わたしも毎日同じメニューを
--- TRANSLATION HERE
+Bueno, tampoco es que lo coma
 }
 [sha:84eb01e08feac5180a4e91b97e4f15f52d9955d2]{
 -- Page 88, Offset 42928.
 -- 食べているワケではありませんし……
--- TRANSLATION HERE
+cada día...
 }
 [sha:0b167a955c22faf7dfd17fd7f1633a09e5d6ec7d]{
 -- Page 89, Offset 42929.
 -- たまにはシーフードもアリですね……
--- TRANSLATION HERE
+%{n}El marisco está bien a veces...
 }
 [sha:9d4c703930264f9973c3d84e4cbff1523797d7b0]{
 -- Page 90, Offset 42930. Mods: @n.
 -- うむ、完全に食い違っている。
--- TRANSLATION HERE
+Hmm. Parece que tenemos gustos completamente distintos.
 }
 [sha:629c32dafc1302f54e3d453038726a5778c33e0f]{
 -- Page 90, Offset 42931.
 -- まあいいや、続けて続けて。夕食はその後にな。
--- TRANSLATION HERE
+Bueno. Venga, espabila. Vamos a cenar tras%{n}esto.
 }
 [sha:337aaee317a2ad4fa3bfbde88d1562208134a05a]{
 -- Page 91, Offset 42932. Mods: @n.
 -- そ、そうですね。
--- TRANSLATION HERE
+C-Cierto, es verdad.
 }
 [sha:1261a3060761d5e9a5e50dd23f676b298882f9b8]{
 -- Page 91, Offset 42933.
 -- 今は授業の最中でした。
--- TRANSLATION HERE
+Seguimos%{n}en medio de la lección.
 }
 [sha:46670ef9e6d42c9cd99954ff795287d3b4e8c2a5]{
 -- Page 92, Offset 42934. Mods: @n.
 -- えー、とにかく、吸血鬼同士の戦いは
--- TRANSLATION HERE
+Bueno, sobra decir que, una pelea entre%{n}
 }
 [sha:b07ab5bdd041a99e43855b34a1c0159a2cf98b24]{
 -- Page 92, Offset 42935.
 -- 危険ですので、遠くから冷静に見届けましょう。
--- TRANSLATION HERE
+vampiros es extremadamente peligrosa, por lo que%{n}por favor mantén la calma e intenta observar desde una distancia segura.
 }
 [sha:4780d350ea786615e61c58f8ca8eef7c9a4b6852]{
 -- Page 93, Offset 42936. Mods: @n.
 -- 大丈夫。遠野くんの出番はきっとあります。
--- TRANSLATION HERE
+No te preocupes. Estoy segura de que Tohno-kun tendrá su%{n}oportunidad de brillar.
 }
 [sha:256fdc168e345c2e41974e552d3214300d903e42]{
 -- Page 93, Offset 42937.
 -- その時まで、体力を温存しておいてくださいね！
--- TRANSLATION HERE
+¡Por lo que hasta entonces, asegurate de conservar tus%{n}energías!
 }
 [sha:a7260f2ac914488f1415021c8d82dd8fa09660f7]{
 -- Page 94, Offset 42938. Mods: @n.
 -- ―――はい、お仕事おしまい！
--- TRANSLATION HERE
+―――Bien, ¡trabajo hecho!%{n}
 }
 [sha:68ccd953dff475f7f6cde0e87dc6522f492cb5cd]{
 -- Page 94, Offset 42939.
 -- ではメシアンに直行です！
--- TRANSLATION HERE
+¡Vamos directos al Messiaen!
 }
 [sha:cc687e1eef4ff94cc58f1a240b5743deebe645e4]{
 -- Page 95, Offset 42940.
 -- ……シーフードカレーという選択……！
--- TRANSLATION HERE
+%{n}...Esta vez será, ¡curry de marisco!
 }
 [sha:c2c6f1125b8438b1c6c35f9989c31f56e3e43858]{
 -- Page 96, Offset 42941.
 -- ほらね☆
--- TRANSLATION HERE
+%{n}Te lo dije ☆
 }

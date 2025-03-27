@@ -26,7 +26,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 219, Offset 27666.
 -- 「！」
--- TRANSLATION HERE
+"¡%{i}Agh%{/i}!"
 }
 [sha:9a0db7154db6493ac14e0b7f99ee4c2001c6a0d1]{
 -- Page 220, Offset 27667.
@@ -121,7 +121,7 @@
 [sha:4af20e995a178eddfacade766db9f514c41bbc01]{
 -- Page 226, Offset 27685.
 -- なるほど。
--- TRANSLATION HERE
+Ya veo.
 }
 [sha:762fb07e0729e350896fa1af35fe63a19042f53e]{
 -- Page 226, Offset 27686.

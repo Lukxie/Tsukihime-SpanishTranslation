@@ -1,152 +1,164 @@
 [sha:d7935246227d8f54816ec3379c20ac92d26b22d2]{
 -- Page 10018, Offset 18013.
 -- 吸血鬼の基礎知識はホテルで聞いたもので十分だ。
--- TRANSLATION HERE
+Ya escuché en el hotel lo suficiente sobre fundamentos vampíricos.
 }
 [sha:8c248a36b9154133958102d1364bf4b4231b8f29]{
 -- Page 10018, Offset 18014.
 -- 今回はさらに踏み込んだ質問をしてみよう。
--- TRANSLATION HERE
+Esta vez la preguntaré algo más en profundidad.
 }
 [sha:e43438af6544d6f66b171946a10f6a58e5b938b5]{
 -- Page 575, Offset 18015.
 -- 「さっきの死者じゃなくて、もっと危険なヤツ……
--- TRANSLATION HERE
+"Mencionaste que hay gente más peligrosa que los Muertos de antes...
 }
 [sha:68719ec17e5cac2a76cdd1299cf650ddc5e74293]{
 -- Page 575, Offset 18016.
 -- 二十七祖、だっけ？　ヴローヴもそのひとりだって言ってたけど、何なんだよ、そいつら」
--- TRANSLATION HERE
+¿Los Veintisiete Ancestros, eran?
+ Dijiste que Vlov era uno de ellos, ¿pero qué son exactamente?"
 }
 [sha:e7cb590a6fbb23d420bc0563aa36757bdc900e10]{
 -- Page 576, Offset 18017.
 -- 「あー、それ聞いちゃうかぁ、
--- TRANSLATION HERE
+"¡Ah! Vas a preguntar eso, ¿no?
 }
 [sha:7a98f77dd9d95f5634e9291f9a864c32051e14bb]{
 -- Page 576, Offset 18018.
 -- やっぱりそれ聞いちゃうかー！」
--- TRANSLATION HERE
+¡Por supuesto que lo harías!
 }
 [sha:3165c95ad73845a00c7fa8a6aef781d90ee195e2]{
 -- Page 577, Offset 18019. Mods: @k, @e.
 -- 「わかるわかる、ヴローヴを倒した後だもの。
--- TRANSLATION HERE
+"Lo entiendo, piensas en lo que viene después de derrotar a Vlov.
 }
 [sha:b4adf8fe32d48708d818c2add8697e82cf3f9c12]{
 -- Page 577, Offset 18020. Glued. Mods: @x.
 -- 志貴は食いついてくるわよねー！」
--- TRANSLATION HERE
+¡Shiki, estás muy metido en esto!"
 }
 [sha:365eda3862cf82baa247df0fb6d4f661f0ef7f8e]{
 -- Page 577, Offset 18021.
 -- 「う、うん？」
--- TRANSLATION HERE
+"¿E-Eh?"
 }
 [sha:be1655c817591fcf7170110b66297718562e576a]{
 -- Page 578, Offset 18022.
 -- 待望の質問だったのか。
--- TRANSLATION HERE
+Supongo que esperaba que la preguntase por esto.
 }
 [sha:2b5257e1d8fae2479fb2721409ca9ebc805e4482]{
 -- Page 578, Offset 18023.
 -- アルクェイドの方こそ、こっちの腰が引くほどの勢いで食いついてきた。
--- TRANSLATION HERE
+Tiene tantas ganas de hablar del tema que me está empezando a preocupar un poco.
 }
 [sha:7dfac0c72967fdea1f13587bb08066591b6c1a7c]{
 -- Page 579, Offset 18024.
 -- 「前にも言ったけど、二十七祖は死徒の頂点よ。王と捉えていいわ。
--- TRANSLATION HERE
+"Lo he dicho antes, pero los Veintisiete Ancestros representan el pináculo del vampirismo.
+ Puedes pensar en ellos como reyes.
 }
 [sha:7740011b2416e6d73eb9cd1694e13df09c65f0f3]{
 -- Page 579, Offset 18025.
 -- でも、祖たちの話をするには、もうちょっと前知識が必要なのでぇ……」
--- TRANSLATION HERE
+Pero para hablar de Ancestros, primero tenemos que establecer unas bases..."
 }
 [sha:494686c24351bd92c15d3e5d3dfe8459c2f29935]{
 -- Page 580, Offset 18026.
 -- 「じゃーん！
--- TRANSLATION HERE
+"Ta-da!
 }
 [sha:ffb1c8db94c3ccbef2c675588adaa8d9db53b7be]{
 -- Page 580, Offset 18027.
 -- はい、ここで吸血鬼講座・上級編を開始しまーす！」
--- TRANSLATION HERE
+Sin más dilación, ¡Empecemos el curso avanzado sobre vampiros!
 }
 [sha:0d507242cba717b87163325d0b2f40f778b1fbdd]{
 -- Page 581, Offset 18028.
 -- しゅっと音をたてて出現するホワイトボード。
--- TRANSLATION HERE
+Una pizarra aparece de la nada.
 }
 [sha:e21e39389933e10f1f9f9f6fbff1fcb8b80a3d3c]{
 -- Page 581, Offset 18029.
 -- もう見慣れたのでとくに驚きはなく、ぱちぱち、と手を叩いてみる。
--- TRANSLATION HERE
+A estas alturas ya me he acostumbrado, no estoy muy sorprendido.
+ Aplaudo en respuesta.
 }
 [sha:b7d59c257670c9525823436876ce10e37b27dbd5]{
 -- Page 582, Offset 18030.
 -- 「拍手？　それ拍手ってヤツ？
--- TRANSLATION HERE
+"¿Aplaudes? ¿Es eso a lo que llaman ronda de aplausos?
 }
 [sha:2c26bb405696c8131c53719e62f56b8f166cc5f7]{
 -- Page 582, Offset 18031.
 -- もー、志貴ったらつまらなそうな顔してるクセに、反応だけはいいんだからー！」
--- TRANSLATION HERE
+// Tl oficial
+Puedes parecer aburrido,
+ ¡pero parece que tu cuerpo no puede contener la emoción!"
 }
 [sha:c129384048745e05a7d6156fe1aea4fcb09b33fe]{
 -- Page 583, Offset 18032.
 -- いや、どう反応していいか掴みかねているので、とりあえず真面目な顔をしているだけだった。
--- TRANSLATION HERE
+// Tl oficial
+Solo lo hago porque no se como espera que reaccione.
 }
 [sha:0fd05795a4b84e683ce5136fe97f2b20bc4c7479]{
 -- Page 583, Offset 18033.
 -- アルクェイドはもっと真面目になってほしい。
--- TRANSLATION HERE
+Es Arcueid la que debería tomarse las cosas un poco más en serio.
 }
 [sha:4ae45272d0fd01b879be4fde0b493ce3034f47da]{
 -- Page 584, Offset 18034.
 -- 「人間から吸血鬼になったものを『死徒』と区分するけど、彼らにはその能力・限界に応じた段階がある。
--- TRANSLATION HERE
+"Los humanos que se han convertido en vampiros pueden ser clasificados como 'Apóstoles Muertos',
+ sin embargo, dependiendo de sus limitaciones y habilidades individuales, se clasifican de forma distinta.
 }
 [sha:81dcf4378833ebed1b7a877592bd2c8db5f731db]{
 -- Page 584, Offset 18035.
 -- これを階梯にして表したものがコレ」
--- TRANSLATION HERE
+Representamos esa clasificación con rangos."
 }
 [sha:2748a5d5497bb0e96aa832770e7b8b8942e52524]{
 -- Page 585, Offset 18036.
 -- 「細かな説明は省くけど、
--- TRANSLATION HERE
+"Voy a obviar algunos detalles para resumir.
 }
 [sha:0b8b39618b68ad59d900307efb3b83013e3640a7]{
 -- Page 585, Offset 18037.
 -- Ⅲ階梯目までは『活ける死体』、
--- TRANSLATION HERE
+Todo hasta el Rango III son 'cadáveres vivientes' .
 }
 [sha:aa2a8fbd73b5db6b87e3787621d9eb09a1322388]{
 -- Page 585, Offset 18038.
 -- Ⅳ～Ⅴ階梯目は夜を生きる『夜属』、
--- TRANSLATION HERE
+// Tl oficial. Lo cambio para que no sea tan redundante.
+Los Rangos IV y V son 'Seres de la Noche', es decir son activos cuando se pone el sol.
 }
 [sha:04503bb24a5a10ed17e32d450ea2ee28d1d9c6fe]{
 -- Page 585, Offset 18039.
 -- そしてⅥ階梯目でようやく、一つのコミュニティを作れる『吸血鬼』になるわ」
--- TRANSLATION HERE
+Y por último, tenemos el Rango VI, un verdadero vampiro que es capaz de crear su propia comunidad."
 }
 [sha:7e915b6bb271ae481b8e9db67efc552f5d220cc5]{
 -- Page 586, Offset 18040.
 -- 「Ⅵ階梯目にまで変質できた者は完全に“吸血種”として自立できる。
--- TRANSLATION HERE
+"Solo aquellos que puedan evolucionar hasta el Rango VI,
+ pueden volverse independientes, un chupasangre en todo derecho.
 }
 [sha:7754041be438e74fc04e59fe6ff8c4a7846e0a2d]{
 -- Page 586, Offset 18041.
 -- 吸血・侵食によって子を作って、自分が作ったグループの頂点……親基になれる。
--- TRANSLATION HERE
+// Tl oficial
+Al alimentarse y corromper crean descendientes,
+ convirtiéndose en el líder de su grupo.
 }
 [sha:babd10da710bb82315f3a599296b330e3e474c9d]{
 -- Page 586, Offset 18042.
 -- でもⅥ階梯以上の子は作れない。通常の吸血鬼なら、その“成り上がり”はここでストップね」
--- TRANSLATION HERE
+Sin embargo, no pueden crear descendencia de un Rango superior al VI.
+ Para un vampiro común su ascensión terminaría aquí.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 587, Offset 18043.
@@ -156,147 +168,161 @@
 [sha:98f74b3012ee6ad2feb03aadc0362a79399661d2]{
 -- Page 587, Offset 18044.
 -- 吸血鬼は人間に血を移して変質させ、自分の奴隷にする。
--- TRANSLATION HERE
+Vampiros que transfieren su sangre a humanos,
+ transformándolos forzosamente en sus esclavos personales.
 }
 [sha:28152cf9ece33a22cb9bd886b258b733ecf19d0e]{
 -- Page 587, Offset 18045.
 -- そうして増やした奴隷たちをまとめたものが『その吸血鬼のコミュニティ』だ。
--- TRANSLATION HERE
+Al juntar todos los esclavos producidos se da esta 'comunidad' vampírica.
 }
 [sha:09947e43091d816b1ea75d5f7855d6c93a8bc53b]{
 -- Page 588, Offset 18046.
 -- 自分以上の“子供”は作れない、というのであれば、確かに階梯はそこで止まるだろう。
--- TRANSLATION HERE
+Si no pueden crear progenie más poderosa que ellos,
+ implicaría que la ascensión termina ahí.
 }
 [sha:73abbb531dcbcbd0910c206019c82e3edf2ee810]{
 -- Page 588, Offset 18047.
 -- しかし……
--- TRANSLATION HERE
+Aún así...
 }
 [sha:151b48044deb776835cddca22ad3679e13c97441]{
 -- Page 589, Offset 18048.
 -- 「ソレを生み出したものがいる……いや、死徒より上の立場の吸血鬼がいる、ってコトか」
--- TRANSLATION HERE
+"Pero algo los engendró...
+ Lo que significa que deben existir vampiros superiores a los Apóstoles Muertos comunes, ¿cierto?"
 }
 [sha:b8d10bfdc2ce71ef517a559f409ac4fea8906b99]{
 -- Page 589, Offset 18049.
 -- 「そうよ。それがⅨ階梯、祖。
--- TRANSLATION HERE
+"Sí. Esos son el Rango IX, Ancestros.
 }
 [sha:2d0250cc111051df0f330e123b58eaec160c6e7c]{
 -- Page 589, Offset 18050.
 -- 二十七つ<在|・><る|・>ことから、二十七祖と言われている」
--- TRANSLATION HERE
+Hay 27 de ellos, así que los llamamos los Veintisiete Ancestros."
 }
 [sha:d169e55780657e438a4fc8cfa057d8f5c484008b]{
 -- Page 590, Offset 18051.
 -- 「前後するけど、Ⅶ階梯目が上級死徒。
--- TRANSLATION HERE
+// Tl oficial
+"Por cierto, los Rangos VII son Apóstoles Muertos Superiores.
 }
 [sha:348faeee60a7ce4a41db73c662eda08e39bd919e]{
 -- Page 590, Offset 18052.
 -- Ⅵ階梯のモノが祖に認められ、更なる異能を与えられたもの。同じ呼び名でもその規模はⅥ階梯とは別物よ」
--- TRANSLATION HERE
+Este rango consiste en aquellos de Rango VI que han sido reconocidos por Ancestros y concedidos habilidades adicionales.
+ Están en una liga completamente distinta a los Rangos VI, aunque se les llame por el mismo nombre."
 }
 [sha:6389a2f843e38f99475dd545e62a0f09feff364a]{
 -- Page 591, Offset 18053.
 -- 「この階梯になると居るだけで地域を汚染する毒になる。
--- TRANSLATION HERE
+"Aquellos que alcanzan este rango se convierten en un contaminante que corrompe la tierra con su mera presencia.
 }
 [sha:1232fa9f121c2a72c22f9c44b8fc043fb6b69b91]{
 -- Page 591, Offset 18054.
 -- 並の代行者じゃ太刀打ちできない異端であり、
--- TRANSLATION HERE
+Esos vampiros son herejes ante los que un Ejecutor promedio no tendría oportunidad―――
 }
 [sha:794d06828e2d89c0f332e18ad257b01bece1149a]{
 -- Page 591, Offset 18055.
 -- 貴族として自らの意志を許された吸血鬼」
--- TRANSLATION HERE
+Vampiros aristócratas a los que se les permite ejecutar su voluntad."
 }
 [sha:380db3e9d4998d29eec7bd92f286c56dbe5d3b33]{
 -- Page 591, Offset 18056.
 -- 「……？　自らの意志、というと？」
--- TRANSLATION HERE
+"¿Eh? ¿A qué te refieres con 'su voluntad'?"
 }
 [sha:b153daae1e2e7e068f28df2696cc0bb2cf459292]{
 -- Page 592, Offset 18057.
 -- 「奴隷じゃないってコト。
--- TRANSLATION HERE
+"Significa que ya no son esclavos.
 }
 [sha:2cab04c6c658d2b7b5b1eefbae089d19399d093e]{
 -- Page 592, Offset 18058.
 -- 上級死徒は親基である祖に絶対服従という訳じゃない。逆らう事だってできる」
--- TRANSLATION HERE
+Los Apóstoles Muertos Superiores no son necesariamente obedientes a los Ancestros que los engendraron.
+ Pueden oponerse si quieren."
 }
 [sha:45d60f010415a4ccb7d1416c12523adaf00dae74]{
 -- Page 593, Offset 18059.
 -- 「上級死徒は機会さえあれば親基である祖を倒して、その呪いを受け継ぐ事ができる。
--- TRANSLATION HERE
+"No solo eso; si se presenta la oportunidad, pueden derrocar a su Ancestro progenitor y heredar su maldición.
 }
 [sha:3657a1217676c255d6edaf210d2cfbf64f2019c7]{
 -- Page 593, Offset 18060.
 -- まあでも、祖を倒す事はほぼ不可能よ。同じ『自由』を得たとしても祖が生きた年月は膨大だもの。上級死徒では祖の存在規模を上回ることは難しい」
--- TRANSLATION HERE
+Dicho eso, que derroten a un Ancestro es prácticamente imposible.
+ Incluso si un Apóstol Muerto Superior ha adquirido las mismas 'libertades', los Ancestros han vivido mucho más;
+ les cuesta mucho superar su Escala de Vida.
 }
 [sha:e363661b60fb8f898fb8b6a4ebce9a8827709ed2]{
 -- Page 594, Offset 18061.
 -- 「なので、祖を受け継ぐとしたらⅧ階梯。後継者。
--- TRANSLATION HERE
+"Y por ende, para aquellos que intentan heredar el poder del Ancestro tenemos el Rango VIII: Sucesor.
 }
 [sha:2271c8b1a3423336a5bd3be4af47e48fc6149579]{
 -- Page 594, Offset 18062.
 -- 祖が自分の後継に認めた、才能ある吸血鬼。
--- TRANSLATION HERE
+Vampiros con talento que han sido reconocidos por el Ancestro como digno heredero.
 }
 [sha:24ef639b5c629bfd21491b0fe9ec35526a78f504]{
 -- Page 594, Offset 18063.
 -- 言うなれば王子、王女ね。
--- TRANSLATION HERE
+Un príncipe o princesa, por así decirlo.
 }
 [sha:359e8127e4e45680fca40f46c7b45d226cb9422b]{
 -- Page 594, Offset 18064.
 -- 祖の中には吸血鬼ではないものを見初めて、いきなりこの階梯まで引き上げてしまうモノもいる」
--- TRANSLATION HERE
+// Tl oficial
+Hay mortales que ascienden directamente a este estatus
+ si agradan a un Ancestro."
 }
 [sha:53480a5fa2f6be9fe4a67de2bbed7fbbf1ed9dfc]{
 -- Page 595, Offset 18065. Mods: @n.
 -- 「王女って……
--- TRANSLATION HERE
+"Una princesa...
 }
 [sha:769f003e24bd1d75967eb84c31b8b897bc84b4cd]{
 -- Page 595, Offset 18066. Glued.
 -- つまり、おまえみたいな？」
--- TRANSLATION HERE
+en otras palabras, ¿alguien como tú?"
 }
 [sha:7beeee814b95a8db031e7d89f1a29732c1c2e0b2]{
 -- Page 595, Offset 18067.
 -- たしか王族だって言ってたよな、アルクェイド。
--- TRANSLATION HERE
+Estoy bastante seguro de que Arcueid mencionó ser de la realeza.
 }
 [sha:af454b01e1169d0fd86246e2b8a40c19635ca2f9]{
 -- Page 596, Offset 18068.
 -- 「んー、中にはいるかもね、わたしに似た特性を持つように作られた死徒が」
--- TRANSLATION HERE
+"Hmm, quizá entre ellos haya un Apóstol Muerto creado con atributos parecidos a los míos."
 }
 [sha:c32999919b1928b6f1959b4a29aa0bc925c20720]{
 -- Page 597, Offset 18069.
 -- 「Ⅷ階梯はひとりの祖に最低ふたりいるとして、単純に50匹以上。中にはそういう試みをする祖もいたでしょう。
--- TRANSLATION HERE
+"Si asumimos que al menos hay dos Rangos VIII por Ancestro, entonces eso significa que por ahí existen más de cincuenta.
+ Hay muchas probabilidades que uno de ellos sea el resultado de un Ancestro intentando hacer algo así.
 }
 [sha:2881e6272c86892a5313f545edf1906ab5609f25]{
 -- Page 597, Offset 18070.
 -- ま、わたしと彼らでは根本が違うから、どこまでいっても模造品にすぎないでしょうけど」
--- TRANSLATION HERE
+Dicho eso, soy fundamentalmente distinta a ellos,
+ no importa cuánto lo intenten, lo mejor que conseguirán es una imitación barata."
 }
 [sha:10d7fadfd04350f342be3d6ac6e883873013ca13]{
 -- Page 598, Offset 18071.
 -- 「でもⅧ階梯の吸血鬼が強大である事は否定しない。
--- TRANSLATION HERE
+"Pero no negaré que los vampiros de Rango VIII sean extremadamente poderosos.
 }
 [sha:9837dfb5b8c9ac2dbda8fde8ef0ad91236e0f37a]{
 -- Page 598, Offset 18072.
 -- そうね。基本的な蓄えだけで言えば、きっとヴローヴより優れている」
--- TRANSLATION HERE
+Como decirlo...
+ En términos de cuanto han acumulado,
+ superan con creces a Vlov."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 598, Offset 18073.
@@ -306,327 +332,361 @@
 [sha:c8dd24a281a4633a6fa73e836ded82cdff0c801f]{
 -- Page 598, Offset 18074.
 -- あの<吸血鬼|ヴローヴ>を上回る……？
--- TRANSLATION HERE
+¿Son aún peores que Vlov...?
 }
 [sha:07e85ee9c5a56254ac58a91d891363c53a6c12b2]{
 -- Page 598, Offset 18075.
 -- そんな怪物が50以上だって……？
--- TRANSLATION HERE
+¿Y hay más de cincuenta de esos monstruos...?
 }
 [sha:f6944476c84780f89d1f7c544dbe84273bba2db1]{
 -- Page 599, Offset 18076.
 -- 「ほら、やっぱり。
--- TRANSLATION HERE
+"Ajá, lo sabía.
 }
 [sha:e3daea629ec69f24f54e0a0cff983d20b008909f]{
 -- Page 599, Offset 18077.
 -- 殺したくて血が騒いできた、殺人鬼さん？」
--- TRANSLATION HERE
+¿El deseo de matar hace que te hierva la sangre, Sr. Asesino?
 }
 [sha:bf925940fee76dfbac28d879dd75697d5d48ae9f]{
 -- Page 599, Offset 18078.
 -- 「騒いでない。こういうのは怖じ気づいてるって言うんだぜ、吸血鬼さん」
--- TRANSLATION HERE
+// mix de tls
+"Ni de lejos. Esto es sentirse intimidado, Srta. Vampiro."
 }
 [sha:fb5defe4e1cb192bc34fafb119827210c9a035fc]{
 -- Page 600, Offset 18079.
 -- 人間の尺度で返答する。
--- TRANSLATION HERE
+Respondo como un humano debería.
 }
 [sha:ae8707c32ad9f86b7afdd67d1020c676464b7b94]{
 -- Page 600, Offset 18080.
 -- 協力するとは決めたものの、このあたりきちんと主張しておきたい。人間にできない事はできないのである。
--- TRANSLATION HERE
+Puede que haya decidido ayudarla, pero esto es algo que tengo que enfatizar:
+ hay cosas que los humanos simplemente no pueden hacer.
 }
 [sha:cac1f3e52ee9c8b06161bb5f5e7e0a420570b1f6]{
 -- Page 601, Offset 18081.
 -- 「それで、いよいよ本題のⅨ階梯だけど。
--- TRANSLATION HERE
+"Y finalmente llegamos al quid de la cuestión, Rango IX.
 }
 [sha:cfcf9ec1b8832ee4392b051ee3871a0ddea31d7d]{
 -- Page 601, Offset 18082.
 -- この二十七祖ってヤツらが、死徒の頂点でいいんだよな？」
--- TRANSLATION HERE
+Estos son los Veintisiete Ancestros el pináculo de los Apóstoles Muertos, ¿cierto?"
 }
 [sha:9a5a6992d57cb904fbf0bdd7018afc5d9a4007dd]{
 -- Page 602, Offset 18083.
 -- 「そうよ。非常食の立場から抜け出し、まったく違うモノとして独立を勝ち取った古い死徒たち。
--- TRANSLATION HERE
+"Correcto.
+ Son seres antiguos y trascendentales que no responden ante nadie
+ tras haberse liberado por completo de su rol como comida de emergencia de otro.
 }
 [sha:4596583ad249ad622c2edead09bb4620e925ea4d]{
 -- Page 602, Offset 18084.
 -- 月から地上に落ちた真紅の染み。
--- TRANSLATION HERE
+Manchas carmesí que gotearon de la luna a la tierra.
 }
 [sha:acc54a5b16b34a3e9a288a905ba133fe67f8d6fc]{
 -- Page 602, Offset 18085.
 -- 決して他と相容れない世界を持った猛毒たち。
--- TRANSLATION HERE
+Son contaminantes extremos,
+ cada uno posee un mundo que siempre será incompatible con el resto.
 }
 [sha:dcf6e82457b5c58cddd25398f8a33ec8dc31181d]{
 -- Page 602, Offset 18086.
 -- Ⅵ階梯の死徒を生み出し、アナタたち人間を“寿命”として摂取する長命者」
--- TRANSLATION HERE
+Seres que dan lugar a los Apóstoles Muertos Rango VI,
+ y consumen humanos como tu para extender su ya extrema longevidad."
 }
 [sha:78620b78b7350884cc58cb8c10439236285faa1a]{
 -- Page 603, Offset 18087.
 -- 「<現|い><在|ま>に至る吸血鬼社会、この構造を創ったのもコイツら。
--- TRANSLATION HERE
+"También son los que han dispuesto las bases de la sociedad vampírica como la conocemos hoy.
 }
 [sha:a74d887f3e7995f785762727b900971cc84a52c8]{
 -- Page 603, Offset 18088.
 -- 存在規模は個体差があるけど、
--- TRANSLATION HERE
+Cada uno varía en Escala de Vida,
 }
 [sha:37b6576faaa0fdba9ec1394783ed454ffeac0cae]{
 -- Page 603, Offset 18089.
 -- 西暦以前から活動しているのが『古参』で、
--- TRANSLATION HERE
+pero aquellos que estaban activos antes de la Era Común son los veteranos,
 }
 [sha:0e3937ff9f890642e2e92019e05cee13eec3069f]{
 -- Page 603, Offset 18090.
 -- 西暦以後から活動を始めたのが『新参』ね」
--- TRANSLATION HERE
+y aquellos que vinieron después son los novicios."
 }
 [sha:de9a1fd98b47d4f6c77e164d156040d1ffc6e935]{
 -- Page 604, Offset 18091.
 -- 「たとえばヴローヴだけど、アイツはここ百年の間にⅥ階梯からⅨ階梯に……親である祖を殺して、新しい祖になった『新参』になるわ」
--- TRANSLATION HERE
+"Volviendo a Vlov como ejemplo,
+ a lo largo de cientos de años pasó de Rango VI a Rango IX...
+ Mató a su Ancestro progenitor,
+ y tomó su lugar como un Ancestro novicio."
 }
 [sha:d8625ee29f01cab9d5bf202efdc4daa9fa87a5bc]{
 -- Page 605, Offset 18092.
 -- 吸血鬼の尺度で言うと、ヴローヴはつい最近祖になった死徒である、と。
--- TRANSLATION HERE
+Desde la perspectiva de un vampiro,
+ Vlov era un Apóstol Muerto que acababa de convertirse en Ancestro.
 }
 [sha:c32d13e1d2ae514599603c7f8ef23f88801252b7]{
 -- Page 605, Offset 18093.
 -- だから表だって街に現れ、伝統も様式美も<弁|わきま>えず、あんな凶行を起こしたのだ、とアルクェイドは説明する。
--- TRANSLATION HERE
+Arcueid me explica que esa es la razón por la que se mostró tan fácilmente en la ciudad
+ y causó tanta masacre sin tener en cuenta tradición o apariencia.
 }
 [sha:4f3d9e39b06f57aad1d28ff619f9730f30efda5d]{
 -- Page 606, Offset 18094.
 -- そこはいい。吸血鬼たちのルールは俺には関係がない。
--- TRANSLATION HERE
+En el fondo, no me preocupan mucho las reglas que deben seguir los vampiros.
 }
 [sha:f1d6cdbcb1d59e6fcc3123671134a29d2025ebe6]{
 -- Page 606, Offset 18095.
 -- 気になるのはあの異様な能力だ。
--- TRANSLATION HERE
+Lo que quiero saber de verdad es sobre las extrañas habilidades que tenía.
 }
 [sha:5e286df60e7226de59d04e69ee30020a1b645f2d]{
 -- Page 606, Offset 18096.
 -- 存在するだけで世界を極寒に塗り替える呪い。
--- TRANSLATION HERE
+La maldición que hacía que su presencia tiñese el mundo a su alrededor de un frío glacial.
 }
 [sha:1533bbd065daa5c3b5b7a88487c55991aaffd6f5]{
 -- Page 606, Offset 18097.
 -- その寒さに耐える為だけにまき散らされた炎。
--- TRANSLATION HERE
+La llamas que esparció para soportar dicho frío.
 }
 [sha:e394f35e6b609be888851eec7680c8fd8e6d31c2]{
 -- Page 606, Offset 18098.
 -- これはもう、『人のカタチをしたもの』が持って許されるものではない。
--- TRANSLATION HERE
+Ese es el tipo de poder que algo con forma humana no debería poder obtener.
 }
 [sha:90d3db1ed7413721fa5c9bf5ebd21fd97b572246]{
 -- Page 607, Offset 18099.
 -- 「……わからないな。
--- TRANSLATION HERE
+"No lo entiendo...
 }
 [sha:a2af17290ee9ae44c12df0b42176954e30558e2c]{
 -- Page 607, Offset 18100.
 -- どんなに長生きだろうと、死徒は人間の延長にすぎないんだろ。人間は何年生き続けようとあんな芸当はできない。
--- TRANSLATION HERE
+Sin importar su esperanza de vida, los Apóstoles Muertos no son más que una extensión de la humanidad, ¿me equivoco?
+ Y quiero decir, sin importar cuanto viva, un humano nunca sería capaz de hacer algo así.
 }
 [sha:2eae232a44622ecc70b78e06d824f336d50c2c1a]{
 -- Page 607, Offset 18101.
 -- 祖っていうのは他に何かあるんじゃないのか？」
--- TRANSLATION HERE
+Hay algo más que diferencia a los Ancestros, ¿no es así?"
 }
 [sha:f784ee342b30a042521724b63fb3a7b1af229166]{
 -- Page 608, Offset 18102.
 -- 「ええ。実のところ、祖になるには“何年生きたか”なんて関係ないの。
--- TRANSLATION HERE
+"SÍ. De hecho, el número de años que has vivido no influye en si te conviertes o no en un Ancestro.
 }
 [sha:9af32fd6c3a17c4767ab56ae7f3dc92b50c987dd]{
 -- Page 608, Offset 18103.
 -- 祖を祖たらしめているのは、その血液の質」
--- TRANSLATION HERE
+Lo que hace a un Ancestro Ancestro es la naturaleza de su sangre."
 }
 [sha:bcd244d5a9d5e39874377c95be6b2920bf9fc605]{
 -- Page 609, Offset 18104.
 -- 「魂に刻まれてしまった大本の戒め。
--- TRANSLATION HERE
+// Tl oficial
+"Una restricción fundamental grabada en su alma;
 }
 [sha:9a97080f59c6c85b4a94a31acf9dc537cf5801dd]{
 -- Page 609, Offset 18105.
 -- それぞれ戴いた真理、渇きの根底となる世界観。
--- TRANSLATION HERE
+// Tl oficial
+Es el Principio que les han legado;%{n}
+La visión del mundo que conforma el origen de su sed;
 }
 [sha:ded30ad443ac5e43d2d483b697e500c9c52eb5ad]{
 -- Page 609, Offset 18106.
 -- その血を巡らせるだけで惑星の物理法則を塗り替える特異点。
--- TRANSLATION HERE
+// Tl oficial
+La singularidad que les permite repintar las leyes físicas del planeta.
 }
 [sha:f7002143bfdc8ef2d267c7e28971f4348ffacd7a]{
 -- Page 609, Offset 18107.
 -- 原理血戒―――イデアブラッド」
--- TRANSLATION HERE
+Un Principio manifestado en la sangre――Idea Blood."
 }
 [sha:5b4d0e434706ede06a7adb892e38b06f0026e3e0]{
 -- Page 610, Offset 18108.
 -- 「<原理血戒|イデアブラッド>―――」
--- TRANSLATION HERE
+"Idea Blood―――"
 }
 [sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
 -- Page 610, Offset 18109.
 -- それは。
--- TRANSLATION HERE
+Eso es...
 }
 [sha:ed205dc77fe99f47efbdfab6bfc4c37d161848ef]{
 -- Page 610, Offset 18110.
 -- ヤツの最奥の<最中|さなか>にあった、あの底なしの“孔”の事か。
--- TRANSLATION HERE
+Eso debe ser el 'vórtice' sin fondo que vi en su núcleo.
 }
 [sha:f2432d7bc0faf8d9b53307e9f15c30c7f4144dd9]{
 -- Page 611, Offset 18111.
 -- 「ま、言ってしまえば『王冠』ね。
--- TRANSLATION HERE
+"Es básicamente su 'corona'.
 }
 [sha:5258ba7c68be9e1d8e2afbe0c4662ccaffa2405a]{
 -- Page 611, Offset 18112.
 -- この血を継承した死徒は、どんな階梯であろうと祖に成り上がる。
--- TRANSLATION HERE
+Los Apóstoles Muertos que heredan esta sangre ascienden directamente al estatus de Ancestro,
+ sin importar el rango que tuviesen antes.
 }
 [sha:bc5fa867416ce51bd1013878fce989b8ab999946]{
 -- Page 611, Offset 18113.
 -- もっとも、原理血戒を動かすには千年クラスの土台がいるわ。数百年活動した程度の死徒が継承しても、その呪いで潰される」
--- TRANSLATION HERE
+Dicho eso, se necesitan al menos unos mil años de experiencia para poder usar Idea Blood.
+ Incluso si un vampiro que hay vivido cien años lo hereda de alguna forma, sería aplastado por la maldición."
 }
 [sha:e074d33328ffd4f6475b0573f543bfea32c02b3b]{
 -- Page 611, Offset 18114.
 -- 「ヴローヴのように？」
--- TRANSLATION HERE
+"¿Cómo Vlov?"
 }
 [sha:4fde2c2628b5601d767c29c05646c69e0838cc83]{
 -- Page 612, Offset 18115.
 -- 「そうなんだけど……今にして思うと、アイツ、ちゃんと耐えきっていたみたい。
--- TRANSLATION HERE
+"Algo así... aunque ahora que lo pienso, parecía que la soportaba bastante bien.
 }
 [sha:601c575a014f7a176e961bc5b894fc7a5827c162]{
 -- Page 612, Offset 18116.
 -- ……死徒としてはⅥ階梯クラスだったのに、なんであそこまで自我が残っていたのかしら……」
--- TRANSLATION HERE
+// mix de tls
+En lo que respecta a Apóstoles Muertos solo era de Rango VI,
+ me pregunto cómo pudo mantener ese nivel de consciencia..."
 }
 [sha:2c4ee014a377237aae50df1e1ee67fcb8ea2285a]{
 -- Page 613, Offset 18117.
 -- 「まあ、とんでもない連中だって事は分かったよ。
--- TRANSLATION HERE
+"Bueno, entiendo que son un grupo de personas con las que no te quieres involucrar.
 }
 [sha:c742f19f2ea84dd90faa0164b8be48fd60f22642]{
 -- Page 613, Offset 18118.
 -- それが何の間違いか俺たちの街にやってきて、俺たちが始末した。
--- TRANSLATION HERE
+// tl oficial
+No se lo que le trajo aquí,
+ pero ya nos hemos ocupado de él.
 }
 [sha:9a96fe5a0c24fdbd4f82f0d7b2b475b33ab141f2]{
 -- Page 613, Offset 18119.
 -- ……あまり考えたくないんだけど。これって、他の祖を怒らせる事になるのか？」
--- TRANSLATION HERE
+No se si quiero saber la respuesta, pero...
+ ¿esto es algo que puede haber cabreado a los otros Ancestros?"
 }
 [sha:cd8892992b1882580a32640a0ae638f9b67826a9]{
 -- Page 614, Offset 18120.
 -- 「あ、それは大丈夫。二十七祖は基本、敵同士だから。
--- TRANSLATION HERE
+"Ah, no tienes que preocuparte por eso.
+ Los Veintisiete Ancestros son hostiles entre ellos mayormente.
 }
 [sha:67914a8456437c261eb5139b077df7839490941c]{
 -- Page 614, Offset 18121.
 -- こんな島国でヴローヴが消えたところで気にする祖はいないわ」
--- TRANSLATION HERE
+// Tl oficial
+Nadie se va a molestar porque Vlov mordiese el polvo en esta pequeña isla."
 }
 [sha:ef5f0cbfde4651264b053d3a261e5dd924e14be7]{
 -- Page 615, Offset 18122.
 -- 「じゃあ、連中の報復はないんだな？」
--- TRANSLATION HERE
+"¿Entonces no hay que preocuparse por que traten de vengarse?"
 }
 [sha:bff4659a6b8a59bc5b6bd1d71f1f9b0d901e2f46]{
 -- Page 615, Offset 18123.
 -- 「ええ。協力関係にあるのは一部だけ。
--- TRANSLATION HERE
+"No, Solo un pequeño número de ellos trabajan juntos.
 }
 [sha:acb5b49a77dad097ddb65772fe7f6c1a285d40ce]{
 -- Page 615, Offset 18124.
 -- 古参の５匹……神代同盟に手を出さなければね。
--- TRANSLATION HERE
+Estaremos bien mientras no molestemos a los cinco veteranos de la Alianza de la Era de los Dioses.
 }
 [sha:ca09fae5ed2114aabb41124fdb16247d7ad62ea0]{
 -- Page 615, Offset 18125.
 -- とはいえ、アイツらも全員が全員、人間の敵って訳じゃないし、既に倒されている祖もいる」
--- TRANSLATION HERE
+// mix de tls
+Aunque no todos ellos son enemigos de la humanidad,
+ y algunos de ellos han sido derrotados.
 }
 [sha:a032975dc854c46f8c1c111510704f358ff3ddfc]{
 -- Page 616, Offset 18126.
 -- 「『二十七祖』というのは在り方を示す呼称だから変わらないけど、実際にはえーと……残り二十一祖かな？
--- TRANSLATION HERE
+"Les han llamado siempre Veintisiete Ancestros, por lo que el nombre ha permanecido,
+ pero en realidad solo quedan, um... ¿21 Ancestros, creo?"
 }
 [sha:5eef67362fed41c73c50c6fc36cdd7b89135541f]{
 -- Page 616, Offset 18127.
 -- ヴローヴが継承していたアッフェンバウムの原理、
--- TRANSLATION HERE
+Está el Principio de Vlov que heredó de Offenbaum,
 }
 [sha:6257e74010e3359a2b029b03518c673ed107de24]{
 -- Page 616, Offset 18128. Mods: @n.
 -- 『実り』の原理、『城、即ち王国』の
--- TRANSLATION HERE
+// Me baso en la tl oficial
+Cosecha', 'Castillo-
 }
 [sha:f2341c69d210bb7b6fea3599a77cd2e548eb01eb]{
 -- Page 616, Offset 18129. Glued.
 -- 原理、
--- TRANSLATION HERE
+// Me baso en la tl oficial
+ergo-Reino'
 }
 [sha:78ff6610edbfb0ff706053bbec6b87697975f01a]{
 -- Page 616, Offset 18130.
 -- 『剣』の原理、
--- TRANSLATION HERE
+// Me baso en la tl oficial
+Espada'.
 }
 [sha:551dd50c2f78c9332f1fb65605576cab54904cbd]{
 -- Page 616, Offset 18131.
 -- それと教会に封印された『熔ける』原理、
--- TRANSLATION HERE
+// Me baso en la tl oficial
+Y los dos sellados por la Iglesia: 'Derretir'
 }
 [sha:792060211ed56c9ec338bf9ea199c261d462faad]{
 -- Page 616, Offset 18132.
 -- 『四肢』の原理……」
--- TRANSLATION HERE
+// Me baso en la tl oficial
+y 'Cuatro Extremidades'
 }
 [sha:c0a03b1c30a586ebf9e5935f2cea14c910b724c8]{
 -- Page 617, Offset 18133.
 -- 「三千年近くかけて減ったのはこれだけ。
--- TRANSLATION HERE
+"Esos son los únicos que se han perdido en más de 3000 años.
 }
 [sha:356e6a35d464ffb753c366c20dac91c40dedaa33]{
 -- Page 617, Offset 18134.
 -- 教会はひとりの祖を封印するため、100年単位で準備しては実行していたけど、成功例はたったの二回。
--- TRANSLATION HERE
+A la Iglesia le lleva siglos prepararse para sellar a un solo Ancestro,
+ y solo han tenido éxito dos veces.
 }
 [sha:03016ee69a6a4c6a44ef099f4500cf6a1c33b8da]{
 -- Page 617, Offset 18135.
 -- どう？　今回のヴローヴ退治がどれだけ凄いコトだったか、ちょっとは実感できた？」
--- TRANSLATION HERE
+¿Y bien? ¿Empiezas a entender lo increíble que fue que eliminaras a Vlov?"
 }
 [sha:aa3ec171b6e3f6bfe3c8615e96121fe8577096ce]{
 -- Page 618, Offset 18136.
 -- 「……まあ、ほとんどおまえのおかげだけどな。
--- TRANSLATION HERE
+"Bueno... tu hiciste la mayoría.
 }
 [sha:617fb39226ebc123eedd2ffe9cbc4f24fe3ee442]{
 -- Page 618, Offset 18137.
 -- 凄いかどうかはともかく、二度とやりたくないのだけは痛感してる」
--- TRANSLATION HERE
+Increible o no, no quiero volver a hacer algo como eso."
 }
 [sha:7668bbe73a603f0a179bf492acfc1928f3d0fb92]{
 -- Page 618, Offset 18138.
 -- 「そこは安心して。この国にもう二十七祖はいないから」
--- TRANSLATION HERE
+"No te preocupes. Ninguno de los Veintisiete Ancestros se encuentra en este país."
 }
 [sha:5455b9118f9cc30ede4788c53015e0955bc1d679]{
 -- Page 619, Offset 18139.
@@ -636,10 +696,11 @@ Está bien oir eso.
 [sha:94e70032f2d795edfcf9c9d166e791b8d85b418b]{
 -- Page 619, Offset 18140.
 -- というか、一つの組織が100年かけた計画を返り討ちにするような怪物にほいほいやってこられても困る。
--- TRANSLATION HERE
+Si apareciese un monstruo que puede frustrar planes de cientos de años
+ estaríamos en problemas.
 }
 [sha:780e3ac380b75b73ae94e1fce5ffb556e22840c8]{
 -- Page 619, Offset 18141.
 -- それこそ自衛隊の出番ではないだろうか。
--- TRANSLATION HERE
+Si lo hiciera, sería mejor llamar al Ejército.
 }

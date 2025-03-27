@@ -26,7 +26,7 @@ Y para colmo, he dejado que mis modales se oxiden.
 [sha:691d254bf4cdc57fcfc5591b38093c91593ffd30]{
 -- Page 500, Offset 2426.
 -- 人間とは使用しない記憶を頭の隅においやる、最適化の権化である。つまり、俺がテーブルマナーを覚えている道理がない。
-Los humanos somos expertos en optimización, y dejámos las memorias sin usar en una esquina del cerebro. Naturalmente, los modales fueron una de las primeras cosas que se fueron.
+Los humanos somos expertos en optimización, y dejamos las memorias sin usar en una esquina del cerebro. Naturalmente, los modales fueron una de las primeras cosas en desaparecer.
 }
 [sha:3f97c0c53d2241f6e43ff1ed467d656671e00bb8]{
 -- Page 501, Offset 2427.
@@ -77,7 +77,7 @@ Las palabras del diablo, escalofriantes y sin un ápice de piedad, resuenan a lo
 [sha:5668efe71f887d8ca1bf336e1ff121deafd82bc0]{
 -- Page 505, Offset 2436.
 -- 「―――誰に、どのような？」
-"―――¿Para quién, y de que tipo?"
+"―――¿Para quién, y de qué tipo?"
 }
 [sha:80436d02368172187d4350c11cf0aac01e3728c5]{
 -- Page 505, Offset 2437.
@@ -107,7 +107,7 @@ Así que en eso estaba pensando mientras comía, con sus bonitas cejas retorcié
 [sha:e16975a6c2b553f42f86d0caec15c7bf60c43ca2]{
 -- Page 506, Offset 2442.
 -- どのような理由であれ、外出の時は私か琥珀、翡翠の許可をとるように」
-Si por cualquier razón tienes que salir, primero obtén permiso de Hisui o Kohaku, o mío mismamente."
+Si por cualquier razón tienes que salir, primero obtén permiso de Hisui o Kohaku, o mío."
 }
 [sha:c55b82f406a46e151e1d07a56e70f51bb9868551]{
 -- Page 507, Offset 2443.
@@ -137,7 +137,7 @@ Por lo que me han dicho, tus notas son completamente mediocres, ¿no?
 [sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
 -- Page 508, Offset 2448. Mods: @k, @e.
 -- ……
-...
+%{nothing}
 }
 [sha:5aab2ff6f6fbc56ba3f08b4172472428e9c71a9f]{
 -- Page 508, Offset 2449. Glued. Mods: @x.
@@ -148,7 +148,7 @@ Honestamente, no has cambiado ni un poco...
 [sha:921de26bcc4bd00a926221196fb6c794bed04f22]{
 -- Page 508, Offset 2450.
 -- 「とんでもない。俺はいつだって全力だ」
-"De ninguna manera. Estoy dando lo mejor de mí." 
+"De ninguna manera. Estoy dando lo mejor de mí."
 }
 [sha:79f18b6a83175e2548822b5cfe586858b791efd7]{
 -- Page 509, Offset 2451.
@@ -159,7 +159,7 @@ Honestamente, no has cambiado ni un poco...
 [sha:d918908bff2a3b1cf888bad7718a37b093d3ecf7]{
 -- Page 509, Offset 2452.
 -- 兄さんはやればできる人なんですから、お体の事を考慮しても学年三位以内は当然でしょう」
-Sé que eres una persona que puede hacerlo si se esfuerza. Incluso teniendo en cuenta tu salud, deberías estar el top trés de tu curso, ¿no?"
+Sé que eres una persona que puede hacerlo si se esfuerza. Incluso teniendo en cuenta tu salud, deberías estar el top tres de tu curso, ¿no?"
 }
 [sha:c4c92a8df6d65c5ba18c8ed294fdee2bd909cb01]{
 -- Page 510, Offset 2453.
@@ -200,13 +200,13 @@ Pero antes de eso――Nii-san, saca esa cosa."
 -- Page 512, Offset 2460.
 -- あるでしょう。兄さんのズボンにも。若者の象徴のような汚らわしいアレが。
 Tu %{i}tienes%{/i} uno, ¿no?
- En tus pántalones.
- Esa sucia cosa es el símbolo de la juventud.
+ En tus pantalones.
+ Esa sucia cosa que es el símbolo de la juventud.
 }
 [sha:82bbb06ad057416b45d6fea1e86e47db58ebcf36]{
 -- Page 512, Offset 2461.
 -- それを隠さずに出しなさい、と言っているのです」
-Te digo que dejes de esconderlo y lo saques."
+Digo que dejes de esconderlo y lo saques."
 }
 [sha:f5543f93efb2862d91f7c473b4eb65e87339f2a4]{
 -- Page 513, Offset 2462.
@@ -217,7 +217,7 @@ Te digo que dejes de esconderlo y lo saques."
 -- Page 513, Offset 2463.
 -- これが上流階級のする事か!?　一般市民をなんだと思っているんだ、おまえは!?」
 ¡¿Es esto lo que hacen lo hacen los aristócratas?!
- ¡¿Por qué nos tomaís a la gente normal?!"
+ ¡¿Por qué nos tomáis a la gente normal?!"
 }
 [sha:07b26da5c4b72e85d53686242b481819c4b6f15a]{
 -- Page 514, Offset 2464.
@@ -242,7 +242,7 @@ Por supuesto."
 [sha:bd42c9a44c0d60ead86c7f982c4b7e30c3eac5c0]{
 -- Page 515, Offset 2468.
 -- ズボンの後ろポケットにしまっていた携帯端末を取り出す。
-Saco el móvil. El cuál había estado guardando en mi bolsillo de atrás de mis pantalones.
+Saco el móvil. El cual había estado guardando en el bolsillo de atrás de mis pantalones.
 }
 [sha:e83ffc18272b7961a182a9c5aee1e157018ee172]{
 -- Page 515, Offset 2469.
@@ -268,7 +268,7 @@ Finalizando la conversación, Akiha deja el comedor.
 [sha:ec85bc4f900ec6d84423d795c98ad9e0f01ce5ac]{
 -- Page 518, Offset 2473.
 -- 本日何度目かの、そして最大のショックに立ち尽くす。
-Me quedo tambaleándo del shock por enésima vez hoy. Que narices, esta pudo haber sido la peor de hoy.
+ Por enésima vez hoy, me quedo temblando del shock. Que narices, esta pudo haber sido la peor del día.
 }
 [sha:4bc8638b8e2011de69d9a783b4f6eb93585392fa]{
 -- Page 518, Offset 2474.

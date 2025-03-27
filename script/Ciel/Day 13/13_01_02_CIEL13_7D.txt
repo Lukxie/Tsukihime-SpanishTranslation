@@ -51,7 +51,7 @@
 [sha:cda1030ed7098c0e5785af6c23980e3a8c06594b]{
 -- Page 352, Offset 36307.
 -- ぽつりと。
--- TRANSLATION HERE
+Sólo tres palabras.
 }
 [sha:917fb31b3b5160413f4e10ac754a924d98b30fe4]{
 -- Page 352, Offset 36308.

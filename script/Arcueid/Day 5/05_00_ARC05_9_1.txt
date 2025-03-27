@@ -1,32 +1,34 @@
 [sha:b0992e4d96dbbcf527611645cefdfe06926b2bb4]{
 -- Page 10026, Offset 10750.
 -- 投擲だ。
--- TRANSLATION HERE
+Tiene que ser lanzandome.
 }
 [sha:8b569b57de813cc207767034c082f856b5680814]{
 -- Page 10026, Offset 10751.
 -- いや、正しくは弾丸か。
--- TRANSLATION HERE
+Bueno, más precisamente, disparándome como una bala.
 }
 [sha:c34fe1648568996ee49ed0eab9dfdd47ecbbb090]{
 -- Page 10026, Offset 10752.
 -- 警戒されたとはいえ、俺がヤツにとって死の凶器である事に変わりは無い。
--- TRANSLATION HERE
+// Me baso mas en el japones
+Incluso si tiene la guardia alta, no cambia el hecho de que yo sea un arma mortal.
 }
 [sha:7430193771db62b29780690b42c7ad83ad2b92ea]{
 -- Page 773, Offset 10753.
 -- あとはこれをどう撃ち込むかという話。
--- TRANSLATION HERE
+El único problema ahora es %{i}como%{/i} dispararme.
 }
 [sha:9b04f27b1cdcf222137de40e6bf07a649ae9b15c]{
 -- Page 773, Offset 10754.
 -- 単純だ。俺の脚ではたどり着けないなら、俺以外のものに頼ればいい……！
--- TRANSLATION HERE
+Pero eso es fácil.
+ ¡Si mi piernas no sirven, simplemente usaré otra cosa!
 }
 [sha:37a671def28e07be82b190e94ab81a2f096e9a78]{
 -- Page 774, Offset 10755.
 -- 後方のアルクェイドまで走る。
--- TRANSLATION HERE
+Corro hacia Arcueid.
 }
 [sha:fda297ca50faf7c7b71dc0e83225128e187d3179]{
 -- Page 774, Offset 10756.
@@ -36,307 +38,327 @@
 [sha:e0498f2249d138924fe05a1db57ebd78cecb64e9]{
 -- Page 774, Offset 10757.
 -- 背中で氷の砕ける音がする。
--- TRANSLATION HERE
+Escucho el sonido del hielo rompiéndose detrás de mí.
 }
 [sha:272d90cda65a68017925f53eaa34662bd111d2ea]{
 -- Page 774, Offset 10758.
 -- アルクェイドが起こす爪の形をした風圧は、彼女の手が届く範囲だけでなく、この距離でも正確に発生するようだ。
--- TRANSLATION HERE
+Supongo que las ondas con forma de garra de Arcueid no están limitadas al combate cuerpo a cuerpo――
+también son precisas a distancia.
 }
 [sha:a4dc502f49c13ab58224cdd39d471ce4cbbf2bb5]{
 -- Page 775, Offset 10759.
 -- 「もう、なんでこっちに来たの！？　標的が一つになっちゃうじゃない！」
--- TRANSLATION HERE
+"%{i}Ugh%{/i}, ¡¿A qué has venido aquí?!
+ ¡Nos has vuelto un único objetivo!"
 }
 [sha:a4ee3449f2fe3dd61aa7d581d77ec8eeaf30c738]{
 -- Page 776, Offset 10760.
 -- 獲物はまとまっていた方がヴローヴには好都合だ。
--- TRANSLATION HERE
+Le hacemos un favor a Vlov agrupandonos.
 }
 [sha:58204dcc68ee8da2878dd8c0cfd01f63a4ce6663]{
 -- Page 776, Offset 10761.
 -- それは俺も分かっている。
--- TRANSLATION HERE
+Soy muy consciente de ello.
 }
 [sha:a53e95c83b1d4b74b2377a80e5002c5cc197ab41]{
 -- Page 777, Offset 10762.
 -- 「分かってる、でもこれしかない！
--- TRANSLATION HERE
+"¡Lo sé, no hay otra manera!"
 }
 [sha:3f301539d0b4fd59f9318dfd3334b4f1938a418c]{
 -- Page 777, Offset 10763.
 -- いま瓦礫をブン投げただろ！？
--- TRANSLATION HERE
+¡¿Acabas de lanzar esa roca, verdad?!
 }
 [sha:33b1288a959be2de233e33e83cc7984c6d0ac083]{
 -- Page 777, Offset 10764.
 -- それ、俺にもやってくれ！」
--- TRANSLATION HERE
+// Tl oficial
+¡Necesito que me lances de la misma forma!"
 }
 [sha:179623ba72b77c977b2c76299e1ab1ff59bfde20]{
 -- Page 777, Offset 10765.
 -- 「はあ！？」
--- TRANSLATION HERE
+// Tl oficial
+"¡¿Qué?!"
 }
 [sha:a0669d9de75b98a12c415f5f508d7f8dc2b97371]{
 -- Page 778, Offset 10766.
 -- 正確には『俺でやってくれ』だ。
--- TRANSLATION HERE
+// Tl oficial
+Para ser preciso, quiero que me lance con %{i}eso%{/i} .
 }
 [sha:b08940796ad9241300a23cf9ba3a84f5e36c4b74]{
 -- Page 778, Offset 10767.
 -- 先ほどの瓦礫は３メートル近い床の一部だった。
--- TRANSLATION HERE
+El trozo de suelo que ha tirado antes era una losa de roca de unos tres metros de largo.
 }
 [sha:dbdaaf8077478fa010ee0bee5590bb538c9f00a1]{
 -- Page 778, Offset 10768.
 -- それをあのスピードで投げ飛ばせるのなら、俺が走るより何倍も速い！
--- TRANSLATION HERE
+¡Si puede lanzar algo tan grande a esa velocidad,
+ puedo llegar mucho más rápido que si fuera corriendo!
 }
 [sha:74c94de391f8356aebf86dd0e2949bd267f43d78]{
 -- Page 779, Offset 10769.
 -- 「言いたいコトはだいたい分かったけど！
--- TRANSLATION HERE
+"¡Creo que entiendo lo que dices!
 }
 [sha:704018414ccd75a76051e17c82a681de32b37232]{
 -- Page 779, Offset 10770.
 -- それ、途中で振り落とされない！？」
--- TRANSLATION HERE
+¡¿Pero no te caerías a mitad de camino?!"
 }
 [sha:d91c15bef9a819add86ce6a3eb112526ab98e301]{
 -- Page 779, Offset 10771.
 -- 「普通ならな！　でも縛るものならいくらでも出せるだろ、おまえ！」
--- TRANSLATION HERE
+"¡Normalmente, sí!
+ Pero puedes hacer aparecer tantas lianas de esas como quieras, ¿verdad?"
 }
 [sha:85b47ca11bf1ce7832f57822e198bb3fe00748b1]{
 -- Page 779, Offset 10772.
 -- 「―――そりゃあ、出せるけど」
--- TRANSLATION HERE
+"Supongo que.. %{i}puedo%{/i}, pero..."
 }
 [sha:4654ca6dbff6d29b51b7f0cb73e6e764477d005e]{
 -- Page 780, Offset 10773.
 -- アルクェイドは躊躇しているが、今はこれしかない。
--- TRANSLATION HERE
+Aunque Arcueid dude, no es que tengamos más opciones.
 }
 [sha:8ec09885b2e59c5de08752ca067fc468940082ee]{
 -- Page 780, Offset 10774.
 -- 俺が隠れられる大きさの瓦礫に縛り付けてもらい、ヴローヴまで投擲してもらう。
--- TRANSLATION HERE
+Haré que me ate a un cacho de escombro lo suficientemente grande como para que me esconda tras el,
+ y haré que me lance hacia Vlov.
 }
 [sha:469d3418c939f9ccc663a33c4cf27fe90967bf02]{
 -- Page 780, Offset 10775.
 -- もちろんヴローヴを直接狙っては撃ち落とされる。
--- TRANSLATION HERE
+Obviamente, si me lanza directamente hacia él, me derribará.
 }
 [sha:a340343eb2352c452219b5274d359f61fa404c7d]{
 -- Page 780, Offset 10776.
 -- 投擲する瓦礫は、可能であれば三発。
--- TRANSLATION HERE
+Así que si es posible, debería lanzar tres trozos de escombros.
 }
 [sha:64b9a05a676348ef9fa06f60c5706a805e063bbb]{
 -- Page 781, Offset 10777.
 -- 一発目はヴローヴを直接狙い、
--- TRANSLATION HERE
+El primero debe apuntar directamente a Vlov.
 }
 [sha:84f93710c2edd6d0fa271e2dd3e920b48d04b600]{
 -- Page 781, Offset 10778.
 -- 二発目はわざと狙いを外してヴローヴの後方に、
--- TRANSLATION HERE
+El segundo debe fallar deliberadamente y aterrizar detrás de él.
 }
 [sha:84df058f70a6f9876659b16ea77850ec33607974]{
 -- Page 781, Offset 10779.
 -- 三発目は再びヴローヴを狙う。
--- TRANSLATION HERE
+Y el tercero debe apuntarle a él de nuevo.
 }
 [sha:751d8e3abef2068694be4ca9d10c0d4c23ea183b]{
 -- Page 782, Offset 10780.
 -- 俺が潜んでいるのは二発目だ。
--- TRANSLATION HERE
+El segundo disparo es tras el cual me estaré escondiendo.
 }
 [sha:c649cdec084c1ec33fcb988a1399cf5fc7cda950]{
 -- Page 782, Offset 10781.
 -- 地面に落下する直前、瓦礫に走る『線』を斬って解体し、２秒以内にヴローヴの背後をとってやる……！
--- TRANSLATION HERE
+Justo antes de que golpee el suelo,
+ cortaré las 'líneas' del escombro para romperlo,
+ ¡y mataré a Vlov por la espalda en menos de dos segundos!
 }
 [sha:7cba2c726828fc8a015f468948c54070c3f7d97f]{
 -- Page 783, Offset 10782.
 -- 「本当にそれでいいの？
--- TRANSLATION HERE
+"¿Estás seguro que quieres hacer eso?
 }
 [sha:0ece463a3817c3783e0aa5bc1ca9df61c009e141]{
 -- Page 783, Offset 10783.
 -- タイミング逃したら衝突死体よ？」
--- TRANSLATION HERE
+// De la tl oficial
+Si no te coordinas bien, morirás del impacto."
 }
 [sha:7f033c0e11020f783c1e2875ed91a27c331c0071]{
 -- Page 783, Offset 10784.
 -- 「逃したらな。うまくいけば無傷で殺せる、唯一の手段だ」
--- TRANSLATION HERE
+"Pero eso es solo si la cago.
+ Si todo va bien, podremos matarlo sin sufrir un rasguño.
+ Esta es la única forma."
 }
 [sha:0a69dc8f56303a1bde262925c0334a98c5b32fe0]{
 -- Page 784, Offset 10785.
 -- 氷の槍の掃射は勢いを増している。
--- TRANSLATION HERE
+El bombardeo de lanzas de hielo cada vez es más intenso.
 }
 [sha:90e9c195f7b48071ec3d8df84c6296fc4a845bc1]{
 -- Page 784, Offset 10786.
 -- これ以上、ここで時間は使えない。
--- TRANSLATION HERE
+No puedo perder más tiempo.
 }
 [sha:ceeb7f4c8268725c52e739e7fc3ca2b2fa96135a]{
 -- Page 785, Offset 10787.
 -- 「―――わかった。ヴローヴを狙いながら、志貴の乗った瓦礫だけ外すのね？」
--- TRANSLATION HERE
+"Muy bien pues.
+ Así que tengo que apuntar a Vlov, pero fallar a propósito en la que vas tu, ¿cierto?"
 }
 [sha:9c373c39d226b451aa874e736d4bb295299fbf8b]{
 -- Page 785, Offset 10788.
 -- 「ああ。アイツの横を通り過ぎるくらいでいい」
--- TRANSLATION HERE
+"Sí. Lánzalo para que pase a su lado o así."
 }
 [sha:74f815bbedbf34bf0acd7646f48e797de25ef0b8]{
 -- Page 786, Offset 10789.
 -- アルクェイドの後ろにまわる。
--- TRANSLATION HERE
+Me pongo detrás de Arcueid.
 }
 [sha:1b78d93db28526f163a0e7fa5baa0efd0496b801]{
 -- Page 786, Offset 10790.
 -- 大きめの瓦礫に身を寄せる。岩肌に体をつけ、腕立て伏せの状態になる。
--- TRANSLATION HERE
+Me tumbo contra un gran escombro.
+ Con mi cuerpo contra la superficie rocosa, me coloco como si estuviera haciendo una flexión.
 }
 [sha:6b06e82c483b96c02e155d23c25c735a975090d6]{
 -- Page 787, Offset 10791.
 -- アルクェイドの指先から現れた緑の蔦が、俺を瓦礫に縛り付ける。
--- TRANSLATION HERE
+Hiedra verde emerge de los dedos de Arcueid y me ata al escombro.
 }
 [sha:2f8d830de62fda0d5b23c6d8975ddb988d98df80]{
 -- Page 787, Offset 10792.
 -- 両脚の太股と、左手が瓦礫に固定される。ナイフを持った右手だけが自由になる。
--- TRANSLATION HERE
+Ambas piernas y mi mano izquierda están atadas a él.
+ Lo único libre es mi mano derecha en la que tengo el cuchillo.
 }
 [sha:45189a7e1e34bc69a058ba85d464338fbb6e8d22]{
 -- Page 788, Offset 10793. Mods: @n.
 -- 「ヴローヴまで50メートル、
--- TRANSLATION HERE
+"Basándome en el que lanzó antes, diría que Vlov está a unos...
 }
 [sha:a58f49fadc0afd816737c5f05cd9def23cf67184]{
 -- Page 788, Offset 10794.
 -- さっきのがあんな感じだったから―――」
--- TRANSLATION HERE
+%{force_glue}
+ cincuenta metros.
 }
 [sha:77d41ec40ee7e8fd4a5bd9ec26c1fe9307e5ab84]{
 -- Page 789, Offset 10795.
 -- アルクェイドは両手で、ただの瓦礫と、俺が隠れている瓦礫を持ち上げると、
--- TRANSLATION HERE
+Usando ambas manos, Arcueid levanta el escombro señuelo junto al uno en el que me escondo.
 }
 [sha:450569f3d9611832e43e44e128c746ff1c25f3a9]{
 -- Page 789, Offset 10796.
 -- 「うん、４秒我慢して！！」
--- TRANSLATION HERE
+"Muy bien, ¡aguanta unos cuatro segundos!"
 }
 [sha:6eaf19b33492c1ca6b91ddb65029c028b0dc0b65]{
 -- Page 790, Offset 10797.
 -- 空中を走る１トンの<岩盤|だんがん>。
--- TRANSLATION HERE
+Una tonelada de roca sale volando por los aires.
 }
 [sha:5169b7d82b3523ccc64830ff173091c566f39519]{
 -- Page 790, Offset 10798.
 -- ３秒後。
--- TRANSLATION HERE
+Han pasado tres segundos.
 }
 [sha:a7cf29f7217ee3899225d7d0581a6d7d53beb1d4]{
 -- Page 790, Offset 10799.
 -- 空気抵抗による失速を力でねじ伏せるように、一投目はヴローヴの頭部に飛来し、
--- TRANSLATION HERE
+// Tl oficial
+Desafiando la resistencia del aire, la primera roca se dirige directamente a la cabeza de Vlov―――
 }
 [sha:2925c503211429c60b0e6b1d523155d92a516e5f]{
 -- Page 790, Offset 10800.
 -- 命中する直前、氷槍によって砕け散った。
--- TRANSLATION HERE
+Y es destruida por su lanza de hielo justo antes del impacto.
 }
 [sha:1457034152f25a48939272701b56780718cf590d]{
 -- Page 791, Offset 10801.
 -- とはいえ無為に終わった訳ではない。
--- TRANSLATION HERE
+Sin embargo, no fue en vano.
 }
 [sha:d639675a1f578fa8b32f1ef447b6ceab8fa2fd40]{
 -- Page 791, Offset 10802.
 -- 瓦礫は砕かれたものの、その破片の何割かはヴローヴの体に直撃した。
--- TRANSLATION HERE
+Aunque el escombro se fracturara,
+ parte de los fragmentos impactaron directamente en el cuerpo de Vlov.
 }
 [sha:190416e7f3cc9c01f96163fcdfde4c0649b1a7fb]{
 -- Page 791, Offset 10803.
 -- ダメージは無くとも意識を削ぐ事はできている。
--- TRANSLATION HERE
+// Tl oficial
+Puede que no lo hayan dañado, pero al menos han conseguido distraerlo brevemente.
 }
 [sha:6ce7b4c781091fe01c451b9a1b4cd504b85aea8e]{
 -- Page 792, Offset 10804.
 -- その隙に、俺を乗せた瓦礫はヤツの真横を通り過ぎた。
--- TRANSLATION HERE
+En esa apertura, el escombro en el que voy pasa a su lado.
 }
 [sha:11759e7dffa3e5aa3bb8387c5a7a373291f4db1f]{
 -- Page 793, Offset 10805.
 -- 瓦礫を解体する。
--- TRANSLATION HERE
+Desmantelo el escombro.
 }
 [sha:6f7a9231c10bf7393c666a5917acc89a5958a4dc]{
 -- Page 793, Offset 10806.
 -- 慣性が停止する。
--- TRANSLATION HERE
+La inercia se detiene.
 }
 [sha:c6a10e9867a61d563e10bcd8cbe708c584e8a23b]{
 -- Page 793, Offset 10807.
 -- 手足が自由になる。
--- TRANSLATION HERE
+Mis extremidades son liberadas.
 }
 [sha:7524168b1e4eab9519ff0ce2ba089b6b21218fd1]{
 -- Page 793, Offset 10808.
 -- トカゲのように地面に吸い付く。
--- TRANSLATION HERE
+Me pego al suelo como un lagarto.
 }
 [sha:94344b5b296860933d1ae9e8ca4070af70c8475a]{
 -- Page 793, Offset 10809.
 -- 体温が、血液が、この一瞬で凍結していく。
--- TRANSLATION HERE
+Mi temperatura corporal y sangre se congelan al instante.
 }
 [sha:b095c50c6e5d9610efd825cecca0b2f41d9764a9]{
 -- Page 794, Offset 10810.
 -- 「―――ハァ」
--- TRANSLATION HERE
+"―――%{i}Haa%{/i}."
 }
 [sha:c8924b45ab7f9744095bf425b73c3978e140592d]{
 -- Page 794, Offset 10811.
 -- ヴローヴの背中が見える。
--- TRANSLATION HERE
+Puedo ver la espalda de Vlov.
 }
 [sha:f84d102f24f3a2c3d7f896a1254872c45e677c8f]{
 -- Page 794, Offset 10812.
 -- 距離は４メートル。ギリギリだが不可能ではない。
--- TRANSLATION HERE
+Cuatro metros. Estará apurado, pero no es imposible.
 }
 [sha:ef69d8aedb1e0b66347b7b64b71e7d9ec5a3a799]{
 -- Page 795, Offset 10813.
 -- アルクェイドの三投目がヴローヴの動きを止めている。
--- TRANSLATION HERE
+El tercer lanzamiento de Arcueid lo mantiene en posición.
 }
 [sha:6ac306a53849a5576cdf3fff79b81bb684ef1dfe]{
 -- Page 795, Offset 10814.
 -- １秒経過。残り１メートル。
--- TRANSLATION HERE
+Pasa un segundo. Queda un metro.
 }
 [sha:adead926fddd76099c5450058590ce208554069a]{
 -- Page 795, Offset 10815.
 -- あと二歩踏み込めば、ヤツの命を絶つ『線』に届く。
--- TRANSLATION HERE
+Dos pasos más y seré capaz de alcanzar su 'línea' y cortar su vida.
 }
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 796, Offset 10816.
 -- だが。
--- TRANSLATION HERE
+Sin embargo―――"
 }
 [sha:b67413bda7bfb4d229ffb04d632a5c957b27b4f2]{
 -- Page 796, Offset 10817.
 -- その二歩を縮める事は、人間には不可能だった。
--- TRANSLATION HERE
+Aquellos dos pasos son un límite que ningún humano puede cruzar.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 797, Offset 10818.
@@ -346,65 +368,69 @@
 [sha:85c7330170dccd9a5ed9a4c8d9072a4e0b5fe704]{
 -- Page 797, Offset 10819.
 -- 悲鳴をあげるだけの余裕も、
--- TRANSLATION HERE
+Mi capacidad de gritar se hiela―――
 }
 [sha:1a83fcc05740cf8545d9966a645e2c3ef3ed2347]{
 -- Page 797, Offset 10820.
 -- 苦痛を感じるだけの感覚も、既に凍っていた。
--- TRANSLATION HERE
+Junto a mi capacidad para sentir dolor.
 }
 [sha:286b50a7cd3e063c5a89e0114f3b8b25244e4e0b]{
 -- Page 797, Offset 10821.
 -- 俺に気づいていたのか、自動的な迎撃なのか。
--- TRANSLATION HERE
+¿Se dió cuenta, o fue un reflejo inconsciente?
 }
 [sha:788003dfe6bd879e9433c04edd9b82656cdefcf4]{
 -- Page 797, Offset 10822.
 -- ヴローヴの周囲には、襲撃者を迎え撃つ氷の茨が、無数に生えていた。
--- TRANSLATION HERE
+Incontables pinchos de hielo brotan alrededor de Vlov para recibir a su potencial asaltante.
 }
 [sha:cdd7b1c954e50138e887a698ca5559354d2e0582]{
 -- Page 798, Offset 10823.
 -- 「“―――愚かにも、安全を拾ったな”」
--- TRANSLATION HERE
+// Tl oficial.
+"Fuiste un necio al buscar la opción más segura."
 }
 [sha:6a6ae38ffccba0042dd24854c56d44f5079b85b5]{
 -- Page 798, Offset 10824.
 -- 失望した声が届く。
--- TRANSLATION HERE
+Escucho una voz decepcionada.
 }
 [sha:f1f7ce1d4ae3bfe0f16a831d4f2bd1e235f34712]{
 -- Page 798, Offset 10825.
 -- 安全。安全。そうか、安全か。
--- TRANSLATION HERE
+Seguridad... Seguridad... Ese era el problema parece.
 }
 [sha:37d78c252e48ad984e35b43453fd6006811ac17e]{
 -- Page 798, Offset 10826.
 -- 俺は自分が助かる方法を考えた。
--- TRANSLATION HERE
+Estaba pensando en cómo salvarme.
 }
 [sha:626ce22ebe5d5fe375ecdc8a6fe9bb16aff9cd17]{
 -- Page 798, Offset 10827.
 -- アルクェイドは俺を気遣って、他の投擲より遅い、１秒分の手加減をした。
--- TRANSLATION HERE
+Preocupado por mi seguridad,
+ Arcueid lanzó la roca que me llevaba un poco más lento que el resto.
 }
 [sha:dfc5a061d663e71951bc6efb17ba88d22ebdc83e]{
 -- Page 798, Offset 10828.
 -- ……失敗した。浅はかにも程がある。
--- TRANSLATION HERE
+La he cagado... no me creo que pensara que esto iba a funcionar.
 }
 [sha:8f650f60aabb568789394d09c6230c22638f437c]{
 -- Page 798, Offset 10829.
 -- こんなもの、奇襲でもなんでもない。
--- TRANSLATION HERE
+Esto ni siquiera se acerca a un ataque sorpresa.
 }
 [sha:b9713ed2ae259d89774f66d09e5fa199b4d276c7]{
 -- Page 799, Offset 10830.
 -- 出血死を待つまでもない。
--- TRANSLATION HERE
+No tengo que esperar a desangrarme.
 }
 [sha:01acf044a22ec440b8a5eebb771da49902321176]{
 -- Page 799, Offset 10831.
 -- ヴローヴに罹った寒波と、己への失望から、俺の心臓は完全に停止していた。
--- TRANSLATION HERE
+La ola de frío que emana de Vlov,
+ combinada con mi propia decepción,
+ han parado mi corazón por completo.
 }

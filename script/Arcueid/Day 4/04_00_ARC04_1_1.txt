@@ -38,7 +38,7 @@ Me preguntaba por qué vas desde aquí."
 [sha:98ec56d9a0df5f3ec93f415cab06efe72216f78b]{
 -- Page 71, Offset 5738.
 -- 「浅上のおじさまとお父様は懇意の間柄でしたから、多少の我が侭は聞いていただけます。
-"El director de Asagami y Padre eran amigos cercanos, así que admitió mi petición egoista.
+"El director de Asagami y Padre eran amigos cercanos, así que admitió mi petición egoísta.
 }
 [sha:3b7deac8199dcacb3ea6aa5384e091434321bbb3]{
 -- Page 71, Offset 5739.
@@ -107,7 +107,7 @@ Tohno Makihisa no permitía que Akiha tuviera tiempo libre incluso tras comenzar
 [sha:192a98c7e3946c45aa955d653c893dda2e468aaa]{
 -- Page 76, Offset 5751.
 -- ただでさえ忙しいのに、往復二時間もかけるなんて馬鹿らしい。その分、寄宿舎で友達と過ごした方が楽しいだろ？」
-Ya estas lo suficientemente ocupada, me parece una locura pasarte dos horas yendo y viniendo de la escuela.
+Ya estás lo suficientemente ocupada, me parece una locura pasarte dos horas yendo y viniendo de la escuela.
  Además, ¿no te lo pasarías mejor si vivieses en el dormitorio con tus amigas?"
 }
 [sha:65f187af135d3b43559089988dca0c6e38baa18d]{

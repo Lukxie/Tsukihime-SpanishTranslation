@@ -506,7 +506,7 @@
 [sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
 -- Page 100, Offset 35545. Mods: @n.
 -- だから。
--- TRANSLATION HERE
+Es por eso que―――
 }
 [sha:2bf5c52362fe0ccb1b26da5ed2904f0ffb5d69b1]{
 -- Page 100, Offset 35546.

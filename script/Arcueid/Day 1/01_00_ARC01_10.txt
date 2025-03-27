@@ -21,7 +21,7 @@ Sin razón aparente.
 [sha:30a4432edba39cbafdfa955b2fb8e763be973206]{
 -- Page 549, Offset 2565. Mods: @n.
 -- 眠りの途中で目が覚めたのはいつ以来だろう。
-Me pregunto cual fue la última vez que me desperté en medio de la noche.
+Me pregunto cuál fue la última vez que me desperté en medio de la noche.
 }
 [sha:d3103093d70efe1b81dc253e582973c3003f20eb]{
 -- Page 550, Offset 2567.
@@ -106,7 +106,7 @@ Me llama la atención un armario viejo, así que abro el cajón desgastado y mir
 [sha:7e7bd1af1a7e25c5ce0094a04748cfe4465915b6]{
 -- Page 557, Offset 2583.
 -- そこにあるのは、取るに足りない小物ばかりだ。
-Dentro no hay mas que pequeñas, e insegnificantes cosas.
+Dentro no hay más que pequeñas, e insignificantes cosas.
 }
 [sha:e6c745667edc3c156cdefba5e813b4c4240187ab]{
 -- Page 557, Offset 2584.

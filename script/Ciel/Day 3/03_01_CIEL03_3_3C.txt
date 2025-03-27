@@ -421,7 +421,7 @@
 [sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
 -- Page 275, Offset 5553.
 -- 返事はない。
--- TRANSLATION HERE
+No hay respuesta.
 }
 [sha:67b8c2baaa573de68ca68c7863c1758b5e99e50d]{
 -- Page 275, Offset 5554.

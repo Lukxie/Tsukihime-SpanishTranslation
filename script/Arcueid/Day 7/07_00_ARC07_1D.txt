@@ -1,7 +1,7 @@
 [sha:728e30ba31402b1375c820482b48ce85a6f8cb91]{
 -- Page 10003, Offset 16851. Mods: @n.
 -- 一日の授業が終わり、放課後になった
--- TRANSLATION HERE
+Habiendo terminado las clases, la escuela termina por hoy
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 10003, Offset 16852. Glued.
@@ -11,192 +11,197 @@
 [sha:ead963addf41d6923df6455e1cce5e6c27e95ce2]{
 -- Page 10003, Offset 16853.
 -- いや、いつのまにか放課後になっていた、と言うべきだ。
--- TRANSLATION HERE
+// Tl oficial
+O debería decir que se terminó antes de que me diera cuenta.
 }
 [sha:b2798f52f1dd2a1ff40642c79b3a9042e7a34130]{
 -- Page 10003, Offset 16854.
 -- 悪い考えばかりが頭の中を巡って、気がつけば教室には誰もいなくなっていた。
--- TRANSLATION HERE
+Estaba tan absorto en estos pensamientos oscuros que me acabo de dar cuenta que estoy solo en clase.
 }
 [sha:c6bd6ec7b516b24b0d2e0c9a2ebd5f4b25367d1b]{
 -- Page 113, Offset 16855.
 -- 「……通り魔殺人は、まだ続いている」
--- TRANSLATION HERE
+"El asesino en serie... sigue suelto."
 }
 [sha:a20d8ef0533decc2bfc9b21deb0c8e5523f5455d]{
 -- Page 113, Offset 16856.
 -- それがどういう意味なのか、本来なら考えるまでもない。
--- TRANSLATION HERE
+Normalmente, sería obvio lo que esto significa.
 }
 [sha:11c1a7deb6a7208bd98c16b6dfdee1ca326125e9]{
 -- Page 113, Offset 16857.
 -- でもあいつは言った。
--- TRANSLATION HERE
+Pero recuerdo que me dijo algo.
 }
 [sha:d41332c1c02abf76c0a4cce9c532495c7ded9f46]{
 -- Page 113, Offset 16858.
 -- 人間を殺した事はない、と。
--- TRANSLATION HERE
+Nunca he matado un ser humano.'
 }
 [sha:32365307c5a86d90c050bab54f65b8f26a2863eb]{
 -- Page 113, Offset 16859.
 -- 俺にはあの言葉が嘘とはどうしても思えない。
--- TRANSLATION HERE
+// Mentirosas todas
+No la veo mintiéndome sobre eso.
 }
 [sha:5dcf5ecde19ebfbf49a05bf16d8100167d8c294b]{
 -- Page 114, Offset 16860.
 -- 「……ニュースが間違いなのか、それとも―――」
--- TRANSLATION HERE
+"Quizá las noticias se equivocaban. O quizá―――"
 }
 [sha:9904a07fc38a7e19ba896ee690bebf69fb204206]{
 -- Page 114, Offset 16861.
 -- 答えを知っているのはアルクェイド本人だけだ。
--- TRANSLATION HERE
+La única que lo sabe con seguridad es Arcueid misma.
 }
 [sha:5323fe68c6083e6a3fedcc634deeb3e800322f53]{
 -- Page 114, Offset 16862.
 -- あいつを探し出して、もう一度出会えれば、きっとすべてが氷解するだろう。
--- TRANSLATION HERE
+Si la puedo localizar y verla de nuevo, estoy seguro de que todo se aclarará.
 }
 [sha:0091850ac31913e79780a1d3d3544fede12e63d7]{
 -- Page 115, Offset 16863.
 -- ……だからこそ、俺には自分が分からない。
--- TRANSLATION HERE
+Aunque no se porque sigo queriendo hacerlo...
 }
 [sha:7f9f7b7f8b88fda83f9ccc75bfae500037bfbc94]{
 -- Page 115, Offset 16864.
 -- もうあんな事件と俺は無関係だ。
--- TRANSLATION HERE
+Esos asesinatos ya no son de mi incumbencia.
 }
 [sha:7ca172afd97da06366af3e09f1fb1a6decdde09a]{
 -- Page 116, Offset 16865.
 -- 俺はヴローヴと決着をつけた時点で日常に戻ってきた。
--- TRANSLATION HERE
+Mi vida volvió a la normalidad en el momento que ajusté cuentas con Vlov.
 }
 [sha:0818345502e0115dfb44b7518b37aaa038d70244]{
 -- Page 116, Offset 16866.
 -- 責任は果たした。果たした筈だ。
--- TRANSLATION HERE
+He cumplido mi deber. He hecho mi parte.
 }
 [sha:593ff98cf76c97bc230b68135668d55f2ccf2ca9]{
 -- Page 116, Offset 16867.
 -- だから理由がない。好きこのんで、あんな異常な世界に踏み入る理由がない。
--- TRANSLATION HERE
+Por eso no hay razón. No hay razón para volver a ese mundo por mi propia cuenta.
 }
 [sha:eca054a413b7085de0622cd96b189e3b267efcfe]{
 -- Page 116, Offset 16868.
 -- 俺はこのまま、何も気づかなかったふりをして、何も考えずに帰路についていい筈なんだ。
--- TRANSLATION HERE
+Debería llevar una vida normal, hacer como si nada hubiera pasado, e irme a casa sin pensar más en esto.
 }
 [sha:5e344857387d5de14112f144cdfa16d50efbfb98]{
 -- Page 117, Offset 16869.
 -- このまま帰る。
--- TRANSLATION HERE
+Rendirse e irse a casa.
 }
 [sha:3033159958e5314b0976b4692debe1dc09b9a932]{
 -- Page 117, Offset 16870.
 -- それはきっと二番目ぐらいに正しい選択だ。
--- TRANSLATION HERE
+En lo que a opciones respecta, esa sería la segunda mejor.
 }
 [sha:b7b316ea8dcc092acd4ac20f09d99639d04fc8b0]{
 -- Page 117, Offset 16871.
 -- けれど俺は、一番目にあたる選択を、ずっとむかしに教えられている。
--- TRANSLATION HERE
+Pero eso es porque hace mucho, alguien me enseñó lo que hacer en una situación como esta.
 }
 [sha:5824aefd2d872362b240b310884691ef4ab937b8]{
 -- Page 118, Offset 16872.
 -- “―――どんな人間だって人生ってのは落とし穴だらけなのよ。君はそれをなんとかできる力があるんだから、もっとシャンとしなさい―――”
--- TRANSLATION HERE
+"―――La vida está llena de complicaciones para cualquier ser humano.
+ Pero se que tienes lo que hace falta para superarlo, así que venga, muestra un poco de decisión―――"
 }
 [sha:43fa44b480ef41b347dc474301a37211159216b8]{
 -- Page 119, Offset 16873.
 -- 「……そうだ。
--- TRANSLATION HERE
+"Cierto...
 }
 [sha:2446bf2f4bb36c26c8241ea13aa4992c468b968f]{
 -- Page 119, Offset 16874.
 -- 何もしないって選択だけは、しちゃいけない」
--- TRANSLATION HERE
+De ninguna manera me quedaré sentado mirando."
 }
 [sha:b8fbaf43eb78c5bd5cd8a1e15822de4092cec2c2]{
 -- Page 120, Offset 16875.
 -- その言葉に救われた。
--- TRANSLATION HERE
+Esas palabras me salvaron.
 }
 [sha:e2344e64552ff4a2468f4eb85fc0940dad0498a5]{
 -- Page 120, Offset 16876.
 -- そうあるようにやってきた。
--- TRANSLATION HERE
+He vivido mi vida siguiendo esas palabras.
 }
 [sha:67cc99aa850990a1b57d960aab22d02ffd030741]{
 -- Page 120, Offset 16877.
 -- なら、このまま見て見ぬふりは出来ない。
--- TRANSLATION HERE
+Por eso no puedo pretender que esto no me incumbe.
 }
 [sha:b966bb245b94f6dda1e438f28213c5ddfb1b86f3]{
 -- Page 121, Offset 16878.
 -- ……事件はまだ終わっていない。
--- TRANSLATION HERE
+Esto no ha terminado...
 }
 [sha:6080d5bac2a654318502346ee547b484ace80fd1]{
 -- Page 121, Offset 16879.
 -- 一度関わってしまった以上、遠野志貴は最後まで、この厄介ごとから逃げられない運命にあるらしい―――
--- TRANSLATION HERE
+Ya me he visto involucrado antes,
+ parece que estoy destinado a ver cómo esto se desenvuelve hasta su amargo final.
 }
 [sha:2599f28b53aa45563669ca2af335a6e260f8b347]{
 -- Page 122, Offset 16880.
 -- 学校を出た。
--- TRANSLATION HERE
+Salgo de la escuela.
 }
 [sha:ecc25769da1a511882047dd999b5d1f539eb9e49]{
 -- Page 122, Offset 16881.
 -- 手がかりは少ないが、俺にはあいつから預かったまま返せずにいた、マンションの鍵がある。
--- TRANSLATION HERE
+No tengo muchas pistas, pero lo que si tengo es la llave de su apartamento que me confió.
 }
 [sha:9161d4c75542f92badce2c4a527ec7bd621f4d6d]{
 -- Page 122, Offset 16882.
 -- とりあえずマンションに行ってみよう。
--- TRANSLATION HERE
+Me dirigiré allí primero a ver que puedo encontrar.
 }
 [sha:beadd193b29fb82fdb4f97f786fc5eea0bc1fd05]{
 -- Page 123, Offset 16883.
 -- 「いない……か」
--- TRANSLATION HERE
+"No... está aquí."
 }
 [sha:a54caa9c741b4187de77cc50ec8816a4d49bce84]{
 -- Page 123, Offset 16884.
 -- マンションの部屋はそのままだったけれど、アルクェイドの姿はなかった。
--- TRANSLATION HERE
+El apartamento es justo como lo recuerdo, pero Arcueid no está por ningún lado.
 }
 [sha:94bb40b12623a56c752f8e5cb353d5d9acf5bac1]{
 -- Page 123, Offset 16885.
 -- 少なくともあいつの痕跡はここにある。煙のように何もかも消えた訳ではない事に、ほっと胸を撫で下ろした。
--- TRANSLATION HERE
+No está aquí, pero al menos puedo sentir un rastro de su presencia en la habitación.
+ Me alivia saber que no se ha desvanecido de la nada.
 }
 [sha:d09cc04177c2d9c6a1b03e18b006ef2bfe32cdbd]{
 -- Page 124, Offset 16886.
 -- 「いいさ、そう簡単に捕まえられるなんて思ってない。
--- TRANSLATION HERE
+"Está bien. Ya sabía que encontrarla no iba a ser sencillo.
 }
 [sha:161a8fc12327777f3ea19247361e5b7410f51176]{
 -- Page 124, Offset 16887.
 -- とにかく、今は行動あるのみだ」
--- TRANSLATION HERE
+Muy bien, hora de ponerse en marcha."
 }
 [sha:40bb166ab2edc15dc7de8e5094d9bd9675198448]{
 -- Page 125, Offset 16888.
 -- ここで待っていてもあいつが帰ってくる保証はない。
--- TRANSLATION HERE
+Podría esperar aquí, pero nada garantiza que vaya a volver.
 }
 [sha:88a828f9a7d477cb4c9407bf08d11fda1b470cc2]{
 -- Page 125, Offset 16889.
 -- ……その、初めてあいつを見かけた時のように、街に出て手当たりしだいに探すしかないだろう。
--- TRANSLATION HERE
+No me queda otra opción que ir a la ciudad y buscar aleatoriamente, como la primera vez que la vi.
 }
 [sha:c4c7450dc4ebe61dc0c0e0e5ff71ce98179624b6]{
 -- Page 126, Offset 16890. Mods: @n.
 -- 日が沈んで、街は本格的に夜の顔に変わっていく
--- TRANSLATION HERE
+El sol se pone, y las luces de la ciudad hacen gala.
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 126, Offset 16891. Glued.
@@ -206,30 +211,32 @@
 [sha:b2aaf7a3f657ccd2657a5e505bd678e4b21405f5]{
 -- Page 126, Offset 16892.
 -- おもだったところを探し回ってはみたものの、アルクェイドの姿は片鱗さえ見つからなかった。
--- TRANSLATION HERE
+Busqué por todas las zonas más probables, pero ni rastro de Arcueid.
 }
 [sha:a675d636684424a133632fbf2198ed9fb5dd8174]{
 -- Page 127, Offset 16893.
 -- 「……どうでもいい時はひょこひょこ歩いてたクセに、どうしてこういう時に見つからないんだ、あいつは」
--- TRANSLATION HERE
+"¿Qué la pasa?
+ Aparece cuando no la busco,
+ pero ahora que la quiero ver no está por ninguna parte."
 }
 [sha:7a9dcb4842073659fe6de1c300518860e821e2ae]{
 -- Page 128, Offset 16894.
 -- ……どうするか。
--- TRANSLATION HERE
+Qué debería hacer...
 }
 [sha:69562d7237feda0bc6bafc2d77c3c4b36848a315]{
 -- Page 128, Offset 16895. Mods: @k, @e.
 -- 夜はまだ始まったばかりだし、ここは―――
--- TRANSLATION HERE
+Acaba de anochecer. Debería―――
 }
 [sha:8029f80b169796c4745bc555a441363c03623a78]{
 -- Page 130, Offset 42635. Choice.
 -- いったん屋敷に戻って整理しよう。
--- TRANSLATION HERE
+Volver a la mansión y reevaluar la situación.
 }
 [sha:056d9afee7598989cc23923812a064a2c5588f2a]{
 -- Page 130, Offset 42636. Choice.
 -- いや、諦めずに街を回ろう。
--- TRANSLATION HERE
+No darme por vencido, y seguir buscando por la ciudad.
 }

@@ -221,7 +221,7 @@
 [sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
 -- Page 215, Offset 11439.
 -- それでも―――
--- TRANSLATION HERE
+Y aún así―――
 }
 [sha:eaa337d8badb596fe0844c48c8c5073034a5a034]{
 -- Page 216, Offset 11440.
@@ -256,7 +256,7 @@
 [sha:fdfa08beb060b3a8d06b06195029cbd1b50db08c]{
 -- Page 218, Offset 11446.
 -- 眼鏡を外す。
--- TRANSLATION HERE
+Me quito las gafas.
 }
 [sha:39ee362c4b45491344798e8ac09a57b3503dc0b4]{
 -- Page 218, Offset 11447.
@@ -286,7 +286,7 @@
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 220, Offset 11452.
 -- 「っ―――！」
--- TRANSLATION HERE
+"%{i}Kh%{/i}―――!"
 }
 [sha:c5c10ef1fbdbcc3d2211f7a6b6ebacda67d5d313]{
 -- Page 221, Offset 11453.
@@ -481,7 +481,7 @@
 [sha:e5825ed63787bd96f80045ee427b7a1ee314b4e8]{
 -- Page 237, Offset 11491.
 -- 「ノエル先生……!?」
--- TRANSLATION HERE
+"¡¿Noel-sensei?!"
 }
 [sha:7e80dabe185bdef1836ce9009aa5b04506da287a]{
 -- Page 237, Offset 11492.
@@ -686,7 +686,7 @@
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 256, Offset 11532.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:16bc12ab78492520113785476bfee931e6c48f54]{
 -- Page 256, Offset 11533.

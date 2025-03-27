@@ -1,62 +1,66 @@
 [sha:18f8d60af4c157e8e82736a4fb9ca482e42dcd57]{
 -- Page 10008, Offset 16986.
 -- 「ただいまー」
--- TRANSLATION HERE
+"Estoy en casa."
 }
 [sha:9b27f4a6dde98ab12745e48b02b731235781a5ee]{
 -- Page 10008, Offset 16987.
 -- できるだけ呑気に声をあげてロビーに入る。
--- TRANSLATION HERE
+Intentando sonar tranquilo, entro al vestíbulo.
 }
 [sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
 -- Page 169, Offset 16988.
 -- ……？
--- TRANSLATION HERE
+¿Hmm...?
 }
 [sha:8dd35d5389148d619d20b1e10033d9d4b2ccf615]{
 -- Page 169, Offset 16989.
 -- なんだろう、居間から話し声が聞こえてくる。
--- TRANSLATION HERE
+Puedo escuchar voces viniendo de la sala de estar...
+ Me pregunto quién será.
 }
 [sha:8a10b4d3302f3ca5369ecc1f4fe0289325f17e51]{
 -- Page 169, Offset 16990.
 -- 今は夕食直前だ。居間からの声は少し不自然に感じる。
--- TRANSLATION HERE
+Es justo antes de cenar.
+ No esperaba oír a nadie allí charlando a estas horas.
 }
 [sha:2c67f393df067a770cd98d800260a8f2b02a1867]{
 -- Page 169, Offset 16991.
 -- 琥珀さんは厨房だろうし、翡翠は秋葉と会話をする<人物|キャラ>ではないと思う。
--- TRANSLATION HERE
+Kohaku-san debería estar en la cocina,
+ y no creo que Hisui sea del tipo que entable conversación con Akiha.
 }
 [sha:6111a5a118e8848921b6f140746e2779065dd751]{
 -- Page 170, Offset 16992.
 -- 「……秋葉のヤツ、琥珀さんとお茶でも飲んでるのかな」
--- TRANSLATION HERE
+"Me pregunto si Akiha está bebiendo té con Kohaku-san o algo..."
 }
 [sha:9621b1ed67011f12e923cdb3c95817f2286ab728]{
 -- Page 170, Offset 16993.
 -- あるいは他に客人がいるのか。
--- TRANSLATION HERE
+La otra posibilidad es que haya un invitado.
 }
 [sha:9d84dcbae9cf07324c488677f9ca18f46ef7edbb]{
 -- Page 170, Offset 16994.
 -- ともあれ、様子を見に行こうと居間に向かう、と……
--- TRANSLATION HERE
+Cuando voy a dirigirme a ver que pasa―――
 }
 [sha:e3c91d10cb7dda03f92238aba0de3614f72e253b]{
 -- Page 171, Offset 16995.
 -- ちょうど、居間から翡翠が出てきた。
--- TRANSLATION HERE
+Hisui sale de la sala de estar.
 }
 [sha:ea856ce8894690c85d0a466e6e2195d820ae8faa]{
 -- Page 171, Offset 16996.
 -- 俺の声を聞いて出迎えにきてくれた……わりには、表情が妙に曇っているような……？
--- TRANSLATION HERE
+Debe haberme oído y viene a recibirme, pero...
+ ¿soy yo, o su expresión es más sombría de lo habitual?
 }
 [sha:3b9eb0da0b4d8cad38b6806cd98228e5b8c27ea6]{
 -- Page 172, Offset 16997.
 -- 「遅くなったけど、ただいま翡翠」
--- TRANSLATION HERE
+"He vuelto, Hisui. Siento llegar tarde."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 172, Offset 16998.
@@ -66,132 +70,138 @@
 [sha:6910f84dd0377380ab9a83be52f6953964482cd5]{
 -- Page 172, Offset 16999.
 -- 翡翠は無表情で俺を見据えている。
--- TRANSLATION HERE
+Hisui se queda con la mirada perdida.
 }
 [sha:ae34541d15b868dcb846dd03c485055ff8a4193c]{
 -- Page 172, Offset 17000.
 -- いつもの「おかえりなさいませ」もない。
--- TRANSLATION HERE
+Ni siquiera responde con su 'bienvenido de vuelta' habitual.
 }
 [sha:ea7beca2128d1c623848869c3c2118a6ad56ec4a]{
 -- Page 173, Offset 17001.
 -- 「えっと……何かあった？
--- TRANSLATION HERE
+"Emmm... ¿ha pasado algo?
 }
 [sha:50529ef4e29691fcbefba9712610094c8dcc51b7]{
 -- Page 173, Offset 17002.
 -- 気のせいか怒っているように見えるんだけど……」
--- TRANSLATION HERE
+Quizá sean imaginaciones mías, pero pareces un poco molesta..."
 }
 [sha:0221e7c637084ee6e48c610f88127e2a142f3ae2]{
 -- Page 174, Offset 17003.
 -- 「―――志貴さまにお客さまです。
--- TRANSLATION HERE
+"―――Shiki-sama, tiene un invitado.
 }
 [sha:c66abc7b50298ca6f78251d619584172dc9b90c4]{
 -- Page 174, Offset 17004.
 -- 先ほどから居間でお待ちですので、どうぞお急ぎください」
--- TRANSLATION HERE
+Ya lleva un rato esperando en la sala de estar, así que por favor diríjase allí de inmediato."
 }
 [sha:3c57c5921cbc07343522bc62d93e4b21bd08d401]{
 -- Page 174, Offset 17005.
 -- 「俺に客？」
--- TRANSLATION HERE
+"¿Tengo un invitado?"
 }
 [sha:180dd5a11d023e5c9610af8bfaf178101772eb40]{
 -- Page 174, Offset 17006.
 -- はい、と翡翠は頷く。
--- TRANSLATION HERE
+Hisui asiente afirmativamente.
 }
 [sha:c3b520acd370d32faeddf84fcf7094a231657e8b]{
 -- Page 175, Offset 17007.
 -- 「……おかしいな。俺を訪ねに来るヤツなんていないはずだけど。引っ越した事を知ってるのは有彦ぐらいだし、最近知り合いになったヤツもいな――――」
--- TRANSLATION HERE
+"Que raro... No sé de nadie que pudiera pasarse a verme.
+ Arihiko es la única persona que sabe que me he mudado,
+ y no es que haya conocido a nadie recientemente―――"
 }
 [sha:f7646d747cd720af476f3a478e434f92e4c60fdf]{
 -- Page 175, Offset 17008.
 -- ―――いや、まて。
--- TRANSLATION HERE
+―――No, espera.
 }
 [sha:73c56ce8e03779622c2192faa51002c3e888c96a]{
 -- Page 175, Offset 17009.
 -- なにか、とてつもなくイヤな予感がする。
--- TRANSLATION HERE
+Tengo un mal presentimiento sobre esto.
 }
 [sha:de4c71a2106e993ab13de86a6463bcb90b72cad5]{
 -- Page 176, Offset 17010.
 -- 「翡翠。それ、どんなヤツ？」
--- TRANSLATION HERE
+"Hisui. Este invitado... ¿cómo és?"
 }
 [sha:3ff8543c1115dd2921fa99b2c1df0a23b09560f1]{
 -- Page 176, Offset 17011.
 -- 「金色の髪をした、綺麗な女性の方です」
--- TRANSLATION HERE
+"Es una preciosa mujer con pelo rubio."
 }
 [sha:340bcbe77d8f3ea65221246e5a549da896f9e439]{
 -- Page 177, Offset 17012.
 -- 「―――、な」
--- TRANSLATION HERE
+"Qu―――"
 }
 [sha:3f7c40a7e5d5ba19d9ab6b3da82207ca69de2bfa]{
 -- Page 177, Offset 17013.
 -- 翡翠の説明は実に率直だ。
--- TRANSLATION HERE
+Hisui va directa al grano.
 }
 [sha:e3c9129d7b0fa28e018316d069d9ef88d45f1df1]{
 -- Page 177, Offset 17014.
 -- 俺は反射的かつ自動的に、可能なかぎり最速の足運びで、魔の居間へと駆け出していた。
--- TRANSLATION HERE
+Mi cuerpo empieza sale disparado instintivamente hacia la sala de estar infernal.
 }
 [sha:f4e3279b156128b4ad266c54971eb1125537d2c5]{
 -- Page 178, Offset 17015.
 -- 「なにがどうなってんだーーーー！？」
--- TRANSLATION HERE
+"¡¿Qué demonios está pasando?!"
 }
 [sha:7a84eaedbb1dbb1f12b789b51e6ea483263d4942]{
 -- Page 178, Offset 17016.
 -- 力いっぱい扉を開けて中に入る。
--- TRANSLATION HERE
+Abro la puerta de golpe e irrumpo en la sala.
 }
 [sha:5d59196c3941c46566a4da141e6e077c041deb58]{
 -- Page 179, Offset 17017.
 -- だが、もう何もかも遅かった。
--- TRANSLATION HERE
+Pero, ya es demasiado tarde.
 }
 [sha:4b77f98899478523839265c725944221fcf21ed7]{
 -- Page 179, Offset 17018.
 -- 事態は収拾不可能な、驚天動地……俺のライフパスにおいて……の展開を迎えていた。
--- TRANSLATION HERE
+Me encuentro con el último giro de los acontecimientos en mi desarrollo de personaje,
+ una situación totalmente fuera de control que promete de nuevo poner mi mundo patas arriba.
 }
 [sha:551d9f04357872b6b6288214d9adf209b768351d]{
 -- Page 180, Offset 17019.
 -- 「あら。―――お帰りなさい兄さん。
--- TRANSLATION HERE
+"Mira quién es. Bienvenido, Nii-san.
 }
 [sha:34a6caa4cc6d9e558e3e59eb1ea07ce3be62bc41]{
 -- Page 180, Offset 17020.
 -- 今夜もまた、定例通り遅かったですね」
--- TRANSLATION HERE
+Vuelves tarde de nuevo, como esperaba."
 }
 [sha:7de67ede699f6175a6450aa013ca57a08acaf912]{
 -- Page 181, Offset 17021.
 -- 「あ、やっと帰ってきたな、こいつめ。妹さんばかりかわたしまで待たせるとか、やっぱり普段から横暴なのね」
--- TRANSLATION HERE
+"Ah, por fin vienes, pillín.
+ No solo haces esperar a tu hermana pequeña, sino a mi también.
+ Vaya tirano estás hecho."
 }
 [sha:ec1dfd97068c88ba391187025c08c8efe8efc9f0]{
 -- Page 182, Offset 17022.
 -- 二人は正反対の表情で俺を見る。
--- TRANSLATION HERE
+Ambas me miran, pero las caras que ponen son como el día y la noche.
 }
 [sha:c06d1f099d8554cdd72d9da6a97e29ac3e29f252]{
 -- Page 182, Offset 17023.
 -- ……知っている。この気持ちを知っている。
--- TRANSLATION HERE
+La conozco.... conozco esta sensación.
 }
 [sha:66740c2c2eb74f7c1ccb89d8fe6b8c647010a8af]{
 -- Page 182, Offset 17024.
 -- 映画でよく見る『後頭部に銃口を押しつけられて命乞いをしてみろ』と言われている兵士の切ない気持ちと同じだと思う。
--- TRANSLATION HERE
+Es el tipo de cosa que sale mucho en las pelis.
+ La sofocante desesperación de un soldado con la pistola en la nuca mientras le dicen que suplique por su vida.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 183, Offset 17025.
@@ -201,260 +211,286 @@
 [sha:21f8abedb89ffc4159e53045cf4c4ea22c451324]{
 -- Page 183, Offset 17026.
 -- なので、気の利いた言葉を返せる余裕はない。
--- TRANSLATION HERE
+No creo que pueda salir de esta.
 }
 [sha:52e586131b251e245cf73f226950007453953192]{
 -- Page 184, Offset 17027.
 -- よりにもよってアルクェイドと秋葉が向かい合っている。
--- TRANSLATION HERE
+De todas las cosas que podrían haber ocurrido...
+ Arcueid y Akiha se han encontrado cara a cara.
 }
 [sha:0005cb79ac13654a08816a469a3b1196aa381072]{
 -- Page 184, Offset 17028.
 -- アルクェイドは平然としていて、秋葉も同じように平然とソファーに座っている。
--- TRANSLATION HERE
+Arcueid y Akiha se encuentran sentadas tranquilamente en el sofá con una compostura similar.
 }
 [sha:8fe34b8bc751f9df241b0a6b601fd7d905bc3fb9]{
 -- Page 184, Offset 17029.
 -- けれど自然体……天然のアルクェイドと違って、秋葉の態度はアルクェイドへの敵意がミエミエだった。
--- TRANSLATION HERE
+Pero por dentro...
+ Mientras que Arcueid está calmada porque es una cabeza hueca,
+ lo de Akiha es una fachada ocultando su hostilidad obvia hacia Arcueid.
 }
 [sha:54b4c797f8bc57f1a76aea89cf6685f71dd9af67]{
 -- Page 185, Offset 17030.
 -- ちらり、と秋葉が俺を流し見る。
--- TRANSLATION HERE
+Akiha me mira.
 }
 [sha:959c4105cb95d32e5ce009e329f22d7478e231a7]{
 -- Page 186, Offset 17031.
 -- 「どうしたんですか兄さん。そんなところに立っていないで、どうぞこちらに来て座ってください」
--- TRANSLATION HERE
+"¿Qué ocurre, Nii-san?
+ No te quedes en la entrada. ¿Por qué no entras y te sientas?"
 }
 [sha:b2c40eb1106da230e37f2aa70783187dd0c3df66]{
 -- Page 187, Offset 17032.
 -- いいえ。ソファーに近づいたが最後、そのままナイフでトスっと刺されそうな気がするので、とてもじゃないけど近づけない。
--- TRANSLATION HERE
+Eh, no gracias.
+ Tengo la sensación de que me van a apuñalar en cuanto me acerque al sofá.
+ Ni en sueños me acerco.
 }
 [sha:02dfc62fd91da506e9152e3daa7220b2d956d6bf]{
 -- Page 188, Offset 17033.
 -- 「こ、ここでいいです。
--- TRANSLATION HERE
+"E-Estoy bien aquí, gracias.
 }
 [sha:42836a74a3b604bf23b775e72fbf411446fad9c2]{
 -- Page 188, Offset 17034.
 -- それより秋葉、こいつはだな、その――――」
--- TRANSLATION HERE
+Más importante, Akiha, esta persona es, bueno―――"
 }
 [sha:e2e46254035875007b45431065f54fba14386517]{
 -- Page 189, Offset 17035.
 -- ……その、なんて説明すればいいんだろう？
--- TRANSLATION HERE
+¿Cómo se lo explico...?
 }
 [sha:f3b7b78c74d9bfb09eb1a76a89d175f52b40e83d]{
 -- Page 189, Offset 17036.
 -- 学校のクラスメイトだ、なんて通用する筈もなし、街で知り合った、というのも火に油を注ぐ気がする。
--- TRANSLATION HERE
+No creo que pueda decir que es una compañera de clase,
+ y tengo la sensación que decir que la he conocido en la calle empeoraría las cosas.
 }
 [sha:75c38d25f03f2b8c0c2ad6c70de9abb2fb3fa2d8]{
 -- Page 190, Offset 17037.
 -- 「その、なんですか？」
--- TRANSLATION HERE
+"¿Y bien? "
 }
 [sha:78bd1debb81dace75c0181604da738fa98124f12]{
 -- Page 190, Offset 17038.
 -- 秋葉の容赦ない視線が突き刺さる。
--- TRANSLATION HERE
+Akiha me atraviesa con la mirada.
 }
 [sha:7e0792412cd7088b1d8efdbf9b8e318e381921b7]{
 -- Page 191, Offset 17039.
 -- ええい、こうなっては何を言っても無駄な気がするけど、誰も傷つかない……特に俺の平穏が脅かされない……弁明を繰り出さなければいけない。
--- TRANSLATION HERE
+Vale.
+ Probablemente hemos pasado el punto de no retorno,
+ si quiero asegurarme que nadie sale herido...
+ y, por supuesto, que mi propia paz no se vea amenazada...
+ No tengo otra que inventarme algún tipo de explicación.
 }
 [sha:fac9223df3e7525ff58923d705a1db8fffa8ab04]{
 -- Page 192, Offset 17040.
 -- いけないんだけど―――そもそもの話、あそこで我関せずとニコニコ笑ってやがる吸血鬼女は、どんな<名目|めいもく>でうちにあがりこんだのだろう？
--- TRANSLATION HERE
+Me la tengo que inventar, pero antes――
+ ¿Bajo que pretexto este vampiro,
+ que sonríe alegremente como si no la incumbiera,
+ ha conseguido este vampiro entrar a la mansión?
 }
 [sha:3f6e608e01b71743e31fe91b31e7c06799e2a6d5]{
 -- Page 192, Offset 17041.
 -- 秋葉が見ず知らずの人間を居間に通すなんて、ちょっと考えつかないぞ？
--- TRANSLATION HERE
+Me cuesta creer que Akiha invitase a un desconocido a la sala de estar.
 }
 [sha:ec515bd16b86ee4cb415992d39fdcdfbb6ea12f6]{
 -- Page 193, Offset 17042.
 -- 「……その前に、いいかな。
--- TRANSLATION HERE
+"Antes de eso, ¿puedo preguntar algo?"
 }
 [sha:18a5fa9e56a14442d3cc0e208d11b8a4ad1d0baf]{
 -- Page 193, Offset 17043.
 -- コイツ、なんて言ってやってきたの？」
--- TRANSLATION HERE
+Esta persona, ¿qué te ha dicho?"
 }
 [sha:44e983b6d2f3458381521ba7e01ad8114f2a29b8]{
 -- Page 193, Offset 17044.
 -- 「ん？」
--- TRANSLATION HERE
+"¿Hmm?"
 }
 [sha:93a061d9f61e19b9d3b830908ab7798ab0b96b0b]{
 -- Page 193, Offset 17045.
 -- アルクェイドは不思議そうに首をかしげている。
--- TRANSLATION HERE
+Arcueid inclina la cabeza, perpleja.
 }
 [sha:b91248f8c77e8b5c9ade24c30767f2631ad8841e]{
 -- Page 194, Offset 17046.
 -- 「……兄さんのご友人ではないんですか？
--- TRANSLATION HERE
+"¿No es tu amiga?
 }
 [sha:c073262dd76631e05a61448a44515c18da2bc7eb]{
 -- Page 194, Offset 17047.
 -- この方はそう自称しましたが」
--- TRANSLATION HERE
+Así se ha presentado.
 }
 [sha:3fafd618cc53f6050456ccbc2b12def28e67f9c1]{
 -- Page 194, Offset 17048.
 -- 「ああ、うん、友人といえば、友人」
--- TRANSLATION HERE
+"%{i}Ahh%{/i}, sí, sí, una amiga, una amiga..."
 }
 [sha:8d0884e8a3abc8cd68c366aac183742f056e2c1b]{
 -- Page 195, Offset 17049.
 -- 「そうですか。私にも紹介していただけると嬉しいわ。
--- TRANSLATION HERE
+"Ya veo. En ese caso, me encantaría que me la presentaras.
 }
 [sha:b3eb039c5e7de1541f2cd6cb6e502139963d58f4]{
 -- Page 195, Offset 17050.
 -- 兄さんのご友人でしたら、無下にお帰りいただくわけにはいきませんし」
--- TRANSLATION HERE
+Si es tu amiga, estaría feo darla puerta, ¿no?
 }
 [sha:5d4bc268068d0c0b40663538bfdd63ed22c909c3]{
 -- Page 195, Offset 17051.
 -- 「あの、それはですね、秋葉さん」
--- TRANSLATION HERE
+"Bueno, sobre eso, Akiha-san."
 }
 [sha:39bdb1e30f945b14af7e6f4ec0662d3b1c70c7a1]{
 -- Page 196, Offset 17052.
 -- ムニャムニャと言葉を濁す。
--- TRANSLATION HERE
+Mis palabras se vuelven balbuceos.
 }
 [sha:1a7b5d212c00255b0e767f76975c8d2ab1dd5357]{
 -- Page 196, Offset 17053.
 -- 「ふーん。友人、ねー。ふーん」
--- TRANSLATION HERE
+"%{i}Heehh%{/i}. ¿Amiga, dices? %{i}Hmm%{/i}."
 }
 [sha:4e7cd245024a3cc46aa95d8ceef25b9c257db5b5]{
 -- Page 196, Offset 17054.
 -- と。無視され続けて我慢できなくなったのか、アルクェイドは兄妹水入らずの会話に割って入ってくると、
--- TRANSLATION HERE
+Quizá se ha cansado de que la ignoren,
+ y se mete en la pelea de hermanos que Akiha y yo estamos teniendo.
 }
 [sha:5d4fb363034f3eabdb4012ccbeb770b49e76b435]{
 -- Page 197, Offset 17055.
 -- 「あんな酷いコトしておいて、そういうコト言うんだ。わたし、まだ体が痛いんだけど」
--- TRANSLATION HERE
+"Y pensar que solo soy eso para ti, tras todas las barbaridades que me hiciste.
+ Aún me duele el cuerpo, sabes."
 }
 [sha:a34636cdd84a4aaa20b1a35f8681309c6f62dc33]{
 -- Page 197, Offset 17056.
 -- 「な――――――」
--- TRANSLATION HERE
+"Qué―――"
 }
 [sha:0a29da2404b3a16ca99774fa333c566ac333d2eb]{
 -- Page 198, Offset 17057.
 -- くらっ。
--- TRANSLATION HERE
+Me mareo.
 }
 [sha:2690a1b90b64c56db03341f2b447b74ee9934072]{
 -- Page 198, Offset 17058.
 -- ああ、これが世間一般でいう目眩なのか。
--- TRANSLATION HERE
+Ah, esto es a lo que llaman vértigo.
 }
 [sha:01c813bafa2d416f4543f8ee737809732402715b]{
 -- Page 198, Offset 17059.
 -- この、現実からすごい勢いで<離脱|ばびゅーん>していく<酩酊|めいてい>感、たまらん。
--- TRANSLATION HERE
+Esta sensación de embriagamiento,
+ de ser despedazado por la realidad...
+ No lo puedo soportar.
 }
 [sha:e65363638cb4043d34d1808a3039a6471d358bb1]{
 -- Page 199, Offset 17060.
 -- 「……それはどういった意味でしょうか。私の兄が、身体面、あるいは精神面において貴女に危害を加えたとでも？
--- TRANSLATION HERE
+"¿A qué te refieres con eso?
+ ¿Estas diciendo que mi hermano te ha causado algún tipo de daño físico, o mental?
 }
 [sha:cd1a9635440c163bea51858be0da0818616b9136]{
 -- Page 199, Offset 17061.
 -- 失礼ですが、ご自分がどれほど信憑性のない発言をしているか、理解していますか？」
--- TRANSLATION HERE
+¿No quiero ser maleducada, pero te das cuenta de lo que estás insinuando?"
 }
 [sha:6e4063b29b365845acb9adba87de3c073787fd3e]{
 -- Page 200, Offset 17062.
 -- 「ええ、バッチリね。でも安心して、そんなのもう気にしていないから。ちゃんと体で返してもらったし。
--- TRANSLATION HERE
+"Sí, totalmente. Pero no te preocupes, estamos en paz.
+ Le hice pagar con su cuerpo diez veces más.
 }
 [sha:3e8c74db501b3a27405b3ec321b4da900c46e5d7]{
 -- Page 200, Offset 17063.
 -- なので、どうぞおかまいなく。わたしは志貴を誘いに来ただけだもの。すぐに出かけるわ。ね、そうでしょ志貴？」
--- TRANSLATION HERE
+Así que no te preocupes. Solo he venido a llevarme a Shiki.
+ Nos iremos antes de que te enteres. ¿Verdad, Shiki?"
 }
 [sha:41e9b448ab3965a158cbf875011e06c7a657b488]{
 -- Page 201, Offset 17064.
 -- ―――まずい。
--- TRANSLATION HERE
+―――Esto es malo.
 }
 [sha:369de85c931b1141129b394a749d5797a6dbd75a]{
 -- Page 201, Offset 17065.
 -- コイツにこれ以上<喋|しゃべ>らせては、遠野志貴の身の破滅だ。
--- TRANSLATION HERE
+Cuanto más habla más se acorta mi vida.
 }
 [sha:4f81c4e21970d3819f04c878e96abfb924a4438a]{
 -- Page 202, Offset 17066.
 -- 「いやあ、あははははは！」
--- TRANSLATION HERE
+"¡Buen chiste, %{i}ajajajajaja%{/i}!"
 }
 [sha:01094660fa5f3d4750018180c8e71ea7ab154e19]{
 -- Page 202, Offset 17067. Mods: @n.
 -- やけくそ気味に笑いながらアルクェイドに走りより、
--- TRANSLATION HERE
+Fuerzo una risa, mientras corro hacia Arcueid,
 }
 [sha:fb6dcf27b7a00df01893a510290083c03ba3084e]{
 -- Page 202, Offset 17068. Glued.
 -- 強引に腕を掴む。
--- TRANSLATION HERE
+y la agarro forzosamente del brazo.
 }
 [sha:24240ed8c368d8c7a3b616e40529a5639c993d90]{
 -- Page 203, Offset 17069.
 -- 「ちょっと志貴、急に何するのよ」
--- TRANSLATION HERE
+"Oye, Shiki, ¿qué haces?"
 }
 [sha:ecc26833d97471efc2871cf2f33ca11502e2091a]{
 -- Page 203, Offset 17070.
 -- 文句を聞いている余裕はない。
--- TRANSLATION HERE
+No es momento de escuchar sus quejas.
 }
 [sha:b07da0350505ba4a170da84befa31162dea0de6c]{
 -- Page 203, Offset 17071.
 -- 俺はアルクェイドの腕を引っぱって、呆然としている秋葉を残して居間から飛び出した。
--- TRANSLATION HERE
+Huyo de la sala de estar,
+ arrastrando a Arcueid conmigo y dejando atrás a la anonadada Akiha.
 }
 [sha:663eb8ad51d7d2bf9e80a080a524e37d810cca8f]{
 -- Page 204, Offset 17072.
 -- ロビーには翡翠が控えていた。
--- TRANSLATION HERE
+Hisui me espera en el vestíbulo.
 }
 [sha:05ecf174d93aedf1b49fece3dfa2ef878c8f2c2f]{
 -- Page 204, Offset 17073.
 -- 翡翠はアルクェイドを引っ張って走る俺を、どのような心境で見ているのか。考えると胃に穴が空きそうなので、今は考えないようにしよう。
--- TRANSLATION HERE
+Me pregunto qué estará pensando viéndome como arrastro a Arcueid.
+ Pensar en ello hace que me duela la tripa,
+ así que me olvidaré de ello por ahora.
 }
 [sha:04f32eabd6edc09ca9a1a45093c40d2ea3eb2386]{
 -- Page 205, Offset 17074.
 -- 「お出かけですか、志貴さま」
--- TRANSLATION HERE
+"¿Se marcha, Shiki-sama?"
 }
 [sha:6c41f73d98fbfe5a99d07f8f526844f0a089a87b]{
 -- Page 205, Offset 17075.
 -- 「不本意ながら。すっごく申し訳ないんだけど、玄関の鍵は開けておいてほしい」
--- TRANSLATION HERE
+"En contra de mi voluntad.
+ Sé que te estoy pidiendo mucho y de veras lo siento, pero por favor deja la puerta delantera abierta."
 }
 [sha:f08d00fb7d1d2078a62e25a396ee5b8d5a10eda7]{
 -- Page 205, Offset 17076.
 -- 「はい、かしこまりました。どうぞ、たいへんお気を付けて」
--- TRANSLATION HERE
+"Como desee. Por favor cuídese."
 }
 [sha:5430a37e61d223c2da45c785f276a6ec55d0521f]{
 -- Page 206, Offset 17077.
 -- <慇懃|いんぎん>におじぎをする翡翠の横を駆け抜けて、逃げるように屋敷から外に出る。
--- TRANSLATION HERE
+Mientras Hisui hace una reverencia,
+ paso a su lado y salgo de la mansión lo más rápido posible.
 }

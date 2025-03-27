@@ -436,7 +436,7 @@
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 115, Offset 39744.
 -- だが。
--- TRANSLATION HERE
+Sin embargo―――"
 }
 [sha:bdfedfbd41238b6f1ed984336be6d57330e96e45]{
 -- Page 116, Offset 39745.
@@ -621,7 +621,7 @@
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 128, Offset 39781. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:c8c919e44cf85c1bfd400b9e71212a3e95d518e9]{
 -- Page 128, Offset 39782. Glued. Mods: @x.
@@ -651,7 +651,7 @@
 [sha:b3764caa5cad0a66b737ff32f113c7c322bc6428]{
 -- Page 129, Offset 39787.
 -- 言われるまでもない。
--- TRANSLATION HERE
+Bueno, eso dalo por hecho.
 }
 [sha:e5050bddcc4002fbdf918c96768cd65e1cf9286d]{
 -- Page 129, Offset 39788.

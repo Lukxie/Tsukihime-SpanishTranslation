@@ -306,7 +306,7 @@
 [sha:b1c0d017df5cb11a5a3ed130c4c5da65df5c4d6c]{
 -- Page 50, Offset 30992.
 -- 「よし」
--- TRANSLATION HERE
+"Vale."
 }
 [sha:04520996065cb467d28d91f6359362d831cf0bab]{
 -- Page 51, Offset 30993.

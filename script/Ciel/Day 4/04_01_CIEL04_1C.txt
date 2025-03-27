@@ -107,7 +107,7 @@ Pero, no puede ser ella.
 [sha:60cccb2e8d7c0190950d216c6e3514e91daeefea]{
 -- Page 77, Offset 8364.
 -- なのに。
--- TRANSLATION HERE
+Y a pesar de eso―――
 }
 [sha:dda3dc698442a42e3acdd2f8bf77001441e52119]{
 -- Page 77, Offset 8365.

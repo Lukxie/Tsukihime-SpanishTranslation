@@ -1,27 +1,28 @@
 [sha:1369a7c6594de22ea1909aa88a6fe15406c1b109]{
 -- Page 10030, Offset 8059.
 -- ――――自分の命が惜しいんだ。
--- TRANSLATION HERE
+―――Mi vida ha sido desafortunada.
 }
 [sha:1b4ac125c6355bbc953495f7ab40d1dd1e0db247]{
 -- Page 10030, Offset 8060.
 -- 昨日、アルクェイドを殺してしまった時の光景を思い出す。
--- TRANSLATION HERE
+Recuerdo la escena de ayer cuando maté a Arcueid.
 }
 [sha:2f8387aaf9e5234725aff77b808885ac7dad2875]{
 -- Page 904, Offset 8061.
 -- 血と死臭に満ちた時間。
--- TRANSLATION HERE
+Un momento repleto del hedor a sangre y muerte.
 }
 [sha:edef7ca3447f3086c8fb492443b61b902be37131]{
 -- Page 904, Offset 8062.
 -- あんなものを、俺は二度と経験したくない。
--- TRANSLATION HERE
+No quiero volver a pasar por algo así nunca.
 }
 [sha:6f98a84f3cad0d95051e1052fcd8d545496ceaeb]{
 -- Page 904, Offset 8063.
 -- アルクェイドと一緒にいれば、間違いなく同じことが繰り返される。それが嫌なら屋敷に戻るしかない。
--- TRANSLATION HERE
+Pero si me quedo con Arcueid, es inevitable que lo haga.
+ Si quiero evitarlo, no tengo más remedio que volver a la mansión.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 905, Offset 8064.
@@ -31,37 +32,40 @@
 [sha:ef8d8127b8a0a065442b92ed1befa6b9d6d39ca8]{
 -- Page 905, Offset 8065.
 -- ……自分の選択には大きな欠陥がある。
--- TRANSLATION HERE
+Aunque, hay un defecto evidente en esta decisión.
 }
 [sha:5610e045c4d7f343f99ed8df8b5f1f202bc004e8]{
 -- Page 905, Offset 8066.
 -- それが何であるか、人として何が間違っているかを理解しながら、俺は思考にフタをした。
--- TRANSLATION HERE
+Escoger ese camino significaría ignorar que lo que estoy haciendo es moralmente cuestionable
 }
 [sha:9deab14a6d0f79d6cbac3ae5cf905e5a6607702f]{
 -- Page 905, Offset 8067.
 -- これは逃げているんじゃない。
--- TRANSLATION HERE
+No estoy huyendo.
 }
 [sha:8fa66552af449915f7db9ef7bca0638e9dba51d6]{
 -- Page 905, Offset 8068.
 -- 戻ろうとしているだけだといい聞かせる。
--- TRANSLATION HERE
+Me digo a mi mismo que las cosas están volviendo a ser lo que eran.
 }
 [sha:9419ef6306b05c2ed9897982687892bb49c74d00]{
 -- Page 906, Offset 8069.
 -- 「……屋敷に戻ろう。そうすれば、きっと」
--- TRANSLATION HERE
+"Volveré a la mansión... si lo hago, entonces seguro que..."
 }
 [sha:ca1df8fb023d1460d7ad3561424dca199739ec2d]{
 -- Page 906, Offset 8070.
 -- 夜が明ける頃には、俺の与り知らないところで、何かの決着がついているだろう。
--- TRANSLATION HERE
+Para cuando se pone el sol,
+ estoy seguro que por ahí,
+ en algún lugar que ya no es de mi incumbencia,
+ se ha llegado a algún tipo de conclusión.
 }
 [sha:f7861ec4d22c9f8c35053d06f8fe40a2e2a45f7f]{
 -- Page 907, Offset 8071.
 -- 「そこの人。ちょっといいですか」
--- TRANSLATION HERE
+"Eh tú. ¿Tienes un segundo?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 907, Offset 8072.
@@ -71,32 +75,34 @@
 [sha:f4627ee4ffe40fcfa17a92af910c3dbd86a300ba]{
 -- Page 907, Offset 8073.
 -- ベンチから立ち上がろうとした矢先、後ろから声をかけられた。
--- TRANSLATION HERE
+Justo cuando iba a levantarme del banco, alguien me llama desde atrás.
 }
 [sha:f98b257937e6ae1627dea006679a0458177a53de]{
 -- Page 908, Offset 8074.
 -- 「ほっといてもいいんですけど、あんまりにも情けない顔してるので」
--- TRANSLATION HERE
+"Estaba planeando simplemente ignorarte, pero estabas poniendo una cara increíblemente patética."
 }
 [sha:d17a6e0b4e60e3e8a8c6b2bde1ae351d780bd30b]{
 -- Page 909, Offset 8075.
 -- 初めて見るような、どこかで見た覚えがあるような、女の子が立っていた。
--- TRANSLATION HERE
+Hay una chica ahí de pie.
+ Siento que la he visto antes, pero no estoy seguro.
 }
 [sha:060982f6775cc4cd206b7973a3db589f69648a75]{
 -- Page 909, Offset 8076.
 -- 年の頃は中学生のようだが、制服を着ていない。俺同様、学校をボイコットしていたのだろうか。
--- TRANSLATION HERE
+Parece una estudiante de secundaria, pero no lleva uniforme. Me pregunto si también se está saltando las clases.
 }
 [sha:edc002e65536f79772a6e79693c2a47db67a59a3]{
 -- Page 910, Offset 8077.
 -- 「……情けないって、なにが？」
--- TRANSLATION HERE
+"¿Patético...? ¿El qué?"
 }
 [sha:9ab6b916dcc8c2bf13151b8cbac0ad67ccae9658]{
 -- Page 910, Offset 8078.
 -- 「顔。粘土みたいな色してます。人って、死ぬ時はそういう顔するんですよね」
--- TRANSLATION HERE
+"Tu cara. Tiene el mismo color que la arcilla.
+ La gente empieza a verse así cuando muere, ¿no?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 911, Offset 8079.
@@ -106,42 +112,44 @@
 [sha:ba4030335b0f469de7822dc606bb9e59c6b9290c]{
 -- Page 911, Offset 8080.
 -- 冗談にしては間が悪すぎた。
--- TRANSLATION HERE
+Aunque sea un chiste, es de mal gusto.
 }
 [sha:1221dfdfadb1e2f7b4e45380471ade993618339d]{
 -- Page 911, Offset 8081.
 -- なんだそれ、と笑って返す事ができない。
--- TRANSLATION HERE
+No puedo ignorar lo que acaba de decir.
 }
 [sha:35d55ea50185ec6bab9802da11ce4a313185311c]{
 -- Page 911, Offset 8082.
 -- 深刻に受け止めてしまった俺を、少女は特に気にした風もなく見つめている。
--- TRANSLATION HERE
+La chica me está mirando fijamente, sin parecer importarle que me lo haya tomado tan a pecho.
 }
 [sha:4066bd4957660651c1353414a8ff4fdb8260cf03]{
 -- Page 912, Offset 8083.
 -- 「冗談じゃなくて、今のは経験談です。知り合いのじいちゃん、そんな顔色から３時間もしたら呼吸止まっちゃって。救急車、呼べばまだ助かったかも、なので」
--- TRANSLATION HERE
+"No estoy de broma, te hablo por experiencia.
+ El abuelo de alguien que conozco dejó de respirar tres horas después de que su cara empezara a verse así.
+ Quizá si hubieran llamado a una ambulancia, podrían haberlo salvado."
 }
 [sha:137432b60d93c87baa134f7ea97161b830231a78]{
 -- Page 913, Offset 8084.
 -- 少女は俺に近寄らない。
--- TRANSLATION HERE
+La chica no se acerca.
 }
 [sha:6c7bf0332d49a8a8c783f6817bfba8451289160c]{
 -- Page 913, Offset 8085.
 -- １メートルほどの距離を保ったまま、
--- TRANSLATION HERE
+Mantiene la distancia, permaneciendo a un metro.
 }
 [sha:7d8369671b96b436cbf2d20c08f64ecd0648212c]{
 -- Page 914, Offset 8086.
 -- 「救急車、呼びます？
--- TRANSLATION HERE
+"¿Quieres que llame a la ambulancia?
 }
 [sha:ac9683de328e1b20488f73284ad0c2a009cba6a3]{
 -- Page 914, Offset 8087.
 -- ならケータイ、貸してください。あたしのは使いたくないんで」
--- TRANSLATION HERE
+Si quieres, déjame tu teléfono. No quiero usar el mío para esto."
 }
 [sha:2e95d9c5d54409753e34109ef5d60277fb88c6cb]{
 -- Page 915, Offset 8088. Mods: @k, @e.
@@ -151,42 +159,42 @@
 [sha:987c905ece89d51820e35d23984a06013f0cbd63]{
 -- Page 915, Offset 8089. Glued. Mods: @x.
 -- は」
--- TRANSLATION HERE
+%{i}haah%{/i}."
 }
 [sha:f845bd83f7b27835d5975baabbcfe99af9f5a716]{
 -- Page 915, Offset 8090.
 -- 予想外の申し出に、つい安堵の息が漏れていた。
--- TRANSLATION HERE
+Suspiro aliviado ante la oferta inesperada.
 }
 [sha:2414824df296c78968e309b1067246a72f80183e]{
 -- Page 915, Offset 8091.
 -- 少女の言う通り、気づいていないだけで機能不全に陥っていたらしい。
--- TRANSLATION HERE
+Justo como dice la chica, parece que me he estado comiendo la cabeza sin darme cuenta.
 }
 [sha:0a335697e9cbac8d14e56cfa0aedcafca0f4bdf3]{
 -- Page 916, Offset 8092.
 -- とつぜん戻ってきた日常につられて、正しく、呼吸が再開される。
--- TRANSLATION HERE
+Al volver al mundo real y mi respiración vuelve a la normalidad.
 }
 [sha:ce99ff031c1316e8dde7e21edded9a169bb756f1]{
 -- Page 917, Offset 8093.
 -- 「いや、大丈夫。ちょっとした貧血だから、すぐ治まる。
--- TRANSLATION HERE
+"No, estoy bien. Solo es anemia leve, se pasará pronto.
 }
 [sha:ae9ec7f657e5cd38be9f2d28fc7391c83c882416]{
 -- Page 917, Offset 8094.
 -- ―――でも、声をかけてくれてありがとう。助かった」
--- TRANSLATION HERE
+Aún así, gracias por avisarme. Me ha ayudado mucho."
 }
 [sha:108ccd2657609d88abcb0635876e764a8f482999]{
 -- Page 918, Offset 8095.
 -- 「そっスか。じゃ、あたしはこれで。
--- TRANSLATION HERE
+"Ya veo. Entonces te dejo con ello.
 }
 [sha:5125727bf195f378df1c746e8ce5d5da9ebb5537]{
 -- Page 918, Offset 8096.
 -- ……体調、ずっと悪いんですか？」
--- TRANSLATION HERE
+Tu salud... ¿siempre ha sido tan mala?"
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 918, Offset 8097.
@@ -196,97 +204,99 @@
 [sha:5342544caee28863a3e2a07ae6dd264a0fee7f26]{
 -- Page 918, Offset 8098.
 -- それじゃあ、と言っておいて、女の子は妙な質問をしてきた。
--- TRANSLATION HERE
+Justo cuando iba a despedirse, la chica me hace una pregunta extraña.
 }
 [sha:a08fb72ae3514d18d4115eed14663db07756b5bb]{
 -- Page 919, Offset 8099.
 -- 「……まあ、生まれつき、かな？
--- TRANSLATION HERE
+"Bueno... ¿supongo que se puede decir que nací así?
 }
 [sha:60260da09eb1b3d1638450816310749b8866763f]{
 -- Page 919, Offset 8100.
 -- 子供の頃から、少し運動すると眩暈がするんだ」
--- TRANSLATION HERE
+Incluso cuando era un niño, el más mínimo ejercicio era suficiente para marearme."
 }
 [sha:2fe2cc3152801ac54ef02d140622aed7251f2ace]{
 -- Page 919, Offset 8101.
 -- 「ふーん。じゃあ犬とか、ダメですね。遊びに付き合ってあげられないし」
--- TRANSLATION HERE
+"Hmm. Entonces supongo que los perros están fuera de discusión.
+ Después de todo no serías capaz de jugar con ellos."
 }
 [sha:3784714aa7829cfc209a659c1c20f5c787bef7f8]{
 -- Page 919, Offset 8102.
 -- 「いや、散歩くらいは問題ないけど」
--- TRANSLATION HERE
+"No, ir de paseo no supone ningún problema."
 }
 [sha:569a09efbf0fc5833f37704309813e4d39a13ca1]{
 -- Page 919, Offset 8103.
 -- 犬を飼いたい欲求はないが、完全否定されるのも悲しい。
--- TRANSLATION HERE
+No deseo tener ningún perro, pero sería triste negar completamente la posibilidad.
 }
 [sha:260bceb4b653e53de0db486f4c056120e41b3e28]{
 -- Page 920, Offset 8104.
 -- 「散歩とか。
--- TRANSLATION HERE
+"¿Un %{i}paseo%{/i}?
 }
 [sha:c37ad81c8b278a0ee4f3a6038e1c042c84bc3ca8]{
 -- Page 920, Offset 8105.
 -- 顔色、まだ悪いですよ。早く家に帰ってお休みする事をお勧めします」
--- TRANSLATION HERE
+Tu cara sigue pálida. Te aconsejo que te des prisa por llegar a casa y descanses."
 }
 [sha:28e7c5b37a7397ecb787250cdb00a6de9290b937]{
 -- Page 921, Offset 8106.
 -- 少女は立ち去った。
--- TRANSLATION HERE
+La chica se aleja.
 }
 [sha:3488726ffad6fca72c345555388cda1a0359f325]{
 -- Page 921, Offset 8107.
 -- 「あれ……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:4c2d800161df982ff0d8ed14f18c2ae88ad31566]{
 -- Page 921, Offset 8108.
 -- 去り際、なんとなくではあるが、俺よりあの子の方が何倍も体調が悪かったのでは、と思ってしまった。
--- TRANSLATION HERE
+Mientras se aleja, me da la sensación de que su condición física es bastante peor que la mía.
 }
 [sha:b4d62e1584997661a6bc34015e4fc35091af09d8]{
 -- Page 922, Offset 8109.
 -- 結局、公園で体を休めてから帰路についた。
--- TRANSLATION HERE
+Acabé descansando un rato en el parque antes de ir a casa.
 }
 [sha:8c3bed1a4e0081845202cae06281883fb26bb428]{
 -- Page 922, Offset 8110.
 -- 日が沈んであたりはすっかり暗くなっている。
--- TRANSLATION HERE
+Cuando se puso el sol, afuera se volvió completamente oscuro.
 }
 [sha:cc95c8dca7f4185188c970a16152e4e2c27720cf]{
 -- Page 923, Offset 8111.
 -- 時間にして夜の７時過ぎ。
--- TRANSLATION HERE
+Son las siete de la tarde.
 }
 [sha:c80a8c954dcd3ec80aba3cdf3d84d0280e2c2229]{
 -- Page 923, Offset 8112.
 -- 屋敷の門限は８時だから、急いで帰らないとまた秋葉に小言を言われる。
--- TRANSLATION HERE
+El toque de queda es a las ocho en punto,
+ así que mejor que vaya tirando si no quiero que Akiha me de más la lata.
 }
 [sha:c39d29ce65061202510f6ab0635030357b603b92]{
 -- Page 924, Offset 8113.
 -- 屋敷の周りの道は、相変わらず人気がない。
--- TRANSLATION HERE
+Las calles alrededor de la mansión están tan vacías como siempre.
 }
 [sha:308bc14f0835fcc8560b13cfc9d5f932ef020bb6]{
 -- Page 924, Offset 8114.
 -- まだ日が沈んだばかりなのに、まるで深夜のような静けさだ。
--- TRANSLATION HERE
+Aunque se acabe de poner el sol, hay tanto silencio como si fuera de madrugada.
 }
 [sha:20173b04757ccc010a69dce6f9b0083ce44c78f4]{
 -- Page 925, Offset 8115.
 -- 「そういえば、ここって……」
--- TRANSLATION HERE
+"De hecho, este sitio es..."
 }
 [sha:6162e6e0f8075d512ef5da93b68e52f77ff4a329]{
 -- Page 925, Offset 8116.
 -- 屋敷に帰ってきた日の夜、野犬の声がうるさくて様子を見にきた場所だったっけ。
--- TRANSLATION HERE
+Estoy bastante seguro de que este sitio es donde vine a investigar de qué iban los aullidos la noche que volví a la mansión.
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 926, Offset 8117.
@@ -296,7 +306,7 @@
 [sha:074c28fd291232c9afbbb733fcb35b85643c11bb]{
 -- Page 926, Offset 8118.
 -- いま、目の前に何か、黒い塊のような<肉|もの>が。
--- TRANSLATION HERE
+Acabo de ver, algo parecido a un pedazo de carne negra―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 927, Offset 8119.
@@ -306,145 +316,145 @@
 [sha:a6e8f41c9d301efc02f996bd505e5ca4e7341247]{
 -- Page 927, Offset 8120.
 -- 意識が凍りつく。
--- TRANSLATION HERE
+Mi conciencia se frena en seco.
 }
 [sha:c4f8aa5be62462b057bc996dc4b6c0462138586f]{
 -- Page 927, Offset 8121.
 -- なぜここに、という疑問。
--- TRANSLATION HERE
+Que hacen esos aquí, me pregunto.
 }
 [sha:181947ca3e73ef0ba423ee47629c19862d149157]{
 -- Page 927, Offset 8122.
 -- とうぜんだ、という理解。
--- TRANSLATION HERE
+Me doy cuenta, es obvio.
 }
 [sha:582c5c6eeb0fb02e8dec839005a4fea452693308]{
 -- Page 928, Offset 8123.
 -- 路地裏で見つかったのはアルクェイドだけではない。
--- TRANSLATION HERE
+Arcueid no fue a la única persona a la que vieron en el callejón.
 }
 [sha:885c7ab32184777bcb6971445bbeec1db3258005]{
 -- Page 928, Offset 8124.
 -- 彼女と一緒にいた人間も捕捉対象に入る。
--- TRANSLATION HERE
+El humano que estaba con ella por supuesto tambíen se volvería un hombre buscado.
 }
 [sha:52e73fefe4b8abb76df954dfa63c3cc6365f2236]{
 -- Page 928, Offset 8125.
 -- その事実に気づかないよう、俺は思考にフタをしたのではなかったか。
--- TRANSLATION HERE
+¿No hice la vista gorda para no ser consciente de esto?
 }
 [sha:4589f3963177854485aef4956e9eaa3e473d752c]{
 -- Page 929, Offset 8126.
 -- 遅れを取り戻すようにナイフを取り出す。
--- TRANSLATION HERE
+Saco mi cuchillo, intentando compensar el tiempo perdido.
 }
 [sha:89152c9d2f2a1c05863934bb59c78f55bf8ff880]{
 -- Page 929, Offset 8127.
 -- 道の端……雑木林から現れた死人を見据えたまま後じさる。
--- TRANSLATION HERE
+Retrocedo, manteniendo mis ojos fijos en los cadáveres que emergen del matorral de la acera.
 }
 [sha:75342fab802b090cd77089ac74e5a7a8b212760c]{
 -- Page 929, Offset 8128.
 -- その時、
--- TRANSLATION HERE
+En ese momento―――
 }
 [sha:4dea1baa8f3d5d7755eb200f4ff1d9660ade1f71]{
 -- Page 930, Offset 8129.
 -- ――――おかしい。
--- TRANSLATION HERE
+Qué extraño...
 }
 [sha:c7c77b853001e7e3a33e722d0d45a10a0c0f1415]{
 -- Page 930, Offset 8130.
 -- 突然、あたり一面、真っ赤になってしまった。
--- TRANSLATION HERE
+Donde quiera que mire, mis alrededores de repente están pintados de un rojo claro.
 }
 [sha:6e4cd75f6cd402cf33c10f453e6d82199f120fa5]{
 -- Page 931, Offset 8131.
 -- ごうごうという音が聞こえる。
--- TRANSLATION HERE
+Escucho un rugido.
 }
 [sha:5bc6b50a9bf34bc3010e727676e143d59459e9c4]{
 -- Page 931, Offset 8132.
 -- とても近くから聞こえる。
--- TRANSLATION HERE
+Viene de un sitio bastante cercano.
 }
 [sha:e036e9417465ef4e815ff4ebf6eef9f5170a3af2]{
 -- Page 931, Offset 8133.
 -- 激痛で全身がバネのように跳ねている。
--- TRANSLATION HERE
+Mi cuerpo entero salta de dolor como si fuera un muelle.
 }
 [sha:d47e404f97e603ce0cb9ffa4852638bba131aa5a]{
 -- Page 931, Offset 8134.
 -- 何度も何度も跳ねている。
--- TRANSLATION HERE
+Me revuelvo descontroladamente.
 }
 [sha:1afcc5678d3e4a8afdcf7d2496b863e8b3c5940b]{
 -- Page 931, Offset 8135.
 -- 意識も、体も、視界も、世界も、
--- TRANSLATION HERE
+Mi conciencia, mi cuerpo, mi visión, el mundo―――
 }
 [sha:baf15b73c706bc1971a3a96dc8c5b95bc143487f]{
 -- Page 931, Offset 8136.
 -- 緊急ランプのように回転していく。
--- TRANSLATION HERE
+Están dando vueltas como un faro de emergencia.
 }
 [sha:317bb9f7f0e64fb7534ddb26669cae351ffb2720]{
 -- Page 932, Offset 8137.
 -- ごうごう。ごうごう。ごうごう。
--- TRANSLATION HERE
+%{i}Grrr%{/i}. %{i}Grrr%{/i}. %{i}Grrr%{/i}.
 }
 [sha:606a4809133eda57be03b6e0e99968343ee31585]{
 -- Page 932, Offset 8138.
 -- 音は。
--- TRANSLATION HERE
+El sonido.
 }
 [sha:8e26b9d8540322c6d7a92cec32caf38736cb64e9]{
 -- Page 932, Offset 8139.
 -- どうやら、自分の体から、しているようだ。
--- TRANSLATION HERE
+De alguna forma, parece venir de mi cuerpo.
 }
 [sha:4443897db864fe07be0fa02c3cd5782437c58279]{
 -- Page 933, Offset 8140.
 -- 「■■■■■―――！」
--- TRANSLATION HERE
+"¡■■■■■―――!"
 }
 [sha:a9f36618977711fca44dd6ed0dd110e30af07103]{
 -- Page 933, Offset 8141.
 -- アスファルトに倒れこむ。
--- TRANSLATION HERE
+Me caigo al asfalto.
 }
 [sha:445435de882a978aa0731c239fd2e3eef89ceb94]{
 -- Page 933, Offset 8142.
 -- 手足は動かない。もう動かすだけのカタチがない。
--- TRANSLATION HERE
+No puedo mover mis brazos o piernas. Ya no queda nada que mover.
 }
 [sha:5e8354d50d0eb7d64d5ca3b0a7799d65facaa5a1]{
 -- Page 933, Offset 8143.
 -- 痛みだけが眼球に走っている。
--- TRANSLATION HERE
+Mis ojos no ven nada más que dolor.
 }
 [sha:035aa90f09c3df5a8f10bfe3362741498748711b]{
 -- Page 934, Offset 8144.
 -- 「“―――暖にもならん。
--- TRANSLATION HERE
+"―――Falta calor.
 }
 [sha:f77002e8a7da556a3040ee2aa749821db22b387f]{
 -- Page 934, Offset 8145.
 -- 主を守る犬ですら無かったか”」
--- TRANSLATION HERE
+Ni siquiera fuiste un perro que pudiera proteger a su amo."
 }
 [sha:8a9390647f73a860b122a771c9cd44032a812be7]{
 -- Page 935, Offset 8146.
 -- くぐもった声が聞こえた。
--- TRANSLATION HERE
+Escucho una voz ronca.
 }
 [sha:dcd05e597e3fb086f5f674cb75e67cbc73d8032c]{
 -- Page 935, Offset 8147.
 -- アスファルトで爆ぜる脂の音。
--- TRANSLATION HERE
+El sonido de la grasa esparciéndose por el asfalto.
 }
 [sha:e1755be8bf4088b169cc48bec7dd9279de41e17a]{
 -- Page 935, Offset 8148.
 -- それが自分から垂れ流された汚物のなれの果てである事に、遠野志貴は最期まで気づかなかった。
--- TRANSLATION HERE
+Solo al final Tohno Shiki se dio cuenta de que eran los restos de la inmundicia que había emergido de él.
 }

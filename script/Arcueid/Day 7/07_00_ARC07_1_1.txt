@@ -1,27 +1,31 @@
 [sha:0576b0554a69d6f910e098ba557a687418900cdc]{
 -- Page 10004, Offset 16896.
 -- 時刻は夜の７時。
--- TRANSLATION HERE
+Son las siete en punto.
 }
 [sha:0ae30c8b668323e38414fbd46198de0cf1a7393a]{
 -- Page 10004, Offset 16897.
 -- もともと車通りの少ない国道だが、夜ともなれば完全に<人気|ひとけ>は途絶え、周囲は静まりかえっている。
--- TRANSLATION HERE
+Esta carretera no tiene mucho tráfico para empezar,
+ pero tras caer la noche, no hay ni un alma,
+ y el área entera está completamente en silencio.
 }
 [sha:e3259adc97db4ab4149b8db429f60a20e5c73703]{
 -- Page 131, Offset 16898.
 -- 呼び鈴を押してロックを解除してもらおうとも思ったが、今はちょうど夕食前だ。
--- TRANSLATION HERE
+Pensé en llamar al timbre para que alguien me desbloquease la verja,
+ pero es justo antes de la cena.
 }
 [sha:1a2b4b95be5be97731f7b8f9045a9bad574aac47]{
 -- Page 131, Offset 16899.
 -- 琥珀さんも翡翠も厨房にいるだろうし、邪魔をするのも気が引ける。
--- TRANSLATION HERE
+Ahora mismo tanto Kohaku-san como Hisui están probablemente en la cocina,
+ y no quiero interrumpirlas.
 }
 [sha:0edc2b57fba26e8949601a0186ce32e234802572]{
 -- Page 131, Offset 16900.
 -- カードキーを使って、正門横の扉をくぐり抜けた。
--- TRANSLATION HERE
+Usando mi tarjeta magnética, entro por la puerta al lado de la verja.
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 132, Offset 16901.
@@ -36,20 +40,20 @@ Sin embargo...
 [sha:ee06a3a3c702bc1cc62484e0ff9dbcebace8c71b]{
 -- Page 132, Offset 16903.
 -- 玄関口に立ったところで、今朝のやりとりを思い出した。
--- TRANSLATION HERE
+En el momento que llego a la entrada, recuerdo la conversación caldeada de esta mañana.
 }
 [sha:495fea5a0133d78138d211a2be006e687098ac03]{
 -- Page 133, Offset 16904.
 -- 慌ただしく屋敷を飛び出した事を、秋葉はまだ怒っているだろうか？
--- TRANSLATION HERE
+¿Akiha seguirá enfadada por irme corriendo esta mañana?
 }
 [sha:0335ebf9024e8e1466a97f43cffd3b92696a8f44]{
 -- Page 134, Offset 42637. Choice.
 -- まさか、子供じゃあるまいし。
--- TRANSLATION HERE
+Por supuesto que no, no es tan infantil.
 }
 [sha:2b2dd0974e410cf9eb94b5ac811f65e59bceac59]{
 -- Page 134, Offset 42638. Choice.
 -- まさか、大人じゃあるまいし。
--- TRANSLATION HERE
+Por supuesto que si, no es tan madura.
 }

@@ -1,30 +1,30 @@
 [sha:e0b6508add525a0550d6874d1d708db85af682da]{
 -- Page 10003, Offset 29603.
 -- 「………………そうだな。
--- TRANSLATION HERE
+"Cierto, si...
 }
 [sha:aafb8a7836e26d3e0bd29308d8c146b8ab4c645d]{
 -- Page 10003, Offset 29604.
 -- ここが潮時だ。それは間違いない」
--- TRANSLATION HERE
+Es ahora o nunca. No cabe duda."
 }
 [sha:adeafc241d452bee6368c0c43fd902d8fb7d215a]{
 -- Page 42, Offset 29605.
 -- 俺はもうあいつと会えない。合わす顔がない。
--- TRANSLATION HERE
+No la volveré a ver. No %{i}merezco%{/i}  volverla a ver.
 }
 [sha:f20ab5821ec7606b5e8ebfb204303fafbc3389bb]{
 -- Page 42, Offset 29606.
 -- でも、それでも最後に、せめて責任を果たそう。
--- TRANSLATION HERE
+Pero al menos, cumpliré mi deber hasta el amargo final.
 }
 [sha:db6df553294729a0479e56316dd463a43912031a]{
 -- Page 42, Offset 29607.
 -- 俺が救えなかったものを、もう一度だけ直視する。
--- TRANSLATION HERE
+Solo quiero volver a ver una última vez a la mujer que no pude salvar.
 }
 [sha:071584a68615ad179fa7bc7b0371da38efca98fe]{
 -- Page 42, Offset 29608.
 -- そうすれば綺麗さっぱり、この気持ちに幕を引く事ができるはずだ―――
--- TRANSLATION HERE
+Con eso, podré enterrar estos sentimientos de una vez por todas.
 }

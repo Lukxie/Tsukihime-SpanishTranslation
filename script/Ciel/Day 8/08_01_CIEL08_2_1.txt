@@ -51,7 +51,7 @@
 [sha:0819415b8baa31d472380275168d825499a8ea42]{
 -- Page 176, Offset 18714. Glued.
 -- ―――
--- TRANSLATION HERE
+――
 }
 [sha:34e24dc3cf6b0e6b057bcd170e2ed93abda652fe]{
 -- Page 176, Offset 18715.
@@ -481,32 +481,34 @@
 [sha:67c582dc3c7756493a140697a3470626321fe930]{
 -- Page 215, Offset 18800.
 -- 廃院になる前はよほど大きな病院だったのだろう。
--- TRANSLATION HERE
+Debió ser un hospital bastante importante antes de ser abandonado.
 }
 [sha:5ae01c513745aa0b91fcd117b25a35c7aa0b6d96]{
 -- Page 215, Offset 18801.
 -- 正門からでも中の広さが窺える。
--- TRANSLATION HERE
+Incluso desde la puerta principal,
+ puedo hacerme una idea de lo grande que es por dentro.
 }
 [sha:4fa3ab9ed0b8be7ea115c71a643f5af76f4588d6]{
 -- Page 215, Offset 18802.
 -- 剥がれたアスファルトは草に侵食されている。
--- TRANSLATION HERE
+Los hierbajos invaden poco a poco el asfalto.
 }
 [sha:c8082a8d3ac8cc4c8efd364d2d07ad68bf9f0ab9]{
 -- Page 215, Offset 18803.
 -- 遠くに見える病棟はところどころが崩れている。
--- TRANSLATION HERE
+Varias partes del ala parecen haber colapsado y son visibles a distancia.
 }
 [sha:497c7e61cf8d098223f42d2d3db668b3ae5bc357]{
 -- Page 215, Offset 18804.
 -- あれは火災による崩落だろうか。
--- TRANSLATION HERE
+¿Serán desperfectos causados por un incendio?
 }
 [sha:bbe0b62a19a38b2439d6adf912f4f7169daa616e]{
 -- Page 215, Offset 18805.
 -- それにしては壊れている部分と、そうでない部分の差が激しすぎるが。
--- TRANSLATION HERE
+Incluso si lo fueran,
+ hay demasiado contraste entre las áreas dañadas y las no dañadas.
 }
 [sha:5f0fca297bec504fbd152832cdb11b748c2c8717]{
 -- Page 216, Offset 18806.
@@ -831,7 +833,7 @@
 [sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
 -- Page 239, Offset 18870.
 -- ここは―――
--- TRANSLATION HERE
+Me parece que―――
 }
 [sha:e2eca67c66181207a7d9c15604c1fa85fc483b8c]{
 -- Page 240, Offset 18871.

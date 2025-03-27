@@ -11,7 +11,7 @@
 [sha:c5d2a1bed10575d0a0b28c4140b3ae980d3cb1bf]{
 -- Page 10017, Offset 12142.
 -- 「げ」
--- TRANSLATION HERE
+"%{i}Geh%{/i}."
 }
 [sha:7fdb3daff86273ab2f434336b6d6153cc7ad0244]{
 -- Page 486, Offset 12143.
@@ -456,7 +456,7 @@
 [sha:f6dae3824038024fd8c24225ac2fecb1b6b8ff47]{
 -- Page 526, Offset 12231.
 -- 「……なんだって？」
--- TRANSLATION HERE
+"¿Qué acabas de decir...?"
 }
 [sha:2915b4f908bfcf0caad81be7171af099cb4fdf97]{
 -- Page 527, Offset 12232.

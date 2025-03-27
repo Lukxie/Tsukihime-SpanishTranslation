@@ -391,7 +391,7 @@
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 25, Offset 42042.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:25f41b7bf9c6aa636524758ef9822d5939a2aae3]{
 -- Page 25, Offset 42043.
@@ -401,7 +401,7 @@
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 26, Offset 42044.
 -- そこには、
--- TRANSLATION HERE
+Allí―――
 }
 [sha:367258f1954c8cd8e641b95b5640d6ada61c0f08]{
 -- Page 26, Offset 42045.
@@ -416,7 +416,7 @@
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 27, Offset 42047. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:9e1b1c671c27ea22604197096c51fc9476b137d1]{
 -- Page 27, Offset 42048. Glued. Mods: @x.
@@ -511,7 +511,7 @@
 [sha:e3072ed229f254e2f24d836f8cfe98b49d1e4a88]{
 -- Page 34, Offset 42066.
 -- 「はあ？」
--- TRANSLATION HERE
+"¿Qué?"
 }
 [sha:31cf97f1e1a2ee7e89b3972af352eb7f96777aae]{
 -- Page 35, Offset 42067.
@@ -571,7 +571,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:f92fa243a9f6e0dadbb002daba8141aafdaa0d6c]{
 -- Page 40, Offset 42078.
 -- ……おかしいな。
--- TRANSLATION HERE
+Que raro...
 }
 [sha:23b4f80e9991ec069c9ad373e1994d511726d2db]{
 -- Page 40, Offset 42079.
@@ -646,7 +646,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 45, Offset 42093.
 -- 「……？」
--- TRANSLATION HERE
+¿Eh...?
 }
 [sha:bef53342262605e2810336949316620c529dd814]{
 -- Page 45, Offset 42094.
@@ -656,7 +656,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:3860667e07cc1bf696ac5dc4acd5a7d1f809d954]{
 -- Page 46, Offset 42095. Mods: @n.
 -- 「おはようございます、
--- TRANSLATION HERE
+"Buenos días,
 }
 [sha:fd39bff781438db430220bd334c2c2d846358eb6]{
 -- Page 46, Offset 42096. Glued.
@@ -671,7 +671,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 47, Offset 42098. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:89c8ac51842f2468e86023d49017660ed59773a0]{
 -- Page 47, Offset 42099. Glued. Mods: @x.
@@ -916,7 +916,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:6e5e3dd0a214cb76b457afe2d9b9bc12cbc27e5f]{
 -- Page 63, Offset 42147. Glued.
 -- 兄さん。
--- TRANSLATION HERE
+Nii-san.
 }
 [sha:45b90aaad86decb0c0ef2e80b281294050a0a584]{
 -- Page 63, Offset 42148.
@@ -1141,7 +1141,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:7c8adb6835047fbd9e7947d6705858aa5b59c8b7]{
 -- Page 81, Offset 42192.
 -- だって。
--- TRANSLATION HERE
+Después de todo―――
 }
 [sha:8c6fed301d8114dfaecd72ab6ee6ce4b1306d59b]{
 -- Page 81, Offset 42193.
@@ -1456,7 +1456,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 106, Offset 42255.
 -- ……そうだ。
--- TRANSLATION HERE
+Eso es verdad...
 }
 [sha:ca45373b68a4abc680b622c9c88a6b15e8c521f9]{
 -- Page 106, Offset 42256.
@@ -1631,7 +1631,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:dad68dc0d57ba4fe53a4ebc71004f2cdb270f5ab]{
 -- Page 115, Offset 42290.
 -- その中で、
--- TRANSLATION HERE
+Y en ella―――
 }
 [sha:4601c358d06899cbe113ac638e5f7f474a5ec45d]{
 -- Page 115, Offset 42291.
@@ -2351,7 +2351,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 155, Offset 42434.
 -- 「――――――――」
--- TRANSLATION HERE
+"――――――――"
 }
 [sha:c531c42cc70964d6a3303655fade60bd4778f745]{
 -- Page 155, Offset 42435.
@@ -2371,7 +2371,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 156, Offset 42438.
 -- 「――――――――」
--- TRANSLATION HERE
+"――――――――"
 }
 [sha:80f0cfbe93e6962f3a28daec798a337dc09f0877]{
 -- Page 156, Offset 42439.
@@ -2581,7 +2581,7 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:150de3ce4c072425c860ca4b9681c5e488cbc73d]{
 -- Page 172, Offset 42480.
 -- 「あ――――――」
--- TRANSLATION HERE
+"Ah―――"
 }
 [sha:f229ea8e5743314c22bbc627ec244c191fe11c4d]{
 -- Page 173, Offset 42481.
@@ -2626,12 +2626,12 @@ Hisui hace una reverencia y abandona la habitación.
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 175, Offset 42489.
 -- 「―――――――――」
--- TRANSLATION HERE
+"―――――――――"
 }
 [sha:c7191a684239670df12224faac98ae66af969858]{
 -- Page 175, Offset 42490.
 -- ……言葉がない。
--- TRANSLATION HERE
+No tengo palabras...
 }
 [sha:200f76c87103976476fef1eb8e07e5cf75897881]{
 -- Page 175, Offset 42491.

@@ -666,7 +666,7 @@
 [sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
 -- Page 843, Offset 13118.
 -- ―――だが。
--- TRANSLATION HERE
+―――Sin embargo.
 }
 [sha:8a97966d6a9b519a9ca9982288b7774cc14a68ca]{
 -- Page 844, Offset 13119.

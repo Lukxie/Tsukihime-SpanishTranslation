@@ -1,120 +1,135 @@
 [sha:1e7246c9bf60762b5c189e482667f61b70bf135b]{
 -- Page 249, Offset 14512.
 -- 「なーんて、ぜーんぶ見当違いの話でーす！
--- TRANSLATION HERE
+"Es brooma, ¡todas las respuestas son erróneas!
 }
 [sha:814396974fdb96bf0a7c9b956c9b54695c9e060c]{
 -- Page 249, Offset 14513.
 -- 人為的才能と比べる事さえおこがましい！
--- TRANSLATION HERE
+¡Ningún talento artificial puede compararse con ella!
 }
 [sha:8cfd6c45801084c8ab7bbae6a7b8e5a67efdd586]{
 -- Page 249, Offset 14514.
 -- 当主チャンはぁ、万年に一人の怪物だもぉん！」
--- TRANSLATION HERE
+// mix de ambas
+¡Monstruos como nuestra preciada cabeza de familia son algo que solo aparecen una vez cada diez mil años!
 }
 [sha:2c29fde5261d2ea92b6fc1a8265700465d8b5c66]{
 -- Page 250, Offset 14515.
 -- ケラケラと、心底から楽しそうに笑う阿良句博士。
--- TRANSLATION HERE
+// Tl oficial
+La Doctora Arach se ríe como si se lo estuviera pasando genial.
 }
 [sha:ceab79a85c2fcec3fa10f619f6dd69ca1e5597a0]{
 -- Page 250, Offset 14516.
 -- ……その態度に、知らず、俺は拳を握りしめていた。
--- TRANSLATION HERE
+Su actitud hace que apriete mis puños inconscientemente.
 }
 [sha:f52ea14409187d9814b3bfabaeff00a426cfd4e0]{
 -- Page 251, Offset 14517.
 -- 「あっらぁ、妹をけなされて怒っちゃったぁ？　アタシとしては最上級の愛情をこめたつもりだったんだけどぉ」
--- TRANSLATION HERE
+// Tl oficial
+"Oh nooo, ¿te has enfadado porque he dicho cosas feas de tu hermana?
+ Te juro que lo he dicho con todo mi afecto."
 }
 [sha:2b582988feaff1148178d9e34df965a300a06612]{
 -- Page 251, Offset 14518.
 -- 「そうですか。だとしても、今の言い方はやめてください」
--- TRANSLATION HERE
+"¿Es así? En ese caso te agradecería que no volvieras a hablar de ella así."
 }
 [sha:ce4fbf08aadb03d1eb4c6ff7255c4589fa4cb2b6]{
 -- Page 252, Offset 14519.
 -- ……怪物、という喩えはやめてほしい。
--- TRANSLATION HERE
+No quiero que llame monstruo a Akiha...
 }
 [sha:2fd169f28eec54c4eeb72426bb5b937366a7474e]{
 -- Page 252, Offset 14520.
 -- 吸血鬼という本物を知った以上、その単語を人間に使うのは許容できない。
--- TRANSLATION HERE
+Ahora que sé que los vampiros existen, no puedo aguantar que nadie use esa palabra para referirse a un humano.
 }
 [sha:7debfbcd55f030e1cc3ea9058db640cb222166b2]{
 -- Page 252, Offset 14521.
 -- ましてや秋葉に向けるなんて、二度と。
--- TRANSLATION HERE
+Mucho menos a Akiha.
 }
 [sha:8c7a2b062dd99b43c60bc40bad6c396355fc0f86]{
 -- Page 253, Offset 14522.
 -- 「あらぁ、地雷踏んじゃったぁ？　きゃー、アタシこわーい！　怖いからオイトマしちゃーう！」
--- TRANSLATION HERE
+Uy dios, ¿he tocado una fibra sensible? %{i}Kya%{/i}, ¡Qué miedo! ¡Estoy tan asustada que voy a salir pitando!"
 }
 [sha:0d69087619a5107ba3cf86c03c81aab193aecf5b]{
 -- Page 253, Offset 14523.
 -- 阿良句女史はカツカツとヒールを鳴らしてドアに走る。
--- TRANSLATION HERE
+// Tl oficial
+Arach se dirige a la puerta, sus tacones resuenan.
 }
 [sha:2c4c71de68c735305283bc557ce39bb55b0439f3]{
 -- Page 253, Offset 14524.
 -- その背中を呼び止める事はない。
--- TRANSLATION HERE
+// Tl oficial
+No digo nada para detenerla.
 }
 [sha:655de93899c87ad4f5c5fc5051975299e7ddeb61]{
 -- Page 254, Offset 14525.
 -- しかし、白衣の女はドアの前で立ち止まると、ニマリとした笑顔を浮かべて振り返った。
--- TRANSLATION HERE
+// Mix de ambas
+Sin embargo, la mujer se detiene frente a la puerta, y entonces se gira con una sonrisa pícara en su rostro.
 }
 [sha:54322308744559d6134114086af01f311ca8513e]{
 -- Page 255, Offset 14526.
 -- 「でもちょっと、博士として忠告しちゃう。
--- TRANSLATION HERE
+"Como tu doctora, déjame darte un consejo.
 }
 [sha:d043ab6034ec7c085f1d84a02b8d74e3bca77e2f]{
 -- Page 255, Offset 14527.
 -- もしこの先もぉ、そーゆーケガをする予定があるなら相談にのってあげる。志貴チャン、体がなまりまくってるみたいだし？　ど？　七年間の<澱|おり>、とってみたくない？　ま、とぉぉぉっても痛いコトになるんだけど！」
--- TRANSLATION HERE
+Si en el futuro planeas volver a hacerte daño de esta manera, ¿por qué no vienes a hablar conmigo primero?
+ Ese viejo cuerpo está un poco oxidado, ¿no?
+ ¿Qué te parece?
+ ¿No quieres recuperar esos siete años perdidos?
+ Pero te advierto, si lo haces, ¡va a doler muuuchismo!"
 }
 [sha:70c02219efd6acbf5cb83360e6e1f47681ba654c]{
 -- Page 256, Offset 14528.
 -- 意味が分からない。
--- TRANSLATION HERE
+No se a que se refiere.
 }
 [sha:9890e50a26411a40dc3426fd9f702bae5e8cae78]{
 -- Page 256, Offset 14529.
 -- ただ、彼女の提案に乗る事には、生理的な嫌悪があった。
--- TRANSLATION HERE
+// Tl oficial
+Pero me dan nauseas ante la idea de aceptar su propuesta.
 }
 [sha:c598c6e74f52e28c0c17951659fbb98b95055f01]{
 -- Page 257, Offset 14530.
 -- 「……つつしんで辞退します。もうこんな事は起きませんし」
--- TRANSLATION HERE
+// Tl oficial
+"Con el debido respeto, debo rechazarlo. No planeo en hacer esto de nuevo."
 }
 [sha:17384e9ebbb7c617707bea986fc567f917dcad5e]{
 -- Page 257, Offset 14531.
 -- 「ええ、そうなるといいわねぇ。
--- TRANSLATION HERE
+// Tl oficial
+"Eres tan optimista.
 }
 [sha:247123407a6d8cd5d68689a2e6cab74c0e731cae]{
 -- Page 257, Offset 14532.
 -- じゃあね、チャオ～♡　アタシはいつでも待ってるわよ～ん」
--- TRANSLATION HERE
+// Tl oficial
+¡Nos vemooos, ciaoooo ♡. Estaré por aquí si cambias de opinión!"
 }
 [sha:133aa5d1142b72dc33412ae7bf61e651a968f349]{
 -- Page 258, Offset 14533.
 -- 投げキッスをよこして、阿良句博士は退室していった。
--- TRANSLATION HERE
+La Doctora Arach me lanza un beso y sale de la habitación.
 }
 [sha:8f244756d1856d18e8e5de2a3e0ff8d3e6806e81]{
 -- Page 258, Offset 14534.
 -- ……気を取り直そう。
--- TRANSLATION HERE
+Debería recuperar la compostura.
 }
 [sha:c6754f76c815f4482e98561004de6e565238626c]{
 -- Page 258, Offset 14535.
 -- せっかく動けるようになったんだし、午後の過ごし方を考えないと。
--- TRANSLATION HERE
+Ahora que puedo moverme, tengo que decidir cómo voy a pasar la tarde.
 }

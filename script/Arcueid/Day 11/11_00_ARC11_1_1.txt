@@ -1,37 +1,41 @@
 [sha:9fd2aa80fa5bfbb1b2b3bd98c33e9c908111f859]{
 -- Page 10002, Offset 29592.
 -- ……何も無かった事にしよう。
--- TRANSLATION HERE
+Voy a olvidar que todo esto siquiera ocurrió...
 }
 [sha:9959813428ab0110bf9c9f67e7c71e2072b7facf]{
 -- Page 10002, Offset 29593.
 -- アルクェイドと出会ってから今までの事を、夢のようなものだったと思えばいい。
--- TRANSLATION HERE
+Haré como si todo lo que pasó tras conocer a Arcueid fuera un sueño.
 }
 [sha:ee4e883703cbf833c77a77d067e327bfa6ba1c84]{
 -- Page 10002, Offset 29594.
 -- 考える事を止めて、アイツの事を忘れて、街に<蔓延|はびこ>る吸血鬼の事も忘れてしまえ。
--- TRANSLATION HERE
+No volveré a pensar en esto.
+ Debería olvidarme de Arcueid,
+ de los vampiros que infestan la ciudad.
 }
 [sha:b255b9812f84e002fca4107b6147684b7c5106e9]{
 -- Page 39, Offset 29595.
 -- 「………そうだな。それが、」
--- TRANSLATION HERE
+"Sí... Ya está―――"
 }
 [sha:58831980a8bcd9bddacd79fbd61d6f2670b1e3aa]{
 -- Page 39, Offset 29596.
 -- マーリオゥの言う、まっとうな人間の暮らしというヤツだ。七年前の事故から、俺は『世間的な正しさ』を基準に自分の基盤を守ってきた。
--- TRANSLATION HERE
+Viviré una vida humana apropiada tal y como Mario dijo.
+ Desde aquel accidente hace siete años,
+ me he guiado por la brújula de lo que la sociedad considera correcto.
 }
 [sha:f4105d40038d9b54c9e7ff6dcf706957202fc4cc]{
 -- Page 39, Offset 29597.
 -- その在り方に立ち返るだけだ。
--- TRANSLATION HERE
+Tengo que volver a esa forma de ser.
 }
 [sha:9041b8e039e872c188ca19f2b4b293645c51799d]{
 -- Page 39, Offset 29598.
 -- きっと、何の問題も喪失もない。
--- TRANSLATION HERE
+Si lo hago, no tendré más problemas. No perderé nada.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 40, Offset 29599.
@@ -41,15 +45,17 @@
 [sha:82761a5641a9b7a207fcca695daf38e07bce1f19]{
 -- Page 40, Offset 29600.
 -- ……なのに、何をしているのか。
--- TRANSLATION HERE
+Entonces, ¿por qué hago esto?
 }
 [sha:7a011f25736ee4d67ad4e0f7b0891b7c2105bdf3]{
 -- Page 40, Offset 29601.
 -- 何もやる気が起きない。
--- TRANSLATION HERE
+No puedo obligarme a seguir adelante.
 }
 [sha:131a271a53a4d2a8992012feecb7ca263c525918]{
 -- Page 40, Offset 29602.
 -- それこそ死者のような生気のなさで『忘れる』と決めたクセに、こんな所に足を運んでいる。
--- TRANSLATION HERE
+He decidido olvidar,
+ pero mi determinación está mas muerta que un Muerto.
+ En su lugar, mis pies me han traído aquí.
 }

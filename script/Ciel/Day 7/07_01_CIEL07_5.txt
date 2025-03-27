@@ -126,12 +126,14 @@
 [sha:2efd1870f2647e2da2bea2ab56d761d35b360170]{
 -- Page 443, Offset 15861.
 -- 「ばっ……ばか女って、あなたわたしを莫迦にしてるの!?」
--- TRANSLATION HERE
+"¿I-Imbécil? ¡¿Por quién me tomas?!"
 }
 [sha:86acf9ba0973124af24ab47d322d50a2d40c82d4]{
 -- Page 443, Offset 15862.
 -- 「ばかをばかって言ってんだから、それ以外なにがあるっていうんだばか！　反論があるなら聞いてやるから言ってみろ！」
--- TRANSLATION HERE
+// Creo que así queda bien aunque se repita mucho
+"¡Solo estoy llamando idiota a una idiota, eso es todo, idiota!
+ ¡Si tienes alguna objección habla, soy todo oídos!"
 }
 [sha:18f4775c3745f239d30ed512b4200e1f6398a716]{
 -- Page 444, Offset 15863.
@@ -146,7 +148,7 @@
 [sha:dfe27699c939e070e097248bc0e2b30bcfcca33e]{
 -- Page 444, Offset 15865.
 -- そんなに怒られるようなコト、してないと思うけど」
--- TRANSLATION HERE
+No he hecho nada que justifique que te enfades así."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 445, Offset 15866.
@@ -241,12 +243,14 @@
 [sha:68ee8471ebfc16bc4017c9bcb41444323f7539eb]{
 -- Page 453, Offset 15884.
 -- 「―――なによ、勝手なことばっかり言って。
--- TRANSLATION HERE
+// Tl oficial
+"¿Por qué decides tu todo? No es justo.
 }
 [sha:2c9ad6f8e9302576913911df06dba4a91d4beb9a]{
 -- Page 453, Offset 15885.
 -- だいたい居るだけで目立つってどうしてよ。わたし、外見は人間と変わらないでしょう？」
--- TRANSLATION HERE
+Y además, ¿qué te hace decir que llamo tanto la atención?
+ ¿Mi apariencia es como la de cualquier otro humano, no?"
 }
 [sha:afcf45a20d5819d51f192c02e2a62d51eba81163]{
 -- Page 453, Offset 15886.
@@ -256,12 +260,13 @@
 [sha:ed37044762011ca263b90ac5aa552accbc4a950f]{
 -- Page 454, Offset 15887.
 -- きっぱりと言い返す。
--- TRANSLATION HERE
+La respondo claramente.
 }
 [sha:94859afa23d8c2583811770f39ab193a0825913a]{
 -- Page 454, Offset 15888.
 -- 無駄のない返答だったからか、アルクェイドもそっか、とあっさり納得したようだ。
--- TRANSLATION HERE
+Quizá sea porque mi respuesta no deje mucho margen para discutir,
+ pero Arcueid parece ha aceptado mi respuesta sin rechistar.
 }
 [sha:ee0792e8f3c83d9a400f5a43552233a880a53088]{
 -- Page 455, Offset 15889.
@@ -336,7 +341,7 @@
 [sha:7fb35f390feb45f31c5de8708967218bd52b9fbf]{
 -- Page 461, Offset 15903.
 -- 「……は？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:eb01ff11e09aca9e51ab1381ac1f01ab3e186929]{
 -- Page 461, Offset 15904.
@@ -371,7 +376,7 @@
 [sha:125caae1bb96085daa69e164dd549bade80f7fd3]{
 -- Page 464, Offset 15910.
 -- そう、か。
--- TRANSLATION HERE
+Ah... entiendo.
 }
 [sha:dac22037644cd9c175f3e7b25bc2e5737e5ad475]{
 -- Page 464, Offset 15911.
@@ -381,12 +386,13 @@
 [sha:0bd5f6089f49c7917e70e2f8b9f0389cc55b2721]{
 -- Page 464, Offset 15912.
 -- 通り魔殺人の被害者たちは、血を抜かれた後、何の損傷もない遺体として発見されている。
--- TRANSLATION HERE
+Todas las víctimas descubiertas no tenían heridas en sus cuerpos,
+ sin tener en cuenta el hecho de que les habían chupado la sangre.
 }
 [sha:da5555b65e6a470fc9007c3c0d83403457e1b616]{
 -- Page 465, Offset 15913.
 -- けれどヴローヴは違う。
--- TRANSLATION HERE
+Pero eso no es lo que Vlov haría.
 }
 [sha:70ffda860eab51b8f664ba52e41e5bc92bf05ccf]{
 -- Page 465, Offset 15914.
@@ -396,7 +402,7 @@
 [sha:4cc9de1a26e6581ab8a69b3a12913880901dc882]{
 -- Page 465, Offset 15915.
 -- 現に、ホテルの被害者たちは殺人事件としてではなく、火災による死傷者として扱われていた。
--- TRANSLATION HERE
+De hecho, la gente que murió en el hotel era tratada como víctimas de un incendio, no como víctimas de asesinato.
 }
 [sha:5cccc297cf0c46e784c20c688b216edf5731b928]{
 -- Page 466, Offset 15916.
@@ -406,7 +412,7 @@
 [sha:e3999699509028a80e0fbb96524285b083e34a5c]{
 -- Page 467, Offset 15917.
 -- 「待ってくれ。じゃあ吸血殺人事件はなんなんだ？
--- TRANSLATION HERE
+"Un momento. ¿Entonces quién %{i}es%{/i} el vampiro tras los asesinatos?
 }
 [sha:79283fad5696d71c36896a0bd8593bb9fb654c4c]{
 -- Page 467, Offset 15918.
@@ -486,7 +492,7 @@
 [sha:58361c1e1901b967ed3c2b31f48518f91a9e5ee7]{
 -- Page 473, Offset 15933.
 -- 「ま、そのあたりはもういっか。ヴローヴは死んだんだし。
--- TRANSLATION HERE
+"Bueno, suficiente. Después de todo, Vlov ya está muerto.
 }
 [sha:5d851b4776959159b3312260d3ea23fd794a5739]{
 -- Page 473, Offset 15934.
@@ -496,7 +502,7 @@
 [sha:7db1beda072367ac5f89eba262d13d467f0b46ec]{
 -- Page 474, Offset 15935.
 -- 「わたし、標的がヴローヴだなんて言わなかったでしょ？
--- TRANSLATION HERE
+"Nunca dije que Vlov fuera mi objetivo, ¿o sí?
 }
 [sha:defdd9152ac225198ba7d6dc7f7e1dfd9f101e9c]{
 -- Page 474, Offset 15936.
@@ -506,7 +512,7 @@
 [sha:184689e630a36897c025ce76261fd9234e8132da]{
 -- Page 474, Offset 15937.
 -- ……志貴。まさかとは思うけど、ものすごく単純な勘違いしてたとか？」
--- TRANSLATION HERE
+Shiki... odio preguntar pero, ¿en serio has malentendido algo tan simple?"
 }
 [sha:aff06061948a413e9387df7a4a6402a75bc55ad8]{
 -- Page 475, Offset 15938.
@@ -701,7 +707,9 @@
 [sha:f95255dd26c3c7f447e3e53d2aa3e5909a987a00]{
 -- Page 490, Offset 15976.
 -- ヴローヴとの一戦を思い出す。それだけで背筋に悪寒が走るほど、殺される一歩手前の恐怖は残っている。
--- TRANSLATION HERE
+Pensando en mi batalla con Vlov.
+ El miedo que sentí entonces mientras me abalanzaba al precipicio de la muerte
+ está tan grabado en mi mente que con solo pensarlo me da un escalofrío.
 }
 [sha:4cacc861fa8a9ce70c7eaf39703f106570f47750]{
 -- Page 491, Offset 15977.
@@ -741,7 +749,7 @@
 [sha:1dd0e0d519069a50030e989c736adbc5fafecc48]{
 -- Page 493, Offset 15984.
 -- それを言われると弱い。
--- TRANSLATION HERE
+Me ha pillado.
 }
 [sha:2d4e6710425f9245fc5e9c0060981287862f8a2e]{
 -- Page 493, Offset 15985.

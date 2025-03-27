@@ -44,7 +44,7 @@ Ocurre sin previo aviso.
 [sha:e82ad52cc0902817f79246adb2c80fb25afc0d10]{
 -- Page 172, Offset 4397.
 -- 加速に似た意識の先鋭化。
-Mis sentidos se agudizan como si estuviera frenético.
+Mis sentidos se agudizan como si entrase en un estado frenético.
 }
 [sha:981d43df278655b8827decb8c0e56bb60c0dd3b3]{
 -- Page 172, Offset 4398.
@@ -54,7 +54,7 @@ Mi campo de visión se enrolla, tuerce, y dobla sobre sí mismo hasta ser solo u
 [sha:235ac2c24eb534f4dcf1f49c84b2973caa1e6772]{
 -- Page 172, Offset 4399.
 -- ぐるぐると脳そのものが回るような平衡感覚。
-Me siento tan desequilibrado que es como si mi cerebro estuviera dando vueltas en círculos.
+Esta sensación de desequilibrio es como si mi cerebro estuviera dando vueltas en círculos.
 }
 [sha:376380ee7a972053d0cb65fed913b8b34f8e0be2]{
 -- Page 173, Offset 4400.

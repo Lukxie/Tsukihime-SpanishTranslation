@@ -60,7 +60,7 @@ Desde aquí solo tardo media hora en llegar andando a la escuela,
 [sha:06ac0886827776a22e94d6817c73379a330f849f]{
 -- Page 65, Offset 4120.
 -- 的確にこっちの不備をついてくる……恐るべき反応速度、反射スキルと言わざるをえない。
-Señala mis errores con precisión quirúrjica... No tengo mas remedio que reconocer su formidable agudeza y reflejos supernaturales.
+Señala mis errores con precisión quirúrgica... No tengo más remedio que reconocer su formidable agudeza y reflejos sobrenaturales.
 }
 [sha:920419fe3e8c3ef7fb5b28e84c669d20bfd083ea]{
 -- Page 65, Offset 4121.

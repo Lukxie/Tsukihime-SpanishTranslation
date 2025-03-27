@@ -671,7 +671,7 @@
 [sha:a2799ad269f186bf3d3294e4fbd75795c39685d4]{
 -- Page 613, Offset 35030.
 -- ところで。
--- TRANSLATION HERE
+No viene a cuento, pero...
 }
 [sha:9ef905c968a33ad8ae3f37c3e9f81b29c5d8d23b]{
 -- Page 613, Offset 35031.
@@ -886,7 +886,7 @@
 [sha:5321136b901acd10e75e4306155179c44f10663f]{
 -- Page 627, Offset 35073.
 -- でも、
--- TRANSLATION HERE
+Pero―――
 }
 [sha:cda62f7d1e491b8c940da0751674adebd809b523]{
 -- Page 628, Offset 35074.

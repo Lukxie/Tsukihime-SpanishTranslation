@@ -11,7 +11,7 @@
 [sha:df3c1042cc12769d36587c68344dbfa18129a195]{
 -- Page 475, Offset 23363.
 -- 「……そうだよな。
--- TRANSLATION HERE
+"Sí, quizá eso funcione.
 }
 [sha:8d5aa72d2f49ecf3fff6bb165d7fa71d32c5e64f]{
 -- Page 475, Offset 23364.
@@ -91,12 +91,12 @@
 [sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
 -- Page 483, Offset 23379. Mods: @n.
 -- ……
-...
+%{nothing}
 }
 [sha:c88a8885bad9130c8a1db417ce5a1e47d79888fc]{
 -- Page 483, Offset 23380. Glued.
 -- と。
--- TRANSLATION HERE
+.
 }
 [sha:afaf18a05e36cce864b90bc9dff3e5ff3d0e96bb]{
 -- Page 483, Offset 23381.
@@ -296,7 +296,7 @@
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 499, Offset 23420.
 -- ……そっか。
--- TRANSLATION HERE
+Ya veo...
 }
 [sha:196564fabf3070d2343aa0fadef5e7fb76393149]{
 -- Page 499, Offset 23421.

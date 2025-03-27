@@ -1,170 +1,171 @@
 [sha:1cae9bfe9f639b32ddca3783954ce961fbaeb7f8]{
 -- Page 97, Offset 42942. Mods: @n.
 -- んー、どこにしまったかにゃー。
--- TRANSLATION HERE
+Hmm, ¿dónde lo he puesto nya?%{n}
 }
 [sha:201f0fe9a1e075ce110a6b1ef1237bf8e1ba87cf]{
 -- Page 97, Offset 42943.
 -- 必要なのはなんだったかにゃー。
--- TRANSLATION HERE
+¿Qué estaba buscando nya?
 }
 [sha:c9f5a97915b42232880e0545c66686304411ad80]{
 -- Page 98, Offset 42944. Mods: @n.
 -- いつかどこかでポチッたんだけどにゃー。
--- TRANSLATION HERE
+No recuerdo ni de donde lo saqué nya.%{n}
 }
 [sha:8dd91a6bf52d6a9a0f2f4c77abd33982f76f3619]{
 -- Page 98, Offset 42945.
 -- 間違えて三つくらい同じの買ったんだけどにゃー。
--- TRANSLATION HERE
+Aunque compré tres iguales por accidente nya.
 }
 [sha:f07e9f162f65480fa145dd91d61e5c93b19a69cd]{
 -- Page 99, Offset 42946. Mods: @n.
 -- まあいいや、要らないものはぜんぶポーイ！
--- TRANSLATION HERE
+Oh bueno, ¡hora de tirar todo lo que no necesito!%{n}
 }
 [sha:313c301d6ade21aff3b66a6953fae19517e10655]{
 -- Page 99, Offset 42947.
 -- ニャハハ、捨てろ捨てろーーー！
--- TRANSLATION HERE
+Nyajaja, ¡a la basura que vais!
 }
 [sha:5ff02aa832e5e7c7afdeb4b087bef6de3b9360b0]{
 -- Page 100, Offset 42948. Mods: @n.
 -- ついでに主人公人形もポーイ！
--- TRANSLATION HERE
+// Uff muy forzado quizá
+Y ya que estamos, ¡ta' luego, protagoñeca!
 }
 [sha:3904371e9a16f27d117e22799370425ad183abc3]{
 -- Page 100, Offset 42949.
 -- エ・ン・ド・ル・フィ・ン、キマってきたーー！
--- TRANSLATION HERE
+E - N - DO - R - PH - IN, ¡allá va!
 }
 [sha:b08322128ff8b0fcea83ac34a1d09fb896797cdf]{
 -- Page 101, Offset 42950. Mods: @n.
 -- 待って待ってーー！
--- TRANSLATION HERE
+¡Espera, espera!%{n}
 }
 [sha:794ffe1e0d1f87982ce801373fc23b00d6551df9]{
 -- Page 101, Offset 42951.
 -- それを　捨てるなんて　とんでもない！
--- TRANSLATION HERE
+¡No puedes tirar eso!
 }
 [sha:3f669d13a5fdb0a587d03b0f5c51fd67a40878e6]{
 -- Page 102, Offset 42952.
 -- え？　あ、やべ。
--- TRANSLATION HERE
+¿Eh? Ah, mierda.
 }
 [sha:5f99f2b914d318d6071c0bba2ba497f0bfbfaa27]{
 -- Page 103, Offset 42953.
 -- あー…………
--- TRANSLATION HERE
+Ah......
 }
 [sha:5f99f2b914d318d6071c0bba2ba497f0bfbfaa27]{
 -- Page 104, Offset 42954.
 -- あー…………
--- TRANSLATION HERE
+Ah......
 }
 [sha:6f9d61e1312d89feff8199869fb01e88682ab414]{
 -- Page 105, Offset 42955. Mods: @n.
 -- ま、まあ、幸いぬいぐるみのようですので……
--- TRANSLATION HERE
+B-Bueno, al menos solo es un muñeco...%{n}
 }
 [sha:6058b8f77dffd695696efd1fd9bcb3c0ca5dc74e]{
 -- Page 105, Offset 42956.
 -- 問題は……ないかと……
--- TRANSLATION HERE
+No debería ser un problema... creo...
 }
 [sha:b78c56bbe971804adf0be418698a8b847a86125f]{
 -- Page 106, Offset 42957. Mods: @n.
 -- そうかにゃー。
--- TRANSLATION HERE
+Cierto nya.%{n}
 }
 [sha:47ff77cd3cd808d9bc9460a6567cd02b8c46a62e]{
 -- Page 106, Offset 42958.
 -- なにやら運命を感じさせるシンクロニシティ。
--- TRANSLATION HERE
+Bueno, supongo que era el destino.
 }
 [sha:7a239884967c9cce936d92a4e3771b9bf61e6394]{
 -- Page 107, Offset 42959. Mods: @n.
 -- これは……もしや、主人公はカッコ良く
--- TRANSLATION HERE
+Podría ser esto... ¿una señal de la voluntad de que el%{n}
 }
 [sha:c6b9f19bcf57c3aca0f24d8b21a9078f653c39d2]{
 -- Page 107, Offset 42960.
 -- 射出されて飛び散る、という暗示なのでは？
--- TRANSLATION HERE
+protagonista será lanzado al aire de manera espectacular?
 }
 [sha:21c19ab7e7d38f2c2f1cff51ab0babf0ebabbc8b]{
 -- Page 108, Offset 42961. Mods: @n.
 -- ははは。まっさかあ。
--- TRANSLATION HERE
+Jajaja. Seguro que no.
 }
 [sha:790726b80dd2abc6606372d4d3ba9a24a997014d]{
 -- Page 108, Offset 42962.
 -- いくら遠野くんでも、そんな無謀な作戦は―――
--- TRANSLATION HERE
+Ni siquiera Tohno-kun podría%{n}pensar un plan tan temerario―――
 }
 [sha:293f5854e621476a3f6ac6eff7f44f37dab01a38]{
 -- Page 109, Offset 42963.
 -- 作戦は―――
--- TRANSLATION HERE
+Un plan tan―――
 }
 [sha:b9833bf2e2be9bdd2dd85362aae92804dafb80b6]{
 -- Page 110, Offset 42964. Mods: @n.
 -- ……たててますね。
--- TRANSLATION HERE
+Oh, lo ha hecho de verdad...
 }
 [sha:5391de1f408186f68821f22120dec54d41fce431]{
 -- Page 110, Offset 42965.
 -- 大胆というか、命知らずというか。
--- TRANSLATION HERE
+Eso ha sido%{n}bastante atrevido, ¿o más bien suicida?
 }
 [sha:c7965e63e46af7ba3183deb2cc66151d872ca657]{
 -- Page 111, Offset 42966. Mods: @n.
 -- なっちまえばいいんだよ、ミサイルに。
--- TRANSLATION HERE
+Si quiere convertirse en un misil humano, deja%{n}que lo haga.
 }
 [sha:c8ebf94f1e26367d53ed93df11c7aa203d8e7780]{
 -- Page 111, Offset 42967.
 -- んー、その意気は良かったんだけどにゃー。
--- TRANSLATION HERE
+Mmm, me gustan los hombres con mucho espíritu%{n}nya.
 }
 [sha:67649b5349852f97d50abe390ff0a4ede82f3ca4]{
 -- Page 112, Offset 42968. Mods: @n.
 -- 縦軸と横軸の問題を
--- TRANSLATION HERE
+¿Quizá la razón por la que fracasó fue por%{n}
 }
 [sha:2b1f58d6a291a7ac0755215caea9de4c0037d93e]{
 -- Page 112, Offset 42969.
 -- クリアできなかったのが敗因ですかな？
--- TRANSLATION HERE
+un error en las coordenadas X e Y?
 }
 [sha:b5abe678454edbafd5a52f204c07bb5ad6944f40]{
 -- Page 113, Offset 42970. Mods: @n.
 -- ここの三択はすべて無理目なプランですから、
--- TRANSLATION HERE
+Las tres opciones son irracionales por igual,%{n}
 }
 [sha:4473650b053fc689b9ff8fab46de718f3da74da3]{
 -- Page 113, Offset 42971.
 -- 難易度自体はどれも大差ないかもですね……
--- TRANSLATION HERE
+así que no hay mucho que distinguir en términos%{n}de dificultad...
 }
 [sha:232066c7281bcdb4dc653efa94ae7b6599546545]{
 -- Page 114, Offset 42972. Mods: @n.
 -- すぐに直前の選択肢に戻って、
--- TRANSLATION HERE
+Por lo que por favor, vuelve a la última elección%{n}
 }
 [sha:7437a67739501a6b8c3125ef082b7e053c50d6e6]{
 -- Page 114, Offset 42973.
 -- もう一度、これは、と思う手段をお選びください。
--- TRANSLATION HERE
+y esta vez prueba una estrategia distinta.
 }
 [sha:2aa5d73acec8179f500ed73a094bc0a3ab0518b9]{
 -- Page 115, Offset 42974. Mods: @n.
 -- ヴローヴ戦もいよいよクライマックス。
--- TRANSLATION HERE
+La batalla contra Vlov pronto llegará a su climax.%{n}
 }
 [sha:45ee00b4f6739da201b2867909a5054ce04768d2]{
 -- Page 115, Offset 42975.
 -- 戦いはつねに頭上を取るもの……ですよ、遠野くん！
--- TRANSLATION HERE
+¡La victoria siempre está al alcance... Tohno-kun!
 }

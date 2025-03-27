@@ -131,7 +131,7 @@
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 617, Offset 28806.
 -- しかし。
--- TRANSLATION HERE
+En vez, esto es lo que me toca.
 }
 [sha:f4067eab1d71145074204c3cc29839530c09a339]{
 -- Page 617, Offset 28807.
@@ -436,7 +436,7 @@
 [sha:80e40d58dc62bd2791a1e2384c02b516ac96fd7a]{
 -- Page 632, Offset 28867.
 -- 「―――、え？」
--- TRANSLATION HERE
+"¿―――Eh?"
 }
 [sha:95683283f6a5e0e2b19abc54b2cb10cbed3232dc]{
 -- Page 632, Offset 28868.
@@ -501,7 +501,7 @@
 [sha:7087c6c49f3f1eb77f38074580789621e6829971]{
 -- Page 637, Offset 28880.
 -- 「――――――、は」
--- TRANSLATION HERE
+"%{i}Jeh%{/i}..."
 }
 [sha:0862ea0765884e5e2605942a5e0f2bacee6561a7]{
 -- Page 637, Offset 28881.

@@ -79,7 +79,7 @@ Quizá es por mi ligera fiebre que me esté poniendo sentimental.
 [sha:990c3f0d772b8a28d7df477307d94eb1a73d2ab6]{
 -- Page 198, Offset 4474.
 -- 気分も落ち着いてきたし、ここにいても<善|よ>くない思索に<耽|ふけ>るだけだ。
-Ahora me siento mucho mejor, y si me quedo por aquí splo acabaré vagando aún más en estos pensamientos inútiles.
+Ahora me siento mucho mejor, y si me quedo por aquí solo acabaré vagando aún más en estos pensamientos inútiles.
 }
 [sha:fd8855981ef04caecb3874da18142c73c6148614]{
 -- Page 199, Offset 4475.
@@ -129,7 +129,7 @@ Cada fibra de mi ser registra este momento en la memoria.
 -- Page 201, Offset 4483.
 -- @g　金の髪と赤い瞳。
 @g
-Pelo dorado y ojos rojos.
+Cabello dorado y ojos rojos.
 }
 [sha:a8aab2b09069900003b6fb499611ccadf8b9d3b8]{
 -- Page 201, Offset 4484.
@@ -147,7 +147,7 @@ Un campo nevado que nadie ha pisado.
 -- Page 201, Offset 4486.
 -- @g　人知及ばぬ霊峰を思わせる、汚れのないシルエット。
 @g
-Una silueta impecable, el reminiscente de una cima más alla de la comprensión humana.
+Una silueta impecable, el reminiscente de una cima más allá de la comprensión humana.
 }
 [sha:f6ad58d6b42157c3202c29a7bbf7300d762794f4]{
 -- Page 202, Offset 4487.
@@ -254,7 +254,7 @@ Mis ojos se sienten como si se fueran a partir.
 -- Page 205, Offset 4504.
 -- @g　手のひらはズルズルに濡れている。
 @g
-Las palmas de mi mano resbalan y están sudadas.
+Las palmas de mi manos resbalan y están sudadas.
 }
 [sha:9461c5f3b85ed7882295e73aaa8b03f952edd6c3]{
 -- Page 205, Offset 4505.
@@ -278,7 +278,7 @@ De repente, recuerdo que solo soy un animal, vivo e igual que el resto.
 -- Page 206, Offset 4508.
 -- @g　呼吸はそれだけで再始動した。
 @g
-Eso es todo lo que necesito para empezar a respirar normal de nuevo.
+Eso es todo lo que necesito para empezar a respirar de nuevo con normalidad.
 }
 [sha:bf023a26ad41a8cd518a9c31c802070b535545ac]{
 -- Page 206, Offset 4509.
@@ -289,17 +289,17 @@ Pero me doy cuenta que mi sentido de la razón―――
 [sha:8b723de876de934a1273f3539c6f572bf6b8b000]{
 -- Page 207, Offset 4510.
 -- 何を間違えた訳でもない。
-         No es que haya hecho nada malo.
+No es que haya hecho nada malo.
 }
 [sha:79c2457c55dd0bbbf5de056fe59d13e6cdef694c]{
 -- Page 207, Offset 4511.
 -- 何を選んだ訳でもない。
-         No es que haya escogido esto.
+No es que haya escogido esto.
 }
 [sha:60a1e770a0ef2ca9bc4feead5bae7467683b00bb]{
 -- Page 207, Offset 4512.
 -- 俺はただ、家に帰りたかっただけなのに。
-         Solo quería irme a casa.
+Solo quería irme a casa.
 }
 [sha:b26f5d5bd33ccffaa13fac287029b30c6f219db0]{
 -- Page 208, Offset 4513.
@@ -322,19 +322,19 @@ Los equilibrios mentales que he estado haciendo todo este tiempo para engañarme
 -- Page 209, Offset 4516.
 -- @g　……追わないと。
 @g
-Persíguela...
+Síguela...
 }
 [sha:8f24c898e50015bd90b97a90fc3729e69fa00cd7]{
 -- Page 209, Offset 4517.
 -- @g　あの女を追わないと。
 @g
-Tengo que perseguirla.
+Tengo que seguirla.
 }
 [sha:458826fa8844a12fb932dc5d6203dfbfe718436b]{
 -- Page 209, Offset 4518.
 -- @g　追って、追いかけて、話をしよう。
 @g
-Persigue, persigue, persigue, y entonces habla con ella.
+Sigue, persigue, y entonces habla con ella.
 }
 [sha:6aace66be24d6b46e1eaed3fd3551496f1a90e80]{
 -- Page 209, Offset 4519.
@@ -450,7 +450,7 @@ No puedo recordar. De hecho―――
 -- Page 211, Offset 4534.
 -- @g　その“初めて”を、覚えていない。
 @g
-Aún ni siquera recuerdo mi 'primera vez'.
+Aún ni siquiera recuerdo mi 'primera vez'.
 }
 [sha:fcd1d015d40a9b0ac7bc47a002c7d1d6d3610e42]{
 -- Page 212, Offset 4535.
@@ -712,7 +712,7 @@ Debe ser aquí.
  Cualquier ser viviente puede percatarse de este olor, lo quieran o no.
  Es vergonzoso. Es inmoral. Es inevitable.
  Las reglas de la sociedad moderna son frágiles.
- Es por lo que incluso este impulso trivial es suficiente para que se desmoronen.
+ Es por lo que incluso este impulso trivial basta para que se desmoronen.
 }
 [sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
 -- Page 224, Offset 4578.
@@ -1048,7 +1048,7 @@ La habitación está vacía salvo por las extremidades de la mujer desmembrada y
 [sha:2406d65248de5453e4a2e954c29953489b219b0b]{
 -- Page 238, Offset 4633.
 -- あまりにも鮮烈な赤い侵食。
-El insidioso colo rojo es demasiado vivo.
+El insidioso color rojo es demasiado vivo.
 }
 [sha:a627d936af0aa70e19711a65c5d72dbf541fd4b5]{
 -- Page 238, Offset 4634.
@@ -1103,7 +1103,7 @@ No hay duda.
 [sha:d33be789d8b8e76c91e40c6bd7ac260902ee2d39]{
 -- Page 241, Offset 4644.
 -- それとも違うのだろうか。
-¿O alomejor la hay?
+¿O a lo mejor la hay?
 }
 [sha:bbb0080bc1a68241f48f833fae9bbfa1a12fdd95]{
 -- Page 241, Offset 4645.
@@ -1187,10 +1187,10 @@ Esto debe ser―――
 [sha:aec0b3956a34b7159474ac86b357a288b110490b]{
 -- Page 247, Offset 42599. Choice.
 -- きっと、何かの悪いユメだ。
- Esto deber ser una especie de pesadilla.
+Esto deber ser una especie de pesadilla.
 }
 [sha:abeaf9a59025fcdd9bc95fb0884adeb885d3d0cf]{
 -- Page 247, Offset 42600. Choice.
 -- ……いや、俺の起こした現実だ。
- No... esta es la realidad que he creado.
+No... esta es la realidad que he creado.
 }

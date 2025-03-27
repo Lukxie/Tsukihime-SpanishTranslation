@@ -471,7 +471,7 @@ Ah, así que es por eso.
 [sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
 -- Page 337, Offset 34188.
 -- ……ああ。
--- TRANSLATION HERE
+Ah...
 }
 [sha:8c9731b2dc534a3c659a7c45a66ceccfabcec95d]{
 -- Page 337, Offset 34189.
@@ -556,7 +556,7 @@ Ah, así que es por eso.
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 341, Offset 34205.
 -- かつん、かつん。
--- TRANSLATION HERE
+%{i}Tap%{/i}. %{i}Tap%{/i}.
 }
 [sha:5957b026b133dac97f93c39e4cb8857aa4ea2e58]{
 -- Page 341, Offset 34206.
@@ -621,7 +621,7 @@ Ah, así que es por eso.
 [sha:910e5c24149a1b8d427e065ebffb4490b741ad04]{
 -- Page 344, Offset 34218.
 -- 「――――――、はあ」
--- TRANSLATION HERE
+"―――%{i}Haah%{/i}."
 }
 [sha:6bb757763c92f9770461fccbf5539f45972cb1e0]{
 -- Page 344, Offset 34219.
@@ -646,7 +646,7 @@ Ah, así que es por eso.
 [sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
 -- Page 345, Offset 34223.
 -- かつん、かつん。
--- TRANSLATION HERE
+%{i}Tap%{/i}. %{i}Tap%{/i}.
 }
 [sha:bb3f53755fa91cbf5716b5d760e08df80e86b0ad]{
 -- Page 345, Offset 34224.

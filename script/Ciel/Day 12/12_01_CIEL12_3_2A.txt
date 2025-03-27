@@ -111,7 +111,7 @@
 [sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 186, Offset 31368.
 -- と。
--- TRANSLATION HERE
+Y entonces―――
 }
 [sha:71b419d2f9504b90b00983905030e969d1ee1cb8]{
 -- Page 187, Offset 31369.

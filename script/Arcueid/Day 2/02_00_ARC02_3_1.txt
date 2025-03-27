@@ -17,5 +17,5 @@ No es que tenga miedo de las noticias sobre los asesinatos en serie,
 [sha:b2b9574ccd8eec305627112968ae360b4c154239]{
 -- Page 175, Offset 3056.
 -- 街に遊びにいっただけで胸に大怪我を負った子供もいるのだ。避けられるものなら、リスクは避けるべきだろう。
-Hay niños que sufrieron graves heridas en el pecho solo por salir a jugar por la cuidad. Si se puede evitar el riesgo, entonces que así sea.
+Hay niños que sufrieron graves heridas en el pecho solo por salir a jugar por la ciudad. Si se puede evitar el riesgo, entonces que así sea.
 }

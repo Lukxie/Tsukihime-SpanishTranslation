@@ -1,37 +1,38 @@
 [sha:ef927d7cb71016e9d6cbdb44591afc6fcaf0d1c5]{
 -- Page 10002, Offset 8930.
 -- とは言っても、こんなのは俺だって初体験だ。
--- TRANSLATION HERE
+Dicho eso, nunca había lidiado con una situación así.
 }
 [sha:9a706387e658400203894f78ed1c3145d64f96a8]{
 -- Page 10002, Offset 8931.
 -- 応急手当とは言ったものの、思いつくのは、消毒薬、傷口を塞ぐガーゼ、包帯、鎮痛剤ぐらい。
--- TRANSLATION HERE
+Las únicas medidas de primeros auxilios que me vienen a la mente son una gasa para cubrir la herida, antiséptico, vendas, y analgésicos.
 }
 [sha:481dcfdf0b08dc916b36bb118a2a4f4bdceebe8c]{
 -- Page 10002, Offset 8932.
 -- あとは栄養。とにかく栄養をとってもらわないと。
--- TRANSLATION HERE
+Y esa nutrición. Mejor que coja algo para que coma.
 }
 [sha:d4cb42b73aa42862ff07a057a6563fc560ec1389]{
 -- Page 144, Offset 8933.
 -- 幸い、資金だけはたんまりとある。
--- TRANSLATION HERE
+Por suerte, tengo mucho dinero.
 }
 [sha:79a85382b633ab382fd47156e46ea43ca1be4dac]{
 -- Page 144, Offset 8934.
 -- 素人考えだろうと、何も無いよりはあった方がいい。何があいつの助けになるか分からないんだから。
--- TRANSLATION HERE
+No soy experto, pero lo que sea que se me ocurra es mejor que nada.
+ Nunca sabes que podría ayudarla.
 }
 [sha:4885dfebe0e467ecb2483956ff4779a0e6ae1ec6]{
 -- Page 144, Offset 8935.
 -- そう信じて、思いつく範囲のものを買いあさった。
--- TRANSLATION HERE
+Con eso en mente, compro todo lo que se me ocurre.
 }
 [sha:392b78f96e7eb186206e67e99799598366e7d874]{
 -- Page 145, Offset 8936.
 -- 「ちょっと、そこ、くすぐった～い！」
--- TRANSLATION HERE
+"Ey, parate, ¡me hace cooosquillaaas!"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 145, Offset 8937.
@@ -41,82 +42,83 @@
 [sha:e73c98417cab2958e49acd343dc54cef42829855]{
 -- Page 146, Offset 8938.
 -- 緊張感の無い声を無視して、出来るだけ繊細にガーゼをあてがう。
--- TRANSLATION HERE
+Ignorándo su voz despreocupada, aplico la gasa lo más delicadamente posible.
 }
 [sha:fe819c3135c78d3202938fdbc2dbb595b0369064]{
 -- Page 146, Offset 8939.
 -- アルクェイドの腹部の傷はそう大きなものではなかった。
--- TRANSLATION HERE
+La herida de su abdomen no es tan grande.
 }
 [sha:c44b4a958b30f580c8772d1d2db670d7e14c1683]{
 -- Page 147, Offset 8940.
 -- ……いや、深さ四センチもの裂傷が横一文字に走っているのは人間なら致命傷なんだろうが、アルクェイド曰く、
--- TRANSLATION HERE
+Quiero decir, una tajo horizontal de cuatro centímetros de profundidad sería %{i}absolutamente%{/i} fatal para cualquier humano, pero de acuerdo con Arcueid―――
 }
 [sha:d46cedc522b52e9cf88c56843a3682644c576bde]{
 -- Page 147, Offset 8941.
 -- 『こんなの、ぜんぜんたいした事ないからねっ！』
--- TRANSLATION HERE
+"¡Una herida así no es nada!"
 }
 [sha:13266b08b136cb6f86edd1d38e1b89f4a3bea7ad]{
 -- Page 147, Offset 8942.
 -- なんだそうだ。
--- TRANSLATION HERE
+Ahí lo tienes.
 }
 [sha:15593bc9a15f5b80d971a3b59fa217c1f90647ad]{
 -- Page 148, Offset 8943.
 -- どうやら内臓はそのうち勝手に治るらしい。あまりに常識外なのでそのあたりは話題にしないよう聞き流す。
--- TRANSLATION HERE
+Bueno, parece que sus órganos internos se curarán por si solos pronto. Es algo tan surrealista que no voy a parar ni a preguntarlo.
 }
 [sha:7d6d01510a5129d467be22cc628b4a35a771d701]{
 -- Page 148, Offset 8944.
 -- 出血は止まってあとは傷口を塞ぐだけなのだが、そこから先が思うようにいかないのだとか。
--- TRANSLATION HERE
+El sangrado ha parado, y todo lo que queda es cerrar la herida. Pero a partir de este punto, dudo que las cosas funcionen como lo harían con un humano.
 }
 [sha:a88c974003c27652bc2c15226200b258ebdacce3]{
 -- Page 149, Offset 8945.
 -- ここまで大きな傷口だと逆効果かもしれないが、細菌による感染を考慮して、消毒薬を塗っておく。
--- TRANSLATION HERE
+Quizá sea contraproductivo para una herida así de grande, pero aplico algo de antiséptico en ella para prevenir la infección bacterial.
 }
 [sha:e37270a2be03aeaf105c18898cc55a3af031c0c2]{
 -- Page 149, Offset 8946.
 -- 沁みるので暴れるかと思われたが、アルクェイドはまったく動じなかった。むしろ
--- TRANSLATION HERE
+Esperaba que se retorciese del dolor por el antiséptico, pero ni siquiera se movió.
 }
 [sha:a8074aee6e8266864a591e0f8098a5884aebad43]{
 -- Page 149, Offset 8947.
 -- 『ん？　いま何かしたの？』
--- TRANSLATION HERE
+"¿Hmm? ¿Acabas de hacer algo?"
 }
 [sha:679fadf71c57671f54e2a572e837f811ba81e20a]{
 -- Page 149, Offset 8948.
 -- という鈍感……いや、頑丈さである。
--- TRANSLATION HERE
+En vez, hace un comentario de tipa dura.
+ Supongo que simplemente es resistente.
 }
 [sha:e318e56e4ad3700775d6fbd0e3fde348957c6cf6]{
 -- Page 150, Offset 8949.
 -- 「……よし」
--- TRANSLATION HERE
+"Muy bien..."
 }
 [sha:9e17c900af5cb5923c3c87db69312d2f4d2bd712]{
 -- Page 150, Offset 8950.
 -- 傷口にガーゼを貼って、包帯を丁寧に巻いていく。
--- TRANSLATION HERE
+Pongo unas gasas sobre su herida y lo envuelvo cuidadosamente con vendas.
 }
 [sha:bab1c5f22a73806d3fd2176db9e61f918a189607]{
 -- Page 150, Offset 8951.
 -- 「あははは、ちょっとやめてって、志貴ってば上手すぎー！」
--- TRANSLATION HERE
+"%{i}Ajajaja%{/i}, ¡Shiki, para, se te da demasiado bien!"
 }
 [sha:2b70413f2a8cf2688e792937d8d603277b22b472]{
 -- Page 151, Offset 8952.
 -- 何が楽しいのか、アルクェイドは陽気に笑っている。
--- TRANSLATION HERE
+Arcueid suelta una risa alegre, aparentemente algo la divierte.
 }
 [sha:cf92145e1da7b7a3c6acbdc7d318fe563a83d182]{
 -- Page 151, Offset 8953.
 -- 消毒薬ではびくともしなかったクセに、包帯はくすぐったいらしい。
--- TRANSLATION HERE
+Aunque no reaccionó cuando apliqué antiséptico, parece que el vendaje la hace cosquillas.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 152, Offset 8954.
@@ -126,12 +128,12 @@
 [sha:b45ae1120d7b3af9be4acd2c1c1a722ce2ac3b8f]{
 -- Page 152, Offset 8955.
 -- 無視して包帯をピンで留める。傷口はややきつく縛ると止血できるというので、最後はきゅっと力をいれた。
--- TRANSLATION HERE
+La ignoro y aseguro el vendaje con un pin. Dicen que las heridas paran de sangrar cuando las presionas, así que le doy al vendaje un tirón final para terminar de apretarlo.
 }
 [sha:fdbe29783d4fcd76dde12a03bc6bf64679bbd962]{
 -- Page 152, Offset 8956.
 -- 「―――いたっ。もうっ、いまのは減点だよ、志貴」
--- TRANSLATION HERE
+"―――%{i}Ouch%{/i}. Ey, te quito puntos por eso, Shiki."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 153, Offset 8957.
@@ -141,245 +143,254 @@
 [sha:4ce806262c332b0ee93013aa467cc6121c070ae2]{
 -- Page 153, Offset 8958.
 -- ふう。とりあえず、俺に出来る事はこれで終わりだ。
--- TRANSLATION HERE
+%{i}Fiu%{/i}. Con esto, por ahora he hecho todo lo posible.
 }
 [sha:05dd86c921302b040e108713fed876b0827c5de7]{
 -- Page 153, Offset 8959.
 -- ちなみに、アルクェイドに気を遣ってカーテンはもう一度閉めておいた。
--- TRANSLATION HERE
+A propósito, he vuelto a cerrar las cortinas pensando en Arcueid.
 }
 [sha:a2ee70bba10f46cdb76cb350cbd4b917b890a463]{
 -- Page 154, Offset 8960.
 -- 「……さて。格好だけはつけてみたけど、どうかな。
--- TRANSLATION HERE
+"Bueno... parece estar bien, pero quien sabe lo que ayudará. ¿Cómo te sientes?
 }
 [sha:9be5610f4b6e3f213577dbf0e0b6de57645b56eb]{
 -- Page 154, Offset 8961.
 -- 動けるか、アルクェイド？」
--- TRANSLATION HERE
+Arcueid, ¿te puedes mover?"
 }
 [sha:9c453068580646c0ff70d1a781080c622ef644b3]{
 -- Page 155, Offset 8962.
 -- 「ええ、動く分には問題なさそう。中身はまだグチャグチャのままだから、満足には動けないでしょうけど」
--- TRANSLATION HERE
+"Sí, no tengo problemas en moverme. Aunque mis entrañas aún están bastante dañadas, así que no soy tan ágil como me gustaría."
 }
 [sha:62174ea0c68036d3fcb11d7939617e47f1e223c2]{
 -- Page 156, Offset 8963.
 -- 「そうか。ま、それはそっちの方でなんとかしてくれ。
--- TRANSLATION HERE
+"¿Lo están?
+ Bueno, lo siento, pero eso ya es cosa tuya.
 }
 [sha:ab0924a3c19fa5aa645530128f2b16c5d38f457c]{
 -- Page 156, Offset 8964.
 -- 俺は切るのが専門で、治すのは管轄外だ」
--- TRANSLATION HERE
+Mi especialidad es cortar. Curar está fuera de mi jurisdicción."
 }
 [sha:67b8b4df357606fc8b91d934e9ffe04ded955037]{
 -- Page 156, Offset 8965.
 -- アルクェイドから離れて、壁際に腰を下ろす。
--- TRANSLATION HERE
+Me alejo de Arcueid y me siento, apoyándome contra la pared.
 }
 [sha:2dabd174d60ec5034f7c5603322405895101196a]{
 -- Page 157, Offset 8966.
 -- 「お疲れさん、もう寝ていいぞ。
--- TRANSLATION HERE
+"Gracias por aguantar, ya puedes irte a dormir.
 }
 [sha:87927de873c3a1a78a26b9d86073ae0fcfaa8c53]{
 -- Page 157, Offset 8967.
 -- 眠って力が戻ればすぐに治るんだろ？　見張っててやるから、おとなしく寝ていてくれ」
--- TRANSLATION HERE
+Si duermes mejorarás más rápido y recuperarás tu fuerza, ¿verdad?
+ Haré guardia, así que compórtate y vete a dormir."
 }
 [sha:34635737b2aa0d98e0591fc5cf72a7230c705df8]{
 -- Page 158, Offset 8968.
 -- 「ううん、寝ても傷は回復しないわ。志貴も言ったでしょ、睡眠で回復できるのは疲れだけだって。
--- TRANSLATION HERE
+"No, mis heridas son sanarán aunque duerma. Es justo lo que has dicho, dormir solo ayuda a recuperarme de la fatiga.
 }
 [sha:61f81e17ed7a3a5f39ad7af9529719de460a02a8]{
 -- Page 158, Offset 8969.
 -- わたしの場合ね、力は純粋な時間経過で回復するものなの。夜になれば、とりあえず普通に動けるぐらいには回復するわ」
--- TRANSLATION HERE
+En mi caso, mi fuerza se recupera puramente con el paso del tiempo. Para el anochecer, habré recuperado la suficiente como para operar con normalidad."
 }
 [sha:d7ce999a83478acf4868bf3c3b36f7d36bf91d65]{
 -- Page 159, Offset 8970.
 -- そうは言われても、辛そうなアルクェイドを見ているのは、精神衛生上よろしくない。
--- TRANSLATION HERE
+Independientemente de lo que diga, verla sufrir no es bueno para mi salud mental.
 }
 [sha:77f8deeec326efd136478ca9597251927fdfd506]{
 -- Page 160, Offset 8971.
 -- 「―――いいから眠ってくれ。
--- TRANSLATION HERE
+"Enga, a dormir ya.
 }
 [sha:4822b5b4cf408bbe8d139638aa17df35c0b5e12d]{
 -- Page 160, Offset 8972.
 -- 今のおまえ、話しているだけで辛そうじゃないか」
--- TRANSLATION HERE
+Que parece que te cuesta estar levantada hablando."
 }
 [sha:17a6cc7650bb533b3548fbcfd595df27d948c584]{
 -- Page 160, Offset 8973.
 -- 「そうだけど、せっかく志貴が起きてるんだもの。
--- TRANSLATION HERE
+"Puede ser, pero sigues despierto.
 }
 [sha:f0374552a44b248e1cf33d9a19cef1c327b7add8]{
 -- Page 160, Offset 8974.
 -- 眠るのがもったいなくって」
--- TRANSLATION HERE
+Sería un desperdicio si me fuera a dormir ahora."
 }
 [sha:ab8041841de56e60e71689181e3110e092355562]{
 -- Page 161, Offset 8975.
 -- アルクェイドはベッドに腰をかける。
--- TRANSLATION HERE
+Arcueid se sienta en la cama.
 }
 [sha:eb7c96d8feb68f092dcb88a85ca417334ef094b7]{
 -- Page 161, Offset 8976.
 -- 完全にお喋りモードだ。
--- TRANSLATION HERE
+Parece que está totalmente en modo charlatán.
 }
 [sha:1a27b01e9f812a7d94131e8a4231cdaba309bf47]{
 -- Page 161, Offset 8977.
 -- 「―――ったく」
--- TRANSLATION HERE
+"Santo cielo..."
 }
 [sha:d4036d48f76d9bbf37d857130ebb1a7ea35edfb7]{
 -- Page 161, Offset 8978.
 -- 仕方ない。
--- TRANSLATION HERE
+Supongo que no tengo elección.
 }
 [sha:ca5d66642c32f889354fb98d7ca11c168072d745]{
 -- Page 161, Offset 8979.
 -- こっちも聞いておきたい事があるし、もう少しアルクェイドに付き合おう。
--- TRANSLATION HERE
+Yo también tengo preguntas que hacer, así que hablaré un rato más con ella.
 }
 [sha:4369469efd8f84084a077ded67526177dbd1a870]{
 -- Page 162, Offset 8980.
 -- 「アルクェイド。昨日のホテルのこと、訊いていいか」
--- TRANSLATION HERE
+"Arcueid, ¿puedo preguntar lo que paso ayer en el hotel?"
 }
 [sha:8c2aa714e968a5e2f43ebb2eb4dff1e561256fb0]{
 -- Page 162, Offset 8981.
 -- 「……そうね。やっぱりそういう会話になるわよね、わたしと志貴の場合」
--- TRANSLATION HERE
+"Claro... tras todo lo que nos pasó supongo que tendría que haberme esperado que preguntases."
 }
 [sha:d2e807deacbd0a411ca6160ed3190f2dcc7bf877]{
 -- Page 163, Offset 8982.
 -- 「昨日のあいつ……ヴローヴとか言っていたけど、あいつは一体なんなんだ。
--- TRANSLATION HERE
+"Ese tipo de ayer... ¿Vlov?
+ ¿Que demonios es?
 }
 [sha:09d9b21606f813377f06695bc9af6aa2f9cfc316]{
 -- Page 163, Offset 8983.
 -- 吸血鬼なのは分かる。仰々しい服とか、おまえよりよっぽどらしかったからな。けど―――」
--- TRANSLATION HERE
+Entiendo que sea un vampiro. Quiero decir, llevaba puesto esa ropa elaborada, osea que al menos parecía mucho más vampiresco que tú."
 }
 [sha:ad8345166d09815cbec61df3f15d27036ccd5980]{
 -- Page 164, Offset 8984.
 -- あの青色の炎。廊下に充満し、人間だけを燃やすあの火はなんなのか。あれは吸血鬼のイメージとはかけ離れすぎている。
--- TRANSLATION HERE
+¿Pero qué narices eran esas llamas azules que recorrían el pasillo?
+ No encajan para nada con mi idea de vampiro.
 }
 [sha:291f557d1d4e982d95deb1e2d6d4bb9f29f4e289]{
 -- Page 165, Offset 8985.
 -- 「む。わたしよりらしいって何よ、らしいって。
--- TRANSLATION HERE
+"%{i}Hmph%{/i}. ¿A que te refieres con que es más 'vampiresco' que yo?
 }
 [sha:f5f821c880d077be265e6665ccdf564245afca0a]{
 -- Page 165, Offset 8986.
 -- ……でも、確かに志貴の言う通りか。
--- TRANSLATION HERE
+Aunque... razón no te falta.
 }
 [sha:d995089a53cec6a5186b5abf6d011e0de545bf6c]{
 -- Page 165, Offset 8987.
 -- あいつ、体も崩れていないし原理も小規模だったし。人間が思い描くオーソドックスな吸血鬼なんでしょう。
--- TRANSLATION HERE
+Su cuerpo no se descomponía, y su Principio también era más o menos pequeño.
+ Es el tipo de vampiro 'ortodoxo' que la gente se imagina.
 }
 [sha:2268730d093842a7c798990488a41c0e0f79d0a8]{
 -- Page 165, Offset 8988.
 -- ―――あの炎の河をのぞけば、ね」
--- TRANSLATION HERE
+Bueno, si ignoras el río de sangre por lo menos."
 }
 [sha:5be9b78357f5f6f019d83fd5dd7432fa7e2c03f6]{
 -- Page 166, Offset 8989.
 -- 「それだ。……やっぱり、おまえから見てもあの火は異常なのか？　あいつはおまえより強い？」
--- TRANSLATION HERE
+"A eso me refería.
+ Osea que tu también pensaste que el fuego era raro, ¿no?
+ ¿Es más fuerte que tu?"
 }
 [sha:a9b0504bc7cc4ba28627cb01d48312fbb7ee6c1a]{
 -- Page 166, Offset 8990.
 -- ……と。アルクェイドのヤツ、とんでもなく露骨にため息をこぼしやがった。
--- TRANSLATION HERE
+En cuanto lo digo, Arcueid suelta un suspiro exagerado.
 }
 [sha:ff4e00befb382741ba1f9fa9266f79646ee89965]{
 -- Page 167, Offset 8991.
 -- 「そりゃあね。誰かさんに殺されてしまったわたしは、あんな二流の死徒と“戦い”をするレベルまで落ちてるわよ。
--- TRANSLATION HERE
+"Bueno, verás... Gracias que cierta %{i}persona%{/i} me mató, he caído a un nivel en el que incluso enfrentarse a un Apóstol Muerto de segunda como ese puede considerarse una 'pelea'.
 }
 [sha:3c4547d0296d62653d409ecc60e044d29dfa16e6]{
 -- Page 167, Offset 8992.
 -- 今のわたしとヴローヴの<存|ス><在|ケ><規|ー><模|ル>を比べるなら、あっちの方がやや上ってところ」
--- TRANSLATION HERE
+Si ahora comparases mi Escala de Vida con la de Vlov, él sería ligeramente más fuerte."
 }
 [sha:41045d5ba5fe6c7e88b7e124daa508cf2c9b7928]{
 -- Page 168, Offset 8993.
 -- 「……そ、そうか。
--- TRANSLATION HERE
+"Y-Ya veo...
 }
 [sha:e8f11727089cfd7149d6876d813674b4ae448da2]{
 -- Page 168, Offset 8994.
 -- 普段のアルクェイドなら、なんとか倒せる相手なんだ？」
--- TRANSLATION HERE
+Osea que si estuvieras sana, serías capaz de derrotarlo de alguna forma, ¿verdad?"
 }
 [sha:086c0b6e1c2fccef35dc56c80b4d6aad7e987a82]{
 -- Page 169, Offset 8995.
 -- 「なんとかって、普段なら戦いになんてならないっ！
--- TRANSLATION HERE
+"¿Cómo que 'de alguna forma'? ¡Sería una masacre!
 }
 [sha:8e04c646fbe4e7cf52470cfc04d9360fef2ef3ce]{
 -- Page 169, Offset 8996.
 -- もう、誰のおかげでこんな屈辱に耐えていると思ってるの？　あんな祖になりたての見習い、ホントなら睨むだけでぺしゃんこにできるんだからねっ！」
--- TRANSLATION HERE
+// Eh sorry a quien haya leido esto xd
+%{i}Ugh%{/i}, en primer lugar ¿quién crees que es el responsable de esta situación humillante?
+ Si tuviera toda mi fuerza, habría aplastado a ese Ancestrucho con solo mirarlo."
 }
 [sha:eafbd9efc6411fe4433f32d63d2977562f735602]{
 -- Page 170, Offset 8997.
 -- お、怒られてしまった……。
--- TRANSLATION HERE
+Oops, la he enfadado...
 }
 [sha:97f771f5e365647604cee01f9e2eaa73ceff8047]{
 -- Page 170, Offset 8998.
 -- しかし今は、そんなたらればの話を知りたいんじゃない。
--- TRANSLATION HERE
+Aún así, ahora mismo no me interesan esos 'y-sis'.
 }
 [sha:d058aa2e437df5a0ad843a37c3d4e57cae8caae1]{
 -- Page 170, Offset 8999.
 -- 現実問題として、アルクェイドはあの吸血鬼を倒す事ができるのかどうかを知りたいのだが……。
--- TRANSLATION HERE
+La pregunta de verdad es si Arcueid puede derrotar a ese vampiro en su condición actual.
 }
 [sha:58d072bbd3cb73206a2037e9bdb988153cb732a9]{
 -- Page 171, Offset 9000. Mods: @k, @e.
 -- 「できないわ。今はヴローヴの方が上だもの。
--- TRANSLATION HERE
+"No puedo. Ahora mismo, Vlov es más fuerte que yo.
 }
 [sha:8489a69ae59ed52e219359bb20a2cbb6b59ba70e]{
 -- Page 171, Offset 9001. Glued. Mods: @x.
 -- 単純な性能で下回っているんだから、無策で戦えば殺されるわ」
--- TRANSLATION HERE
+En términos de poder puramente, he caído por debajo de él. Si me enfrentara a él directamente, simplemente me matarían."
 }
 [sha:ab80c0435ece814fae6776f1689d71408d227714]{
 -- Page 171, Offset 9002.
 -- 「ず、ずいぶんきっぱりと言うんだな。さっきはあんなに怒ったクセに」
--- TRANSLATION HERE
+"E-Eso es bastante directo viniendo de ti. También te enfadaste mucho cuando te pregunté antes. "
 }
 [sha:692ecbc1fe4133f1aca8f5e783e2474f725ae654]{
 -- Page 172, Offset 9003.
 -- 「ただの事実よ。判りきった話なんだから、予断も希望も挟まないわ」
--- TRANSLATION HERE
+"Es un hecho. La situación es clara cristalina; no tiene sentido tener esperanzas o predecir lo contrario."
 }
 [sha:871c967925c56ed7c2effbbca32348b249380ca5]{
 -- Page 173, Offset 9004.
 -- ……言われて、少し気圧された。
--- TRANSLATION HERE
+Su franqueza es un poco intimidante...
 }
 [sha:c00291625a28a801b6c9bf761f659963a5651c72]{
 -- Page 173, Offset 9005.
 -- こと戦いにおいて、アルクェイドは徹底してシビアな思考回路をしている。
--- TRANSLATION HERE
+Cuando hablamos de pelear, Arcueid piensa de manera robusta y minuciosa.
 }
 [sha:4131c570569d51436169c047024548824278d29b]{
 -- Page 173, Offset 9006.
 -- その冷徹さを目の当たりにすると、今さらながら、こいつも吸血鬼なのだと再認識する。
--- TRANSLATION HERE
+Ver su fría naturaleza de cerca, me sorprende de nuevo――quizá un poco tarde pero――realmente ella es un vampiro.
 }

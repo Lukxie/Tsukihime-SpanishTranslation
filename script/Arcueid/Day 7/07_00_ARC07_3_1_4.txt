@@ -1,242 +1,257 @@
 [sha:42083e64b3210a8e6aa7410fc30b99ba1d002a94]{
 -- Page 10019, Offset 18142.
 -- いい機会だ。否、絶好のチャンスだった。
--- TRANSLATION HERE
+Esta es una buena oportunidad. No――esta es la mejor oportunidad que voy a tener.
 }
 [sha:b1854467dc79b7e7214eb4203b06d241d8bbe685]{
 -- Page 10019, Offset 18143.
 -- 実はものすごく気になっていたんだけど、
--- TRANSLATION HERE
+Para ser sincero, hay algo que me intriga mucho...
 }
 [sha:972d5531813dde407afd180acd6b6d259ccb08b2]{
 -- Page 621, Offset 18144. Mods: @n.
 -- 「ヴローヴと戦っていた時に着てた服、
--- TRANSLATION HERE
+"Esa ropa que llevabas cuando luchabas contra Vlov...
 }
 [sha:7f68ce8810566ac434b18de7acff93ae1330dc3d]{
 -- Page 621, Offset 18145. Glued.
 -- 見せて」
--- TRANSLATION HERE
+¿puedo verla?"
 }
 [sha:4998075f3f2e18f8841223d1f3d309b1a6ce654f]{
 -- Page 622, Offset 18146.
 -- そうですよね。
--- TRANSLATION HERE
+Ya decía yo.
 }
 [sha:bd5f37188f1d6165255b6c9ef747cc30c6cff7c9]{
 -- Page 622, Offset 18147.
 -- そういう顔しますよね。
--- TRANSLATION HERE
+Es normal que ponga esa cara.
 }
 [sha:ae72576287a3dccda4b2eb6a317a476d5ca27f34]{
 -- Page 622, Offset 18148.
 -- でも、転がり出した憧れは止められないんだ。
--- TRANSLATION HERE
+Pero ahora que he mostrado mis intenciones no puedo retirarme.
 }
 [sha:525a02fcdcf2d44d2ee1c8481c49a5e70f35d9e5]{
 -- Page 623, Offset 18149.
 -- 「あの時は遠くにいたからよく見えなくて。
--- TRANSLATION HERE
+"Estabas tan lejos que no pude muy bien lo que pasaba.
 }
 [sha:3b3cdaeeca1c163e27be8abeacb8524fd64148d7]{
 -- Page 623, Offset 18150.
 -- なんか、今と違う服装になってなかった？」
--- TRANSLATION HERE
+Me pareció ver que llevabas algo distinto a lo que llevas ahora."
 }
 [sha:4d3f172e042369f660434e96413dd35fd750ff57]{
 -- Page 624, Offset 18151.
 -- できるだけ素朴に、あくまで学術的な興味だよ、という態度は崩さない。
--- TRANSLATION HERE
+Intento parecer lo más tranquilo posible.
+ Sin importar qué,
+ debo mantener la fachada de hacer esto por la ciencia.
 }
 [sha:0c9647c0f559011ea89178a79b4864c5e3dfc670]{
 -- Page 624, Offset 18152.
 -- ここでアルクェイドに不審がられては、それこそ千金の損失だ。
--- TRANSLATION HERE
+Si Arcueid sospecha, será una pérdida incalculable.
 }
 [sha:5fc75f855c9c3928660786c33e522d28e7df7e02]{
 -- Page 625, Offset 18153.
 -- 「ああ、ヴローヴ対策で表面を変えていた時のこと？
--- TRANSLATION HERE
+"Ah, ¿te refieres a cuando cambié mi apariencia como contramedida contra Vlov?
 }
 [sha:5d8e068d4f2d804e1f5c5f1870323612161ac4ff]{
 -- Page 625, Offset 18154.
 -- んー、疲れるからやりたくないんだけど、レシピはまだ残してるから……」
--- TRANSLATION HERE
+Hmm, me cansa así que preferiría no hacerlo,
+ pero ya que aún tengo la receta..."
 }
 [sha:dedf3199b9bdcb71981e32efe5bef0617631cab9]{
 -- Page 626, Offset 18155.
 -- 「はい。これでいいの？」
--- TRANSLATION HERE
+"Ale. ¿Suficiente?"
 }
 [sha:d75efcb66a25ecaaadd9fe8a0241ea7ace39260c]{
 -- Page 627, Offset 18156.
 -- それは、これでいいの？　なんて、なんでもない口ぶりで見せていいものではなかった。
--- TRANSLATION HERE
+¿Suficiente? Eso no es algo que puedas decir tras enseñarme algo así.
 }
 [sha:ab9a280308681c31471df523e1befc97422859c0]{
 -- Page 628, Offset 18157.
 -- 無駄のない流麗なフォルム。
--- TRANSLATION HERE
+Su silueta es elegante y esbelta.
 }
 [sha:a28094a6ee53d94ee27e6509d39d2191b024051d]{
 -- Page 628, Offset 18158.
 -- 両腕を包む絹の手袋の滑らかさ。
--- TRANSLATION HERE
+Suaves guantes de seda envuelven cada brazo.
 }
 [sha:52733252cb91b65f4bcd940da7ae4b636fe10b44]{
 -- Page 628, Offset 18159.
 -- あらわな両肩は華やかでありながらあくまで清楚に。
--- TRANSLATION HERE
+Sus hombros expuestos son glamurosos, pero a la vez reservados.
 }
 [sha:e38ed9c03bae1856501f6beb5ef9e3b55a4da93d]{
 -- Page 629, Offset 18160.
 -- ……言葉がない、とはこの事だ。
--- TRANSLATION HERE
+Así que así se siente uno cuando se queda sin palabras...
 }
 [sha:b276c74dfa95a0c8048c60421999b9c410a1e712]{
 -- Page 629, Offset 18161.
 -- 可憐としか言いようのない、純白の美女がそこにいた。
--- TRANSLATION HERE
+Ante mi una pura belleza blanca que solo puede describirse como encantadora.
 }
 [sha:ea83d2a358bf5cfa85a1c0275f95ccf0bd5cfc1f]{
 -- Page 630, Offset 18162.
 -- 「ツア――――――」
--- TRANSLATION HERE
+"%{i}Tsaaaaaaah%{/i}―――"
 }
 [sha:a232c23451195f3d774ea6d53e1fd8b70cdceae1]{
 -- Page 630, Offset 18163.
 -- 意味不明の感嘆が漏れる。
--- TRANSLATION HERE
+Se me escapa un sonido de admiración incomprensible.
 }
 [sha:21f5263acd2103594d83ab0fd7fb2efdc4087c0c]{
 -- Page 630, Offset 18164.
 -- 目の前にいる生き物が、今日一日さんざん俺を困らせてくれた吸血鬼とはとうてい思えない。
--- TRANSLATION HERE
+Casi no me puedo creer que el ser frente a mis ojos sea el mismo vampiro que lleva todo el día siendo un grano en el culo.
 }
 [sha:6ded6007d5d24921c6452f885fdba6b959b4f077]{
 -- Page 630, Offset 18165.
 -- というかこのドレスでもう一度遠野邸に来てくれないかな絶対絵になるから。
--- TRANSLATION HERE
+Debería volver a la mansión ahora que tiene ese vestido puesto.
+ Sería un espectáculo.
 }
 [sha:aaf196313f817569c6c0ec67098f6cce1be0677e]{
 -- Page 631, Offset 18166.
 -- 「これ、わたしの選択ミスだから、あんまり好きじゃないんだけど。
--- TRANSLATION HERE
+"Escogía este vestido por error,
+ no es que sea muy fan de él.
 }
 [sha:b1cbdd9239d6900fe2a9c6b633c75415ea3c2e9a]{
 -- Page 631, Offset 18167.
 -- ヴローヴの原理が『寒さ』だと見抜いていれば、もっとあったかいイメージで固めてたわ」
--- TRANSLATION HERE
+Si hubiese sabido que el Principio de Vlov era 'Frío', habría escogido algo más calentito."
 }
 [sha:96c81d932f82d5b1af21daf3d6970c7d0dd9659e]{
 -- Page 632, Offset 18168.
 -- ……言われてみると、アルクェイドの周囲だけ気温が低い。
--- TRANSLATION HERE
+Ahora que lo menciona,
+ el aire a su alrededor se siente más frío.
 }
 [sha:a55dfd958991f527f42ac901bf63dbe97f705a1d]{
 -- Page 632, Offset 18169.
 -- きらきらと氷の結晶が舞っているようにも見える。
--- TRANSLATION HERE
+Creo que puedo ver los cristales de hielo brillando mientras bailan en el aire.
 }
 [sha:e198cc8b42fbc133bec174e00a18c66e2a7f2508]{
 -- Page 633, Offset 18170.
 -- 「そっか。耐熱仕様なんだもんな。そりゃあ冷房機能もついてるか」
--- TRANSLATION HERE
+"Ya veo. Supongo que intentabas evitar el calor,
+ tendría sentido incluir refrigeración.
 }
 [sha:edb9f3da79f02f0a6f72ad3af19eaf5bda746c9a]{
 -- Page 634, Offset 18171.
 -- 「そう。くれぐれも触らないでね。触れると志貴も凍っちゃうから。
--- TRANSLATION HERE
+"Exacto. Ten cuidado de no tocarlo,
+ a no ser que quieras congelarte.
 }
 [sha:79a01c1c793ab907ba7ca892e961f0b7b865f52a]{
 -- Page 634, Offset 18172.
 -- これはわたし自身の護りじゃなくて、ヴローヴに組み付いた時、炎を消すために創ったものよ」
--- TRANSLATION HERE
+Aunque no hice esto para protegerme directamente,
+ lo hice para apagar las llamas de Vlov al chocar con el."
 }
 [sha:382370af1da8b67b3e231e22c9e63570b79824db]{
 -- Page 635, Offset 18173.
 -- 防御しつつ攻撃する、というコンセプトか。
--- TRANSLATION HERE
+La mejor defensa es una buena ofensiva, ¿eh?
 }
 [sha:36347bb0f1ffa8db0cab0fd55697412d4e96fbf9]{
 -- Page 635, Offset 18174.
 -- いかにもアルクェイドらしい。
--- TRANSLATION HERE
+Algo muy Arcueid.
 }
 [sha:d26a03d1d129abfd9820edd3a6d20dc38c45b23d]{
 -- Page 635, Offset 18175.
 -- ……にしても、その……
--- TRANSLATION HERE
+Pero aún así, esa apariencia...
 }
 [sha:80d5dadf1de95120712230c3a666bf6a436debc1]{
 -- Page 635, Offset 18176.
 -- ……悔しいけど……
--- TRANSLATION HERE
+Odio admitirlo pero...
 }
 [sha:efcca97cf914663e2a4ab1f74b8abf38430eddfa]{
 -- Page 635, Offset 18177.
 -- 本当にお姫様だったんだな、こいつ……
--- TRANSLATION HERE
+Si que es una princesa, eh...
 }
 [sha:2d5bcf5941c7099a4a751036f53aecdab6739a9e]{
 -- Page 636, Offset 18178.
 -- 「もう。なによ、難しそうな顔して。
--- TRANSLATION HERE
+"Jo, ¿Por qué pones esa cara?
 }
 [sha:0a7eae5b5ba9233df7cb98a6dc83b65b7a1842c7]{
 -- Page 636, Offset 18179.
 -- もしかして志貴、わたしの失敗を見て楽しいの？」
--- TRANSLATION HERE
+Espera, Shiki――¿te estás riendo de mis errores?"
 }
 [sha:1c003be6481430d2a8408fd051daf4e5a1ba9c02]{
 -- Page 637, Offset 18180.
 -- 「そんなワケあるか。これが失敗なら世の中の９割は失敗だ。普段からこの格好……はダメだよな、目立ちすぎる。
--- TRANSLATION HERE
+"Claro que no.
+ Si esto es un error, entonces el noventa por ciento del mundo también lo es.
+ Podrías llevar esto regularm... no funcionaría después de todo, destacas demasiado.
 }
 [sha:fd1d66326974b9c7072746df04a3c709ee78295c]{
 -- Page 637, Offset 18181.
 -- だいいち他のヤツに見せるなんてとんでもない。これは俺だけの特権だ」
--- TRANSLATION HERE
+Además, no hay forma de que deje ver esto a nadie más.
+ Esto es algo solo para mis ojos."
 }
 [sha:41dc5520d8f804c289a426ae3f7238334ae1e3bb]{
 -- Page 638, Offset 18182.
 -- 「そ、そう？　じゃあ気に入った、ってコト？」
--- TRANSLATION HERE
+// AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+¿E-En serio? ¿Entonces te gusta?"
 }
 [sha:3c11092e4d45d276eabf3b493bea6268cc927cb0]{
 -- Page 638, Offset 18183.
 -- ふと冷静になる。
--- TRANSLATION HERE
+De repente recupero la compostura.
 }
 [sha:d10c1b9dda4ec682daa70a54bfe897b9f18f9ca5]{
 -- Page 638, Offset 18184.
 -- あまりの衝撃で迂闊な発言をしてしまった。
--- TRANSLATION HERE
+No puedo creer que un ataque tan simple haya sacado tanto de mi.
 }
 [sha:829a7086424f5700ab781caa1b49645e2c8380d5]{
 -- Page 639, Offset 18185.
 -- 「ま、まあ、それなりに。一緒に戦う時、おまえが色々できると頼りになるだろ」
--- TRANSLATION HERE
+"B-Bueno en cierto sentido.
+ Cuando luchemos juntos será de gran ayuda tener cosas así."
 }
 [sha:649b881802ad54d4eb5639214ec32bdbdd36f7b9]{
 -- Page 639, Offset 18186.
 -- なんとか取り繕う。
--- TRANSLATION HERE
+Intento salvarme de alguna forma.
 }
 [sha:c260d1afafd3f3686383a58dab25a18f95978e4e]{
 -- Page 639, Offset 18187.
 -- “頼りになる”という言葉が嬉しかったのか、
--- TRANSLATION HERE
+Parece que está contenta por 'ser de gran ayuda' .
 }
 [sha:0876f194b3af56e7f9e9f0b4b830bc9cfab7420b]{
 -- Page 640, Offset 18188.
 -- 「もっちろん！　わたし、基本的に万能だから！
--- TRANSLATION HERE
+"¡Por supuesto! ¡Soy básicamente buena en todo!
 }
 [sha:484a105a61a9af04f6a87838407c77d560eb0554]{
 -- Page 640, Offset 18189.
 -- 殺す事しか能の無い志貴を最大限にサポートするね！」
--- TRANSLATION HERE
+// Tl oficial
+Todo lo que puedes hacer es matar, ¡así que te apoyaré de todas las maneras que pueda!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 641, Offset 18190.
@@ -246,97 +261,101 @@
 [sha:53ccbc825115723e3381b965c168b7570bb34a4e]{
 -- Page 641, Offset 18191.
 -- ……妙な自信をつけさせてしまった。
--- TRANSLATION HERE
+Quizá la haya dado una extraña sensación de confianza.
 }
 [sha:4f85f56552a8a42412f25e234f0e37708a16a01a]{
 -- Page 642, Offset 18192.
 -- コイツ、いま間違いなく俺をテニスボールのように打ち出すニュアンスで言ってたぞ……。
--- TRANSLATION HERE
+No me lo puedo creer... seguro que ha dicho eso mientras se imaginaba lanzándome como una pelota de tenis...
 }
 [sha:7451be60939ea6ac0ea3e0edbeddad2b0cfc0f0a]{
 -- Page 642, Offset 18193.
 -- ヴローヴとの戦いで、あんな無茶な作戦を立てたのが悪かったか……。
--- TRANSLATION HERE
+Sinceramente, es mi culpa por pensar en un plan tan descabellado al enfrentarnos a Vlov...
 }
 [sha:45dcdad1b0a65936b4159976e8efc233ebce0421]{
 -- Page 643, Offset 18194.
 -- 「ところで。その服、名前とかあるのか？」
--- TRANSLATION HERE
+"Por cierto, ¿esa ropa tiene algún nombre o algo?"
 }
 [sha:b6b2cf0bf91a57f6cdb927c32eb27ee4d9899495]{
 -- Page 643, Offset 18195.
 -- 「名前？　そんなのいちいち決めないけど……
--- TRANSLATION HERE
+"¿Nombre? No me suelo molestar en darle nombre a cosas como esta...
 }
 [sha:25b0c5fedb3a3ffac4f1e57a686a19c5fc4764f4]{
 -- Page 643, Offset 18196.
 -- ドレスコードは、そうね……『氷河をまとう』かな？
--- TRANSLATION HERE
+// otra vez con dress code me quiero MORIRRRRRRRRRRRRRRRR
+Creo que llamaría a este atavío de combate, hmm... ¿algo como 'Glaciar Envolvente'?
 }
 [sha:69cb492839899f6d1da4711e0ea889b39b844b06]{
 -- Page 643, Offset 18197.
 -- そういうイメージで創ったわ」
--- TRANSLATION HERE
+Esa es la imagen que tenía en mente al crearlo."
 }
 [sha:6fdf45096a6bebfa7580cede41cd35fef81ea03c]{
 -- Page 644, Offset 18198.
 -- 「ふむ。じゃあヴローヴの力を見抜いていたら―――」
--- TRANSLATION HERE
+"Hmm. Entonces si hubieses sabido el verdadero poder de Vlov―――"
 }
 [sha:19d69a5dbbd18001e26156ce93cb9cea34fcc3c9]{
 -- Page 644, Offset 18199.
 -- 「キラウエアをイメージしていたでしょうね。あそこは今も活動している火山だから」
--- TRANSLATION HERE
+// Mix de tls
+"Entonces me hubiera basado en Kilauea.
+ Ya que es un volcán activo."
 }
 [sha:f26ff182ba5f55c2658f8e7ec868a1b0c314585c]{
 -- Page 644, Offset 18200.
 -- そこは可愛く『<南国|ハワイ>のわたし』くらいにしていただきたい。
--- TRANSLATION HERE
+Admito que me encantaría verla en un atuendo hawaiiano.
 }
 [sha:30a2561b454b4520f3877b088498a93ea09e27fe]{
 -- Page 645, Offset 18201.
 -- 「ね。そろそろ着替えていい？
--- TRANSLATION HERE
+"Ey, ¿ya me puedo cambiar?
 }
 [sha:c99481b33d52a5fc556df5b210b4103549da01e9]{
 -- Page 645, Offset 18202.
 -- 力、無駄に使いたくないし」
--- TRANSLATION HERE
+No quiero malgastar energía."
 }
 [sha:bd0f72ee128476c7557cd5c06b8f6f58e38704b8]{
 -- Page 645, Offset 18203.
 -- ……名残惜しいが、これ以上アルクェイドを止める理由が思いつかない。
--- TRANSLATION HERE
+Me da pena dejarlo ir, pero no tengo razones para detenerla.
 }
 [sha:bd8e442fb942e6c317847b61450546ebeffd3b7b]{
 -- Page 645, Offset 18204.
 -- できるだけ冷静に、どうぞ、と返答する。
--- TRANSLATION HERE
+La digo que está bien, intentando mantener la compostura mientras lo hago.
 }
 [sha:e3dcf7b832ae171b17bbb26aa4cdddbb10499379]{
 -- Page 645, Offset 18205.
 -- それはともかくとして、
--- TRANSLATION HERE
+Pero sea como sea―――
 }
 [sha:6d61654bc559aa7dddc017bf28b2fdb5474de389]{
 -- Page 646, Offset 18206.
 -- 「なあ。ヴローヴとの戦闘服が、なんでドレスなんだ？
--- TRANSLATION HERE
+"Ey, ¿por qué escogiste ese vestido como uniforme de combate contra Vlov?
 }
 [sha:edfb2e1e849490dc115c227e940ad5fba9ddc574]{
 -- Page 646, Offset 18207.
 -- 社交界に行くワケでもあるまいし」
--- TRANSLATION HERE
+// Tl oficial
+Parece más apropiado para la alta sociedad que para una pelea."
 }
 [sha:38245af12822ca9bc4f6903ceefc560a5ffc6922]{
 -- Page 647, Offset 18208.
 -- 「？　社交界ってそういうものでしょ？」
--- TRANSLATION HERE
+¿Hmm? ¿Pero en la alta sociedad todo son peleas, no es así?
 }
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 647, Offset 18209. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:b328ba224751be6c026073ab7c95cec68ea40864]{
 -- Page 647, Offset 18210. Glued. Mods: @x.
@@ -346,5 +365,6 @@ Por supuesto."
 [sha:c18bce6b5512827d3eec9fff9e79dd4cf75b4ba9]{
 -- Page 647, Offset 18211.
 -- 吸血鬼の世界において、社交界とはそういうものであるらしい。
--- TRANSLATION HERE
+Parece que en el mundo vampírico,
+ esa pelea se considera un evento de gala.
 }

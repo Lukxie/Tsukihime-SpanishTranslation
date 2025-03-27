@@ -49,7 +49,7 @@ Estas 'líneas' aparecen por igual en todo lo que puedo ver,
 -- あらゆるものは『壊れてしまう』という運命を内包しているの。カタチがある以上、こればっかりは逃れようのない前提でしょう？」
 // Diría inscrito pero así tiene mas sentido con lo siguiente
 Todas las cosas tienen su destino de 'desintegrarse' cosido en ellas.
- Este es un prerequisito inevitable que comparte todo lo material."
+ Este es un prerrequisito inevitable que comparte todo lo material."
 }
 [sha:1e6b21335c0f0f2899b76123e073b8b964dda65a]{
 -- Page 4, Offset 3955.
@@ -106,7 +106,7 @@ Quiero decir, ¿y quién no?
 [sha:62435bdb7d948c15abdc1ad6c125247e117f020d]{
 -- Page 7, Offset 3964.
 -- 確かな<約束|けつごう>のない世界。
-Estas líneas por las que las cosas se rompen más facilmente.
+Estas líneas por las que las cosas se rompen más fácilmente.
 }
 [sha:d4556bfadd55be85357b47224e1412fdbcbe4cd4]{
 -- Page 7, Offset 3965.
@@ -132,7 +132,7 @@ Me despierto de mi sueño.
 -- Page 8, Offset 3969.
 -- 目蓋ごしに朝の光を感じ取って、目を閉じたまま枕元に手を這わせる。
 Sintiendo la luz del día en mis ojos a través de los párpados,
- mantengo los ojos cerrados y acerco la mano a la mesilla de noche.
+ mantengo los ojos cerrados y acercó la mano a la mesilla de noche.
 }
 [sha:ed079187fd01261368d5b6acf91f0565a9e1d85e]{
 -- Page 9, Offset 3970.
@@ -182,7 +182,7 @@ Si alguien estuviera mirando,
 -- Page 13, Offset 3978.
 -- 壁際に振り向くと、そこにはメイド服の少女が立っていた。
 Cuando me giro hacia el sonido, veo que alguien %{i}estaba%{/i} mirando――
- hay una joven criada apoyándose en la pared.
+ hay una joven sirvienta apoyándose en la pared.
 }
 [sha:90f7c9910e00d2ef89163402194a689cf7e59ff2]{
 -- Page 13, Offset 3979.
@@ -197,7 +197,7 @@ Debe haber venido a levantarme para que no me quedase dormido, como hizo ayer.
 [sha:8ed2b91fe033b3aa762b750f2a46952026e6a055]{
 -- Page 14, Offset 3981.
 -- 「そっか。ごめん、驚くのはおかしかった。
-"Es cierto, perdona, no debería estar tan soprendido.
+"Es cierto, perdona, no debería estar tan sorprendido.
 }
 [sha:f042e79d64dcd6953f0278f18c728e27dd288095]{
 -- Page 14, Offset 3982.
@@ -223,7 +223,7 @@ Pero, mientras lo hacía se deja de mover de golpe y levanta la cabeza.
 -- Page 17, Offset 3986.
 -- 「いえ、驚かすのが仕事、という事ではなく。
 "Mis disculpas,
- no quise decir que parte de mi deber incluyese sorprendele.
+ no quise decir que parte de mi deber incluyese sorprenderle.
 }
 [sha:4d9e49e309f359078e33eb778fa3eb0ad554f5ed]{
 -- Page 17, Offset 3987.
@@ -233,13 +233,13 @@ Pero, mientras lo hacía se deja de mover de golpe y levanta la cabeza.
 [sha:f26267f40e23c818e38b4a2fc19d755b2701cc98]{
 -- Page 18, Offset 3988.
 -- ……微妙におかしなところのあるメイドさんだった。
-Es una criada con algo ligeramente extraño sobre ella,
- pero no sé que es exactamente.
+Es una sirvienta con algo ligeramente extraño sobre ella,
+ pero no sé qué es exactamente.
 }
 [sha:655995ffd29988171af0b8851ce0e0fe7e36bb50]{
 -- Page 18, Offset 3989.
 -- 侍女としての職務を完璧にこなせているのに、あまり人付き合いに慣れていない、そんな感じだ。
-Es capaz de llevar acabo sus labores como criada a la perfección,
+Es capaz de llevar a cabo sus labores como sirvienta a la perfección,
  pero me da la sensación de que no está realmente acostumbrada a socializar.
 }
 [sha:dff06a0b519b8d7e156046277750649617eeae3e]{
@@ -271,7 +271,7 @@ Estoy bastante seguro de que me cambié a mi uniforme escolar al ir a investigar
 [sha:9db06bf07d25ad2c0b86b12be98ef7af1da065f0]{
 -- Page 22, Offset 3995.
 -- 「はい。あのままではお体に悪いので、姉さんに来てもらって、寝間着に着替えさせていただきました」
-"Es correcto. Hubiera sido malo para su salud si se hubisese quedado así, así que le pedí a Nee-san que viniera y le cambiara al pijama."
+"Es correcto. Hubiera sido malo para su salud si se hubiese quedado así, así que le pedí a Nee-san que viniera y le cambiara al pijama."
 }
 [sha:6843fddf3a4ad072360636f6df2def81a0c5fae2]{
 -- Page 23, Offset 3996.
@@ -286,7 +286,7 @@ Ya veo. Me cambió de ropa por mi.
 [sha:34dfd28398cad5bd65b1da94b7bf68c172432bd4]{
 -- Page 23, Offset 3998.
 -- 制服のままで寝ても別に体調は悪くはならないけど、皺になるし、寝間着の方が快適なのは確かだ。さすがプロのメイドさん行き届いてるなぁ―――って、ちょっと待った。
-Dormir en unforme no hará que te pongas malo necesariamente,
+Dormir en uniforme no hará que te pongas malo necesariamente,
  pero hará que se te arrugue el uniforme, y no se puede negar que el pijama es mucho más cómodo.
  Esa atención al detalle es lo que esperarías justamente de un pro――espera un momento.
 }
@@ -383,15 +383,15 @@ Yo―――
 [sha:9f84261b8299e9b6573235853f5f3668b2e5d59d]{
 -- Page 32, Offset 42593. Choice.
 -- 秋葉に挨拶をする。
- Saludo a Akiha.
+Saludo a Akiha.
 }
 [sha:d6db7c10056ff7bcb35ce14921b1e706c991ff69]{
 -- Page 32, Offset 42594. Choice.
 -- 琥珀さんに挨拶をする。
- Saludo a Kohaku-san.
+Saludo a Kohaku-san.
 }
 [sha:98b13836abcea9b44b95f0f73fb78a0a8486188e]{
 -- Page 32, Offset 42595. Choice.
 -- 二人に挨拶をする。
- Saludo a ambas.
+Saludo a ambas.
 }

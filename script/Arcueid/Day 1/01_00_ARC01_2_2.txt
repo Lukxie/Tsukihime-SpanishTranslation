@@ -48,8 +48,7 @@ Me doy la vuelta para ver si me están hablando.
 [sha:a74989ac13eac08799a8ea741cc0f5ced15ce8e9]{
 -- Page 164, Offset 1591.
 -- 「乾くんと食堂にいってなかったんだね。
-Inui-kun after all.
-"Después de todo parece que no fuiste a la cafetería con Inui-kun.
+"Después de todo, parece que no fuiste a la cafetería con Inui-kun.
 }
 [sha:1762230b30e47f977c1bc408f1ced1ad9a78d99e]{
 -- Page 164, Offset 1592.
@@ -64,7 +63,7 @@ Casi voy allí a buscarte."
 [sha:df0f5d8405e8d327eb50f159efe1b89b162adecd]{
 -- Page 164, Offset 1594.
 -- それより何かあった、弓塚さん？　俺に声をかけるなんて、もしかしなくても一大事？」
-Aparte de eso, ¿ha pasado algo, Yumuzuka-san?
+Aparte de eso, ¿ha pasado algo, Yumizuka-san?
  Si me lo estas contando, tiene que ser bastante serio."
 }
 [sha:2b7dca73ca40b1f6ebeab12645da444a523b1711]{
@@ -86,7 +85,7 @@ Siento que es razonable pensar que me necesita para algo urgente.
 [sha:b1770a1e68c6c60a3cff99fcb2edfc098debdc09]{
 -- Page 166, Offset 1598.
 -- 「……ま、まあ、そう思うよね、これまでがこれまでだし……」
-"B-Bueno, no me soprende que pienses así, con como me he comportado hasta ahora..."
+"B-Bueno, no me sorprende que pienses así, con cómo me he comportado hasta ahora..."
 }
 [sha:f2590cfeac71fdee44b654b0c68dfac747f63cf5]{
 -- Page 166, Offset 1599.
@@ -142,7 +141,7 @@ Fuerzo mi cuerpo perezoso a levantarse.
 [sha:f8d56f08eaf45252aa0b6ae9aafb26a945a16005]{
 -- Page 170, Offset 1609.
 -- そんな俺を、弓塚は立ち去らずに見つめている。
-Yumizuka se me queda mirándo inmóvil.
+Yumizuka se me queda mirando inmóvil.
 }
 [sha:6a39800613bb1e3a11f50ae303f1f48bc2cf7396]{
 -- Page 171, Offset 1610.
@@ -177,7 +176,7 @@ Es alegre, fácil de llevarse con ella, trabajadora, y está claro que le import
 [sha:d88fe67cf9e70f145aaff9b4b9be00fcc0549622]{
 -- Page 173, Offset 1616.
 -- 男子のほとんどは弓塚を好ましく思っているし、女子の間でも悪い噂は流れていない。
-Creo que la mayoría de chicos están por ella, y las chicas no circulan malos rumores de ella.
+Le gusta a la mayoría de los chicos, y tampoco hay malos rumores de ella entre las chicas.
 }
 [sha:0a27167cc585277e27db4c462cf35319621d3f26]{
 -- Page 173, Offset 1617.
@@ -249,7 +248,7 @@ Esta es una buena escuela, no me gustaría irme."
 [sha:71ed0c1c1601ae49df76265933362575a903693d]{
 -- Page 179, Offset 1630.
 -- 「そ、そうだよね！　うち、入試厳しかったし！　試験勉強、すっごく頑張りました！」
-"S-Sí, !tienes razón! ¡El examen de accesso era súper difícil! ¡Estudíe mucho para él!
+"S-Sí, !tienes razón! ¡El examen de acceso era súper difícil! ¡Estudié mucho para él!
 }
 [sha:43c5303159e5219b984d04af109ad7e376a78e16]{
 -- Page 179, Offset 1631.
@@ -269,7 +268,7 @@ Aunque, nunca habría pensado que alguien como Yumizuka encontrase esta escuela 
 [sha:e97763aecf2e755327e8683db3455adf022a8eaa]{
 -- Page 180, Offset 1634.
 -- 「そうだよ。名残惜しいけど、いつまでもお世話になってるわけにもいかないし―――」
-"Si, eso es. Es una lástima que me tenga que ir, pero no pueden cuidar por siempre―――"
+"Si, eso es. Es una lástima que me tenga que ir, pero no me pueden cuidar por siempre―――"
 }
 [sha:64c343a6c97de1656323277d7e032523b2c2af53]{
 -- Page 181, Offset 1635.
@@ -294,7 +293,7 @@ Estoy bastante seguro que Arihiko es la única persona que sabe que estaba vivie
 [sha:37a5ff466211494d7586b7126d5b3cdfe4e22d35]{
 -- Page 182, Offset 1639.
 -- 「―――そっか。それは、なんていうか―――」
-"―――Ya veo. No sé que decir a eso―――"
+"―――Ya veo. No sé qué decir a eso―――"
 }
 [sha:c6c6d6495b9a6f5b0a4a65ea314b55bb8e5c0c19]{
 -- Page 183, Offset 1640.
@@ -367,7 +366,7 @@ La cafetería está concurridas de nuevo. La mayoría de las mesas están ocupad
 [sha:80b828f55ae7a75fd29d768565d7a18df99a497d]{
 -- Page 189, Offset 1653.
 -- ここを使うのは全校生徒の三分の一程度で、財布の残金が気になる生徒は安上がりな購買部に走るという。
-Aproximádamente solo un tercio de los estudiantes usa la cafetería. Los mas ahorradores tendermos a preferir la tienda de la escuela, que es un poco más barata.
+Aproximádamente solo un tercio de los estudiantes usa la cafetería. Los más ahorradores tendemos a preferir la tienda de la escuela, que es un poco más barata.
 }
 [sha:68874115c48932d70899d05264fa5a16dc7f341b]{
 -- Page 189, Offset 1654.
