@@ -116,7 +116,7 @@ Sí, yo―――
 [sha:b3da2b297b57dd92275f26cbb6f80bcaeffd4dc3]{
 -- Page 114, Offset 5122.
 -- 吐き気がする。
-Siento náuseas.
+-- TRANSLATION HERE
 }
 [sha:b8386676ee2065405e2873a9de0c6fb83e0ebaab]{
 -- Page 115, Offset 5123.
@@ -153,7 +153,7 @@ Siento náuseas.
 -- ただここから逃げ出したくて、半狂乱になって、見知らぬマンションを後にした。
 -- TRANSLATION HERE
 }
-[sha:8492584c3a9dd05ba5799ab2d53f28a534997a34]{
+[offset:5130]{
 -- Page 117, Offset 5130.
 -- 胃液が逆流する。
 Jugos gástricos brotan de mi garganta.
@@ -168,7 +168,7 @@ Jugos gástricos brotan de mi garganta.
 -- 食い物も、胃液も、泣きながら吐き出した。
 Todo lo que he comido, mis jugos gástricos; lo vomito todo y lloro.
 }
-[sha:9864bba3fdcbca062dad0206628d860290379b63]{
+[offset:5133]{
 -- Page 118, Offset 5133.
 -- 胃の中には何もない。
 No hay nada más en mi estómago.

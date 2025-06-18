@@ -6,7 +6,7 @@
 [sha:d000a850a04c8881ab1787a6fead218d18f6bb84]{
 -- Page 10002, Offset 30568.
 -- それがどれほど不可能めいていても、それしか考え付かない。
-Aunque las posibilidades jueguen en mi contra, no puedo sacarla de mi cabeza.
+Aunque las posibilidades jueguen en mi contra, no la puedo sacar de mi cabeza.
 }
 [sha:86bed1011945d4496ce11d5150aa0ea20b362156]{
 -- Page 10002, Offset 30569.
@@ -21,7 +21,7 @@ No puedo soportar que esté sola―――
 [sha:17db7ff70d897174508748528689a40cbe49a2d7]{
 -- Page 10002, Offset 30571.
 -- この事件に決着をつけられてたまるもんか。
-Y definitivamente no me voy a retirar y dejar que lo resuelva sola.
+Y definitivamente no me voy a retirar y dejar que lo resuelva por su cuenta.
 }
 [sha:de5ff9d8fe034dd962ad46a9eef999c7334ee5a2]{
 -- Page 31, Offset 30572.

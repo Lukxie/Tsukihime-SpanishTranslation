@@ -1,352 +1,370 @@
 [sha:7e0f467c3e37bcccaed52ef533a9f856c25596c8]{
 -- Page 10001, Offset 10920.
 -- “アルクェイドの力が回復するまで待つ”
--- TRANSLATION HERE
+Le digo a Arcueid que la esperaré hasta que recupere fuerzas.
 }
 [sha:1e6ee174f33f34f897a996278779687cf59d0b6d]{
 -- Page 10001, Offset 10921.
 -- その方針が決まって安心したのか、アルクェイドはすぐに眠りについた。
--- TRANSLATION HERE
+Al cabo de poco se quedó dormida, 
+tranquila, al pensar que ambos estamos de acuerdo con el mismo plan.
 }
 [sha:8917ae2638446bdaaf9c3d852cd2a580de81c8f9]{
 -- Page 20, Offset 10922.
 -- 俺はそれを見届けてマンションの外に出た。
--- TRANSLATION HERE
+La observé hasta asegurarme que estuvera completamente dormida, y dejé su apartamento.
 }
 [sha:e61497e4602d2b7d307ab294c97812c97e86881b]{
 -- Page 20, Offset 10923.
 -- ……向かう先は言うまでもない。
--- TRANSLATION HERE
+Es obvio a donde me dirijo:
 }
 [sha:51cccbdc62d97b14d1e1b60cb174deab5ec200d5]{
 -- Page 20, Offset 10924.
 -- ヴローヴの根城があるという、駅前のデパートだ。
--- TRANSLATION HERE
+Al centro comercial junto a la estación, donde se encuentra el fuerte de Vlov.
 }
 [sha:4d62a7a14946472864c72fa2735f4a652497e37d]{
 -- Page 21, Offset 10925.
 -- 駅前の様子は普段と何も変わらない。
--- TRANSLATION HERE
+El area frente a la estación no es distinto a lo habitual.
 }
 [sha:02311b9fc7b9bea409ffbde274d1077f4029d34f]{
 -- Page 21, Offset 10926.
 -- 広告や商品を展示した華やかなデパート通り。ウインドウを横目に見ながら行き交う人々の姿。
--- TRANSLATION HERE
+Anuncios y bienes se exhiben por todo el colorido distrito comercial. La gente va y viene, mirando de vez en cuando a los escaparates mientras pasan.
 }
 [sha:8182b63d27952f05a0c3ac6024854b19074b3079]{
 -- Page 21, Offset 10927.
 -- その流れの中の一つに、見慣れた大きな百貨店がある。
--- TRANSLATION HERE
+En el centro del bullicio, se encuentra un gran y conocido centro comercial.
 }
 [sha:b66229e7e23e1dd3d0b9ad52bb903f177c75b761]{
 -- Page 22, Offset 10928.
 -- 街でも一、二を争う大きさのデパート。
--- TRANSLATION HERE
+Es uno de los más grandes de la ciudad.
 }
 [sha:00e072957934d36586f24c2ce49ed5789f4d9e66]{
 -- Page 22, Offset 10929.
 -- いまも大勢の人々が出入りし、総耶駅前の顔とも言えるこのデパートが、本当に……？
--- TRANSLATION HERE
+Incluso ahora, hay grupos de gente entrando y saliendo de el.
+ ¿Es en este centro comercial, el cual algunos consideran el corazón de la Estación Souya, realmente donde...?
 }
 [sha:ec861ab6fc95f9775a775383ce12b32853834ea2]{
 -- Page 23, Offset 10930.
 -- 「……駅前の一等地だぞ、ここ。
--- TRANSLATION HERE
+"Este lugar está ubicado increíblemente bien frente a la estación.
 }
 [sha:c94ec530040b31781b78069501ed473b18e8e320]{
 -- Page 23, Offset 10931.
 -- 吸血鬼なんて影も形もないだろ……」
--- TRANSLATION HERE
+No hay forma de que pueda haber ningún vampiro acechando por aquí..."
 }
 [sha:020db4e0593f36431ee0067f0a820d1c1391c539]{
 -- Page 24, Offset 10932.
 -- ないのだが、アルクェイドの嘘とも思えない。
--- TRANSLATION HERE
+Aún así, no creo que Arcueid estuviera mintiendo.
 }
 [sha:be774ba861f10064a1045ab36c64fc9513bbeca7]{
 -- Page 24, Offset 10933.
 -- アイツは常識がないだけで判断も情報も正確だ。
--- TRANSLATION HERE
+Carece de sentido común, pero su juicio e información son de fiar.
 }
 [sha:cac1fffc1834a6deb5489fa7c4413a9455e4950e]{
 -- Page 24, Offset 10934.
 -- 常識に囚われていないからこそ、この有り得ない事実に行き着いたのかもしれない。
--- TRANSLATION HERE
+Quizá haya llegado a esta conclusión improbable precisamente %{i}porque%{/i} carece de sentido común.
 }
 [sha:dbaad1a2684326b1c6d861644bc07d073b00e1f3]{
 -- Page 25, Offset 10935.
 -- 「そういえば……有彦のヤツ、北口でおかしな話があるって言ってたな……」
--- TRANSLATION HERE
+"Ahora que lo pienso...
+ Arihiko dijo que circulaban rumores extraños al norte de la estación."
 }
 [sha:ea37191c571c23d7c8e7fe19805557fcaea63100]{
 -- Page 26, Offset 10936.
 -- “誰にでもできて割のいいアルバイトがある”
--- TRANSLATION HERE
+Hay un trabajo a media jornada que acepta a todo el mundo, y paga bien'
 }
 [sha:f3ddecb7f629b2efd916e8f8e2d9acc539a2b167]{
 -- Page 26, Offset 10937.
 -- 信憑性のない都市伝説、子供だましの誘い文句だ。
--- TRANSLATION HERE
+Es una leyenda urbana con cero credibilidad. Una treta obvia que claramente significa problemas.
 }
 [sha:0cb6d11966d2d0344349f2795ea4c1c3332bd5ee]{
 -- Page 26, Offset 10938.
 -- それが<廃|すた>れず、それでいて派手に広まらず、ネット上でいつまでも生き続けてきたのは、それがまったくの嘘ではないからなのか。
--- TRANSLATION HERE
+Si ha durado tanto en internet, sin desaparecer o hacerse viral,
+ puede que sea porque no es mentira %{i}del todo%{/i}.
 }
 [sha:5c41584d237996be28f59a894b708fdac7f1a966]{
 -- Page 27, Offset 10939.
 -- そのアルバイトの内容を証言する者はいない。実際に経験した人間がいるのかも不明のままだ。
--- TRANSLATION HERE
+No hay nadie que pueda testificar sobre los detalles de este trabajo.
+ Y tampoco está claro si alguien lo ha hecho de verdad.
 }
 [sha:79ecf865bbca9c783728af03895e4744627cc219]{
 -- Page 27, Offset 10940.
 -- だと言うのにアルバイトの噂は流れ続けている。
--- TRANSLATION HERE
+Sin embargo, siguen circulando rumores sobre este trabajo.
 }
 [sha:1ee2dbe986a195e1d40f963ced24582262f38abf]{
 -- Page 27, Offset 10941.
 -- 受信者は不特定だが、発信は今も続いている。
--- TRANSLATION HERE
+Nadie sabe cuantas personas reciben estos mensajes, pero está claro que siguen enviándolos.
 }
 [sha:99f452494ef1e582a32a88413fe882929e510874]{
 -- Page 28, Offset 10942.
 -- ……つまり。内容の真偽はどうあれ、第三者を必要としている何者かは実在するという事だ。
--- TRANSLATION HERE
+En otras palabras... Independientemente de la autenticidad de su contenido, por ahí hay alguien que requiere desconocidos.
 }
 [sha:48778d9dcd8e2df471fb10932d869e8780d55946]{
 -- Page 29, Offset 10943.
 -- 結論から言うと、デパートに異常はなかった。
--- TRANSLATION HERE
+Al parecer, no hay nada fuera de lo normal con el centro comercial.
 }
 [sha:5c4e137ed21208f8760263fa3c71512ca714077f]{
 -- Page 29, Offset 10944.
 -- 地下の食材売り場から地上七階の専門店まで、何の変哲もないデパートだった。
--- TRANSLATION HERE
+Del supermercado del sótano a las tiendas de especialidades en la séptima planta, es un centro comercial normal.
 }
 [sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
 -- Page 29, Offset 10945.
 -- ただ、
--- TRANSLATION HERE
+Excepto porque―――
 }
 [sha:212b934f3f0e9dbad9b248198e0bd4a81ddd8079]{
 -- Page 30, Offset 10946.
 -- 「……七階から<上|うえ>がない。このデパートの大きさから考えれば、十階ぐらいはあるはずなのに……」
--- TRANSLATION HERE
+"No hay nada mas allá de la séptima planta... Considerando el tamaño de el edificio, debería haber al menos diez plantas."
 }
 [sha:24942433ab9c43f53f2146f045e653a6c299c18e]{
 -- Page 31, Offset 10947.
 -- エレベーターは七階までのボタンしかないし、階段は七階に立ち入り禁止の立て札が置かれていた。
--- TRANSLATION HERE
+El ascensor solo tiene botones para ir hasta la séptima planta, y una vez llegas allí, hay una señal en las escaleras que dice que más allá está prohibido.
 }
 [sha:59e0ffb967a2c8b68e5f02722a090ce1c3059514]{
 -- Page 32, Offset 10948.
 -- 人がいない時を狙って、立ち入り禁止のロープをくぐって階段を上る。
--- TRANSLATION HERE
+Busco un momento donde nadie me vea, me salto la cuerda que me impide el paso y subo las escaleras.
 }
 [sha:c759ada10cc8a95268d574bfc61bf2f47d8e78d9]{
 -- Page 32, Offset 10949.
 -- 階段は上階まで続いているものの、そこで行き止まりだった。
--- TRANSLATION HERE
+Las escaleras llevan a las plantas superiores, pero llego a un callejón sin salida.
 }
 [sha:54e4ca2cc19202c4c6d42927447d09267269cedc]{
 -- Page 32, Offset 10950.
 -- 八階のフロアに通じる部分には、当然のようにシャッターが下ろされている。
--- TRANSLATION HERE
+El camino que lleva a la octava planta está cerrado, como era de esperar.
 }
 [sha:866058f3079f3c6ce3f9b8a3c1bb4e976b742672]{
 -- Page 32, Offset 10951.
 -- その隣りには鍵のかかった非常扉が一つ。
--- TRANSLATION HERE
+A su lado, hay una puerta de emergencia bloqueada.
 }
 [sha:b4fd289e67656430c95c79295ab3f53777eb76de]{
 -- Page 33, Offset 10952.
 -- 「……何かあるとしたら、この向こうか……」
--- TRANSLATION HERE
+"Si hay algo, tiene que ser al otro lado de esta puerta."
 }
 [sha:e531bc1b8264b2ca1ae1f356baa59843a18971ec]{
 -- Page 33, Offset 10953.
 -- 中に入るか、ここで戻るかを思案する。
--- TRANSLATION HERE
+Debato entre si meterme o darme la vuelta.
 }
 [sha:f7cb885a7b52ccfc52f6d2a930279c3484244cc0]{
 -- Page 34, Offset 10954.
 -- 自分が無謀な事をしようとしているのは理解している。
--- TRANSLATION HERE
+Sé que lo que intento hacer es temerario.
 }
 [sha:a34136d9a8d9ded7ac05b2590e9f40d7109c216b]{
 -- Page 34, Offset 10955.
 -- 俺だけで怪物の住み家に踏み入る。
--- TRANSLATION HERE
+Estaré entrando solo en la guarida del monstruo.
 }
 [sha:a4b0703d28248a1b25b72e48934873d7a148c377]{
 -- Page 34, Offset 10956.
 -- それがどれほどいかれた事かは、
--- TRANSLATION HERE
+Sería una locura seguir con ello.
 }
 [sha:223e6e03610ffeaf2139605d1dc16ea501943c64]{
 -- Page 34, Offset 10957.
 -- 俺はもう、何度も味わって知っている。
--- TRANSLATION HERE
+Me han insistido en ello una y otra vez.
 }
 [sha:4f9ca299f867b4b0d28b3be8cb4c5a9ffa418b0a]{
 -- Page 35, Offset 10958.
 -- 「……大丈夫。それでも行けるはずだ」
--- TRANSLATION HERE
+"No pasa nada... debería ser capaz de hacerlo."
 }
 [sha:6bb5bd7155cb185eee708bc3a6b52eb9dd7b9ecd]{
 -- Page 35, Offset 10959.
 -- ポケットに忍ばせたナイフを握りしめる。
--- TRANSLATION HERE
+Agarro el cuchillo escondido en mi bolsillo.
 }
 [sha:3cf36be47d2350a1f9f845872f4430bb5d2a8368]{
 -- Page 35, Offset 10960.
 -- 俺にはいざとなればこの眼がある。
--- TRANSLATION HERE
+Si las cosas se ponen feas, tengo mis ojos.
 }
 [sha:acec4f62ed11b5b8858ee3c0092b70a2ec958488]{
 -- Page 36, Offset 10961.
 -- 警察に駆けこんで事情を説明する、というのも考えた。それが一番安全だからだ。
--- TRANSLATION HERE
+He considerado ir a la policía y explicarles la situación.
+ Sería lo más prudente.
 }
 [sha:b84401eae01a1fc20ddf55af71929e09c18a382d]{
 -- Page 36, Offset 10962.
 -- けどそれでどうなる？　そもそも俺はこれから“殺し”に行くんだ。そんな殺人者が警察に駆けこんだところで誰を説得できるのか。そもそも目的を共有できるはずがない。
--- TRANSLATION HERE
+¿Pero eso que conseguiría?
+ Mi objetivo es %{i}matarle%{/i}.
+ ¿Cómo va a persuadir un asesino a la policía?
+ Es imposible que tales enemigos naturales compartan objetivo común.
 }
 [sha:d2cfdb658d778c2ecafa8bdebb7108e9d9b273ca]{
 -- Page 37, Offset 10963.
 -- 「……まずは様子を見る。
--- TRANSLATION HERE
+"Primero haré un reconocimiento.
 }
 [sha:1d3d15772653dc7a75c715d7bc1c266de431d85f]{
 -- Page 37, Offset 10964.
 -- 手に負えなければあいつの部屋に戻ればいい……」
--- TRANSLATION HERE
+Si las cosas se salen de control, siempre puedo volver a la habitación de Arcueid."
 }
 [sha:ee640d74b1e34f318bde1ca4e4dcc5b43d799b89]{
 -- Page 38, Offset 10965.
 -- 眼鏡を外して、鍵のかかった非常扉の鍵を“殺す”。
--- TRANSLATION HERE
+Me quito las gafas y 'mato' el cierre de la puerta de emergencia.
 }
 [sha:9ae0987d4e3ab1da9e8a63de3846c97a0ddf3947]{
 -- Page 38, Offset 10966.
 -- 緊張で痺れた喉に、硬い唾を流しこむ。
--- TRANSLATION HERE
+Trago con nervios, siento como la saliva me baja por la garganta.
 }
 [sha:930d8ccc34bcb4b5048151ccc033b2bf94f58e43]{
 -- Page 38, Offset 10967.
 -- 俺は深呼吸をして気持ちを落ち着かせ、電気の明かりの途絶えたフロアに滑りこんだ。
--- TRANSLATION HERE
+Tras respirar profundamente para calmarme,
+ me cuelo a la siguiente planta, donde todas las luces están apagadas.
 }
 [sha:daac6f75a83e3477b2860fb4120ece9b620ea8e2]{
 -- Page 39, Offset 10968.
 -- 八階フロアの中は一面の闇だった。
--- TRANSLATION HERE
+La octava planta está totalmente oscura.
 }
 [sha:7d2e2890a586f1b04959dd1e28da552d5b2a3339]{
 -- Page 39, Offset 10969.
 -- 電灯が消えているのだから当然と言えば当然だが、それでも予想外すぎた。
--- TRANSLATION HERE
+Tiene sentido en cierto modo,
+ considerando que todas las luces están apagadas,
+ pero aún así me sorprende.
 }
 [sha:be018f3d6b14f28b88ee084f6eca5c3c4c0ab5e4]{
 -- Page 39, Offset 10970.
 -- 今は日中だ。たとえ電気が通っていなくとも、窓からの陽差しで明るくなくてはいけない。
--- TRANSLATION HERE
+Es de día. Incluso si no hay luz, el suelo debería estar iluminado por el sol que atraviesa las ventanas.
 }
 [sha:0d5a8f0c14bfdb53a40c5b6e4e76fca71e760db5]{
 -- Page 40, Offset 10971.
 -- しかし、実際はこれだ。窓という窓は内側から鉄板のようなもので塞がれている。
--- TRANSLATION HERE
+Excepto porque todas y cada una de las ventanas están tapadas desde dentro por algo que parece ser una placa de hierro.
 }
 [sha:885dfc0b19d0adc87fd6bebb6f441010ce0bf117]{
 -- Page 40, Offset 10972.
 -- 窃盗対策にしては行きすぎている。
--- TRANSLATION HERE
+Para simplemente ser medidas antirrobo, es demasiado.
 }
 [sha:01aee2f64b930da5324f51cf66b6f5493e8dbb2d]{
 -- Page 40, Offset 10973.
 -- 鉄板はボルトで取り付けられており、人の力では取り外せない。トイレの小窓にまで鉄板は張り付けられている。
--- TRANSLATION HERE
+Las placas de hierro están fijadas con clavos y no pueden ser quitadas a mano.
+ Incluso la pequeña ventana del baño tiene una placa clavada sobre ella.
 }
 [sha:5f341bc5664da6ed9531ffc585f0e3b2e2f2e33b]{
 -- Page 41, Offset 10974.
 -- 病的なこだわり。そのクセ仕事は乱雑だ。
--- TRANSLATION HERE
+Es como una obsesión patológica. Y a pesar de ello, el trabajo es mediocre.
 }
 [sha:65f4446adad824e2997e22a77eb40f27e3973cc6]{
 -- Page 41, Offset 10975.
 -- 鉄板の大きさは窓の大きさと微妙に一致していない為、わずかな隙間から陽差しが入っている。
--- TRANSLATION HERE
+El tamaño de las placas no se ajusta al tamaño de las ventanas,
+ por lo que algo de la luz se cuela entre las grietas.
 }
 [sha:f5916fec471d90c24a7bce0c744c66e2a001a76f]{
 -- Page 42, Offset 10976.
 -- 外からの侵入者を阻んでいるのではなく、内からの脱走者を出さない作り……としか思えない。
--- TRANSLATION HERE
+Más que para evitar intrusos... solo puedo verlo como una medida para evitar que alguien escape.
 }
 [sha:f32e425800bf5696f075e2ce3e9c8c2cf4ae44db]{
 -- Page 43, Offset 10977.
 -- それとも―――そんなのは考えすぎで、これは単なる<日|・><除|・><け|・>なのか。
--- TRANSLATION HERE
+¿O lo estoy pensando demasiado y simplemente son persianas?
 }
 [sha:e9e288d6cfd70a7b1b46718ca3eaafb35458ad09]{
 -- Page 43, Offset 10978.
 -- だとしても……
--- TRANSLATION HERE
+Aun así...
 }
 [sha:9aa909fb8a4eab114f7216693bf5cf7f970faa9d]{
 -- Page 44, Offset 10979.
 -- 「……綺麗すぎないか、ここ……？」
--- TRANSLATION HERE
+"¿Este lugar no está... demasiado limpio?"
 }
 [sha:8ce7a90ee145f068aea8bbc2cfa0216ee6d2999d]{
 -- Page 44, Offset 10980.
 -- 廊下にはいたるところに埃が積もっていたのに、異臭もせず、おかしな物体も見当たらない。
--- TRANSLATION HERE
+Aunque hay polvo por todo el pasillo,
+ no hay malos olores ni nada tirado por ahí.
 }
 [sha:5f53584c028deb9b013019f1ac72eea3d3777f22]{
 -- Page 45, Offset 10981.
 -- これじゃあただの改装中のフロアだ。
--- TRANSLATION HERE
+Seguramente esta planta solo esté siendo reformada.
 }
 [sha:fbffe7712d1939f08544a4b65b559fb84a4990f9]{
 -- Page 45, Offset 10982.
 -- ホテルの時のような惨状は影も形も見当たらない。
--- TRANSLATION HERE
+Aquí no hay nada que me recuerde al repugnante espectáculo del hotel.
 }
 [sha:282f5a5202e377101faf4fb43dbb3f0c1c5c4af1]{
 -- Page 46, Offset 10983.
 -- 「九階も奇麗なもんだ……アルクェイドのヤツ、何か勘違いしたのかな……」
--- TRANSLATION HERE
+"La novena planta también está limpia... ¿quizá Arcueid se equivocaba?"
 }
 [sha:53e1af3f9daacc4b144e91f220c6b0c3ed9bb701]{
 -- Page 47, Offset 10984.
 -- 張り詰めていた神経がわずかに緩む。
--- TRANSLATION HERE
+La tensión de mis nervios empieza a disiparse.
 }
 [sha:f8c1f76e6d4a9dfe86baf7518cb56215476e8d9f]{
 -- Page 47, Offset 10985.
 -- わずかに緩むだけで致命的なのだと気付かないまま、十階フロアに上がる。
--- TRANSLATION HERE
+Sin darme cuenta de que incluso bajar un poco la guardia podría ser fatal,
+ me dirijo a la décima planta.
 }
 [sha:dc7b4abdc11780242cbe5342c018cf1dd368ae65]{
 -- Page 47, Offset 10986.
 -- その、瞬間
--- TRANSLATION HERE
+Y en ese momento―――
 }
 [sha:09d41ac2c24741a8a07b19bc79f4a74c07c762fe]{
 -- Page 48, Offset 10987.
 -- 「ああ？　どこの誰だよテメエ、なーに勝手にヒトん家にあがってるんですかぁー？」
--- TRANSLATION HERE
+"¿Eeeh?
+ ¿Quién narices eres?
+ ¿Que coño haces colándote en casa de otro?"
 }
 [sha:eee43959d1b957126da315fb83a2e643a3d4aa71]{
 -- Page 49, Offset 10988.
 -- 突然の人の声に身構える。
--- TRANSLATION HERE
+Una voz repentina hace que me vuelva a poner tenso.
 }
 [sha:d5cd1b968ecb43301c426ece5bab8c9bfcbbe78d]{
 -- Page 49, Offset 10989.
 -- 階段を上がりきったエントランスには、懐中電灯を持った二人組が立っていた。
--- TRANSLATION HERE
+Un dúo con linternas se encuentra al final de las escaleras.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 50, Offset 10990.
@@ -356,52 +374,68 @@
 [sha:f0635a717b740c9da2d190a0f910f77501995b28]{
 -- Page 50, Offset 10991.
 -- 光に目を細めながら観察する。
--- TRANSLATION HERE
+Los observo, entrecerrando los ojos por la luz.
 }
 [sha:4087d35e32028d6ffb0ef168d321c3cfd5e82a38]{
 -- Page 50, Offset 10992.
 -- 二人とも男性、年齢は俺とそう変わらない。
--- TRANSLATION HERE
+Ambos son hombres, y de la misma edad que yo.
 }
 [sha:1ed881b432235ca6d7b2260725cc722372fb7b8d]{
 -- Page 50, Offset 10993.
 -- 手には懐中電灯だけ。バット、パイプといった長柄の道具は持っていない。
--- TRANSLATION HERE
+Solo tienen linternas a mano; no tienen objetos largos como bates o tuberías.
 }
 [sha:5205976bddeb3781be919f0ae304cb14947b8c28]{
 -- Page 51, Offset 10994.
 -- 「おーい、なに黙ってるんですかー？　ワルイコトしてる自覚あるんですかぁー？　なにコイツ、ダサくねぇ？　見るからにビビッてねぇ？　オレたちと人種違いすぎね？　なートシ、このメガネクンは知り合いですかぁー？」
--- TRANSLATION HERE
+"Ey, ¿te ha comido la lengua el gato?
+ ¿Te das cuenta de que no deberías estar aquí no?
+ Tú, menudo pringao.
+ ¿Está asustado no?
+ Totalmente distinto a nosotros.
+ Eh, Toshi, ¿conoces a este lupas?"
 }
 [sha:b357751ddd919c1e5d5fe6901db30f5707e1d9a6]{
 -- Page 52, Offset 10995.
 -- 「いやあ、知らない知らない。こんなオタクと知り合ってたらオレ、恥ずかしくて死んでるって。
--- TRANSLATION HERE
+"Que va, ni de coña.
+ Si este fuera mi amigo me moriría de vergüenza.
 }
 [sha:5ccb9b3ce45e5abe5ac1c4006f63e5ef430b1b80]{
 -- Page 52, Offset 10996.
 -- はーい、そこのボクゥ、こっち来てねー？　逃げたら酷い目に遭うからねー？　つーか殺すか。法律的に殺していいんだよな、不法侵入って」
--- TRANSLATION HERE
+Eh, tú, ven aquí anda.
+ Si huyes te arrepentiras, ¿lo entiendes?
+ ¿O debería matarte?
+ ¡La ley dice que puedo matarte por allanar!"
 }
 [sha:b4952106ab816f61706ff095564f21b2dee945fd]{
 -- Page 53, Offset 10997.
 -- 二人組は笑いながら、その場所……エレベーターの前から動こうとしなかった。
--- TRANSLATION HERE
+El dúo se ríe, pero no se mueven de donde están, frente al ascensor.
 }
 [sha:76af1446957f4d35a9cfef82bc522c4d2a65e9b9]{
 -- Page 53, Offset 10998.
 -- “逃げるな”と言いながら、俺がこのまま階段に逃げる事を考慮してもいない。
--- TRANSLATION HERE
+Dijeron que huya, pero ni siquiera he considerado huir por las escaleras.
 }
 [sha:48933c054c15402c5c31f1c7ae3178a1f9a01aeb]{
 -- Page 54, Offset 10999.
 -- 「あれ、なんか反応うすい？　逃げねえの？　フツー逃げるでしょ、このシチュ。トシ、コイツなんか怪しくねー？」
--- TRANSLATION HERE
+"¿Qué pasa? Solo está ahí, de pie.
+ ¿No vas a correr?
+ ¿Yo huiría si fuera tu, sabes?
+ Toshi, ¿te parece sospechoso o qué?"
 }
 [sha:a61efe87dd4e1de5a68f5c905e83dfcff486dd16]{
 -- Page 54, Offset 11000.
 -- 「テメエの顔がクドすぎんだよ。メガネくんには刺激が強すぎるってもんだ。……なあ、そうだよな？　面食らってるダケだよな？　なんで立ち入り禁止のフロアで遊んでるワケ？」
--- TRANSLATION HERE
+"Eres demasiado feo, tanto que ha sido demasiado para él.
+ Ey, lo he clavado, ¿verdad?
+ Apuesto a que sigues conmocionado.
+ Bueno, ¿qué andas aquí?
+ El sitio está restringido."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 54, Offset 11001.
@@ -411,7 +445,7 @@
 [sha:c84a9338d21153eb17749d10528153184ff508e7]{
 -- Page 54, Offset 11002.
 -- 暗闇で、二人組の目が、鈍く光った気がした。
--- TRANSLATION HERE
+En la oscuridad del pasillo, juraría que sus ojos han brillado un poco.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 55, Offset 11003.
@@ -421,42 +455,43 @@
 [sha:d7836ca65a1f2395f5a6c21002092007e5fd0833]{
 -- Page 55, Offset 11004.
 -- どうする？
--- TRANSLATION HERE
+¿Qué hago?
 }
 [sha:26ac429166226ad81e354717e097d3a9a9bcc016]{
 -- Page 55, Offset 11005.
 -- 逃げ出すか、話を聞き出すか。
--- TRANSLATION HERE
+¿Debería huir o hablar con ellos?
 }
 [sha:a54bc3d503eb86f09d73493f59ca93af0555e214]{
 -- Page 55, Offset 11006.
 -- そもそもここは本当に吸血鬼の住み家なのか。
--- TRANSLATION HERE
+Ni siquiera sé si el sitio es un nido de vampiros de verdad.
 }
 [sha:3e6400744008c0a4206823e6fe7494945b7b44c0]{
 -- Page 55, Offset 11007.
 -- それをこの二人組に<確|・><認|・><し|・><て|・>いいのか。
--- TRANSLATION HERE
+¿Podré %{i}confirmarlo%{/i} con estos dos?
 }
 [sha:0c8a75078e92ede98798e367ab4322a252829112]{
 -- Page 56, Offset 11008.
 -- 「なにこれ、もしかしてボーナスタイムじゃね？
--- TRANSLATION HERE
+"Ohh, ¿puede que sea nuestro día de suerte?
 }
 [sha:76644da562e7807b56bf87ab13d9c049cfe6ce2b]{
 -- Page 56, Offset 11009.
 -- なあトシ、アポのないヤツは好きにしていいって話だよな、たしか！」
--- TRANSLATION HERE
+Eh Toshi, nos dijeron que podíamos hacer lo que quisiéramos con los que no tienen cita, ¿no?"
 }
 [sha:a92545850cf23a38701be4f4bf6722eee07753d8]{
 -- Page 57, Offset 11010.
 -- 「うるせえハル、一分だけ黙ってろ。
--- TRANSLATION HERE
+"No seas chanclas, Haru. Calla la boquita un minuto.
 }
 [sha:66bfa446616ba76abb91e53e945cd529819a6df8]{
 -- Page 57, Offset 11011.
 -- で、どうなのオタク。ただの物好きなワケ？」
--- TRANSLATION HERE
+¿Qué ocurre, friki?
+ ¿Has venido aquí por que sí?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 57, Offset 11012.
@@ -466,30 +501,33 @@
 [sha:ed242e20f497492f539403bc77b534ad39c985fa]{
 -- Page 58, Offset 11013.
 -- 情報と、状況を整理する。
--- TRANSLATION HERE
+Obtendré tanta información como pueda de lo que ocurre aquí.
 }
 [sha:f8d583fbaf83eef6410a78591aaf2220a544bfab]{
 -- Page 58, Offset 11014.
 -- 俺は二人組の動きを確認しながら、
--- TRANSLATION HERE
+Presto atención a los movimientos de ambos.
 }
 [sha:53ed6a672abb3dfc71e70d41dbaac68015c0d4ea]{
 -- Page 59, Offset 11015.
 -- 「……すみません。ここで、アルバイトができると聞いたんですけど……」
--- TRANSLATION HERE
+"Lo siento... escuché que aquí podía trabajar a media jornada..."
 }
 [sha:68775dce84fca39f74f84c8fc079c9b3bcb913f6]{
 -- Page 59, Offset 11016.
 -- 自信なさげな声音で、トシと呼ばれた男の顔色を窺った。
--- TRANSLATION HERE
+Lo digo con voz inocente, observando con atención al hombre llamado Toshi.
 }
 [sha:efe94b4df983f3cdeebd2c23d33bdf9fb0cc8cc0]{
 -- Page 60, Offset 11017.
 -- 「……アルバイトねぇ。どこでその話を？　最近はバカな女連中にしか話してねえんだけどな」
--- TRANSLATION HERE
+"¿Un trabajo, eh?
+ ¿Donde has oído eso?
+ A día de hoy solo hablo a chicas retrasadas."
 }
 [sha:b42c98573909899a422338498379c92a49c78f90]{
 -- Page 60, Offset 11018.
 -- 「人づてに知ったんです。北口のアパートで一晩過ごせば大金がもらえるって」
--- TRANSLATION HERE
+"Escuché un rumor.
+ Algo sobre que puedes llevarte mucho dinero por pasar la noche en un apartamento al norte de la estación."
 }

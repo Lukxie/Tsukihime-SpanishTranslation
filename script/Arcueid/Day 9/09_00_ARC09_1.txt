@@ -1,7 +1,7 @@
-[sha:62c7375604af9be9b849143a84a2ae9942504cd2]{
+[offset:21292]{
 -- Page 1, Offset 21292.
 -- ―――白。
-―――Blanco.
+Blanco.
 }
 [sha:864c5094838cb9f5c6e6d5e5e38a398670be4094]{
 -- Page 1, Offset 21293.
@@ -52,12 +52,12 @@ Un coro de cigarras.
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21302. Mods: @k, @e.
 -- みーん　みんみん
-%{i}Chiiiirp    chirp chirp%{/i}.
+-- TRANSLATION HERE
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21303. Mods: @k, @e.
 -- みーん　みんみん
-%{i}Chiiiirp    chirp chirp%{/i}.
+-- TRANSLATION HERE
 }
 [sha:75d694b8998f840301eed20058113beb33b4591f]{
 -- Page 3, Offset 21304. Mods: @k, @e.
@@ -69,20 +69,20 @@ Un coro de cigarras.
 -- うるさくて死にたくなる。
 Hay tanto ruido que me quiero morir.
 }
-[sha:85627e8dc4f5686e42fc5deb9c8a82d9571893c9]{
+[offset:21306]{
 -- Page 3, Offset 21306.
 -- 広場には蝉のぬけがら。
-El caparazón de las cigarras ensucia el suelo.
+El suelo, repleto de caparazones de cigarra.
 }
-[sha:045b9de947d69135540d7585916cdb903fab392e]{
+[offset:21307]{
 -- Page 3, Offset 21307.
 -- たいようはすぐそばにあるようで、
-El claro se está quemando poco a poco―――
+El claro se abrasa poco a poco―――
 }
-[sha:9e5804d06f92c5105f66949acc6e6a978544fde7]{
+[offset:21308]{
 -- Page 3, Offset 21308.
 -- 広場はじりじりと焦げていく。
-Como si el sol estuviera justo encima de nosotros.
+Como si el sol estuviera justo sobre nosotros.
 }
 [sha:b25204bdeea529f6ba9e24d5890ca4b4475ea42f]{
 -- Page 4, Offset 21309.
@@ -97,7 +97,7 @@ Como si el mundo se hubiera convertido en una sartén de freír.
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 21311. Mods: @k, @e.
 -- えーん　えんえん
-%{i}Uwah%{/i}... %{i}waah%{/i}...
+-- TRANSLATION HERE
 }
 [sha:440d2cf8581090653fcc957790caa86cc64a2f85]{
 -- Page 4, Offset 21312. Mods: @k, @e.
@@ -143,7 +143,7 @@ Completamente quieto.
 [sha:c8d80ad0594814cdb06ede76f65f678eaaf5ca02]{
 -- Page 5, Offset 21320.
 -- ボクは、それを見下ろしている。
-Miro a la escena frente a mi.
+Miro la escena frente a mí.
 }
 [sha:5a3b9ab142cbd637aef5fa4d5995d6b55c2a071c]{
 -- Page 5, Offset 21321.
@@ -204,7 +204,7 @@ Me quedo solo, con la mirada perdida en el cielo de verano.
 [sha:335621dd001afd868d96a59b1015bbbcf68f01fa]{
 -- Page 8, Offset 21332.
 -- 「おまえが殺したのか――――」
-"Fuiste tu el que lo mató―――"
+"¿Fuiste tú quién lo mató―――?"
 }
 [sha:a551722d637091c92c5e1cb8610e6d147eb59e28]{
 -- Page 8, Offset 21333.
@@ -231,8 +231,8 @@ Solo dos sílabas.
 -- Page 8, Offset 21337.
 -- おとなたちはそろって、両手を真っ赤に染めたボクを、シキと呼んでおさえつけた。
 Los adultos forman un grupo y me inmovilizan.
- A mi, con las manos manchadas de un rojo intenso.
- A mi, al que llaman %{i}Shiki%{/i}.
+ A mí, con las manos manchadas de un rojo intenso.
+ A mí, a quién llaman %{i}Shiki%{/i}.
 }
 [sha:52306f7710e3cbb995cf23b028962ccdb474212e]{
 -- Page 9, Offset 21338.
@@ -242,12 +242,12 @@ Aún no lo entiendo.
 [sha:65c61d22b7bf8a256296bbabfcea32c3e0d30079]{
 -- Page 9, Offset 21339.
 -- 殺せるモノを殺して、
-Matar lo que puedes matar.
+Matar a aquellos que puedes matar.
 }
 [sha:c1775e3da55437da381883b1374849f031a922ca]{
 -- Page 9, Offset 21340.
 -- 生きてるモノを殺して、
-Matar a los que viven.
+Matar a aquellos que viven.
 }
 [sha:bb391b2cb9a009fe3bbd3c44ee166c5a50c5b7a3]{
 -- Page 9, Offset 21341.

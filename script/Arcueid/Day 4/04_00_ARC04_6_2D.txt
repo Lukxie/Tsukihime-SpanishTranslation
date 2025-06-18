@@ -12,7 +12,7 @@ Para ser sincera, también se me olvidó preguntarte algo importante."
 -- Page 10021, Offset 7086.
 -- 「……？　なんだよ、俺に聞くような事は何もないだろ。俺は吸血鬼でもなんでもない、ただの学生なんだから」
 "¿Eh? No lo entiendo, ¿que podrías preguntarme?
- no soy un vampiro ni nada por el estilo, solo soy un estudiante."
+ No soy un vampiro ni nada por el estilo, solo soy un estudiante."
 }
 [sha:8876350a5cfde04fedc4871ce53c999ce11b4e23]{
 -- Page 564, Offset 7087.
@@ -22,9 +22,9 @@ Para ser sincera, también se me olvidó preguntarte algo importante."
 [sha:8775229c95698cb275a973745a76804bcad6272a]{
 -- Page 564, Offset 7088.
 -- あなた、どうやってわたしを殺したの？」
-¿Como narices me mataste?"
+¿Cómo narices me mataste?"
 }
-[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+[offset:7089]{
 -- Page 564, Offset 7089.
 -- 「は？」
 "¿Qué?"
@@ -81,7 +81,7 @@ Catalizadores compuestos de historias e ideas.
 -- Page 568, Offset 7099.
 -- この国にも神器ってあるんでしょう？　たいていは法杖や剣、宝石や仮面を使用する魔術礼装の事だけど――ねえ志貴、あなた本当にそっちの方面の人じゃないの？」
 Incluso este país tiene algún artefacto sagrado, ¿cierto?
- aunque creo que en su mayoría son varas budistas, espadas, o joyas y máscaras usadas como Códigos Místicos.%{n}
+ Aunque creo que en su mayoría son varas budistas, espadas, o joyas y máscaras usadas como Códigos Místicos.%{n}
 Ey, Shiki―― ¿estás %{i}seguro%{/i} de que no estás involucrado con nada de eso?"
 }
 [sha:08b9f3cfaa484b8c9f270e2eb94fd57549b4bee9]{
@@ -123,7 +123,7 @@ Espera... hay algo.
 [sha:209c0d090882ac1cbdb3d779c5516721a9c5721c]{
 -- Page 572, Offset 7107.
 -- ………けど関係あるのかな、これ」
-Pero... no estoy seguro de si es relevancia."
+Pero... no estoy seguro de si es relevante."
 }
 [sha:9e3a3d9774a6087546d5a7029649d5bd25e25a08]{
 -- Page 573, Offset 7108.
@@ -154,7 +154,7 @@ Ese es el tipo de reacción que me esperaba.
 [sha:bf294f91b1853a5f7227388f66755b84677b4d77]{
 -- Page 574, Offset 7113.
 -- 事実、今までずっとそうだった。
-De hecho, no creo que haya hecho ni una sola persona a quién se lo haya dicho.
+De hecho, no creo que lo haya hecho ni una sola persona a quién se lo he dicho.
 }
 [sha:81c05dc09d862d01d9628ea05bc48308921b5326]{
 -- Page 575, Offset 7114.
@@ -181,7 +181,7 @@ No importa que sea algo vivo, la superficie de la tierra, o lo que sea entre med
 -- Page 577, Offset 7118.
 -- 「鉄をナイフ程度で切れるのは便利だけど、別に好きなところが切れるわけじゃないんだ。線が視えてるところしか切れないから、日曜大工にも使えない。
 "Es bastante conveniente poder cortar acero con nada más que un cuchillo,
- pero no que pueda cortar las cosas como quiera.
+ pero no es que pueda cortar las cosas como quiera.
  Solo puedo cortarlas por las líneas que están ahí, así que no es muy útil para manualidades o nada por el estilo.
 }
 [sha:d2e3904b68ce472561c0a942e46188c3298ce538]{
@@ -212,7 +212,7 @@ Me está mirando tan intensamente que casi se me olvida respirar.
 [sha:8d2858b4b8e55e3645cdcd518eeed6480caf5b71]{
 -- Page 579, Offset 7124.
 -- 「そう。直死の魔眼なんて童話の中だけの話と思ってたけど、いるところにはいるものね。
-"Ya veo. Pensaba que los Ojos Místicos de Percepción Mortal era algo de cuentos de hadas.
+"Ya veo. Pensaba que los Ojos Místicos de Percepción Mortal eran algo de cuentos de hadas.
  Aún así, supongo que este mundo hay gente rara.
 }
 [sha:658564e232b0d93fda97a9faf0d6c0265fa39ff9]{
@@ -229,7 +229,7 @@ Mutantes monstruosos como tú, por ejemplo."
 -- Page 580, Offset 7127.
 -- 「化物は化物でしょう。『モノの死を視る』魔眼なんて、わたしたちでさえ保有している者はいないんだから」
 "Solo llamo las cosas por lo que son.
- Ni siquiera existen %{i}vampiros%{/i}  que posean Ojos Místicos que puedan ver la muerte de las cosas."
+ Ni siquiera existen %{i}vampiros%{/i} que posean Ojos Místicos que puedan ver la muerte de las cosas."
 }
 [sha:1915c863113b668107e0ff75eab27719672ce685]{
 -- Page 581, Offset 7128.
@@ -244,7 +244,7 @@ Mutantes monstruosos como tú, por ejemplo."
 [sha:788586e5da2dae6bcfea4e6cb37b7e659af241c2]{
 -- Page 581, Offset 7130.
 -- 志貴。あなたの目は、生物として繋がってはいけない場所と回線が開いているんでしょうね。その目は生まれついてのものなの？」
-Shiki- Tus ojos están recibiendo una transmisión de un lugar al que ningún ser vivo debería estar conectado... ¿Naciste con esos ojos?"
+Shiki. Tus ojos están recibiendo una transmisión de un lugar al que ningún ser vivo debería estar conectado... ¿Naciste con esos ojos?"
 }
 [sha:7d1e9881a1bd09e0a00572cae32cf628305fc9de]{
 -- Page 581, Offset 7131.
@@ -278,6 +278,7 @@ Pero sí... ha ocurrido. Una vez casi muero en un accidente.
 -- たしかにそれなら、間違いなくわたしを殺せるわ」
 Ciertamente encaja.
  Tiene sentido que pudieras matarme con ojos como esos."
+ 
 }
 [sha:795984a59b532fae5152dd000b01c880010c6c6c]{
 -- Page 584, Offset 7137.
@@ -297,7 +298,7 @@ Me alegro de que lo haga. Me ha estado mirando con repulsión visible en sus ojo
 [sha:4874adaaf856a1e1e20885d56f7fbd21d6b1ab03]{
 -- Page 585, Offset 7140.
 -- 「実際に知覚できるあなたほどじゃないけど、知識としてなら説明できるわ」
-"No las entiendo tan bien como alguien como tú que las puede ver,
+"No las entiendo tan bien como alguien como tú, que las puede ver,
  pero te puedo contar la teoría."
 }
 [sha:73e00ae6f46c6f4e11ed01ef140d1d343b89ecb4]{
@@ -311,7 +312,7 @@ Me alegro de que lo haga. Me ha estado mirando con repulsión visible en sus ojo
 -- 「――――」
 "――――"
 }
-[sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
+[offset:7143]{
 -- Page 587, Offset 7143.
 -- それは。
 Eso es...
@@ -362,7 +363,7 @@ Cuándo ocurrirá ese final puede variar, pero igualmente hay un final.
 La muerte no es algo que venga.
  Está contigo desde el momento que naces, y eventualmente, se manifestará.
  Simple causa y efecto.
-Conoces la ley de la causalidad, ¿no?"
+ Conoces la ley de la causalidad, ¿no?"
 }
 [sha:31bb2d66a0b5863d9dd298d6981339fcc37783bc]{
 -- Page 591, Offset 7153.
@@ -411,7 +412,7 @@ Hablar de la muerte del universo ¿no es exagerar un poco las cosas?
 -- Page 594, Offset 7161.
 -- どんなに長い寿命、どんなに強大な生命にだってこれはある。たとえ宇宙の寿命より長い寿命を持つ生命があるとしても、それは無限に生き続ける訳じゃない」
 Esto aplica a todo el mundo, sin importar lo longevos que sean, o lo poderosa que sea su existencia.
- Si alguien alguien tiene una esperanza de vida más larga que el universo, eso aún no significa que vayan a vivir para siempre."
+ Que alguien tenga una esperanza de vida más larga que el universo, no significa que vaya a vivir para siempre."
 }
 [sha:dd7deffcd1cae1fdeaf064ee524c03a04197f0f9]{
 -- Page 595, Offset 7162.
@@ -433,18 +434,18 @@ Como es algo que está ahí desde el inicio,
 [sha:d486ffd24cba0e063e8e35091a239ae37dbfcf8d]{
 -- Page 596, Offset 7165.
 -- あえてあなたたち風に理論づけるのなら、原子結合の宿命的欠陥部分、というところかしらね。
-Si teorizasemos en términos humanos, diría que es algo parecido al flujo intrínseco de los enlaces atómicos.
+Si teorizasemos en términos humanos, diría que es algo parecido al flujo intrínseco de los enlaces atómicos. 
 }
 [sha:7bedd776d10c38028ce750376d41c4c49db950f4]{
 -- Page 596, Offset 7166.
 -- それとも、その個体の死因を発現させる、遺伝子に用意された<自|テ><滅|ロ><装|メ><置|ア>的なスイッチかな」
-// Nasu y sus porros sobre la genética, xdd es gracioso leer esto habiendote especializado en genética
-O quizá es más como un telómero, un switch genético autodestructivo que se manifiesta la causa de muerte de un individuo."
+//Nasu y sus porros sobre la genética, xdd es gracioso leer esto habiendote especializado en genética
+O quizá es más como un telómero, un switch genético autodestructivo que manifiesta la causa de muerte de un individuo."
 }
 [sha:4bba28edaa87f124ebedb3dbd04d62260bf87ab1]{
 -- Page 597, Offset 7167.
 -- 「とにかくあなたが視ているのは“モノの死に易い線”、死という結論そのものよ。
-"De todas formas, lo que ves es la conclusión de la muerte misma: líneas donde las cosas son propensas a morir.
+"De todas formas, lo que ves es la conclusión de la muerte misma: líneas donde las cosas son propensas a morir. 
 }
 [sha:1b5a890c36ff064fc0bc26c8fed1219cd6100b36]{
 -- Page 597, Offset 7168.
@@ -485,18 +486,18 @@ Aunque entienda su explicación, no estoy de acuerdo con nada de ella.
 [sha:03936a926b45c784ae41d222cadaffcdfb7b2b63]{
 -- Page 600, Offset 7175.
 -- 普通、生物は首を切ったら殺されるわ。これは切断したから停止した、という事よね。
-Normalmente, un ser vivo moriría si le cortas la cabeza.
+Normalmente, si le cortas la cabeza un ser vivo, moriría.
  Si decapitas algo, lo normal es que deje de moverse, ¿verdad?
 }
 [sha:da663aea5b5a295f83c755c9c03852179b46071c]{
 -- Page 600, Offset 7176. Mods: @k, @e.
 -- 逆にいえば、首を切断できない生物は殺されないという事になる。
-Por el contrario, dirías que una criatura que no puedes decapitar es imposible de matar.
+Por el contrario, si a una criatura no la puedes decapitar dirías que es imposible de matar.
 }
 [sha:7a9900e0b3c0efda91a2296c8cf89b4d560367ad]{
 -- Page 600, Offset 7177. Glued. Mods: @x.
 -- あ、これはわたしの事だから例外にしておいて」
-Oh, bueno, supongo que eso también se me aplica pero dejemos eso a un lado por ahora."
+ Oh, bueno, supongo que eso también se me aplica, pero por ahora dejemos eso a un lado."
 }
 [sha:41ea5feb086f1230591ee750ec8b1621b41ed027]{
 -- Page 601, Offset 7178.
@@ -512,17 +513,17 @@ Incluso si te enfrentas a un oponente que pueda anular todo lo que le echen, tu 
 [sha:e22d918d45888787b30b35813d4726094f60fba8]{
 -- Page 601, Offset 7180.
 -- 切断したから殺害できた、じゃない。
-No es como si los hubieses matado cortandoles la cabeza.
+No es como si lo hubieses matado cortándole la cabeza.
 }
 [sha:1f51d3639ba2ad591e529dc510e58dd3d84ef148]{
 -- Page 601, Offset 7181.
 -- あなたの場合はモノを殺害したから、その結果として対象が切断される」
-más bien, eres capaz de matarlos primero, y entonces su cabeza se corta como resultado."
+Más bien, eres capaz de matarlo primero, y entonces como resultado su cabeza se corta."
 }
 [sha:b9f57cbe8caf3427aaa3ce289caade4db8ab78f0]{
 -- Page 602, Offset 7182.
 -- 「ほら、これが化物でなくてなんだというの？
-"Ves, si eso no es un monstruo, ¿que lo es?
+"Ves, si eso no es un monstruo, ¿qué lo es?
 }
 [sha:f09e5c9a1266320059a4be3e5723a066edb37b34]{
 -- Page 602, Offset 7183.
@@ -541,10 +542,10 @@ Verás, Shiki――tus ojos te dan la habilidad de matar cualquier cosa a tu alr
 -- 「………………」
 "........."
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:7186]{
 -- Page 603, Offset 7186.
 -- ……そうだ。
-Eso es verdad...
+Tiene razón.
 }
 [sha:57c0ea42b651c36b1708aaebfa28d131c2cb4c35]{
 -- Page 603, Offset 7187.
@@ -554,7 +555,7 @@ He llegado hasta aquí intentando no ser consciente de esto, sin aceptarlo.
 [sha:c57a0a89abe2fb70e0599f18cb8cd69612da74a1]{
 -- Page 604, Offset 7188.
 -- 本当はずっと前から分かっていた。
-Pero la verdad es que he sabido esto por mucho tiempo.
+Pero la verdad es que hace mucho que lo sé.
 }
 [sha:96a2a41967ef213af07db892484aaaa044648c21]{
 -- Page 604, Offset 7189.
@@ -585,7 +586,7 @@ Sofocado por los presagios de la muerte.
 [sha:3dd9d799ff4094a1e2752deaadc0a625b700a9d4]{
 -- Page 606, Offset 7194.
 -- 「……じゃあ、なにか。
-"Entonces... que.
+"Entonces... qué.
 }
 [sha:aa4bed10106703bc3ca2e89d699997a5326eb1a0]{
 -- Page 606, Offset 7195.
@@ -641,7 +642,7 @@ No es posible...
 [sha:9209766b5446abf76e9d3cd3bc9e8355e7d04851]{
 -- Page 609, Offset 7205.
 -- 今まで人前で外す事のなかった眼鏡に手をかける。
-Pongo mi mano sobre las gafas. Nunca antes me las he quitado en frente a nadie.
+Pongo mi mano sobre las gafas. Nunca antes me las he quitado en frente a nadie. 
 }
 [sha:a1ff179c70072e1c036e40b32d7f48db4ee14b0e]{
 -- Page 610, Offset 7206.
@@ -703,7 +704,7 @@ Las líneas, las cuales son difíciles de ver bajo la molesta luz del sol――�
 -- 微弱な月の明かりでは光ってさえ視えてしまう。
 Son más que visibles bajo la leve iluminación de la luna. Son casi brillantes.
 }
-[sha:e0846ca3c8b6f9bfb2d7b567c500369928acf9cc]{
+[offset:7218]{
 -- Page 614, Offset 7218.
 -- その中で。
 Pero entre ellas―――
@@ -733,7 +734,7 @@ Soy un ser cuyo 'final predestinado' no existe de noche.
 [sha:57488310524e2140c198e001a453268950ae78d1]{
 -- Page 616, Offset 7223.
 -- だからあなたの眼でも殺すことは不可能でしょうね」
-Por eso, no serías capaz de matarme, incluso con esos ojos tuyos."
+Por eso, incluso con esos ojos tuyos, no serías capaz de matarme."
 }
 [sha:e6637352d2186a0c4a26be5351195863b81c076e]{
 -- Page 617, Offset 7224.
@@ -743,7 +744,7 @@ Por eso, no serías capaz de matarme, incluso con esos ojos tuyos."
 [sha:24622abce9fec857e6965fd0cbb19b2b18d5097d]{
 -- Page 617, Offset 7225.
 -- 夜は死なないわたしだけど、昼間は多少の死期ができてしまう。その弱点をつかれてわたしはあなたに殺された。あの時は大仕事の後だったし、即死耐性も落ちてたしね」
-// Creo que como comentan los de Tsukihimates dejarlo en stat esta bien
+//Creo que como comentan los de Tsukihimates dejarlo en stat esta bien
 Aunque no pueda morir por la noche, aún tengo un 'final predestinado' por el día.
  Ese punto débil es lo que antes te permitió matarme.
  Y aún peor, acababa de terminar un gran encargo, por lo que mi stat de resistencia a la muerte era más baja de lo normal."
@@ -752,7 +753,7 @@ Aunque no pueda morir por la noche, aún tengo un 'final predestinado' por el d�
 -- Page 618, Offset 7226.
 -- 「結果、わたしはあなたに殺されて、この通り、夜でも『死期』ができるほど弱ってしまった。
 "En cualquier caso, acabaste matándome,
- y entonces como puedes ver terminé estando tan débil que tengo un 'final predestinado' incluso de noche.
+ y entonces como puedes ver terminé estando tan débil que incluso de noche tengo un 'final predestinado'.
 }
 [sha:8f12faabc990302832700279fbb1200c6489e540]{
 -- Page 618, Offset 7227.
@@ -825,7 +826,7 @@ Resumiendo, incluso si puedo ver estas 'líneas', no significa que pueda matar a
 [sha:1bafed35d1fe115beb4d101b3477b76556266d65]{
 -- Page 623, Offset 7240.
 -- 俺が抱いていた恐れは、そんな言葉で緩和される程度のものだと、人間ではないモノは笑い飛ばした。
-Con esas palabras el miedo que me amarraba se relaja de cierta forma, y soy capaz de tomarme a risa mi naturaleza inhumana.
+Con esas palabras el miedo que me amarraba se relaja de cierta forma, y soy capaz de tomarme a risa mi naturaleza inhumana. 
 }
 [sha:e36d69dab928058330f9809c9d2a7463e69ed09d]{
 -- Page 624, Offset 7241.
@@ -856,7 +857,7 @@ Es imposible desperdiciar un pensamiento en preocupaciones corrientes como esas.
 [sha:2829988b0881b984a7a002cf32734f174e110378]{
 -- Page 625, Offset 7246.
 -- ありえないものを視ている。
-No con esta vista inimaginable ante mi.
+No si ante mi se encuentra esta vista inimaginable.
 }
 [sha:39d37be17f9acc74401180af6acd477bc35e97e7]{
 -- Page 626, Offset 7247.
@@ -944,12 +945,12 @@ En este momento solo las lentes son originales,
 -- Page 632, Offset 7263.
 -- どんなに強い心があったって、死とずっと向き合っていたら発狂するか、眼球を潰すしかないものね」
 No importa lo fuerte que sea tu mente,
- si tuvieras que mirar a la muerte todo el rato con el tiempo te volverías loco o te sacarías los ojos."
+ si tuvieras que mirar a la muerte todo el rato, con el tiempo te volverías loco o te sacarías los ojos."
 }
 [sha:97543b324f97f6baf724f0b91c9b9b2ce9e2af87]{
 -- Page 633, Offset 7264.
 -- 「……あのな。さっきから言いたい放題、物騒なことばっかり言いやがって。少しは遠慮してくれ。あと近い。止まれ。いいからそこで止まれ。止まらないと花瓶投げるぞ！」
-"Eh perdona... ya llevas un rato soltando cosas perturbadoras.
+"Eh perdona... llevas ya un rato soltando cosas perturbadoras.
  Por favor dame un respiro.
  Y también, estás demasiado cerca.
  Para. Para justo ahí.
@@ -968,7 +969,7 @@ Sin embargo, mi amenaza fue completamente inefectiva contra este gran felino, y 
 [sha:171a45c0ad2fffa3b4babd5a9956b91f8ecb8e3f]{
 -- Page 635, Offset 7267.
 -- 「ね。それ、見せて」
-"Ey. Déjame ver esas un segundo."
+"Ey. Déjame verlas un segundo."
 }
 [sha:c650c2e5db05d78f2aaf460eac25a8131ddd1f96]{
 -- Page 635, Offset 7268.
@@ -990,7 +991,7 @@ Venga. No pasa nada por echar un vistazo, ¿verdad?"
 -- なんだこの馬鹿まるだしな発言……。
 ¿Qué clase de proposición estúpida es esta?
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:7272]{
 -- Page 637, Offset 7272. Mods: @k, @e.
 -- 俺は―――
 Yo―――

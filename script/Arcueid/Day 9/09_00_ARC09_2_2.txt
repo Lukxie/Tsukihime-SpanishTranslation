@@ -8,7 +8,7 @@ Pensándolo mejor, prefiero que lo haga Kohaku-san.
 -- 疲労からの貧血だろうし、栄養剤だけでなく、眼精疲労や眩暈止めに効く薬を処方してもらおう。
 La anemia es consecuencia de la fatiga,
  pero además de unos suplementos nutricionales,
- también debería pedirla algo para aliviar la vista cansada y el vértigo.
+ también debería pedirle algo para aliviar la vista cansada y el vértigo.
 }
 [sha:b449d04f4f3a0b5930ce9184d8f981674012485f]{
 -- Page 73, Offset 21494.
@@ -19,12 +19,12 @@ Aunque, no me hace mucha gracia dejar que me vea mucho el cuerpo.
 -- Page 73, Offset 21495.
 -- 昨夜のノエル先生とのいざこざであちこち擦り剥いているし、万が一、内出血でも起こしていたら大事だ。
 La reyerta de anoche con Noel-sensei me ha dejado una serie de arañazos y rasguños,
- y si por casualidad me ha salido algún moratón más grave ya me puedo ir preparando.
+ y si por casualidad me ha salido algún moratón más grave, ya me puedo ir preparando.
 }
 [sha:145e9c31fcbe6af9a7eaeb19f0859d6c1f2f7a54]{
 -- Page 73, Offset 21496.
 -- “志貴さんの野蛮人、どこでこんな怪我をしたんですか？”
-Shiki-san, eres un bestia. ¿Cómo te has podido hacer estas heridas?'
+ 'Shiki-san, eres un bestia. ¿Cómo te has podido hacer estas heridas?'
 }
 [sha:bcd42d521c554f8807945bcb14c607cd44022376]{
 -- Page 73, Offset 21497.
@@ -34,7 +34,6 @@ Ya me puedo imaginar como me regaña.
 [sha:738cadc6d63b899621c954faa63b927c722ceaaa]{
 -- Page 74, Offset 21498.
 -- 「もう、志貴さんの一般兵！
-// No se como traducir esto para que tenga sentido, lo he arreglado como se ha podido
 "¡Por dios Shiki-san, como si fueras carne de cañón!
 }
 [sha:24f7c131dea99749b2cc8236cfa426d8700f9ab6]{
@@ -46,7 +45,6 @@ Ya me puedo imaginar como me regaña.
 [sha:f12575c0c13b767ccae79b7ef20ca34f48045f5d]{
 -- Page 74, Offset 21500.
 -- 「はい、すみません。反省してます」
-// Tl oficial
 "Sí, lo siento. Tendré más cuidado."
 }
 [sha:4279c4452c81d144d02f7947258879370eabc75a]{
@@ -115,6 +113,7 @@ Kohaku-san, puedes dejar el kit aquí. Vas a volver, ¿no?"
 Y además, mira a tu alrededor.
  La habitación está tan limpia y ordenada
  que sería imperdonable para una sirvienta desordenarla con sus cosas."
+ 
 }
 [sha:dc766191c365dfe641e2340ea9cd8edf7c294f53]{
 -- Page 80, Offset 21513.
@@ -146,7 +145,7 @@ Y además, mira a tu alrededor.
 [sha:8c629cec38a5f4465c5a53b2c5548018a479a8aa]{
 -- Page 82, Offset 21518.
 -- 大事なものは、ここに来る時に全部持ってきた」
-Cuando vine me traje todo lo importante para mi."
+Cuando vine me traje todo lo importante para mí."
 }
 [sha:25437a105d6ebdf2664ad764a69942838672e65f]{
 -- Page 83, Offset 21519.
@@ -176,12 +175,12 @@ Si alguna vez me vuelven a expulsar de la mansión
 -- Page 85, Offset 21523.
 -- 「え？　いや、昔からそうだったんだ。欲しいものとかなかったから、オヤジにもねだらなかったし。
 "¿Eh? No, siempre ha sido así.
- Nunca hubo nada que realmente quisiera, así que nunca me molesté en pedirle nada a mi padre.
+ Nunca hubo nada que quisiera de verdad, así que nunca me molesté en pedirle nada a mi padre.
 }
 [sha:14fff1bc8c5664c6325f018869ead1964814a901]{
 -- Page 85, Offset 21524.
 -- ああ―――ただ、事故の前後の事はよく覚えていないから、その頃はどうだろう」
-Ah... Aunque recuerdo mucho sobre lo que pasó antes y después del accidente,
+Ah... Aunque no recuerdo mucho sobre lo que pasó antes y después del accidente,
  por lo que no estoy del todo seguro."
 }
 [sha:17f4fb3fea7856c1c2a903d91bc81a0520a08550]{
@@ -202,7 +201,7 @@ Gracias a eso conocí a Sensei, así que al final supongo que me fue bastante bi
 [sha:73866c7c897fd387628350dd907311d94b3404b9]{
 -- Page 87, Offset 21528.
 -- 「そういえば……病室から一度だけここに立ち寄った時の事も、ちょっとうろ覚えだな。
-"Lo que me recuerda...
+"Ahora que lo pienso...
  Recuerdo ligeramente pasarme por aquí una vez tras mi estancia en el hospital.
 }
 [sha:ae2e176078478150ca744aa73acc9724bd9ace7c]{
@@ -230,7 +229,6 @@ Estar ingresado puede ser muy monótono para la mente,
 [sha:59102e94ef1032bded533c8338ddd492805cb984]{
 -- Page 89, Offset 21533.
 -- 「そう思う。結局、半年近く入院していたんだって。
-// Mix de tls
 "Definitivamente. Estuve en el hospital casi medio año.
 }
 [sha:6cc20eca90b1f182449f69cb1e99baf5e289f7c0]{
@@ -256,7 +254,7 @@ A esa edad normalmente querrías estar jugando por ahí."
 [sha:0130c5d9165dc38033427e63075207b4fdac9f93]{
 -- Page 91, Offset 21538.
 -- 琥珀さんの言う通りだ。
-No la falta razón.
+No le falta razón.
 }
 [sha:984c3f737da3845ee0be92aeb1d04e45fec560a0]{
 -- Page 91, Offset 21539.

@@ -23,7 +23,7 @@ No habrá una segunda vez.
 -- たとえこの脳が焼き切れようと、アルクェイドを穢す事だけは、決して―――
 Incluso mi cerebro se incinera, no profanaré a Arcueid―――
 }
-[sha:3eeedb2d5b3e3194e641ff4141dc8d9ba9b1c82f]{
+[offset:26775]{
 -- Page 867, Offset 26775.
 -- 「は――――あ」
 "%{i}Ha――h%{/i}."
@@ -57,7 +57,7 @@ No me lo puedo creer.
 [sha:592fa56ac18fbeba91f92e258222028f55ac54ec]{
 -- Page 868, Offset 26781.
 -- けれど、はっきりと記憶に残っている。
-Pero las memorias están grabadas en mi mente.
+Pero el recuerdo está grabado en mi mente.
 }
 [sha:a3754aef030e2a797b22376dd24e7e3495c57426]{
 -- Page 868, Offset 26782.
@@ -92,7 +92,7 @@ Arcueid se coloca la ropa y se levanta.
 [sha:79ca79c69460a815ed348b9420932a521d838f83]{
 -- Page 869, Offset 26788.
 -- 俺は―――なんて謝罪すればいいんだろう。
-¿Como――puedo disculparme?
+¿Cómo――puedo disculparme?
 }
 [sha:c3c94e9acdea5f1e652bd828f070dba65c659e62]{
 -- Page 869, Offset 26789.
@@ -133,15 +133,15 @@ Nada de eso lo justifica.
 [sha:77645d3abd79c353042690fd6659c1ceefdfc76a]{
 -- Page 872, Offset 26796.
 -- 「志貴はわたしの魔眼を見てしまった。抑える事なんてできる筈がない。
-"Miraste a mis Ojos Místicos. No podías resistirte de ninguna forma.
+"Miraste a mis Ojos Místicos. No tenías forma de resistirte.
 }
 [sha:e2f4f65f3e9b0fe85c22213a4e8be89a32d28115]{
 -- Page 872, Offset 26797.
 -- 吸血鬼の眼は魅了の魔眼だと言ったでしょう。見た人間の気持ちに関係なく、自分の<虜|とりこ>にする呪い。だから気にしないで。志貴がわたしに性的欲求を感じたのもその一環。
 Mencioné que los vampiros tenemos Ojos Místicos de Encantamiento, ¿verdad?
- Cualquiera que los mire se maldice y se queda embelesado, sin importar cómo se sientan sobre mi.
+ Cualquiera que los mire se maldice y se queda embelesado, sin importar cómo se sientan sobre mí.
  Por lo que no es tu culpa.
- El deseo sexual que sentiste hacia mi también es parte de eso.
+ El deseo sexual que sentiste hacia mí también es parte de eso.
 }
 [sha:b04ac260acd7d04d7462c1b20b705fae34c16671]{
 -- Page 872, Offset 26798.
@@ -261,7 +261,7 @@ La mano que intentaba alcanzarla para detenerla no se mueve.
 [sha:107fb51cdcade0ce8d69aecad85dce637157366b]{
 -- Page 879, Offset 26820.
 -- さよなら志貴。わたしたち、もう会わない方がいいよね」
-Adiós, Shiki. Creo que es mejor que no nos volvamos a ver."
+Adiós, Shiki. Creo que es mejor que no volvamos a vernos."
 }
 [sha:9f63bf9600c52c88669d0a58fa51fdc52d6271fe]{
 -- Page 880, Offset 26821.
@@ -276,8 +276,8 @@ Con una sonrisa forzada hasta el final.
 [sha:31fb033552da8b4500944e8e1d4d16194fb043d8]{
 -- Page 880, Offset 26823.
 -- 今までと同じように、ターン、と、月に跳ねる兎のように。
-Se da la vuelta y salta, al igual tantas veces antes,
- como un conejo saltando en la luna.
+Se da la vuelta y sale volando, al igual tantas veces antes,
+ como un conejo saltando sobre la luna.
 }
 [sha:67061544acc998356a770d4277b30cb73bbfb9ed]{
 -- Page 881, Offset 26824.

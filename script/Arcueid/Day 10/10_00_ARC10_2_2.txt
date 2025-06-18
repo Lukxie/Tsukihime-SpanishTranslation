@@ -22,8 +22,8 @@
 -- Page 76, Offset 24448.
 -- ヴローヴの件で許してはもらったけど、あれはあくまで“元に戻せない”代わりの補填というか、借金は返せたけど借りていた時にかけた迷惑は残っているというか……」
 Me habrás perdonado tras ayudarte con Vlov,
- pero tampoco es como si todos mis esfuerzos fueran suficientes como para recompensarte.
- Como si hubiese pagado la deuda, pero no el interés..."
+ pero tampoco es como si todos mis esfuerzos fueran suficientes para recompensarte.
+ Es como si hubiese pagado la deuda, pero no el interés..."
 }
 [sha:4b11746db252e8568d79dd658e188a950267208a]{
 -- Page 77, Offset 24449.
@@ -59,7 +59,6 @@ En otras palabras, ni he empezado a pagarla.
 [sha:1843e0e012dde93f6ec471826b0f131f53ba5231]{
 -- Page 80, Offset 24455.
 -- 「ええーと。そうだな、感情的な話なんだ、きっと。
-// Tl oficial
 "Veamos... Tiene que ser algo emocional.
 }
 [sha:d1f8bbee1a19b5e3ad778a87ec4c9e317b62bcd7]{
@@ -104,7 +103,7 @@ A partir de ahora llegaré a la hora aunque muera en el intento.
 [sha:7f0e68af6da2f55507aa428bcce74f0ddbafa7f5]{
 -- Page 83, Offset 24463.
 -- 「憎らしく……確かに、そうかも。
-"¿Despreciarte? Si, igual tienes razón.
+"¿Despreciarte? Sí, igual tienes razón.
 }
 [sha:09b0fe572b57e5919d56aae86a11c69dafe9f734]{
 -- Page 83, Offset 24464.
@@ -129,13 +128,12 @@ Shiki, ¿tu me desprecias...?"
 [sha:f3665e570cae51a2e3d5a1b3d9fb3ccb0c05a579]{
 -- Page 84, Offset 24468.
 -- なんて事を、聞いてきた。
-// tl oficial
 Espera, ¿qué?
 }
 [sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
 -- Page 85, Offset 24469. Mods: @k, @e.
 -- 「――――――、
-"
+"―――
 }
 [sha:8b080dfa34fa28d0036adcca2a2b2630376b0b38]{
 -- Page 85, Offset 24470. Glued. Mods: @x.
@@ -155,7 +153,7 @@ El sol brilla sobre nosotros, y la emboscada de esta mañana me tiene con la gua
 [sha:a8ce293f301cc2640d3fa1bf959bd0b7a5d297f0]{
 -- Page 85, Offset 24473.
 -- なので、
-Y por tanto―――
+Por tanto―――
 }
 [sha:952fa688d030081454384f89a65231fc08d0bc60]{
 -- Page 86, Offset 24474.
@@ -197,10 +195,10 @@ Normalmente Arcueid tiene un punto de vista mucho más racional.
 -- そのアルクェイドがあんな質問をしてきたぐらい、昨夜はお怒りだったのだろう。
 Que me pregunte cosas así demuestra lo enfadada que debía estar anoche.
 }
-[sha:710ff592deee686ff519ceafb73ddb56a38c986c]{
+[offset:24482]{
 -- Page 89, Offset 24482.
 -- ……仕方ない。
-Parece que no tengo mucha elección.
+Muy bien pues...
 }
 [sha:b2aa2a87579957b052a7b754347ca4aa7eed15e7]{
 -- Page 89, Offset 24483.

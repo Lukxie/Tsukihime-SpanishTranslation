@@ -28,7 +28,7 @@
 -- こんな、胸に大穴を開けられたら、吸血鬼になりかけの半端な俺じゃ助からない。
 -- TRANSLATION HERE
 }
-[sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
+[offset:38251]{
 -- Page 211, Offset 38251.
 -- 「――――――っ」
 "―――Ah."
@@ -166,7 +166,7 @@
 [sha:92eb9c74ab9c6b3c1662b9deec0ee7db62edb52c]{
 -- Page 218, Offset 38278.
 -- 「―――――はあ」
-"―――%{i}Haaa%{/i}."
+-- TRANSLATION HERE
 }
 [sha:6190ec843277c870b966f232d6b5addba3b5fe22]{
 -- Page 218, Offset 38279.

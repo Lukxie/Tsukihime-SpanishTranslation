@@ -30,10 +30,10 @@ Todo lo que quiero hacer ahora mismo es quedarme pegado a la silla y echar una c
 -- 「あ。良かった、教室に残ってた」
 "Ah, bien, sigues en clase"
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:1588]{
 -- Page 163, Offset 1588.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:4f91a68dd2d87cd79aaa0743c47a551f31fd23c1]{
 -- Page 163, Offset 1589.
@@ -186,7 +186,7 @@ Naturalmente, siempre hay una multitud alrededor de ella.
 [sha:6609ce84f231145e7333200d87fa13f24e52f69a]{
 -- Page 173, Offset 1618.
 -- 社交性に乏しい俺とは正反対の、みんなに好かれるムードメーカーだ。
-// mood-setter lo cambio a energética tiene más sentido en español
+//mood-setter lo cambio a energética tiene más sentido en español
 Ella es energética y querida por todos, el polo opuesto a mi yo antisocial.
 }
 [sha:51c53427aeaf9a6b5147d907f9ea90bd1205a34f]{
@@ -242,7 +242,7 @@ Su confusión es entendible, pero su pregunta está fuera de lugar.
 [sha:6f0044a88409229b5a189a24b6d44a2f501bc7d8]{
 -- Page 178, Offset 1629.
 -- 耶高、気に入ってるし。転校とかナイナイ」
-// Esta es una buena escuela quizá mejor
+//Esta es una buena escuela quizá mejor
 Esta es una buena escuela, no me gustaría irme."
 }
 [sha:71ed0c1c1601ae49df76265933362575a903693d]{

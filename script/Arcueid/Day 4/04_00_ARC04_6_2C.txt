@@ -84,7 +84,7 @@ Así que hay dos tipos de vampiros:
 -- 人間から吸血鬼になったもの、『死徒』がいる……か。
 Y los Apóstoles Muertos, que son humanos convertidos en vampiros.
 }
-[sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
+[offset:7017]{
 -- Page 533, Offset 7017.
 -- ……なんだろう。
 Pero... algo no tiene sentido.
@@ -139,7 +139,7 @@ Sin embargo, son como una llama, deben estar reponiendo constantemente su energ�
 -- 「どんな生物だって栄養を<摂|と>らないと活動できないでしょう？　それと同じよ。ただ、吸血種は食事……<血液|えいよう>さえ摂り続けていれば寿命がない、という事だけ」
 "Todos los seres vivos necesitan sustento para funcionar, ¿cierto?
  Es lo mismo.
- La única diferencia es que mientras sigan consumiendo sangre, la esperanza de vida de un chupasangre no tiene límite."
+ La única diferencia es que mientras sigan consumiendo sangre, la esperanza de vida de un chupasangre no tiene límite." 
 }
 [sha:4580f949af7a0a9ff8a2c09c5deb72768adaea07]{
 -- Page 539, Offset 7027.
@@ -154,9 +154,9 @@ Eran humanos originalmente, así que para ellos es imposible conseguir un cuerpo
 [sha:ac4f02717f705aa5b9f19badce693b9bc3fd086e]{
 -- Page 540, Offset 7029.
 -- 「彼らの肉体を構成する遺伝子は、長生きすればするほど、力を付ければ付けるほど原子の増大に耐えられなくなる。力を増やし続けないと崩壊してしまうクセに、力をつけすぎると自己のカタチ―――“秩序”を保てない」
-"Cuanto más viven, y cuanto más poder ganan,
+"Cuanto más viven, y a más poder ganan,
  menos genes que constituyen su propio cuerpo son capaces de soportar la acumulación de átomos.
- Si no continúan aumentando su fuerza colapsarán,
+ Si no continúan aumentando su fuerza, colapsarán,
  pero si aumentan mucho su fuerza,
  no serán capaces de mantener su propia forma."
 }
@@ -204,7 +204,7 @@ Esto es complicado.
 [sha:007a90f5a07f83a72339ba7160484cc130a3c2e6]{
 -- Page 544, Offset 7038.
 -- こっちの理解も追いついていないのに、アルクェイドはかまわず話を続けていく。
- Arcueid prosigue, sin tener en cuenta que estoy siguiendo la explicación a duras penas.
+Arcueid prosigue, sin tener en cuenta que estoy siguiendo la explicación a duras penas. 
 }
 [sha:086957228b616721464f9c32bee1f8751dd065bd]{
 -- Page 545, Offset 7039.
@@ -214,7 +214,7 @@ Esto es complicado.
 [sha:d7c4112b4bd3855de0ac44e1bcde4436eeda3269]{
 -- Page 545, Offset 7040.
 -- これは<魔眼|まがん>の一種よ。
-Ese es un ejemplo de a lo que nos referimos como a los Ojos Místicos.
+Ese es un ejemplo de a lo que nos referimos como Ojos Místicos.
 }
 [sha:d530e852a2422d5b768eceb5d4d61eb39ff29bb3]{
 -- Page 545, Offset 7041.
@@ -229,7 +229,7 @@ El ojo es un Circuito Mágico útil y poderoso, por lo que hay muchos chupasangr
 [sha:3f3a35f65d91b0c888aa916d8d66440b2f70d98d]{
 -- Page 546, Offset 7043. Glued. Mods: @x.
 -- 目から、そうね……ビームっていうの？　ああいうのを出すイメージ」
-Es como un... ¿si le saliera un rayo del ojo? Imagínatelo así."
+ Es como... ¿si le saliera un rayo del ojo? Imagínatelo así."
 }
 [sha:fa53645977c431cb57df639e88cf1193f50e8f40]{
 -- Page 547, Offset 7044.
@@ -239,7 +239,7 @@ Es como un... ¿si le saliera un rayo del ojo? Imagínatelo así."
 [sha:53187c255be291b53885e8eb106d1d839d6abb5e]{
 -- Page 547, Offset 7045.
 -- あまりにデタラメな単語の登場で、思わず身を乗り出してしまった。
-Brinco involuntariamente cuando menciona una palabra tan absurda
+Brinco involuntariamente cuando menciona una palabra tan absurda.
 }
 [sha:8573987f0731a078bc1c08c52908b7eee1b3b6f7]{
 -- Page 548, Offset 7046.
@@ -255,12 +255,12 @@ No hay forma de que ningún vampiro pueda hacer algo tan ridículo.
 [sha:8c7b0b996ef61c27f7686f5108eb174141b910d1]{
 -- Page 548, Offset 7048.
 -- そうか。それは良かったような、残念なような。
-Ya veo. Eso es al mismo tiempo bueno y decepcionante.
+Ya veo. Eso es tanto bueno como decepcionante.
 }
 [sha:5b06fe92d22d854da977fed26e6cc79e15c77424]{
 -- Page 549, Offset 7049.
 -- 「っていうか、<魔眼|まがん>ってなんだよ」
-"Muy bien, entonces qué %{i}son%{/i}  los Ojos Místicos?"
+"Muy bien, ¿entonces qué %{i}son%{/i}  los Ojos Místicos?"
 }
 [sha:ce30d3be2555589659721b87913709e33651a902]{
 -- Page 549, Offset 7050.
@@ -283,14 +283,14 @@ Hay de muchos tipos, pero es una habilidad que puede usar cualquier Apóstol Mue
 [sha:956bf94557e729005fe3433eaa3fbd8937adc31f]{
 -- Page 551, Offset 7053.
 -- 「わたしたち吸血鬼が持つのは<魅惑|みわく>の魔眼。これが基本にしてもっとも強力というか……吸血鬼という在り方において、魅惑以外の魔眼はあんまり意味がないというか」
-"Los que tenemos los vampiros son los Ojos Místicos del Encantamiento.
+"Los que poseen los vampiros son los Ojos Místicos de Encantamiento.
  Son básicamente del tipo más poderoso que hay...
- en el mundo de los vampiros, Ojos Místicos que no sean del Encantamiento son considerados bastante inútiles."
+ en el mundo vampírico, Ojos Místicos que no sean de Encantamiento son considerados bastante inútiles."
 }
 [sha:6c484a84711830540f429e4c73011875fabb8f5d]{
 -- Page 552, Offset 7054.
 -- 「魅惑の魔眼は、見た相手を魅惑するんじゃなくて、吸血鬼の目を見てしまった相手を魅惑するの。
-"Los Ojos Místicos del Encantamiento no dejan encantar a alguien con simplemente mirarlo.
+"Los Ojos Místicos de Encantamiento no dejan encantar a alguien con simplemente mirarlo.
  Solo hacen efecto si el objetivo mira directamente a los ojos del vampiro.
 }
 [sha:f4600da531fe999c60076c89c20f4960e6bf611a]{
@@ -302,7 +302,7 @@ Los vampiros poderosos pueden usar sus Ojos Místicos para entrar en la mente de
 [sha:0d1365597143cbc82a12187d18d9b01f5f187ea6]{
 -- Page 553, Offset 7056.
 -- ……ふむ。
-Hmm... cual es la mejor manera de explicar esto..."
+Hmm...
 }
 [sha:d7d62b5316165b83de8a3a982e1de5a2c06fef4a]{
 -- Page 553, Offset 7057.
@@ -312,7 +312,7 @@ Osea que funcionan como un lavado de cerebro o hipnosis.
 [sha:f521400a334914114af4923404b4bf7bb9159fa1]{
 -- Page 553, Offset 7058.
 -- たとえば、『ここで見たコトは忘れろ』みたいな。
-Podrías ordenar a alguien 'Olvida lo que has visto aquí' por ejemplo.
+Podrías ordenar a alguien 'Olvida lo que has visto' por ejemplo.
 }
 [sha:fc636f9294b1ba3f7af91fee4cf274cb847407bd]{
 -- Page 553, Offset 7059.
@@ -327,7 +327,7 @@ Si tuvieras ojos como esos, podrías encubrir fácilmente un asesinato, incluso 
 [sha:39b6c1df1d98cae3b67a42c28837eadab10bc9bc]{
 -- Page 554, Offset 7061.
 -- 「うん、よくできました。だから吸血鬼と向かい合った時は顔じゃなくて全体を俯瞰するのが基本よ。
-"Si, lo has pillado. Por lo que, cuando te enfrentes a un vampiro, intenta mirar a su dirección en general más que a su cara.
+"Sí, lo has pillado. Por lo que, cuando te enfrentes a un vampiro, intenta mirar a su dirección en general más que a su cara.
 }
 [sha:8a525a5759ce41784287f68e134d1c7fa6c919f6]{
 -- Page 554, Offset 7062.
@@ -347,7 +347,7 @@ Supongo que esto se puede clasificar en dos tipos.
 [sha:32f5aa2c8fd2a8a79f41c5a7592cf136c6fbf41e]{
 -- Page 555, Offset 7065.
 -- 高等なのは本当に粒子化するもの。自己を拡散させて現象になる、という離れ技。これが広範囲、かつ長時間できる死徒は数えるほどしかいないはず」
-Los de alto grado son del tipo que implica una transformación en partículas de verdad. Es una técnica que difumina a uno mismo, esparciendo las partículas que constituyen el cuerpo. Solo unos pocos Apóstoles Muertos pueden hacer esto en un amplio área y por largos periodos de tiempo."
+Los de grado alto son del tipo que implica una transformación en partículas de verdad. Es una técnica que difumina a uno mismo, esparciendo las partículas que constituyen el cuerpo. Solo unos pocos Apóstoles Muertos pueden hacer esto en un amplio área y por largos periodos de tiempo." 
 }
 [sha:3db6dbbcb611c5b81844c6e1a64a4e21c3017a82]{
 -- Page 556, Offset 7066.
@@ -370,23 +370,23 @@ Mmm-hmm.
 [sha:94c8a70171c498c9acd2da0f43ce72501a9d816b]{
 -- Page 557, Offset 7069.
 -- カゲムシャ、は影武者の事だろう。
-Kagemusha' significa 'guerrero sombra', ¿cierto?
+ 'Kagemusha' significa 'guerrero sombra', ¿cierto?
 }
 [sha:eba13ac7b154d1a88fc240952e72c06a99d6036a]{
 -- Page 557, Offset 7070.
 -- こいつ、外国人……じゃなくて、外国吸血鬼のクセに日本文化に詳しいな。
-Esta extranjera... no, este %{i}vampiro%{/i}  extranjero sabe una cantidad sorprendente de cultura japonesa.
+Esta extranjera... no, este %{i}vampiro%{/i} extranjero sabe una cantidad sorprendente de cultura japonesa.
 }
 [sha:b7aac7e33561ef6d07318fbd48cb59cf1509af5e]{
 -- Page 558, Offset 7071.
 -- 「狼になる―――他の動物に変わるっていうのは、破損した肉体を使い魔で補っている副産物ね。
-"Convertirse en un lobo, u otro animal cualquiera, es un efecto secundario del usar un familiar para compensar por un cuerpo dañado.
+"Convertirse en un lobo, u otro animal cualquiera, es un efecto secundario del usar un familiar para compensar un cuerpo dañado.
 }
 [sha:d861bd5e5c83c555f904faf883605bdfb88b6728]{
 -- Page 558, Offset 7072.
 -- 長い年月を生きた吸血鬼ほど、崩壊する肉体の補完は通常の命では間に合わない。だから力のある獣を取りこんで、それを体として使っている。
 Cuanto más vive un vampiro, más difícil es para las células normales reparar un cuerpo en descomposición.
- Es por eso que capturan bestias poderosas para suplementar esto en su lugar.
+ Es por eso que capturan bestias poderosas para suplementar esto en su lugar. 
 }
 [sha:528d0209f15217048fb77fe96b838c14450ee742]{
 -- Page 558, Offset 7073.
@@ -398,7 +398,7 @@ Cuando es necesario, las bestias vuelven a su estado original y las ponen a trab
 -- Page 559, Offset 7074.
 -- 「死徒たちは命のリペアとして、旧い獣を一匹ぐらいは体に取りこんでいる。けどそれが限界。あんまり多く取りこむと、今度は吸血鬼の自我が獣と混濁してしまう。
 "Los Apóstoles Muertos son capaces de introducir bestias antiguas en sus cuerpos para reponer su fuerza vital.
- Aunque, una es el límite――si introducen demasiadas, nublaran el alma del vampiro.
+ Aunque, una es el límite――si introducen demasiadas, nublarán el alma del vampiro.
 }
 [sha:769288a0a6dcab41de2507bfa9744cdce52e98af]{
 -- Page 559, Offset 7075. Mods: @k, @e.
@@ -408,7 +408,7 @@ Solo hay un vampiro entre todos los Apóstoles Muertos que ha introducido más d
 [sha:25bb37e51c5cacf2f4b5cfd5ff2cf172d747a32e]{
 -- Page 559, Offset 7076. Glued. Mods: @x.
 -- そいつももう消えたけど」
-Aunque, ese vampiro ya está muerto."
+ Aunque, ese vampiro ya está muerto."
 }
 [sha:090f53502eeaf729a35faf4cf1dba8bc0e0e02b4]{
 -- Page 560, Offset 7077.
@@ -418,7 +418,7 @@ Aunque, ese vampiro ya está muerto."
 [sha:ef2cd97806790c7c23a383b9324561f552164a85]{
 -- Page 560, Offset 7078.
 -- 志貴が言ったイメージを元に、ざっと概要だけを説明したけど、吸血鬼がどんなものか分かってもらえた？」
-Solo te he dado una idea general basándose en los puntos que me diste, ¿pero ahora entiendes lo que son los vampiros?"
+Solo te he dado una idea general basada en los puntos que me diste, pero... ¿entiendes ahora como son los vampiros?"
 }
 [sha:a6fbd13b7c80175c995acc62203256e7a4c2e22a]{
 -- Page 561, Offset 7079.

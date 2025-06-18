@@ -16,12 +16,12 @@ Un momento repleto del hedor a sangre y muerte.
 [sha:edef7ca3447f3086c8fb492443b61b902be37131]{
 -- Page 904, Offset 8062.
 -- あんなものを、俺は二度と経験したくない。
-No quiero volver a pasar por algo así nunca.
+No quiero volver a pasar por algo así.
 }
 [sha:6f98a84f3cad0d95051e1052fcd8d545496ceaeb]{
 -- Page 904, Offset 8063.
 -- アルクェイドと一緒にいれば、間違いなく同じことが繰り返される。それが嫌なら屋敷に戻るしかない。
-Pero si me quedo con Arcueid, es inevitable que lo haga.
+Pero si me quedo con Arcueid, es inevitable que ocurra.
  Si quiero evitarlo, no tengo más remedio que volver a la mansión.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -32,7 +32,7 @@ Pero si me quedo con Arcueid, es inevitable que lo haga.
 [sha:ef8d8127b8a0a065442b92ed1befa6b9d6d39ca8]{
 -- Page 905, Offset 8065.
 -- ……自分の選択には大きな欠陥がある。
-Aunque, hay un defecto evidente en esta decisión.
+Aunque, esta decisión tiene un defecto evidente.
 }
 [sha:5610e045c4d7f343f99ed8df8b5f1f202bc004e8]{
 -- Page 905, Offset 8066.
@@ -80,12 +80,12 @@ Justo cuando iba a levantarme del banco, alguien me llama desde atrás.
 [sha:f98b257937e6ae1627dea006679a0458177a53de]{
 -- Page 908, Offset 8074.
 -- 「ほっといてもいいんですけど、あんまりにも情けない顔してるので」
-"Estaba planeando simplemente ignorarte, pero estabas poniendo una cara increíblemente patética."
+"Planeaba ignorarte simplemente, pero estabas poniendo una cara increíblemente patética."
 }
 [sha:d17a6e0b4e60e3e8a8c6b2bde1ae351d780bd30b]{
 -- Page 909, Offset 8075.
 -- 初めて見るような、どこかで見た覚えがあるような、女の子が立っていた。
-Hay una chica ahí de pie.
+Hay una chica allí de pie.
  Siento que la he visto antes, pero no estoy seguro.
 }
 [sha:060982f6775cc4cd206b7973a3db589f69648a75]{
@@ -151,10 +151,10 @@ Mantiene la distancia, permaneciendo a un metro.
 -- ならケータイ、貸してください。あたしのは使いたくないんで」
 Si quieres, déjame tu teléfono. No quiero usar el mío para esto."
 }
-[sha:2e95d9c5d54409753e34109ef5d60277fb88c6cb]{
+[offset:8088]{
 -- Page 915, Offset 8088. Mods: @k, @e.
 -- 「―――、
-"
+"%{i}Ah%{/i}――
 }
 [sha:987c905ece89d51820e35d23984a06013f0cbd63]{
 -- Page 915, Offset 8089. Glued. Mods: @x.
@@ -196,10 +196,10 @@ Aún así, gracias por avisarme. Me ha ayudado mucho."
 -- ……体調、ずっと悪いんですか？」
 Tu salud... ¿siempre ha sido tan mala?"
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:8097]{
 -- Page 918, Offset 8097.
 -- 「？」
-"Hm?"
+"¿Eh?"
 }
 [sha:5342544caee28863a3e2a07ae6dd264a0fee7f26]{
 -- Page 918, Offset 8098.
@@ -230,12 +230,12 @@ Incluso cuando era un niño, el más mínimo ejercicio era suficiente para marea
 [sha:569a09efbf0fc5833f37704309813e4d39a13ca1]{
 -- Page 919, Offset 8103.
 -- 犬を飼いたい欲求はないが、完全否定されるのも悲しい。
-No deseo tener ningún perro, pero sería triste negar completamente la posibilidad.
+No deseo tener ningún perro, pero sería triste negar la posibilidad por completo.
 }
 [sha:260bceb4b653e53de0db486f4c056120e41b3e28]{
 -- Page 920, Offset 8104.
 -- 「散歩とか。
-"¿Un %{i}paseo%{/i}?
+"¿De %{i}paseo%{/i}?
 }
 [sha:c37ad81c8b278a0ee4f3a6038e1c042c84bc3ca8]{
 -- Page 920, Offset 8105.
@@ -298,10 +298,10 @@ Aunque se acabe de poner el sol, hay tanto silencio como si fuera de madrugada.
 -- 屋敷に帰ってきた日の夜、野犬の声がうるさくて様子を見にきた場所だったっけ。
 Estoy bastante seguro de que este sitio es donde vine a investigar de qué iban los aullidos la noche que volví a la mansión.
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:8117]{
 -- Page 926, Offset 8117.
 -- 「？」
-"Hm?"
+"¿Eh?"
 }
 [sha:074c28fd291232c9afbbb733fcb35b85643c11bb]{
 -- Page 926, Offset 8118.
@@ -313,7 +313,7 @@ Acabo de ver, algo parecido a un pedazo de carne negra―――
 -- 「――――――」
 "――――――"
 }
-[sha:a6e8f41c9d301efc02f996bd505e5ca4e7341247]{
+[offset:8120]{
 -- Page 927, Offset 8120.
 -- 意識が凍りつく。
 Mi conciencia se frena en seco.
@@ -326,12 +326,12 @@ Que hacen esos aquí, me pregunto.
 [sha:181947ca3e73ef0ba423ee47629c19862d149157]{
 -- Page 927, Offset 8122.
 -- とうぜんだ、という理解。
-Me doy cuenta, es obvio.
+Me doy cuenta que, es obvio.
 }
 [sha:582c5c6eeb0fb02e8dec839005a4fea452693308]{
 -- Page 928, Offset 8123.
 -- 路地裏で見つかったのはアルクェイドだけではない。
-Arcueid no fue a la única persona a la que vieron en el callejón.
+Arcueid no fue la única persona a la que vieron en el callejón.
 }
 [sha:885c7ab32184777bcb6971445bbeec1db3258005]{
 -- Page 928, Offset 8124.
@@ -341,7 +341,7 @@ El humano que estaba con ella por supuesto tambíen se volvería un hombre busca
 [sha:52e73fefe4b8abb76df954dfa63c3cc6365f2236]{
 -- Page 928, Offset 8125.
 -- その事実に気づかないよう、俺は思考にフタをしたのではなかったか。
-¿No hice la vista gorda para no ser consciente de esto?
+¿Acaso no lo ignoré para no ser consciente de ello?
 }
 [sha:4589f3963177854485aef4956e9eaa3e473d752c]{
 -- Page 929, Offset 8126.
@@ -351,7 +351,7 @@ Saco mi cuchillo, intentando compensar el tiempo perdido.
 [sha:89152c9d2f2a1c05863934bb59c78f55bf8ff880]{
 -- Page 929, Offset 8127.
 -- 道の端……雑木林から現れた死人を見据えたまま後じさる。
-Retrocedo, manteniendo mis ojos fijos en los cadáveres que emergen del matorral de la acera.
+Retrocedo, manteniendo mis ojos fijos en los cadáveres que emergen del matorral junto a la acera.
 }
 [sha:75342fab802b090cd77089ac74e5a7a8b212760c]{
 -- Page 929, Offset 8128.
@@ -371,7 +371,7 @@ Donde quiera que mire, mis alrededores de repente están pintados de un rojo cla
 [sha:6e4cd75f6cd402cf33c10f453e6d82199f120fa5]{
 -- Page 931, Offset 8131.
 -- ごうごうという音が聞こえる。
-Escucho un rugido.
+Escucho un rugido. 
 }
 [sha:5bc6b50a9bf34bc3010e727676e143d59459e9c4]{
 -- Page 931, Offset 8132.
@@ -441,7 +441,7 @@ Mis ojos no ven nada más que dolor.
 [sha:f77002e8a7da556a3040ee2aa749821db22b387f]{
 -- Page 934, Offset 8145.
 -- 主を守る犬ですら無かったか”」
-Ni siquiera fuiste un perro que pudiera proteger a su amo."
+Ni siquiera fuiste un perro capaz de proteger a su amo."
 }
 [sha:8a9390647f73a860b122a771c9cd44032a812be7]{
 -- Page 935, Offset 8146.
@@ -456,5 +456,5 @@ El sonido de la grasa esparciéndose por el asfalto.
 [sha:e1755be8bf4088b169cc48bec7dd9279de41e17a]{
 -- Page 935, Offset 8148.
 -- それが自分から垂れ流された汚物のなれの果てである事に、遠野志貴は最期まで気づかなかった。
-Solo al final Tohno Shiki se dio cuenta de que eran los restos de la inmundicia que había emergido de él.
+Solo al final, Tohno Shiki se dio cuenta que eran los restos de la inmundicia que había emergido de él. 
 }

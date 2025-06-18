@@ -21,12 +21,12 @@ Las pantallas retransmiten en bucle las noticias de última hora.
 [sha:9eed77a2750df9110e8e0b398112d2bd8a50caa7]{
 -- Page 372, Offset 9569.
 -- 総耶駅北口付近で起きた火災。
-Se ha producido un fuego al norte de la Estación Souya.
+Se ha producido un fuego al norte de la estación de Souya.
 }
 [sha:8188a0ba3f5fbdc1d0b1d08f1b06dc7bf2eb54b6]{
 -- Page 372, Offset 9570.
 -- 電車は運行を一時停止し、繁華街を訪れていた人々は我先にと逃げ惑っている。
-Han suspendido los trenes, y la gente que estaba visitando el centro está corre frenéticamente por sus vidas.
+Han suspendido los trenes, y la gente que estaba visitando el centro corre frenéticamente por sus vidas.
 }
 [sha:bedea448b1db935ce0bee62a4bb4e11212b1ddc3]{
 -- Page 373, Offset 9571.
@@ -41,7 +41,7 @@ Es una entrevista con una chica de instituto que acaba de escapar del fuego.
 [sha:a0d054156e9558159dac4c5479ab44ee52a57b9d]{
 -- Page 373, Offset 9573.
 -- “熱い、熱いの、ねえ、なんでこんな熱いの？”
-"Calor... hace mucho calor. Ey, ¿por qué hace tanto calor?
+"Calor... hace calor. Ey, ¿por qué hace tanto calor?
 }
 [sha:98c5cf346da550ee6af4b8159051d44bff506555]{
 -- Page 373, Offset 9574.
@@ -79,22 +79,22 @@ Han venido hasta aquí para satisfacer su curiosidad,
  y ahora se encuentran en el cerco observando, grabando,
  y compartiendo la situación con sus amigos más cercanos.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:9580]{
 -- Page 375, Offset 9580.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:771e604cfa06087e83771d039733fb934d14b956]{
 -- Page 375, Offset 9581.
 -- 駅前への道はすでに封鎖されていた。
-El ya han bloqueado el camino a la estación.
+Ya han bloqueado el camino a la estación.
 }
 [sha:2cb04fb326a0d61e59ef2bad71ec4dcfb1652fbc]{
 -- Page 375, Offset 9582.
 -- 火災対策……いや、それにしては早すぎるし、なにより<人|・><員|・><が|・><多|・><す|・><ぎ|・><る|・>。
 ¿Esto es un cortafuegos...?
-Incluso si lo fuera, lo levantaron demasiado rápido.
-Además, hay demasiada gente alrededor.
+ Incluso si lo fuera, lo levantaron demasiado rápido.
+ Además, hay demasiada gente alrededor.
 }
 [sha:a9b65b5a268696de79fdc5c1d2e27507bcd6da3c]{
 -- Page 375, Offset 9583.
@@ -109,7 +109,7 @@ Es como si estuvieran bloqueando las salidas, asegurándose de que nadie escape.
 [sha:140d3d19eed755cb60b13b8718afc5bfde4a0ac3]{
 -- Page 376, Offset 9585.
 -- どちらにせよこれでは先に進めない。
-De todas formas, no podemos pasar.
+Sea como sea, no podemos pasar.
 }
 [sha:d3e577529f63c329eb8ae1b40c2f83b4163be96d]{
 -- Page 376, Offset 9586.
@@ -126,7 +126,7 @@ Me coge de la mano enérgicamente.
 -- アルクェイドは有無を言わさず、俺の手を握ったまま人混みをすり抜けた。
 Sin esperar a que responda, Arcueid se cuela entre la multitud, arrastrándome con ella.
 }
-[sha:e8cb3eafaaa8b2753f66d0d5eb2d421134fa44a6]{
+[offset:9589]{
 -- Page 378, Offset 9589.
 -- 「ちょっ、待てってば！
 "¡E-Espera un segundo!
@@ -134,7 +134,7 @@ Sin esperar a que responda, Arcueid se cuela entre la multitud, arrastrándome c
 [sha:9547ee8f76b346f91e524183555524326e7e9543]{
 -- Page 378, Offset 9590.
 -- こんなところに来てどうするんだ！」
-¡¿Para que me has traído aquí?!"
+¡¿Para qué me has traído aquí?!"
 }
 [sha:ccd678936d34c44c58ef4eabe33596b0fec5aa5f]{
 -- Page 379, Offset 9591.
@@ -154,12 +154,12 @@ Arcueid se da la vuelta y examina las paredes de los edificios.
 [sha:8c309c7826047bcb023e2c40c3cf7f9d94eff5dc]{
 -- Page 380, Offset 9594.
 -- 二人で飛ぶのは初めてだけど、この高さなら問題ないはず」
-Esta es la primera vez que vuelo con otra persona, pero no debería haber problema si solo subimos a esta altura."
+Esta es la primera vez que vuelo con otra persona, pero no debería haber problema si solo subimos a esta altura." 
 }
-[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+[offset:9595]{
 -- Page 380, Offset 9595.
 -- 「は？」
-"¿Qué?"
+"¿Eh?"
 }
 [sha:1460e4c89f339d5152aefc6acc3a5eade214f2d2]{
 -- Page 381, Offset 9596.
@@ -194,7 +194,7 @@ Y entonces, ¡dice algo completamente demente!
 [sha:85b0c02d571ed163e7d473d60af9280a2e0d3b88]{
 -- Page 385, Offset 9602.
 -- 「うわああぁああああああああーーーーー!?」
-"%{i}WAAAAAAAAAAAHHH%{/i}―――?!"
+"¡¿%{i}WAAAAAAAAAAAHHH%{/i}―――?!"
 }
 [sha:5ffd2f7f461488060ee88783d6f039b1957427bb]{
 -- Page 386, Offset 9603.
@@ -221,17 +221,17 @@ Por supuesto, hizo todo esto mientras me sujetaba.
 [sha:e906537a81eabb1cc0bc92b2f81a6a5a02c7169e]{
 -- Page 388, Offset 9607.
 -- 「ちっょ、ま、おま、うわああああ……！」
-"E-Espera, e-ey... %{i}whoooaaa%{/i}!"
+"E-Espera, e-ey... ¡%{i}whoooaaa%{/i}!"
 }
 [sha:15dcc3e5eb3b2c258f885e3ea41ec9c5a7f3927b]{
 -- Page 388, Offset 9608.
 -- 高い……！　というか怖い……！　いま地上何メートルだこれ、ビルより高いってコトは40メートル以上か!?　20メートルのコースターでさえ心臓が縮みあがるのにその倍、しかも本気で足場とかないんだけどーーー！？
-¡Qué alto estamos!
+¡Menuda altura!
  ¡Esto da mucho miedo!
- ¡¿Ahora mismo a qué altura %{i}estamos%{/i}?!
- ¡Estamos por encima de ese edificio, y tiene que tener cuarenta metros de alto!
+ ¡¿Ahora mismo a qué distancia del suelo estamos?!
+ ¡Si es por encima de ese edificio, tienen que ser más de cuarenta metros!
  Una caída de veinte metros desde la lanzadera haría que se me saliera el corazón del pecho, ¡¿pero %{i}esto%{/i}?!
-¡¿Dónde demonios se supone que tengo que poner los pies?!
+ ¡¿Dónde demonios se supone que tengo que poner los pies?!
 }
 [sha:318f62492b1edf807c981a1a5934e88b40407b88]{
 -- Page 389, Offset 9609.
@@ -241,7 +241,7 @@ Por supuesto, hizo todo esto mientras me sujetaba.
 [sha:e9d63cf129de13369a1029e5da052436e328bd71]{
 -- Page 390, Offset 9610.
 -- 俺の悲鳴に首をかしげながら、アルクェイドは更なる蛮行に出た。
-Arcueid incrementa aún más el ritmo brutal, mientras inclina la cabeza confusa por mis gritos.
+Arcueid incrementa aún más el ritmo brutal mientras inclina la cabeza, confusa por mis gritos.
 }
 [sha:3e76eebd96e6be9af198cd86c042ea5fb0c56e12]{
 -- Page 390, Offset 9611.
@@ -293,7 +293,7 @@ Me duele el pecho.
 -- Page 394, Offset 9620.
 -- 気圧の変化こそないものの、体験した事のない急制動で全身が硬直してしまったからだ。
 Aunque no estemos lo suficientemente altos para que la presión atmosférica disminuya,
- todo mi cuerpo se ha paralizado de todos los shocks a mi organismo.
+ mi cuerpo se ha paralizado de todos los shocks a mi organismo.
 }
 [sha:bc2c378de8257c1868b983c6101545248096fe97]{
 -- Page 395, Offset 9621.
@@ -325,7 +325,7 @@ Está en llamas...
 -- 俺たちの街が、見知った建物が、火の海に飲まれつつある。
 La ciudad en la que vivo, con todos sus edificios familiares, está siendo consumida por el mar de llamas.
 }
-[sha:a34636cdd84a4aaa20b1a35f8681309c6f62dc33]{
+[offset:9627]{
 -- Page 397, Offset 9627.
 -- 「な――――――」
 "Qué―――"
@@ -411,7 +411,7 @@ Los cadáveres marchan hacia los agentes que disparan―――
 [sha:408a111d68b6acb21d76fcc28178dab5184d940d]{
 -- Page 402, Offset 9643.
 -- 「―――なんだ、アレ―――」
-"Que... diablos..."
+"Qué... diablos..."
 }
 [sha:23f2929522125eba1cb649b83e48d1e2bb03b21e]{
 -- Page 402, Offset 9644.
@@ -431,7 +431,7 @@ El sentimiento de deber y urgencia que me tenía al correr hacia la ciudad se ha
 [sha:a8916a34c887366775e44a90817694bd62c205b3]{
 -- Page 402, Offset 9647.
 -- いま、<人|オ><間|レ>の頭にあるものは純粋な<畏|おそ>れだ。
-Ahora mismo, lo único que queda en mi mente es puro terror
+Ahora mismo, lo único que queda en mi mente es puro terror.
 }
 [sha:972c5e2281ebe86e53abbdcdf87cf46a907cb57c]{
 -- Page 403, Offset 9648.
@@ -457,12 +457,12 @@ Y %{i}ese%{/i} es el enemigo que ahora debemos derrotar―――
 -- Page 404, Offset 9652.
 -- ここまで見境なしならそろそろやって来る筈だけど……やっぱりこの国には赴任していない……？
 Ya deberían estar aquí teniendo en cuenta lo indiscriminado que está siendo.
- Parece nadie fue asignado a este país después de todo.
+ Después de todo parece que no han asignado a nadie a este país.
 }
 [sha:86e0c4c106da595e1060d1cbaff83e8acc81758e]{
 -- Page 404, Offset 9653.
 -- でも、その割にはきっちり交通規制はしているし……ここの代行者、実戦派じゃなくて制服組なのかしら」
-Pero eso no explica el control de tráfico inusualmente estricto... Quizá los Ejecutores mandaron a burocráticos más que a agentes reales."
+Pero eso no explica el control de tráfico inusualmente estricto... Quizá los Ejecutores mandaron a burocráticos más que a agentes de verdad."
 }
 [sha:8f80ea890dda2f79688b1cc556bfefe32a716096]{
 -- Page 405, Offset 9654.
@@ -515,7 +515,7 @@ Aunque ya sabe lo que voy a decir, Arcueid me pregunta para confirmar por últim
 [sha:f5965e8f1ba445411ed3295b379e22f41155bc9d]{
 -- Page 408, Offset 9663.
 -- それに、精一杯の意地で、震えを<堪|こら>えながら<睨|にら>みつけた。
-Y así, con toda determinación que puedo reunir, mi cuerpo temblando, la miro.
+Y así, con toda la determinación que puedo reunir, mi cuerpo temblando, la miro.
 }
 [sha:1a56a7d27005550a64dd595917f088c3ba533963]{
 -- Page 409, Offset 9664.
@@ -541,7 +541,7 @@ Estoy lista para luchar si tu lo estás, que lo sepas."
 [sha:603d4a033c9d5878adcb22e5b89fc9a503070d5c]{
 -- Page 410, Offset 9668.
 -- このまま始める……？
-Espera, ¿a que se refiere?
+Espera, ¿a qué se refiere?
 }
 [sha:c18f3d54b8b6d030a3f73f1ad2a1ed0cb2623316]{
 -- Page 410, Offset 9669.
@@ -563,7 +563,7 @@ Está diciendo que puede reubicarse――
 [sha:7583e194a9eb795a0fdbeebb09007ea397b3df7e]{
 -- Page 411, Offset 9672.
 -- 「頼む……！　今すぐアイツをたたき出してくれ……！」
-"¡Te lo suplico! ¡Por favor ve ahora mismo y lucha contra el!"
+"¡Te lo suplico! ¡Por favor ve ahora mismo y lucha contra él!"
 }
 [sha:9e3d0efce7b7623214b1f20aa5eddd16c2094742]{
 -- Page 412, Offset 9673.
@@ -578,7 +578,7 @@ Parece que hay un espacio vacío debajo de ellos."
 [sha:3355ebfa484aff5d37af29972b6e49d6adf24d37]{
 -- Page 413, Offset 9675.
 -- ……待て。下？　落とすってなんだ？
-Espera... ¿bajo tierra? ¿Que quiere decir con 'dejaré caer'?
+Espera... ¿bajo tierra? ¿Qué quiere decir con 'dejaré caer'?
 }
 [sha:2bdebbd068190c5d319fe7e62b78c3ec2921dad2]{
 -- Page 413, Offset 9676.
@@ -594,17 +594,17 @@ No, no hay tiempo para hacer preguntas.
 -- Page 414, Offset 9678.
 -- 「でも約束は忘れないで。ちゃんと後からついてきてね」
 "Pero no te olvides de nuestra promesa, ¿vale?
- Mas te vale alcanzarme después."
+ Más te vale alcanzarme después."
 }
 [sha:5fac67d5bc7737ead3d8abc353f14f7b24f6df25]{
 -- Page 415, Offset 9679.
 -- 驚きの連続で、思考がまったく追いつかない。
-Una tras otra mi mente no puede seguirle el ritmo a todas las sorpresas que ocurren.
+Una tras otra mi mente es incapaz de seguir el ritmo a todas las sorpresas que ocurren.
 }
 [sha:5bbb3d06fd2e89a46fb706094ac9b606086ec09a]{
 -- Page 415, Offset 9680.
 -- あろう事か―――
-Que demonios―――
+Qué demonios―――
 }
 [sha:c04f45a6615ef32c7ad0cf5174e3490631ea4b59]{
 -- Page 415, Offset 9681.
@@ -614,7 +614,7 @@ Arcueid salta del tejado al vacío, dejándome atrás.
 [sha:e8c3934eb39819d5f6f65457ceaf9ee9a882d82d]{
 -- Page 416, Offset 9682.
 -- それは、風に舞う白い花のようだった。
-// En estas líneas me baso mas en la traducción oficial
+//En estas líneas me baso mas en la traducción oficial
 Ahí está, flotando, como una flor blanca bailando al viento.
 }
 [sha:5c9948bbba8ec15aa6b261cca9d51b1f489288d6]{
@@ -640,7 +640,7 @@ En vez de caer, asciende ligeramente.
 [sha:06b0ee79a0f2c5d68d767f8fa6a44acc741f2688]{
 -- Page 417, Offset 9687.
 -- あるいは風を受ける帆船のように、彼女は夜空と<戯|たわむ>れる。
-Es como un velero atrapando el viento, navega por el cielo nocturno.
+Es como un velero atrapando el viento, navegando por el cielo nocturno.
 }
 [sha:218efb744edd67b507bf938111850ba740c6c522]{
 -- Page 418, Offset 9688.
@@ -650,7 +650,7 @@ Esto no es motivo de sorpresa.
 [sha:1dbdc8a17cb560561766f0789a8a068eaf69d715]{
 -- Page 418, Offset 9689.
 -- その化身は<惑|ほ><星|し>の<嬰児|みどりご>にして<写身|うしつみ>。
-// La traducción oficial dice que es como la encarnación infante del planeta. Esta traducción me gusta mas, es menos simplista.
+//La traducción oficial dice que es como la encarnación infante del planeta. Esta traducción me gusta mas, es menos simplista.
 Ella es un avatar del planeta――de él un infante y reflejo.
 }
 [sha:8b076c0171659db89657381517b76772a39ed18a]{
@@ -661,7 +661,7 @@ Todas las fluctuaciones en la superficie la pertenecen.
 [sha:3e8aca86444b966ab98951eb3b26b93bd94f317c]{
 -- Page 419, Offset 9691.
 -- 生命を育む自然の<恵|めぐ>みも、
-Las bendición de la naturaleza――que provee de vida.
+La bendición de la naturaleza――que provee de vida.
 }
 [sha:5be4bcb94ca7c132071bcbda6c7a48ddc2bbfc8d]{
 -- Page 419, Offset 9692.
@@ -671,13 +671,13 @@ La furia de la naturaleza――que destruye vida.
 [sha:0cbd0216accdb72d6cea8f400853a48dee602b4c]{
 -- Page 419, Offset 9693.
 -- その体に備わった当然の権利である。
-// De la traducción oficial.
+//De la traducción oficial.
 Ambas son suyas para encarnarlas――para ejercerlas.
 }
 [sha:d243d3a298d7f4123fb30645484289baf609c1cd]{
 -- Page 420, Offset 9694.
 -- 「よーし―――」
-"Vale―――"
+"Muy bien―――"
 }
 [sha:3104c0fe8343ec841c7d644fb186235dcae01246]{
 -- Page 420, Offset 9695.
@@ -692,13 +692,13 @@ Dirige su atención del cosmos a la tierra.
 [sha:2d997e0a19bff09c742ecd59f039928dbf2a58dd]{
 -- Page 420, Offset 9697.
 -- 解いていた<鎖|くさり>を、巻き上げていた<碇|いかり>を地表に打ち付ける。
-// No me gusta como suena
+//No me gusta como suena
 Es hora de que las cadenas liberadas y las anclas levantadas golpeen el suelo.
 }
 [sha:f39ef2ae76b3c855e00ab4ff809b18f7565d1457]{
 -- Page 420, Offset 9698.
 -- 眼下には火の粉を散らす石の<楼閣|ろうかく>。
-// De la tl oficial.
+//De la tl oficial.
 Bajo ella un castillo de cemento, escupiendo chispas incandescentes.
 }
 [sha:73010a7ca6046ce4c20512b3f9e99c7fd84ca698]{
@@ -709,12 +709,12 @@ Bajo ella un castillo de cemento, escupiendo chispas incandescentes.
 [sha:95810281bd0b55e3e5d589f06d47f9a8e7a816e8]{
 -- Page 421, Offset 9700.
 -- 夜空に咲いた花が、落下する星になる。
-// De la tl oficial.
+//De la tl oficial.
 El brote que florecía en el cielo nocturno se transforma en una estrella fugaz.
 }
 [sha:f052ac932980efd8e7ddc016bca134d320c85a79]{
 -- Page 421, Offset 9701.
 -- 月の花は自らを嵐と変えて、燃え盛る炎を吹き飛ばした。
-// De la tl oficial.
+//De la tl oficial.
 El lirio lunar se transforma en una tempestad, llevándose por delante las abrasadoras llamas.
 }

@@ -326,7 +326,7 @@
 [sha:3c024bcb18c136bc32fda2bd7f648b73251879ef]{
 -- Page 645, Offset 16368.
 -- なのに、
-Y aún así―――
+-- TRANSLATION HERE
 }
 [sha:fab541e2727e86878ed8323067314de373d8c165]{
 -- Page 645, Offset 16369.
@@ -371,7 +371,7 @@ Y aún así―――
 [sha:31dd0c24f23f160cacda0727b21101112e5591dc]{
 -- Page 649, Offset 16377.
 -- アルクェイドは何も言わない。
-Arcueid no dice nada.
+-- TRANSLATION HERE
 }
 [sha:935a4fb461e206ae861b946373e7c7ef3f85a9a3]{
 -- Page 649, Offset 16378.

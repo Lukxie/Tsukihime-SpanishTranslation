@@ -1,7 +1,7 @@
 [sha:bbd5607520d6ea18217bdf6471ecc5b0a2ac51f6]{
 -- Page 10027, Offset 26713.
 -- ただ、欲しいだけのケダモノだ。
-Simplemente soy una bestia que la desea.
+Tan solo soy una bestia que la desea.
 }
 [sha:d8d12070a7a76f38ef8d8b3850318daadcd982fa]{
 -- Page 853, Offset 26714.
@@ -41,7 +41,7 @@ El yo que se preocupa por esta mujer pasa a un segundo plano.
 [sha:5f753a79e6940f5aa6b4ee61f02470e933e05b26]{
 -- Page 854, Offset 26721.
 -- 『―――ああ』
-"―――%{i}Aaah%{/i}."
+-- TRANSLATION HERE
 }
 [sha:ee4a8d67f7c27a0dacd3a69f533e6ccf2c190927]{
 -- Page 855, Offset 26722.
@@ -113,17 +113,17 @@ Actuando de manera automática, o quizá por algún imperativo biológico,
 -- Page 857, Offset 26735.
 -- 『―――あああああ[ber00][ber00][ber00][ber00]―――！』
 %{no_break}
-"―――%{i}AAAAA%{/i}[ber00][ber00][ber00][ber00]―――!"
+"¡―――%{i}AAAAA%{/i}[ber00][ber00][ber00][ber00]―――!"
 }
 [sha:67a0a3b454f5194150ff62d2d4848405632d17b6]{
 -- Page 857, Offset 26736.
 -- 七つ夜が明けるまで、人である事を忘れましょう。
-Hasta que llegue el amanecer tras <Siete Noches|N a n a t s u - Y o r u      >, me olvidaré por completo de ser humano.
+Hasta el amanecer tras <Siete Noches|N a n a t s u - Y o r u      >, me olvidaré por completo de ser humano.
 }
 [sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
 -- Page 858, Offset 26737. Mods: @k, @e.
 -- 「――――――、
-"
+"―――
 }
 [sha:579251ec90a817b49ef70d7a9542948dd69e9463]{
 -- Page 858, Offset 26738. Glued. Mods: @x.
@@ -138,7 +138,7 @@ Me levanto
 [sha:800fe680d8ca93ccf35fc47aeeec654788f52222]{
 -- Page 858, Offset 26740. Glued.
 -- 起こす。
-del mar de sangre.
+ del mar de sangre.
 }
 [sha:30218edcffee6d6e2e8e2181f3c736ffedc4ce74]{
 -- Page 858, Offset 26741.
@@ -169,7 +169,6 @@ Mi dolor de cabeza cede.
 [sha:f5c51f96775561ec790c6814b65caae5267d73eb]{
 -- Page 859, Offset 26746.
 -- 己の信憑性も棒に振った。
-// Tl oficial
 Me he deshecho de mi conciencia.
 }
 [sha:9a1ae37e26f0caf7860f1318ebd27db4a1211d5a]{
@@ -215,12 +214,12 @@ Ante mí se encuentra la pantera, y detrás se halla algo innombrable.
 [sha:a23817f1319755be10addccf741435d1a9210407]{
 -- Page 861, Offset 26755.
 -- もっとも、後ろで蘇生しつつある魔は、人の手で倒しきれるものではないが。
-Después de todo, supongo que manos humanas nunca podrán derrotar la aberración que revive detrás de mí.
+Después de todo, supongo que manos humanas nunca podrán derrotar la aberración que revive a mi espalda.
 }
 [sha:4dec52c429e52d752d3ba051ae2516dd1d92c592]{
 -- Page 862, Offset 26756.
 -- 「―――まったく。下手だね、どうも」
-"―――Santo cielo. Menudo descuido, de verdad."
+"―――Santo cielo. Menudo descuido, la verdad."
 }
 [sha:ee1e8359913783beb9c63cbdf61abf1cc284930b]{
 -- Page 862, Offset 26757.

@@ -1,13 +1,13 @@
 [sha:7cfe8c4884677aa07daef5ff4490071eab2a8fd6]{
 -- Page 10002, Offset 2837.
 -- 居間の時計は７時半を指している。
-El reloj de la sala de estar indica las 7:30 AM.
+El reloj en la sala de estar indica las 7:30 AM.
 }
 [sha:ac9024a4708ffc76a5f7d4df7c29fa7ac3f50f99]{
 -- Page 10002, Offset 2838.
 -- 俺は30分あればギリギリ間に合うが、秋葉は間に合うのだろうか？
 Puedo llegar a la escuela a tiempo en una media hora,
- ¿pero podrá Akiha llegar allí a la hora?
+ ¿pero podrá Akiha llegar allí a tiempo?
 }
 [sha:5e4ddf6bd4215e56f05950219bd377f6ce9e93b0]{
 -- Page 10002, Offset 2839.
@@ -17,7 +17,7 @@ Creo que la Academia Privada Femenina Asagami está bastante lejos de aquí... �
 [sha:7fcec8bbcaa3429a8b3a2a490b4e4dc65f050a88]{
 -- Page 92, Offset 2840.
 -- 「……志貴さん、志貴さん……聞こえますか……そう、貴方です……秋葉さまの容赦ない仕打ちにうちひしがれ、絶望に膝を折っている貴方に話しかけています……」
-"Shiki-san, Shiki-san... ¿me escuchas? Sí, tu... A ti te hablo, al que está de rodillas desesperado, abrumado por el trato inhumano de Akiha-sama..."
+"Shiki-san, Shiki-san... ¿me escuchas? Sí... a ti te hablo, al que está de rodillas desesperado, abrumado por el trato inhumano de Akiha-sama..."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 92, Offset 2841.
@@ -32,20 +32,20 @@ Creo que la Academia Privada Femenina Asagami está bastante lejos de aquí... �
 [sha:e5c69569e7ee5c014ccdff5825bdaacab5383cf0]{
 -- Page 93, Offset 2843.
 -- ソファーの背に隠れながら、こっちこっち、と手招きしている。
-Está escondida detrás del sofá, haciendo señas para que me acerque.
+Escondida detrás del sofá, haciendo señas para que me acerque.
 }
 [sha:ec2fbfb89443a1af3a24a9a8d07fca3a55f408b4]{
 -- Page 94, Offset 2844.
 -- 「……聞こえていますけど。なんですか、琥珀さん」
-"Te escucho... ¿Que pasa, Kohaku-san?
+"Te escucho... ¿Qué pasa, Kohaku-san?
 }
 [sha:17cf8ef3554df42c4eac4f8554bc3b588f46a48c]{
 -- Page 94, Offset 2845.
 -- 「……違います……私は使用人であって使用人ではない曖昧な存在……なので、これを貴方にお返しするのです……」
-// No se si aquí vuelve a su trato formal porque esta roleando o no, asumo que si y se revisa.
+//No se si aquí vuelve a su trato formal porque esta roleando o no, asumo que si y se revisa.
 "Kohaku no está aquí...
  Soy una existencia efímera, una sirvienta, pero a la vez no...
- Como tal, le devuelvo %{i}esto%{/i} a usted."
+ Como tal, le devuelvo a usted %{i}esto%{/i}."
 }
 [sha:486ab2e426f6d2dbc80245ab4e8daf1db7a7a72f]{
 -- Page 95, Offset 2846.
@@ -65,13 +65,13 @@ Kohaku-san saca un teléfono de la manga de su kimono de manera furtiva.
 [sha:28a8767bb7626764c6dd2b41f84442df7d56970a]{
 -- Page 96, Offset 2849.
 -- 「はい。でも、秋葉さまにはナイショですよ。見つからないように注意してくださいね。
-"Si. Pero mantenlo en secreto de Akiha-sama. Por favor ten cuidado de que no te pillen.
+"Sí. Pero mantenlo en secreto de Akiha-sama. Por favor ten cuidado de que no te pillen.
 }
 [sha:23aff526b72affb2dce8c57fe3de109837a7fc14]{
 -- Page 96, Offset 2850.
 -- あと、屋敷内で使うのもお控えください。まあ、電波の通りがあまりよくないので、使いたくても使えないとは思いますが」
 También, por favor abstente de usarlo en la mansión.
- Aunque, la cobertura es bastante mala aquí, quizá no puedas aunque lo intentes."
+ Bueno, la cobertura es bastante mala aquí, quizá no puedas aunque lo intentes."
 }
 [sha:ec356a743128a57a83564262aafa2da5e04cfb15]{
 -- Page 97, Offset 2851.
@@ -81,12 +81,12 @@ También, por favor abstente de usarlo en la mansión.
 [sha:baca1c5a20de49f856412889d4730ae6dc13254e]{
 -- Page 97, Offset 2852.
 -- 遠野邸の良心がここにいた。
-Después de todo quizá hay algo de benevolencia en esta mansión.
+Quizá hay algo de benevolencia en esta mansión después de todo.
 }
 [sha:8a84c7bc5042986cbadced10bf9f891f58632bcc]{
 -- Page 97, Offset 2853.
 -- 俺は携帯端末を受け取って、素早く制服の内ポケットにしまいこんだ。
-Cojo el móvil y lo escondo rápidamente en el bolsillo interior de mi uniforme.
+Tomo el móvil y lo escondo rápidamente en el bolsillo interior de mi uniforme.
 }
 [sha:9b471abcb15b16c2d565f4277a5472c686ccf559]{
 -- Page 98, Offset 2854.
@@ -97,7 +97,7 @@ Cojo el móvil y lo escondo rápidamente en el bolsillo interior de mi uniforme.
 -- Page 98, Offset 2855.
 -- ブザーを押していただければ私の方でロックを解除しますが、警備室まで行くのにどうしても時間がかかってしまいますので。
 Si presionas el timbre te desbloquearé la puerta,
- pero tardo un rato en llegar a la oficina de seguridad.
+ pero me lleva un rato llegar a la oficina de seguridad.
 }
 [sha:4d0a60b74dc36830513175dc8c3b89daae0ed1b4]{
 -- Page 98, Offset 2856.
@@ -107,12 +107,12 @@ Sé que es una molestia, pero si tienes prisa, puedes desbloquear la puerta prin
 [sha:41253ba0e297ccd67f03d598544e9e1db4c745de]{
 -- Page 99, Offset 2857.
 -- 正門の認証カードキーとは……さすが遠野邸、セキュリティは万全だ。
-Una tarjeta para la puerta principal... como era de esperar de la mansión Tohno, la seguridad es excelente.
+Una tarjeta para la puerta principal... como es de esperar de la mansión Tohno, la seguridad es excelente.
 }
 [sha:d612c42f0ad266306885ece2a7fc03a13826eddb]{
 -- Page 100, Offset 2858.
 -- 「それでは、私は秋葉さまをお見送りしてきます。
-"Bueno entonces, iré a despedir a Akiha-sama."
+"Bueno entonces, iré a despedir a Akiha-sama.
 }
 [sha:5e00346955f819fafc0e609ab04e610ca2616f22]{
 -- Page 100, Offset 2859.
@@ -162,7 +162,7 @@ Hisui asiente, aparentemente satisfecha con mi explicación.
 [sha:d0476d3a03465aefb203f5ffc9b0013cf0c5453d]{
 -- Page 103, Offset 2868.
 -- ……やっぱり、自分付きの使用人というのは照れくさい。
-Si... aun no me acostumbro a lo vergonzoso que es tener tu propia sirvienta.
+Sí... aun no me acostumbro a lo vergonzoso que es tener tu propia sirvienta.
 }
 [sha:aed71d1a422779a9264f5528b15b3f355c168be6]{
 -- Page 103, Offset 2869.
@@ -172,24 +172,24 @@ Hisui me mete prisa para levantarme del sofá.
 [sha:1eefaac9e2182a0ed1ecdcf58a7a4b275b54144c]{
 -- Page 103, Offset 2870.
 -- 予想外の闖入者がいたものの、七年ぶりの朝は問題なく過ぎていった。
-Aún con el invitado inesperado,
+Aún con el invitado inesperado, 
  mi primera mañana aquí en siete años pasa sin ningún incidente.
 }
 [sha:5bade079fec7f5852dee9a345d5d3204b5c403cd]{
 -- Page 104, Offset 2871.
 -- 翡翠に見送られて屋敷の敷地から出る。
-// parcela recinto lo que suene mejor
-Hisui me despide mientras salgo de la parcela de la mansión.
+//parcela recinto lo que suene mejor
+Hisui se despide de mi al salir de la parcela de la mansión.
 }
 [sha:eb77227cd4bcab228f8744aac400d88709ce56a1]{
 -- Page 104, Offset 2872.
 -- 遠野邸は<総|ま><耶|ち>の端に位置し、駅から離れた高台にある。
-La mansión Tohno está en el borde de la ciudad, en la cima de una colina a cierta distancia de la estación.
+La mansión Tohno está al borde de la ciudad, en la cima de una colina a cierta distancia de la estación.
 }
 [sha:18af7639ed2f615ecff851f435b2ecfd7a155e77]{
 -- Page 104, Offset 2873.
 -- 高台には都市部には不釣り合いな森が広がっており、見ようによっては遠野の家は“森の入り口に作られた門”と取れなくもない。
-La colina está cubierta por un bosque que está fuera de lugar en una zona urbana.
+La colina está cubierta por un bosque más bien fuera de lugar para una zona urbana.
  Dependiendo de cómo lo mires, la mansión Tohno puede verse como una puerta construida en la entrada del bosque.
 }
 [sha:a628cefc77aa255e923b5c92bbe762d07787bfed]{
@@ -210,13 +210,12 @@ Bajo la larga cuesta.
 [sha:c8e298f0093b6f4c8d544ce864345c2a962caac7]{
 -- Page 106, Offset 2877.
 -- 今まで有間の家から電車で総耶駅まで通っていたから、この道順での登校は初めてだった。
-// Corregido
-Siempre tomaba el tren desde la casa de los Arima hasta la Estación Souya, así que esta es mi primera vez yendo a la escuela por este camino.
+Siempre he tomado el tren desde casa de los Arima hasta la estación de Souya, por lo que esta es mi primera vez yendo a la escuela por este camino.
 }
 [sha:1c157f33cb0b47b6898322cb0565b67df40fd93d]{
 -- Page 106, Offset 2878.
 -- 単に道が変わっただけなのに、転校生になった気持ちになる。
-Me siento como un estudiante nuevo, aunque solo haya cambiado mi ruta.
+Aunque solo haya cambiado mi ruta, me siento como un estudiante nuevo.
 }
 [sha:4e7bcb97001b658af5bc09f38c85bcb610f64dc8]{
 -- Page 107, Offset 2879.
@@ -226,7 +225,6 @@ Me siento como un estudiante nuevo, aunque solo haya cambiado mi ruta.
 [sha:2a71462d0aea507f916bbc8dbd9edfa6ea494b74]{
 -- Page 107, Offset 2880.
 -- このあたりの家庭には総耶高校に通っている人間は少ないようだ。
-// corregido
 Parece que solo unas pocas personas de este vecindario van al Instituto Souya.
 }
 [sha:ba0f0ef5d179078bdfdc44c4c15414b53feba72c]{
@@ -237,22 +235,22 @@ Son las 7:30 AM.
 [sha:fe8502ef15211c08c39a1dc2bbd764c1234a20d1]{
 -- Page 107, Offset 2882.
 -- 道を小走りで歩く学生服姿は自分しか見あたらなかった。
-Mientras troto por la calle, no veo a nadie más llevando uniforme escolar.
+Mientras troto por la calle, no veo a nadie más en uniforme escolar.
 }
 [sha:f1e3ddfff0d8f4a64386d180a7c4e491a1738749]{
 -- Page 108, Offset 2883.
 -- 昨日の南口駅前と違い、北口駅前は通勤ラッシュで混雑していた。
-A diferencia del sur de la estación de ayer, el norte está repleto de trabajadores.
+A diferencia del sur de la estación de ayer, el norte está repleto de transeúntes.
 }
 [sha:6442755021db59e2927e1cf3d4d477303d39d070]{
 -- Page 108, Offset 2884.
 -- スーツ服の会社員たちが早足で過ぎていく、いつも通りの光景だ。
-Hay trabajadores de cuello blanco en traje apresurándose de un lado a otro, como siempre.
+Como siempre, hay trabajadores trajeados apresurándose de un lado a otro.
 }
 [sha:7385829f7dacd1c3b9c93204d24ee557168b36c3]{
 -- Page 109, Offset 2885.
 -- ここ数日に起きている物騒なニュースも彼らにはどこ吹く風なのだろう。
-Las inquietantes noticias de los recientes eventos parecen no tener efecto sobre ellos.
+Las noticias inquietantes sobre los eventos recientes parecen no tener efecto sobre ellos.
 }
 [sha:a41ecd0405273a8fb28bd5b0192abd0a2bfee9dc]{
 -- Page 109, Offset 2886.
@@ -262,7 +260,7 @@ Eso o se sienten un poco incómodos, pero no es suficiente como para que se desv
 [sha:f80e254729b6d6b5b4d8b5238161099a0182d32b]{
 -- Page 110, Offset 2887.
 -- どちらにせよ街に変化はない。
-De todos modos, la ciudad no ha cambiado.
+Sea como sea, la ciudad no ha cambiado.
 }
 [sha:5a74a1484ad721945ed40400ead74d820a967023]{
 -- Page 110, Offset 2888.
@@ -297,5 +295,5 @@ Tal y como le dije a Hisui, he tardado unos treinta minutos en llegar a las puer
 [sha:47216f694c30389b29c80d8fb68cba577a3520a8]{
 -- Page 112, Offset 2894.
 -- 途中で何度か走ったので、ゆっくり登校したいのなら７時半前には屋敷を出ればいい。
-Corrí un par de veces de camino, así que si quiero llegar a la escuela más tranquilamente, debería salir de la mansión antes de las siete y media.
+De camino corrí un par de veces, por lo que si quiero llegar a la escuela con más tranquilidad, debería salir de la mansión antes de las siete y media.
 }

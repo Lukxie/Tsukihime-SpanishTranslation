@@ -31,12 +31,12 @@ Sin mencionar que  tienes que lidiar con tu terrorífica hermana pequeña, ¿no?
 [sha:99df5cdcda33b0a3c248edc776cc069a4ae9d8db]{
 -- Page 510, Offset 17840.
 -- 「いや怖くないし」
-"Ey, no me asusta."
+"Oye, que no me asusta."
 }
 [sha:6a252792b1fd6445227b8e884cecbacec79412fe]{
 -- Page 511, Offset 17841.
 -- 問題を棚上げしてるだけだし。
-Aún %{i}tengo%{/i} que encararla tarde o temprano.
+%{i}Tendré%{/i} que encararla tarde o temprano.
 }
 [sha:4ad806c528ed7b4711f8b8c52acb42e6e259f15b]{
 -- Page 511, Offset 17842.
@@ -46,7 +46,7 @@ Ignorando todo eso por un segundo―――
 [sha:3f6b2bd11768803bba43dc3c369da3afa6595d7f]{
 -- Page 512, Offset 17843.
 -- 「で、明日からの予定は？　どこで待ち合わせる？」
-"Entonces, ¿cuál es el plan para mañana? ¿Donde quieres quedar?"
+"Entonces, ¿cuál es el plan para mañana? ¿Dónde quieres quedar?"
 }
 [sha:1258894705b1f3506d7e94cd9d5650257ed1225f]{
 -- Page 512, Offset 17844.
@@ -66,7 +66,7 @@ Como si fuera a ir buscando vampiros desarmado.
 [sha:0b31602663348084ad96d41e675d659c576b8aca]{
 -- Page 514, Offset 17847.
 -- 「でも10時か……」
-"Diez en punto. eh..."
+"Diez en punto, eh..."
 }
 [sha:c3e050451cc9cdfba1fcd8220c06afada4e38bb4]{
 -- Page 514, Offset 17848.
@@ -121,7 +121,7 @@ El vampiro de blanco se despide de mí con el tono más gentil y se marcha.
 [sha:f22a5b30e9f21bdab782e88561db1995fcb056c2]{
 -- Page 518, Offset 17858.
 -- 「……なんだよ。やればできるじゃんか」
-"Que narices... así que puedes hacerlo."
+"Vaya... al final si que podías hacerlo."
 }
 [sha:c28d2e9dd984ecb849f6a0faaa3f7380c522ba5a]{
 -- Page 518, Offset 17859.

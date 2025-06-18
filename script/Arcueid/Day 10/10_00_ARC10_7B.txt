@@ -13,6 +13,7 @@ No veo a Arcueid por ninguna parte.
 -- 街は広すぎて、何の手がかりもなしで人間ひとりを捜し当てるのには時間が足りない。
 La ciudad es demasiado grande, y no tengo pistas que seguir.
  No hay tiempo para ir mirando cada esquina.
+ 
 }
 [sha:d9843a72281980e188a52c695575d602a96953f7]{
 -- Page 761, Offset 26341.

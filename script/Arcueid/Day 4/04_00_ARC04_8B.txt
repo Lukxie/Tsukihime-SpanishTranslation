@@ -6,12 +6,12 @@ La noche está llegando a su fin.
 [sha:b160d6f8953fb892eb94f9511d3d734195be1a11]{
 -- Page 10025, Offset 7331.
 -- アルクェイドはベッドの上に腰をおろし、
-Arcueid está apoyada en el borde de la cama
+Arcueid está apoyada en el borde de la cama.
 }
 [sha:ce73f0c6831d6fdb62eaba3b020765e1eb0b0b5b]{
 -- Page 10025, Offset 7332. Mods: @n.
 -- 俺はソファーに座って、ぼんやりと時計を眺めていた。
-Mientras que yo, estoy sentado en el sofá, distraído mientras miro el reloj.
+Mientras que yo, estoy sentado en el sofá, distraído mirando el reloj.
 }
 [sha:48c401a113fe84f2a2a680fc138a15f3f61e163c]{
 -- Page 662, Offset 7333.
@@ -31,7 +31,7 @@ Falta como una hora para el amanecer.
 [sha:a0186cf4e5f0820b74dc0bb4827f6ab7708efa67]{
 -- Page 663, Offset 7336.
 -- 今までこれといった異常はなかったし、アルクェイド本人は緊張している素振りさえない。
-No ha pasado nada de momento, y Arcueid no muestra ninguna señal de estar nerviosa.
+De momento no ha pasado nada, y Arcueid no muestra ninguna señal de estar nerviosa.
 }
 [sha:9032c6a4cd1146e548f4c8edae372b558ac4d20b]{
 -- Page 663, Offset 7337.
@@ -67,26 +67,26 @@ Arcueid me llama por enésima vez.
 [sha:0172c17dff61e9813e699290e01f3c325d8ef3e8]{
 -- Page 666, Offset 7343.
 -- 「そうなの？　せっかくこうしてるのにもったいないね」
-"¿De veras? Hemos venido hasta aquí, sería un desperdicio estar sentado sin hacer nada."
+"¿De veras? Hemos venido hasta aquí, sería un desperdicio estar sentados sin hacer nada."
 }
 [sha:09ac056bf983a90d5cb6abf3dfe0f52a6668bfcf]{
 -- Page 667, Offset 7344.
 -- 「……あのな。さっきからどれだけお喋りに付き合ってると思ってるんだ。
-"Arcueid... ¿Cuanto tiempo crees que llevamos hablando?"
+"Arcueid... ¿Cuánto tiempo crees que llevamos hablando?
 }
 [sha:33aedefe7c9ad229c1673a3059aa1ce29e5ba1d8]{
 -- Page 667, Offset 7345.
 -- ６時間だぞ、６時間。なにが疲れたかって、見張りなんかよりそっちのほうが疲れたよ、俺は」
-// Rarillo
-Han sido seis horas. %{i}Seis%{/i}.
- Si me preguntasen qué me cansa, hablar contigo claramente más que montar guardia."
+//Rarillo
+Ya van seis horas. %{i}Seis%{/i}.
+ Si me preguntas qué me cansa, hablar contigo claramente más que montar guardia."
 }
 [sha:9fd2c2de99a1f7e4439d2c37ae23da54b876fdd8]{
 -- Page 668, Offset 7346.
 -- むっ、とアルクェイドは不満そうにこちらを睨む。
-Arcueid me mira con disgustada.
+Arcueid me mira disgustada.
 }
-[sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
+[offset:7347]{
 -- Page 668, Offset 7347.
 -- そう。
 Solo digo las cosas como son.
@@ -109,9 +109,9 @@ La he dicho que si se siente débil es mejor que duerma, pero―――
 [sha:87e6fef4dfe7b17e2bae408dc00404209764406e]{
 -- Page 669, Offset 7351.
 -- なんて、結局こうして二人で向かい合ってしまっている。
-Simplemente no me escucha, por lo que acabamos hablando mucho.
+Simplemente no me escucha, por lo que acabamos hablando de muchas cosas.
 }
-[sha:8b99d41e162a8989b33dc4f7f1fd488b1f0248d9]{
+[offset:7352]{
 -- Page 670, Offset 7352.
 -- 「………はあ」
 "%{i}Haaaa%{/i}..."
@@ -164,15 +164,15 @@ Comer algo normal sería beneficioso, seguro,
 -- 「普通の食事って、食事に普通も特別も―――」
 "¿Algo normal? No creo que haya comidas normales o especiales―――"
 }
-[sha:07a952ee73f73210c7ae0c0cf23d9ef19f4d4ac7]{
+[offset:7362]{
 -- Page 674, Offset 7362.
 -- ……ああ、そうだった。
-Ah...cierto.
+Oh... cierto.
 }
 [sha:8435039ef40e84450cbc09f5f3522d774f308a64]{
 -- Page 674, Offset 7363.
 -- とてもそうは見えないが、アルクェイドは吸血鬼らしい。
-No lo parece en absoluto, pero Arcueid es un vampiro supuestamente.
+No lo parece en absoluto, pero supuestamente Arcueid es un vampiro.
 }
 [sha:40120cbf34cbcb2dd0fba80ee79637f1c9be4145]{
 -- Page 674, Offset 7364.
@@ -187,7 +187,7 @@ Arcueid dijo antes que los vampiros necesitan sangre humana para sobrevivir.
 [sha:cb1e082287a4a988c2c3e6ffa6d8237262fad149]{
 -- Page 675, Offset 7366.
 -- なら―――こいつは今まで誰の血を吸って、何人の人間を殺してきたのだろう？
-Si es cierto――a quién le ha chupado la sangre, y por lo tanto, ¿a cuántos humanos ha matado?
+Si eso es cierto――a quién le ha chupado la sangre, y por lo tanto, ¿a cuántos humanos ha matado?
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 676, Offset 7367.
@@ -199,7 +199,7 @@ Si es cierto――a quién le ha chupado la sangre, y por lo tanto, ¿a cuántos
 -- ちらり、とアルクェイドの顔を盗み見る。
 Miro a Arcueid de reojo.
 }
-[sha:47d942c77a8ea227b031e92acc8b9fb14f0a0edd]{
+[offset:7369]{
 -- Page 676, Offset 7369.
 -- ……どうかしている。
 Esto es ridículo...
@@ -214,10 +214,10 @@ Aunque me haya explicado varias veces que es un vampiro, simplemente no me la pu
 -- 「なに？　わたしの顔になんかついてる？」
 "¿Qué? ¿Tengo algo en la cara?"
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:7372]{
 -- Page 677, Offset 7372.
 -- 「……！」
-¡Ah!
+"¡%{i}Ah%{/i}!"
 }
 [sha:4db40cfdd41a79e223de7b61301c838e142952e0]{
 -- Page 677, Offset 7373.
@@ -232,22 +232,22 @@ Arcueid me mira intensamente por un segundo,
 [sha:b119b6cf25140eae355aded285e5f0d6fcff736b]{
 -- Page 677, Offset 7375. Glued. Mods: @x.
 -- ふふん、と意味ありげな笑みを洩らした。
-y entonces me lanza una sonrisa traviesa.
+ y entonces me lanza una sonrisa traviesa.
 }
 [sha:08cce706b8cf16536b085cb45e6108c905d409ed]{
 -- Page 678, Offset 7376.
 -- 「気になる？」
-Tienes curiosidad, ¿cierto?
+¿Te da curiosidad?"
 }
 [sha:bb3e988359bee2c306ce308ab3c17deae35bb481]{
 -- Page 678, Offset 7377.
 -- 「な、なにが」
-"¿S-Sobre qué?"
+"¿E-El qué?"
 }
 [sha:f8a85200ed2ccbec9f9273ccaf38b15431c6f81c]{
 -- Page 678, Offset 7378.
 -- 「わたしがどのくらいの数、人間から血を吸ったのか、気になる？」
-"Sobre a cuanta gente le he chupado la sangre. ¿Quieres saberlo?"
+"A cuanta gente le he chupado la sangre. ¿Quieres saberlo?"
 }
 [sha:572e83e24f3b5bace06ec6bb0126990d39d8158f]{
 -- Page 678, Offset 7379.
@@ -277,7 +277,7 @@ No me gusta a donde va esto――aún así, no puedo evitar preguntarme a cuanta
 [sha:98180bf96e5a68748ae5743131faa3f04d7ec6d5]{
 -- Page 680, Offset 7384.
 -- それぐらい知っとかないと、いつおまえが心変わりして襲いかかってくるか、予測がつかないだろ」
-Si no se ni siquiera eso, ¿como se supone que voy a predecir cuando vas a cambiar de opinión y atacarme?"
+Si ni siquiera sé eso, ¿como se supone que voy a predecir cuando vas a cambiar de opinión y atacarme?"
 }
 [sha:61ec9ce7654fc0ae22c2a1c177ad145b8792b4e4]{
 -- Page 681, Offset 7385.
@@ -302,7 +302,7 @@ Arcueid parece haber entendido lo que digo.
 [sha:369e229cc97c98b2f470226e1885cf28376d7ba5]{
 -- Page 683, Offset 7389.
 -- タン、と軽やかにベッドから跳ねて、アルクェイドは窓の近くまで歩いていく。
-Arcueid salta de la cama, aterriza suavemente en el suelo,  y camina hacia la ventana.
+Arcueid salta de la cama, aterriza suavemente en el suelo, y camina hacia la ventana.
 }
 [sha:7b9655128199d34bd7efa57f2f1a766bfed5f213]{
 -- Page 684, Offset 7390.
@@ -312,7 +312,7 @@ Arcueid salta de la cama, aterriza suavemente en el suelo,  y camina hacia la ve
 [sha:ce76c871bb79f961b7abea76ef32c96a60a7e267]{
 -- Page 684, Offset 7391.
 -- アルクェイドはにまにまと笑って、黙りこむ俺を愉快そうに眺めている。
-Sonriendo satisfecha. Parece estar disfrutando de como me esfuerzo por responder.
+Sonríe satisfecha. Parece estar disfrutando de como me esfuerzo por responder.
 }
 [sha:5c1a1e24d0afbb58ac3325edb4b02795d018f928]{
 -- Page 684, Offset 7392.
@@ -322,7 +322,7 @@ Es obvio que intenta provocarme.
 [sha:d963d6f4645d72480f11b7fdf8cdb235c7be1099]{
 -- Page 685, Offset 7393.
 -- ……いいとも、スッパリ答えてやる。
-Vale... la responderé directamente.
+Vale... le responderé directamente.
 }
 [sha:1f1d25986bded7a31f1f06457f5780d3c24d9899]{
 -- Page 685, Offset 7394. Mods: @k, @e.

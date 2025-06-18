@@ -11,7 +11,7 @@ Las cortinas oscilan, ondeando de un lado a otro.
 [sha:da06e4df1f2a777c984455bcdfab696267bb21e5]{
 -- Page 1, Offset 109.
 -- 開け放たれた窓から<肌寒|はだざむ>い風が流れてくる。
-Una brisa fresca sopla a través de la ventana abierta.
+A través de la ventana abierta sopla una brisa fresca.
 }
 [sha:9266125e2d4c687d54f0e721502b6940fc27e13c]{
 -- Page 1, Offset 110.
@@ -42,18 +42,18 @@ Mi mente no puede mantener el ritmo.
 -- Page 3, Offset 115.
 -- 起き上がろうと手に力を入れると、手より先に体の方がビクンとはねた。
 Intento incorporarme,
- pero tan pronto como pongo algo de peso en mis manos, un espasmo recorre mi cuerpo.
+ pero tan pronto como pongo algo de peso sobre mis manos, un espasmo me recorre el cuerpo.
 }
 [sha:68211693d92344c1a3624f97a04c96007bcf6b34]{
 -- Page 3, Offset 116.
 -- 息を止めて、魚みたいに口をぱくぱくさせる。
-Me quedo sin respiración,
- dejándome en busca de aire como pez fuera del agua.
+Dejándome sin respiración, 
+ en busca de aire como pez fuera del agua.
 }
 [sha:cf62de6f9d1d5c6d4b3f5868d8083a0dc6d8457c]{
 -- Page 4, Offset 117.
 -- こういうのを、目から火がでる、と言うのだろう。
-Esto es a lo que la gente se refiere cuando dicen que están viendo las estrellas.
+A esto se refiere la gente cuando dicen que están viendo las estrellas.
 }
 [sha:bd3eff691bbd3414df893431f851372454ab4e23]{
 -- Page 4, Offset 118.
@@ -85,18 +85,18 @@ Mi pierna izquierda envuelta en escayola blanca.
 -- Page 6, Offset 123.
 -- おでこまわりがやけに窮屈なので、たぶん頭にも包帯が巻かれている。
 Puedo sentir algo apretándome la frente,
- así que no hay duda que mi cabeza también está envuelta en vendas.
+ por lo que no hay duda que mi cabeza también está envuelta en vendas.
 }
 [sha:5ab0defeaf0efc80ecb5b5337dcd67c2468bb9c1]{
 -- Page 6, Offset 124.
 -- 胸には都合の悪いものを隠すように、大きくて分厚い、<絆創|ばんそう><膏|こう>のようなものが貼られている。
-Un largo, vendaje adhesivo está fijado a mi pecho,
+Hay un largo vendaje adhesivo fijado a mi pecho,
  como si cubriese algo antiestético.
 }
 [sha:c6950d69e123b419a6177a7d57050827f6568950]{
 -- Page 7, Offset 125.
 -- 左腕には一本のチューブが刺さっている。
-Hay un único tubo insertado en mi brazo izquierdo.
+Un tubo insertado en mi brazo izquierdo.
 }
 [sha:25059177d0ac65c3d3c775110860540f2383ea43]{
 -- Page 7, Offset 126.
@@ -106,12 +106,12 @@ De alguna forma entiendo que es una vía de suero.
 [sha:111e3f065c195fd68a07d739392d2e5b99ad3934]{
 -- Page 8, Offset 127.
 -- こうして目が覚める前、夢うつつにまわりを見ていたおかげだろう。
-Supongo que es porque era ligeramente consciente de mi entorno incluso antes de despertar completamente.
+Supongo que es porque era ligeramente consciente de mi entorno incluso antes de despertar por completo.
 }
 [sha:659e0231be94ace40312ffe55d2d4cf765af15b6]{
 -- Page 9, Offset 128.
 -- ここより暗くて薬品くさかった部屋も、
-La habitación que apestaba a medicina, y era mucho más oscura que esta.
+La habitación que apestaba a medicina, mucho más oscura que esta.
 }
 [sha:ffd57aad048cd44930984c790539ef48eff1f527]{
 -- Page 9, Offset 129.
@@ -121,17 +121,17 @@ Los incontables tubos que sobresalían del vendaje de mi pecho.
 [sha:d6ec08b8282bc19af3ddd88383f846686f0411b3]{
 -- Page 9, Offset 130.
 -- お見舞いに来た怖い背広姿のオトナも、
-El siniestro adulto trajeado que me visitó.
+La visita del siniestro adulto trajeado.
 }
 [sha:02f39cc1e0bc11c4ce902d8fef2ea625c0db2ecf]{
 -- Page 9, Offset 131.
 -- そのオトナに叱られながら来てくれた妹の姿も、
-Mi hermana que vino a visitarme aunque ese adulto le dijese que no lo hiciera.
+Mi hermana, que vino a visitarme a pesar de que ese adulto le dijese que no lo hiciera.
 }
 [sha:8d4eb666f0a8b44cead50b262747eeb41c55ca14]{
 -- Page 9, Offset 132.
 -- コドモみたいにはしゃぐ博士の姿も、
-// Exuberancia, brío suena muy español
+//Exuberancia, brío suena muy español
 El doctor que era tan exuberante como un niño.
 }
 [sha:3505edcb4122313bfc12071f77b6463f442f23f1]{
@@ -177,7 +177,8 @@ Entiendo que tenga prisa, pero se supone que no debes correr en el hospital.
 [sha:7bc6ea57aa2af46f2a17c1c6ba5ae17bfacc449d]{
 -- Page 12, Offset 141.
 -- 体は起こせないので、首をまわして窓を見あげる。
-El doctor que era tan exuberante como un niño.
+Incapaz de incorporarme,
+ me giro para mirar por la ventana.
 }
 [sha:86c9497a9cb17590535686c552946ff1d14baeab]{
 -- Page 12, Offset 142.
@@ -192,7 +193,7 @@ Mi cerebro se siente como si lo hubieran revuelto con un cuchillo.
 [sha:9d165413c61940c90ae88fa2a4b0fe2632150c13]{
 -- Page 13, Offset 144.
 -- 本当に―――うそみたいに青い空。
-Realmente――un increíble cielo azul.
+De verdad――que cielo tan increíblemente azul.
 }
 [sha:d0566ccb25edb138e68792ae91c13e9e3dd45d3b]{
 -- Page 13, Offset 145.
@@ -207,12 +208,12 @@ Unos días después.
 [sha:5269ac7a467fb038325a2a3d18500bfa899f6f08]{
 -- Page 14, Offset 147.
 -- 目を覚ましてからしばらく、僕はベッドから動けなかった。
-Por un tiempo después de levantarme, no podía moverme de la cama.
+Durante un tiempo, no pude moverme de la cama tras levantarme.
 }
 [sha:deb2185e81d3e63633522f6218e647510b8b05da]{
 -- Page 15, Offset 148.
 -- 見上げた外はあいかわらずの高い空。
-Mirando hacia arriba, puedo ver el cielo fuera, tan noble como siempre.
+Al mirar hacia arriba, puedo ver el cielo fuera, tan noble como siempre.
 }
 [sha:fc2cf8c8468df9834e3a1d93f220f5b82b65fa9b]{
 -- Page 15, Offset 149.
@@ -264,7 +265,7 @@ Continuo mirando por la ventana,
 [sha:26d261e48d79f9d3c3d74bd1ee50179ce2c528f0]{
 -- Page 18, Offset 158.
 -- 初めて見るおじさんは、そう言って握手を求めてきた。
-Dice un hombre viejo, el cual no nunca había visto antes de acercarse para darme un apretón de manos.
+Dice un hombre viejo, el cual no nunca había visto, antes de acercarse para darme un apretón de manos.
 }
 [sha:655646ec9d905d283b2a8755762a35e22bb64c78]{
 -- Page 19, Offset 159.
@@ -279,17 +280,18 @@ Estoy seguro de que es alguien capaz de cambiar de una sonrisa a una cara seria 
 [sha:5bf3b31331ff5121fbb8baf9fb1547bc3b0ae6c9]{
 -- Page 19, Offset 161.
 -- 清潔そうで無駄のない白い服も、このおじさんにはぴったりだった。
-Sus ropas blancas lucen solemnes, e inmaculadamente limpias.
+Sus ropas blancas lucen solemnes e inmaculadamente limpias.
+ Le quedan muy bien.
 }
 [sha:a0d11c2e13dcbfa15243700631640b6f73237bcf]{
 -- Page 20, Offset 162.
 -- 「志貴くん？　先生の言っている事が分かるかい？」
-"¿Puedes entender lo que te digo, Shiki-kun?
+"¿Puedes entender lo que te digo, Shiki-kun?"
 }
 [sha:606ceef7afe1ca481192b33631c60190c87050a2]{
 -- Page 20, Offset 163.
 -- 「……いえ。僕はどうして病院にいるんですか」
-"No... ¿por qué estoy en un hospital?
+"No... ¿por qué estoy en un hospital?"
 }
 [sha:82285333c918c2a0f791952ea47860787317ccb9]{
 -- Page 20, Offset 164.
@@ -310,12 +312,12 @@ Sonriendo, el hombre viejo de blanco dice algo impropio de un doctor.
 [sha:e8e9ce1061f7528f64078902f027bf1550b3a564]{
 -- Page 21, Offset 167.
 -- “とても助かる傷ではなかった”
-'No parecía que fueras a superarlo'
+No parecía que fueras a superarlo'
 }
 [sha:dea211c55bce1d9c7ebeeeae44fe0dbf6c6c7ed2]{
 -- Page 21, Offset 168.
 -- その表現に、こらえていた吐き気があふれだす。
-Ante esas palabras, las náuseas que estuve aguantando empiezan a salir.
+Ante esas palabras, las náuseas que estuve aguantando salen a la luz.
 }
 [sha:e6bf32ed88f0353b6b8c772297e768046775b0cb]{
 -- Page 22, Offset 169.
@@ -350,17 +352,17 @@ Para ser sincero, no puedo aguantar más esa sonrisa.
 [sha:807ca6b12d3472a2d64790f1625b187ca8ef2e85]{
 -- Page 24, Offset 175.
 -- 「なにかな、志貴くん」
-"¿Qué es, Shiki-kun?"
+"¿Qué ocurre, Shiki-kun?"
 }
 [sha:38c09e65dc467acf173bad50445c9253bf1c5c01]{
 -- Page 25, Offset 176.
 -- 「どうして体じゅうにラクガキをしているんですか。
-¿Por qué hay garabatos por todo tu cuerpo?
+"¿Por qué hay garabatos por todo tu cuerpo?
 }
 [sha:363095e769abc743bb70a28e0a7d688366794405]{
 -- Page 25, Offset 177.
 -- この部屋もところどころヒビだらけで、いまにもくずれちゃいそうです」
-¿La habitación también está cubierta en grietas, parece que se va a caer a trozos."
+La habitación también está cubierta en grietas, parece que se va a caer a trozos."
 }
 [sha:ef91c32550f5edf79c8ba08d3245f40620d74881]{
 -- Page 26, Offset 178.
@@ -380,7 +382,7 @@ Las botas del doctor taconean mientras cruza la habitación y se desvanece detr�
 [sha:1cceea435a255c7199891e9674b6cd239043b52a]{
 -- Page 27, Offset 181.
 -- 脳外科の芦家先生に連絡を。それと視神経にも損傷の疑いがあるな。午後は眼科検査に回すように」
-Contacten al Doctor Ashiya del departamento de neurocirugía. También sospecho algo de daño a los nervios ópticos. Registradle para un examen ocular esta tarde."
+Contacten al Doctor Ashiya del departamento de neurocirugía. También sospecho algo de daño en los nervios ópticos. Registradle para un examen ocular esta tarde."
 }
 [sha:bd43309f348c903bd13daa178b9eeaf5dcfe52e7]{
 -- Page 27, Offset 182.
@@ -400,7 +402,7 @@ Las líneas recorren al azar cada superficie del hospital.
 [sha:8f25bc3f977405215001bb2122a7399cb1cb5590]{
 -- Page 29, Offset 185.
 -- 意味はよくわからないけど、見ているだけでとても気持ちがわるい。
-No sé lo que significan, pero me siento enfermo al mirarlas.
+No sé lo que significan, pero me enferma mirarlas.
 }
 [sha:fa8082264461ec404f21984ec538dc45f65a755b]{
 -- Page 30, Offset 186.
@@ -415,7 +417,7 @@ En la cama también hay garabatos.
 [sha:24bd1a6f19b6b7b6f7f0296dd09cc61e113efec7]{
 -- Page 30, Offset 188. Mods: @n.
 -- 指で触ってみたら、
-Cuando las toco con el dedo...
+Cuando los toco con el dedo...
 }
 [sha:486f7551795584d80777e1b6d53f7d5ee853dee7]{
 -- Page 30, Offset 189. Glued. Mods: @n.
@@ -425,7 +427,7 @@ Cuando las toco con el dedo...
 [sha:0903adb46bfa52619f81304348559c5c5307d348]{
 -- Page 30, Offset 190. Glued.
 -- と指先が沈みこんだ。
-mi dedo se hunde en ella.
+mi dedo se hunde en ellos.
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 31, Offset 191.
@@ -435,7 +437,7 @@ mi dedo se hunde en ella.
 [sha:3f520afbacb6e0a1297a04fef139190124e05e02]{
 -- Page 31, Offset 192.
 -- もっと細い物なら奥まで沈みそうだった。
-Si tuviera algo fino, podría profundizar más.
+Si tuviera algo fino, podría profundizar aún más.
 }
 [sha:4559fdc24fcb27936eab0e6e8b4a1eea4022520c]{
 -- Page 31, Offset 193.
@@ -445,7 +447,7 @@ Cojo un cuchillo de plástico de la estantería y trazo uno de los garabatos.
 [sha:cc4d48157edc5df514ac1e3d3ce7e0cf35235e7e]{
 -- Page 31, Offset 194.
 -- これっぽっちも力を入れていないのに、ナイフは根元までラクガキの中に沈みこんだ。
-Aunque casi no pongo fuerza en ello,
+A pesar de casi no poner fuerza en ello, 
  el cuchillo se hunde hasta el fondo.
 }
 [sha:16c418d057de5376dd6e249c9c78719285871589]{
@@ -466,7 +468,7 @@ Con un sonido intenso, la cama se separa limpiamente en dos.
 [sha:647fd96c7254755319754ac5697f34b3b1bbe98d]{
 -- Page 33, Offset 198.
 -- 「きゃあああああ！」
-"%{i}Kyaaaahhh%{/i}!"
+"¡%{i}Kyaaaahhh%{/i}!"
 }
 [sha:623ce41eb50ee0d05928080d8902d04f0a2450a5]{
 -- Page 34, Offset 199.
@@ -486,7 +488,7 @@ La enfermera está de pie en la puerta, su cara congelada del miedo.
 [sha:5cecebc0f209afa8d2bf3751ebe4026e9b127be4]{
 -- Page 35, Offset 202.
 -- お医者さんはベッドを壊した理由じゃなくて、その方法をしつこく聞いてきた。
-El sigue preguntando %{i}como%{/i} he roto la cama,
+Sigue preguntando %{i}como%{/i} he roto la cama,
  pero nunca %{i}por qué%{/i}.
 }
 [sha:c0b20db6b804363cda397f8d80d15f43bb582d7c]{
@@ -502,7 +504,7 @@ Ey, ¿por qué este hospital tiene grietas por todos lados?"
 [sha:800879c9d2077b0f4883dbb5a996f269f1933586]{
 -- Page 37, Offset 205.
 -- 「いいかげんにしないか志貴くん。そんな線なんてないんだ。それで、どうやってベッドを壊したんだい。怒らないから教えてくれないかな」
-"Vale. Es suficiente, Shiki-kun. No hay dichas líneas. Así que dime, ¿cómo rompiste la cama? No me voy a enfadar, así que dímelo."
+"Suficiente, Shiki-kun. No hay dichas líneas. Así que dime, ¿cómo rompiste la cama? Dímelo, no me voy a enfadar."
 }
 [sha:36b6c3a3a34930528f445dac8049bb3a0a37d48b]{
 -- Page 38, Offset 206.
@@ -512,7 +514,7 @@ Ey, ¿por qué este hospital tiene grietas por todos lados?"
 [sha:28e57b4f78d5b94873a477a5e54e100bd895273f]{
 -- Page 38, Offset 207.
 -- 「……わかった。この話はまた明日にしよう」
-"Ya veo... ¿Por qué no hablamos de esto mañana?
+"Ya veo... ¿Por qué no hablamos de esto mañana?"
 }
 [sha:10f98274c1bea2b3c330a9df493562799d3fec09]{
 -- Page 39, Offset 208.
@@ -527,12 +529,12 @@ Desde que mencioné los garabatos, su amable sonrisa no se ve por ninguna parte.
 [sha:7295476951b7ddd13b53fec5b65a11f84fd50434]{
 -- Page 39, Offset 210.
 -- きっと切り替えスイッチが故障したのだ。
-Estoy seguro que su 'botón' se ha roto
+Estoy seguro que su 'botón' se ha roto.
 }
 [sha:d737c9fdb8ab8bd342e59fe750fcf1638415c1ca]{
 -- Page 39, Offset 211.
 -- この病院は壊れやすいものばかりらしい。
-Parece que este hospital está lleno de cosas frágiles de todo tipo.
+Parece que este hospital está lleno de todo tipo de cosas frágiles.
 }
 [sha:29cb642fbb645adab16ea480a767a12056358865]{
 -- Page 40, Offset 212.
@@ -542,8 +544,8 @@ Al final, nadie me creyó.
 [sha:2453c12428e17b5c8e9edaa2f7e5552632d1a23d]{
 -- Page 41, Offset 213.
 -- あのラクガキをナイフで切ると、それがなんであろうとキレイに切れた。
-Si trazo los garabatos de algo con un cuchillo, puedo cortar a través de ello.
- No importa lo que sea.
+Si trazo los garabatos en algo con un cuchillo, puedo cortar a través de ello.
+ Sin importar lo que sea.
 }
 [sha:20cb91f0a7a650e5124f3d1201b48e5deba5770f]{
 -- Page 41, Offset 214.
@@ -553,7 +555,7 @@ No necesito emplear fuerza en ello.
 [sha:209fa87fd98aaf0c642045c8d17b73e1d0a2aa7f]{
 -- Page 41, Offset 215.
 -- 紙をハサミで切るみたいに、簡単に切ることができた。
-Puedo cortar tan fácil como corto papel con tijeras.
+Puedo cortarlo tan fácil como cortar papel con tijeras.
 }
 [sha:7d69e5b32f3f9a017582b8502e23262a56dd563a]{
 -- Page 42, Offset 216.
@@ -594,10 +596,10 @@ Marcas como la que hay en mi pecho, que aún no ha sanado tras la cirugía,
 [sha:c0636055796ef57bfe30cf72eac0346020f77007]{
 -- Page 44, Offset 223.
 -- だって、そうでもなければ子供の力で壁を切れるはずがない。
-Me refiero, ¿cómo sino explicarías que un niño corte a través de una pared?
+Quiero decir, ¿cómo explicarías sino que un niño corte a través de una pared?
  Ningún niño tiene ese tipo de fuerza.
 }
-[sha:2e95d9c5d54409753e34109ef5d60277fb88c6cb]{
+[offset:224]{
 -- Page 45, Offset 224. Mods: @n.
 -- 「―――、
 "
@@ -615,24 +617,24 @@ La enfermera me está gritando de nuevo.
 [sha:18b5b605800cfc3b10cfce5ec4b0bc241643cf51]{
 -- Page 45, Offset 227.
 -- 凹凸に切り抜かれた壁を見て、僕のことを<睨|にら>んでいる。
-Echó un vistazo al agujero serrado cortado en la pared,
- y empezó a mirarme.
+Echó un vistazo al agujero serrado en la pared,
+ y empezó a mirarme mal.
 }
 [sha:ea91e9320f89c84d56db0047b8902d847d2d5a74]{
 -- Page 46, Offset 228.
 -- カナキリ声は伸びる、伸びる。
-Continúa gritando una y otra vez con una voz chillona.
+Me sigue gritando una y otra vez con una voz chillona.
 }
 [sha:254bce41b3edf1119606f57d1cb13ed1cd75367a]{
 -- Page 46, Offset 229.
 -- 僕の耳はおかしくなっているので、別にうるさいとも感じないけど。
-Mis oídos ya no funcionan bien,
- así que tampoco me suena tan alto.
+Ya no me funcionan bien los oídos, 
+ así que tampoco suena tan alto.
 }
 [sha:e988767973a8dd9a412569b16084d2ef1dcd5ad7]{
 -- Page 46, Offset 230.
 -- 止まない音は、火のついた<蝉|せみ>みたいで、不安になる。
-El ruido interminable que hace casi suena como una cigarra ardiendo.
+El interminable ruido que hace se parece al de una cigarra ardiendo.
  Me hace sentir incómodo.
 }
 [sha:a345aa121412237e3cd0efd954d9ceb74891773c]{
@@ -643,22 +645,22 @@ Todo se está desmoronando.
 [sha:b37e086d5d5354fff70467a7beb9a9434e0b9375]{
 -- Page 47, Offset 232.
 -- 目を開けているだけで、生きているだけで、消えたくなるほどおぞましい。
-Con sólo abrir mis ojos, con sólo estar vivo, me enferma tanto que simplemente quiero desaparecer.
+Sólo con tener abiertos los ojos, el tan solo estar vivo, me enferma tanto que simplemente quiero desaparecer.
 }
 [sha:3801fd1c0745149b7375340c95be52b7d3b73ca0]{
 -- Page 48, Offset 233.
 -- ……ああ、今まで知らなかった。
-Ah... no me había dado cuenta hasta ahora.
+Ah... hasta ahora no me había dado cuenta.
 }
 [sha:010b89f617615ef1e59d5fe339f0556cc5c729b5]{
 -- Page 48, Offset 234.
 -- セカイはこんなにもツギハギだらけで、
-Que el mundo es una costura improvisada.
+De que el mundo es una costura improvisada.
 }
 [sha:3b64a79edb2cb6ea0e1af36af11ad0848f910617]{
 -- Page 48, Offset 235.
 -- とても壊れやすいトコロだったなんて。
-No tenía idea de que pudiese hacerse pedazos tan fácilmente.
+No tenía idea de la facilidad con la que podía hacerse pedazos.
 }
 [sha:180df0b5568ef7cc021d2d8677150c6d9fc45d04]{
 -- Page 49, Offset 236.
@@ -668,7 +670,7 @@ Nadie más puede verlo.
 [sha:8c21ad411276695f15ca6a9026a0021fc4a5ca7c]{
 -- Page 49, Offset 237.
 -- だから平気なんだろう。
-Supongo que es por eso por lo que pueden estar tan tranquilos.
+Supongo que por eso pueden estar tan tranquilos.
 }
 [sha:8e83a698f814191b24bc89e31fb9dcffa5708328]{
 -- Page 49, Offset 238.
@@ -688,13 +690,13 @@ Pero yo puedo verlo.
 [sha:9ac5038cdd876dc2e11c023be076f0d9f2def2b8]{
 -- Page 49, Offset 241.
 -- こわくてこわくて歩けない。
-Y me asusta tanto que ni siquiera hablar.
+Y me asusta tanto que ni siquiera puedo hablar.
 }
 [sha:65cb39c0fb78e6f9bd699e0c15af7167133b3034]{
 -- Page 50, Offset 242.
 -- そういえば、あれから耳は凍ったままで、音はするのにとても静かだ。
-// Se le congeló el canal auditivo xdd no se como traducir esto propiamente la verdad.
-Desde el momento que me di cuenta de eso, es como si mis oídos se hubieran taponado por congelación.
+//Se le congeló el canal auditivo xdd no se como traducir esto propiamente la verdad.
+Desde entonces, es como hubieran taponado mis oídos con algo.
  Aunque algo haga ruido, todo lo que escucho es silencio.
 }
 [sha:10521369a69f688adcdec08cef06e4af9e26df2a]{
@@ -753,7 +755,7 @@ Lo único roto aquí soy yo.
 [sha:66a4a266741a5b41aaf7c54d56efa0ead9a2a56b]{
 -- Page 52, Offset 253.
 -- だからだろう。
-Es por eso que...
+Probablemente por eso...
 }
 [sha:d43f23018f3c49823d501abc85c21704da8e8660]{
 -- Page 52, Offset 254.
@@ -785,7 +787,7 @@ No quiero estar en la habitación de hospital.
 [sha:a7a4c3c5ed75e38f07fe6a9eaedd7fa6a9b01909]{
 -- Page 53, Offset 259.
 -- ラクガキだらけのトコロにいたくない。
-No quiero estar en ningún sitio lleno de garabatos.
+No quiero estar en ningún sitio lleno de esos garabatos.
 }
 [sha:41ec505aac191030b79a22cbb6798394b30aabb5]{
 -- Page 53, Offset 260. Mods: @n.
@@ -805,15 +807,15 @@ Yo no soy el loco.
 [sha:a1e92f0d3d96de9617c4c6e7d0afcfbc9019a205]{
 -- Page 54, Offset 263.
 -- この場所がおかしいのだと、自分に言い聞かせるように飛び出した。
-Es este hospital el que está dañado.
+Es este hospital lo que está dañado.
  Al menos, es lo que me digo mientras huyo.
 }
 [sha:70c0cb02cf5d97c5b83a6da15b81e72928c2de91]{
 -- Page 55, Offset 264.
 -- でも胸の傷が苦しくて、少ししか走れなかった。
-Pero la herida de mi pecho duele tanto que no puedo correr mucho tiempo.
+Pero me duele tanto la herida del pecho que no puedo correr mucho tiempo.
 }
-[sha:8fed91a743193516fbe8d1615c604726280220f6]{
+[offset:265]{
 -- Page 55, Offset 265.
 -- 気がつけば。
 Cuando recupero la razón―――
@@ -836,7 +838,7 @@ No he llegado muy lejos.
 [sha:a14feb977c67c073d2d352ab3ca61c2c257bb3f4]{
 -- Page 56, Offset 269.
 -- 胸が痛くて、すごく悲しくて、地面にしゃがみこんで、せきこんだ。
-Me duele el pecho, y me siento tan miserable que me hago una bola en el suelo, tosiendo.
+Me duele el pecho, y me siento tan miserable que mientras toso me hago una bola en el suelo.
 }
 [sha:b842b885900479aa424dc22952672b22402b1ed0]{
 -- Page 57, Offset 270.
@@ -853,7 +855,7 @@ Alguien que puede ver estas líneas no pertenece a ningún sitio.
 -- ごほっ、ごほっ。
 %{i}Cof, cof, cof%{/i}.
 }
-[sha:8dea6399278af44659795699ab27db4c0b28fbe9]{
+[offset:273]{
 -- Page 58, Offset 273.
 -- 誰もいない。
 No hay nadie más aquí.
@@ -867,7 +869,7 @@ Es finales de verano,
 [sha:3b571f96de6aafa8eaa07722af927ddd95b50ce3]{
 -- Page 58, Offset 275.
 -- このまま、消えてしまいそうだった。
-Siento que podría desaparecer tal que así.
+Siento que podría desaparecer así como si nada.
 }
 [sha:28a14a53dfc687e7996d0b6ccf1fbd6309235491]{
 -- Page 59, Offset 276.
@@ -882,22 +884,22 @@ Sin embargo, antes de que eso pueda ocurrir―――
 [sha:5ff0c9161ef62b0abb74c94ff79b67dd4ea4211e]{
 -- Page 59, Offset 278.
 -- はっきりと耳に届く、女の人の声がした。
-Escucho la voz de una mujer, clara como el agua.
+Escucho la voz de una mujer, tan clara como el agua.
 }
 [sha:16b59b0ba8052ad932abedc920e58118c5927909]{
 -- Page 60, Offset 279.
 -- 「え………？」
-"¿Huh...?"
+"¿Eh...?"
 }
 [sha:0b8dd5de5facb93f756d3a4eb8d87d1bba860fca]{
 -- Page 60, Offset 280.
 -- 「え、じゃないでしょ。
-"No me digas 'huh'.
+"No me digas 'eh'.
 }
 [sha:7e9b8e7482cd8cd24f727750df48740712055da7]{
 -- Page 60, Offset 281.
 -- ただでさえちっこいんだから、草むらでうずくまってると見えないのよね。気をつけなさい、あやうく蹴り飛ばされるところだったんだから」
-Ya eres lo suficientemente pequeño. Si te agachas así en la hierba, casi no puedo verte.
+Ya eres pequeño de por si. Si te agachas en la hierba, casi no puedo verte.
  Tienes que ser más cuidadoso, casi te mandan a volar."
 }
 [sha:6cf9af5c49cea474104c38bc611fd86e4b1a86b2]{
@@ -933,12 +935,12 @@ Tu y yo somos los únicos aquí, así que a parte de mi, ¿quién más podría s
 [sha:c93e23eb7f0a3204da3c4a22d8a243b547c5ced7]{
 -- Page 62, Offset 288.
 -- 女の人は腕を組んで、自信たっぷりにそう言った。
-Dice la mujer, de brazos cruzados, rebosante de confianza.
+Dice la mujer de brazos cruzados, rebosante de confianza.
 }
 [sha:7c142297060d6ff19b146bd60f5ef0eae50a1ae5]{
 -- Page 63, Offset 289.
 -- 「ま、ここで会ったのも何かの縁だし、少し話し相手になってくれない？　私は<蒼崎|あおざき><青子|あおこ>っていうんだけど、君は？」
-"Bueno, debe haber sido el destino que nos conozcamos de esta manera, ¿así que por qué no me haces compañía por un rato?
+"Bueno, conocernos de esta forma debe haber sido cosa del destino, ¿así que por qué no me haces compañía por un rato?
  Mi nombre es Aozaki Aoko. ¿Y tu eres?
 }
 [sha:2b6310608fe3c6521063b2010731b72092b1023c]{
@@ -949,7 +951,7 @@ La mujer me extiende alegremente la mano, como si ya fuéramos amigos.
 [sha:c6f02d5ae5c4a826c9c72982fef983fca0a02bc0]{
 -- Page 64, Offset 291.
 -- 断る理由も見当たらなくて、僕は遠野志貴と名前をつげて、吸いこまれるように手のひらを握り返した。
-No puedo encontrar una razón para negarme, así que la digo que mi nombre es Tohno Shiki y dejo que su mano coja la mía.
+No puedo encontrar una razón para negarme, así que la digo que mi nombre es Tohno Shiki y dejo que su mano tome la mía.
 }
 [sha:a926f5bc85f15c1f51eaa894814f3f083449882d]{
 -- Page 65, Offset 292.
@@ -987,7 +989,7 @@ Le cuento sobre mi hermana pequeña Akiha,
 [sha:c384a91254acbc2db5a892b12c6ee0b6ffe0aecb]{
 -- Page 68, Offset 298.
 -- 広い屋敷だから、森のような庭で、いつもあきはと一緒に友達たちと遊んだこと。
-// Bosquecinos no existe en el diccionario, es decir no es correcto. Aún así, según esta puesto expresa la idea correctamente.
+//Bosquecinos no existe en el diccionario, es decir no es correcto. Aún así, según esta puesto expresa la idea correctamente.
 Sobre lo grande que es la mansión en la que vivimos,
  y de cómo jugaba siempre con Akiha y nuestros amigos en los vastos, jardines bosquecinos.
 }
@@ -995,18 +997,18 @@ Sobre lo grande que es la mansión en la que vivimos,
 -- Page 69, Offset 299.
 -- 屋根裏が秘密の場所だったこと。しりとりが苦手になっていたこと。背はまだこれから伸びると思われること。
 Sobre cómo el ático había sido nuestro escondite secreto.
- Como empecé a odiar <Shiri|palabras><tori| encadenadas>.
+ Como empecé a odiar el <Shiri|palabras><tori| encadenadas>.
  Y de como se espera que sea aún más alto.
 }
 [sha:5fa2996d4e01f319765e351359775867eca9e586]{
 -- Page 70, Offset 300.
 -- 好きだった病院の匂いがいつのまにか苦手になっていたこと。
-Sobre como solía gustar el olor del hospital, pero ya no puedo soportarlo más.
+Sobre como me solía gustar el olor del hospital, pero ya no puedo soportarlo más.
 }
 [sha:ccda73135514db93fdafbe8839b6df08e9fad456]{
 -- Page 70, Offset 301.
 -- 雲のない青空はこんなにキレイなのに、見ていると泣きそうになっていること。
-Sobre lo bonito que es el cielo despejado, pero que cuando lo miro, me dan ganas de llorar.
+Sobre lo bonito que es el cielo despejado, pero como cuando lo miro, me dan ganas de llorar.
 }
 [sha:2eb5beee7e6fd2458ca636e398d91fd252432dfb]{
 -- Page 70, Offset 302.
@@ -1022,7 +1024,7 @@ Sobre lo maravilloso que es estar vivo,
 [sha:fee3b48095733c10e6341027488275cdbc0d93fb]{
 -- Page 71, Offset 304.
 -- 僕は熱にうかされたように、色々なことを話した。
-// Gripped by a fever: It's a dramatic way of saying that you have a bad fever. Interpretación en esta traducción ya que es un modismo inglés.
+//Gripped by a fever: It's a dramatic way of saying that you have a bad fever. Interpretación en esta traducción ya que es un modismo inglés.
 Hablamos de todo tipo de cosas,
  como si la fiebre hablase por mí.
 }
@@ -1044,12 +1046,12 @@ Comienza a marcharse.
 [sha:46c5f6424f830f1b68bf17368cffd3973a8cd91b]{
 -- Page 73, Offset 308.
 -- ……またひとりになるのかと思うと、寂しかった。
-Me pone triste, dándome cuenta que estaré solo de nuevo...
+El darme cuenta de que estaré solo de nuevo me pone triste...
 }
 [sha:f008d132e4b0f9d5e7cfd73e3751d2854be9387e]{
 -- Page 74, Offset 309.
 -- 「じゃあまた明日、ここで待ってるからね。
-"Te esperaré aquí mañana de nuevo, ¿vale?
+"Mañana te esperaré aquí de nuevo, ¿vale?
 }
 [sha:21e115bced1722d229165464b2825db888a52c54]{
 -- Page 74, Offset 310.
@@ -1089,7 +1091,7 @@ Ir a ese campo por las tardes se vuelve parte de mi rutina diaria.
 [sha:679f0655b670ed3bd944520bcf94c08bf0f8e0d1]{
 -- Page 77, Offset 317.
 -- 女の人は青子と呼ぶとおこる。自分の名前が嫌いなんだそうだ。
-Ella se molesta si la llamo Aoko,
+Le molesta si la llamo Aoko, 
  parece que no le gusta su propio nombre.
 }
 [sha:cb9be31be1cfa806d8bd173f7920b2d36617fd60]{
@@ -1100,13 +1102,13 @@ Tras mucha reflexión, decido llamarla 'Sensei' porque parece una persona muy co
 [sha:2f8f600b75d75c6f4d01e082c8e0eea25faf2c0f]{
 -- Page 78, Offset 319.
 -- 先生はどんな話でも真面目に聞いてくれて、僕の悩みを一言で解いてくれる。
-Sensei me escucha seriamente no importa lo que diga, y resuelve mis problemas con unas pocas palabras.
+Sensei me escucha seriamente sin importar lo que diga, y resuelve mis problemas con unas pocas palabras.
 }
 [sha:c964e04d6c46f0bcb6514d46bea2913b6345b267]{
 -- Page 79, Offset 320.
 -- 事故のあと、人と話すことが苦手になっていた僕は、先生のおかげで少しずつ元の自分に戻っていけた。
 Tras el accidente,
- me he sentido incómodo hablando a la gente,
+ me he sentido incómodo al hablar a la gente,
  pero gracias a ella,
  siento que poco a poco estoy volviendo a mi yo normal.
 }
@@ -1118,7 +1120,7 @@ Solo cuando estoy en este campo mi ansiedad desaparece. Porque aquí sé que pue
 [sha:2552611e385938c68bfe836dbaeb53beb7fd940e]{
 -- Page 80, Offset 322.
 -- だから、どこの誰だかは知らないけれど、先生は本当にどこかの学校の先生なのかもしれない。
-No sé quién Sensei es realmente. Quizá es profesora en algún lado.
+No sé quién es Sensei en realidad. Quizá es profesora en algún lado.
 }
 [sha:24d9d4afaa470cb21e70ca6d22922127a4db3e6f]{
 -- Page 81, Offset 323.
@@ -1128,7 +1130,7 @@ Pero eso es solo un 'y-si' que no tiene nada que ver conmigo.
 [sha:2e2316c0b2d986ca89ecf1414b2f2e37dbe5fc05]{
 -- Page 81, Offset 324.
 -- 先生といると楽しい。
-Disfruto estando con Sensei.
+Disfruto al estar con Sensei.
 }
 [sha:ba663dc72f93e01ab6088f44e60273461d04758a]{
 -- Page 81, Offset 325.
@@ -1216,7 +1218,7 @@ He disfrutado tanto de nuestro tiempo juntos―――
 [sha:7cf878edab068a06963228d661ba9804b2dec1d8]{
 -- Page 89, Offset 341.
 -- 僕は自分のことを忘れていた。
-Que he olvidado de quién soy.
+Que me he olvidado de quién soy.
 }
 [sha:257819bec88ed6a10f058e653b4845f8213f770a]{
 -- Page 90, Offset 342. Mods: @n.
@@ -1226,9 +1228,9 @@ He olvidado que estos garabatos son cosas que no deben existir en este mundo―�
 [sha:2ba3ed4658eef28b30a3bd2a667d0b12446e60a0]{
 -- Page 90, Offset 343.
 -- それを見る自分は、生きていてはいけない人間であることを。
-Y como alguien que puede verlas, yo tampoco debería.
+Y como persona que puede verlas, yo tampoco debería.
 }
-[sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
+[offset:344]{
 -- Page 91, Offset 344.
 -- 「――――――っ」
 "―――Ah."
@@ -1236,7 +1238,7 @@ Y como alguien que puede verlas, yo tampoco debería.
 [sha:8b51d5283f39a1da0cbc1690fea2562a8136134f]{
 -- Page 91, Offset 345.
 -- 胸に染みる、血のような後悔。
-Un gran remordimiento tiñe mi corazón.
+Mi corazón se tiñe de un gran remordimiento.
 }
 [sha:f36763e789b71ca614b07c86edeb6c047f7f59df]{
 -- Page 91, Offset 346.
@@ -1283,7 +1285,7 @@ Siento algo suave.
 -- Page 93, Offset 354.
 -- 先生は当然のように、ナイフを持ったままの、僕のような人間を抱きしめた。
 Sensei abraza a una persona como yo,
- con el cuchillo aún en mi mano,
+ con el cuchillo aún en mi mano, 
  como si fuera lo más normal.
 }
 [sha:4faf335a977d657783a05fe2e0ef7117d20f0b3f]{
@@ -1300,7 +1302,7 @@ Hmm, bueno, es verdad que has hecho algo inaceptable,
 [sha:03274be843e2912be65602b09332064f229434d5]{
 -- Page 94, Offset 357.
 -- 「……？　悪いのは、僕だけじゃない……？」
-"¿Huh...? ¿No soy el único culpable...?
+"¿Eh...? ¿No soy el único culpable...?
 }
 [sha:6df3ea9e3914b017bb5e62cc38520168c8ee6d59]{
 -- Page 95, Offset 358.
@@ -1337,7 +1339,7 @@ No por la posibilidad de que me pudiera haber matado, sino por lo triste que es 
 [sha:a4d29676f30d6f70302c82217876c3118b15cbd1]{
 -- Page 97, Offset 364.
 -- 貴方はそれだけの事をしたんだって覚えていてほしいから。
-Solo quiero que te tomes en serio la magnitud de lo que has hecho.
+Solo quiero que tengas en cuenta la magnitud de lo que has hecho.
 }
 [sha:5d50a703807e3c8065d06f513a44edb7013838a9]{
 -- Page 97, Offset 365.
@@ -1420,7 +1422,7 @@ Lucho contra las lágrimas que se forman en mis ojos.
 -- Page 102, Offset 380.
 -- お医者さんに信じてもらえなかった時より何倍も痛い言葉に、折れそうになる。
 Esas palabras duelen más que cualquiera de las que el doctor dijo cuando no me creyó,
- y pienso que me van a aplastar por su peso.
+ y pienso que su peso me va a aplastar.
 }
 [sha:1bcf651c925ef5b943730c78c19debb7ba2ee080]{
 -- Page 103, Offset 381.
@@ -1451,12 +1453,12 @@ No importa lo ridícula que se vuelva la vida, nosotros los humanos tenemos las 
 [sha:cf3f7368ffbdadfc31f4b7db72e40e73c032afac]{
 -- Page 105, Offset 386.
 -- 教訓そのいち、と少し恥ずかしそうに先生は言った。
-Lección número uno, dice Sensei, un poco avergonzada.
+Lección número uno, dice Sensei un poco avergonzada.
 }
 [sha:f66d677d2ba94a250fb42749b7e8daa2c4c363a2]{
 -- Page 105, Offset 387.
 -- 異常なモノがあったとしても、それ自体が問題なのではなく。
-Aunque sea algo anormal, eso no es un problema en sí mismo.
+Aunque sea algo anormal, eso en si mismo no es un problema.
 }
 [sha:f9ef2b3b5e4dfa050d4cadc9bbbbba3157851316]{
 -- Page 105, Offset 388.
@@ -1525,7 +1527,7 @@ Con tus ojos, tomar una vida es peligrosamente fácil."
 [sha:c789c414b14caf6bcc14b69637ae35b52e5fb62a]{
 -- Page 110, Offset 400.
 -- それに、なんだか胸がいたいんだ。……ごめんね先生。もう、二度とあんなことはしないから」
-Me siento fatal por ello, también...
+También me siento fatal por ello...
  Lo siento, Sensei. No lo volveré a hacer."
 }
 [sha:bc7bf990e054a542e36d2448b7a54be417c0570a]{
@@ -1536,7 +1538,7 @@ Me siento fatal por ello, también...
 [sha:3b8473cf228524a8e8a86a67ab2205117fc49690]{
 -- Page 111, Offset 402.
 -- 志貴、いまの気持ちを絶対に忘れないで。そうしていれば、君はかならず幸せになれるんだから」
-Shiki, nunca te olvides de como te sientes ahora mismo. Si no lo haces, seguro que serás feliz."
+Shiki, nunca olvides de como te sientes ahora mismo. Si no lo haces, seguro que serás feliz."
 }
 [sha:481e088489f097eab8d9d7b4b340907a7a596233]{
 -- Page 112, Offset 403.
@@ -1554,12 +1556,12 @@ Su frío, y a la vez cálido tacto se aleja.
 "Pero Sensei...
  Me siento mal cuando veo esos garabatos.
  Si los toco, se romperán, ¿verdad?
- ¿Que pasa si hago que todo a mi alrededor se derrumbe?"
+ ¿Qué pasa si hago que todo a mi alrededor se derrumbe?"
 }
 [sha:5f75cba092ef37d66621a23c9e14c50186d99369]{
 -- Page 114, Offset 406.
 -- 「その問題は私がなんとかするわ。
-"Me haré cargo de eso, de una manera o de otra.
+"Me haré cargo de eso, de una manera u otra.
 }
 [sha:c959b97d65ba5afb5dc5b541379b2eaa3914137e]{
 -- Page 114, Offset 407.
@@ -1604,12 +1606,12 @@ Sensei me entrega un par de gafas de apariencia ordinaria.
 [sha:09bf5be207bded27c0a618d6443bc0024c34291f]{
 -- Page 120, Offset 415.
 -- 「僕、目は悪くないよ」
-"Aunque, no tengo mala vista"
+"Pero, no es que vea mal."
 }
 [sha:23f83594a264334e4fd1d62bf4a5d1a5117bbd2f]{
 -- Page 120, Offset 416.
 -- 「いいからかけなさい。度は入ってないから」
-"Sólo pontelas. No tienen lentes correctivas."
+"Sólo pontelas. No llevan lentes correctivas."
 }
 [sha:73d5a43c8585dc550edb8dc20fb5f6ae1ae8bf49]{
 -- Page 121, Offset 417.
@@ -1624,12 +1626,12 @@ Y en cuanto lo hago―――
 [sha:c32b3f7c204a28d535934f3a46ccce37a796ad46]{
 -- Page 122, Offset 419.
 -- 「うわあ！　すごい、すごいよ先生！
-"¡Whoa! Wow, ¡es increíble!, ¡Sensei!
+"¡Uah! Guau, ¡es increíble!, ¡Sensei!
 }
 [sha:3544052166d42a579c840f1c8f9ef66c4b8abd41]{
 -- Page 122, Offset 420.
 -- ラクガキがちっとも見えない！」
-¡No puedo ver los garabatos para nada!
+¡No puedo ver los garabatos en absoluto!
 }
 [sha:3e767217ad0fbbbc58ddc49a394684dbd1dd37db]{
 -- Page 122, Offset 421.
@@ -1657,12 +1659,12 @@ Todas esas horribles líneas han desaparecido completamente, ¡es como magia!
 [sha:609f587aa5df63112d18cac1f09b109181d380ec]{
 -- Page 124, Offset 425.
 -- 得意げににんまりと笑って、先生はトランクを地面に置いた。
-Sonriendo orgullosamente, Sensei coloca su maleta en el suelo.
+Sensei coloca su maleta en el suelo sonriendo con orgullo.
 }
 [sha:e8b1efb04a55dfa37f0f5111b8385faf66fb29d8]{
 -- Page 125, Offset 426.
 -- 「でもね、志貴。その線は消えた訳じゃないわ。ただ見えなくしているだけ。そのメガネを外せば、線はまた見えてしまう」
-"Pero sabes, Shiki――las líneas en sí no han desaparecido.
+"Pero sabes Shiki――las líneas en sí no han desaparecido.
  Simplemente no puedes verlas.
  Si te quitas esas gafas, aún estarán ahí."
 }
@@ -1674,7 +1676,7 @@ Sonriendo orgullosamente, Sensei coloca su maleta en el suelo.
 [sha:042b44fb67efcb1d8c7285d9b411ee4de7da4db9]{
 -- Page 126, Offset 428.
 -- 「ええ。そればっかりはもう治しようがないコトよ。君はその目となんとか折り合いをつけて生きていくしかないの」
-"Sí. No hay cura para algo así, me temo.
+"Sí. Me temo que no hay cura para algo así.
  Tendrás que aprender a vivir con ello."
 }
 [sha:fe7078b347089069210c87af226dd8e85a8b0d5c]{
@@ -1701,7 +1703,7 @@ Puedes romper esa promesa cuando quieras, tonto."
 [sha:738f367268f0160e8b3d17409ffbe724e1dbaff8]{
 -- Page 128, Offset 433.
 -- 「……そうなの？　だって、すごくいけないコトだって言ったじゃないか」
-"¿De verdad...? Pero dijiste que era algo muy malo que hacer."
+"¿De verdad...? Pero dijiste que hacerlo era algo muy malo."
 }
 [sha:c6e1b10ed88ab8c0c961be19e8c2033acfad1e25]{
 -- Page 129, Offset 434.
@@ -1721,7 +1723,7 @@ Así que tú decides cuándo usarlos. Nadie más te puede culpar de tener esos o
 [sha:7fca40ddff3bacfd5438b02393b6ed5d2305e040]{
 -- Page 129, Offset 437.
 -- 問われる事があるとしたら、貴方がその力で何をしたかという事だけよ、志貴」
-Lo único por lo que tienes que responder es por lo que hagas con ese poder, Shiki."
+Lo único por lo que tienes que responder es por aquello que hagas con ese poder, Shiki."
 }
 [sha:4be2e2206dfc94c1c2a2c5e2b2eed99101d61777]{
 -- Page 130, Offset 438.
@@ -1731,13 +1733,13 @@ Lo único por lo que tienes que responder es por lo que hagas con ese poder, Shi
 [sha:3eb179c5e511787a420e9dd4e2a5b379e9716079]{
 -- Page 131, Offset 439.
 -- 先生は僕の目の中を覗きこむように、まっすぐに見つめてきた。
-Sensei me mira a los ojos directamente, como si estuviera mirando mi alma.
+Sensei me mira a los ojos directamente, como si mirase a mi alma.
 }
 [sha:5162accdc4fbe901cc458eb33244fe611f7a95bd]{
 -- Page 132, Offset 440.
 -- 「そういうコト。……うん、やっぱりいい眼だ。
-"Así es como es.
- Si... esos son muy buenos ojos.
+"Así es.
+ Si... de veras son buenos ojos.
 }
 [sha:f8b992470cc345e130c2cb177a241566fa2fc55a]{
 -- Page 132, Offset 441.
@@ -1769,7 +1771,7 @@ Ella dijo que pertenezco a este mundo.
 [sha:0f9ddf194d04a2712f2cfd59d22b32adde1ae133]{
 -- Page 133, Offset 446.
 -- 誰よりも力強く、僕を肯定してくれた。
-Ella afirmó mi existencia, mucho más fuerte de lo que nadie pudo.
+Ella afirmó mi existencia, con mucha mas fuerza de lo que nadie pudo.
 }
 [sha:8f07ba5f13cfd3a24f4810d84ba752ab5ae21a3f]{
 -- Page 134, Offset 447.
@@ -1781,7 +1783,7 @@ Ella afirmó mi existencia, mucho más fuerte de lo que nadie pudo.
 -- 神さまは何の意味もなく力を分けない。君の未来には必要になる時があるから、その<直死|ちょくし>の眼があるとも言える。それは残酷なことだろうけど―――」
 Dios no comparte su poder sin razón.
  Debe haberte dado los Ojos Místicos de Percepción Mortal porque habrá un momento en tu futuro en el que los necesitarás.
- En un destino cruel―――"
+ Es un destino cruel―――"
 }
 [sha:2d176146c4f07c7f8b6c32d29c9df23bba03b832]{
 -- Page 135, Offset 449.
@@ -1806,12 +1808,12 @@ Si puedes aceptar tus errores y eres capaz de disculparte, seguro que te convert
 [sha:4ec03857a9b84fac95483db280fd349f7b40aac5]{
 -- Page 137, Offset 453.
 -- 先生は立ちあがって、トランクに手を伸ばす。
-Sensei se levanta y alcanza a su maleta.
+Sensei se levanta y se aproxima a su maleta.
 }
 [sha:ee954878e2a5ceb1bad71d00360900306a88ed00]{
 -- Page 138, Offset 454.
 -- 「あ、でもよっぽどの事がないかぎりメガネは外しちゃだめだからね。特別な力は特別な力を呼ぶものだし。
-"Oh, pero no te quites las gafas a no ser que sea necesario. Después de todo, los poderes especiales atraen poderes especiales.
+"Ah, pero no te quites las gafas a no ser que sea necesario. Después de todo, los poderes especiales atraen poderes especiales.
 }
 [sha:42ebe9a5132a1877b20b75b54f2ea50319edbb15]{
 -- Page 138, Offset 455.
@@ -1863,13 +1865,13 @@ Sé que esto es la despedida.
 [sha:90523fbd16161ef3a4e5449c73b7658ce5967554]{
 -- Page 141, Offset 464.
 -- ほんとは先生に会うまで恐くてたまらなかった。けど先生がいてくれたから、僕は僕に戻れたんだ。
-Estaba realmente asustado antes de conocerte.
- Pero gracias a ti, he aprendido a ser yo mismo de nuevo.
+Antes de conocerte estaba realmente asustado.
+ Pero gracias a ti, he aprendido de nuevo a ser yo mismo.
 }
 [sha:393eb95d76041b4279cfbaa3ca6172090b08db02]{
 -- Page 141, Offset 465.
 -- ……だめなんだ。先生がいなくちゃ、こんなメガネがあったってだめに決まってるじゃないか……！」
-Simplemente no puedo... Aunque tenga estas gafas, ¡no hay forma de que lo haga sin ti alrededor!"
+Simplemente no puedo... Aunque tenga estas gafas, ¡no hay forma de que lo haga sin ti!"
 }
 [sha:5ad3918eb2219b7ce0e8a64661cef2053f56c2ad]{
 -- Page 142, Offset 466.
@@ -1894,12 +1896,12 @@ Así que no desperdicies la persona en la que te has convertido diciendo cosas t
 [sha:c2590c76b2ea65d2198b02c24dc18363ff603732]{
 -- Page 145, Offset 470.
 -- 「それじゃあお別れね。バイ、志貴。
-"Bueno, es momento de separarnos. Adiós, Shiki.
+"Bueno, es momento de separarnos. Bye, Shiki.
 }
 [sha:809d46125384a8f175517df81dad879765a7c302]{
 -- Page 145, Offset 471.
 -- どんな人間だって人生ってのは落とし穴だらけなのよ。
-La vida está llena de pozos para cualquier ser humano.
+La vida está llena de complicaciones para cualquier ser humano.
 }
 [sha:964545664b766abf618d7c4eec83e49650dd5708]{
 -- Page 145, Offset 472.
@@ -1919,7 +1921,7 @@ Me siento muy triste, pero como soy su amigo, decido despedirme apropiadamente.
 [sha:faae3371af012814ebaf876808c62e3415348cf0]{
 -- Page 147, Offset 475.
 -- 「―――うん。さよなら、先生」
-―――Si. Adiós, Sensei."
+―――Sí. Adiós, Sensei."
 }
 [sha:07c6d2858719860ba4fdb6627c3b29e58233c719]{
 -- Page 148, Offset 476.
@@ -1959,7 +1961,7 @@ Sensei ya no está aquí.
 [sha:0dd04260d75652bbdaf989a1e48d984610d1bb0e]{
 -- Page 150, Offset 483.
 -- 「……ばいばい、先生」
-"Adiós... Sensei."
+"Bye-bye... Sensei."
 }
 [sha:c7ad9fc2951526a5c737133bd2c9023cd1d7de49]{
 -- Page 150, Offset 484.
@@ -1974,13 +1976,13 @@ Todo lo que queda son las palabras que dejó atrás, y estas extrañas gafas.
 [sha:bebbab6370ec51ce004f35d943c12685e9e87b55]{
 -- Page 151, Offset 486.
 -- たった七日だけの時間だったけれど、なにより大切なことを教えてくれた。
-La conocí solamente durante siete días,
+Solo la conocí durante siete días,
  pero me enseñó la cosa más importante de todas.
 }
 [sha:b3a0a2f4711a3ef9d1c0be38d26f5a60ab725240]{
 -- Page 152, Offset 487.
 -- ぼんやりとたたずんでいたら、目に涙がたまった。
-Mientras estoy ahí de pie, en trance, lágrimas empiezan a brotar de mis ojos.
+Me quedo ahí de pie, en trance, y lágrimas empiezan a brotar de mis ojos.
 }
 [sha:8fa1483b4cb2e872b73435fdce3811397c62386b]{
 -- Page 152, Offset 488.
@@ -1990,7 +1992,7 @@ Mientras estoy ahí de pie, en trance, lágrimas empiezan a brotar de mis ojos.
 [sha:15499e73992a21205ce76d9c8482a05eccbefe8b]{
 -- Page 152, Offset 489.
 -- 僕はさよならばっかりで。
-Todo lo que dije fue adios.
+Todo lo que dije fue adiós.
 }
 [sha:b101cc468a30d138c7d8381ae13fac89e80c9030]{
 -- Page 152, Offset 490.
@@ -2000,12 +2002,12 @@ Y nunca llegué a decir gracias.
 [sha:1a0c01643d21fe7b1334387e08842fe5e7bb7edb]{
 -- Page 153, Offset 491.
 -- 僕の退院はそれからすぐ後になった。
-Poco después me dieron el alta del hospital.
+Poco después me dieron el alta.
 }
 [sha:66ea4c2a4f967b9eee47621d92ffc59af26cc42a]{
 -- Page 153, Offset 492.
 -- 退院したあと、僕は遠野の家ではなく他の家に預けられる事になった。
-Cuando salgo, no me mandan de vuelta a la mansión Tohno, sino a otra casa.
+Al salir, no me mandan de vuelta a la mansión Tohno, sino a otra casa.
 }
 [sha:ecfbaa54e3960869ef73f57643f27fc38f6511d8]{
 -- Page 154, Offset 493.

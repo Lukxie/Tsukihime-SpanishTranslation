@@ -76,17 +76,17 @@ El hecho de que sea completamente negro no es una metáfora.
 [sha:503372992ed074c3d7f31639bd773b991550481f]{
 -- Page 339, Offset 2022.
 -- どのような事情なのか、その手ばかりか顔までぐるりと、全身が黒い包帯で覆われていた。
-Cualquiera sea la razón, está cubierto de vendajes negros; no solo por las manos sino de pies a cabeza.
+Sea cual sea la razón, está cubierto de vendajes negros; no solo las manos, sino de pies a cabeza.
 }
 [sha:49cb6e6e9bc266a197ffa571ae616223331f5d73]{
 -- Page 339, Offset 2023.
 -- それこそ、推理小説に出てくる怪人のように。
-Le hace parecer el principal villano de la típica novela de misterio.
+Le hace parecer el villano principal de la típica novela de misterio.
 }
 [sha:ac4c2f30b67610ec00aeec80f360f531b7f47f3e]{
 -- Page 340, Offset 2024.
 -- 「……………あの、貴方は？」
-"Uh... ¿quién eres?"
+"Eh... ¿quién eres?"
 }
 [sha:3c362cd0b6250e8f2d96a281230ad367f575e82e]{
 -- Page 340, Offset 2025.
@@ -106,7 +106,7 @@ Nos vimos alguna vez de cuando eras un niño, aunque no así. Incluso si me reco
 [sha:7f7102eb393eb91ead62e90a0ee634401ab61ad3]{
 -- Page 341, Offset 2028.
 -- 斎木……？
-Saiki...?
+¿Saiki...?
 }
 [sha:90b3c841191b3989be08fcca1aebad35e217334c]{
 -- Page 341, Offset 2029.
@@ -146,7 +146,7 @@ Como diciendo que incluso la luz del sol poniéndose es desagradable.
 [sha:5d668018b743b50f94dd57887d63dce0ba6c61a3]{
 -- Page 344, Offset 2036.
 -- 「しかし。まあ、よくも帰ってこられたものだ」
-"Pero debo decir esto... un poco descarado lo de volver así.
+"Pero debo decir esto... un poco descarado lo de volver así."
 }
 [sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
 -- Page 344, Offset 2037.
@@ -161,7 +161,7 @@ Como diciendo que incluso la luz del sol poniéndose es desagradable.
 [sha:04987a1021a05529a85040baf45a7a220a2bceae]{
 -- Page 345, Offset 2039.
 -- 「脱落。そう、脱落だ。君はご両親からの投資を投げ捨て、自らの義務を放棄した脱落者だ。にも拘わらずこうして屋敷に戻り、秋葉の兄として振る舞おうとしている。
-"Desertaste. Si, desertaste. Desechaste la inversión de tus padres y abandonaste tu deber. Y aún así aquí estas, de vuelta en la mansión, intentando actuar como el hermano de Akiha.
+"Desertaste. Sí, desertaste. Desechaste la inversión de tus padres y abandonaste tu deber. Y aún así aquí estas, de vuelta en la mansión, intentando actuar como el hermano de Akiha.
 }
 [sha:4e807edd974bfb1b6457441e98fc28823eb18d71]{
 -- Page 345, Offset 2040.
@@ -196,7 +196,7 @@ Hay un claro desprecio y provocación en los ojos de Saiki Gouto, pero no tiene 
 [sha:326489dd9d447b85b0c90d0c30ec5f6ad8b4f196]{
 -- Page 347, Offset 2046.
 -- でも、脱落者とか投資とか、家族の話にそんな言葉を使う貴方こそ、恥ずかしいとは思わないんですか？」
-¿Pero no %{i}te%{/i} sientes avergonzado de usar palabras como 'desertaste' o 'inversión' cuando hablas sobre tu familia?
+¿Pero no %{i}te%{/i} sientes avergonzado de usar palabras como 'desertaste' o 'inversión' cuando hablas sobre tu familia?"
 }
 [sha:569447f8f86575844e954db943d736ce561adcef]{
 -- Page 348, Offset 2047.
@@ -280,7 +280,7 @@ Me muerdo el labio mientras pienso en Saiki llamándome 'desertor'.
 [sha:03e9d15b09120263e4f51da7d8abac635c4b46dc]{
 -- Page 354, Offset 2062.
 -- それはアイツの言葉通り、この上なく的確に、この屋敷における遠野志貴の立場を表していた。
-Es una descripción muy precisa de mi posición en esta mansión, como el dijo.
+Una descripción muy precisa de mi posición en esta mansión, como el dijo.
 }
 [sha:9fb3f54ad233fbb5e20dbe9864d651ffdd438e54]{
 -- Page 355, Offset 2063.
@@ -300,12 +300,12 @@ Me voy a reunir con mi pariente biológico por primera vez en siete años, y no 
 [sha:95abd47ce0d20bb09109f0470bbf6379e5c9e329]{
 -- Page 356, Offset 2066.
 -- 「失礼いたします」
-"Con permiso"
+"Con permiso."
 }
 [sha:c3870ea54521a299d36221d3c6a03b58ddc35315]{
 -- Page 356, Offset 2067.
 -- 本当にきっかり10分後、彼女は戻ってきた。
-Just tras diez minutos, la chica vuelve.
+Justo tras diez minutos, la chica vuelve.
 }
 [sha:84777d26ea5469b8110f4f24c01f0945bfb41d74]{
 -- Page 357, Offset 2068.
@@ -361,7 +361,7 @@ Su oficina... De cierta forma, lo puedes llamar el corazón de la familia Tohno.
 -- Page 361, Offset 2078.
 -- 子供の頃は入れなかった、槙久の当主としての私室。
 Era la habitación privada de Tohno Makihisa en sus capacidades como cabeza de familia,
- y no tenía permitido entrar de niño.
+ y de niño no tenía permitido entrar.
 }
 [sha:bfd2925960de3d530a12540903b81a39e126c68d]{
 -- Page 361, Offset 2079.

@@ -22,7 +22,7 @@ Mirando a la luna,
 [sha:6961833b9567371a73f21884384ec7d05eb3a2e9]{
 -- Page 676, Offset 26080.
 -- 地面に突き刺さった剣を二本、一撃で殺し切る。
-De una cuchillada mato dos de las hojas hundidas en el suelo frente a mi.
+De una cuchillada mato dos de las hojas hundidas en el suelo frente a mí.
 }
 [sha:d9e10873b4623dce3866a84d9a9d2b87e8966d31]{
 -- Page 676, Offset 26081.
@@ -32,19 +32,16 @@ Mis pensamientos son un lío.
 [sha:79779589a741836f3dede22367b546848a427696]{
 -- Page 676, Offset 26082.
 -- 止まらなかった牙。
-// Tl oficial
 Esos colmillos que casi...
 }
 [sha:d06d2e7d117d513414fd2284cdeefd62e6107e56]{
 -- Page 676, Offset 26083.
 -- 悲鳴をあげた自分。
-// Tl oficial
 Mi grito...
 }
 [sha:1b4684fc470cd6b48af9ce00c5eefd6b7089816f]{
 -- Page 676, Offset 26084.
 -- 部外者たちの勝手な<戯言|たわごと>。
-// Tl oficial
 Esta gente ajena y sus sandeces...
 }
 [sha:a8873113d6a08df6bdbce32e1098e23243323bd0]{
@@ -120,7 +117,7 @@ Debe haber sido coincidencia. Lo que acaba de decir tiene que serlo. Pero, me ha
 [sha:72e9dca48f99cc306e8dcd43ddd39207bcf7035c]{
 -- Page 680, Offset 26098.
 -- それは相手を傷付け、何より自分を損なう行為だと、この少年は吐き捨てたのだ。
-Tal y como dice, hacerlo solo la haría daño, pero más importante, también a mi mismo.
+Tal y como dice, eso solo la haría daño, pero más importante, a mí también.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 681, Offset 26099.
@@ -182,12 +179,12 @@ Respiro hondo, y le sigo.
 [sha:fb59ff8fc86fdeb79745222b158d990b2bfaa854]{
 -- Page 685, Offset 26110.
 -- ……本音を言えば今すぐアルクェイドを追いかけたい。
-A decir verdad, quiero ir de inmediato tras Arcueid...
+A decir verdad, quiero ir tras Arcueid de inmediato...
 }
 [sha:5304457844f7a4f37186e5dcfd0c9be71301cca0]{
 -- Page 685, Offset 26111.
 -- が、それだけでは何も解決しないのだと、心の底で気づいている。
-Pero me doy cuenta en el fondo que hacerlo no va a resolver nada.
+Pero me doy cuenta que en el fondo hacerlo no va a resolver nada.
 }
 [sha:20f81a5fbdb812cc6f784d2ec2b6af4632bc3f16]{
 -- Page 685, Offset 26112.
@@ -197,7 +194,7 @@ Me da la sensación de que este chico sabe lo que debería hacer de ahora en ade
 [sha:49e90d033c74fadaf73e8585782ac7707aa8d18c]{
 -- Page 686, Offset 26113.
 -- 「あの、代行？　わたしもですか？　っていうか、座って休んでいいですか？」
-"Em, Sacerdote, señor? ¿Eso me incluye a mí? Quiero decir, ¿puedo sentarme y descansar?"
+"Em, ¿señor Sacerdote? ¿Eso me incluye a mí? Quiero decir, ¿puedo sentarme y descansar?"
 }
 [sha:01fa531daa17053a238e1b04addba4713b498d27]{
 -- Page 686, Offset 26114.
@@ -205,7 +202,7 @@ Me da la sensación de que este chico sabe lo que debería hacer de ahora en ade
 "Muerete, cerda.
  Tu trabajo es mi seguridad.
  El que se sienta soy yo.
- Tohno todavía no confía, mejor que te mantengas en pie."
+ Tohno todavía no confía, más te vale quedarte de pie."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 687, Offset 26115.
@@ -220,7 +217,7 @@ Me ha leído como un libro abierto.
 [sha:6b6b47a6c7f51ac7e1d23cc84fbcee334223bd6e]{
 -- Page 687, Offset 26117.
 -- ノエル同様、この少年も普通のカテゴリーには含まれないようだ。
-Al igual que noel, este niño está lejos de ser normal.
+Al igual que Noel, este niño está lejos de ser normal.
 }
 [sha:7d01c82eb7ddd31fd6b67e3b6896b0aca6c59326]{
 -- Page 688, Offset 26118.
@@ -241,7 +238,6 @@ Al igual que noel, este niño está lejos de ser normal.
 [sha:c0793e5b54edb3bc4177ae0c2a69a8051b929b1f]{
 -- Page 689, Offset 26121.
 -- 「そうか。それだけ知ってりゃ充分だ。説明が省ける。
-// Mix de tls
 "Entiendo. Sabes suficiente. Me ahorra bastante tiempo, de hecho.
 }
 [sha:3426979555e0236b0ec0ad6c1f0b335a4dad98f9]{
@@ -253,9 +249,9 @@ Verás, acabamos de ser enviados representando a mi padre.
 [sha:51b14479805b728dea6e21688b945ead57fb0b9b]{
 -- Page 689, Offset 26123.
 -- そこの三下はオレより早く調査していたがな。ただし独断。オレじゃなかったら師匠だけでなくテメェも更迭されてたからなブタ。感謝しろよ」
-Esa mierdecilla de ahí junto a su maestro estaban aquí por cuenta antes de que llegara.
+Esa mierdecilla de ahí junto a su maestro estaban aquí por su cuenta antes de que llegara.
  No es que nadie les diera permiso para ello.
- Si no fuera por mi, te habrían deportado junto a tu maestro, cerda.
+ Si no fuera por mí, te habrían deportado junto a tu maestro, cerda.
  Muestra jodida gratitud."
 }
 [sha:644c4639330431ac0c1b1fd9014a969e47dffd76]{
@@ -315,14 +311,14 @@ Es un vampiro del tipo Soberano que llevará unos años acechando en esta ciudad
 [sha:9ee3020c20d9711fc54c11cd724a7e2d8c60a1b6]{
 -- Page 694, Offset 26135.
 -- こりゃあ二重の意味でハズレだな。トオノも知らないし、真祖も知らない。それであの迷走っぷりかよ。
-Manda huevos, un ciego guiándo a otro.
- Ni tu, ni la Verdadera Ancestro teneis idea de nada.
+Manda huevos, un ciego guiando a otro.
+ Ni tú, ni la Verdadero Ancestro tenéis idea de nada.
  No me soprende que vayáis como pollos sin cabeza.
 }
 [sha:dbb59f95869d33261e471c868c872fba1a023247]{
 -- Page 694, Offset 26136.
 -- ……ったく、真祖に何があったんだ？　精度が低いにも程がある。隕石でも落ちてきたか？」
-Santo cielo, ¿qué la ha pasado?
+Santo cielo, ¿qué le ha pasado?
  No me creo que esté tan perdida.
  ¿La ha dado un meteorito en la cabeza o algo?"
 }
@@ -457,7 +453,7 @@ No cabe duda que los vampiros son superiores a los humanos.
 [sha:fd822bc9e31840b7b6b26a4ceeb686b935d38c96]{
 -- Page 703, Offset 26160.
 -- 「……うん、確かに。
-"Aha... razón no te falta.
+"Ajá... razón no te falta.
 }
 [sha:1bdb1128f15ff8dcda493d6ac17934255e7dfde3]{
 -- Page 703, Offset 26161.
@@ -525,7 +521,7 @@ Incluso tras haberse vuelto Apóstoles Muertos, siguen estudiando lo que aprendi
 [sha:ed6b175d1db5702ecf7f1363f0aeb8f8edb3431d]{
 -- Page 707, Offset 26173.
 -- 「その死徒の命題。生きる目的。死ねない呪い。
-"La tesis de un Apóstol Muerto.
+"La tésis de un Apóstol Muerto.
  Su propósito en vida.
  Su maldición inexorable.
 }
@@ -569,21 +565,21 @@ Pero para este tipo, parece que eso fue como dar un paso atrás.
 [sha:659b46ca3bd3cf45a2b4e18d51dc6dc2b268d526]{
 -- Page 709, Offset 26181.
 -- こんな不完全なものはいらない、自分はもっと完全な不老不死を作り上げる、なんてな」
-No necesito esta inmortalidad de tres al cuarto.
+ 'No necesito esta inmortalidad de tres al cuarto.
  Crearé algo incluso más perfecto.'
  o algo así."
 }
 [sha:47355a230d70fd33ecb0bac2a63b9cc4cdee4bc4]{
 -- Page 710, Offset 26182.
 -- 「だがカタチがある以上滅びは必然だ。時間の圧迫、細胞の摩耗、魂の型落ちはいかなる存在にも例外はない。
-"Pero mientras conserve su %{i}forma%{/i}, perecerá inevitablemente.
+"Pero mientras conserve su %{i}forma%{/i}, inevitablemente perecerá.
  No hay nada en la Tierra exento del paso del tiempo, el desgaste de las células, la entropía del alma.
 }
 [sha:bb3e9d42b04e6915b758cc2f8532b7b946025dfa]{
 -- Page 710, Offset 26183.
 -- 生命は生まれでた時点で死を内包している。自分がここに存る以上、たとえ歳をとらない肉体を持ってしまっても、存在の死から逃れる事はできない。
 Toda vida incluye muerte en su concepción.
- Incluso si tu cuerpo no envejece, mientras existas, su muerte existencial es inevitable.
+ Incluso si tu cuerpo no envejece, mientras existas, tu muerte existencial es inevitable.
 }
 [sha:dbddef57ad7e546be6d7d0a36a009e09f0c20d8d]{
 -- Page 710, Offset 26184.
@@ -637,8 +633,8 @@ Se dió cuenta de la realidad tras la inmortalidad.
 [sha:5c7fbdb56035683049ea12a5a873bdbc5f82df7a]{
 -- Page 712, Offset 26193. Glued. Mods: @x.
 -- 今の自分が死んでも、自分を保存できたままで新しい人間としてやり直す事ができれば、それは死を先駆けている。
-Aunque muera,
- si puede empezar de nuevo como alguien distinto a la vez que mantiene a su 'yo' intacto,
+ Aunque muera,
+ si puede empezar de nuevo como alguien distinto mantiendo a su 'yo' intacto,
  estaría un paso por delante de la muerte.
 }
 [sha:f937ed57a788a224588a870a714eed09782678e3]{
@@ -656,7 +652,7 @@ Aunque, supongo que no puedes llamarlo muerte si no desapareces.
 -- Page 714, Offset 26196.
 -- 「そうだ。ソイツは存命している間、『次の自分の肉体』をあらかじめ決めておき、その赤子が誕生した時点で“自分”の全情報を移植する。
 "Exacto. Mientras está vivo usa ese tiempo para decidir su siguiente cuerpo,
- y trasplanta al bebé la totalidad de su información que compone a su 'yo' cuando nace.
+ y cuando nace, trasplanta al bebé la totalidad de la información que compone a su 'yo'.
 }
 [sha:c3db4db4ff9adbe18de4dca0909f6f87bdf8dc42]{
 -- Page 714, Offset 26197.
@@ -684,7 +680,7 @@ Una vez el niño desarrolla un nivel de inteligencia apropiado,
 -- 「いや、医学的な手段じゃない。ソイツは今の肉体が滅ぼされた瞬間に、あらかじめ決めておいた体に転生する。ようは複写だな。さっきは“全情報”と言ったが、ようするに電波みたいなもんだ。
 "No. No hay procesos médicos involucrados.
  En cuanto su cuerpo actual muere, se reencarna en un nuevo cuerpo que ha decidido de antemano.
- Es como si se copiara a sí mismo.
+ Es como si se copiara a si mismo.
  Antes lo he llamado 'información', pero puedes pensar en ello como ondas de radio.
 }
 [sha:e9b74c61a76e6677a56548f24a5edecea557edca]{
@@ -708,15 +704,15 @@ Dejando a un lado si algo así es posible de verdad...
 [sha:3563a49cf5712101f3962638bf549f1839a3ee52]{
 -- Page 717, Offset 26205.
 -- その理屈なら、そいつは人間として生まれて、
-Siguiendo es lógica, ese tipo nace como humano―――
+Siguiendo esa lógica, ese tipo nace como humano―――
 }
 [sha:5360d80b2962b15b26360608d04b41076c35e839]{
 -- Page 717, Offset 26206.
 -- 人間として育ち、ある日を境にして、まったく別人の“吸血鬼”になるという事だ。
 Crece como uno―― y entonces un día,
- se pulsa un botón y se convierte en algo completamente distinto: un 'vampiro'.
+ un botón es pulsado y se convierte en algo completamente distinto: un 'vampiro'.
 }
-[sha:6d45ff7c26bf5a6a107816c8edb2b31d3cae79ba]{
+[offset:26207]{
 -- Page 717, Offset 26207.
 -- それは―――
 Eso es―――
@@ -734,7 +730,7 @@ Eso es―――
 [sha:8cfe51c5e8faff06b05c2315fdc1f092e4a6926a]{
 -- Page 718, Offset 26210.
 -- オレたち聖堂教会と、真祖の姫様が追っている吸血鬼。
-Ese es el vampiro que perseguimos tanto, la Santa Iglesia, como la Princesa de los Verdaderos Ancestros.
+Ese es el vampiro al que perseguimos tanto, la Santa Iglesia, como la Princesa de los Verdaderos Ancestros.
 }
 [sha:ddfed5a4aa60ba089b51ae3bf37e61a82d44055a]{
 -- Page 718, Offset 26211.
@@ -766,7 +762,7 @@ Un vampiro que reencarna...
 -- Page 719, Offset 26216.
 -- その響きには薄ら寒いものを感じるが、今までアルクェイドが口にしなかった敵の正体が、ようやく分かった。
 Escuchar esas palabras me da escalofríos,
- pero al fin, al fin entiendo la verdadera naturaleza del enemigo del Arcueid detesta hablar.
+ pero al fin, al fin entiendo la verdadera naturaleza del enemigo del Arcueid detesta hablar. 
 }
 [sha:3b3ea0301ab6c95a4b9b9ea88f9e2c243af0307e]{
 -- Page 720, Offset 26217.
@@ -819,7 +815,7 @@ Si esa princesa tuviera no solo el poder para eliminar el %{i}cuerpo%{/i} de su 
 [sha:f522cde5d381adbb07cdf962d5b1b1cd4160169c]{
 -- Page 723, Offset 26226.
 -- 憎々しげにマーリオゥは言う。
-Las palabras de Mario despiden odio.
+Las palabras de Mario desprenden odio.
 }
 [sha:d1968eae7942b02a779a307409bede25cf6d2727]{
 -- Page 723, Offset 26227.
@@ -845,8 +841,7 @@ Si es así―――"
 [sha:7f88f613a7eca0d35fe7c6b0ae3b957547bca0c3]{
 -- Page 724, Offset 26231. Glued.
 -- ここまでのはサービスだ。善い報せと悪い報せ、どっちから聞く？　ってヤツだ。
-// Tl oficial
-Todo hasta ahora era de regalo.
+ Todo hasta ahora era de regalo.
  Ya sabes el cliché: '¿Qué quieres escuchar primero, las buenas noticias, o las malas?'
 }
 [sha:324cf47f214a291d280d06d8816984f59b34d9b6]{
@@ -924,7 +919,7 @@ Lo que acaba de decir es... horrible――he sentido miedo solo de escucharle.
 [sha:0e7977c4e62841548f8f08cd87e321536eacf61a]{
 -- Page 729, Offset 26246.
 -- 「……いや。おかしいだろ、それ。よく分からないけど、その話はおかしい。
-"Bueno... ¿es que no es raro? No lo entiendo muy bien, pero no tiene sentido.
+"Bueno, es que... ¿no es raro? No lo entiendo muy bien, pero no tiene sentido.
 }
 [sha:9675c3230e534b00587073e9ed924d66a4a3511c]{
 -- Page 729, Offset 26247.
@@ -978,7 +973,7 @@ Por lo que, mientras está vivo,
 [sha:8a3344e341ade833da935165614da5e196843254]{
 -- Page 731, Offset 26256. Glued.
 -- 転生先を決定しておく。
-Roa decide dónde se reencarnará la próxima vez.
+ Roa decide dónde se reencarnará la próxima vez.
 }
 [sha:9b5942f29c2a19c92bd8d76cb4f71c45dc5b89a2]{
 -- Page 731, Offset 26257.
@@ -1011,7 +1006,7 @@ Tienden a ser discriminados―― denominados 'psíquicos' o 'niño cambiado'.
 [sha:962b172f1da03cd553a7228367bde0539d3a665c]{
 -- Page 732, Offset 26262.
 -- 特異能力ってのは肉体的なものだからな、家系―――血筋で遺伝する。ロアは自分の新しい肉体にそういった『人間ではないもの』の家系を選ぶって話だ」
-Tales habilidades sobrenaturales son fisiológicas, por lo que se vienen de familia――del linaje.
+Tales habilidades sobrenaturales son fisiológicas, por lo que vienen de familia――del linaje.
  Roa tiene a escoger cuerpos de miembros de esas familias 'no-humanas'."
 }
 [sha:b91f8be1a16eb0cc5d78f0b68cc081517900ed6f]{
@@ -1072,7 +1067,7 @@ Escucho un sonido ronco.
 [sha:4b64a14eecf44aea34d4cf8bcb062e4c9a67ca6b]{
 -- Page 735, Offset 26274.
 -- 乾いた音は、俺があげているものだった。
-El sonido ronco proviene de mi.
+El sonido ronco proviene de mí.
 }
 [sha:714fe3ab11beb0570b60c7696d62755b69d81345]{
 -- Page 736, Offset 26275.
@@ -1128,10 +1123,10 @@ El informe de esta gilipollas está mal.
  No eres la reencarnación de Roa.
  La Serpiente de Akasha es otra persona."
 }
-[sha:e6e955327da69388f21bcdeba70c42ff320dcfaa]{
+[offset:26285]{
 -- Page 739, Offset 26285.
 -- 「―――はい？」
-"―――¿Perdona?"
+"―――¿Perdón?"
 }
 [sha:70c0ed7d94822123402d582d7a7af22d171e5450]{
 -- Page 739, Offset 26286.
@@ -1159,7 +1154,7 @@ Acabo de tragarme toda esa explicación elaborada, ¿y ahora dice que %{i}no%{/i
 -- 「100パーセントだあ？　なら前提が間違えてんだよ、このお布施泥棒が。オレは悪名高き“人間使い”、ラウレンティス枢機卿の秘蔵っ子だぞ？　人を見る目だけはテメェにも、テメェの師匠にも負けてねえ」
 "¿Cien por ciento dices? Entonces algo fallaba de tu premisa, maldita imbécil.
  Soy el infame 'Titiritero' y el preciado hijo del Cardenal Laurentis, ¿recuerdas?
- No soy alguien a quién ni tu, ni tu maestro podáis superar a la hora de juzgar a alguien por como es."
+ No soy alguien a quién ni tú, ni tu maestro podáis superar a la hora de juzgar a alguien por como es."
 }
 [sha:e864fb5b7e2847907a601d2ce278c83cce49181a]{
 -- Page 742, Offset 26291.
@@ -1216,7 +1211,7 @@ El chico encoge los hombros decepcionado y se levanta del banco.
 [sha:e2b0a59b5d379338ae699db13d31a641b2f26316]{
 -- Page 745, Offset 26301.
 -- もう俺にも、俺のこの後の運命にも興味がない、という態度だった。
-Su actitud sugiere que ya no tiene interés en mi o en lo que me pase.
+Su actitud sugiere que ya no tiene interés en mí o en lo que me pase.
 }
 [sha:23e4719f141c25fe24a56988d1b13609f3b29cd5]{
 -- Page 746, Offset 26302.
@@ -1281,13 +1276,11 @@ Antes solo estábamos... de broma.
 [sha:887b34fe6edb33742dcda8350f4050b7b0110262]{
 -- Page 750, Offset 26312.
 -- 笑わせないで。吸血鬼は人間にとって何であれ悪なのよ。
-// Mix de tls
 No seas ridículo. Para los humanos, los vampiros son el mal encarnado.
 }
 [sha:1ea5b70f41d32a2b5f6783958fa57746a5757ed3]{
 -- Page 750, Offset 26313.
 -- いえ、人間でありたいと思うなら、あの枠組み自体を悪と区別しなくちゃいけない。
-// Tl oficial
 De hecho, si quieres formar parte de la humanidad, %{i}debes%{/i} considerarlos como el mal.
 }
 [sha:ddd06c93369937c495a45a77b0619d3a00fec89f]{
@@ -1320,10 +1313,10 @@ Su voz me presiona a decidir entre vida o muerte...
 -- ここでアルクェイドを追うと告げれば、この女は本気で俺の首を断ちにくるだろう。
 Si digo que voy a perseguir a Arcueid, me intentará cortar la cabeza de verdad.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:26320]{
 -- Page 753, Offset 26320.
 -- 俺は―――
-Yo―――
+Voy a―――
 }
 [sha:bba33d7219771bf7febaf947308ec67ea446ed26]{
 -- Page 754, Offset 42675. Choice.

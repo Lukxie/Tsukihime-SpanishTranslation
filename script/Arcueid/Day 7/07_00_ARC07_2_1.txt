@@ -22,7 +22,7 @@ Pero ninguna de las dos son razón suficiente para que siga enfadada.
 [sha:c40e302d451be4337551f32d9e6195b9cdc470ee]{
 -- Page 160, Offset 16972.
 -- きちんと事情を話す……のはできないけど、反省していると伝えれば秋葉も収めてくれるだろう。
-// Tl oficial
+//Tl oficial
 No puedo explicar la situación, pero al menos puedo decir que lo siento.
 }
 [sha:75e32372f6ce512d424d4d512dae554af890bd9f]{

@@ -23,15 +23,15 @@
 -- 二年間馴染んだ通学路を歩いていく。
 -- TRANSLATION HERE
 }
-[sha:257d83f706a6956190e2b4b0f0e982103a7a4b2e]{
+[offset:8348]{
 -- Page 74, Offset 8348.
 -- この交差点を抜ければすぐに正門だ。
-Tras cruzar esta intesección, solo quedará un pequeño trecho hasta las puertas de la escuela.
+Tras cruzar esta intesección, solo queda un pequeño trecho hasta las puertas de la escuela.
 }
-[sha:fe557a1cdec029935f3c6da57add092581254bd3]{
+[offset:8349]{
 -- Page 74, Offset 8349.
 -- 信号機が赤になって、横断歩道の前で立ち止まる。
-El la luz del semáforo se vuelve roja, y me paro en frente del paso de peatones.
+La luz del semáforo se vuelve roja, y me paro en frente del paso de peatones.
 }
 [sha:a91d3208f7ef5a80ce0936d43c01c36cbb8f3e41]{
 -- Page 74, Offset 8350.
@@ -53,7 +53,7 @@ Tras el paso de peatones está el muro alrededor de la parcela escolar.
 -- いない筈だ。
 -- TRANSLATION HERE
 }
-[sha:78247f935ed814b8d9d6a145c6537c2aeb6e828f]{
+[offset:8354]{
 -- Page 75, Offset 8354.
 -- なのに、せわしなく自動車が走っていく合間に、白い人影を見た気がした。
 Y sin embargo, a través de las siluetas de los coches que pasan,
@@ -69,7 +69,7 @@ Y sin embargo, a través de las siluetas de los coches que pasan,
 -- そこにいたのは、彼女だった。
 Ahí está.
 }
-[sha:72441e21d1a103bfcdede377a26019dda0d65bde]{
+[offset:8357]{
 -- Page 76, Offset 8357.
 -- 紛れもない白い姿。
 La figura blanca inconfundible.
@@ -84,7 +84,7 @@ Cabello dorado reminiscente a la luz del sol.
 -- 細く長い眉と赤い瞳。
 Cejas largas, delgadas y ojos rojos.
 }
-[sha:dec32c5de9d6ef8d666667dc82ca963fcb88d799]{
+[offset:8360]{
 -- Page 76, Offset 8360.
 -- たった一度しか見ていなくとも、俺がその姿を見間違える事はない。
 Solo la he visto una vez, pero no de ninguna forma podría confundirla por otra persona.
@@ -107,7 +107,7 @@ Pero, no puede ser ella.
 [sha:60cccb2e8d7c0190950d216c6e3514e91daeefea]{
 -- Page 77, Offset 8364.
 -- なのに。
-Y a pesar de eso―――
+-- TRANSLATION HERE
 }
 [sha:dda3dc698442a42e3acdd2f8bf77001441e52119]{
 -- Page 77, Offset 8365.
@@ -174,10 +174,10 @@ Pero... no puedo huir.
 -- 避けて通ってはいけないものだ。
 Esto es algo de lo que %{i}no debo%{/i} huir.
 }
-[sha:a93145cb2a87eff6c50eae89b1156ea4c283eb60]{
+[offset:8378]{
 -- Page 83, Offset 8378.
 -- そういう風に、信じてくれた人がいたはずだ。
-Alguien que creyó en mi me enseño eso.
+Alguien que creyó en mi me lo enseñó.
 }
 [sha:43e97cbe882963cf3e01589e5c217d59c6cf68b1]{
 -- Page 84, Offset 8379.
@@ -289,34 +289,34 @@ Tomé su vida――su todo.
 -- それ以上の<量|はか>りのない暴力だ。
 Una demostración de violencia sin igual.
 }
-[sha:f298d09211fb5ed0a76d7fb4e3f0141531fbe0bf]{
+[offset:8401]{
 -- Page 90, Offset 8401.
 -- 「だから―――あんたは、俺に復讐していい。
 "Es por eso que――puedes vengarte.
 }
-[sha:562ea24c12c89879cd7ca8bc63a150d752e270a8]{
+[offset:8402]{
 -- Page 90, Offset 8402.
 -- ……俺が逃げたのは、おまえが怖かったからじゃない。俺は、俺自身の行為から、逃げていただけだった」
 No huí porque tuviese miedo de ti...
  solo estaba huyendo de mi mismo."
 }
-[sha:c7063163a7379fb7dd69e815559f992467b217da]{
+[offset:8403]{
 -- Page 91, Offset 8403.
 -- 俯いたまま。
-Mantengo mi cabeza baja.
+Mantengo la cabeza baja.
 }
-[sha:b5ced820f9b5db4bcd06f4c1186710f1040d3e59]{
+[offset:8404]{
 -- Page 91, Offset 8404.
 -- 誰に懺悔するのでもなく、そんな言葉を呟いた。
 Mis palabras de penitencia no van dirigidas a nadie en particular,
  solo las estoy murmullando en alto.
 }
-[sha:9aa13ab119654192ced0d0f6f935017cf7ccfa36]{
+[offset:8405]{
 -- Page 92, Offset 8405.
 -- ……それで、ようやく目が覚めた。
 Y con eso... finalmente me despierto.
 }
-[sha:d45fa5492612f7eff7b13685ca74e26c21297340]{
+[offset:8406]{
 -- Page 92, Offset 8406.
 -- 俺は昨日から夢の中にいたようなものだった。
 Es como si todo lo que ocurrió desde ayer pasase en un sueño.

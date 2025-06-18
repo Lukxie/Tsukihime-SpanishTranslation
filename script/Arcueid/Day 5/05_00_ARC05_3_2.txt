@@ -6,7 +6,7 @@
 [sha:fb86bc6d22f33b83c5e512c8530960b55ba7f4cf]{
 -- Page 10006, Offset 9157.
 -- 本音を言えばヴローヴは１秒だって野放しにできない。
-Para ser sincero, no aguanto dejar a Vlov a sus anchas por un segundo más.
+Si soy sincero, no aguanto dejar a Vlov a sus anchas ni un segundo más.
 }
 [sha:a60162985837b355ab1139702d23cd45c7676646]{
 -- Page 10006, Offset 9158.
@@ -36,7 +36,7 @@ No hay forma de que derrote al vampiro si no.
 [sha:c49891104790af6e4404443980ac838b995493cd]{
 -- Page 230, Offset 9163.
 -- 本当の意味で犠牲者を減らしたいというのなら、今はここで耐えるしかないと理解できる。
-Entiendo que si %{i}de verdad%{/i} quiero reducir el número de bajas, no tengo otra elección que esperar aquí.
+Entiendo que si %{i}de verdad%{/i} quiero reducir el número de bajas, no tengo más opción que esperar aquí.
 }
 [sha:6a4052bd1a9586114d11f17e95a5da86999fccf6]{
 -- Page 231, Offset 9164.
@@ -56,13 +56,13 @@ Has dicho que ya había cumplido mi promesa contigo, ¿cierto?"
 [sha:44c36c545dd1b323e81cdd9285aba5b1b9eb5668]{
 -- Page 233, Offset 9167.
 -- 「言ったけど……なによ、やっぱり怖くなった？」
-"Sí, pero... ¿qué? ¿Vas a acobardarte Después de todo?"
+"Sí, pero... ¿qué? ¿Vas a acobardarte después de todo?"
 }
 [sha:f1fa93cba3351aae7a4cbf43fe86431d876ef826]{
 -- Page 233, Offset 9168.
 -- 「いや、そうじゃないんだ。ここからは義務じゃなくて協力になるんなら、俺の頼みも聞いてほしい。
 "No, no me refiero a eso.
- Si de aquí en adelante voy a colaborar contigo por mi propia cuenta entonces,  tengo una propuesta que hacerte.
+ Si de aquí en adelante voy a colaborar contigo por mi mismo entonces, tengo una propuesta que hacerte.
 }
 [sha:a57c33222b52f6dd9b9994e580f5324ac91a9087]{
 -- Page 233, Offset 9169.
@@ -129,8 +129,9 @@ Si dice que es posible, entonces lo apostaré todo a esa posibilidad.
 [sha:0c08ace6d6a0c037bc5c470b616b4cf2af2cdaec]{
 -- Page 238, Offset 9181.
 -- でも、それでいいの？　三日、待った方が安全だよ？」
-¿Estás seguro de esto?
+Pero, ¿estás seguro de esto?
  ¿Te das cuenta de que sería mucho más seguro si esperases tres días?"
+ 
 }
 [sha:67ef7790a2e05112c26bbd05840d148f78a0ed45]{
 -- Page 238, Offset 9182.
@@ -140,7 +141,7 @@ Si dice que es posible, entonces lo apostaré todo a esa posibilidad.
 [sha:2c6ac032d4a266801e8598b3087ca86869050f58]{
 -- Page 239, Offset 9183.
 -- 「ふーん……まあ、それならいいけど。
-"Hmm... bueno, si tu lo dices,
+"Hmm... bueno, si tu lo dices.
 }
 [sha:c0f68e2140490ed80da500ef417797a7f3eeea17]{
 -- Page 239, Offset 9184.
@@ -170,7 +171,7 @@ No puedo evitar pedir confirmación.
 [sha:6b8c5184c81d9415afccb5de73a47042a804e1e7]{
 -- Page 241, Offset 9189.
 -- こと戦いにおいてシビアなアルクェイドが、こんなあっさり俺の我が儘を聞いてくれるとは思わなかった。
-No pensaba que Arcueid――que se toma las batallas seriamente――fuera a escuchar mi petición tan fácilmente.
+No pensaba que Arcueid――que se toma las batallas tan seriamente――fuera a escuchar mi petición con tanta facilidad.
 }
 [sha:b574ab49e276066c96b5a380875695b0ad38dfb7]{
 -- Page 242, Offset 9190.
@@ -186,7 +187,7 @@ O huimos durante tres días, o encontramos y matamos a Vlov esta noche.
 -- Page 242, Offset 9192.
 -- どちらも同じ成功率だもの。違うのはあなたの生存確率だけよ」
 Ambas opciones tienen la misma probabilidad de éxito.
- La única diferencia es la posibilidad de que %{i}tu%{/i} salgas con vida."
+ La única diferencia es la posibilidad de que %{i}tú%{/i} salgas con vida."
 }
 [sha:e5e2e1a11da15a31cfe9658e742042a97662ba56]{
 -- Page 243, Offset 9193.
@@ -201,7 +202,7 @@ Ambas opciones tienen la misma probabilidad de éxito.
 [sha:c00bf8de65742ef5c5da2bb74b72c9e888b2a306]{
 -- Page 243, Offset 9195.
 -- ほんっと、志貴ってわかんない」
-Shiki, eres un misterio de veras."
+Shiki, de veras eres un misterio."
 }
 [sha:858f841158b5b81105862429de20c960e5569174]{
 -- Page 244, Offset 9196.
@@ -221,10 +222,10 @@ Pero incluso con esas, no se ha negado a la idea.
 [sha:41d2b4a34b1673a7d435c093c0ed99d931ca4f48]{
 -- Page 245, Offset 9199.
 -- 俺の気持ちを尊重してくれたのか、それとも勝算的には変わらないからなのか。
-No se si será porque entienda un poco como me siento, o porque en realidad no hay diferencia de todas formas.
+No sé si será porque entiende un poco como me siento, o porque en realidad no habrá diferencia de cualquier forma.
 }
 [sha:c324fcc57e5b329be00a47367c69e0689b48712c]{
 -- Page 245, Offset 9200.
 -- まあ、どちらであっても了解してくれたのはありがたい。
-Bueno, en mi caso, agradezco que al menos esté dispuesta.
+Bueno, sea como sea, agradezco que al menos esté dispuesta.
 }

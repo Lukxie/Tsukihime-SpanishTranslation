@@ -198,10 +198,10 @@
 -- 瞬時の判断で、ヤツは先輩こそ危険だと理解した。自分を殺すのはあの女だと。
 -- TRANSLATION HERE
 }
-[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+[offset:12876]{
 -- Page 743, Offset 12876.
 -- だが―――
-Sin embargo―――
+-- TRANSLATION HERE
 }
 [sha:73176aa278552bbeda59821351045e7e8c94a89e]{
 -- Page 744, Offset 12877.

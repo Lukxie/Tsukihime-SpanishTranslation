@@ -11,8 +11,8 @@ El baño de antes me ha dejado totalmente relajado, sería una lástima perder e
 [sha:36f4f0714d294e731a5a360b391d7118a6d07819]{
 -- Page 10017, Offset 3386.
 -- そうして、どたーん！　とベッドに体を投げ出す遠野志貴なのであった。
-// Ayuda con los sfx please
-%{i}Whump%{/i}. Me lanzo a la cama.
+//Ayuda con los sfx please
+%{i}Wump%{/i}. Me lanzo a la cama.
 }
 [sha:9b5e253af4143a4c0088f3389330d4d63da1e24c]{
 -- Page 296, Offset 3387.
@@ -22,7 +22,7 @@ El baño de antes me ha dejado totalmente relajado, sería una lástima perder e
 [sha:34660abacf41d1fd5353192c4cba62f2b59de0fd]{
 -- Page 296, Offset 3388.
 -- 「いにゃ！？」
-"%{i}Nha%{/i}?!"
+"¡¿%{i}Nha%{/i}?!"
 }
 [sha:267269895d7eb6d01628de0c8a9c244f65ac12be]{
 -- Page 296, Offset 3389.
@@ -32,7 +32,7 @@ Me levanto de la cama de nuevo a toda prisa.
 [sha:063ff81f2f10b704520b9245f04b7dcf44740fa6]{
 -- Page 296, Offset 3390.
 -- 悪い事をしている訳じゃないんだけど、なんとなく悪戯をとがめられた気がしたからだ。
-No es que estuviera haciendo nada mal,
+No es que estuviera haciendo nada malo,
  pero siento como si me hubieran pillado haciendo alguna travesura.
 }
 [sha:45290000cfa6952fb937a6573791d4116cc62887]{
@@ -123,7 +123,6 @@ La llamo para que se detenga y la pueda agradecer por hacerme la cama.
 [sha:0ba56b60692683f2b02463b50ee613ec34c7f291]{
 -- Page 303, Offset 3407.
 -- 掴む気はなかったが、つい翡翠の肩に手を伸ばしてしまった。
-// Revisar
 No tenía pensado agarrarla, pero acabo alcanzándola y tocándola el hombro.
 }
 [sha:fd9be01ef854cf832e1dcd051e8331e4d82702e8]{
@@ -220,7 +219,7 @@ Si esto fuera un dojo, estaría aplaudiendo ahora mismo.
 [sha:49c5c781e3656709751f5d23b4cf3738e9d12835]{
 -- Page 311, Offset 3425.
 -- 「そのような事は……普段、お屋敷の手入れをさせてもらっているから、でしょうか」
-"Bueno eso es... porque siempre me estoy encargando de la mansión, ¿quizás?"
+"Bueno eso es... porque siempre me estoy encargando de la mansión, ¿quizá?"
 }
 [sha:59ab2be235a07d7e2db7118e088ddfef84462c12]{
 -- Page 311, Offset 3426.
@@ -270,7 +269,7 @@ Necesito pensar en otra cosa de la que hablar... Ah, cierto.
 [sha:bc1f94ac5f28f4eea3d4dd9fa30ef32102e0efb7]{
 -- Page 315, Offset 3435.
 -- 確かに秋葉さまが通われている学校は全寮制です。ですが異例として、自宅からの登校を許可されております」
-Es cierto que la escuela a la que Akiha-sama atiende es un internado. Sin embargo, como una excepción, tiene permitido ir a la escuela desde casa."
+Es cierto que la escuela a la que Akiha-sama atiende es un internado. Sin embargo, como excepción, tiene permitido ir a la escuela desde casa."
 }
 [sha:44cbcb77df4b3d6335e229a455426ff343d36701]{
 -- Page 315, Offset 3436. Mods: @n.
@@ -280,19 +279,19 @@ Es cierto que la escuela a la que Akiha-sama atiende es un internado. Sin embarg
 [sha:36ce168eee1ef63dc85100cc1663868bdc859901]{
 -- Page 315, Offset 3437. Glued.
 -- この家から学校に行ってるってコト？」
-significa eso que se desplaza todo ese camino a la escuela desde aquí?"
+¿significa eso que se desplaza todo ese camino a la escuela desde aquí?"
 }
 [sha:95a3a1091e7f9b25100c8f774fe4ca734bcbc7dc]{
 -- Page 316, Offset 3438.
 -- 「はい。ですが、今日のように夕方に帰られる事は稀です。一日の学業がお済みになった後は習い事がおありなので、お帰りになられるのは決まって７時前となります」
 "Si, pero raramente llega a casa antes de la tarde como hizo hoy.
  Incluso después de un día entero de escuela, tiene clases adicionales a las que atender,
- así que normalmente son las siete en punto cuando suele volver a la mansión."
+ así que normalmente cuando vuelve a la mansión suelen ser las siete en punto."
 }
 [sha:d0b5d6832135bf4c26be9ca56aceba6f063398d3]{
 -- Page 316, Offset 3439.
 -- 「習い事……たとえば、どんな？」
-"¿Clases adicionales? ¿Como...?"
+"¿Clases adicionales? ¿Como por ejemplo...?"
 }
 [sha:75313e1849cd7f3125349b08218a3e46274a1281]{
 -- Page 317, Offset 3440.
@@ -309,7 +308,7 @@ significa eso que se desplaza todo ese camino a la escuela desde aquí?"
 -- Page 318, Offset 3442.
 -- 「また、就寝時間までは当日の遠野グループの事業報告に判を押し、起床された後は朝食の時間までにこれからの事業内容をご確認なされます」
 "Además, usa su tiempo antes de ir a la cama para revisar y aprobar el informe de negocio diario del Grupo Tohno.
- Entre por la mañana al levantarse y el desayuno,
+ Entre por la mañana al levantarse y el desayuno
  también inspecciona cualquier otro futuro plan de negocio."
 }
 [sha:03be8693070b1ebeb3a690dbc3448f263681f92e]{
@@ -350,10 +349,10 @@ Akiha-sama quizá pueda también tomarse tiempo libre si es un día festivo.
 -- それでは、と一礼して翡翠は退室した。
 Excusándose, Hisui hace una reverencia y deja la habitación.
 }
-[sha:48f530f3ca970ad8fa123f42005b749c6de6764f]{
+[offset:3450]{
 -- Page 321, Offset 3450.
 -- しかし、それにしても……
-Pero entonces...
+Pero de nuevo...
 }
 [sha:6596622bd81e2bd3422b6b9bc833c78f584b1763]{
 -- Page 322, Offset 3451.
@@ -419,12 +418,12 @@ Más o menos la mitad de mi vida hasta ahora.
 [sha:de9ed40d459d29c5fe646451b17e38a4c56c7459]{
 -- Page 326, Offset 3463.
 -- それも子供から大人になろうと成長する一番大切な時期に、俺はこの屋敷にいなかった。
-No estuve en esta mansión durante el periodo más importante de su vida: cuando ella estaba madurando de niño a adulto.
+No estuve en esta mansión durante el periodo más importante de su vida: cuando estaba madurando de niña a adulta.
 }
 [sha:51f318a249f5b999d76c52dc38ba3c59032f5ad8]{
 -- Page 327, Offset 3464.
 -- 「……兄貴失格だな、ほんと」
-"Realmente soy un hermano horrible..."
+"De veras soy un hermano horrible..."
 }
 [sha:0a8c70288d4d6f27310ef4fd54917e76028dd508]{
 -- Page 327, Offset 3465.
@@ -439,5 +438,5 @@ No es como si arrepentirme de ello fuera a arreglarlo.
 [sha:6ba496602e45f37083f05fffa5529ba844a3993f]{
 -- Page 327, Offset 3467.
 -- この七年間一緒にいてやれたら少しはあいつの負担を減らせていたのだろうか、なんて、虫のいい“もしも”を口にした。
-Egoístamente me pregunto si podría haber aligerado un poco la carga de Akiha si me hubiese quedado con ella estos últimos siete años.
+Me pregunto de manera egoísta si podría haber aligerado un poco la carga de Akiha si me hubiese quedado con ella estos últimos siete años.
 }

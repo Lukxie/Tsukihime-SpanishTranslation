@@ -22,7 +22,7 @@ Ya he recuperado el aliento,
 [sha:d75a185e245e48981b507cd06d7232a238d60bb1]{
 -- Page 559, Offset 25713.
 -- 人間であれ吸血鬼であれ、夜の住人が動き出す時間帯だ。
-Tanto humanos como vampiros, es hora de que los seres nocturnos se muevan.
+Es hora de que los seres nocturnos se muevan, tanto humanos como vampiros.
 }
 [sha:79eb7a2f4ecdfc7785d0cc77c4bd859f2dc1327e]{
 -- Page 560, Offset 25714.
@@ -87,7 +87,7 @@ Ayer, me entró un chico en este lugar."
 [sha:ea4bf721d9291060af549c534e6b7819602e489e]{
 -- Page 563, Offset 25726.
 -- 一転してこの切り返しである。
-Un giro de 180.
+Un giro completamente radical.
 }
 [sha:092bf7b41af04e76f443f6ce4eda83f135841e0b]{
 -- Page 563, Offset 25727.
@@ -102,12 +102,12 @@ Cómo cambia de golpe.
 [sha:098194663f55981f4f598f35602c9640f65d44b3]{
 -- Page 564, Offset 25729.
 -- 「だーかーら！　昨日ここで、志貴を待っているあいだ、男の人に声をかけられたって言ってるのっ！」
-"¡Te! ¡Digo! ¡Que! ¡Mientras te esperaba aquí ayer, me vino un chico!"
+"¡Te! ¡Digo! ¡Qué! ¡Ayer mientras te esperaba aquí, me vino un chico!"
 }
 [sha:eade7943097b2b5b6027f91591a2fbaae034ecd6]{
 -- Page 565, Offset 25730.
 -- 「……いや、何が起きたのかは分かるんだが……おまえ、黒い死者について考えごとしてるんじゃなかったのか？」
-"No, entiendo lo que pasó, pero... ¿no estabas hace un momento agonizando por la figura sombría?"
+"Ya, entiendo lo que pasó, pero... ¿no estabas hace un momento agonizando por la figura sombría?"
 }
 [sha:79152efc857736d5b3c1b939fa29a8c315dc0afb]{
 -- Page 566, Offset 25731.
@@ -117,7 +117,7 @@ Cómo cambia de golpe.
 [sha:84c5dd1c158606f948219a900ee5e3817955f100]{
 -- Page 566, Offset 25732.
 -- 志貴が襲われたみたいに、わたしも男の人に声をかけられたなって！」
-¡De la misma forma que a ti te atacaron, de la nada un hombre me saludó a mi!"
+¡De la misma forma que a ti te atacaron, un hombre me saludó a mí de la nada!"
 }
 [sha:5f50aeceb0b6231b6a8e76576bd8e6ce195a8bfd]{
 -- Page 567, Offset 25733.
@@ -133,7 +133,7 @@ Ciertamente eres una total belleza, por fuera al menos.
 [sha:e986f26e28fd0f1096fcfee6463caca6ff27de50]{
 -- Page 568, Offset 25735.
 -- 「やっぱり？　わたしも最初は敵かなって思ったんだけど、志貴が言ってたじゃない。わたしはいるだけで目立つって。
-"¿Tu crees? Al principio también pensé que era un enemigo, pero recordé lo que dijiste, que destaco con simplemente existir.
+"¿Tú crees? Al principio también pensé que era un enemigo, pero recordé lo que dijiste, que destaco con simplemente existir.
 }
 [sha:50fa8650327895dd402aa9a33a1890d4c32d3725]{
 -- Page 568, Offset 25736.
@@ -143,7 +143,7 @@ Por eso lo observé un rato, y concluí que solo era un humano normal y corrient
 [sha:3977275fe5454fb39d98c1e2abeaec8f317fa48e]{
 -- Page 569, Offset 25737. Mods: @n.
 -- 「まさに間一髪ね、あの人。ほら。昨夜のわたし、誰かさんのおかげで、ちょっとイライラしてたから
-"Caminaba por un hilo muy fino, diría. Anoche gracias a cierta persona, estaba un poco irritada.
+"Caminaba por un hilo muy fino, diría. Anoche estaba un poco irritada gracias a cierta persona.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 569, Offset 25738. Glued.
@@ -168,7 +168,6 @@ No quiero creerlo, pero ese chico que te entró, lo has..."
 [sha:b2e1c24a7ca589478a7c5d28e9b380939a549ef4]{
 -- Page 571, Offset 25742.
 -- ……その、志貴の言葉を思い出さなかったら、どうにかしてたかもしれないけど」
-// Tl oficial
 Bueno, a saber qué hubiera pasado si no me llego a acordar de lo que dijiste."
 }
 [sha:76d695259148a93c24d5c088197ca0f5f0ed12a1]{
@@ -184,7 +183,7 @@ Bueno, a saber qué hubiera pasado si no me llego a acordar de lo que dijiste."
 [sha:10288ffafe1cbef7b1d5896ed8fa9b526ec1b245]{
 -- Page 572, Offset 25745. Glued.
 -- わたしを怒らせるなんて志貴ぐらいのものだもの。他の誰にも、わたしを殺したり助けたりしてくれる人はいないんだから」
-Mis enfados son tuyos y solo tuyos.
+ Mis enfados son tuyos y solo tuyos.
  Después de todo, no hay nadie más que me haya tanto matado como salvado."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -205,7 +204,7 @@ He perdido la cuenta de las veces que esa sonrisa me ha pillado por sorpresa.
 [sha:5bebc0267ca8b3d3bc4dd62567b8528e6b6648a8]{
 -- Page 573, Offset 25750.
 -- 「……そりゃあ、まあ。誰だって、殺されれば頭にくる」
-"A ver... la verdad que... cualquiera estaría molesto si lo asesinaran."
+"Bueno... la verdad es que... cualquiera estaría molesto si lo asesinaran."
 }
 [sha:449d4513c2855be8d5a62b62c81ba4637ec0f55f]{
 -- Page 573, Offset 25751.
@@ -221,29 +220,28 @@ Todo empezó hace un mes...
 -- Page 574, Offset 25753.
 -- この街に連続殺人事件さえ起きなければ、この時間でもここには若いカップルだの、夜遊びから帰る学生やらの姿があった。
 Si no fuera por los asesinatos en serie,
- el parque estaría lleno de parejas de jóvenes y estudiantes que vuelven a casa de salir por ahí,
- incluso a esta hora.
+ incluso a esta hora
+ el parque estaría lleno de parejas de jóvenes y estudiantes que vuelven a casa de salir por ahí.
 }
 [sha:dc4e537d204ceb836250f1a6c5611de16cc343f6]{
 -- Page 575, Offset 25754.
 -- 今では、ここで話しているのは自分とアルクェイドだけ。
-Pero ahora los únicos que estamos aquí hablando somos Arcueid y yo.
+Pero ahora los únicos aquí hablando somos Arcueid y yo.
 }
 [sha:8dac0d74cb1060d4892dfc3f0101e121b522a6b9]{
 -- Page 575, Offset 25755.
 -- 吸血鬼探しも死の線も今はちょっとだけ<隅|すみ>に。
-Por el momento, hemos dejado aparte cazar vampiros y las líneas de muerte.
+Por el momento, hemos dejado aparte el cazar vampiros y las líneas de muerte.
 }
 [sha:1094516a76135c36c31d3be35a2fb8fc157fce2b]{
 -- Page 575, Offset 25756.
 -- 俺たちはごく当たり前の因子として、この風景に溶け込んでいる。
-// Tl oficial
 Aquí estamos, pasando el rato en el parque como si fuera lo más normal del mundo.
 }
 [sha:18d56d72c311d9ad17e20c6f3297c287a77fc1df]{
 -- Page 576, Offset 25757.
 -- 「あ。ねえ、ほら」
-"Ah. Mira.
+"Ah. Mira."
 }
 [sha:3e2ec20882095dd676a4519c4c3dab9ea71cc4ad]{
 -- Page 576, Offset 25758.
@@ -284,7 +282,7 @@ Una promesa de palabra para reunirnos aquí a las diez en punto.
 -- Page 578, Offset 25765.
 -- 昨日の夜、俺が守れなかった、通り過ぎた待ち合わせ。
 Anoche, no pude cumplir dicha promesa,
- y dejé pasar dicho encuentro.
+ y dejé pasar el encuentro.
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 579, Offset 25766.
@@ -314,7 +312,7 @@ La verdad que no lo sé.
 [sha:fb67d37fa3d8d0c685935bde4f94491746ae8353]{
 -- Page 580, Offset 25771.
 -- 今日一日、こいつと街を歩いてみて。
-Llevo todo el día en la ciudad con ella de acá para allá.
+Llevo todo el día con ella en la ciudad de acá para allá.
 }
 [sha:8949e82f222a7b7221548f14ca425f2b60196f10]{
 -- Page 580, Offset 25772.
@@ -389,7 +387,7 @@ No la he podido mirar a los ojos mientras respondía.
 [sha:cf18e7d127552339e8fb6aa264102b4cafb3c769]{
 -- Page 584, Offset 25786.
 -- わたしは気にしないけど、それってひどい侮辱よ。なにを根拠にそんなことを言うのか、聞かせて」
-A mi no me importa, pero date cuenta de que me has insultado.
+A mí no me importa, pero date cuenta de que me has insultado.
  ¿Qué te hace preguntarme eso?"
 }
 [sha:65376e7eae880d261efb363a2bff57df2df95c70]{
@@ -405,12 +403,12 @@ Pero por otra parte, tampoco tengo pruebas verídicas de que lo sea.
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 585, Offset 25789.
 -- だから―――
-Es por eso―――
+Por eso―――
 }
 [sha:17bc113b9c50dbc7e6e3b4d1e8ae9ec3d7136ee7]{
 -- Page 586, Offset 25790. Mods: @n.
 -- 「……だって、おまえは血を見るのもイヤなんだろ。そんな吸血鬼がいるもんか。自分で半人前だと言ってたけど、血を吸った事のない吸血鬼なんて、半人前以下だと思う
-"Me refiero, dijiste que no soportas ver sangre, ¿verdad?
+"Quiero decir, dijiste que no soportas ver sangre, ¿verdad?
  ¿Qué clase de vampiro es ese?
  Aunque digas que eres un fracaso como vampiro,
  alguien que no ha bebido sangre no tiene cualidades para serlo.
@@ -488,7 +486,7 @@ Arcueid respira hondo antes de forzar una sonrisa.
 [sha:c7b4e05f43ec3155ccda989ec205d2a24b3db82f]{
 -- Page 591, Offset 25805.
 -- 果たして、アルクェイド・ブリュンスタッドは本当に吸血鬼なのでしょうか？　って」
-Me he preguntado: '¿Es Arcueid Brunestud un vampiro en realidad?'"
+Me he preguntado: '¿De verdad Arcueid Brunestud es un vampiro?'"
 }
 [sha:c5d33d28ff06ce21d102cbf92a239fd13e6a4133]{
 -- Page 592, Offset 25806.
@@ -499,7 +497,7 @@ Gracias a dios...
 -- Page 592, Offset 25807.
 -- 抑えきれずに吐き出してしまったが、この質問はアルクェイドを傷つけるんじゃないかと、そう思えて仕方がなかった。
 No he podido evitar soltar la pregunta,
- aunque sabiendo que podría haberle hecho daño a Arcueid.
+ aún sabiendo que podría haberle hecho daño a Arcueid.
 }
 [sha:a451d3118ad8366711f01270052f075bac4f13d0]{
 -- Page 592, Offset 25808.
@@ -509,7 +507,7 @@ Me alegro que se lo tomara a broma.
 [sha:3f9790600f2723047844a77391d7d1246653cb5a]{
 -- Page 593, Offset 25809.
 -- 「……だよな。アルクェイドはどう見ても吸血鬼らしくない」
-"Lo sé, ¿verdad? No pareces un vampiro para nada."
+"Lo sé, ¿verdad? No pareces para nada un vampiro."
 }
 [sha:6aefa1b4547fe67494b1c57a53f0ccaf0650babd]{
 -- Page 594, Offset 25810.
@@ -614,13 +612,12 @@ Soy incapaz de mover un dedo, mi ojos están completamente fijos en sus sensuale
 [sha:0b56353a1ddf1fd4f7f98b22dcb22d9097d9df32]{
 -- Page 599, Offset 25830.
 -- 頭の後ろに響くような、甘い声。
-// Tl oficial
 Su dulce voz hace eco en mi cabeza.
 }
 [sha:08e8bb702343798cd5c00d6349d8bfac6bc7ab86]{
 -- Page 599, Offset 25831.
 -- かつん、と足音が間近で止まる。
-Sus pasos se detienen frente a mi.
+Sus pasos se detienen frente a mí.
 }
 [sha:0c9beeea4312882255975f9a6301183a3f93a79a]{
 -- Page 599, Offset 25832.
@@ -660,17 +657,17 @@ Un latido tan fuerte que casi me deja inconsciente.
 [sha:2b48423c233b305b782cef65211bd5a67de8f2ef]{
 -- Page 601, Offset 25839.
 -- 欲しい。欲しい。欲しい。欲しい。
-La deseo. La deseo. La deseo. La deseo.
+La deseo. La deseo. La deseo. La deseo. 
 }
 [sha:2de0b0c8248cef26ab067c08f621ebf8b37f7ff5]{
 -- Page 601, Offset 25840.
 -- 暴れ出す情動を必死に抑える。
-Desesperadamente, intento suprimir las emociones que ebullen en mi pecho.
+Intento desesperadamente suprimir las emociones que ebullen en mi pecho.
 }
 [sha:08ef39b619536e61f8dc893bad0bf71752b23d94]{
 -- Page 601, Offset 25841.
 -- 背中をかき乱そうと<戦慄|わなな>く左腕を、
-Intento aguantarme con cada parte de mi ser.
+Intento aguantar con cada parte de mi ser.
 }
 [sha:4dea3565ceac6d6fb1054e962729c86514c827c2]{
 -- Page 601, Offset 25842.
@@ -686,7 +683,7 @@ Para que mi hambriento brazo derecho no la abrace.
 -- Page 601, Offset 25844.
 -- 欲しくてたまらない。我慢できる筈がない。それでも、今この女を求めてはいけない。
 La deseo tanto. No puedo contenerme.
- Pero, no puedo permitirme desearla.
+ Pero, no me puedo permitir desearla.
 }
 [sha:bdd99ef966b3bcf243b8645b4b086d4147e2e125]{
 -- Page 602, Offset 25845.
@@ -706,12 +703,12 @@ Lo que ahora quiero es fundamentalmente distinto a lo que quería entonces.
 [sha:a56e299477899f5002246801a0e2be9d713f8c06]{
 -- Page 602, Offset 25848.
 -- 殺したい、のではなく。
-Matarla... no es lo que quiero.
+Lo que quiero... no es matarla.
 }
 [sha:06e54aa640b6dbe01edf12cc6071ad7272394b06]{
 -- Page 602, Offset 25849.
 -- それとは違う衝動で、ここまで狂いだしそうだと言うのなら。
-Lo que me vuelve loco ahora es un impulso distinto.
+Lo que ahora me vuelve loco es un impulso distinto.
 }
 [sha:b1464d33ba10d8075abb30a9461dbcf46ee0e560]{
 -- Page 602, Offset 25850.
@@ -727,7 +724,7 @@ No debo mancillar su coraje con algo así.
 -- Page 603, Offset 25852.
 -- 奥歯をかみ砕く勢いで、わき上がる情動を呑み込んだ。
 Aprieto tan fuerte la mandíbula que me rechinan las muelas,
- consigo mantener a raya la efervescencia de mis emociones.
+ consiguiendo mantener a raya la efervescencia de mis emociones.
 }
 [sha:2de40612b10272afe1269868d13494457528f2b4]{
 -- Page 603, Offset 25853.
@@ -747,7 +744,7 @@ De repente, me recorre un escalofrío.
 [sha:4e6305ab62ca2e590a87fdcd6e04870e0b34b9dc]{
 -- Page 604, Offset 25856.
 -- これは冗談だ。俺にではなく、自分に言い聞かせる冗談だった筈だ。
-Esto es una broma. No me intenta convencer a mi, sino a ella misma.
+Esto es una broma. No me intenta convencer a mí, sino a ella misma.
 }
 [sha:4a5b8457151159c9a61f6c698f019e832f6d5eaa]{
 -- Page 604, Offset 25857.
@@ -762,17 +759,17 @@ Entonces, ¿por qué la sensación de su aliento contra mi cuello es tan calient
 [sha:472d2099efc661ce2daa72384cdf57f86f6c97fd]{
 -- Page 605, Offset 25859.
 -- 名前を呼ぼうとして、口を閉ざす。
-Empiezo a llamarla, pero me callo a la mitad.
+La empiezo a llamar, pero me callo.
 }
 [sha:a0bb18ac64e0cba0dc139a8cc33da63b3b7a205f]{
 -- Page 605, Offset 25860.
 -- それは彼女を信用していない事を指す。
-Eso sería como decir que no confío en ella.
+Sería como decir que no confío en ella.
 }
 [sha:2350c35eb7f10d51c5706e39242db7c03ffd86d8]{
 -- Page 606, Offset 25861.
 -- もう終わる。
-Ya se ha acabado de todos modos.
+De todos modos, ya se ha acabado.
 }
 [sha:b379a6f7103b46781b3ddb4c4c83337e773076c8]{
 -- Page 606, Offset 25862.
@@ -782,7 +779,7 @@ Pronto se acabará esta broma, y Arcueid sonreirá como siempre y dirá―――
 [sha:8ca7c8b8bc363a417ed73550e35d10f47b82e644]{
 -- Page 606, Offset 25863.
 -- “なあんて、やっぱり血なんて吸わないよ”と。
-Era broma. ¡Después de todo no te voy a chupar la sangre!'
+ 'Era broma. ¡Después de todo no te voy a chupar la sangre!'
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 607, Offset 25864.
@@ -812,7 +809,7 @@ Tiene miedo.
 [sha:8fe96917626d634d68f1754fca8ab989f0075d05]{
 -- Page 608, Offset 25869.
 -- 俺の思考はまっさらで、恐怖も何もない。今は、まだ。
-Tengo la mente despejada. Ni miedo ni nada, incluso ahora.
+Yo tengo la mente despejada. Ni miedo ni nada, incluso ahora.
 }
 [sha:7b59f36028bb224a165847e9d5e68cd1b947be24]{
 -- Page 608, Offset 25870.
@@ -882,7 +879,7 @@ Me retuerzo del dolor.
 [sha:b19bdd8fc853eef3f227ddddc74074a98a922ad9]{
 -- Page 611, Offset 25883.
 -- 動きたくはないのに、反射的に体は■■から逃れようと後じさる。
-Aunque no desee moverme, mi cuerpo por reflejo intenta alejarse de ■■■■.
+Aunque no desee moverme, mi cuerpo intenta alejarse de ■■■■ por reflejo.
 }
 [sha:4e79efcac238319ae03ac98af8b737de52436af3]{
 -- Page 611, Offset 25884.
@@ -892,7 +889,7 @@ Pero sus garras no sueltan.
 [sha:8320a0696bdd59f2c19ad032bc22929dad1dd16b]{
 -- Page 611, Offset 25885.
 -- 離れようとする俺の体を逃がすまいと、万力のように食い込んでくる。
-Se aferran a mi, como si tuviera las manos atornilladas a ella, me impiden escapar, incluso si intento apartarme.
+Se aferran a mí, como si tuviera las manos atornilladas a ella, me impiden escapar, incluso si intento apartarme.
 }
 [sha:ac1ef8bf64b9e949856b40d49e0dc8a964312846]{
 -- Page 612, Offset 25886.
@@ -1009,10 +1006,10 @@ Lo siento en mi cuello.
 -- 狂おしげな吐息がかかる。
 Su aliento, caliente y frenético.
 }
-[sha:7acbb327e294f13370549ab130d0205e7f746058]{
+[offset:25909]{
 -- Page 618, Offset 25909.
 -- 瞬間、
-El siguiente instante―――
+En un instante―――
 }
 [sha:cbba913887736b5e5e5d960bce21f84664554521]{
 -- Page 618, Offset 25910.
@@ -1098,7 +1095,7 @@ Un humano no es más que una gota a ser consumida.
 [sha:dc7e1a43f040b9bb0d511fd6167e118d5c2ed980]{
 -- Page 623, Offset 25926. Mods: @n.
 -- 「―――、ひ
-"%{i}Hiiih%{/i}!
+"¡%{i}Hiiih%{/i}!
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 623, Offset 25927. Glued.
@@ -1129,7 +1126,7 @@ Se me escapa un grito.
 [sha:4cc28a6401e9ae67b92e2b675a1125d9653361c4]{
 -- Page 624, Offset 25932.
 -- 自分で、自分の声を聞いて情けないな、と思った瞬間。
-Al escuchar mi propia voz,
+Al escuchar mi propia voz, 
  no puedo evitar pensar lo patética que es.
 }
 [sha:6c04cdc6af69604eb602486f57eb3ea4e2cb8774]{

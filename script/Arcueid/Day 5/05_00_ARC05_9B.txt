@@ -16,17 +16,17 @@ El hielo forma una lanza, un misil lanzado por Vlov para volarme la cabeza.
 [sha:d877a15dffbb17db15002814616159b783a57829]{
 -- Page 10020, Offset 10263.
 -- 隠し続けるか、ここで武器を一つ捨てるのか。
-¿Sigo escondiendo mi mano, o me deshago de mi único arma?
+¿Sigo escondiendo mi baza, o me deshago de mi único arma?
 }
 [sha:dbc9727c1a53c00d01a05c67b6a58df70135eb78]{
 -- Page 10020, Offset 10264.
 -- その判断を無意識の内に決定する。
 Tomo la decisión inconscientemente.
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:10265]{
 -- Page 607, Offset 10265.
 -- 「―――！」
-"%{i}Hnh%{/i}!"
+"%{i}Krhkk%{/i}!"
 }
 [sha:f66ec57f1ecf9612e83e732194cfeb8b0dfa6dc1]{
 -- Page 607, Offset 10266.
@@ -59,10 +59,11 @@ La muerte roza mi sien.
 [sha:ba0ce40d643c75f3d41767d28f9dd87fbd0abad8]{
 -- Page 608, Offset 10271.
 -- 飛んでくる氷塊にナイフを合わせる。人間とて野生の獣。その程度の動体視力と反応速度は遙か昔に備わっている。
-// Un mix de ambas traducciones
+//Un mix de ambas traducciones
 Blando el cuchillo para interceptar cada proyectil.
  El humano no es más que una bestia salvaje.
  Hemos poseído agudos reflejos e instintos desde tiempos inmemoriales.
+ 
 }
 [sha:b369eb1df6e15ca5b92d0d601e0886e064372652]{
 -- Page 609, Offset 10272.
@@ -70,10 +71,10 @@ Blando el cuchillo para interceptar cada proyectil.
 Mientras pueda moverme libremente,
  carámbanos como esos no suponen más peligro que una piedrecita gigante.
 }
-[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+[offset:10273]{
 -- Page 609, Offset 10273.
 -- だが―――
-Sin embargo―――
+Sin embargo―――"
 }
 [sha:6e96595240de88f0060a328f8e7f249c2a0aa0d7]{
 -- Page 610, Offset 10274.
@@ -127,10 +128,10 @@ Si quería sobrevivir no tenía más remedio que enseñar mi mano.
 Y ahora que lo he hecho,
  necesito encontrar alguna manera de aprovecharlo.
 }
-[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+[offset:10284]{
 -- Page 612, Offset 10284.
 -- 「っ―――！」
-"%{i}Kh%{/i}―――!"
+"¡%{i}Hn%{/i}!"
 }
 [sha:386fe14b4ba46fa47c88e6e1265a0c257b5b8153]{
 -- Page 612, Offset 10285.
@@ -141,7 +142,7 @@ Lo corto sin malgastar un movimiento.
 -- Page 612, Offset 10286.
 -- もう近寄る術はなくとも、限界まで<動力|たいりょく>を温存する。
 Incluso si no puedo acercarme a él,
- aun necesito conservar toda la energía posible.
+ aún necesito conservar toda la energía posible.
 }
 [sha:c8eb6a766ad445e49656618083c32b76fcfdc875]{
 -- Page 613, Offset 10287.
@@ -219,7 +220,7 @@ A esta distancia, las lanzas de hielo tardan 1.5 segundos en alcanzarme.
 [sha:e6f1f99da7dda05fb803ce9e4ac547a8a6ef289a]{
 -- Page 618, Offset 10301.
 -- 体が動くうちはこの状態を維持できる。
-Mientras mi cuerpo pueda moverse puedo aguantar
+Mientras mi cuerpo pueda moverse puedo aguantar.
 }
 [sha:364edd23094434630d01d5e06329edd7438b18a3]{
 -- Page 618, Offset 10302.
@@ -275,7 +276,7 @@ Si estás a diez metros de él,
 -- このままではいずれ俺も倒れる。雪山で遭難した人間が眠ってしまうのと同じだ。人の場合、体温が摂氏34度以下、あるいは摂氏43度以上で脳細胞が停止し、意識が消失してしまう。
 A este paso, al final yo también caeré.
  Es como cuando los humanos que se pierden en las montañas nevadas acaban sucumbiendo al sueño.
- Cuando el cuerpo humano tiene una temperatura corporal interna menor de 34℃  o mayor de 43℃ , sus neuronas se apagan y pierden la consciencia.
+ Cuando el cuerpo humano tiene una temperatura corporal interna menor de 34℃ o mayor de 43℃, sus neuronas se apagan y pierden la consciencia.
 }
 [sha:cf98ebe1016d917a0ac16c35b0ba0637d50b5484]{
 -- Page 623, Offset 10311.
@@ -326,12 +327,12 @@ Quizá esté protegido de cada dirección,
 [sha:4605e187bf6d1707578cc681a8089ab5696845d7]{
 -- Page 626, Offset 10319.
 -- アルクェイドを打ち倒した長槍を、再び影から取り上げる。
-Una vez más, de las sombras desenvaina la lanza larga que usó para derribar a Arcueid.
+Una vez más, de las sombras desenvaina la larga lanza que usó para derribar a Arcueid.
 }
 [sha:facec4426913d6b6e204cb421a5825c33dc9f5e4]{
 -- Page 626, Offset 10320.
 -- それが呼び水になったのか、ヤツの背後にひときわ大きな樹氷が枝を張り―――
-Quizá antes solo estaba calentando, porque detrás de él, un gran árbol de hielo brota ramas―――
+Quizá antes solo estaba calentando, porque ahora detrás de él, un gran árbol de hielo brota ramas―――
 }
 [sha:f2a291a4288802ab48a57b8a73ec1e1f093daa05]{
 -- Page 626, Offset 10321.
@@ -366,7 +367,7 @@ No puedo dejar que una de esas cosas me roce siquiera.
 [sha:cfcc76ee080f6df5c7e6c4ec770e6e45d0daab94]{
 -- Page 627, Offset 10327.
 -- 出血をすればそこで終わりだ。冷気は１分の猶予も許さず俺の命を止めにくる。
-Si empiezo a sangre, se acabó.
+Si empiezo a sangrar, se acabó.
  El aire gélido me quitará la vida en menos de un minuto.
 }
 [sha:e1fbf562f0e1901aa5aa82251fe56ee1bfd8568e]{
@@ -387,7 +388,7 @@ Número total de presas desplegadas: 26.
 [sha:c13bb35012597a05647d36fd0a1edcd6bcb72bf0]{
 -- Page 628, Offset 10331.
 -- 何を先に斬り、何を見逃すかを平面図のまま凝視する。
-Continuo observando su formación mientras decido cuales destruir primero y cuales evitar.
+Continúo observando su formación mientras decido cuales destruir primero y cuales evitar.
 }
 [sha:7c603376b1563fe8819bd3a1f08d1a3317bdd25a]{
 -- Page 628, Offset 10332.
@@ -402,7 +403,7 @@ El epicentro de muerte que trasciende las líneas.
 [sha:7dcd4a1c96a055fb097c519c83453c55bbace3b5]{
 -- Page 628, Offset 10334.
 -- あの点こそが、線を生み出す死の極点だと。
-El punto que debe ser el orígen que da lugar a las líneas.
+El punto que debe ser el orígen que da lugar a los garabatos.
 }
 [sha:257991672e9596e72081c6b3651d2e248956d86b]{
 -- Page 629, Offset 10335.
@@ -412,7 +413,7 @@ El punto que debe ser el orígen que da lugar a las líneas.
 [sha:1d850a04de5336d9c7ddeba6e9a93cec7f9b9b4e]{
 -- Page 629, Offset 10336.
 -- 目前に迫る死の壁。
-El muro de muerte hace presión sobre mi.
+El muro de muerte hace presión sobre mí.
 }
 [sha:fb63a087c225a330840bc52c3367017288e03429]{
 -- Page 629, Offset 10337.
@@ -432,7 +433,7 @@ Cabe la posibilidad de que muera aquí...
 [sha:89a60beb5b666912c83dd0bd346bcafb0389ca1e]{
 -- Page 629, Offset 10340.
 -- 「あああああああああああああああああ！」
-"%{i}AAAAAAAAAAAHHH%{/i}!"
+"¡%{i}AAAAAAAAAAAHHH%{/i}!"
 }
 [sha:1d029ad84add477eb93bf488dbb72394069e8d85]{
 -- Page 630, Offset 10341.
@@ -447,7 +448,7 @@ Ya no hay forma de que sobreviva esta batalla.
 [sha:56368be4d5cc90bf4a4b5e3a2dc9852865384d40]{
 -- Page 630, Offset 10343.
 -- 右横腹と左足腿の肉を削ぐ氷槍。
-Las lanzas de hielo perforan la carne de mi lado derecho y pierna izquierda.
+Las lanzas de hielo perforan la carne de mi costado derecho y pierna izquierda.
 }
 [sha:0f2ee3c97dc69890bf7428eb73a1db93908133bb]{
 -- Page 630, Offset 10344.
@@ -483,7 +484,7 @@ La situación es desesperada.
 [sha:9dac9036b9a8b36a9157efb86d2743a517e5b1eb]{
 -- Page 631, Offset 10350.
 -- 勝ち目の失われた敗戦。
-Una batalla perdida irremontable.
+Una batalla perdida e irremontable.
 }
 [sha:fa11079e9152662a915480daabff5bc7cdeb5e41]{
 -- Page 631, Offset 10351.
@@ -495,7 +496,7 @@ Sea como sea, moriré antes de un minuto.
 -- ヴローヴも、アルクェイドも、もしこの惨状を眺めている何者かがいても、誰もが俺の死を疑うまい。
 Ni Vlov,
  ni Arcueid,
- ni cualquier otro que este viendo este desastre, dudaría de mi inevitable muerte.
+ ni cualquier otro que esté viendo este desastre, dudaría de mi inevitable muerte.
 }
 [sha:e44aef1cc159be7c23c0e512d5146abc7e7fb4ca]{
 -- Page 631, Offset 10353.
@@ -525,9 +526,9 @@ Un deseo animalístico brota de mi interior.
 [sha:821073f8f358cd19c717f13a5ea8f44f7f6036e1]{
 -- Page 632, Offset 10358. Glued.
 -- なぜおまえは笑っている？
-en un momento como este?
+ en un momento como este?
 }
-[sha:93134910fba6fec6a338c7e1057708a8629c88ab]{
+[offset:10359]{
 -- Page 633, Offset 10359.
 -- 「きゃっ！？」
 "¡¿%{i}Eep%{/i}?!"
@@ -551,12 +552,12 @@ La lanza no ha logrado perforarla,
 [sha:3c2f2f26c0123675c1035db0c7ee5ce8a4ec82be]{
 -- Page 634, Offset 10363.
 -- 顔に直撃したのに無傷とかどうなってんだ、あの女。
-¿Como narices está ilesa tras recibir un ataque así en la cara?
+¿Cómo narices está ilesa tras recibir un ataque así en la cara?
 }
 [sha:e936b20cda59819c9cbeb4bbda104a5b92b7b267]{
 -- Page 635, Offset 10364.
 -- 「いったぁ……！」
-"¡%{i}Auuuu{/i}!"
+"¡%{i}Auuuu%{/i}!"
 }
 [sha:0554d8c4671d60e1af4bcb6114ca662da20bb80c]{
 -- Page 635, Offset 10365.
@@ -645,7 +646,7 @@ No es cuestión de %{i}si%{/i} puedo matarlo.
 [sha:47c9ff593a8be3c02457ac862c1d3eaad3b51c0f]{
 -- Page 640, Offset 10380.
 -- “どの方法なら殺せるか”だ。
-Es cuestión de %{i}como%{/i} matarlo.
+Es cuestión de %{i}cómo%{/i} matarlo.
 }
 [sha:55223c9ede27228eb3cf55feaa0065fd89abc45f]{
 -- Page 641, Offset 10381.
@@ -660,18 +661,18 @@ Solo hay una forma de acercarse, y es―――
 [sha:821abfcb90bf6332464cf07fd40338be40513e72]{
 -- Page 643, Offset 42621. Choice.
 -- ……投擲だ。
-// Me baso en la tl oficial
+//Me baso en la tl oficial
 Lanzado.
 }
 [sha:0af47ce94447969d3bd6fa2daf1dd4b3fa54723e]{
 -- Page 643, Offset 42622. Choice.
 -- ……滑走だ。
-// Me baso en la tl oficial
-Despegando.
+//Me baso en la tl oficial
+Deslizándome.
 }
 [sha:b9c1e6b5cb88bbfe4b1771b6b40b8edcf91f7b78]{
 -- Page 643, Offset 42623. Choice.
 -- ……牽引だ。
-// Me baso en la tl oficial
-Remolcado.
+//Me baso en la tl oficial
+Arrastrarlo.
 }

@@ -26,16 +26,16 @@ La nueva profesora, la cual vino a sustituir a Toyama-sensei, sitúa su dedo ín
 [sha:3b81bc3cbb434d04463e9129b1009b87080f4458]{
 -- Page 169, Offset 3040.
 -- 「戸山先生はね、昨日、お亡くなりになったのよ。
-"Ves, Toyama-sensei, falleció ayer.
+"Verás, Toyama-sensei, falleció ayer.
 }
 [sha:90cc00f00f1b32e001cf7bf84ef29a02d38870b5]{
 -- Page 169, Offset 3041.
 -- 公園の外れで、体の半分が焼け落ちていたんだって」
-Encontraron la mitad de su cuerpo àchicharrado en las afueras del parque."
+Encontraron la mitad de su cuerpo achicharrado en las afueras del parque."
 }
 [sha:942d58b9f3a52ef3b95ef0c437587ddeffbc8ee2]{
 -- Page 169, Offset 3042.
 -- そんな意味合いの事を、歌うように口にした。
 Su voz es ligera y rítmica,
- que contrasta profundamente con las palabras que dice.
+ contrastando profundamente con las palabras que dice.
 }

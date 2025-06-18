@@ -31,7 +31,7 @@ Recuerdo que es simétrica, y que el ala este y oeste tienen el mismo número de
 [sha:f5b54667f14626d4d45e8b66cc2474dc8d40779e]{
 -- Page 447, Offset 2296.
 -- 「志貴さまのお部屋はこちらです」
-"Shiki-sama, tu habitación está en esta dirección."
+"Shiki-sama, su habitación está en esta dirección."
 }
 [sha:a8158cb2659f070d11021d4f7ff834f4b823708a]{
 -- Page 448, Offset 2297.
@@ -46,7 +46,7 @@ Parece que mi habitación está en la segunda planta.
 [sha:d712bf51386626956299f2a0f560d4d180fdddc9]{
 -- Page 449, Offset 2299.
 -- 外はすでに日が落ちていた。
-El sol ya se ha puesto.
+El sol ya puesto.
 }
 [sha:d172e25f2f7c7787586a5c9e5e4a985d3ddadffb]{
 -- Page 449, Offset 2300. Mods: @n.
@@ -56,27 +56,27 @@ Una alfombra azul
 [sha:133b1fafa73ae6965b2ee42b6893bafa1f29ebd0]{
 -- Page 449, Offset 2301. Glued.
 -- 伸びる廊下。
-se extiende a lo largo del pasillo.
+extendiéndose a lo largo del pasillo.
 }
 [sha:8ebc16f1d64345a03c5b547f95845bd2c95da2da]{
 -- Page 449, Offset 2302.
 -- 城壁を思わせる一面の白い壁。
-Las paredes blancas son reminiscentes a los muros de un castillo.
+Las paredes blancas reminiscentes a los muros de un castillo.
 }
 [sha:c12b2e20ac73967fe6ae8926d6a9f390dc8f12ed]{
 -- Page 449, Offset 2303.
 -- 温かみのあるオレンジ色の電灯が延々と続く中、メイド服の女の子が歩いている。
-Por el interminable pasillo de cálidas luces naranjas camina la chica en uniforme de sirvienta.
+Y por el interminable pasillo de cálidas luces naranjas camina la chica en uniforme de sirvienta.
 }
 [sha:eb2385485d048e76c7a6a93c80a754d82b104429]{
 -- Page 450, Offset 2304.
 -- 「……なんか、おとぎの国みたいだ」
-"Es como si algo sacado de un cuento de hadas..."
+"Es como algo sacado de un cuento de hadas..."
 }
 [sha:ccdf1f46244e41780b0352e6fc12957b6e8469bf]{
 -- Page 450, Offset 2305.
 -- 思わず感想を洩らす。
-No puedo evitar que mis pensamientos abandonen mi boca.
+No puedo evitar que lo que pienso abandone mi boca.
 }
 [sha:feeecb2a9d7c47b1140b08a80cdd5d8d0c46761e]{
 -- Page 451, Offset 2306.
@@ -106,12 +106,12 @@ Hisui me mira, hace una reverencia, y continúa caminando.
 [sha:c7802de31f290848fab14237b080cc4d5d3be883]{
 -- Page 452, Offset 2311.
 -- ……言葉を失う。
-Estoy sin palabras...
+No tengo palabras...
 }
 [sha:2903f58a459283631deb2e14e07e92d0a8f06a05]{
 -- Page 452, Offset 2312.
 -- 遠野邸に帰ってきてから何度目かの絶句だった。
-Me pregunto cuántas veces me he quedado sin palabras desde que llegué.
+Me pregunto cuántas veces me he quedado así desde que llegué.
 }
 [sha:85e287668cc02826bf07064745a81354cdc3f439]{
 -- Page 453, Offset 2313.
@@ -121,7 +121,7 @@ El suelo está hecho de teca, que está considerada una madera de alta calidad.
 [sha:98009cf51e07a73e6eb2a8bfb571ff56f64a18fb]{
 -- Page 453, Offset 2314.
 -- ３メートルはありそうな高い天井。
-El techo tiene que tener por lo menos tres metros de alto.
+El techo tiene que tener por lo menos tres metros de altura.
 }
 [sha:4f9bdfd757c0a822e80b68af68ae6bfe0badb65a]{
 -- Page 453, Offset 2315.
@@ -131,7 +131,7 @@ Y creo que puedo ver una terraza interior privada en la parte de atrás.
 [sha:d4e155221534b104e7e88b84e8334864b93f68a1]{
 -- Page 453, Offset 2316.
 -- 翡翠に案内された部屋は、とてもではないが、一介の高校生が住む部屋の造りではなかったからだ。
-La habitación a la que Hisui me ha guiado no es el tipo de habitación en la que un estudiante de instituto viviría normalmente,
+La habitación a la que Hisui me ha guiado no es el tipo de habitación en la que normalmente viviría un estudiante de instituto,
  ni de lejos.
 }
 [sha:c6ef9b0df5502080d601876fdcc7837a413afa70]{
@@ -223,7 +223,7 @@ Parece que por lo menos puede mostrar %{i}alguna%{/i} emoción.
 [sha:37621e6a388e165e581f5fa8d11a6601c5590855]{
 -- Page 460, Offset 2334.
 -- 少しは覚えがあるし、きっとそうだったんだろう」
-Recuerdo algunas partes, así que me imagino que así sería."
+Recuerdo algunas partes, por lo que me imagino que así sería."
 }
 [sha:cb97b33701bfbb0b49c2c3e93e41593b78fd49f1]{
 -- Page 461, Offset 2335.
@@ -249,7 +249,7 @@ Después de todo, desde hoy es el hijo mayor de la familia Tohno."
 [sha:074128f2c8e9150e4220a07ca2d68c508a067ab6]{
 -- Page 463, Offset 2339.
 -- 「……まあ、そうだね。せめて外見ぐらいは笑われないように頑張ってみるよ」
-"Bueno, si,  eso es cierto. Me esforzaré para por lo menos mantener las apariencias."
+"Bueno, si, eso es cierto. Me esforzaré para mantener las apariencias por lo menos."
 }
 [sha:39ccae1b04792ac9ad0639d30e7ce1f4c363fdf5]{
 -- Page 464, Offset 2340.
@@ -275,7 +275,7 @@ Si no hay más sitios, tengo que poder relajarme en esta habitación.
 [sha:5179254e824458156494c7abe82382334bdba3a9]{
 -- Page 465, Offset 2344.
 -- 「いや、別にないけど？
-"Quiero decir, ¿parece que está bien?
+"Quiero decir, ¿diría que está bien?
 }
 [sha:ee9b2454f1c315755ab9eaaf2d71717174fa5a3c]{
 -- Page 465, Offset 2345.
@@ -312,7 +312,7 @@ Dentro de mi bolsa solo están mis libros de texto,
 [sha:3ed5b3d1857ae25edeb3a2344f6c0fba916353f4]{
 -- Page 469, Offset 2351.
 -- 「ともかく、荷物のことは気にしないでいい。
-"De todas, no te preocupes por mi equipaje.
+"De todas formas, no te preocupes por mi equipaje.
 }
 [sha:e39a08414350eb05a597c4feda9ba117922820d9]{
 -- Page 469, Offset 2352.
@@ -373,7 +373,7 @@ Normalmente estaría en la sala de estar viendo la tele o haciendo el tonto con 
 [sha:a4fa88ac71d29b6b52b5f7f2d6760e7927c1f74c]{
 -- Page 474, Offset 2363.
 -- 「テレビと、通信回線……ですか？」
-"Una televisión o Wi-Fi...?"
+"¿Una televisión o Wi-Fi...?"
 }
 [sha:cbac59d3114951e69c5be5a640166f2f088916dd]{
 -- Page 475, Offset 2364.
@@ -383,7 +383,7 @@ Entrecierra sus ojos ligeramente.
 [sha:d467f62e4b1a895fee82b23016199904e9a1baa4]{
 -- Page 475, Offset 2365.
 -- ……自分で言っておいてなんだけど、頭が痛くなる質問だ。
-Quería evaluar la situación, pero este tipo de preguntas quizá sean más problema de lo que vale la pena...
+Quería evaluar la situación, pero quizá este tipo de preguntas sean más problema del que vale la pena...
 }
 [sha:20a35d5d755d07c7bcf082fb821743e9f5a50be1]{
 -- Page 475, Offset 2366.
@@ -405,7 +405,7 @@ Los familiares que estuvieron aquí hasta el otro día trajeron sus pertenencias
 [sha:f1b412d19a28e06c15d473e2b34b217dca698d22]{
 -- Page 477, Offset 2369.
 -- 「秋葉が追い出した親戚筋か……逗留って、誰がどのくらいしてたんだ？」
-"Los familiares que Akiha echó... ¿Quién se estaba quedando aquí, y desde hace cuanto?
+"Los familiares que Akiha echó... ¿Quién se estaba quedando aquí, y desde hace cuanto?"
 }
 [sha:669115d9bd9f3926824cfdba14d9664cf298efe5]{
 -- Page 478, Offset 2370.
@@ -435,7 +435,7 @@ A parte de eso... Escuché que el doctor de el anterior cabeza, Makihisa-sama, e
 [sha:c62369a8cbe8609a120634b839a5ebe806e7931c]{
 -- Page 479, Offset 2375.
 -- 「三年もかぁ……なあ翡翠。そういうのって逗留っていうんじゃなくて、居候っていうんじゃないか？」
-"¿Tres años enteros...? Ey, Hisui, ¿llegado a ese punto no crees que tendría más sentido llamarlos 'gorrones' mas que invitados?
+"¿Tres años enteros...? Ey, Hisui, ¿llegado a ese punto no crees que tendría más sentido llamarlos 'gorrones' mas que invitados?"
 }
 [sha:b54d179ba4d8d28d85e076ba4c6408a2e50d43fa]{
 -- Page 480, Offset 2376.
@@ -455,7 +455,7 @@ De todos modos, parece que las personas que se alojaban aquí se mudaron con sus
 [sha:0de5b53616bab08a13176294cd0135c5281a1b35]{
 -- Page 481, Offset 2379.
 -- 近代的な娯楽を俗物的と毛嫌いしていた槙久が、自由にテレビやネットを使わせていたとは思えない。
-Es improbable que Makihisa, quien tenía prejuicios contra cosas vulgares como el entretenimiento moderno, fuera a permitir que la gente viese la tele o buscase en libremente en internet.
+Es improbable que Makihisa, quién tenía prejuicios contra cosas vulgares como el entretenimiento moderno, fuera a permitir que la gente viese la tele o buscase en libremente en internet.
 }
 [sha:e827d762e8884a83344dfdac783ea5e64039e2bf]{
 -- Page 481, Offset 2380.
@@ -515,7 +515,6 @@ Como alguien que no está acostumbrado a tener sirvienta, me siento incómodo si
 [sha:b72cfb3cc82e723d22e8523864cb86839365de07]{
 -- Page 485, Offset 2391.
 -- なんとかしてあの無表情な顔を笑わせてみたいと思うのだけど、どうも生半可な努力では難しそうだ。
-// Corregido
 Me gustaría hacerla reír de alguna forma, pero parece que será difícil no pongo todo mi empeño en ello.
 }
 [sha:dbf519022fc8872fbd3092b797734bfe0934c351]{
@@ -558,7 +557,7 @@ Y entonces, de repente, me mira directamente.
 -- 「姉さんの部屋になら、あると思います」
 "Creo que hay una en la habitación de Nee-san."
 }
-[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+[offset:2400]{
 -- Page 489, Offset 2400.
 -- 「は？」
 "¿Qué?"

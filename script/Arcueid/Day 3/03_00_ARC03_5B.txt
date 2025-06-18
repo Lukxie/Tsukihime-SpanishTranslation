@@ -1,7 +1,7 @@
 [sha:514428714433e3b540f5ab97c50469f2cf721740]{
 -- Page 10010, Offset 4459.
 -- ……ぼんやりと駅前の雑踏を眺める。
-Aturdido miro a la multitud en frente a la estación.
+Aturdido, miro a la multitud en frente a la estación.
 }
 [sha:dab357b6b2f19472b8294dba0b224a6933729887]{
 -- Page 10010, Offset 4460.
@@ -21,13 +21,13 @@ La gente pasa a mi lado por oleadas.
 [sha:4c328cfb29c773d543e753f16a0557616d4db64d]{
 -- Page 10010, Offset 4463.
 -- 名前も素性も知らない彼らは、すぐとなりを歩いている誰かに視線を向ける事なく、自分だけの目的地に向かって行く。
-Todos y cada uno de ellos es un completo desconocido para mi,
- y mientras cada uno se dirige a su destino ni siquiera pierden un momento mirando a aquellos a su alrededor.
+Todos y cada uno de ellos es un completo desconocido,
+ y mientras cada uno se dirige a su destino ni siquiera pierden un momento en mirar a aquellos a su alrededor.
 }
 [sha:a588a9239961d3d0d1f63935fb914fb7b27f3387]{
 -- Page 195, Offset 4464.
 -- 同じ場所に、これだけ大勢の人間がいるというのに、誰も彼も視界は一つきりだ。
-Aunque todas estas personas estén en el mismo sitio,
+Aunque todas estas personas se encuentren en el mismo sitio,
  cada uno está en su propio mundo.
 }
 [sha:aab4914ffe384a3f88b541a6caf5df7c3b9b331c]{
@@ -43,7 +43,7 @@ Ellos viven cada día con ellos mismos en el centro del escenario.
 [sha:174051a7efbc3225ff48039aa7cbb5aea381c458]{
 -- Page 196, Offset 4467.
 -- 目に見えていながら、何も見ていない毎日。
-Sus vidas están a la vista de todos, y aún así nadie mira.
+Sus vidas a la vista de todos, y aún así nadie mira.
 }
 [sha:c4d1c412e99c331c2e64422ae15a2bb267daafbe]{
 -- Page 196, Offset 4468.
@@ -53,7 +53,7 @@ Sus días ni se cruzan, ni se ramifican en nuevas direcciones.
 [sha:751485bf45e2574124cb01daf11dcd55fb2d7a5d]{
 -- Page 197, Offset 4469.
 -- 最小の労力で最低限の<安寧|あんねい>を得る知恵。
-Así es como mantenemos un nivel base de paz y orden con el mínimo esfuerzo posible.
+Así es como, con el mínimo esfuerzo posible, mantenemos un nivel base de paz y orden.
 }
 [sha:28e7991bf807f7b502b5697b2de81fe9693a9dfa]{
 -- Page 197, Offset 4470.
@@ -69,7 +69,7 @@ Incluso al depender de otros, no nos involucramos mucho con ellos.
 [sha:1c8913be2da7eb07a4585c5133f10289aee2cb1a]{
 -- Page 198, Offset 4472.
 -- 微熱のせいか感傷的になっている。
-Quizá es por mi ligera fiebre que me esté poniendo sentimental.
+Quizá me estoy poniendo sentimental por mi ligera fiebre.
 }
 [sha:b729cb27e5733a8479fd3f1325bdfc88422518e5]{
 -- Page 198, Offset 4473.
@@ -79,7 +79,7 @@ Quizá es por mi ligera fiebre que me esté poniendo sentimental.
 [sha:990c3f0d772b8a28d7df477307d94eb1a73d2ab6]{
 -- Page 198, Offset 4474.
 -- 気分も落ち着いてきたし、ここにいても<善|よ>くない思索に<耽|ふけ>るだけだ。
-Ahora me siento mucho mejor, y si me quedo por aquí solo acabaré vagando aún más en estos pensamientos inútiles.
+Ya me siento mucho mejor, quedarme aquí solo hará que vague aún más en estos pensamientos inútiles.
 }
 [sha:fd8855981ef04caecb3874da18142c73c6148614]{
 -- Page 199, Offset 4475.
@@ -94,13 +94,13 @@ Me dirijo a la mansión, con mis pensamientos nublados por la anemia.
 [sha:89849b1abae1fd590882bd6b4f3b10fbd221a185]{
 -- Page 199, Offset 4477.
 -- 今はただ、誰も訪れない部屋で眼鏡を外して目を<瞑|つむ>って、呼吸をするだけの器官になりたかった。
-Todo lo que quiero hacer es estar solo en mi habitación. Quitarme las gafas, cerrar los ojos, y no hacer otra cosa más que respirar.
+Lo único que quiero hacer es estar solo en mi habitación. Quitarme las gafas, cerrar los ojos, y no hacer otra cosa más que respirar.
 }
 [sha:0c37400a99e466990576df7f2ed954e3895d4bdc]{
 -- Page 199, Offset 4478.
 -- @g　―――その女と、すれ違うまでは。
 @g
-Eso es, hasta que me cruzo con ella.
+Eso, hasta que me cruzo con ella.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 200, Offset 4479.
@@ -117,13 +117,13 @@ Es casi como si el tiempo se hubiese detenido.
 -- Page 200, Offset 4481.
 -- @g　俺のすべてが、吸い寄せられたように、その一瞬を記憶する。
 @g
-Cada fibra de mi ser registra este momento en la memoria.
+Cada fibra de mi ser registra en la memoria este instante.
 }
 [sha:8715e4d1ea19b6c3465e70cddcaf20ef7da63aca]{
 -- Page 201, Offset 4482.
 -- @g　―――ドクン。
 @g
-―――%{i}Ba-dump%{/i}.
+―――%{i}Ba-dum%{/i}.
 }
 [sha:84965345107818c6c1dfda8983c8dc448f224d87]{
 -- Page 201, Offset 4483.
@@ -153,7 +153,7 @@ Una silueta impecable, el reminiscente de una cima más allá de la comprensión
 -- Page 202, Offset 4487.
 -- @g　―――どくん。
 @g
-―――Ba-dump.
+―――Ba-dum.
 }
 [sha:f392245ec60666c2245ab48edcd719d2cedc273d]{
 -- Page 202, Offset 4488.
@@ -183,19 +183,19 @@ Mis nervios saltan uno a uno bajo el estrés, como si alguien hubiese puesto una
 -- Page 203, Offset 4492.
 -- @g　見惚れていたというのなら、間違いなく夢中だった。
 @g
-Decir que estoy fascinado sería quedarse corto describiendo mi obsesión.
+Decir que estoy fascinado sería quedarse corto en describir mi obsesión.
 }
 [sha:886d24ae2895e8fa4fcfb4264ded3f6e1c5a35d5]{
 -- Page 203, Offset 4493.
 -- @g　足はもう止まっている。
 @g
-Mis pies ya se han parado.
+Mis pies ya se han detenido.
 }
 [sha:2c50132565c49694c9d35d701dc21ab21272e69d]{
 -- Page 203, Offset 4494.
 -- @g　俺は視界から過ぎていった女の影を、見失わぬよう振り返る。
 @g
-Giro la cabeza para no perderla de vista a la que pasa por mi lado.
+Giro la cabeza para no perderla de vista a la que pasa a mi lado.
 }
 [sha:a4903b8232a99298fdaf3a927f66d684429dc619]{
 -- Page 204, Offset 4495.
@@ -254,13 +254,13 @@ Mis ojos se sienten como si se fueran a partir.
 -- Page 205, Offset 4504.
 -- @g　手のひらはズルズルに濡れている。
 @g
-Las palmas de mi manos resbalan y están sudadas.
+Las palmas de mis manos están sudadas y resbalan.
 }
 [sha:9461c5f3b85ed7882295e73aaa8b03f952edd6c3]{
 -- Page 205, Offset 4505.
 -- @g　血は足りず、指先は感覚がないほど冷えているのに、
 @g
-Mi sangre no está haciendo su trabajo y las puntas de mis dedos están tan frías que no puedo sentirlos, pero a pesar de eso―――
+Mi sangre no hace su trabajo y las puntas de mis dedos están tan frías que no puedo sentirlos, pero a pesar de eso―――
 }
 [sha:32e1d9795635eedaccb744bd6a6b6798bb0741ab]{
 -- Page 205, Offset 4506.
@@ -272,13 +272,13 @@ Estoy sudando mucho.
 -- Page 206, Offset 4507.
 -- @g　<生態|じしん>が<動物|いきもの>である事を思い出す。
 @g
-De repente, recuerdo que solo soy un animal, vivo e igual que el resto.
+De repente, recuerdo que solo soy un animal, vivo e igual al resto.
 }
 [sha:c584130e2be0aa95ff86b1bc926655567dbbc605]{
 -- Page 206, Offset 4508.
 -- @g　呼吸はそれだけで再始動した。
 @g
-Eso es todo lo que necesito para empezar a respirar de nuevo con normalidad.
+Eso es todo lo que necesito para empezar a respirar de nuevo.
 }
 [sha:bf023a26ad41a8cd518a9c31c802070b535545ac]{
 -- Page 206, Offset 4509.
@@ -352,7 +352,7 @@ Respirando fuerte y acaloradamente como un ■■■■―――
 -- Page 209, Offset 4521.
 -- @g　白い<獲物|おんな>の姿を求める。
 @g
-La deseo. Deseo a la <mujer|p r e s a  > en blanco.
+La deseo. Deseo a la <mujer|p r e s a  > de blanco.
 }
 [sha:ce4cc096c8926934d1b1a3580f9437b4c1ca8989]{
 -- Page 210, Offset 4522.
@@ -369,13 +369,13 @@ Su ritmo es relajado.
 -- Page 210, Offset 4524.
 -- @g　オレにはいっさい関心がない。
 @g
-Ni siquiera me está prestando atención.
+Ni siquiera me presta atención.
 }
 [sha:3ffab80274d9ad56f06d8f44d372935ecf4ae6e0]{
 -- Page 210, Offset 4525.
 -- @g　―――かすかな疑問が脳裏をかすめる。
 @g
-Una breve pregunta me viene a la mente.
+Me viene a la mente una breve pregunta.
 }
 [sha:25855c89f2006dd9b8d20a7f567628288922f577]{
 -- Page 210, Offset 4526.
@@ -388,14 +388,14 @@ Una breve pregunta me viene a la mente.
  ¿Ha pasado algo? Debe haber pasado algo.
  Seguramente esté cansada.
  Exhausta. Agotada.
- Es por eso que tengo esta oportunidad.
+ Es por ello que tengo esta oportunidad.
  La razón por la que me siento así es porque, cuando todo esté dicho y hecho, estoy seguro de que %{i}la puedo ■■■%{/i}.
 }
 [sha:aab20d6af3aa017c7bde49830e402bc19f4aecb5]{
 -- Page 211, Offset 4527.
 -- @g@b嗤うように舐めまわしたい。
-// Sponsorizado por wordreverser xd
-// Quiero pasar mi sucia lengua por toda ella.
+//Sponsorizado por wordreverser xd
+//Quiero pasar mi sucia lengua por toda ella.
 @g
 %{ri}
          .alle adot rop augnel aicus im rasap oreiuQ
@@ -410,7 +410,7 @@ Una breve pregunta me viene a la mente.
 [sha:7550e66e8894c6a96ac181e74da7b2e7a0351a4c]{
 -- Page 211, Offset 4529.
 -- @g@b求めるように引き千切りたい。
-// Quiero romperla en mil pedazos.
+//Quiero romperla en mil pedazos.
 @g
 %{ri}
          .sozadep lim ne alrepmor oreiuQ
@@ -425,7 +425,7 @@ No hablo de masturbación o coito, sino algo más simple; más primordial.
 [sha:20fc9fc001e0e8d91ee78b0a382c2f6cc7d13f94]{
 -- Page 211, Offset 4531.
 -- @g@b味わうように切り崩したい。
-// Quiero matarla para poder saborearla.
+//Quiero matarla para poder saborearla.
 @g
 %{ri}
          .alraerobas redop arap alratam oreiuQ
@@ -440,7 +440,7 @@ No puedo recordar. De hecho―――
 [sha:42d7904ec1d1e1b998d7b497da0e42f59227f2f8]{
 -- Page 211, Offset 4533.
 -- @g@b心のままに、■したくてたまらない。
-// No puedo esperar a ■■ todo lo que me plazca.
+//No puedo esperar a ■■ todo lo que me plazca.
 @g
 %{ri}
          .aczalp em euq ol odot ■■ a rarepse odeup oN
@@ -521,7 +521,7 @@ Al tocar el hierro me da un escalofrío desde las puntas de los dedos.
 -- Page 214, Offset 4546.
 -- @g　なんて幸運。
 @g
-¿Cuanta suerte tengo?
+Que suerte tengo.
 }
 [sha:6d1b273a67f2956790a5a03fd22c307c40da61c4]{
 -- Page 214, Offset 4547.
@@ -568,7 +568,7 @@ Así que tengo que ser tan discreto como pueda, y seguirla únicamente por su ol
 [sha:ade42a64236357874c4c17c58ac9175381135073]{
 -- Page 216, Offset 4554.
 -- @g　女がマンションに入っていく。
-// Edificio residencial queda mejor pero no se si es mejor dejarlo así.
+//Edificio residencial queda mejor pero no se si es mejor dejarlo así.
 @g
 La mujer entra a un complejo de apartamentos.
 }
@@ -588,7 +588,7 @@ Ni siquiera puedes acceder al vestíbulo si no eres residente.
 -- Page 216, Offset 4557.
 -- @g　非常口に回る。上着を脱いで物陰に置く。切る。中に入る。
 @g
-Doy la vuelta hacia la salida de emergencia, me quito mi chaqueta, y la dejo escondida en algún lado. Corto. Y entro.
+Doy la vuelta hacia la salida de emergencia, me quito la chaqueta, y la dejo escondida en algún lado. Corto. Y entro.
 }
 [sha:77831001d7c03bb2257bb7c5a53d1fcd150d304a]{
 -- Page 217, Offset 4558.
@@ -600,7 +600,7 @@ No hay nadie en el vestíbulo.
 -- Page 217, Offset 4559.
 -- @g　エレベーターを見る。ランプは最上階で止まっている。
 @g
-Miro el ascensor. Está parado en la última planta.
+Miro el ascensor. Está detenido en la última planta.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 218, Offset 4560.
@@ -635,7 +635,7 @@ Estoy temblando de la emoción.
 -- Page 220, Offset 4565.
 -- @g　狭い密室の中で、ポケットの中の得物を握り締めた。
 @g
-En los confines ceñidos de este espacio cerrado, agarro el arma de mi bolsillo.
+En los confines ceñidos de este espacio cerrado, agarro el arma en mi bolsillo.
 }
 [sha:5aa4231c8e6f97a4e3a98848c07816e936c69e86]{
 -- Page 220, Offset 4566.
@@ -647,7 +647,7 @@ Ella está justo aquí――tan cerca de mí.
 -- Page 220, Offset 4567.
 -- @g　あともうすこしであの女を　　できる。
 @g
-Sólo un poco más y puedo ■■■■.
+Sólo un poco más y podré ■■■■.
 }
 [sha:89bfe461562929e1795ec25c9794753dbff16b32]{
 -- Page 221, Offset 4568.
@@ -694,7 +694,7 @@ Por pensar en ■■■■■■.
 -- Page 222, Offset 4575.
 -- @g　オレは、このまま―――――
 @g
-Sin nadie para detenerme, voy a―――
+Sin nadie que me detenga, voy a―――
 }
 [sha:6ac4becf820b498bdc0d2daac215ee7766110969]{
 -- Page 223, Offset 4576.
@@ -708,11 +708,11 @@ He llegado a la puerta del apartamento tres.
 @g
 Debe ser aquí.
  El resto de habitaciones están vacías.
- ¿Puedo estar seguro? Puedo.
- Cualquier ser viviente puede percatarse de este olor, lo quieran o no.
- Es vergonzoso. Es inmoral. Es inevitable.
+ ¿Estoy seguro? Lo estoy.
+ Cualquier ser viviente, lo quiera o no, puede percatarse de este olor.
+ Es vergonzoso. Inmoral. Inevitable.
  Las reglas de la sociedad moderna son frágiles.
- Es por lo que incluso este impulso trivial basta para que se desmoronen.
+ Es por lo que incluso este trivial impulso basta para que se desmoronen.
 }
 [sha:670420aaa3cb10cfc520fd1f52aebab89524bae4]{
 -- Page 224, Offset 4578.
@@ -729,7 +729,7 @@ Voy a presionar el timbre, pero me detengo.
 -- Page 224, Offset 4580.
 -- @g　眼鏡は邪魔だ。
 @g
-Mis gafas están en medio.
+Mis gafas están de por medio.
 }
 [sha:da4667a15f806ced8f725afd5c2565c66308b64b]{
 -- Page 224, Offset 4581.
@@ -740,7 +740,7 @@ No puedo hacer lo que he venido a hacer con ellas puestas.
 [sha:ae51654d9f3f18f11f9f3de9803c0b9f43d264a1]{
 -- Page 225, Offset 4582.
 -- 『―――いい？
-"―――¿Entendido?
+"―――¿Lo entiendes?
 }
 [sha:1b2396a0c81896a1e2ad948c97966c0947eb7848]{
 -- Page 225, Offset 4583.
@@ -768,7 +768,7 @@ Pero ahora no puedo recordar su cara o su nombre.
 -- Page 227, Offset 4587.
 -- @g　ゆっくりと眼鏡を外した。
 @g
-Me quito las gafas lentamente.
+Me quito lentamente las gafas.
 }
 [sha:8c7e9fa9ed7b1654d7f9b1428d0cec9538bb8cec]{
 -- Page 227, Offset 4588.
@@ -821,7 +821,7 @@ No lo sé, pero presiono el timbre.
 -- Page 230, Offset 4596.
 -- @g　扉ごしに声。開かれるドア。
 @g
-Escucho una voz tras la puerta. La puerta comienza a abrirse.
+Escucho una voz tras la puerta. Y esta comienza a abrirse.
 }
 [sha:dae526bd41a194f64a46e0a19e988dc13469d719]{
 -- Page 230, Offset 4597.
@@ -838,7 +838,7 @@ Me cuelo por el hueco en la puerta y entro a la habitación.
 [sha:404aea1cfbda1e29d4923ef160842edd76b04020]{
 -- Page 231, Offset 4599.
 -- 「え――――」
-"Oh―――"
+"Eh―――"
 }
 [sha:3f043c9804d6fc4d5342a3b0ad153a2e04788f3b]{
 -- Page 231, Offset 4600.
@@ -858,7 +858,7 @@ O al menos, lo intenta.
 @g
 La voz de la mujer con la que estaba tan encaprichado――
 la cuál he perseguido desesperadamente hasta aquí――
-no se oirá de nuevo.
+no volverá a oirse de nuevo.
 }
 [sha:d64c78be47f7ca5a512a772dff144a23252b75ab]{
 -- Page 231, Offset 4603.
@@ -870,7 +870,7 @@ La cosa se acaba antes de darme cuenta.
 -- Page 232, Offset 4604.
 -- @g　室内に入った瞬間、かちん、と撃鉄の落ちる音を聞いた。
 @g
-El momento en el que entro en la habitación, escucho un click. El sonido de un martillo golpeando.
+En cuanto entro en la habitación, escucho un click. El sonido de un gatillo.
 }
 [sha:4920c81df6c75b5947f027ada871154c1ded9cd2]{
 -- Page 232, Offset 4605.
@@ -882,13 +882,13 @@ El momento en el que entro en la habitación, escucho un click. El sonido de un 
 -- Page 232, Offset 4606.
 -- @g　どれも違う。では何か。
 @g
-No fue ninguna de esas cosas. Pero entonces, ¿qué fue?
+No fue ninguna de esas. Pero entonces, ¿qué fue?
 }
 [sha:66cd2ecc55263caf09641ad32ac6ca3dc5ef39be]{
 -- Page 232, Offset 4607.
 -- @g　説くまでもない。その<工|お><程|と>はただ一つ、
 @g
-No hace falta decirlo. Solo pudo haber sido una cosa.
+No hace falta decirlo. Solo pudo ser una cosa.
 }
 [sha:483860a7337847531c11256a1fb7569d6a6ece43]{
 -- Page 232, Offset 4608.
@@ -924,13 +924,13 @@ Perforo.
 -- Page 233, Offset 4613. Mods: @n.
 -- @g　走らせ、
 @g
-La atravieso.
+Atravieso.
 }
 [sha:44e626c9746d8cd07c55ffd0888a10c6f65d0edd]{
 -- Page 233, Offset 4614.
 -- @g　ざっくざっくに切断し。
 @g
-La corto en pedazos.
+Corto en pedazos.
 }
 [sha:af074a8888d4bd2610e40385681b4e2a34325104]{
 -- Page 233, Offset 4615.
@@ -942,12 +942,12 @@ La mato, completa y totalmente.
 -- Page 234, Offset 4616.
 -- @g　体にある計十七個の線、
 @g
-Hay un total de diecisiete líneas en su cuerpo.
+En su cuerpo hay un total de diecisiete líneas.
 }
 [sha:534d03cacf672a97643473d52fd291e5da631d4c]{
 -- Page 234, Offset 4617.
 -- @g　首、後頭部、右目から唇まで、右腕上腕、右腕下部、右手薬指、左腕肘、左手親指、中指、左乳房、肋骨部分より心臓まで、胃部より腹部まで同二ヶ所、左足股、左足腿、左足脛、左足指その全て。
-// Anatomía con Arc wohooo (matenme)
+//Anatomía con Arc wohooo (matenme)
 Cuello,
  cogote,
  ojo derecho a labio,
@@ -993,12 +993,12 @@ La desmantelo en diecisiete cortes de carne.
 [sha:4e87a2b97631f5059e809cf766e50413d0736d74]{
 -- Page 235, Offset 4622.
 -- 馬鹿みたいに間の抜けた声が聞こえた。
-Escucho una voz estúpida, e idiota.
+Escucho una estúpida, e idiota voz.
 }
 [sha:aef2cab7e6ed5edd3f5722f0d59be2e2a837d0e9]{
 -- Page 235, Offset 4623.
 -- それが自分の喉からこぼれ出た音だと、実感が湧かなかった。
-No me había dado cuenta que venía de mi propia boca.
+Ni me he dado cuenta que viene de mi boca.
 }
 [sha:cfa9aa8a654fd6cce6eabc28f3d350c34c73362d]{
 -- Page 236, Offset 4624.
@@ -1008,7 +1008,7 @@ Me siento aturdido y mareado.
 [sha:b5e41aa2476b468cbc2361784883ff798dce1f06]{
 -- Page 236, Offset 4625.
 -- 目の前にはバラバラに散らばった何か。
-Hay trozos de algo esparcidos a mi alrededor.
+Frente a mi hay esparcidos trozos de %{i}algo%{/i}.
 }
 [sha:4e7c1d78698aab951f01fcee3931e578b2133232]{
 -- Page 236, Offset 4626.
@@ -1023,7 +1023,7 @@ El repugnante olor a sangre.
 [sha:ea12855e22637047424fee3d8e33e92827fed896]{
 -- Page 236, Offset 4628.
 -- 切断面はとてもキレイで、臓物はこぼれていない。
-Los cortes son muy limpios. No se salen los órganos.
+Los cortes son muy limpios. Los órganos no se salen.
 }
 [sha:44c0c0e8287e1211f4e1ba4a2a83c9b9b19283ca]{
 -- Page 237, Offset 4629.
@@ -1043,7 +1043,7 @@ La habitación está vacía salvo por las extremidades de la mujer desmembrada y
 [sha:72d2a43afc8a0140a767c9f552cf7d76bce8c9fd]{
 -- Page 238, Offset 4632.
 -- 『―――なに、を―――』
-"Que... he hec―――"
+"Qué... he hec―――"
 }
 [sha:2406d65248de5453e4a2e954c29953489b219b0b]{
 -- Page 238, Offset 4633.
@@ -1068,7 +1068,7 @@ Por supuesto que lo está.
 [sha:fa5833c52d2981b8f334dd4539ae6760228cb80f]{
 -- Page 239, Offset 4637.
 -- これで生きていたら人間じゃない。
-No sería humana si lo estuviese después de todo esto.
+Si estuviera viva después de todo esto no lo sería humana.
 }
 [sha:3d7a75c2a251e85e17b927b2864575bf0aaa555c]{
 -- Page 240, Offset 4638.
@@ -1088,7 +1088,7 @@ Pero no hay duda de porque está muerta.
 [sha:fc73677ee4ea07ef66f9932fb9e64e63a67de6b0]{
 -- Page 240, Offset 4641.
 -- 遠野志貴の手で、あっさりと、見知らぬ女をバラバラにしてしまったんじゃないか。
-¿Quién más podría haber despedazado a este desconocido?
+¿Quién más podría haber despedazado a esta desconocida?
 }
 [sha:20c4f628a0f046d6ac3a8c03af95453c90e32604]{
 -- Page 241, Offset 4642.
@@ -1110,7 +1110,7 @@ No hay duda.
 -- 自分には理由がない。だから違う、違う筈だ。けど理由なんてものは初めからなかった。だから違う、違う筈だ。ここには俺しかいない。さっきまでもう一人いたらしいが、今ではもう俺だけしか生きていない。だから違う。違う筈だ。でも、理由が無い、理由が無いんだ、その気もなかったんだ、俺は、俺は正気ではなかったんだ。そもそも正気なんてなかったんだ。だから違う、違う、違う筈だ、違う筈だ、違う筈で―――
 No tengo razón para ello.
  No, no pude haber sido yo.
- Pero la razón nunca formo parte de esto para empezar.
+ Pero para empezar la razón nunca formo parte de esto.
  No, no pude haber sido yo.
  Solo el único aquí. Había otra persona aquí hasta hace un momento, pero ahora soy el único vivo.
  No, no pude haber sido yo.
@@ -1177,7 +1177,7 @@ S í,  n  o   pu d e    s  er    y o.
 [sha:c666b2cc2c4c18ae138582ce4f3f0dbdfbad354f]{
 -- Page 245, Offset 4657.
 -- 違う。違う。きっと違う、ぜったいに違う。
-No pude. No pude. Obviamente no pude. No pude ser yo de ninguna manera.
+No pude. No pude. Obviamente no pude. De ninguna manera pude ser yo.
 }
 [sha:d10977546b0c633f9f0acf5c3bfa98df921b5935]{
 -- Page 245, Offset 4658.

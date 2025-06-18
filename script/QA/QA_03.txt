@@ -21,7 +21,7 @@ Ugh... ¿y este final?%{n}
 [sha:d3da039dcc0cc780c7032d5345c7985025b962f4]{
 -- Page 50, Offset 42858.
 -- 落とされるほどのコトをしたというのか！？
-te pateen el culo?
+ te pateen el culo?
 }
 [sha:69f7460d9bf83765f29ac0fd70748f3266b35229]{
 -- Page 51, Offset 42859. Mods: @n.
@@ -31,7 +31,7 @@ Oh, es verdad.
 [sha:3c10fc3e9def146d7ae5e7b3503dc13a2adafa1c]{
 -- Page 51, Offset 42860.
 -- ゾンビ相手に無双したりするしな。
-Intentaste ir solo%{n}contra todos esos zombies.
+ Intentaste ir solo%{n}contra todos esos zombies.
 }
 [sha:c676454d86580037f85913c07d858f4da4a6b75c]{
 -- Page 52, Offset 42861. Mods: @n.
@@ -41,7 +41,7 @@ Pero si cortas a un zombie, te morderá.
 [sha:792226fe40c9c7c3dcb0d441792ec6ca98e0884c]{
 -- Page 52, Offset 42862.
 -- 大局的に見れば差し引きは合ってるニャあ。
-Así que en%{n}realidad, supongo que te lo merecías.
+ Así que en%{n}realidad, supongo que te lo merecías.
 }
 [sha:16daac425bdef17da0d90781dc1564017fe694dd]{
 -- Page 53, Offset 42863. Mods: @n.
@@ -51,12 +51,12 @@ Recuerden señores, no vayan al edificio
 [sha:0dd3145b9fe6edcc830bb45a3b695c3156678763]{
 -- Page 53, Offset 42864.
 -- 建物に入っちゃダメだぜ？
-con el cartel que%{n}dice 'No entrar', ¿vale?
+ con el cartel que%{n}dice 'No entrar', ¿vale?
 }
 [sha:408133f6c008c1c125fbf6fc86545b711271bf66]{
 -- Page 54, Offset 42865.
 -- （ネコが常識を話している……）
-(Este gato ha dicho algo sensato de verdad...)
+(Este gato por una vez ha dicho algo%{n}sensato de verdad...)
 }
 [sha:528c03bc069f79bf7895a505554d0c955290304a]{
 -- Page 55, Offset 42866. Mods: @n.
@@ -66,7 +66,7 @@ Ahem. Fue muy noble que estuvieras tan%{n}dispuesto a
 [sha:a717c60e751af22000e3e90ae5e8925774406595]{
 -- Page 55, Offset 42867.
 -- 遠野くんの行動自体は正しいものです。
-luchar para proteger a la gente de la ciudad.
+luchar para proteger a la gente de%{n}la ciudad.
 }
 [sha:16c6add81671a72da8ca9b3c6ac8cf9f3024f6bd]{
 -- Page 56, Offset 42868. Mods: @n.
@@ -86,7 +86,7 @@ Que mala suerte... Quizá si las cosas fueran un poco%{n}distintas,
 [sha:fdb7aeed59bc2b0d36d13b277582840a5d1db15b]{
 -- Page 57, Offset 42871.
 -- 勇気を振り絞ってデパート地下に向かってください。
-podrías volver a intentar ir a ese centro%{n}comercial de nuevo con el mismo coraje.
+ podrías volver a intentar ir de nuevo a ese%{n}centro comercial con el mismo coraje.
 }
 [sha:033487b7e8c608c84168d3ee06aa676bf754cad1]{
 -- Page 58, Offset 42872. Mods: @n.
@@ -96,7 +96,7 @@ Ohoo. Osea que le estas diciendo que vuelva tras ver%{n}tal escena de terror.
 [sha:d7262e448f91078fb389809d5cbe1c4f2bcba388]{
 -- Page 58, Offset 42873.
 -- ドエスか貴様。
-Sip, en definitiva eres una sádica.
+ Sip, en definitiva eres una sádica.
 }
 [sha:79a8585416affea0489d19a5ab69bbb385f75001]{
 -- Page 59, Offset 42874. Mods: @n.
@@ -116,7 +116,7 @@ Los dos hombres que custodiaban el centro comercial%{n}
 [sha:bbc52105440bdd3c68274a90f4e16917b8454579]{
 -- Page 60, Offset 42877.
 -- この前日、ちょっとしたトラブルがあったからです。
-estaban irritados porque había habido algun tipo de problema el%{n}día de antes.
+estaban irritados porque había habido algún tipo de problema%{n}el día de antes.
 }
 [sha:710fdde38974ce9efab2741e94dbd4088ce87b5e]{
 -- Page 61, Offset 42878. Mods: @n.
@@ -126,7 +126,7 @@ La trabajadora heroina había inspeccionado el centro%{n}ese día,
 [sha:bbaa7d9ceb4a3230c65929add774ad51309883f4]{
 -- Page 61, Offset 42879.
 -- 彼らを警戒させていたのです。
-por lo que estaban en alerta.
+ por lo que estaban en alerta.
 }
 [sha:a3c26a531a4aa1da63534466911d08cdd52d3ab4]{
 -- Page 62, Offset 42880. Mods: @n.
@@ -136,7 +136,7 @@ Así que, si por la razón que sea,
 [sha:4773b8bc1d169e8f49e64f4df713463b4deba347]{
 -- Page 62, Offset 42881.
 -- なんらかの理由で仕事ができなかったのなら……
-esa heroina no%{n}fuera capaz de trabajar ese día...
+ esa heroina no%{n}fuera capaz de trabajar ese día...
 }
 [sha:3f05d02345a5fb2c71eefb4e66756d1db01206e4]{
 -- Page 63, Offset 42882. Mods: @n.
@@ -146,7 +146,7 @@ Entonces los dos guardias en el centro
 [sha:8748cd05e2cc3a4bf3c1850f3bb4df32a192b596]{
 -- Page 63, Offset 42883.
 -- ここまで殺気だってはいなかったでしょう。
-no%{n}hubieran tenido tal intención asesina.
+ no%{n}hubieran tenido tal intención asesina.
 }
 [sha:0afe9e8ca056166526523590793f4b622901ffed]{
 -- Page 64, Offset 42884. Mods: @n.

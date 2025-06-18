@@ -1,17 +1,17 @@
 [sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
 -- Page 12009, Offset 31449.
 -- ……。
-...
+-- TRANSLATION HERE
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 12009, Offset 31450.
 -- …………。
-......
+-- TRANSLATION HERE
 }
 [sha:bc901850a5107465d5916e1396176a5ecabf1fc5]{
 -- Page 12009, Offset 31451.
 -- …………………。
-.........
+-- TRANSLATION HERE
 }
 [sha:e17ebc2872d6899bb559577e465e0ea1912f7623]{
 -- Page 12009, Offset 31452.

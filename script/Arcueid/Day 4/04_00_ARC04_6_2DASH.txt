@@ -1,4 +1,4 @@
-[sha:62c7375604af9be9b849143a84a2ae9942504cd2]{
+[offset:6797]{
 -- Page 10018, Offset 6797.
 -- ―――白。
 ―――Blanco.
@@ -59,17 +59,17 @@ Mis manos, ambas de un rojo brillante, como si se hubieran manchado de pintura.
 -- みーん　みんみん
 %{i}Chiiiirp    chirp chirp%{/i}.
 }
-[sha:85627e8dc4f5686e42fc5deb9c8a82d9571893c9]{
+[offset:6809]{
 -- Page 450, Offset 6809.
 -- 広場には蝉のぬけがら。
 El caparazón de las cigarras ensucia el suelo.
 }
-[sha:045b9de947d69135540d7585916cdb903fab392e]{
+[offset:6810]{
 -- Page 450, Offset 6810.
 -- たいようはすぐそばにあるようで、
 El claro se está quemando poco a poco―――
 }
-[sha:9e5804d06f92c5105f66949acc6e6a978544fde7]{
+[offset:6811]{
 -- Page 450, Offset 6811.
 -- 広場はじりじりと焦げていく。
 Como si el sol estuviera justo encima de nosotros.
@@ -132,7 +132,7 @@ El niño colapsado                            está frío.
 [sha:d0d48e59dfe6baba77869ba1d636584b43781cc0]{
 -- Page 453, Offset 6823.
 -- ぶちまけた血で赤いのだ。　　　　あたたかい。
-La sangre brotando es roja.               Es cálida.
+La sangre brotando es roja.               Y cálida.
 }
 [sha:1493c33a585121340d31e90514be6f979740ff95]{
 -- Page 454, Offset 6824.
@@ -192,7 +192,7 @@ Arcueid está justo frente a mi.
 [sha:67726722fb2b677645cb5dc04e2f1b5b264ce2a1]{
 -- Page 458, Offset 6835.
 -- 窓の外は真っ暗だ。
-Tras la ventana está completamente oscuro.
+La vista tras la ventana es completamente oscura.
 }
 [sha:4e56cb257e4cfaff0c38e56db5ed6d08cb9f45a2]{
 -- Page 458, Offset 6836.
@@ -219,12 +219,12 @@ Miro mi reloj y veo que son sobre las ocho en punto de la tarde.
 -- Page 460, Offset 6840.
 -- ……情けない。アルクェイドの寝顔を見ているうちに寝落ちしていたとは……。
 Qué patético...
- No me puedo creer que me quedase dormido mirando la cara de Arcueid durmiendo.
+ Me he quedado sopa mirando la cara de Arcueid mientras dormía.
 }
 [sha:d4d14d1adfa55e2ef33bc18c3c048ab4873468d4]{
 -- Page 461, Offset 6841.
 -- 「もう。そんなんじゃ護衛失格よ。
-"De verdad. Es un comportamiento inaceptable para un guardia.
+"De verdad. Que comportamiento tan inaceptable para un guardia.
 }
 [sha:be1a1d3f428acc842acaef55a88941e62d9a5229]{
 -- Page 461, Offset 6842.
@@ -235,7 +235,7 @@ No me puedo creer que los dos estuviéramos dormidos...
 [sha:7326a8d532cc93119f190ba0603754da1817ebe0]{
 -- Page 462, Offset 6843.
 -- 「だから悪いって言ってるだろ。でもほら、昼間は安全だって言ったのはおまえじゃないか」
-"Vale, ya he dicho que lo siento, dios.
+"Sí, ya he dicho que lo siento, vale.
  Y un momento, ¿no eres tu la que ha dicho que por el día estábamos seguros "
 }
 [sha:8f2f1ef7143eadf95795046d6ea7a9de2fccdbd8]{
@@ -252,22 +252,22 @@ Arcueid está enfadada.
 [sha:9298d8a0d0ff468f72096b031a2f9786338b26c0]{
 -- Page 463, Offset 6846.
 -- もちろん、全面的に俺が悪い。
-Es mi completamente culpa, por supuesto.
+Por supuesto, es completamente mi culpa.
 }
 [sha:8e82922d527aff299c4efc2f12f6050ad71ba6af]{
 -- Page 463, Offset 6847.
 -- 見張り役が一緒に眠っていたなんて、それこそ<案|か><山|か><子|し>以下だ。
-Si cuando se supone que estoy montando guardia me quedo dormido, soy tan útil como un espantapájaros.
+Quedarse dormido cuando se supone que estoy de guardia me pone al nivel de un espantapájaros.
 }
 [sha:727b581f1f052585512e4244e562d6c55fb527b9]{
 -- Page 464, Offset 6848.
 -- 「それにね、わたしだって吸血鬼なんだよ、志貴。
-"Además, Shiki, soy un vampiro sabes.
+"Además Shiki, soy un vampiro, sabes.
 }
 [sha:b01ddb32f42a7ecde5f2b67674e4b2322cc9f989]{
 -- Page 464, Offset 6849.
 -- なのにどうして、身の危険とか感じないで眠っちゃったりできるのかなあ。少しは緊張して眠れないとか、<畏|おそ>れ<敬|うやま>うとか、そういう反応してもいいんじゃない？」
-¿Cómo es posible que te quedases dormido como si no me temieras?
+¿Cómo te puedes quedar dormido como si no me temieras?
  No podrías al menos haber estado %{i}un poco%{/i} demasiado nervioso como para cerrar los ojos,
  aterrado, ¿o algo por el estilo?"
 }
@@ -294,7 +294,7 @@ En realidad parece que está más molesta por el hecho de que haya podido quedar
 [sha:2f8c894ccf8ff547c50a62b91bb168cbaed41a77]{
 -- Page 466, Offset 6854.
 -- あんまりにも無防備だから、吸血種として威厳がないのかなって本気で不安になったんだから」
-Habías bajado tanto la guardia que empezaba a preocuparme por parecer en absoluto ser una chupasangre.
+Habías bajado tanto la guardia que empezaba a preocuparme por no parecer en absoluto una chupasangre.
 }
 [sha:0c0342af464895bc706c375e2ea28907e29cdb3f]{
 -- Page 467, Offset 6855.
@@ -311,7 +311,7 @@ Ya te he matado una vez, ¿recuerdas?
 [sha:f516c46a8c086be331d1506fd9c5a0800c787c64]{
 -- Page 468, Offset 6857.
 -- <窮鼠|きゅうそ>猫を噛むことだってあるんだぞ、と言い返す。
-Respondo, recordándola que rata acorralada muerde al gato.
+Respondo, recordándole que rata acorralada muerde al gato.
 }
 [sha:af21886aef797cb596a230a506ac1f47a8496018]{
 -- Page 468, Offset 6858.

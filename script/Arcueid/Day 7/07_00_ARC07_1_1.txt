@@ -6,7 +6,7 @@ Son las siete en punto.
 [sha:0ae30c8b668323e38414fbd46198de0cf1a7393a]{
 -- Page 10004, Offset 16897.
 -- もともと車通りの少ない国道だが、夜ともなれば完全に<人気|ひとけ>は途絶え、周囲は静まりかえっている。
-Esta carretera no tiene mucho tráfico para empezar,
+Esta carretera para empezar no tiene mucho tráfico,
  pero tras caer la noche, no hay ni un alma,
  y el área entera está completamente en silencio.
 }
@@ -32,7 +32,7 @@ Usando mi tarjeta magnética, entro por la puerta al lado de la verja.
 -- 「―――あ」
 "―――Ah."
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:16902]{
 -- Page 132, Offset 16902.
 -- ……と。
 Sin embargo...

@@ -6,7 +6,7 @@ Este es el segmento Q&A donde guiamos a%{n}Tohno-kun,
 [sha:0c12436b281b16e4a4eefab24d3dc36f7efa18d8]{
 -- Page 137, Offset 43016.
 -- 遠野くんをお助けするＱ＆Ａコーナー、
-quién ha alcanzado un final sin salida%{n}más bien inesperado.
+ quién ha alcanzado un final sin salida%{n}más bien inesperado.
 }
 [sha:5a1ae1fa6d39c9839073c3a252df90012fcd7d70]{
 -- Page 138, Offset 43017. Mods: @n.
@@ -26,12 +26,12 @@ God Cat.
 [sha:68be075506f6f13f2af20e9cef6c7a1073eaee8c]{
 -- Page 140, Offset 43020. Mods: @n.
 -- さて。今回の死亡ですが、
-Ahora pues. ¿Tienes alguna idea de lo que ha causado%{n}que
+Ahora pues. ¿Tienes alguna idea de lo que ha%{n}causado que
 }
 [sha:de470ad049f8d2f25f4ae366c7a513c75355e673]{
 -- Page 140, Offset 43021.
 -- なぜこうなったか分かりますかゴッド？
-el muera esta vez, God?
+ muera esta vez, God?
 }
 [sha:1508849719fa23dee09b87fe610e36bdf95dd612]{
 -- Page 141, Offset 43022. Mods: @n.
@@ -51,7 +51,7 @@ En efecto, este es un caso más bien inusual.%{n}
 [sha:6e5703b6fc7acf0dc4e5640bb09b74146966bd39]{
 -- Page 142, Offset 43025.
 -- 数個前の選択が影響しているパターンです。
-Este final ocurrió a una elección bastante previa.
+Este final ocurrió debido a una elección bastante previa.
 }
 [sha:378a19bc5098590872aa85cda87f2c5408ca8718]{
 -- Page 143, Offset 43026. Mods: @n.
@@ -93,7 +93,7 @@ se ve tal y como yo,
 [sha:7f80127cfe00fc9fafea25cb7407feaf4d5937b8]{
 -- Page 146, Offset 43033.
 -- 吸血鬼ヒロインのココロのキレイさ……
-¿no es hermosamente%{n}
+ ¿no es hermosamente%{n}
 pura de corazón?
 }
 [sha:f626d056bb7960af9e0d47a622da3fe359fdbf74]{
@@ -104,7 +104,7 @@ Después de todo, una verdadera heroína%{n}nunca debería mentir
 [sha:dc4e0156e471f2cb511518fd828e3de6936ff57a]{
 -- Page 147, Offset 43035.
 -- 隠し事もしない、が基本だよねー。
-o tener%{n}nada que ocultar.
+ o tener%{n}nada que ocultar.
 }
 [sha:8daaa7ff5dfb2c4822eb340d4f9049f540bc84be]{
 -- Page 148, Offset 43036.
@@ -139,7 +139,7 @@ Nunca podrás golpear mi verdadero corazón de%{n}heroína～☆
 [sha:ac41f53fa47b38cdf2f34a242e30b1528b326c7b]{
 -- Page 152, Offset 43042.
 -- ぶはっ　ぶほっ　くわっ　ごべっ　やめ　にゃご
-Oof oof wah st- sto- nyagh-
+Oof oof wah de- dete- nyagh-
 }
 [sha:bfe222141949fdd0ea7c46eec1580cae79294f63]{
 -- Page 153, Offset 43043. Mods: @n.
@@ -159,7 +159,7 @@ Bueno, ¡eso es todo por ahora!
 [sha:e11069d1823da29c3d2dfc6266f8605a33ee76e1]{
 -- Page 154, Offset 43046.
 -- また次のデッドエンドで会いましょう！
-¡Espero%{n}
+ ¡Espero%{n}
 verte de nuevo en el próximo%{n}
 final sin salida!
 }

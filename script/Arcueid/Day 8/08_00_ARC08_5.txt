@@ -52,7 +52,7 @@ Em, ¿no ha vuelto Akiha?"
 [sha:c4c091d616319c194cb568056d6f483d3914a556]{
 -- Page 257, Offset 20312.
 -- 「はい。今夜は特別遅くなる、との事ですので、ご夕食は志貴さまお一人で済ませるよう、言付かっております」
-"Correcto. Hoy llegará particularmente tarde, por lo que se me ha ordenado dejarte cenar solo."
+"Correcto. Hoy llegará particularmente tarde, por lo que se me ha ordenado dejarle cenar solo."
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 258, Offset 20313.
@@ -77,7 +77,7 @@ Supongo que me iré a mi habitación y descansaré un rato.
 [sha:a27b08acdc4d5fa0c7f4fb02d916e65d53bb800a]{
 -- Page 259, Offset 20317.
 -- 「ん？　なに、翡翠？」
-"¿Hmm? ¿Que ocurre, Hisui?"
+"¿Hmm? ¿Qué ocurre, Hisui?"
 }
 [sha:e257568ee8013bbca746117b021d1cf5e98282d9]{
 -- Page 259, Offset 20318.
@@ -97,7 +97,7 @@ Hisui me mira directamente.
 [sha:7c2c0630739edfa9e92e60776f050a389c36a889]{
 -- Page 261, Offset 20321.
 -- 外に抜けだそうとしている事が見抜かれている……のは、気にならない。
-Parece que ha visto a través de mi y mi plan de escabullirme de la mansión...
+Parece que ha visto a través de mí y mi plan de escabullirme de la mansión...
  aunque no hace falta preocuparse.
 }
 [sha:e5487a9de3b1404434d1eec0e5635fd8498894c2]{
@@ -126,10 +126,10 @@ Aunque solo quiera saber cuando voy a volver para cumplir su deber como sirvient
 -- ……これは気軽に対応していい質問じゃない。
 Esta no es una pregunta que me pueda tomar a la ligera...
 }
-[sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
+[offset:20327]{
 -- Page 263, Offset 20327. Mods: @k, @e.
 -- ここは―――
-Me parece que―――
+Voy a―――
 }
 [sha:f7704a5d489c9395733e8ec73a9ad2cb5b5c05e7]{
 -- Page 264, Offset 42654. Choice.

@@ -26,7 +26,7 @@ Por lo que sería razonable considerarlo un vampiro.
 [sha:2877d8ea74c8dd863ed99bc1b0b6ff36543f771a]{
 -- Page 19, Offset 21365.
 -- アルクェイドの敵は、まずアルクェイドを狙うのではなく、彼女に協力する俺に狙いを定めてきたのだろうか……？
-¿Quizá el enemigo de Arcueid decidiera cargarse primero a sus colaboradores antes que ir a por ella directamente...?
+¿Quizá el enemigo de Arcueid decidiera cargarse primero a sus colaboradores en vez de ir directamente a por ella...?
 }
 [sha:235af984ca9b39d9183cd6be76ad20ebfb219a87]{
 -- Page 20, Offset 21366.
@@ -41,5 +41,5 @@ Esos ojos rebosaban odio.
 [sha:a9aefabfa2b3ad9e84e327dfe2625d29345faea5]{
 -- Page 20, Offset 21368.
 -- 俺と同じように“線”が視えていたあの吸血鬼は、修道服の女によって消滅したのだから。
-Ese vampiro que podía ver las mismas 'líneas' que yo fue exterminado por la mujer vestida de monja.
+El vampiro que podía ver las mismas 'líneas' que yo fue exterminado por la mujer vestida de monja.
 }

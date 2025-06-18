@@ -115,13 +115,13 @@ Es demasiado dura, tanto mental como físicamente.
 [sha:3628a35d8386b4272a1b4db1eb466c9a785fde9e]{
 -- Page 134, Offset 4291.
 -- いいじゃんか、先輩が好きで来てるんだからさー」
-¿Cuál es el problema?
+¿Qué problema hay?
  Ella vino porque quiso."
 }
 [sha:5770bf6ff6d70074b885b31257f4e5efe5c2d266]{
 -- Page 135, Offset 4292.
 -- 有彦は有彦で、人の机にどっかりと腰をおろして先輩と楽しげに話をしているし。
-Arihiko, tal como es él, se ha agenciado la mesa de otro y parece estar disfrutando de una charla con Senpai.
+Arihiko, siendo fiel a su persona, se ha agenciado la mesa de otro y parece estar disfrutando de una charla con Senpai.
 }
 [sha:c926d2edde4476543fef3b098e84ef458268b7c8]{
 -- Page 136, Offset 4293.
@@ -136,18 +136,18 @@ Me siento en mi silla con un suspiro, de repente me siento cansado.
 [sha:799bfda6571d98a7cb28a01c31d70111fdd64688]{
 -- Page 137, Offset 4295.
 -- 「……乾くん、遠野くんはご機嫌ななめみたいですね」
-"Inui-kun, Tohno-kun parece está de mal humor, ¿no?"
+"Inui-kun, Tohno-kun parece estar de mal humor, ¿no?"
 }
 [sha:02f15b1b742c8929533dfe938ad6ca6b13b3f353]{
 -- Page 137, Offset 4296.
 -- 「……ああ、引っ越し先の生活が性に合わなくて、カンシャクおこしてると見ました。遠野はたいていのコトは気にしないんスけどね、なんかよく分からない事があると暴れ出す悪癖があるんスよ」
-"Sí, parece estar de pataleta porque la vida en su nueva casa no le pega.
+"Sí, parece estar de pataleta porque no le pega la vida en su nueva casa.
  Puede aguantar muchas cosas, pero tiene el mal hábito de revelarse cuando se enfrenta a algo que no entiende."
 }
 [sha:55da91b9c05137489c5b65eca4375f183f21c212]{
 -- Page 138, Offset 4297.
 -- 「……そうなんですか？　遠野くん、あんまり怒りそうにないですけど」
-"¿Es así? No parece ser del tipo que se enfada."
+"¿Sí? No parece ser del tipo que se enfada."
 }
 [sha:74581c7d16d10c8cb8fe8591dd8bf255d72cd80a]{
 -- Page 139, Offset 4298.
@@ -155,7 +155,7 @@ Me siento en mi silla con un suspiro, de repente me siento cansado.
 "No, eso no es para nada cierto.
  Puede parecer dócil, pero cuando se explota, %{i}realmente%{/i} explota.
  Pasa todo el tiempo.
- Sabes, así %{i}bam%{/i}."
+ Hace, %{i}bam%{/i}."
 }
 [sha:e3d0d92fbaaf31225fea57c96a03bd9be8a448e8]{
 -- Page 139, Offset 4299.
@@ -166,7 +166,7 @@ Me siento en mi silla con un suspiro, de repente me siento cansado.
 -- Page 140, Offset 4300.
 -- 「……そうそう。一度キレると見境がなくなるから、先輩もこいつを信用しちゃダメだぜ」
 "Sí, sí. Una vez pierde los papeles es indiscriminado,
- mejor ten cuidado de no bajar la guardia a su alrededor, Senpai."
+ ten cuidado de no bajar la guardia a su alrededor, Senpai."
 }
 [sha:ea505cc3db28996a33d1d04b9590ea3538dd9bfa]{
 -- Page 140, Offset 4301.
@@ -212,7 +212,7 @@ Hablando de Senpai, ahora mismo se está cubriendo la boca con la mano, en seña
 [sha:eed0fd86490d25e9f87605242c5a191fe00c495b]{
 -- Page 143, Offset 4308.
 -- ……この人のことだから、本気で内緒話をしているつもりだったのかもしれない。
-Conociéndola, seguramente había estado intentando hablar en privado de verdad...
+Conociéndola, seguramente intentaba hablar en privado de verdad...
 }
 [sha:6b6bb44de10c152ed5d0515bd34c0d2d93f7e4ad]{
 -- Page 144, Offset 4309. Mods: @k, @e.
@@ -224,22 +224,22 @@ Conociéndola, seguramente había estado intentando hablar en privado de verdad.
 -- Page 144, Offset 4310. Glued. Mods: @x.
 -- んー、そんなに日々欲求不満なんですかー？　新しい妹サマはそんなに美人なんですかァー？　今度紹介してくれますかー？」
 ¿Hmmmm?
- ¿O a día de hoy estás realmente tan %{i}frustrado%{/i}?
- ¿De verdad está tan buena tu hermana?
+ ¿O de veras estas tan %{i}frustrado%{/i} a día de hoy?
+ ¿Tan buena está tu hermana?
  ¿Me la quieres presentar?"
 }
 [sha:71c17958d0d42f4b32dcac0023e642b5ab01a757]{
 -- Page 144, Offset 4311.
 -- 「有彦。ようするに、俺に喧嘩を売ってるんだな？」
-"Arihiko... ¿Intentas buscar pelea o algo?"
+"Arihiko... ¿Buscas pelea o algo?"
 }
 [sha:2e701fcc31e8b352894a7cb477dffe88774c716a]{
 -- Page 145, Offset 4312.
 -- 「そんなワケないだろ、オレと遠野は輝かしい友人じゃないか！　気にくわなけりゃあ親とだって殴り合うが、親友とだけは戦わないってのが<信念|ポリシー>なワケ。基本、<侠|きょう>に生きる漢なんだ、オレ」
-"Oh, ¡yo nunca podría!
+"Oh, ¡jamás podría!
  ¡Tu y yo somos los mejores amigos!
  Incluso pelearía con mis padres si me hicieran enfadar, pero tengo una política de nunca pelear con mi mejor amigo.
- Ves, ¡En el fondo soy un caballero!"
+ Ves, ¡en el fondo soy un caballero!"
 }
 [sha:76068c75737a12726dc943e64cfb02c2a405ef17]{
 -- Page 146, Offset 4313.
@@ -254,7 +254,7 @@ En su cabeza, sigue siendo perfectamente caballeroso levantarle la mano a tu pro
 [sha:c79e8ecfe6378218aa9837d09ed3a652061b47c3]{
 -- Page 147, Offset 4315.
 -- 「なるほど。腐ってるな、おまえのポリシーは」
-"Ya veo. Vaya política podrida tienes."
+"Ya veo. Menuda política podrida tienes."
 }
 [sha:f6208b205c892f24e191a9a1969d7819a2620aa0]{
 -- Page 147, Offset 4316.
@@ -296,7 +296,7 @@ Nos conocemos desde hace mucho tiempo,
 [sha:da10466c42152b0037748ed65e0629d1920a2a87]{
 -- Page 149, Offset 4323.
 -- 「それで、新しい家はどうなんだ？
-"Entonces, ¿cómo es la nueva casa?
+"Y bien, ¿qué tal la nueva casa?
 }
 [sha:daf90a9d90b4b0d028c3b354db59e7721cd03bc7]{
 -- Page 149, Offset 4324. Mods: @n.
@@ -306,16 +306,15 @@ Parece que ya estás bastante estresado."
 [sha:26e65b0f778bf3bea7e944062f6406b029b54164]{
 -- Page 149, Offset 4326.
 -- 「さあ、どうだろう。とりあえず昨日は妙な夢を見て、家の人たちに白い目で見られたけど」
-// Ya no se que poner en vez de tío xd
-En fin, ¿por dónde empiezo?
- Para empezar, tuve este sueño raro anoche y cuando le dije a la gente que vivo sobre el, me dijeron que no me creían."
+//Ya no se que poner en vez de tío xd
+"En fin, ¿por dónde empiezo?
+ Para empezar, tuve este sueño raro anoche y cuando le dije a la gente con la que vivo sobre el, me dijeron que no me creían."
 }
 [sha:97a26070d37ae3c0e3fd29a55bb618cd7229b685]{
 -- Page 149, Offset 4327.
 -- 「むう。そうか、それは災難だな」
-// No hay mas remedio xd
-// Cambio thio por una coletilla, como "la verdad".
-"Hmm, es eso. Parece duro, la verdad."
+//No hay mas remedio xd
+"Hmm, ya veo. Parece duro, la verdad."
 }
 [sha:8815dba96333c4a8b95fb441ff6a8b7a0d5bd3c4]{
 -- Page 149, Offset 4328.
@@ -327,7 +326,7 @@ Arihiko asiente con cara seria.
 -- 「…………………」
 "............"
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:4330]{
 -- Page 150, Offset 4330.
 -- ―――と。
 ―――Pero entonces
@@ -352,13 +351,13 @@ Pensaba que Senpai se había quedado al margen de esta conversación trivial,
 -- Page 151, Offset 4334.
 -- 「本気ですか先輩。今のを見てそう思えるなんて、そのメガネは度が合ってないですね」
 "¿En serio?
- Si eso es lo que sacas de todo esto, entonces tus gafas deben de estar mal."
+ Si eso es lo que sacas de todo esto, tus gafas deben de estar mal."
 }
 [sha:563b46e3e1f939ca82748bf33e2128ba90dba23f]{
 -- Page 152, Offset 4335.
 -- 「そんなコトないです。遠野くん、乾くんの前だと気を抜いてるじゃないですか。無防備で、乾くんを信頼しきってます」
-"Eso no es verdad.
- Pareces mucho más abierto cuando estas con Inui-kun.
+"Eso no es cierto.
+ Eres mucho más abierto cuando estas con Inui-kun.
  Parece que confías mucho en él."
 }
 [sha:05ec070caaa91c93a884455c570768a331e61f85]{
@@ -366,10 +365,10 @@ Pensaba que Senpai se había quedado al margen de esta conversación trivial,
 -- なぜか先輩は嬉しそうに笑った。
 Por alguna razón, Senpai sonríe alegremente.
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:4337]{
 -- Page 152, Offset 4337.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:1f07b51e0c6f517326cbc46c9cb00b11aba5bbca]{
 -- Page 152, Offset 4338.
@@ -379,7 +378,7 @@ Arihiko y yo nos miramos e inclinamos nuestras cabezas.
 [sha:b224e1d6d4ee505762b4f3c8ba698881edebd713]{
 -- Page 153, Offset 4339.
 -- 「羨ましいなあ。そうやって何の気負いもなしで分かり合える友人がいるのって、憧れます」
-"Realmente os envidio――sin formalidades, simplemente os %{i}conectais%{/i} entre vosotros.
+"Realmente os envidio――sin formalidades, simplemente %{i}conectais%{/i} entre vosotros.
  Siempre quise una amistad así."
 }
 [sha:f7a7ba03d295e93a6c82a9d150f3dfe14ae02320]{
@@ -430,7 +429,7 @@ Ahora que lo mencionas, recuerdo que Hisui mencionó que la policía había veni
 [sha:c07308d86dde24f249385954d4686e64e7d7c25f]{
 -- Page 157, Offset 4349.
 -- 今朝、警察が話を聞きに来たって言ってたし」
-Me dijeron que la policía había venido a hablar con nosotros esta mañana."
+Me dijeron que esta mañana la policía había venido a hablar con nosotros."
 }
 [sha:c2b508bba506f420b25c1b8006931d166e3e5153]{
 -- Page 157, Offset 4350.
@@ -463,23 +462,23 @@ Ey, Tohno."
 -- Page 159, Offset 4355.
 -- 「つまらなくはないぞ。大きな疑問として、オマエはいつのまに、先輩の方から会いに来るほど親しくなってたんだ？」
 "No es estúpido.
- Lo que me muero por saber es: ¿cuando te volviste tan cercano con Senpai para que te venga a ver?"
+ Lo que me muero por saber es: ¿cuando te volviste tan cercano con Senpai como para que te venga a ver?"
 }
 [sha:eb50737eb92abc69595294b03eda0df68acd7ef7]{
 -- Page 160, Offset 4356.
 -- 「俺に訊かれても返答に困る。話をするようになったのはここ最近だし、今日だって単なる気まぐれなんじゃないか？
-"En realidad no tengo una respuesta para ti.
+"La verdad es que no tengo respuesta que darte.
  Empezamos a hablar hace un par de días, y hoy solo ha venido por capricho, ¿verdad?
 }
 [sha:3597265d0a3a7436b519fe3881bc139614a4a290]{
 -- Page 160, Offset 4357.
 -- そういうおまえだって親しそうだったじゃないか」
-Sin mencionar que tu mismo parecías bastante amistosa con ella."
+Sin mencionar que tu mismo parecías bastante amistoso con ella."
 }
 [sha:a82abc384c3726e915fdc37f839011b9af8cd960]{
 -- Page 160, Offset 4358.
 -- 「そうでもない。オレは七日もかけてやっと名前を覚えてもらったレベルだよ」
-"No realmente. Me ha costado una semana sólamente llegar al punto en el que recuerde mi nombre."
+"No mucho en realidad. Me ha costado una semana llegar al punto en el que recuerde mi nombre."
 }
 [sha:2aed91c49cef9e86f3d7bba1854f5fd4c007f961]{
 -- Page 161, Offset 4359.
@@ -501,7 +500,7 @@ Quería mantenerlo en secreto, pero la verdad es, que me gusta un tipo de mujer.
 [sha:d6281cfd00da2f05ac19f0869912a3074900faf2]{
 -- Page 162, Offset 4362.
 -- 「眼鏡の似合う上級生だって言うんだろ？」
-"Estudiantes mayores que les quedan bien las gafas, ¿supongo?"
+"Estudiantes mayores a las que les quedan bien las gafas, ¿no?"
 }
 [sha:468fb21819c19fc20dce6f2de9aadbb24618c425]{
 -- Page 162, Offset 4363.
@@ -511,19 +510,19 @@ Las mejillas de Arihiko se vuelven rojas.
 [sha:195c456098f6da1bf33a9bfc6bfdb58cc68cab78]{
 -- Page 163, Offset 4364.
 -- 「わかりましたか、親友」
-¿Así que lo sabías, amigo?"
+"¿Osea que lo sabías, amigo mío?"
 }
 [sha:5006a84464484ddf7f5f61a56964f17448a4b3ed]{
 -- Page 163, Offset 4365.
 -- 「わかるよ。眉唾だけど、先輩が言うには俺たち親友らしいし。おまえが本気かどうかぐらい読み取れる。
 "Por supuesto que lo sé.
- Senpai dijo que tu y yo somos mejores amigos, y aunque pienso que es llevarlo un poco lejos, aún sé decir cuando vas en serio.
+ Senpai dijo que tu y yo somos mejores amigos, y aunque pienso que es pasarse un poco, aún sé distinguir cuando vas en serio.
 }
 [sha:5ca7a4ab27b738c1e99d590f5458e27dece15490]{
 -- Page 163, Offset 4366.
 -- 先輩は本気で可愛いしな。あの人と話して、好意を持たない方がおかしい。俺だってそうだ」
 Quiero decir, es bastante guapa.
- Sería raro que charlases un rato con ella y %{i}no%{/i} salieras interesado.
+ Sería raro charlar un rato con ella y %{i}no%{/i} salir interesado.
  Yo tampoco soy la excepción."
 }
 [sha:7b24c51a620ccc4d2ce604b0328fc356461e4621]{
@@ -544,14 +543,14 @@ Así que también entiendes lo genial que es――espera.
 [sha:a39acc9ec6a54a6721eb1f4e593317a6ea4c5483]{
 -- Page 164, Offset 4370.
 -- 「親友なら気が合うものだし、なにより趣味も似通うもんだろ。好きな女の子のタイプなんて、もろかぶりになっても不思議じゃない」
-"Si nos llevamos tan bien como amigos,
- eso significa que debemos tener gustos parecidos, ¿verdad?
+"Que nos llevemos tan bien como amigos
+ significa que debemos tener gustos parecidos, ¿verdad?
  No es sorpresa que nos guste el mismo tipo de chica."
 }
 [sha:f75a11e3be284b0fd6442252b99bdee1931eb4a9]{
 -- Page 165, Offset 4371.
 -- しばし視線を合わせる。
-Nos miramos el uno al otro por un rato.
+Nos pasamos un rato mirando al otro.
 }
 [sha:8caa038f4585646115742edaae9479d2b14aa136]{
 -- Page 165, Offset 4372.
@@ -561,17 +560,17 @@ Finalmente, Arihiko asiente solemnemente y dice―――
 [sha:173bdb5d29717bc7605c181cfbcdea0b612c8ea0]{
 -- Page 165, Offset 4373.
 -- 「短い友情だったな、遠野」
-"Fue una corta amistad, Tohno."
+"Fue una amistad corta, Tohno."
 }
 [sha:19848f65878d4e74a42b916f1409f0e2a62710e5]{
 -- Page 165, Offset 4374.
 -- 「ああ、まったくだ」
-"Sí, si que lo fue."
+"Y que lo digas."
 }
 [sha:cd1c0aebfe07aaa22160efea8bdd1fdafaf017ff]{
 -- Page 165, Offset 4375.
 -- ひらひらと手を振って有彦を送り出す。
-Me despido de el saludando con la mano.
+Me despido de él saludando con la mano.
 }
 [sha:23332c459a9ccbaca3c0b63f94b63a15c78e4bfe]{
 -- Page 165, Offset 4376.

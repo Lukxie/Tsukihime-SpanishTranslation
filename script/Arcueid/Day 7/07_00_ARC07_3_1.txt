@@ -53,7 +53,7 @@ Patrullar la ciudad no es una opción, pero hablar no debería ser un problema, 
 [sha:fa1f7dfdd9467e722c13df339348af6c24f98713]{
 -- Page 503, Offset 17820.
 -- 夢……？
-¿Sueño...?
+¿Sueños...?
 }
 [sha:b818ec9d7095ba62c3879a349f15eb362b5f990a]{
 -- Page 503, Offset 17821. Mods: @n.
@@ -63,7 +63,7 @@ No...
 [sha:093baaa55df0da53f45fd5ad17cb9a54baf0ae36]{
 -- Page 503, Offset 17822. Glued. Mods: @n.
 -- そういう曖昧な話は、分からない
-No me preocupo por tales nimiedades
+ tales nimiedades no me preocupan
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 503, Offset 17823. Glued.
@@ -114,7 +114,7 @@ Jo, ¡¿por qué clase de persona me tomas?! ¡Tienes una impresión de mi basta
 [sha:cd40fe7d224f38ddd69d6e25300579bf68e7bf63]{
 -- Page 508, Offset 17832.
 -- さて、それでは遠慮なく疑問をぶつけよう。
-Ahora, sin más dilación, debería empezar a preguntarla.
+Ahora, sin más dilación, debería empezar a preguntarle.
 }
 [sha:43793098df7df535a6601e7016876663e5738aef]{
 -- Page 508, Offset 17833.

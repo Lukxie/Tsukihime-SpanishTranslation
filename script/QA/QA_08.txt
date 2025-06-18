@@ -6,12 +6,12 @@
 [sha:ce692168ebbf0f9f4cb811cbcd8f9f961330a95e]{
 -- Page 156, Offset 43049.
 -- なぜエビは跳ねるのか。
-¿Por qué las gambas brincan?
+¿Por qué brincan las gambas?
 }
 [sha:d56d6106cbe2ef6e8ce563e49bee8f8c6fb7cc4a]{
 -- Page 157, Offset 43050.
 -- なぜ主人公は鍵のかかった部屋に入るのか……。
-¿Por qué el protagonista se cuela en una habitación cerrada?
+¿Por qué el protagonista se cuela en una habitación%{n}cerrada?
 }
 [sha:908b2f0055a6119b66ecbb6abacecf22f0adb58a]{
 -- Page 158, Offset 43051. Mods: @n.
@@ -58,7 +58,7 @@ Espero que de ahora en adelante el sabio y prudente%{n}
 [sha:d3063704ff3f92bb307657974cdface36789295c]{
 -- Page 162, Offset 43059.
 -- 気を引き締めて選択肢を選んでいただければ。
- Tohno-kun escoja su camino con gran prudencia.
+Tohno-kun escoja su camino con gran prudencia.
 }
 [sha:fc4a783f0b8ba107da8ca39fc4a6875f5a52005b]{
 -- Page 163, Offset 43060. Mods: @n.
@@ -78,7 +78,7 @@ Parece que tus cuatro ojos no cogieron apuntes sobre%{n}lo de ser prudente nya.
 [sha:c154c7fcdb92e39f7d1fb57d0bcc394f74dd7aeb]{
 -- Page 164, Offset 43063.
 -- それともあの包帯男、見かけよりやるってコト？
-¿O quizá ese hombre vendado es más capaz%{n}de lo que parece?
+ ¿O quizá ese hombre vendado es más%{n}capaz de lo que parece?
 }
 [sha:a2aeab14ecc83dc6d424a198c86fc976060a0f1a]{
 -- Page 165, Offset 43064. Mods: @n.
@@ -98,7 +98,7 @@ Además,
 [sha:81325c4fd6dfc5f67809c620c013cfe6286e9365]{
 -- Page 166, Offset 43067.
 -- この手の潜入捜査は二人一組が理想です。
-este tipo de trabajo encubierto%{n}
+ este tipo de trabajo encubierto%{n}
 es mejor hacerlo en parejas.
 }
 [sha:d2362d66049588222368879903159166aafef94f]{
@@ -205,7 +205,7 @@ Un hombre sabio se mantiene alejado del peligro.%{n}
 -- Page 177, Offset 43088.
 -- 遠野槙久氏の書斎は避けて、安全な場所を選びましょう！
 ¡Quizá pasa del estudio de Makihisa, y%{n}
-diriígete a un lugar un poco más seguro!
+dirígete a un lugar un poco más seguro!
 }
 [sha:3d658fde1e4dd05fe0dcc929b6190ba59d9e734f]{
 -- Page 178, Offset 43089. Mods: @n.

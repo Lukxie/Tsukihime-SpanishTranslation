@@ -6,12 +6,12 @@
 [sha:bcac3d7504b37322c7785e42c0b22a5b7f737149]{
 -- Page 10005, Offset 9133.
 -- 志貴が一緒に戦ってくれるのは助かるしね。あなたならヴローヴなんて問題なく一撃で“殺”せるんだから」
-Me alegro que decidas luchar a mi lado. Después de todo, contigo alrededor, definitivamente podremos 'matar' a Vlov de un golpe."
+Me alegro que decidas luchar a mi lado. Después de todo contigo alrededor definitivamente podremos 'matar' a Vlov de un golpe."
 }
 [sha:76a2ccc7a265ad4a64465ceb5c9dce093ec2dc1c]{
 -- Page 218, Offset 9134.
 -- 「……いや、それは無理だろ？
-"No, no veo cómo eso podría llegar a funcionar...
+"No veo cómo eso podría llegar a funcionar...
 }
 [sha:180c8c4ad2ac9cb6355b30aae844faf513a41acf]{
 -- Page 218, Offset 9135.
@@ -21,7 +21,7 @@ Irradia demasiado calor. No creo que pueda acercarme a él.
 [sha:106cfe1f830d7ba56c744415925e818f0ebbf0d1]{
 -- Page 218, Offset 9136.
 -- それ以前にどうやってアイツを見つけるんだ？」
-Y además, ¿cómo vamos a encontrarlo en primer lugar?"
+Y además en primer lugar, ¿cómo vamos a encontrarlo?"
 }
 [sha:c9a6d685b339c21acda59c88beb831f3a218cadd]{
 -- Page 219, Offset 9137.
@@ -29,6 +29,7 @@ Y además, ¿cómo vamos a encontrarlo en primer lugar?"
 "¿Encontrarlo?
  Si que eres un hombre de extremos, ¿no?
  Hace un segundo decidiste no huir, y ahora dices que deberíamos ir a la ofensiva."
+ 
 }
 [sha:d8cb65cc1a24079338e5be4b4f5a0cffc5768445]{
 -- Page 219, Offset 9138.
@@ -54,7 +55,7 @@ La estrategia más segura es que sigamos huyendo,
 [sha:dd144ea0616cb8ec28646e761dfe79416e1fe996]{
 -- Page 220, Offset 9142.
 -- あと三日もすればわたしの規模は三割ぐらいまで回復する。それだけの出力があれば、わたしひとりでもヴローヴを倒しきれる」
-En tres días, mi Escala de Vida estará de vuelta a un treinta por ciento de su nivel original. Eso debería ser suficiente para derrotar a Vlov por mi cuenta."
+En tres días, mi Escala de Vida habrá vuelto a un treinta por ciento de su nivel original. Eso debería ser suficiente para derrotar a Vlov por mi cuenta."
 }
 [sha:108ca5be3f8903f4dfc82d856d66b63ac4b3c7db]{
 -- Page 221, Offset 9143.
@@ -66,7 +67,7 @@ En tres días, mi Escala de Vida estará de vuelta a un treinta por ciento de su
 -- 「ええ。その三日間、ヴローヴは野放しよ。アイツは地下に潜って人間から血液を補充する。……ううん、それだけじゃない。あの様子からすると夜の街を徘徊するかもしれない。
 "Sí. Durante esos tres días, Vlov campará a sus anchas.
  Se esconderá y alimentará de humanos para reponer su suministro de sangre... pensándolo mejor, no se detendrá en eso.
- Juzgando por el estado en el que está, quizá deambule las calles por la noche.
+ Juzgando por el estado en el que está, quizá deambule por las calles de noche.
 }
 [sha:09cd56cf78f07e6251c23dd8e97d8c7daeaa4e8c]{
 -- Page 221, Offset 9145.
@@ -121,7 +122,7 @@ Si queremos ir a lo seguro――o más bien, si queremos estar seguros de ganar,
 -- しかし……その代償として、俺たちがここで時間を潰せば潰すほど、犠牲者は増えていく。
 Pero a cambio... Cuanto más tiempo perdamos aquí, más víctimas se acumularán.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:9155]{
 -- Page 226, Offset 9155.
 -- 俺は―――
 Yo―――
@@ -134,5 +135,5 @@ Buscaré a Vlov de inmediato.
 [sha:b5f77c46dd63c6d77710fc7162f01c768ed967ba]{
 -- Page 228, Offset 42616. Choice.
 -- ……せめて、夜までここに残る。
-Al menos, me quedaré hasta el anochecer.
+Me quedaré al menos hasta el anochecer.
 }

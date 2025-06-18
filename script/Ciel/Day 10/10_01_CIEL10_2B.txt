@@ -23,10 +23,10 @@
 -- 食堂を見渡して適当な席を探す。
 -- TRANSLATION HERE
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:27324]{
 -- Page 94, Offset 27324.
 -- ―――と。
-―――Pero entonces
+Pero entonces―――
 }
 [sha:ac5a237343eace680ca61cdf1ea47008ee7de679]{
 -- Page 94, Offset 27325.
@@ -66,7 +66,7 @@
 [sha:3ffb5803354bb678b6e06770f0a954088cf38ac1]{
 -- Page 98, Offset 27332.
 -- 「――――――あ」
-"―――%{i}Grgh%{/i}."
+-- TRANSLATION HERE
 }
 [sha:859609fab5f280673a40a581f4d0a87fa73a7147]{
 -- Page 98, Offset 27333.

@@ -1,12 +1,12 @@
 [sha:c7db1d1004242922ab5d10b2ed24d6f96ae59b29]{
 -- Page 10016, Offset 3247.
 -- 琥珀さんの部屋を訪ねてみよう。
-Me pasaré por la habitación de Kohaku.
+Me pasaré por la habitación de Kohaku-san.
 }
 [sha:e278020183b7d249c2f18d1916b2bceade30d158]{
 -- Page 10016, Offset 3248.
 -- 洗面所に行く途中で、琥珀さんの部屋がどのあたりかは当たりがついている。
-Creo que he antes he visto donde estaba mientras iba al baño.
+Creo que antes mientras iba al baño he visto donde estaba.
 }
 [sha:690bf7ef851ef8b77de425120895b2aef75dccfc]{
 -- Page 242, Offset 3249.
@@ -21,7 +21,7 @@ Para dar contexto de la localización: el vestíbulo está a mi espalda y estoy 
 [sha:bfeceb3663dab853f353776a7b849d07dd55e0b9]{
 -- Page 242, Offset 3251.
 -- 琥珀さんはそのキッチンの一つ前の小部屋に部屋を用意されているらしい。
-Creo que a Kohaku-san la han dado una pequeña habitación justo al lado de la cocina.
+Creo que a Kohaku-san le han dado una pequeña habitación justo al lado de la cocina.
 }
 [sha:4998e01a590589112b6eb088b5427d9671aba25b]{
 -- Page 243, Offset 3252.
@@ -41,7 +41,7 @@ Toco la puerta.
 [sha:5b359886200fc2312cc45f52edf9b8a64cf2cc8b]{
 -- Page 244, Offset 3255.
 -- 「はーい、ちょっと待ってくださいねー」
-"Si, un momento, por favor."
+"Sí, un momento, por favor."
 }
 [sha:79e642b8334adedb2711a60a83f6af036171c7f5]{
 -- Page 244, Offset 3256.
@@ -61,7 +61,7 @@ Tras dos minutos, ella sale.
 [sha:8330531635d35112a217a904272d1947381c05ca]{
 -- Page 245, Offset 3259.
 -- どうしたんです、こんな時間に？」
-¿Qué estás haciendo aquí a estas horas?"
+¿Qué haces aquí a estas horas?"
 }
 [sha:c174edddeb88bcff3d5f2ad271d2ac3cff34a2fa]{
 -- Page 245, Offset 3260.
@@ -71,7 +71,7 @@ Tras dos minutos, ella sale.
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 245, Offset 3261.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:9955ceada256a8b38554041b0f19eec05b49f986]{
 -- Page 246, Offset 3262.
@@ -82,13 +82,13 @@ Tras dos minutos, ella sale.
 -- Page 246, Offset 3263.
 -- 今まで普通の家で暮らしてきた俺にしてみると、寝る前にのんびりテレビを見るのが日課だったりするわけで、見ないと落ち着かないというか……」
 Después de vivir tanto tiempo en una casa normal,
- he adquirido el hábito de ver un rato la tele despreocupadamente antes de irme a dormir,
+ he adquirido el hábito de ver un rato la tele tranquilamente antes de irme a dormir,
  y me está costando relajarme sin ello..."
 }
 [sha:1c8f1548568b8ce2f3813825a57c0bf01576597c]{
 -- Page 247, Offset 3264.
 -- ……口にすればするほど、自分がとんでもなくバカな真似をしているんだと気がついた。
-Cuanto más lo explico, más me doy cuenta de lo estúpido que suena.
+Cuanto más lo explico, más cuenta me doy de lo estúpido que suena.
 }
 [sha:ba9b6642cea40b888fdc8fcd62ede9fe0f6b9588]{
 -- Page 247, Offset 3265.
@@ -99,7 +99,7 @@ Irrumpir en la habitación de una chica y demandar usar su televisión...
 [sha:f7746626d095001aab16f168f22ef4c1c2174a24]{
 -- Page 248, Offset 3266.
 -- 琥珀さんだって目を白黒させたまま呆れて―――ないぞ？
-Me refiero, mira, Kohaku-san está totalmente anonadada por mi comportamien――to ¿o no?
+Quiero decir, mira, Kohaku-san está totalmente anonadada por mi comportamien――to ¿o no?
 }
 [sha:d9ce731e431b4654059e2fcae9b36364de680627]{
 -- Page 249, Offset 3267.
@@ -109,7 +109,7 @@ Me refiero, mira, Kohaku-san está totalmente anonadada por mi comportamien―�
 [sha:c098907a65021cee51ef543539c0c322955d1ae4]{
 -- Page 249, Offset 3268.
 -- 志貴さんは今まで有間のお家で暮らしていたんですもの。いきなりこの屋敷の空気は重かったでしょう？」
-Después de todo has estado viviendo en casa de los Arima hasta ahora. El ambiente pesado de esta mansión tuvo que pillar bastante desprevenido."
+Después de todo has estado viviendo en casa de los Arima hasta ahora. El ambiente pesado de la mansión te tuvo que pillar bastante desprevenido."
 }
 [sha:fdd4a715d3308afee27da7d6903f181f280948e8]{
 -- Page 250, Offset 3269.
@@ -119,7 +119,7 @@ Después de todo has estado viviendo en casa de los Arima hasta ahora. El ambien
 [sha:b719448824ef74a24cd92a12a46428e0ff9b739d]{
 -- Page 250, Offset 3270.
 -- 「このコトって、琥珀さんの部屋に行くってこと？」
-"Por 'esto', ¿te refieres a mi viniendo a tu habitación?"
+"Por 'esto', ¿te refieres a sobre venir a tu habitación?"
 }
 [sha:03b224d82e4456eb1f07394a1380ddbb7cdefc1f]{
 -- Page 250, Offset 3271.
@@ -129,7 +129,7 @@ Kohaku-san asiente.
 [sha:5303701e85ee9766e2d4f19b797d52ccc45306b1]{
 -- Page 251, Offset 3272.
 -- 「いえ、誰にも話していませんよ」
-"No, no le he dicho a nadie."
+"No, no se lo he dicho a nadie."
 }
 [sha:289b0fc48005acff69986957aae0709278900b13]{
 -- Page 252, Offset 3273.
@@ -159,8 +159,8 @@ Ella me agarra del brazo.
 [sha:4dc8edf88a4ec2f664dd9df19d1dd74a950961c6]{
 -- Page 253, Offset 3278.
 -- 「ちょっ、わわわ……！」
-// ni idea de como localizar aquí tbh
-"Espera, ¡¿wh-wh-whoa?!"
+//ni idea de como localizar aquí tbh
+"Espera, ¡¿ua-oa-oaa?!"
 }
 [sha:98655e74fe3885e5ae9227ca3b364df0e06eec2a]{
 -- Page 254, Offset 3279.
@@ -208,7 +208,7 @@ Kohaku-san deja la habitación.
 [sha:78cffee03ab66805ef45899735a14433af0ecfcc]{
 -- Page 257, Offset 3287.
 -- 琥珀さんの部屋は女の子の部屋、というより、よく整頓された事務室のような印象だった。
-Este lugar no se parece a la habitación de una chica tanto como a una oficina bien organizada.
+Este lugar más que a la habitación de una chica se parece a una oficina bien organizada.
 }
 [sha:718a8f9eaa6ecd3c53a61288249f2b07ebf425e5]{
 -- Page 257, Offset 3288.
@@ -234,18 +234,18 @@ Es para guardar medicina, ¿verdad?
 -- Page 258, Offset 3292.
 -- ……きっとそうだ。有間の家で暮らしていた頃、お世話になっていた町医者の爺さんの部屋にあれと同じ箪笥があった。
 Estoy bastante seguro.
- El viejo doctor que me solía cuidar cuando vivía con los Arima tenía un armario justo como este en su casa.
+ El viejo doctor que me solía cuidar cuando vivía con los Arima tenía en su casa un armario justo como este.
 }
 [sha:70cfdc4f7bb96c325b46209efe4524f85a182ead]{
 -- Page 259, Offset 3293.
 -- となると……琥珀さんは医者の資格も持っている……？
-Si ese es el caso... ¿entonces Kohaku-san también es una doctora certificada...?
+Si ese así... ¿entonces Kohaku-san también es una doctora certificada...?
 }
 [sha:8de261186dc64bf3308d70e66ef91622c35f6401]{
 -- Page 259, Offset 3294.
 -- いや、いくらなんでもそれはない。だいたい医師資格を取るには彼女は若すぎる。
 No, no puede serlo.
- Aún es demasiado joven para haberse cualificado para obtener una licencia.
+ Aún es demasiado joven como para haberse cualificado para una licencia.
 }
 [sha:56257d15049b3a25c76613e50ec93aa82197fa8e]{
 -- Page 260, Offset 3295.
@@ -285,7 +285,7 @@ Con una sonrisa amigable en su rostro, Kohaku-san me sirve una taza de un fuerte
 [sha:d54321536e1e7b9e88e09e487583d62b7ad121a4]{
 -- Page 263, Offset 3302.
 -- 「テレビでしたね。
-"Has venido a ver la tele, ¿verdad?"
+"Has venido a ver la tele, ¿verdad?
 }
 [sha:4b9d164ba401741ccfbd3e23570200c795771a27]{
 -- Page 263, Offset 3303.
@@ -330,12 +330,12 @@ Supongo que las gafas me hacen parecerlo."
 [sha:34be30843704e05ca09ed007142d031d1d2e0777]{
 -- Page 266, Offset 3311.
 -- ふふ、志貴さんったら眼鏡をかけていらしたんですもの。
-%{i}Jeje%{/i}, acerca de esas gafas que llevas, Shiki-san.
+%{i}Jeje%{/i}, sobre esas gafas que llevas, Shiki-san.
 }
 [sha:44264966fc1a45a0967d776430ea60dd46f38813]{
 -- Page 266, Offset 3312.
 -- 実は昨日、お出迎えした時に心の中でびっくりしていたんですよ」
-Ayer al recibirte me sorprendí bastante cuando te vi con ellas."
+Ayer al recibirte cuando te vi con ellas me sorprendí bastante."
 }
 [sha:d7c07a8f2cd1bf47a814a22804cda8aad17203bc]{
 -- Page 266, Offset 3313.
@@ -355,7 +355,7 @@ Estaba esperando a alguien como ella——alguien con una mirada afilada y ardie
 [sha:ef0b04bec1ec151bbb9369366388e3d4f29c7827]{
 -- Page 268, Offset 3316.
 -- 杞憂でしたけどね、と微笑む琥珀さん。
-Kohaku-san sonríe, contenta por haberse preocupado por nada.
+Kohaku-san sonríe, contenta de haberse preocupado por nada.
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 268, Offset 3317.
@@ -365,19 +365,19 @@ Ya veo...
 [sha:4b20aed412a66cf23c9e796210c2571d26be6a1a]{
 -- Page 268, Offset 3318.
 -- 言われてみれば、この眼鏡をかけてから秋葉とは直接出会っていなかったんだっけ。
-Supongo que nunca vi a Akiha en persona desde que empecé a llevar estas gafas.
+Supongo que desde que empecé a llevar estas gafas nunca vi a Akiha en persona.
 }
 [sha:891adc8578fe89bb9a10d0fc8d1f28bf218ad2bc]{
 -- Page 269, Offset 3319.
 -- 「けど、この眼鏡は伊達眼鏡なんですよ。
-"Bueno, estas gafas realmente son de pega.
+"Bueno, estas gafas en realidad son de pega.
 }
 [sha:8b6366677232d572d6e8052dc3696ef9e3f1099e]{
 -- Page 269, Offset 3320.
 -- 目は悪いといえば悪いんだけど、視力は平均よりいい方だし。別に勉強のしすぎで視力が落ちたわけじゃないんです。あー……知的なイメージがあったのに、幻滅させちゃいました？」
 Es totalmente cierto que hay algo mal con mis ojos, pero mi vista es mejor que el promedio.
  No es que se fastidiaran por estudiar mucho.
- Oh vaya... ¿He arruinado tu imagen mía de intelectual?"
+ Oh vaya... ¿He arruinado la imagen de intelectual que tenías sobre mi?"
 }
 [sha:ffb9e5a85793c08462d6a664c9b60a755443d403]{
 -- Page 270, Offset 3321.
@@ -392,7 +392,7 @@ Yo también disfruto más viendo la tele que leyendo libros.
 [sha:411c79435495c920acb4834391516206c0d5ed91]{
 -- Page 270, Offset 3323.
 -- 志貴さんが思った通りの元気な方で、嬉しいです」
-Me alegro de que estés tan animado como pensé que lo estarías."
+Me alegro de que seas tan animado como pensé que eras."
 }
 [sha:f752dc0ee7045f721fe4bbd284ad1af3424febdc]{
 -- Page 271, Offset 3324.
@@ -402,12 +402,12 @@ Me alegro de que estés tan animado como pensé que lo estarías."
 [sha:349af632a64b7780e4fd0bca44b20f10a275de67]{
 -- Page 271, Offset 3325.
 -- 気恥ずかしくなって視線を逸らす。
-Sintiéndome avergonzado, aparto la mirada.
+Me siento avergonzado, por lo que aparto la mirada.
 }
 [sha:88f309c02d3e4db80cba6791de4f3fb5293cd483]{
 -- Page 271, Offset 3326.
 -- 琥珀さんは真正面から屈託のない笑顔を向けてくるので、ついドギマギしてしまう。
-Ser golpeado abocajarro por la honesta sonrisa de Kohaku-san me ha puesto bastante nervioso.
+Recibir abocajarro la honesta sonrisa de Kohaku-san me ha puesto bastante nervioso.
 }
 [sha:a34efc8fdd27acd19d31fa05579db84a000e5fa1]{
 -- Page 272, Offset 3327.
@@ -437,8 +437,8 @@ Son las nueve y media pasadas.
 [sha:8c50cb7b182784546019cc950c0984aee7a6b792]{
 -- Page 273, Offset 3332.
 -- ニュース番組はお茶の間向けの明るいものではなく、深刻な<情報|ソース>を報道する、社会的なものにシフトしていた。
-Las noticias han pasado del programa inofensivo para todas las audiencias,
- y ahora están informando de los temas más serios que afectan a la sociedad.
+Las noticias han terminado el segmento inofensivo para todas las audiencias,
+ y ahora informan de los temas más serios que afectan a la sociedad.
 }
 [sha:985016caec52e9c5d4b1edef8f337203bb460325]{
 -- Page 274, Offset 3333.
@@ -448,13 +448,13 @@ Las noticias han pasado del programa inofensivo para todas las audiencias,
 [sha:46716eacec0e3b2e11363950b8e18b279a26fdc7]{
 -- Page 274, Offset 3334.
 -- ニュースは連続通り魔殺人を特集していた。
-// Aquí traduzco literal del japonés porque no se puede resolver de la misma manera que en el inglés.
+//Aquí traduzco literal del japonés porque no se puede resolver de la misma manera que en el inglés.
 Las noticias están llevando a cabo un reportaje especial sobre los asesinatos cometidos por el atacante aleatorio.
 }
 [sha:20f61b388784a276391763a8c852b8eedebd6d30]{
 -- Page 274, Offset 3335.
 -- 隣の区から始まった通り魔殺人は、現在この総耶駅付近で繰り返されている。
-Los asesinatos en serie que empezaron en el distrito de al lado ahora se están replicando cerca de la Estación de Souya.
+Los asesinatos en serie que empezaron en el distrito de al lado ahora se están replicando cerca de la estación de Souya.
 }
 [sha:5193557df7fbb5492cc438c3bb5a817db61c6c2a]{
 -- Page 275, Offset 3336.
@@ -464,13 +464,13 @@ Es un informe directo, aunque de naturaleza despiadada.
 [sha:3b7224c1e131c4c9583bd3cb048761cfac45e80c]{
 -- Page 275, Offset 3337.
 -- 『深夜、出歩いている若い女性を無差別に拉致して殺害、最後に血液を抜き取る』という凶行。
-'De manera indiscriminada secuestran a mujeres jóvenes que andan por aquí de noche, las matan, y les chupan la sangre.'
+Secuestran de manera indiscriminada a mujeres jóvenes que andan por aquí de noche, las matan, y les chupan la sangre.'
 }
 [sha:0fab4236c5eaa0405a5b3d89d3e8b25a4979d78c]{
 -- Page 275, Offset 3338.
 -- 被害者は既に八人におよび、後手に回り続ける警察の捜査能力が問題視されている。
 Ya ha habido ocho personas que han sido víctimas,
- y la habilidad de la policía para llevar la investigación se ha puesto en duda.
+ y se ha puesto en duda la capacidad de la policía para llevar la investigación.
 }
 [sha:228aa6fb1691addfacb0dd5aea1c797e9cec72a8]{
 -- Page 276, Offset 3339.
@@ -497,7 +497,7 @@ Supongo que están restringiendo la información para evitar que criminales imit
 [sha:6cdfdb0fada61807ce63335d8af9b8bfe8dbea28]{
 -- Page 277, Offset 3343.
 -- 「うーん……突発的な犯行なんで、犯人の動機がしぼれないとか？　深夜の通り魔的な犯行なら、見つかりさえしなければ跡を追えません。動機……理由が無い以上、犯人は捜せないわけですし」
-"Hmmm... ¿quizá tengan problemas localizando el motivo porque los asesinatos no eran premeditados?
+"Hmmm... ¿quizá tengan problemas localizando el motivo porque los asesinatos no son premeditados?
  Si un asesinato improvisado ocurre en medio de la noche,
  a no ser que le pilles en el acto sería imposible rastrear al culpable.
  No puedes empezar a buscar a un criminal sin saber cuales son sus razones, o motivos."
@@ -510,7 +510,7 @@ Supongo que están restringiendo la información para evitar que criminales imit
 [sha:30e2caa5872df602300f9eadcd117560fe40b94f]{
 -- Page 278, Offset 3345.
 -- 「うん、まあ。そうでもないと、二週間近く犯人が見つからないのはおかしいでしょう」
-"Si, bueno. Suerte o no, es extraño que no se haya identificado al asesino en dos semanas."
+"Sí, bueno. Suerte o no, es extraño que no se haya identificado al asesino en dos semanas."
 }
 [sha:5fe9003088dd8e6031e245d348f6276db56f295c]{
 -- Page 279, Offset 3346.
@@ -520,13 +520,13 @@ Supongo que están restringiendo la información para evitar que criminales imit
 [sha:40e1ac55d26ed4974e484744401b884ebf344b0f]{
 -- Page 279, Offset 3347.
 -- 想像でしかありませんが、殺人というものは数を重ねれば重ねるほど証拠を残してしまうものです」
-Todo lo que puedo hacer es especular, pero esperaría que cuantos más asesinatos cometas, más pruebas dejes."
+Todo lo que puedo hacer es especular, pero esperaría que a más asesinatos cometas, más pruebas dejes."
 }
 [sha:4b29b70c78e8a59f7f306f86058007549177ad32]{
 -- Page 280, Offset 3348.
 -- 「行方不明者が八人いる、というのなら証拠は積み上がりませんが、遺体が八人分も発見されているのなら十分な状況証拠は<揃|そろ>っていて<然|しか>るべきです。
 "Si hay ocho personas %{i}desaparecidas%{/i}, entendería que no hubiese suficiente información,
- pero habiendo encontrado los ocho cuerpos piensas que tendrías suficiente información circunstancial que te lleve a algún lado.
+ pero habiendo encontrado los ocho cuerpos pensarías que tienes suficiente información circunstancial que te lleve a algún lado.
 }
 [sha:6a0716e1de065d8982c8061635c85f3b96be7063]{
 -- Page 280, Offset 3349.
@@ -542,25 +542,25 @@ Y aún así, no han encontrado al culpable,
 [sha:b18ca09f93affad1d6733400c0ded66dfc8669ad]{
 -- Page 281, Offset 3351.
 -- ……意外だった。
-No puedo decir que me esperase eso...
+No me lo esperaba...
 }
 [sha:9fafe5c2598b5b0ec46c990363c8bc95c2ae8a4e]{
 -- Page 281, Offset 3352.
 -- 不謹慎ではあるが、なるほど、と感心してしまった。
 Es una evaluación escueta,
- pero igualmente estoy impresionado.
+ pero estoy impresionado igualmente.
 }
 [sha:ecf4000ca957462ec2b97e0191b688388f410587]{
 -- Page 281, Offset 3353.
 -- 琥珀さんの憶測が正しいかどうかはともかく、ここまで筋道をきっちり考える人とは思わなかった。
-Sin importar si la especulación de Kohaku-san sea correcta o no,
+Independientemente de que la especulación de Kohaku-san sea correcta o no,
  no esperaba que pensase tan profundamente en los detalles del caso.
 }
 [sha:eb1b5b7ae17ae23f7252fcd9966d59e40338aa0e]{
 -- Page 282, Offset 3354.
 -- 「しかし、そうなると犯人は突発的な通り魔じゃなくて、用意周到な殺人鬼になりますね。
 "Pero eso haría del culpable un asesino meticuloso y bien preparado,
- no un asesino en la emoción del momento.
+ no un asesino de la emoción del momento.
 }
 [sha:a23375f5f23fd4631265541ec55e723669db0d18]{
 -- Page 282, Offset 3355.
@@ -601,23 +601,23 @@ Es como si no estuviera particularmente preocupada por ello.
 [sha:265454b5cf1fe5eb445a6580d5764d08e10fe7a4]{
 -- Page 285, Offset 3361.
 -- 「琥珀さん、これってこの街で起きてる事件なんですよ？
-"Kohaku-san, te das cuenta de que este mismo incidente está ocurriendo en esta ciudad, ¿cierto?
+"Kohaku-san, te das cuenta de que el incidente está ocurriendo en esta ciudad, ¿cierto?
 }
 [sha:3dbf7cd0a7bc1f94127fa59a79a4e30dbecc8f24]{
 -- Page 285, Offset 3362.
 -- 琥珀さんだって若い女の子なんだから、少しは恐いって思わないんですか？」
-¿No piensas que da un poco terrorífico? Especialmente para una chica joven cómo tú."
+¿No piensas que es un poco terrorífico? Especialmente para una chica joven cómo tú."
 }
 [sha:ea56545ba7340f548bdbb09ad720e169eeb58f7c]{
 -- Page 286, Offset 3363.
 -- 「いやですねぇ、大丈夫ですよ。
-"Oh no, está bien.
+"Ah no, está bien.
 }
 [sha:15389f74a064b578938adafe710d14309ce008a8]{
 -- Page 286, Offset 3364.
 -- 通り魔さんは深夜に出現するだけですから。夜は外に出なければ会う事もありません」
 Después de todo, el asesino en serie solo aparece por las noches,
- así que si no salgo fuera tras anochecer, no me encontraré con ellos."
+ así que si no salgo fuera tras anochecer, no me encontraré con él."
 }
 [sha:9870c3e90dcce8445824ca4a44bec589c829af0f]{
 -- Page 287, Offset 3365.
@@ -627,19 +627,19 @@ Que manera tan clara de pensar.
 [sha:89306997cf45dd5c3146e4563b5aed1d8a57a81a]{
 -- Page 287, Offset 3366.
 -- そう割り切るには生々しすぎる話題だけど、ニュースで知る事件なんて、そんなものなのかもしれない。
-// suena forzado
-Pero diría que es un asunto un poco espeluznante como para descartarlo tan fácilmente,
- pero quizá así es como es con los incidentes de los que nos enteramos por las noticias.
+//suena forzado
+Diría que es un asunto un demasiado espeluznante como para descartarlo tan fácilmente,
+ pero quizá es lo que hay con los incidentes de los que nos enteramos por las noticias.
 }
 [sha:0dd77b5be91d593d6bf3336c23e28f28092c6489]{
 -- Page 288, Offset 3367.
 -- 「お邪魔しました。
-"Siento haberme colado.
+"Siento la intrusión.
 }
 [sha:4355060a942c45de6028b255d21deff5fbd8acce]{
 -- Page 288, Offset 3368.
 -- また観たくなったらやってきますから、その時はよろしくお願いします」
-Quizá me pase otra vez cuando me apetezca ver más la tele, así que gracias por adelantado."
+Puede que me pase otra vez cuando me apetezca ver más la tele, así que gracias por adelantado."
 }
 [sha:036e2408888ade2114532f05cd60e796f982c1a2]{
 -- Page 289, Offset 3369.
@@ -695,12 +695,12 @@ Sin importar lo mucho que avance la tecnología o cambien las modas, la familia 
 [sha:be7822544c629757b4fba5ba5f3a21fa430b5a6b]{
 -- Page 292, Offset 3379.
 -- 秋葉が当主になったぐらいで何が変わる筈もない。
-Nada cambiará porque Akiha se vuelva el cabeza de familia.
+Nada cambiará porque Akiha se vuelva la cabeza de familia.
 }
 [sha:899a9eb04079616f7aab37825fefca8f41998ddd]{
 -- Page 293, Offset 3380.
 -- 「…………むしろ良くしてくれてる方だよな。
-"Ha sido bastante buena conmigo, ¿no?
+"Ha sido bastante buena conmigo, ¿verdad?
 }
 [sha:13b5bdc2f28a912569a4a47c5c47bb0663e8a938]{
 -- Page 293, Offset 3381.
@@ -710,7 +710,7 @@ Por lo menos, echó a todos los familiares por mí.
 [sha:fc8724442fcf3a52380a69b6b78ded3a1c8e4854]{
 -- Page 294, Offset 3382.
 -- ……慣れない屋敷の空気に疲れてきた。
-Estoy un poco cansado del ambiente de esta mansión desconocida...
+Estoy un poco cansado por el ambiente de esta mansión desconocida...
 }
 [sha:3b89ba185be3c8d801f1218b7f3c32f9de37827e]{
 -- Page 294, Offset 3383.

@@ -12,7 +12,7 @@ Se está poniendo el sol.
 [sha:60a0697d760793b746826445518d8df445a87ccc]{
 -- Page 10013, Offset 25265.
 -- 何を思ったか、アルクェイドは
-No se que tenía en mente Arcueid cuando dijo―――
+No sé que tenía en mente Arcueid cuando dijo―――
 }
 [sha:f505805a7035da0f5e02a257eec45dd9a84d4961]{
 -- Page 397, Offset 25266.
@@ -60,7 +60,6 @@ Arcueid mira curiosamente a través de las vallas para ver lo que hay dentro.
 [sha:b72fd69591e201ade3de9c2666afdc36f557d4f6]{
 -- Page 400, Offset 25274.
 -- 正門で金髪美女がうろついている方が人目につく。
-// Tl oficial
 Es hora de moverse. No se me ocurre nada más cantoso que una rubia preciosa merodeando por la entrada delantera.
 }
 [sha:47e3f05f202e39a0b7d6e5acff21a98cd87e0916]{
@@ -71,7 +70,7 @@ Es hora de moverse. No se me ocurre nada más cantoso que una rubia preciosa mer
 [sha:ab0a55d02c7d0a84457891cb3d6423257bfc50a6]{
 -- Page 401, Offset 25276.
 -- 手を引いて先を急ぐ。
-La cojo de la mano y la llevo dentro.
+La tomo de la mano y la llevo dentro.
 }
 [sha:5cfa6b416c62e2bf7a0be25a6bcb16475c9887e4]{
 -- Page 402, Offset 25277.
@@ -92,7 +91,6 @@ En ese momento pensaba que me iba a dar un infarto,
 [sha:8df0b0a27b314ac8f53b9a003e6c74128c26bd31]{
 -- Page 402, Offset 25280.
 -- 吸血鬼のクセに昼間出歩いて、かつ学校を散策するとか、ほんと、非常識にもほどがある。
-// Tl oficial
 Osea, vamos a ver. Este vampiro anda por ahí de día, y en mi escuela
  de todos los sitios. Diría que hay un límite para lo despistado que uno puede ser.
 }
@@ -111,7 +109,7 @@ Osea, vamos a ver. Este vampiro anda por ahí de día, y en mi escuela
 -- 「学校のこと。わたしが見るかぎり、誰もいないみたいだけど」
 "En la escuela... Diría que no hay nadie en ella."
 }
-[sha:f6dae3824038024fd8c24225ac2fecb1b6b8ff47]{
+[offset:25284]{
 -- Page 403, Offset 25284.
 -- 「……なんだって？」
 "¿Qué acabas de decir...?"
@@ -142,7 +140,6 @@ La entrada delantera estaba abierta,
 [sha:bcf78c2dc3b440ae316f43855b7a9a50778a113b]{
 -- Page 406, Offset 25289. Mods: @n.
 -- 「ねえねえ。中には誰もいないんだよ？
-// Mix de tls
 "Ey, Shiki. No hay nadie dentro, ¿sabes lo que eso significa, no?
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
@@ -154,7 +151,7 @@ La entrada delantera estaba abierta,
 -- Page 406, Offset 25291.
 -- アルクェイドはじっと上目遣いで見つめてくる。……なんとなく、アルクェイドの言いたい事が分かってしまった。
 Arcueid me mira con ojitos...
- Creo que ya se a donde va todo esto.
+ Creo que ya sé a donde va todo esto.
 }
 [sha:85a3b7f328eedfc5476e2d2620df872d6335a833]{
 -- Page 407, Offset 25292.
@@ -189,8 +186,7 @@ Me niego en rotundo, pero ella ni me escucha.
 [sha:4f7dd3354187da6406cc1f8d179545ca6da18be3]{
 -- Page 409, Offset 25298.
 -- 廊下も広いし、これなら十分使えそうね」
-// Mix de tls
-Incluso los pasillos son amplios. Qué práctico."
+Incluso los pasillos son amplios. Que práctico."
 }
 [sha:c59ef370a89e78afb9f79cca64f6bbbd8dea98ad]{
 -- Page 409, Offset 25299.
@@ -237,7 +233,7 @@ No puedo dejar a este ser de destrucción suelto por la escuela.
 [sha:f4c660cd91ad78756657f2a81636537abd3848fa]{
 -- Page 412, Offset 25307.
 -- 止めるのは不可能でも、せめて努力ぐらいはしなければ……！
-Aunque sea imposible pararla , ¡al menos hay que intentarlo!
+Aunque sea imposible pararla, ¡al menos hay que intentarlo!
 }
 [sha:a9e5bd313ee6d47c299c2b9c1aa91a8da45c541f]{
 -- Page 413, Offset 25308.
@@ -247,7 +243,7 @@ Aunque sea imposible pararla , ¡al menos hay que intentarlo!
 [sha:2ebe86a658b4c851d7c40e43a03563efbb6e00f2]{
 -- Page 413, Offset 25309.
 -- 何が楽しいのか、アルクェイドは笑みをうかべている。
-No se que es tan divertido, pero está sonriendo de oreja a oreja.
+No sé qué es tan divertido, pero está sonriendo de oreja a oreja.
 }
 [sha:f8b29ba284e18bfa67d84f6512a5092388f6fd9f]{
 -- Page 414, Offset 25310.
@@ -257,7 +253,6 @@ No se que es tan divertido, pero está sonriendo de oreja a oreja.
 [sha:9c6cb3c2fef3a9429e8bcb3f61725d7f134fa1c1]{
 -- Page 414, Offset 25311.
 -- 遊び場なら他にも沢山あるだろ、適当に連れて行ってやるから余所に行こう」
-// Tl oficial
 Hay otros sitios donde te lo vas a pasar mejor.
  Venga, te llevo."
 }
@@ -341,12 +336,12 @@ Abro la ventana y entro en la escuela sin quitarme los zapatos.
 [sha:cbec7d5e8e12e7fb7ec83f1bca42c236e11743d1]{
 -- Page 420, Offset 25327.
 -- 「………………はあ」
-"%{i}Haaaa%{/i}..."
+"%{i}Haaa%{/i}..."
 }
 [sha:4ae34615b2cba27f790ff7770681aa087c412f2a]{
 -- Page 420, Offset 25328.
 -- まあ、予測通りというか、お約束というか。
-No se si llamarlo predecible o cliché.
+No sé si llamarlo predecible o cliché.
 }
 [sha:327f7ff6ed943adeceaca30c62d9b45d23237724]{
 -- Page 420, Offset 25329.
@@ -429,7 +424,7 @@ Esta escuela no tiene nada que ver con matar vampiros, ¿qué quiere conseguir v
 [sha:b85be188d3cf503c342d0781a518e1b9b28ba809]{
 -- Page 426, Offset 25344.
 -- 「いえ、ここに来た事にさして理由はないわ。
-"No, no había pensado en nada al venir aquí.
+"No, no había pensado en nada al venir.
 }
 [sha:801797d7346279f88dcc305c28a5b37ce81ef0d0]{
 -- Page 426, Offset 25345.
@@ -469,7 +464,7 @@ De todas las preguntas hasta ahora, creo que esta es la más difícil de compren
 [sha:92f89ce99beb0b27f9f3d4761cb42a6cf24578bf]{
 -- Page 428, Offset 25352.
 -- 「ここで習った知識や技術は、あなたの人生において一度も使われない事もあるのよね。そういうのって無駄じゃないの？」
-"Puede que jamás en tu vida uses algunos de los conocimientos o habilidades que aprendes aquí, ¿me equivoco?
+"Puede que jamás uses algunos de los conocimientos o habilidades que aprendes aquí, ¿me equivoco?
  ¿No crees que es inútil?"
 }
 [sha:677186c49f07a671475923d76fa1e25158d6f70e]{
@@ -486,18 +481,18 @@ Por ejemplo, estudio mates, pero si no acabo trabajando en algo que las use, ent
 [sha:3eeee3382785e288f5b1ef7ac6212f1960b7bc29]{
 -- Page 429, Offset 25355.
 -- 国の歴史や英語を習ったところで、それをこの先使うかどうかは分からない。アルクェイドの言う通り、ここで過ごす時間の大半は、人生にとって余分なものだよ」
-Lo mismo va para el Inglés o la historia de mi país, nada garantiza que lo vaya a usar después.
+Lo mismo va para el inglés o la historia de mi país, nada garantiza que lo vaya a usar después.
  Tal y como dices, la mayoría de lo que aprendo no es necesario para el día a día."
 }
 [sha:0ad6ee0be6aa3e67f9b776b6b727fca3d3b7b132]{
 -- Page 430, Offset 25356. Mods: @n.
 -- 「なんだ、ちゃんと
-"Vaya, entonces
+"Vaya, eres consciente
 }
 [sha:51ad82684c1beab54fafb7418f0c813a4997f501]{
 -- Page 430, Offset 25357. Glued.
 -- 気づいてたんだ。
-eres consciente.
+ entonces.
 }
 [sha:016d8e313549187aff0f5e117b768ac9682e2e7e]{
 -- Page 430, Offset 25358.
@@ -507,14 +502,13 @@ Si es así... ¿por qué sigues haciendo tal sin sentido?
 [sha:4c65fc649093b22572028a940bb1d02afd3afcf6]{
 -- Page 430, Offset 25359.
 -- あなたたちの時間は短いんだから、そんな事をしている暇なんてない筈なのに」
-Vuestras vidas son tan cortas que no pensaba que teníais tiempo de sobra para cosas como esta."
+Vuestras vidas son tan cortas que no pensaba que os sobrara tiempo para cosas como estas."
 }
 [sha:40953d1c545269847b0b5ba724b5fc9b58ddea6a]{
 -- Page 431, Offset 25360.
 -- 「暇はないって、まあ、はっきりとした目的が今はないからね。それまではこうやって無駄に生きているワケだけど」
-// Mix de tls
 "¿Tiempo de sobra? Bueno... no es que tenga un propósito claro en la vida.
- Solo estoy viviendo la vida hasta que lo encuentre."
+ Solo estoy viviendo hasta que lo encuentre."
 }
 [sha:54d9ee5fc6696b2b8e434ee77684dad385c217cb]{
 -- Page 432, Offset 25361.
@@ -530,7 +524,7 @@ Sí, de verdad no me lo puedo creer."
 [sha:18e92183e45f3f2cbca9484a004d74964f4d7ad9]{
 -- Page 433, Offset 25363.
 -- アルクェイドの声はひどく落ちこんでいる。
-Arcueid empieza a sonar muy deprimida
+Arcueid empieza a sonar muy deprimida.
 }
 [sha:b7434771219d53dbd6a1854c214c5533aaa8d50a]{
 -- Page 433, Offset 25364.
@@ -540,7 +534,7 @@ No sé realmente por qué...
 [sha:309fe82b55b3a3bdd947c79edebf5acc25028d6c]{
 -- Page 433, Offset 25365.
 -- ただ、彼女の独白に答える事だけはできる。
-Al menos, puedo responder a su monólogo.
+Pero, al menos, puedo responder a su monólogo.
 }
 [sha:bdf1fdaf1c933bf2915f180bdbe19e6561620bcc]{
 -- Page 434, Offset 25366.
@@ -587,7 +581,7 @@ Estos días son para mirar hacia atrás con una sonrisa al recordar cómo solía
 [sha:a9fb6095fa019bf56a8a5d3ee7248eacfb5ba2ba]{
 -- Page 436, Offset 25374.
 -- 「……その思い出自体が無駄な事なのに、それを楽しく思い出せるっていうの、志貴は？」
-"Aunque el contenido de esas memorias sea inútil, ¿dices que disfrutarías rememorándolas?"
+"Aunque el contenido de esos recuerdos sea inútil, ¿dices que disfrutarías rememorándolos?"
 }
 [sha:b8634934d1e767b9c1176d21e400f1a56623ebe8]{
 -- Page 437, Offset 25375.
@@ -758,7 +752,7 @@ No podría ni empezar a comprender una fracción de los sentimientos que atormen
 [sha:98fcefa99b0b80b0696c81e5ae8bd19541c2349c]{
 -- Page 448, Offset 25406.
 -- 「……壊れてるって、なにが。おまえは、普通に見えるけど」
-"¿'Rota' dices? A mis ojos te ves normal.
+"¿'Rota' dices? A mis ojos te ves normal."
 }
 [sha:4105596cebc731e1dcf355dcd0ce9f77f986ab47]{
 -- Page 449, Offset 25407.
@@ -774,19 +768,16 @@ Todas estas emociones innecesarias, tanto alegres como tristes, se han vuelto mu
 [sha:630eaed8523c5c9ba42bf128c1600d7fba043caf]{
 -- Page 449, Offset 25409.
 -- それにね、わたしは普通じゃないよ。志貴とは違う、吸血鬼なんだから」
-// Tl oficial
 Y para empezar nunca fui normal. A diferencia de ti, soy un vampiro."
 }
 [sha:53936222a33834f342a6afa6becb856c20f5161f]{
 -- Page 450, Offset 25410.
 -- 寂しげに、アルクェイドは笑ったように見えた。
-// Tl oficial
 Su cara colmada de soledad, pero casi parece estar sonriendo.
 }
 [sha:f803da6b4127f8b7e76e49433f683f88394bdd77]{
 -- Page 450, Offset 25411.
 -- 儚げに、夕焼けの赤色に隠れるように。
-// Tl oficial
 Un semblante frágil, como si fuera a desvanecerse con la puesta de sol.
 }
 [sha:2d45998f5a110579e0c66ee8dc6a84315f991b5a]{
@@ -804,15 +795,14 @@ Pero es extraño.
 -- こんなのは、ヘンだ。
 Hay algo raro.
 }
-[sha:8bae21113428e11133de724a7676b7a04108bfbb]{
+[offset:25415]{
 -- Page 451, Offset 25415.
 -- 夕焼けの教室。
-La clase embebida en la puesta del sol.
+La clase inundada por la puesta.
 }
 [sha:b2ab2609893a09b6758b5c06c8d266831304815d]{
 -- Page 451, Offset 25416.
 -- 赤い日を浴びて、頼りなげにうつむく女。
-// Tl oficial
 Arcueid, bañada en el brillo ámbar del sol,
  viéndose más frágil que nunca.
 }
@@ -834,9 +824,8 @@ Sí, ni un poco.
 [sha:ad68e2e10bf00820fb1b645e62d8ca7a9380bdad]{
 -- Page 452, Offset 25420.
 -- おまえは吸血鬼なんだから―――そんな、普通の女の子みたいな、頼りない側面なんか見せないでくれ。
-// Mix de tls
-Eres un vampiro――no me enseñes este lado tuyo.
- Este lado tuyo tan vulnerable y dulce como el de cualquier otra chica.
+Eres un vampiro――no me enseñes este lado de ti.
+ Este lado tan vulnerable y dulce como el de cualquier otra chica.
 }
 [sha:04252cd511dbe2c40785d23587e10e4358b39001]{
 -- Page 453, Offset 25421.
@@ -871,7 +860,7 @@ Pero, me has gritado mucho. ¿Eso es distinto?"
 [sha:e417a070ea5831d0de2039408419fdc9ce03c8ce]{
 -- Page 455, Offset 25427.
 -- ……だから、いいんだ。俺は好きでやってるんだから、俺にかける迷惑なんて考えないでくれ」
-Pero no importa... lo hago porque disfruto de ello,
+Pero no importa... lo hago porque disfruto de ello, 
  no pienses que me molesta."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -929,7 +918,7 @@ Que mal. Me ha pillado un poco por sorpresa.
 [sha:1a304dd90a8b30232b5243955e20945d81f52566]{
 -- Page 458, Offset 25438.
 -- 今までワガママである事を自覚しておりませんでしたか、このお姫様ときたら。
-Y espera, ¿la princesa desconocía su propio egoísmo hasta ahora?
+Y espera, ¿hasta ahora la princesa desconocía su propio egoísmo?
 }
 [sha:e5c0db11a11c93bac08b109351813e5103d1b65b]{
 -- Page 459, Offset 25439.
@@ -950,7 +939,7 @@ Solo quería picarla un poco, pero acabo riéndome a carcajadas.
 [sha:78ddf759ccbb759074c2dea5e3b662f07a6e14bc]{
 -- Page 460, Offset 25442.
 -- だって、アルクェイドが自分の事を恥ずかしそうに聞くなんて、夢にも思わなかったから。
-Quiero decir, en mi vida habría soñado que Arcueid me hiciera preguntas sobre ella misma tan tímida.
+Quiero decir, en mi vida habría soñado que Arcueid me hiciera preguntas sobre ella misma de una forma tan tímida.
 }
 [sha:4be4330ccae45035bc55683f154c4eebe9143520]{
 -- Page 461, Offset 25443.
@@ -965,7 +954,7 @@ Ah,
 [sha:06bd725f9a6835e7bb9541b5bbdcb34b0fa0d6c7]{
 -- Page 461, Offset 25445. Glued.
 -- 怒った。
-se enfadó.
+ se enfadó.
 }
 [sha:13fc4741d48a9e8a7cd23cd9da538c0b1ef0ca3c]{
 -- Page 462, Offset 25446.
@@ -976,7 +965,7 @@ se enfadó.
 -- Page 462, Offset 25447.
 -- 「そりゃそうだよ。俺はおまえ以外には優しいって言ったじゃないか。薄情なのは今に始まったコトじゃないし？」
 "Bueno, así soy yo. ¿No te he dicho que soy majo con todos menos contigo?
- Ni que acabara de empezar a ser borde ahora."
+ Ni que fuera la primera vez que soy borde contigo."
 }
 [sha:d08ecfe00af4939240cc05854aaec0222b22c0ec]{
 -- Page 463, Offset 25448.
@@ -993,7 +982,7 @@ No hay objeciones por su parte.
 [sha:9faa42e3e1a05981bf8d79d162ed81b6db663050]{
 -- Page 464, Offset 25450.
 -- 「……うん。やっぱりおまえは元気な方がいい。俺もなんだかホッとした」
-"Sí. Como pensaba, no eres tu si no estás animada. Que alivio.
+"Sí. Como pensaba, no eres tú si no estás animada. Que alivio."
 }
 [sha:f3afe2dd0acdff0a419b5f30c840733497b47228]{
 -- Page 464, Offset 25451.
@@ -1053,7 +1042,7 @@ Espabila, Shiki. No importa lo adorable que sea,
 [sha:6f902742b6bff05d6f948af906ffe25ccee50875]{
 -- Page 467, Offset 25462. Glued.
 -- こいつは吸血鬼なんだから―――
-sigue siendo un vampiro.
+ sigue siendo un vampiro.
 }
 [sha:559ce2c1e41fc135e651db1b852341b4c6645a1c]{
 -- Page 468, Offset 25463.
@@ -1073,7 +1062,7 @@ sigue siendo un vampiro.
 [sha:e68aff4d5356a8c44e2500ad309f37a132baaa22]{
 -- Page 469, Offset 25466.
 -- いいんだ、俺は自分が分からなくて。おかしいって自覚はしてるし。いつも記憶が曖昧で、貧血ばっかり起こしてるんだぞ？　基本、自分の事さえ面倒見きれないんだよ」
-Está bien si no me conozco. Se lo raro que soy. Cierto es que mi memoria está borrosa y que tengo anemia todo el tiempo. Básicamente no puedo cuidar de mi mismo."
+Está bien si no me conozco. Sé lo raro que soy. Cierto es que mi memoria está borrosa y que tengo anemia todo el tiempo. Básicamente no puedo cuidar de mi mismo."
 }
 [sha:83fdc0e37d5803d219ec14d45c472da65fa660be]{
 -- Page 470, Offset 25467.

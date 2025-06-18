@@ -26,7 +26,7 @@ Ni tampoco puedo ver ninguna escultura bizarra ni nada por el estilo.
 [sha:20fd1f09cd428e59425165a6fb6e3aa07165859c]{
 -- Page 3, Offset 8596.
 -- なんなんだろうな、コイツ」
-¿Qué la pasa?"
+¿Qué le pasa?"
 }
 [sha:8491617dc1df73a52f7427470876dedda8f300bb]{
 -- Page 4, Offset 8597.
@@ -56,7 +56,7 @@ Son casi las siete de la mañana.
 [sha:2c0a6168a96f1ca0649233de343d3b73174be4ea]{
 -- Page 6, Offset 8602.
 -- 「……そっか。カーテン、閉めてやらないと」
-"Oh sí... mejor que cierre las cortinas."
+"Ah sí... mejor que cierre las cortinas."
 }
 [sha:74e3cf2196800b59922a1ba7b18e480cb65a7ce2]{
 -- Page 7, Offset 8603.
@@ -104,10 +104,10 @@ Estoy orgulloso de que mi fuerza física esté a la par con la persona promedio.
 -- 短距離走はこなせても、長距離走は話にならない陸上選手のようなものだ。
 Soy como un corredor de atletismo que puede hacer sprints cortos, pero no un maratón.
 }
-[sha:6b0c313d7f3ac0d7fa52f04b9c1603c56c49dc01]{
+[offset:8612]{
 -- Page 11, Offset 8612.
 -- 「…………はあ」
-"%{i}Haa%{/i}..."
+"%{i}Fiu%{/i}..."
 }
 [sha:871845b067c9a5760b3765925f4e46b4652769ea]{
 -- Page 11, Offset 8613.
@@ -139,13 +139,13 @@ Miro de reojo a la mujer que está tumbada en la cama.
 -- Page 12, Offset 8618.
 -- 腹部からの出血は止まっていたし、バラバラにされても勝手に生き返るヤツなんだから、そんな心配なんて無用かもしれないけど。
 Parece que su abdomen ha parado de sangrar,
- y además, puede volver a la vida tras ser descuartizada miembro a miembro.
+ e independientemente, puede volver a la vida tras ser descuartizada miembro a miembro.
  Probablemente me esté preocupando en vano.
 }
 [sha:f040c74fac749765d57d5de22ee09f75babac3af]{
 -- Page 13, Offset 8619.
 -- 「……どうかしてるな」
-"¿Que narices me pasa?"
+"¿Qué narices me pasa?"
 }
 [sha:2a043f4fd8dc5d073e5c98e1d7c67a39c21b64e8]{
 -- Page 13, Offset 8620.
@@ -191,12 +191,12 @@ Es mediodía.
 [sha:50c00909bb7306eb8b9710841071070c4ddd1ec2]{
 -- Page 16, Offset 8628.
 -- ベッドにアルクェイドの姿はなく、つけっぱなしのテレビがつまらないニュースを流していた。
-No se ve a Arcueid en la cama, y la televisión está encendida retransmitiendo un programa de noticias aburridas.
+No se ve a Arcueid en la cama y la televisión está encendida, retransmitiendo un programa de noticias aburridas.
 }
 [sha:a11d1b66b1ab9d2b06d25e6ff609dec0f7cd7ff0]{
 -- Page 17, Offset 8629.
 -- 「あいつ、どこに……？」
-"¿Donde ha ido...?"
+"¿A dónde ha ido...?"
 }
 [sha:8345765f3d2d7c1c52330a389908443747261ef3]{
 -- Page 17, Offset 8630.
@@ -212,7 +212,7 @@ Parece que hay alguien en la habitación del al lado...
 [sha:834b1559e264800dcaeb4c217adc6580abfe032f]{
 -- Page 18, Offset 8632.
 -- 「……あんな体のクセに、なに動きまわってるんだ」
-"¿Que cree que hace, moviéndose en ese estado?"
+"¿Qué cree que hace, moviéndose en ese estado?"
 }
 [sha:e3ba8ac6b544da328c8d8b2e12ece03d5dab4c85]{
 -- Page 18, Offset 8633.
@@ -329,7 +329,6 @@ No puedo pensar en la tragedia o acabaré vomitando.
 [sha:f1a7413824f5d8671484ece4845b345af6ed9c21]{
 -- Page 26, Offset 8655.
 -- そんな同情、豚にも劣る。
-// Revisar
 En esta situación quedarme tirado compadeciendome de mí mismo me haría peor que un cerdo.
 }
 [sha:2ed76b8b5747b44d4c3cdd93f3c0f6dcb1eb6a52]{
@@ -355,14 +354,14 @@ La cara del vampiro aparece en mi cabeza.
 [sha:c5e62a901dc52cf3ec4d7e6091ba7d30c4c82716]{
 -- Page 28, Offset 8660.
 -- 奴が何者なのかは知らない。
-No se que tipo de persona es.
+No sé que tipo de persona es.
 }
 [sha:44332cda3016b7ec2a4fdf0d16820bd2a99c3136]{
 -- Page 28, Offset 8661.
 -- ただ、アレが元凶である事だけは間違いない。
 Pero lo que sé es que, sin ninguna duda, él es la causa de todo esto.
 }
-[sha:d21bfeb03248da96e882320672405951be97baba]{
+[offset:8662]{
 -- Page 28, Offset 8662.
 -- ―――そう。
 Sí―――
@@ -370,7 +369,7 @@ Sí―――
 [sha:91868281f696f6b5f227c8bf814b0ad09c07f5a0]{
 -- Page 28, Offset 8663.
 -- アレが生かしてはおけないモノである事だけは、俺にとって間違いようのない真実だ。
-La única cosa que se con seguridad es que él es alguien que tiene que morir.
+La única cosa que sé con seguridad es que él es alguien que tiene que morir.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 29, Offset 8664.
@@ -380,7 +379,7 @@ La única cosa que se con seguridad es que él es alguien que tiene que morir.
 [sha:6d17e4d4607a9300b345b3b69d25c06a0218da8b]{
 -- Page 29, Offset 8665.
 -- ……心がまだ麻痺している、のだろうか。
-Me pregunto por que sigo insensible...
+Me pregunto si mi corazón aún sigue entumecido...
 }
 [sha:87b190a305866dd803554f600f1697865aa55794]{
 -- Page 29, Offset 8666.
@@ -395,7 +394,7 @@ Mi furia continúa resurgiendo intensamente.
 [sha:4d5d95e9cd6b4dafb75e69ad13ddbf025de49772]{
 -- Page 29, Offset 8668.
 -- なのに、思考は冷え切っている。
-Y aún así, mis pensamientos se están enfriando.
+Y aún así, tengo la mente fría.
 }
 [sha:8c3fd281bd26a46ee2e235a6622a4b65cbd5166e]{
 -- Page 30, Offset 8669.
@@ -405,12 +404,12 @@ Es como si mi corazón y mente se hubieran separado.
 [sha:ff9a1acfad05778e742ce7861e01eb233a68776f]{
 -- Page 30, Offset 8670.
 -- あの毛皮の男を思い返すだけで叫びたくなるのに、指先の感覚は鋭さを増すばかり。
-El solo pensar en el hombre bajo la capa me hace querer gritar, y aún así la sensación punzante en la punta de mis dedos sigue creciendo.
+El solo pensar en el hombre bajo la capa me hace querer gritar, y aun así la sensibilidad en la punta de mis dedos no hace más que agudizarse.
 }
 [sha:8ebdb701533fb1ecf24ff3ddc33ddca5030b612e]{
 -- Page 30, Offset 8671.
 -- 余計な感情は要らない。余分な熱も要らない。
-No necesito esos sentimientos inútiles. Tampoco más razones para cabrearme.
+No necesito estos sentimientos inútiles. Tampoco más razones para cabrearme.
 }
 [sha:0ebc0db18699cecbbd0f1374acb7fc97ff5d18eb]{
 -- Page 30, Offset 8672.

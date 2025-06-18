@@ -3,6 +3,7 @@
 -- 昨夜の事はどうあっても言い逃れできない。
 Tras lo que pasó anoche,
  dudo que me vaya a escaquear con palabras.
+ 
 }
 [sha:184469e445f7a88749a38e8364f284c0d486cb7b]{
 -- Page 10004, Offset 19791.
@@ -12,7 +13,6 @@ Cualquier excusa sería como echarle más leña al fuego.
 [sha:c34a578726d8c26cf9386a1f07a03091afbd600a]{
 -- Page 10004, Offset 19792.
 -- なので、ここは全速全開で謝るほかない。
-// Mix de tls
 Mi única opción es disculparme rápida y sinceramente.
 }
 [sha:3df770011ecca15b98b211e1b3ec5cdd833c321d]{
@@ -30,10 +30,10 @@ Tengo que entrar con un 'Lo siento' rápidamente antes de que empiece el interro
 -- 「兄さん、一つだけ忠告してよろしいですか？」
 "Nii-san, ¿te puedo dar un consejo?"
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:19796]{
 -- Page 47, Offset 19796.
 -- ―――と。
-―――Pero entonces
+Me interrumpe.
 }
 [sha:51bb173bc526ea8d823e0f283af2d3791d9d79cc]{
 -- Page 47, Offset 19797.
@@ -59,7 +59,6 @@ Y si has hecho algo mal, me apena pero
 [sha:019dc594837cb89a836f3c0db6044d370601e16e]{
 -- Page 49, Offset 19801.
 -- 与えたくなるでしょう？　に聞き間違えかねない、嗜虐性に満ちた微笑みだった。
-// Tl oficial
 ¿'Fuerzas'? Más bien te %{i}doy la oportunidad de%{/i}. Solo mira esa sonrisa malvada.
 }
 [sha:e78acde52053217cc616ea7a79980a8ac5cb5203]{
@@ -85,7 +84,7 @@ Es hora de retirarse al comedor.
 [sha:1fd9549ab5072578c4bdc1a2885117fa652d18d0]{
 -- Page 51, Offset 19806. Mods: @n.
 -- 「兄さん
-"Nii-san."
+"Nii-san.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 51, Offset 19807. Glued.

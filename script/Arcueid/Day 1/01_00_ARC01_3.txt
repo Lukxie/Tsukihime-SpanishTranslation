@@ -12,7 +12,7 @@ No pude obligarme a ir a la mansión directamente,
 [sha:621ca632e93663e2ac98898c1a244c97f0d001ce]{
 -- Page 10006, Offset 1657.
 -- 教室は夕焼けのオレンジ色で染め上げられている。水彩の赤絵の具に濡れたような色は、少しだけ目に痛い。
-La puesta de sol tiñe la clase de naranja. El color, se parece de la acuarela roja aún húmeda, me hace un poco de daño en los ojos.
+La puesta de sol tiñe la clase de naranja. El color, es como el de acuarela roja aún húmeda, me hace un poco de daño en los ojos.
 }
 [sha:596bcbb15ef0d1d9be88f6081f3484f4b3df622f]{
 -- Page 191, Offset 1658.
@@ -42,7 +42,7 @@ Hace siete años, Tohno Shiki tuvo una experiencia cercana a la muerte.
 [sha:a61acfafd26a7352417416b9eedc46677952c10d]{
 -- Page 192, Offset 1663.
 -- なんでも、ものすごい大事故が起きて、その場に居合わせていた俺は建物の倒壊に巻きこまれたという。
-Me dijeron que fue un terrible accidente, y como estaba en el sitio equivocado en el momento equivocado, me ví involucrado en el derrumbe de un edificio.
+Me dijeron que fue un terrible accidente, y al estar en el sitio equivocado en el momento equivocado, me ví involucrado en el derrumbe de un edificio.
 }
 [sha:2fd70085e7d89b7794196b9e95b0d6584db9f700]{
 -- Page 193, Offset 1664.
@@ -53,7 +53,7 @@ Al principio, parecía que la herida era fatal y todo el mundo había perdido la
 [sha:5b9aab8c558a950f4c405609fb53d6e4cfbb5cf3]{
 -- Page 193, Offset 1665.
 -- しかし医師の対応が早かった事と、傷が一カ所に集中していた事が幸いし、奇跡的に命を取り留めたのだそうだ。
-Sin embargo, gracias a la rápida respuesta de los doctores y que las heridas estaban concentradas en un sitio, me salvé milagrosamente.
+Sin embargo, gracias a la rápida respuesta de los doctores y a que las heridas estuvieran concentradas en un sitio, me salvé milagrosamente.
 }
 [sha:0ddbcf8c536f38f1679722540f796a2583cfb227]{
 -- Page 194, Offset 1666.
@@ -107,7 +107,7 @@ Desde entonces, tengo frecuentes episodios de anemia y me he desmayado varias ve
 -- Page 198, Offset 1675.
 -- 親父……遠野槙久が遠野家の跡取りとして力不足だ、と俺を有間の家に預けたのは、それが理由なのだろう。
 Esa es la razón por la que mi padre――por la que Tohno Makihisa me dejó con los Arimas.
- Pensaría que no era lo suficientemente fuerte para heredar la familia Tohno.
+ Pensaría que no era lo suficientemente fuerte como para heredar la familia Tohno.
 }
 [sha:9d721fdbb187300b59955c62cb68fb8dfc2989e1]{
 -- Page 199, Offset 1676.
@@ -132,23 +132,23 @@ Esa marca de muerte yace justo en medio de mi pecho, oculta bajo mi uniforme.
 [sha:b5fe45878b84ac5f9a5377caa87428492b17d586]{
 -- Page 200, Offset 1680.
 -- その事故の後から、俺は『線』が見える体質になってしまった。
-Desde aquel accidente, he sido capaz de ver las 'líneas'
+Desde aquel accidente, he sido capaz de ver las 'líneas'.
 }
 [sha:9d42ffb960a559f89ecb1c8ddf1fab5da440769f]{
 -- Page 200, Offset 1681.
 -- 先生のくれた眼鏡のおかげでまともに暮らしてはいられるけれど、あの人に出会えなかったらとうの昔に俺の頭はイカレていたと思う。
-Gracias a las gafas que Sensei me dió, he sido capaz de vivir una vida respetable, pero si no la hubiese conocido, habría perdido la cabeza hace mucho.
+Gracias a las gafas que me dió Sensei, he sido capaz de vivir una vida respetable, pero si no la hubiese conocido, hace mucho que hubiera perdido la cabeza.
 }
 [sha:903ab0fcea868cbcb0659a16faa8a903c991f968]{
 -- Page 201, Offset 1682.
 -- 今朝の別れ際、啓子さんは遠野の人間は普通とは違う、なんて事を心配していた。
-Cuando me despedí de Keiko-san esta mañana,
- estaba preocupada por el hecho de que los miembros de la familia Tohno sean un poco inusuales.
+Esta mañana cuando me despedí de Keiko-san,
+ la preocupaba el hecho de que los miembros de la familia Tohno sean un poco inusuales.
 }
 [sha:5d1c7ceb1cdeea0487d60552c111787ecb0c171f]{
 -- Page 201, Offset 1683.
 -- それは不要な心配だ。
-No tenía que preocuparse.
+No tenía porque preocuparse.
 }
 [sha:ca9811cf2411cf9fca8362a7f96e1006fc1ff2b0]{
 -- Page 201, Offset 1684.
@@ -175,10 +175,10 @@ Me vuelvo a poner las gafas y recojo mi bolsa.
 -- いつまでも教室に残っている訳にもいかない。
 No puedo quedarme en clase para siempre.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:1689]{
 -- Page 202, Offset 1689. Mods: @k, @e.
 -- 俺は―――
-Yo―――
+Voy a―――
 }
 [sha:afc11b33608d21461358eff944b820119d5706a1]{
 -- Page 202, Offset 42575. Choice.

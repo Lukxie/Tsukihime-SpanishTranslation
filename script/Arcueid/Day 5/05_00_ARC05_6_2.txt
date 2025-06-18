@@ -11,7 +11,7 @@ El suelo del hoyo está totalmente cubierto en llamas azules.
 [sha:47edc804b9667a0e3a05ffdb54af1ac237b515d8]{
 -- Page 461, Offset 9825.
 -- その中心に立つ長身の吸血鬼。
-El vampiro alto está de pie en el centro.
+Un vampiro alto se encuentra de pie en el centro.
 }
 [sha:97f9834e992475d299d85cc7c0bbe75b20f91c0e]{
 -- Page 461, Offset 9826.
@@ -26,12 +26,12 @@ Estaba justo en el centro de la explosión, pero no tiene ni un rasguño.
 [sha:7b9fe8374c2cee3205cc1e055f90697c1fe2b46c]{
 -- Page 461, Offset 9828.
 -- 人間の尺度で測ればほとんど不死身の怪物だ。
-Bajo estándares humanos, es prácticamente un monstruo inmortal.
+En estándares humanos, es prácticamente un monstruo inmortal.
 }
-[sha:da94e33e039512eedd4069054392ee94d5077e48]{
+[offset:9829]{
 -- Page 461, Offset 9829.
 -- それを、
-Y entonces―――
+Y frente a él―――
 }
 [sha:1619dae6accd4cc3d6b172ab0bf07efe50a491dc]{
 -- Page 462, Offset 9830.
@@ -42,7 +42,7 @@ De pie se halla la figura de blanco,
 [sha:1ed5857aac5d0399c3ab39dc306e79a80207e75a]{
 -- Page 462, Offset 9831.
 -- 炎<揺|ゆ>らめく瓦礫の<園|その>を、美しい狩人が<疾駆|しっく>する。
-Una cazadora preciosa, corriendo a toda velocidad por el jardín de llamas y escombros.
+Una preciosa cazadora, corriendo a toda velocidad por el jardín de escombros y llamas.
 }
 [sha:ee4a6ed9911bc2e7780af292abd992d46f0e7ab9]{
 -- Page 463, Offset 9832.
@@ -57,7 +57,7 @@ Atraviesa el río de fuego y se acerca a Vlov.
 [sha:448a22c6200dbc19f13466d9ca61c7c929edbe92]{
 -- Page 464, Offset 9834.
 -- ヴローヴの手には無骨な凶器が握られていた。
-Que tiene un arma rudimentaria pero mortal en sus manos.
+El cual tiene un arma rudimentaria pero mortal en sus manos.
 }
 [sha:4fa6409ec2a9db8649b8ae9c9dbbc027f17d7488]{
 -- Page 464, Offset 9835.
@@ -94,7 +94,7 @@ Pero solo por un instante.
 [sha:8d597e432ee59c9ddca6853ea4cf64819da17b61]{
 -- Page 467, Offset 9841.
 -- 吸血鬼は血液があるかぎり不死身であり、大量の命のストックを持っている、とアルクェイドは言っていた。
-Arcueid me dijo que mientras que un vampiro tenga sangre,
+Arcueid mencionó que mientras que un vampiro tenga sangre,
  serán inmortales y poseerán una gran fuerza vital.
 }
 [sha:62b4ac2467dd21b2b8151951603f1a6624eaff0d]{
@@ -142,7 +142,7 @@ Esa mirada en su rostro...
 -- Page 470, Offset 9850.
 -- 二十七祖も質が落ちたものね。このまま、奥の手も見せないでわたしに殺される？」
 Si que ha descendido la calidad de los Veintisiete Ancestros.
- ¿En serio vas dejar que te mate sin revelar siquiera tu as bajo la manga?"
+ ¿En serio vas dejar que te mate sin siquiera revelar tu as bajo la manga?"
 }
 [sha:a0c370c29ec7baafcfb03b5aebf11d08d1981783]{
 -- Page 471, Offset 9851.
@@ -178,7 +178,7 @@ Quizá %{i}parezca%{/i} ileso,
 [sha:3041177e7114105323f89bab5bba5bf91f869c17]{
 -- Page 473, Offset 9857.
 -- 体は再生したものの、それが精一杯。
-Probablemente le haya usado todo lo que tiene para regenerarse.
+Probablemente haya usado todo lo que tiene para regenerarse.
 }
 [sha:0e01bb31983bb89952ae7254938442af43bcb0b6]{
 -- Page 473, Offset 9858.
@@ -194,7 +194,7 @@ De hecho, Arcueid parece haber llegado a la misma conclusión.
 [sha:63bb1fad6958373fd0aa166df33bf86c060182bb]{
 -- Page 474, Offset 9860.
 -- だからこそ一撃ごとに距離を取っている。
-Es por eso que ella retrocede con cada ataque.
+Por eso ella se aleja con cada ataque.
 }
 [sha:465b606cfe552c8499868d5a4aafd6af37bbc71a]{
 -- Page 474, Offset 9861.
@@ -229,7 +229,7 @@ Arcueid tiene la ventaja. Está claro que está desgastando a Vlov.
 [sha:7f37d39abe33ea6e03866e8ad5e73bcc41032564]{
 -- Page 475, Offset 9867.
 -- なのに、傍観者である俺の胸に不安が増していく。
-Y aun así, como observador, siento una creciente sensación de pavor en mi pecho.
+Y aún así, como observador, siento una creciente sensación de pavor en mi pecho.
 }
 [sha:2ffb31f6cf5326ba76b52d116235fd0820de66a2]{
 -- Page 476, Offset 9868.
@@ -254,22 +254,22 @@ Además, está claro que ya es capaz de ver a través de los movimientos y veloc
 [sha:41d10b8fe08577de9cab9a39da7ae04a5d348f8a]{
 -- Page 479, Offset 9872.
 -- 「“ク――――――アァァァァァアアア！！！！！”」
-"%{i}GU――AAAAAAAAAAH%{/i}!!!!!"
+"¡¡¡¡¡%{i}GU――AAAAAAAAAAH%{/i}!!!!!"
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:9873]{
 -- Page 479, Offset 9873.
 -- 「―――！」
-"%{i}Hnh%{/i}!"
+"¡%{i}Hnh%{/i}!"
 }
 [sha:2a47f4fc6efd6346b727aae56c7a7566c9908611]{
 -- Page 480, Offset 9874.
 -- ヴローヴが吠える。
-Vlov suelta un rugido.
+Vlov suelta un grito.
 }
 [sha:1cf04a35cc0389a0917fe01e6e4b6e935281931a]{
 -- Page 480, Offset 9875.
 -- ヤツの怒号に応じて炎が燃え<盛|さか>る。
-Su bramido de furia intensifica el infierno.
+Su rugido de furia intensifica el infierno.
 }
 [sha:f9148cd8c49ff5194a4409ee5cab51f675b9d35e]{
 -- Page 480, Offset 9876.
@@ -291,7 +291,7 @@ El agujero se ha convertido en un coliseo subterráneo lleno de un bosque ígneo
 -- 炎の壁に阻まれ、左右に逃げる事のできないアルクェイド。
 Las paredes de llama bloquean el escape de Arcueid.
 }
-[sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
+[offset:9880]{
 -- Page 481, Offset 9880.
 -- そこへ、
 Y con esa puesta en escena―――
@@ -324,7 +324,7 @@ Arcueid dijo que podía aguantar temperaturas de hasta 3000℃.
 [sha:dc724d744389859d33250b049befff15132355d0]{
 -- Page 484, Offset 9886.
 -- しかし、たやすく瓦礫を熔解させた“手”の温度は3000℃を優に上回る。
-Sin embargo, la 'mano' que ha derretido escombro fácilmente tiene una temperatura superior.
+Sin embargo, la 'mano' que ha derretido los escombros fácilmente tiene una temperatura superior.
 }
 [sha:8722b621c897fc07f8f1721eb8c286f948fe6eb8]{
 -- Page 485, Offset 9887.
@@ -354,12 +354,12 @@ Una falda blanca ondea con el viento.
 [sha:e5fd171824f5b36dfd5ef6058052b5e3332eda92]{
 -- Page 486, Offset 9892.
 -- その出で立ちの変貌に、<視覚|カメラ>は魅了されたように釘付けになった。
-Embelesado, soy incapaz de quitarle los ojos de encima a su transformación.
+Embelesado, soy incapaz de quitar los ojos de encima a su transformación.
 }
 [sha:4baa4be91d4039903606bc9a2b972583ca999111]{
 -- Page 487, Offset 9893.
 -- 彼女は言った。
-Antes mencionó algo así...
+Ella lo mencionó antes...
 }
 [sha:60c4097be186bafa451e3a6ff99eba370d4dac2b]{
 -- Page 487, Offset 9894.
@@ -369,7 +369,7 @@ Algo sobre una contramedida, y reconstruir su cuerpo con antelación.
 [sha:da628bf86759c418595200c6228b65465946ccdc]{
 -- Page 488, Offset 9895.
 -- ヴローヴの炎をものともしない白と黒の<戦闘衣装|ドレスコード>。
-// No se porque lo llama dress code pero no hay localización en español y además es literalmente un codigo mistico xd
+//No se porque lo llama dress code pero no hay localización en español y además es literalmente un codigo mistico xd
 Las llamas de Vlov no significan nada para ella en ese atavío de combate.
 }
 [sha:d5fb3c5bed963689df7634ee1428a21ba6ebaf15]{
@@ -391,7 +391,7 @@ La contramedida de Arcueid es perfecta.
 [sha:775ea2c20dd4a5e9c3baa8103a3be9922785ba5f]{
 -- Page 489, Offset 9899.
 -- 相手が炎の怪物であると判明し、あのホテルから逃げ延びた時点で、彼女の勝利は確定していたのだ。
-Su victoria se decidió en el momento que en el hotel identificó a su oponente como un monstruo de llamas.
+Su victoria se decidió en el momento que identificó a su oponente como un monstruo de llamas en aquel hotel.
 }
 [sha:306abe64f153c71a00d2ba68be5d82c3813590c1]{
 -- Page 490, Offset 9900.
@@ -406,7 +406,7 @@ Arcueid lanza su mano izquierda como si nada.
 [sha:a6a39f4f582cb19a68e10cce36b4659e64ebbc7d]{
 -- Page 490, Offset 9902.
 -- 彼女は髪をすくような動作で、左右にそびえ立つ炎の壁を霧散させた。
-Con un simple movimiento de muñeca, como si se colocando el pelo,
+Con un simple movimiento de muñeca, como si de peinarse se tratara,
  dispersa el muro de llamas que la rodeaba.
 }
 [sha:8765de90edf435ceee40926ee167ecdfc01f009f]{
@@ -417,7 +417,7 @@ Los muros de fuego agachan la cabeza, rindiéndose ante el vestido blanco.
 [sha:9ad9296f042f2310718679f58bbabfa799d8e30e]{
 -- Page 491, Offset 9904.
 -- 金の髪が流星のように駆けていく。
-Su pelo dorado se mueve como una lluvia de estrellas fugaces.
+Su cabello dorado se mueve como una lluvia de estrellas fugaces.
 }
 [sha:c951187d503306927f92c0be953e365246c97ab4]{
 -- Page 492, Offset 9905.
@@ -447,12 +447,12 @@ En cuanto las llamas fueron neutralizadas, Vlov se volvió una mera presa a ser 
 [sha:b04965fb7bac6c4327806b4f7e4436adfacdd563]{
 -- Page 493, Offset 9910.
 -- アルクェイドの爪は的確に、間断なく、ヴローヴの肉体に致命傷を重ね続ける。
-Las garras de Arcueid continúan infligiendo sin piedad heridas mortales.
+Las garras de Arcueid continúan infligiendo heridas mortales sin piedad.
 }
 [sha:3376150a5306bc60621de64e7f6c090662de99b8]{
 -- Page 494, Offset 9911.
 -- ヴローヴが立ち続けていられるのは、まだ<血液|よりょく>が残っているからだろう。
-Vlov se mantiene de pie solamente porque le queda algo de sangre.
+Vlov probablemente se mantiene de pie porque le queda algo de sangre.
 }
 [sha:aeb1e214d3dcab0fd516005fc1de61bb5c44ed1e]{
 -- Page 494, Offset 9912.
@@ -544,18 +544,18 @@ Hiedra verde se entrelaza alrededor de sus piernas.
 [sha:3466a8660029d771d7202e54ded8c41d2f53b1b5]{
 -- Page 499, Offset 9929.
 -- 瓦礫の下から芽を出した蔦は凄まじい速度で成長し、ヴローヴの足を捕らえ、瓦礫の地面まで引き戻した。
-La hiedra brota de los escombros a una velocidad de vértigo,
+La hiedra brota de los escombros a una velocidad de vértigo, 
  agarra a Vlov por los pies, y le arrastra a la tierra.
 }
 [sha:6eb9a2ebfeb45ea1e25ada6ab401772b0d694e46]{
 -- Page 500, Offset 9930.
 -- 「“ァ―――ア、ア―――！”」
-"%{i}AAAAAaaaaAAAaaAAAaaahhhhh%{/i}―――!"
+"¡%{i}AAAAAaaaaAAAaaAAAaaahhhhh%{/i}―――!"
 }
 [sha:925d8dedd7d2183bcc0567340a938b9015337b1f]{
 -- Page 500, Offset 9931.
 -- 再びヴローヴの足元に炎の河が現れる。
-Un río de llamas aparece de nuevo a pies de Vlov.
+Un río de llamas aparece de nuevo a los pies de Vlov.
 }
 [sha:43ed0cfcecec28763cda4ee09c52a75a816f94d2]{
 -- Page 500, Offset 9932.
@@ -570,25 +570,25 @@ Sin embargo, sus grilletes no desaparecen.
 [sha:7022f3bd5f4027548ad00e0f15e3b097415282d4]{
 -- Page 500, Offset 9934.
 -- その灰を<苗床|なえどこ>にして、新たな蔦が絡みつく。
-Nueva hiedra, fertilizada por las cenizas, se enrosca su alrededor.
+Nueva hiedra, fertilizada por las cenizas, se enrosca a su alrededor.
 }
 [sha:9fac171341a106d56a4bfedcec669c951587d17c]{
 -- Page 501, Offset 9935.
 -- 何度焼き尽くしても束縛は<解|ほど>けない。不死鳥のようにループする。
 Sin importar cuantas veces la queme, no puede liberarse.
- Es como un fénix, vuelve una y otra vez.
+ Como un fénix, vuelve una y otra vez.
 }
 [sha:a96e67ae1f42b95fcd9ccfee5ffc563378eec2e3]{
 -- Page 501, Offset 9936.
 -- そう。吸血鬼が不死身だというのなら、自然の営みも永遠無限の循環だ。
-Si――si los vampiros se consideran inmortales,
+Sí――si los vampiros se consideran inmortales,
  también lo son los designios de la naturaleza que forman un ciclo sin fin y eterno.
 }
 [sha:023c1a948c2baa9437514d4214110bd69563c830]{
 -- Page 502, Offset 9937.
 -- あの蔦はその結晶。この星を燃やし尽くす“火”でなくては逃れる事はかなわない。
 La hiedra es una manifestación de esto.
- No puede escapar sin un fuego que sea capaz de quemar el planeta mismo.
+ No podrá escapar sin un fuego que sea capaz de quemar el planeta mismo.
 }
 [sha:c82db579250e1f87e94474d2c8ffdab67322c910]{
 -- Page 502, Offset 9938.
@@ -626,7 +626,7 @@ Estoy completamente de acuerdo.
 No necesita esperar mi ayuda.
  Si esto sigue, lo aplastará en pedazos.
 }
-[sha:f8131a3a6c0cd2dfdae693f9669e75b3e7f46c87]{
+[offset:9945]{
 -- Page 505, Offset 9945.
 -- ……なのに。
 Y aún así―――
@@ -649,7 +649,7 @@ Su agonía y respiración me suplican que me de cuenta de lo que está mal.
 [sha:56d59b40b3bb2988ced014fb3df4c3855b3fbcd6]{
 -- Page 506, Offset 9949.
 -- ヴローヴの顔色、苦しみようは今や病的だ。
-La angustia y complexión de Vlov se han vuelto más ghoul aún.
+La angustia y complexión de Vlov se han vuelto aún más ghoul.
 }
 [sha:bed7615983ff742bfcfd11af7453835691ac9204]{
 -- Page 506, Offset 9950.
@@ -676,10 +676,10 @@ El instinto de ambos lucha %{i}y%{/i} huida.
 -- ヤツは加害者側でありながら被害者側。
 Es al mismo tiempo la víctima y el infractor.
 }
-[sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
+[offset:9955]{
 -- Page 507, Offset 9955.
 -- だから―――
-Es por eso―――
+Es por eso que―――
 }
 [sha:d837ef298473cec220b9e8362162b73a138b902b]{
 -- Page 507, Offset 9956.
@@ -689,7 +689,7 @@ Es por eso―――
 [sha:d55418399e1d1ee1be7f96420f8b2532a92fd9b6]{
 -- Page 508, Offset 9957.
 -- 「バカ……なに考えてんだ、俺は……!?」
-"Ridículo... ¡¿Que demonios me pasa?!"
+"Ridículo... ¡¿Qué demonios me pasa?!"
 }
 [sha:e51ec300a73c08b09da6562246c8130cb32c4d68]{
 -- Page 508, Offset 9958.

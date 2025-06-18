@@ -21,7 +21,7 @@ Por suerte, tengo mucho dinero.
 [sha:79a85382b633ab382fd47156e46ea43ca1be4dac]{
 -- Page 144, Offset 8934.
 -- 素人考えだろうと、何も無いよりはあった方がいい。何があいつの助けになるか分からないんだから。
-No soy experto, pero lo que sea que se me ocurra es mejor que nada.
+No soy experto, pero cualquier cosa que se me ocurra es mejor que nada.
  Nunca sabes que podría ayudarla.
 }
 [sha:4885dfebe0e467ecb2483956ff4779a0e6ae1ec6]{
@@ -52,7 +52,7 @@ La herida de su abdomen no es tan grande.
 [sha:c44b4a958b30f580c8772d1d2db670d7e14c1683]{
 -- Page 147, Offset 8940.
 -- ……いや、深さ四センチもの裂傷が横一文字に走っているのは人間なら致命傷なんだろうが、アルクェイド曰く、
-Quiero decir, una tajo horizontal de cuatro centímetros de profundidad sería %{i}absolutamente%{/i} fatal para cualquier humano, pero de acuerdo con Arcueid―――
+Quiero decir, una tajo horizontal de cuatro centímetros de profundidad sería %{i}absolutamente%{/i} fatal para cualquier humano, pero según Arcueid―――
 }
 [sha:d46cedc522b52e9cf88c56843a3682644c576bde]{
 -- Page 147, Offset 8941.
@@ -67,7 +67,7 @@ Ahí lo tienes.
 [sha:15593bc9a15f5b80d971a3b59fa217c1f90647ad]{
 -- Page 148, Offset 8943.
 -- どうやら内臓はそのうち勝手に治るらしい。あまりに常識外なのでそのあたりは話題にしないよう聞き流す。
-Bueno, parece que sus órganos internos se curarán por si solos pronto. Es algo tan surrealista que no voy a parar ni a preguntarlo.
+Bueno, parece que sus órganos internos se curarán pronto por si solos. Es algo tan surrealista que no voy a parar ni a preguntarlo.
 }
 [sha:7d6d01510a5129d467be22cc628b4a35a771d701]{
 -- Page 148, Offset 8944.
@@ -118,7 +118,7 @@ Arcueid suelta una risa alegre, aparentemente algo la divierte.
 [sha:cf92145e1da7b7a3c6acbdc7d318fe563a83d182]{
 -- Page 151, Offset 8953.
 -- 消毒薬ではびくともしなかったクセに、包帯はくすぐったいらしい。
-Aunque no reaccionó cuando apliqué antiséptico, parece que el vendaje la hace cosquillas.
+Aunque no reaccionó cuando apliqué antiséptico, parece que el vendaje le hace cosquillas.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 152, Offset 8954.
@@ -153,7 +153,7 @@ A propósito, he vuelto a cerrar las cortinas pensando en Arcueid.
 [sha:a2ee70bba10f46cdb76cb350cbd4b917b890a463]{
 -- Page 154, Offset 8960.
 -- 「……さて。格好だけはつけてみたけど、どうかな。
-"Bueno... parece estar bien, pero quien sabe lo que ayudará. ¿Cómo te sientes?
+"Bueno... parece estar bien, pero quién sabe lo que ayudará. ¿Cómo te sientes?
 }
 [sha:9be5610f4b6e3f213577dbf0e0b6de57645b56eb]{
 -- Page 154, Offset 8961.
@@ -195,7 +195,7 @@ Si duermes mejorarás más rápido y recuperarás tu fuerza, ¿verdad?
 [sha:34635737b2aa0d98e0591fc5cf72a7230c705df8]{
 -- Page 158, Offset 8968.
 -- 「ううん、寝ても傷は回復しないわ。志貴も言ったでしょ、睡眠で回復できるのは疲れだけだって。
-"No, mis heridas son sanarán aunque duerma. Es justo lo que has dicho, dormir solo ayuda a recuperarme de la fatiga.
+"No, mis heridas no sanarán aunque duerma. Es justo lo que has dicho, dormir solo ayuda a recuperarme de la fatiga.
 }
 [sha:61f81e17ed7a3a5f39ad7af9529719de460a02a8]{
 -- Page 158, Offset 8969.
@@ -210,12 +210,12 @@ Independientemente de lo que diga, verla sufrir no es bueno para mi salud mental
 [sha:77f8deeec326efd136478ca9597251927fdfd506]{
 -- Page 160, Offset 8971.
 -- 「―――いいから眠ってくれ。
-"Enga, a dormir ya.
+"Venga, a dormir ya.
 }
 [sha:4822b5b4cf408bbe8d139638aa17df35c0b5e12d]{
 -- Page 160, Offset 8972.
 -- 今のおまえ、話しているだけで辛そうじゃないか」
-Que parece que te cuesta estar levantada hablando."
+Que parece que incluso te cuesta estar levantada hablando."
 }
 [sha:17a6cc7650bb533b3548fbcfd595df27d948c584]{
 -- Page 160, Offset 8973.
@@ -255,7 +255,7 @@ Yo también tengo preguntas que hacer, así que hablaré un rato más con ella.
 [sha:4369469efd8f84084a077ded67526177dbd1a870]{
 -- Page 162, Offset 8980.
 -- 「アルクェイド。昨日のホテルのこと、訊いていいか」
-"Arcueid, ¿puedo preguntar lo que paso ayer en el hotel?"
+"Arcueid, ¿puedo preguntar lo que pasó ayer en el hotel?"
 }
 [sha:8c2aa714e968a5e2f43ebb2eb4dff1e561256fb0]{
 -- Page 162, Offset 8981.
@@ -266,7 +266,7 @@ Yo también tengo preguntas que hacer, así que hablaré un rato más con ella.
 -- Page 163, Offset 8982.
 -- 「昨日のあいつ……ヴローヴとか言っていたけど、あいつは一体なんなんだ。
 "Ese tipo de ayer... ¿Vlov?
- ¿Que demonios es?
+ ¿Qué demonios es?
 }
 [sha:09d9b21606f813377f06695bc9af6aa2f9cfc316]{
 -- Page 163, Offset 8983.
@@ -282,7 +282,7 @@ Entiendo que sea un vampiro. Quiero decir, llevaba puesto esa ropa elaborada, os
 [sha:291f557d1d4e982d95deb1e2d6d4bb9f29f4e289]{
 -- Page 165, Offset 8985.
 -- 「む。わたしよりらしいって何よ、らしいって。
-"%{i}Hmph%{/i}. ¿A que te refieres con que es más 'vampiresco' que yo?
+"%{i}Hmph%{/i}. ¿A qué te refieres con que es más 'vampiresco' que yo?
 }
 [sha:f5f821c880d077be265e6665ccdf564245afca0a]{
 -- Page 165, Offset 8986.
@@ -292,13 +292,12 @@ Aunque... razón no te falta.
 [sha:d995089a53cec6a5186b5abf6d011e0de545bf6c]{
 -- Page 165, Offset 8987.
 -- あいつ、体も崩れていないし原理も小規模だったし。人間が思い描くオーソドックスな吸血鬼なんでしょう。
-Su cuerpo no se descomponía, y su Principio también era más o menos pequeño.
- Es el tipo de vampiro 'ortodoxo' que la gente se imagina.
+Su cuerpo no se descomponía, y su Principio también era más o menos pequeño. Es el tipo de vampiro 'ortodoxo' que la gente se imagina.
 }
 [sha:2268730d093842a7c798990488a41c0e0f79d0a8]{
 -- Page 165, Offset 8988.
 -- ―――あの炎の河をのぞけば、ね」
-Bueno, si ignoras el río de sangre por lo menos."
+Bueno, por lo menos si ignoras el río de fuego."
 }
 [sha:5be9b78357f5f6f019d83fd5dd7432fa7e2c03f6]{
 -- Page 166, Offset 8989.
@@ -315,7 +314,7 @@ En cuanto lo digo, Arcueid suelta un suspiro exagerado.
 [sha:ff4e00befb382741ba1f9fa9266f79646ee89965]{
 -- Page 167, Offset 8991.
 -- 「そりゃあね。誰かさんに殺されてしまったわたしは、あんな二流の死徒と“戦い”をするレベルまで落ちてるわよ。
-"Bueno, verás... Gracias que cierta %{i}persona%{/i} me mató, he caído a un nivel en el que incluso enfrentarse a un Apóstol Muerto de segunda como ese puede considerarse una 'pelea'.
+"Bueno, verás... Gracias a que cierta %{i}persona%{/i} me mató, he caído a tal nivel que incluso enfrentarse a un Apóstol Muerto de segunda como ese puede considerarse una 'pelea'.
 }
 [sha:3c4547d0296d62653d409ecc60e044d29dfa16e6]{
 -- Page 167, Offset 8992.
@@ -340,7 +339,7 @@ Osea que si estuvieras sana, serías capaz de derrotarlo de alguna forma, ¿verd
 [sha:8e04c646fbe4e7cf52470cfc04d9360fef2ef3ce]{
 -- Page 169, Offset 8996.
 -- もう、誰のおかげでこんな屈辱に耐えていると思ってるの？　あんな祖になりたての見習い、ホントなら睨むだけでぺしゃんこにできるんだからねっ！」
-// Eh sorry a quien haya leido esto xd
+//Eh sorry a quien haya leido esto xd
 %{i}Ugh%{/i}, en primer lugar ¿quién crees que es el responsable de esta situación humillante?
  Si tuviera toda mi fuerza, habría aplastado a ese Ancestrucho con solo mirarlo."
 }
@@ -367,17 +366,17 @@ La pregunta de verdad es si Arcueid puede derrotar a ese vampiro en su condició
 [sha:8489a69ae59ed52e219359bb20a2cbb6b59ba70e]{
 -- Page 171, Offset 9001. Glued. Mods: @x.
 -- 単純な性能で下回っているんだから、無策で戦えば殺されるわ」
-En términos de poder puramente, he caído por debajo de él. Si me enfrentara a él directamente, simplemente me matarían."
+ Puramente en términos de poder, he caído por debajo de él. Si me enfrentara a él directamente, simplemente me matarían."
 }
 [sha:ab80c0435ece814fae6776f1689d71408d227714]{
 -- Page 171, Offset 9002.
 -- 「ず、ずいぶんきっぱりと言うんだな。さっきはあんなに怒ったクセに」
-"E-Eso es bastante directo viniendo de ti. También te enfadaste mucho cuando te pregunté antes. "
+"E-Eso es bastante directo viniendo de ti. Y eso que te enfadaste mucho cuando te pregunté antes. "
 }
 [sha:692ecbc1fe4133f1aca8f5e783e2474f725ae654]{
 -- Page 172, Offset 9003.
 -- 「ただの事実よ。判りきった話なんだから、予断も希望も挟まないわ」
-"Es un hecho. La situación es clara cristalina; no tiene sentido tener esperanzas o predecir lo contrario."
+"Es un hecho. La situación es obvia; no tiene sentido tener esperanzas o predecir lo contrario."
 }
 [sha:871c967925c56ed7c2effbbca32348b249380ca5]{
 -- Page 173, Offset 9004.

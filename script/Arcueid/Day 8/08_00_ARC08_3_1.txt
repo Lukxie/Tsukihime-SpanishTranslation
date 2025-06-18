@@ -6,7 +6,7 @@ La diosa de la guerra favorece a los rápidos.
 [sha:70d6de0a39f4f90f4348201bd03bbef73d3efd29]{
 -- Page 10010, Offset 20064.
 -- 災害の芽はできるだけ早くに摘むべきだ。
-Está creciente calamidad tiene que ser arrancada de raiz.
+Está creciente calamidad tiene que ser arrancada de raíz.
 }
 [sha:0d03b9c7a9743a152112a34a06fe321fcb978ace]{
 -- Page 10010, Offset 20065.
@@ -51,10 +51,10 @@ Y corriendo a toda velocidad, hoy venimos con las pilas cargadas ¿eh?"
 -- 「―――――」
 "―――――"
 }
-[sha:8f8b03c93fefdaf3a61e9f14423ff03db35d0069]{
+[offset:20073]{
 -- Page 163, Offset 20073.
 -- ……開いた口が塞がらない。
-Mi boca se abre de par en par.
+Me quedo boquiabierto, mirándola.
 }
 [sha:9d0cf38acb72e955c9e236055421408db8e49833]{
 -- Page 163, Offset 20074.
@@ -81,7 +81,6 @@ La impresión que me dió desde fuera es que iba a ser mucho más sólida y robu
 [sha:ca6d44edcaa9a15bd0331e718e3090f420d7c5a5]{
 -- Page 164, Offset 20078. Mods: @k, @e.
 -- これじゃ普通の建物だよね。うん、子犬っぽい感じでわたしは好きだけど―――
-// Joder que es esta frase
 Pero solo es un edificio normal, ¿no?
  Sí, tiene cierto encanto como un 'cachorro', pero――
 }
@@ -106,10 +105,10 @@ No hay tiempo para saludos.
 Sin parar a explicarme,
  agarro a Arcueid de la mano y empiezo a correr.
 }
-[sha:4ff30fb86879f71a57d8f324eaa7df7b18142558]{
+[offset:20083]{
 -- Page 166, Offset 20083.
 -- 人気のない体育館裏に移動する。
-Vamos detrás del gimnasio, que normalmente está vacío.
+Nos llevo a la parte trasera del gimnasio, donde no suele haber nadie.
 }
 [sha:d57a17f6875505236eefabfbdc78a95c7751492f]{
 -- Page 166, Offset 20084.
@@ -120,7 +119,7 @@ A esta hora, salir por la entrada principal llamaría mucho la atención.
 [sha:61d19c3ae86279edef55aa228c15e704f62c6b87]{
 -- Page 167, Offset 20085.
 -- 「ちょっと、こんな所に連れこんでどういうつもり？
-"Ey, ¿qué pretendes arrastrándome hasta aquí?
+"Oye, ¿qué pretendes arrastrándome hasta aquí?
 }
 [sha:1e0186021a3c5adcfe33a3613bf91ea6c2251854]{
 -- Page 167, Offset 20086.
@@ -157,10 +156,10 @@ Arcueid está un poco molesta,
 -- Page 170, Offset 20092.
 -- ……あのな。なんだって昼間から歩きまわって、かつ俺の学校にやって来てるんだ？　おまえ、昼間は弱くなるんだろ？　傷だって治ってないよな？　なら、夜まで大人しく休んでいるのが吸血鬼ってヤツじゃないのか？」
 Escucha...
- ¿Por que andas por ahí de día? ¡Y de todos los sitios posibles por qué vienes a mi escuela!
+ ¿Por qué andas por ahí de día? ¡Y de todos los sitios posibles por qué vienes a mi escuela!
  Eres más débil de día, ¿verdad?
  Tus heridas tampoco se han curado, ¿me equivoco?
- Dado el caso, ¿no deberías estar descansando hasta la noche como una buen vampiro?"
+ Dado el caso, ¿no deberías estar descansando hasta la noche como buen vampiro?"
 }
 [sha:2fae26383ecdbbc4ad4214330c953177b0adbf4a]{
 -- Page 171, Offset 20093.
@@ -213,20 +212,20 @@ No quiero hacerte perder el tiempo como ay―――"
 [sha:42d6551dcf617d2b83796db02a10305ebbbbaa11]{
 -- Page 174, Offset 20102.
 -- どくん、と一際高く、心臓が鳴った気がした。
-Podría jurar que acabo de escuchar a mi corazón dar un latido muy fuerte.
+Podría jurar que acabo de escuchar mi corazón latiendo muy fuerte.
 }
 [sha:c76a3ee744c850f9268392ab33839c03efadecac]{
 -- Page 175, Offset 20103.
 -- アルクェイドが素直に謝ってくるなんて……その、思いもしなかったというか、拍子抜けというか……そんな顔をされたら、何も言えなくなるというか―――
 No esperaba que fuera a disculparse de buenas a primeras...
  Para ser sincero, me ha dejado sin aliento.
- Quiero decir, ¿que puedo hacer si me mira con esa cara?
+ Quiero decir, ¿qué puedo hacer si me mira con esa cara?
 }
 [sha:7eea4e48460c260537604053941cd98f13adf15d]{
 -- Page 176, Offset 20104.
 -- 「でも志貴も悪いんだよ。下からずっと見てたのに、わたしに気がついてくれないんだもの。
-"Pero tu también te has equivocado, sabes.
- Llevaba un buen rato mirando desde ahí abajo pero nunca te diste cuenta de que estaba ahí.
+"Pero tú también te has equivocado, sabes.
+ Llevaba un buen rato mirando desde abajo pero nunca te diste cuenta de que estaba ahí.
 }
 [sha:aedaf0cd09702b58084eabab8db941d36ef92d59]{
 -- Page 176, Offset 20105.
@@ -266,7 +265,7 @@ Es tan descerebrada como siempre.
 [sha:e5bfe93043d3b17b9e72066370b1ac733b6b4aeb]{
 -- Page 178, Offset 20111.
 -- 「……助かった。そんな事されてたら授業どころの話じゃなかった……」
-"Gracias a dios que no lo has hecho. Si no, la clase habría sido la menor de mis preocupaciones...·
+"Gracias a dios que no lo has hecho. Si no, la clase habría sido la menor de mis preocupaciones..."
 }
 [sha:39487a8a1bd3f6d01bb1a3bca08a005772e554b6]{
 -- Page 178, Offset 20112.
@@ -281,7 +280,7 @@ Dudo que muchos estudiantes se percataran de ella andando por el patio.
 [sha:f2bbf7851bc535764059c0fdc04380d68cacf81a]{
 -- Page 179, Offset 20114.
 -- 「とにかく、反省したんならいい。
-"Bueno, si lo entiendes está bien.
+"Bueno, mientras lo entiendas no pasa nada.
 }
 [sha:dcd184c6e975e28512904eb2880c24b87b576c05]{
 -- Page 179, Offset 20115.
@@ -294,7 +293,7 @@ Y bien.
 -- Page 180, Offset 20116.
 -- 「なにって、ただの調査よ。ローラー作業ってヤツ？　死者の気配がないんだもの、足で手掛かりを見つけないとね」
 "¿A qué te refieres? Simplemente estoy buscando pistas.
- Ni piedras sin levantar ni tierra sin remover, ¿entiendes?
+ Sin dejar piedras sin levantar o tierra sin remover, ¿entiendes?
  Ya no puedo sentir a más Muertos alrededor,
  así que tengo que buscar pistas a pie."
 }
@@ -358,7 +357,7 @@ De hecho, no ha habido ningún incidente o accidente en la escuela, y el lugar s
 -- 「ここに異常なんかないよ。吸血鬼の気配は分からないけど、俺だって死を視る目を持ってるんだ。死者が歩いてれば眼鏡をつけていても異常だって気がつくし」
 "No hay nada raro por aquí.
  Quizá no pueda sentir la presencia de los vampiros, pero aún tengo ojos que ven la muerte.
- Si hubiera Muertos por aquí habría notado algo, aun con las gafas puestas."
+ Si hubiera Muertos por aquí habría notado algo, aún con las gafas puestas."
 }
 [sha:4b05eadb13d2880b3e3d3c23796ba3ec54705429]{
 -- Page 186, Offset 20128.
@@ -374,7 +373,7 @@ Te tomo la palabra,
 [sha:9c45ab950da0eae8346c9c65af751e6368de895d]{
 -- Page 186, Offset 20130.
 -- 「ないかもしれない、じゃなくてないんだって、実際」
-"No %{i}probablemente%{/i}, %{i}definitivamente%{/i} aquí no hay nada."
+"%{i}Probablemente%{/i} no, %{i}definitivamente%{/i} aquí no hay nada."
 }
 [sha:69031f8c51b7cba6bf4f211dc583b93686984ba1]{
 -- Page 186, Offset 20131.
@@ -406,13 +405,13 @@ Te juro que no voy a romper nuestra promesa, así que vete a casa y descansa un 
 [sha:ea0a014c64648859f6e7e2d38774de217da05175]{
 -- Page 189, Offset 20136.
 -- 「……ふーん。なんだかわたしを追い出したいみたいな口ぶりね、志貴。そんなに<学|こ><校|こ>にいられると迷惑？」
-"Hmm. Suena mucho como si te quisieras deshacer de mi.
+"Hmm. Suena mucho como si te quisieras deshacer de mí.
  ¿Tanto te molesta mi presencia?"
 }
 [sha:184eeaf260fbb18cda78aef09af407ca610fa635]{
 -- Page 190, Offset 20137.
 -- 「迷惑―――じゃないけど、いろいろ頭が痛いんだよ！
-"No es que seas una molestia,
+"No es que seas una molestia pero,
  ¡mi vida ya es lo suficientemente estresante!
 }
 [sha:c0331e89ff814a61f8967dc899e31f24e8b1d289]{
@@ -455,15 +454,15 @@ Es hora de comer,
  debería ir a por algo y prepararme para el resto de la tarde...
  ¿Hmm?
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:20145]{
 -- Page 193, Offset 20145.
 -- 「……？」
-¿Eh...?
+"¿Eh...?"
 }
 [sha:5dad1c0c4f668f6dfec818c39d42cbf03ccc8fb1]{
 -- Page 193, Offset 20146.
 -- いま、駐輪場の陰からかすかな物音がしたような。
-Juraría que he escuchado algo venir desde las sombras a lado del aparcamiento de bicis.
+Juraría que he escuchado algo venir desde las sombras junto al aparcamiento de bicis.
 }
 [sha:bba302abb2d8cf65cc7d44db4ac07781d5033007]{
 -- Page 193, Offset 20147.
@@ -474,6 +473,6 @@ Actuando como si estuviera dando una vuelta
 [sha:47b453f5ecd14adfccea1e57aeba227980b00eac]{
 -- Page 194, Offset 20148.
 -- はたして、行き止まりには誰もいなかった。きっと野良猫か何かだろう。
-No hay nadie aquí.
+No hay nadie.
  Debe haber sido un gato callejero o algo.
 }

@@ -8,18 +8,19 @@ Hisui se despide mientras dejo la mansión Tohno.
 -- ……怒って退室した秋葉の事は気になるが、その原因がアルクェイドにある以上、追いかけて話をしても堂々巡りだ。
 La salida dramática de Akiha aún me pesa en la conciencia,
  pero teniendo en cuenta que la causa es Arcueid,
- incluso si intentase explicarlo, solo acabaríamos yendo en círculos.
+ aunque lo intente explicar, solo acabaríamos yendo en círculos.
+ 
 }
 [sha:157b672c8cd72bdaadc0bf00f8f8657d5252c342]{
 -- Page 10006, Offset 19900.
 -- 秋葉にはすまないが、この事件が解決するまでこのままでいるしかない。
-Aunque me sienta mal, hasta que este asunto se termine
+Me da pena por ella, pero hasta que este asunto se termine
  no tengo otra opción más que seguir con esto.
 }
 [sha:29a505d1dfc161882e0c394f7659101152292297]{
 -- Page 94, Offset 19901.
 -- 「……でも、どうだろう。考えた事もなかったけど……」
-"Aunque, me pregunto que pasaría. Aún no lo he pensado bien, pero..."
+"Me pregunto qué pasaría. Aún no me he parado a pensarlo, pero..."
 }
 [sha:7aba7a24cfb5de84c483dd96e7362b93d5cdbd55]{
 -- Page 94, Offset 19902.
@@ -51,8 +52,8 @@ Saco mi móvil mientras camino.
 [sha:587eb5334d0919fe5e5193239244dd6272f084b0]{
 -- Page 96, Offset 19907.
 -- 信憑性があろうがなかろうが、いま知っている事を掲示板に書きこめばいい。
-Sin contar si alguien o no lo encuentre creíble
- debería publicar lo que he aprendido hasta ahora en algún tablón de anuncios.
+Sin tener en cuenta que alguien lo encuentre o no creíble,
+ debería publicar en algún tablón de anuncios lo que he aprendido hasta ahora.
 }
 [sha:eab2ad3e07054ab49ae358c1efd77a8a05dcb965]{
 -- Page 97, Offset 19908.
@@ -62,19 +63,19 @@ La interpretación dependerá del lector.
 [sha:f7ae1b2ca51b3083a94803e0bb4b77b7045e3a3b]{
 -- Page 97, Offset 19909.
 -- 声だかに“信じろ”と言っても逆効果だが、情報を載せるだけなら、そこから警告めいた都市伝説として流布されるかもしれない。
-Decirle a todo el mundo 'CREEDME' en mayúsculas seguramente tendría el efecto opuesto,
+Decir a todo el mundo 'CREEDME' en mayúsculas seguramente tendría el efecto opuesto,
  pero si publico la información como tal, cabe la posibilidad de que circule como una leyenda urbana,
  y de esa forma sirva de advertencia.
 }
 [sha:bdccab24697bc39f8fd26edc5298cc67128cc474]{
 -- Page 98, Offset 19910.
 -- 「あー、もしもし？　そこのキミ、ちょっと」
-"Eh. ¿Hola? Tú el de ahi, ¿tienes un momento?"
+"Eh. ¿Hola? Oye tú, ¿tienes un momento?"
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:19911]{
 -- Page 98, Offset 19911.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:866e29d434496082458f11c04e64a31bbdd0c9fa]{
 -- Page 98, Offset 19912.
@@ -94,28 +95,28 @@ Veo un hombre desconocido en traje.
 [sha:2c661af0cdd16a4861eaf1a0f74ddde9083d9eb9]{
 -- Page 100, Offset 19915.
 -- 「……俺の事ですか？」
-"¿Me hablas a mi...?"
+"¿Me hablas a mí...?"
 }
 [sha:d84621130c04d4a51aa45b94d284e2e378ff95da]{
 -- Page 100, Offset 19916.
 -- 「うん、キミ。だってキミ以外にこんな道歩いている子、いないでしょ」
 "Si, tú. Quiero decir, no veo a ningún otro niño en esta calle, ¿y tú?"
 }
-[sha:21986ad523b3ede52e9657892de80c97477dfb7c]{
+[offset:19917]{
 -- Page 101, Offset 19917.
 -- それはそうだ。
-Tiene razón.
+No le falta razón.
 }
 [sha:c06b38ac82190ab811bce412e4443d90dfa6d667]{
 -- Page 101, Offset 19918.
 -- ここは遠野邸前の国道で、通るのは乗用車ぐらい。
 Estamos en la carretera frente a la mansión Tohno,
- y el tráfico que suele pasar es uno o dos coches.
+ y el tráfico que suele pasar es de uno o dos coches.
 }
 [sha:fc589d2d8029a092d4c863802b5a3b70ad6a02b6]{
 -- Page 101, Offset 19919.
 -- 徒歩で移動する人間は、俺と遠野邸の使用人だけかもしれない。
-La única gente que viene aquí a pie son probablemente los empleados de la mansión y yo.
+Probablemente la única gente que viene aquí a pie son los empleados de la mansión y yo.
 }
 [sha:5abc744b1e9a74695d9d0fa14ebb53f02ec98fda]{
 -- Page 102, Offset 19920.
@@ -127,7 +128,7 @@ La única gente que viene aquí a pie son probablemente los empleados de la mans
 -- Page 102, Offset 19921.
 -- ならラッキーだよ、すごくラッキー。オレじゃなくてキミがね。お小遣い欲しくない？　遠野家の人の話とか、ちょっと知りたいんだよね」
 Porque sería afortunado. Muy afortunado.
- Afortunado para ti me refiero, no para mi.
+ Afortunado para ti me refiero, no para mí.
  ¿Quieres hacer dinero rápido?
  Tengo unas preguntas sobre la familia Tohno."
 }
@@ -252,12 +253,12 @@ Que narices es esto...
 [sha:980eb7e4891f4677d20d6a62de7f732f0370d057]{
 -- Page 110, Offset 19943. Glued.
 -- ほら、これこれ」
-Mira, echa un vistazo."
+ Mira, echa un vistazo."
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:19944]{
 -- Page 110, Offset 19944.
 -- 「―――え？」
-"―――¿Huh?"
+"―――¿Eh?"
 }
 [sha:aedbfff9d3a8fef9023f3621f5ad3c7dcaded1aa]{
 -- Page 111, Offset 19945.
@@ -318,15 +319,15 @@ Sin embargo...
 Sin importar si placa es real o no,
  me interesa saber por que han estado vigilando mi casa.
 }
-[sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
+[offset:19956]{
 -- Page 114, Offset 19956.
 -- ここは―――
-Me parece que―――
+¿Qué debería hacer?
 }
 [sha:61a31be7f9d5f1f47560c3314116eb0a6ed63189]{
 -- Page 116, Offset 42647. Choice.
 -- ……気は乗らないが、用件を尋ねてみる。
-No me gusta, pero le preguntaré lo que quiere.
+No me gusta, pero le preguntaré qué es lo que quiere.
 }
 [sha:584c66ec7265a08b9b5ffcd842b2b7d62053c84d]{
 -- Page 116, Offset 42648. Choice.

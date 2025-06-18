@@ -16,7 +16,7 @@ Me quito la mandíbula del brazo con facilidad.
 [sha:32b524580382c5cd83e6bf778e7bb8f8bd3a99e3]{
 -- Page 10028, Offset 7757.
 -- 「―――なんだ。ぜんぜん食い込んでないじゃないか」
-"Que narices... casi no me ha mordido."
+"Qué narices... casi no me ha mordido."
 }
 [sha:44f141c19b44fc5ec91ddcbe6326d7800cb9bd7a]{
 -- Page 802, Offset 7758.
@@ -57,7 +57,7 @@ Me duele la cabeza.
 [sha:6f337a71396e1da0bad2f8c618b026509e9196ed]{
 -- Page 804, Offset 7765.
 -- 世界はツギハギだらけになって、そこかしこに死の線も見えてしまって。
-El mundo ha empezado a deshilacharse por los bordes, y puedo ver las líneas de la muerte sobresaliendo de aquí y allí.
+El mundo ha empezado a deshilacharse por los bordes, y puedo ver las líneas de la muerte sobresaliendo aquí y allí.
 }
 [sha:0a1ffd05bcbc03e8cd1e825393912a9cd8b3910d]{
 -- Page 804, Offset 7766.
@@ -113,11 +113,11 @@ Soy completa, y absolutamente, normal.
 [sha:3d66fdcb5703a213784fe0353add4ad386729563]{
 -- Page 806, Offset 7776.
 -- おかしいのはこの夢だ。目を覚ませばすべて解決だ。
-Lo único loco aquí es este sueño que estoy teniendo.
- Todo acabará, tan pronto como me levante.
+Lo única locura aquí es este sueño que estoy teniendo.
+ Todo acabará en cuanto me levante.
 }
 [sha:d1e9e678b553ca3af9febcae641eff4d3b498817]{
 -- Page 807, Offset 7777.
 -- ああ、でも―――俺はいつから、瞳をあけたままで、こんな夢を観てしまっているんだろう―――？
-Ah, ¿pero――cuánto tiempo llevo soñando así, con los ojos despiertos―――?
+Ah, ¿pero――cuánto tiempo llevo soñando así, con los ojos abiertos―――?
 }

@@ -17,7 +17,7 @@ El profesor en el podio lee en alto un texto soso y aburrido.
 -- Page 10009, Offset 20015.
 -- それを平然と聞きながら、窓際の席の利点として、窓硝子に映る自分の顔を客観的に眺めている。
 Tengo la suerte de sentarme al lado de la ventana,
- así que mientras escucho la lección tranquilamente, miro el reflejo de mi cara en el cristal.
+ así que mientras escucho tranquilamente la lección, miro el reflejo de mi cara en el cristal.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 139, Offset 20016.
@@ -43,7 +43,6 @@ El incendio frente a la estación se cobró muchas vidas.
 [sha:019f3738514508fa85aefc5c69182574cb452545]{
 -- Page 140, Offset 20020.
 -- 吸血鬼に侵食された街。
-// Tl oficial
 El vampiro aterrorizando a la ciudad.
 }
 [sha:d15c50235daff3f1105c8fc0f6280b0fcd9834d7]{
@@ -70,7 +69,7 @@ Y sin embargo, aquí estoy, intentando llevar un día normal.
 [sha:02c1cc75fa7d031ae793ad64a218f1f614c67bef]{
 -- Page 142, Offset 20025.
 -- 吸血鬼がいようがいまいが、それは異常なだけであって、日常を放棄する程のモノではないと処理するように。
-Es como si intentara demostrarme a mí mismo que vampiros o no,
+Es como si intentara demostrarme a mí mismo que con vampiros o sin ellos,
  estos eventos son meras anormalidades,
  y que difícilmente merecen que abandone mi rutina diaria.
 }
@@ -88,7 +87,6 @@ Podría ser por el hecho de ser estudiante,
 [sha:5c4c1d7302dc0d5f483f7021db77ab4e8625701f]{
 -- Page 144, Offset 20028.
 -- 屋敷で出会った斎木業人との会話を思い出す。
-// Tl oficial
 Me hace pensar en la conversación que tuve con Saiki Gouto en la mansión.
 }
 [sha:4c5dcf1f8981fe950f750e2162fc5d9a296efe9a]{
@@ -104,7 +102,7 @@ Sería bastante corto de miras sacrificar el interés compuesto de mañana a cam
 [sha:9a8fb34b3bccbb644d2b4904125fa0e0409d4f7f]{
 -- Page 145, Offset 20031.
 -- そもそも自分は遠野家の金で生きている。あの家で暮らすのなら、学生として最低限の義務は果たさなければ。これは義理ではなく義務、けじめの問題だ。
-Además, si el dinero de la familia Tohno me mantiene alimentado.
+Además, es el dinero de la familia Tohno lo que me mantiene alimentado.
  Si voy a vivir bajo su techo,
  entonces debo de asegurarme de dar lo mínimo que se me pide como estudiante.
  No es cuestión de obligación, sino de honor.
@@ -171,7 +169,6 @@ Me quito la sonrisa tonta de la cara.
 [sha:2ec938f28fc757ad11b922859d412434b95337e8]{
 -- Page 149, Offset 20043.
 -- アルクェイドと夜の街を徘徊するのが楽しいワケでもあるまいし、なにをニヤけているのか、俺は。
-// Tl oficial
 Nuestras patrullas nocturnas no son por diversión. ¿Por qué sonrío como un idiota?
 }
 [sha:8ee4671e156f27c33558a81a579f4c3c158589aa]{
@@ -188,7 +185,7 @@ Sabía que me estaba costando concentrarme,
 [sha:a7994a1cf038b4f576c81887fe127433df781fc3]{
 -- Page 150, Offset 20046.
 -- なにしろガラス越しに見下ろせる校庭に、優雅に歩いているあいつの幻が見えるなんて。
-Ahora he empezado a alucinar con ella. Prácticamente la puedo ver cruzando el patio elegantemente.
+Ahora he empezado a alucinar con ella. Prácticamente la puedo ver cruzando elegantemente el patio.
 }
 [sha:1c2c1328c487c7eeb7469da94eb3df1d64f1da2b]{
 -- Page 151, Offset 20047.
@@ -269,12 +266,12 @@ Quedan veinte minutos hasta la comida.
 [sha:5915960c9c08502e2bc480634bf4546df2c40eef]{
 -- Page 157, Offset 20061.
 -- あの天然吸血鬼を放っておいたら何をしでかすかまったく予測がつかない。
-Si dejo sola a ese vampiro cabeza hueca, quien sabe que clase de lío causará.
+Si dejo sola a esa vampiro cabeza hueca, quién sabe que clase de lío armará.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:20062]{
 -- Page 158, Offset 20062.
 -- 俺は―――
-Yo―――
+Voy a―――
 }
 [sha:a1d3ff6fbc4e79024f8f88f8dbab7f16e912ee0e]{
 -- Page 160, Offset 42649. Choice.

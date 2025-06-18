@@ -46,13 +46,13 @@ Es raro, pero siento como si hubiera pasado bastante tiempo desde―――"
 [sha:de2a102b56c33b13c6118003c7f3c24ff91404e1]{
 -- Page 113, Offset 14200.
 -- 「やっ。おはよう秋葉」
-// Mas informal (sin que suene mal)
+//Mas informal (sin que suene mal)
 "Ey. Buenos días, Akiha."
 }
 [sha:5e9241391619ac3a7253c7e23911bde7305e4828]{
 -- Page 114, Offset 14201.
 -- いかにも“私、怒っています”な視線をにこやかな笑顔（防御点50）で受け止め、秋葉の対面に座る。
-Desvío el ceño fruncido 'estoy enfadada' de Akiha con mi sonrisa (+50 DEF), y me siento frente a ella.
+Desvío el ceño fruncido de 'estoy enfadada' de Akiha con mi sonrisa (+50 DEF), y me siento frente a ella.
 }
 [sha:e832c5e325dcf8e6db669229b9d3da074392c37b]{
 -- Page 114, Offset 14202.
@@ -67,7 +67,7 @@ Mi talón me está matando, pero sonrío y me aguanto.
 [sha:115080b8dfeef7408bc4a8b6990dbbea8b955dca]{
 -- Page 115, Offset 14204.
 -- さっきはありがとう。これからも頼りにするよ」
-// ugh
+//ugh
 Gracias por lo de antes.
  Cuento contigo a partir de ahora."
 }
@@ -89,19 +89,19 @@ También expreso mi gratitud a Hisui, que está de pie junto a la pared.
 [sha:eaa3657a0c28c6fa52290192dc88c7bc05a2179a]{
 -- Page 117, Offset 14208.
 -- てっきりここ数日の素行の悪さを反省し、萎縮していらっしゃると思ったのですが」
-Estaba segura de que habrías reflexionado sobre tu comportamiento abismal de estos últimos días y te avergonzases, pero..."
+Estaba segura de que habrías reflexionado sobre tu comportamiento abismal de estos últimos días y estarías avergonzado, pero..."
 }
 [sha:dc14d76a0aaa5bab57400afff384a516b755f92a]{
 -- Page 118, Offset 14209.
 -- 「もちろん反省はしている。自覚あるからね。
-"Por supuesto que he reflexionado sobre mi comportamiento. Soy consciente después de todo.
+"Por supuesto que he reflexionado sobre mis actos. Al fin y al cabo, soy consciente de ellos.
 }
 [sha:0cc8a15c7539c50cd396be5144e3d70969633497]{
 -- Page 118, Offset 14210.
 -- けどそれと上機嫌なのは別の話。たんに、朝から秋葉の顔を見られて嬉しいだけだよ」
 Pero no afecta a mi buen humor. Estoy feliz porque lo primero que veo por la mañana es tu cara."
 }
-[sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
+[offset:14211]{
 -- Page 118, Offset 14211. Mods: @k, @e.
 -- 「――――――、
 "
@@ -230,7 +230,7 @@ Pero no había otra forma de decirlo.
 [sha:fc5675c9c17e8354cbef2cdc2c5268ddc0f36477]{
 -- Page 128, Offset 14236.
 -- 悲しいが、信じてもらえないのは明白なので、俺は『ひどい言い訳をしている兄貴』に甘んじ……
-Es desafortunado, pero está claro que no me va a creer. Aceptaré mi título de 'hermano que pone excusas malísimas'...
+Es desafortunado, pero está claro que no me va a creer. Aceptaré mi nuevo título de 'hermano que pone excusas malísimas'...
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 129, Offset 14237.
@@ -240,7 +240,7 @@ Es desafortunado, pero está claro que no me va a creer. Aceptaré mi título de
 [sha:99b32c128a8f898bbd8264252aa2e1444c6f9e5a]{
 -- Page 129, Offset 14238.
 -- ………？
-¿Qué está pasando?
+¿Qué ocurre?
 }
 [sha:5ab6a17ccfcbc5e659de5106e50ab6a38e51b509]{
 -- Page 129, Offset 14239.
@@ -270,12 +270,12 @@ En completo silencio, Akiha mira a través... no, atraviesa mi corazón con su m
 [sha:46f43133fb252308915f5b9d238e9942a7ac1e4a]{
 -- Page 131, Offset 14244.
 -- 「……いや、冗談じゃなくて、」
-"No, no estoy de broma―――"
+"No, hablo en serio―――"
 }
 [sha:87cca6ac7adaff4ae402f0cbe6159f5b6c4776fb]{
 -- Page 131, Offset 14245.
 -- 「冗談、でしょう？」
-"%{i}Es%{/i} una brom, ¿correcto?"
+"%{i}Es%{/i} broma, ¿correcto?"
 }
 [sha:38ef9972eb9bb8d3153380fceeca8512f60a2349]{
 -- Page 131, Offset 14246.
@@ -295,7 +295,7 @@ Es tan terca sobre el tema que acabo dándola la razón.
 [sha:dfb0c7460b995c5ec74c67c5c9ae6672e09dfcc6]{
 -- Page 132, Offset 14249.
 -- どこに親族の聞き耳があるともかぎりません。遠野志貴は遠野家の長男には相応しくない、という風説なんて、私は聞きたくありませんので」
-// Igual muy complicado.
+//Igual muy complicado.
 Nuestros familiares tienen ojos y oídos en todas partes. No deseo escuchar rumores sobre que no eres apropiado para asumir tu rol como el hijo mayor de la familia Tohno."
 }
 [sha:b6151f39251bcfffb7f54d64d225c062916c6b05]{
@@ -306,12 +306,12 @@ Akiha no está ni enfadada ni decepcionada.
 [sha:53bed32be30c1931da137396ef4a070d89459cba]{
 -- Page 133, Offset 14251.
 -- 視線は冷たくとも、秋葉が俺の立場を案じてくれているのは分かる。
-Aunque su mirada sea fría, puedo ver que se preocupa por mi.
+Aunque su mirada sea fría, puedo ver que se preocupa por mí.
 }
 [sha:3fab6ad6fdddacd784b5aa7682532c9780b3894e]{
 -- Page 133, Offset 14252.
 -- 今のは、なんていうか……鋼のように硬い、純粋な“切望”だった。
-Eso de ahora mismo, fue... como decirlo... un deseo puro y sincero, firme como si estuviera hecho de acero.
+Eso de ahora mismo, fue... como decirlo... un deseo puro y sincero, tan firme como si estuviera hecho de acero.
 }
 [sha:9320a378f0350d741d82e6664e13fcd5dd02972f]{
 -- Page 134, Offset 14253.

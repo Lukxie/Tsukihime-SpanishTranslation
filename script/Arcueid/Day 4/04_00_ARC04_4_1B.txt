@@ -8,25 +8,25 @@
 -- 返答に<窮|きゅう>して、なんとなしに顔を上げる。
 Sin saber cómo responder, levanto la cabeza.
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:6277]{
 -- Page 258, Offset 6277.
 -- 「……？」
-¿Eh...?
+"¿Eh...?"
 }
 [sha:51f2fc6f9477dfa0679e80abadadf173dfdf5516]{
 -- Page 258, Offset 6278.
 -- 瞬間。その、二つの目と、目が合った。
 En el momento que lo hago, mi mirada se cruza con otro par de ojos.
 }
-[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+[offset:6279]{
 -- Page 259, Offset 6279.
 -- 「っ―――！」
-"%{i}Kh%{/i}―――!"
+"¡%{i}Kh%{/i}―――!"
 }
 [sha:72702ee71f76cde7d24c0c49e1e6f67cb6e7ffbb]{
 -- Page 259, Offset 6280.
 -- 緩んでいた意識が引き締まる。
-Mi floja conciencia se tensa.
+Mi conciencia relajada se tensa.
 }
 [sha:3c701e8c352bb427ad6b9dfcce1502fefcbf1b06]{
 -- Page 259, Offset 6281.
@@ -38,7 +38,7 @@ Mientras la fuerza vuelve a mis piernas cansadas, cambio mi cuerpo de una posici
 -- 俺の視線に釣られて女も背後……この路地裏の入り口を振り返る。
 Siguiendo mi mirada, la mujer también mira hacia la entrada del callejón.
 }
-[sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
+[offset:6283]{
 -- Page 260, Offset 6283.
 -- そこには、
 Allí―――
@@ -143,7 +143,7 @@ No puedo evitar responder a su comentario estúpido.
 [sha:a79c9bbd9a9177851898bbb108b7a3b073523761]{
 -- Page 267, Offset 6302.
 -- ―――本当に俺は馬鹿だ。
-―――Soy idiota de verdad.
+―――De verdad, soy idiota.
 }
 [sha:49ced6a8ee4a07afa4fbf6837cab3a28c88639d3]{
 -- Page 267, Offset 6303.
@@ -211,7 +211,7 @@ En el momento que me toca el costado,
 [sha:1216350d832de4e99f59e47569c713c40f8685e6]{
 -- Page 272, Offset 6315.
 -- 「い、っ……！」
-"%{i}Ouch%{/i}!"
+"¡%{i}Ouch%{/i}!"
 }
 [sha:8defb0729115547a43a5419e570731a7fdc521a4]{
 -- Page 272, Offset 6316.
@@ -284,7 +284,7 @@ Lo que da más miedo es lo fácil que pareció su salto.
 [sha:73acd830ebc414f6242264c7c81aa5266a5a9016]{
 -- Page 278, Offset 6329.
 -- あんまり聞き分けがないと殺しちゃうわよ」
-Si no retrocedes, te mataré de verdad."
+Si no retrocedes, de verdad te mataré."
 }
 [sha:ddfefb83c874f9f98167fd382ec531cb062d9238]{
 -- Page 279, Offset 6330.
@@ -318,7 +318,8 @@ La pantera es un monstruo...
 -- Page 280, Offset 6335.
 -- ……だが、あの女は次元が違う。怪物にとっての怪物。どんな怪物であれ出遭えば死ぬしかない魔物だった。
 Pero... ella está a otro nivel.
- Ella es un monstruo %{i}para los monstruos%{/i}.
+ A ojos de los monstruos ella es %{i}el monstruo%{/i}.
+ Cualquier monstruo que se cruce con ella no tiene más opción que aceptar su muerte.
 }
 [sha:a55bb36cb94b0640a440cbd09af9615bf87c9a46]{
 -- Page 281, Offset 6336.
@@ -360,13 +361,12 @@ Aunque no hizo más que mover un pelo enfrentándose a la bestia negra,
 [sha:c2b41ebf740b02c8c2943546420f21322b3c45b7]{
 -- Page 283, Offset 6343.
 -- それは、どう見ても通りすがりの“<第|だ><三|れ><者|か>”だった。
-// Corregido
 A juzgar por lo que veo, diría que son transeúntes.
 }
 [sha:094c5d424da43efd474ca877d89689520ea9d392]{
 -- Page 283, Offset 6344.
 -- ビルとビルの隙間にあるこの路地裏に、薄暗い<路|みち>を通って、ゆっくりとやってくる。
-Caminan lentamente hacia el callejón a través de los pasajes oscuros entre edificios.
+Caminan lentamente hacia el callejón a través de los pasajes oscuros entre edificios. 
 }
 [sha:2b679fb89294ba614d23a9afa98e02b863edc846]{
 -- Page 284, Offset 6345.
@@ -406,7 +406,7 @@ Podría jurar que ví algo innombrable.
 [sha:7045e7455237ea1509f3558666f7806e16131ecd]{
 -- Page 286, Offset 6352.
 -- ソレは止まらない。
-No se paran.
+No se detienen.
 }
 [sha:88d59626d20cdb56247627f7439ba6247c77598b]{
 -- Page 286, Offset 6353.
@@ -448,7 +448,7 @@ Están muertos.
 [sha:0a96523f0049432e841077e062288a0f40a56998]{
 -- Page 289, Offset 6360.
 -- あれは死人だ。
-Esos son personas muertas.
+Eso son personas muertas.
 }
 [sha:188e62186d5f8396b58d6331b88f1dd829d481c5]{
 -- Page 289, Offset 6361.
@@ -485,7 +485,7 @@ De los tres cadáveres, dos de ellos intentan alcanzarla.
 -- そしてもう一体は、呆然と立ち尽くす俺にぐらりと首を回して、その燃え盛る眼孔を―――
 Mientras permanezco estupefacto, el otro, agitándose violentamente, gira su cabeza hacia mí, con llamas saliendo de sus cuencas―――
 }
-[sha:832b5615ca82cc650889d81bbb05b927927f1c7e]{
+[offset:6368]{
 -- Page 291, Offset 6368.
 -- やられた。
 Estoy acabado.
@@ -495,10 +495,10 @@ Estoy acabado.
 -- そんな致命的な隙を、あの黒い獣は逃さない。
 La bestia negra no va a desperdiciar la oportunidad para ir a matar.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:6370]{
 -- Page 292, Offset 6370.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Ghuh%{/i}!"
 }
 [sha:b8f9ec70965ccc9ee131d1e75e4b1da825180ac1]{
 -- Page 292, Offset 6371.
@@ -534,7 +534,7 @@ Casi como hubiese algo agarrándome del pescuezo...
 [sha:b6d1c0118ed4653407c45e0755c77909eac068d0]{
 -- Page 295, Offset 6377.
 -- 「うわあ！？」
-"%{i}Guaaah%{/i}?!"
+"¡¿%{i}Guaaah%{/i}?!"
 }
 [sha:7fb64135b2770a65f4fe5832a00be2c5b42c7825]{
 -- Page 295, Offset 6378.
@@ -544,7 +544,7 @@ Otra vez me estampo contra la pared.
 [sha:031aa2f6d50cb67eebb26f9b6c93cef3edce908f]{
 -- Page 295, Offset 6379.
 -- それも路地裏の隅。がらくたが積まれた物陰に、乱暴に連れこまれた。
-La pantera me ha arrastrado bruscamente a otra esquina llena de basura del callejón.
+La pantera me ha arrastrado bruscamente a otra esquina del callejón llena de basura.
 }
 [sha:ec0cc93ba987407066366448f9b3714c63bacfa0]{
 -- Page 296, Offset 6380.
@@ -578,7 +578,7 @@ Escondido tras un trozo de madera, me pongo de pie y miro a la mujer.
 -- <燻|くすぶ>る死体はついに、黒豹が踏み込まなかった３メートルの間合いに入った。
 Los cuerpos ardientes han llegado finalmente a la línea que la pantera nunca se atrevió a cruzar, a tres metros de la mujer de blanco.
 }
-[sha:7acbb327e294f13370549ab130d0205e7f746058]{
+[offset:6386]{
 -- Page 298, Offset 6386.
 -- 瞬間、
 El siguiente instante―――

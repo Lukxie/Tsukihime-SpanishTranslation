@@ -31,8 +31,7 @@ Nyajaja, ¡a la basura que vais!
 [sha:5ff02aa832e5e7c7afdeb4b087bef6de3b9360b0]{
 -- Page 100, Offset 42948. Mods: @n.
 -- ついでに主人公人形もポーイ！
-// Uff muy forzado quizá
-Y ya que estamos, ¡ta' luego, protagoñeca!
+Y ya que estamos, ¡ta' luego, protagoñeca!%{n}
 }
 [sha:3904371e9a16f27d117e22799370425ad183abc3]{
 -- Page 100, Offset 42949.
@@ -57,7 +56,7 @@ E - N - DO - R - PH - IN, ¡allá va!
 [sha:5f99f2b914d318d6071c0bba2ba497f0bfbfaa27]{
 -- Page 103, Offset 42953.
 -- あー…………
-Ah......
+-- TRANSLATION HERE
 }
 [sha:5f99f2b914d318d6071c0bba2ba497f0bfbfaa27]{
 -- Page 104, Offset 42954.
@@ -87,12 +86,12 @@ Bueno, supongo que era el destino.
 [sha:7a239884967c9cce936d92a4e3771b9bf61e6394]{
 -- Page 107, Offset 42959. Mods: @n.
 -- これは……もしや、主人公はカッコ良く
-Podría ser esto... ¿una señal de la voluntad de que el%{n}
+Podría ser esto... ¿una señal de que el protagonista%{n}
 }
 [sha:c6b9f19bcf57c3aca0f24d8b21a9078f653c39d2]{
 -- Page 107, Offset 42960.
 -- 射出されて飛び散る、という暗示なのでは？
-protagonista será lanzado al aire de manera espectacular?
+será lanzado al aire de manera espectacular?
 }
 [sha:21c19ab7e7d38f2c2f1cff51ab0babf0ebabbc8b]{
 -- Page 108, Offset 42961. Mods: @n.
@@ -102,7 +101,7 @@ Jajaja. Seguro que no.
 [sha:790726b80dd2abc6606372d4d3ba9a24a997014d]{
 -- Page 108, Offset 42962.
 -- いくら遠野くんでも、そんな無謀な作戦は―――
-Ni siquiera Tohno-kun podría%{n}pensar un plan tan temerario―――
+ Ni siquiera Tohno-kun podría%{n}pensar un plan tan temerario―――
 }
 [sha:293f5854e621476a3f6ac6eff7f44f37dab01a38]{
 -- Page 109, Offset 42963.
@@ -117,7 +116,7 @@ Oh, lo ha hecho de verdad...
 [sha:5391de1f408186f68821f22120dec54d41fce431]{
 -- Page 110, Offset 42965.
 -- 大胆というか、命知らずというか。
-Eso ha sido%{n}bastante atrevido, ¿o más bien suicida?
+ Eso ha sido%{n}bastante atrevido, ¿o más bien suicida?
 }
 [sha:c7965e63e46af7ba3183deb2cc66151d872ca657]{
 -- Page 111, Offset 42966. Mods: @n.
@@ -127,7 +126,7 @@ Si quiere convertirse en un misil humano, deja%{n}que lo haga.
 [sha:c8ebf94f1e26367d53ed93df11c7aa203d8e7780]{
 -- Page 111, Offset 42967.
 -- んー、その意気は良かったんだけどにゃー。
-Mmm, me gustan los hombres con mucho espíritu%{n}nya.
+ Mmm, me gustan los hombres con mucho espíritu%{n}nya.
 }
 [sha:67649b5349852f97d50abe390ff0a4ede82f3ca4]{
 -- Page 112, Offset 42968. Mods: @n.

@@ -32,24 +32,24 @@ Estoy segura de que no es el caso,
 [sha:0266d9b10c89a661ab9d632a477a1bcc1ded5278]{
 -- Page 63, Offset 4115.
 -- このように、朝から刺々しさ全開だった。
-Puede ser pronto por la mañana,
+Puede que sea temprano,
  pero aún así no se contiene.
 }
 [sha:5eef965752b4385f19bb6fef2a5c366f04dbf779]{
 -- Page 64, Offset 4116.
 -- 「ゆっくりって、まだ７時を過ぎたばかりじゃないか。
-"¿No tenga prisa? Acaban de ser las siete, tengo tiempo suficiente.
+"¿Que no tenga prisa? Son poco más de las siete, tengo tiempo suficiente.
 }
 [sha:a59739f5f46ba7fe3f197335b1d6f0494d9c3d15]{
 -- Page 64, Offset 4117.
 -- ここからうちの高校まで徒歩30分ちょいなんだ、今日は早起きしたほうだよ」
 Desde aquí solo tardo media hora en llegar andando a la escuela,
- así que en todo caso diría que me he levantado pronto.
+ en todo caso diría que me he levantado pronto.
 }
 [sha:2004faeaed86c8ae3f8930aeade73a6404c59eba]{
 -- Page 64, Offset 4118.
 -- 「つまり朝食にかける時間は10分だけですか。おなかをすかせた犬じゃないんですから、朝食はゆっくりとってください」
-"En otras palabras, ¿poco menos de diez minutos para comerte el desayuno?
+"En otras palabras, ¿poco menos de diez minutos para desayunar?
  No eres un perro hambriento, deberías tomarte tu tiempo para comer."
 }
 [sha:0f31ad8df3861c54bf2764462e9c4cef2f6227c9]{
@@ -65,7 +65,7 @@ Señala mis errores con precisión quirúrgica... No tengo más remedio que reco
 [sha:920419fe3e8c3ef7fb5b28e84c669d20bfd083ea]{
 -- Page 65, Offset 4121.
 -- まるでテニスの練習でひたすらボールをはじき返す絶壁のようだ。なにが、とは言わないが。
-Es como una pared plana que devuelve la pelota durante la práctica de tenis. Aunque voy a decir que parte es la pared.
+Es como una pared plana que devuelve la pelota durante la práctica de tenis. Aunque no voy a decir que parte es la pared.
 }
 [sha:8c65cd76e7f5a297fa7716b634e6770d3adffa96]{
 -- Page 66, Offset 4122.
@@ -75,7 +75,7 @@ Es como una pared plana que devuelve la pelota durante la práctica de tenis. Au
 [sha:0672c14d8b297974a9008fa1b5cb2a1b63450663]{
 -- Page 66, Offset 4123.
 -- 何かいま、不審なことを言いかけましたか？」
-¿Estabas a punto de decir algo raro hace un momento?"
+¿Ibas a decir algo raro?"
 }
 [sha:0c026498790b21a3a5b761e629499ac363eb60a8]{
 -- Page 66, Offset 4124.
@@ -85,14 +85,14 @@ Es como una pared plana que devuelve la pelota durante la práctica de tenis. Au
 [sha:5e7f5011d7c3e594a7a76a1dcf0b6c73305696f1]{
 -- Page 66, Offset 4125.
 -- それより犬じゃないんですからって、秋葉―――」
-Además, a que te referías con 'perro hambriento', Akiha―――"
+Además, a que te refieres con 'perro hambriento', Akiha―――"
 }
 [sha:25b9819473d07f900de2b1106f4e8f46a5147572]{
 -- Page 67, Offset 4126.
 -- と、思い出した。
-En realidad, eso me recuerda.
+De hecho, eso me recuerda.
 }
-[sha:897e9721d3c330f416378ae69e197becb1f6b65b]{
+[offset:4127]{
 -- Page 67, Offset 4127.
 -- 犬と言えば昨夜の出来事について確認しないと。
 Que hablando de perros, tengo que preguntar sobre lo que pasó anoche.

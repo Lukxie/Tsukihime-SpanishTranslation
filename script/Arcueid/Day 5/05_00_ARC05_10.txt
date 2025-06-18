@@ -39,7 +39,7 @@ Lo único de lo que estoy seguro es del dolor por todo mi cuerpo,
 -- Page 716, Offset 10599.
 -- ……まったく幸いだ。おかげで痛覚も麻痺している。
 Soy realmente afortunado...
- Como resultado me he insensibilizado al dolor.
+ Gracias a eso me he insensibilizado al dolor.
 }
 [sha:71bd54dd497802a9a2cfa62ff25d4d4158ba3a61]{
 -- Page 716, Offset 10600.
@@ -85,10 +85,10 @@ No fue un milagro. No fue nada. Al fin y al cabo, solo cargué contra él con to
 -- 夜空には欠けた月がある。
 Una solitaria luna creciente sostenida en el cielo.
 }
-[sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
+[offset:10608]{
 -- Page 719, Offset 10608.
 -- ……なんだろう。
-Pero... algo no tiene sentido.
+Que extraño...
 }
 [sha:7ce16bded56822b6f8b2ea358e2161f7be4e42bf]{
 -- Page 719, Offset 10609.
@@ -99,7 +99,7 @@ Me resulta muy familiar,
 [sha:5c2612b9eb872a435160e2014c10447be2520b94]{
 -- Page 720, Offset 10610.
 -- 「大丈夫、志貴？」
-"Shiki, ¿estas bien?"
+"Shiki, ¿estás bien?"
 }
 [sha:292d851009634074dc14d16c5ccc278462e2c91f]{
 -- Page 721, Offset 10611.
@@ -114,7 +114,7 @@ Arcueid se acerca a mi como si no hubiera pasado nada.
 [sha:d4f520fbd328f3b7c63eba21a845824024e8d1ac]{
 -- Page 722, Offset 10613.
 -- 本当は死にそうだし、声をだすのも辛い。
-Aunque me sienta más muerto que vivo.
+Aunque me siento más muerto que vivo.
  Incluso hablar duele.
 }
 [sha:303b9782a13caf9131de0168c72ba6d777b07cc1]{
@@ -126,13 +126,14 @@ Para ser alguien que ha conseguido sobrevivir,
 [sha:347b06006f8a5f9b5838d95fcafb6cf828e6d20a]{
 -- Page 723, Offset 10615.
 -- 「もう、そんな謙遜しちゃって。
-"Dios santo, no tienes que ser tan humilde.
+"Vamos, no tienes que ser tan humilde.
 }
 [sha:27b3d5cb3b5ce8644fdf3af1def0b8ceef15a3cc]{
 -- Page 723, Offset 10616.
 -- 新参とは言え、志貴は祖の<一角|ひとり>を殺したのよ？
 Aunque fuera un primerizo,
  has matado a uno de los Ancestros, ¿sabes?
+ 
 }
 [sha:ed96c0bc8b506e103cd3408f4dba4965e7979230]{
 -- Page 723, Offset 10617.
@@ -149,7 +150,7 @@ Arcueid parece estar contenta por mi.
 -- ……実際、ヴローヴを殺した事はそれだけ価値のある事なんだろう。俺にだってそれぐらいは分かる。
 ...Incluso yo sé que matar a Vlov es una hazaña encomiable.
 }
-[sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
+[offset:10620]{
 -- Page 724, Offset 10620.
 -- それでも―――
 Y aún así―――
@@ -162,8 +163,8 @@ No pude hacer nada...
 [sha:515f5cca7528d05ab2cd315bdad4ae8d95ced209]{
 -- Page 725, Offset 10622.
 -- あの氷河はどこまで街を侵したのか。少なくとも、ホテルの時以上の殺戮を、俺はまた看過して―――
-¿Hasta donde ha llegado el glaciar?
- Por lo menos, la masacre ha sido incluso peor que la del hotel.
+¿Hasta dónde ha llegado el glaciar?
+ Como mínimo, la masacre habrá sido incluso peor que la del hotel.
  Y de nuevo, dejo que ocurra―――
 }
 [sha:071bd4d9dbc169b6b72f22c404535e4aab4aa97e]{
@@ -189,7 +190,7 @@ Si te preocupa la maldición de Vlov, he protegido a todos."
 [sha:4817be599de407d812221b834882c315106bd023]{
 -- Page 726, Offset 10627.
 -- 体を起こそうと力をいれた途端、左足からの激痛でのたうち回った。
-// Mix de ambas tls
+//Mix de ambas tls
 En cuanto intento incorporarme,
  mi pierna izquierda grita de un dolor que me hace retorcerme.
 }
@@ -207,13 +208,13 @@ En cuanto intento incorporarme,
 [sha:f402f594a122b1e3ccf31af3a77e71c3c52bef73]{
 -- Page 727, Offset 10630.
 -- 死んでないって、ホントに……？」
-// Tl oficial
+//Tl oficial
 ¿Nadie a muerto? ¿En serio?"
 }
 [sha:a8be12f972c7dd35b9655a8e3d803c9188e45ba1]{
 -- Page 728, Offset 10631. Mods: @n.
 -- 「ええ。ヴローヴの原理が暴走した時、できる範囲を対流膜でコーティングしておいたの。
-// revestimiento convectivo de la tl oficial, igual hay que localizar pero bueno
+//revestimiento convectivo de la tl oficial, igual hay que localizar pero bueno
 "Sí. Cuando el Principio de Vlov se salió de control,
  conseguí contenerlo con un revestimiento convectivo.
 }
@@ -248,23 +249,23 @@ No fue para protegerse, ¿sino para proteger la ciudad...?
 -- ……いや、そうだ。考えてみれば、あの寒波が広がった後、俺が生きている事自体がおかしいんだ。
 Sí... encaja.
  Si lo piensas,
-es extraño que siga vivo incluso tras haberse envuelto todo esa ola de frío.
+ es extraño que siga vivo incluso tras haberse envuelto todo en esa ola de frío.
 }
 [sha:6af0f2a782d457a1b6bcccdc86947c2e5f094d65]{
 -- Page 730, Offset 10638.
 -- 俺があの超低温の中で呼吸ができたように、街の人達も無事だったに違いない。
-Tal y como era capaz de respirar en esas temperaturas super frías,
+Tal y como era capaz de respirar a esas temperaturas super frías,
  Arcueid debió asegurarse que el resto de la ciudad pudiera hacer lo mismo.
 }
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 730, Offset 10639.
 -- だから―――
-Es por eso―――
+Por eso―――
 }
 [sha:3a9d85c57e67d74b7529cc303b62e37a337dfd4a]{
 -- Page 731, Offset 10640.
 -- だから、こいつはあんな事になったんだ。
-Es por eso que encajó ese golpe.
+Por eso encajó ese golpe.
 }
 [sha:cebc44014de1e9e2aa661b0e6336731482add72a]{
 -- Page 731, Offset 10641.
@@ -287,7 +288,7 @@ Mientras yo solo pensaba en mi mismo,
 -- Page 732, Offset 10644.
 -- 正体不明の怒りにかられて、目の前の脳天気に怒鳴り散らす。
 Sin saber %{i}por qué%{/i} me enfado,
- grito a la descuidada de pie sobre mi.
+ grito a la descuidada que está de pie a mi lado.
 }
 [sha:b5546101f1b853e766dd70544fc83b5be7930989]{
 -- Page 732, Offset 10645.
@@ -317,7 +318,7 @@ Dice algo increiblemente estúpido.
 [sha:5617a50b13ae46975acb792084dde84754e29df8]{
 -- Page 734, Offset 10650.
 -- いつ？　どこで？　もしかして、それは、
-¿Cuando? ¿Donde? Quizá fue...
+¿Cuándo? ¿Dónde? Quizá fue...
 }
 [sha:7405fa7c9108f8466d7bb3127bd81ea486d9dedb]{
 -- Page 735, Offset 10651. Mods: @k, @e.
@@ -338,7 +339,7 @@ No me lo puedo creer...
 [sha:ba3fa0c211914bcaf84cfaefdedd414dd397e79d]{
 -- Page 736, Offset 10654.
 -- 『人間には手を出さないでくれ』
-Mientras no nos pongas la manos encima, no pasa nada.'
+ 'Mientras no nos pongas la manos encima, no pasa nada.'
 }
 [sha:9d613a0be9080f050f7e93dfa981a0bd414b1cd2]{
 -- Page 736, Offset 10655.
@@ -353,7 +354,7 @@ Mientras no nos pongas la manos encima, no pasa nada.'
 [sha:86d74742c03da2d0ed4f9af1cd3d35da4f6b1456]{
 -- Page 737, Offset 10657.
 -- 「は……」
-"%{i}Haaaa%{/i}..."
+"%{i}Ja%{/i}..."
 }
 [sha:41028e1a04b86bd2d28f9b1233b2a1084633f264]{
 -- Page 737, Offset 10658.
@@ -368,7 +369,7 @@ Estoy incluso más estupefacto que antes.
 [sha:0fe6c9e14288647377a82282a87c0abddda509ff]{
 -- Page 737, Offset 10660.
 -- 呆れながら、やっぱりそれ以上、かつてないほど感謝している。
-Estoy anonadado, pero, aún más agradecido.
+Estoy anonadado, pero aún más, agradecido.
 }
 [sha:71a035766ddae90e601e82b208fd5d7623b6a2f7]{
 -- Page 738, Offset 10661.
@@ -383,8 +384,8 @@ Si lo que dice es cierto, puedo irme a dormir.
 [sha:23ca3c8552fafb818b74df4301fb7576563737d7]{
 -- Page 738, Offset 10663.
 -- さっきまで後悔しかなかった胸は、今は安堵に包まれている。
-Mi pecho, lleno hasta ahora con nada más que remordimiento,
- ahora está repleto de alivio.
+Mi pecho, lleno hasta ahora con nada más que remordimiento, 
+ está ahora repleto de alivio.
 }
 [sha:c99656525a3c783d082b3c138f3a350aed28517c]{
 -- Page 738, Offset 10664.
@@ -396,10 +397,10 @@ Mi consciencia se desvanece.
 -- 足の痛みも忘れて、深い眠りに落ちていく。
 Me olvido del dolor de mis piernas y me sumerjo en sueño profundo.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:10666]{
 -- Page 738, Offset 10666.
 -- ……と。
-Sin embargo...
+Y entonces...
 }
 [sha:4c9b47b9cd7c8c022e8651d37133746a56d785be]{
 -- Page 739, Offset 10667.
@@ -409,7 +410,7 @@ Arcueid me obliga a volver a la realidad golpeándome la cabeza.
 [sha:57868a0477e30aa68ebfedc31b7a624419be43c4]{
 -- Page 739, Offset 10668.
 -- 「……なんの、つもりだ」
-"Ey...¿qué haces?"
+"Y...¿eso a qué viene?"
 }
 [sha:3876bdee5888d96f4a56c27ccd7d0b4cb2a85ba5]{
 -- Page 740, Offset 10669.
@@ -419,32 +420,33 @@ Arcueid me obliga a volver a la realidad golpeándome la cabeza.
  te dolerá mucho más cuando despiertes, ¿cierto?
  Deberías cerrar tus heridas antes de dormir.
  Es mucho más eficiente, ¿sabes?"
+ 
 }
 [sha:77ee0a65368797005807425f0d794074d9bf96e3]{
 -- Page 741, Offset 10670.
 -- ―――そりゃあまったくの正論だ。
-No la falta razón.
+No le falta razón.
 }
 [sha:bf916598d0d6f2f8ec5cc23498fc2683830540fb]{
 -- Page 741, Offset 10671.
 -- それと同じ事をコイツに言ったのは誰だったっけ。
-¿Me pregunto quién la dio esa idea?
+¿Me pregunto quién le dió esa idea?
 }
 [sha:35dc84bef0b0277e435308feaff601acdc11931f]{
 -- Page 742, Offset 10672.
 -- 「……アルクェイド。本気で忠告していいか」
-// Mix con la tl oficial
+//Mix con la tl oficial
 "Arcueid... ¿puedo serte sincero por un momento?"
 }
 [sha:2d83893fe124a63465d97f5c9f81d88b6964d87b]{
 -- Page 742, Offset 10673.
 -- 「ん、なに？」
-"Hmm, ¿qué es?"
+"Hmm, ¿qué pasa?"
 }
 [sha:8e5984f3e9866b907096dff94f766215277b81aa]{
 -- Page 742, Offset 10674.
 -- 「あのな。あんまり無茶いうな、このばか女」
-// Tl oficial
+//Tl oficial
 "Deja de pedir lo imposible, idi... ota..."
 }
 [sha:3e0c78460b3249614ab1e34100099f093184a1ac]{
@@ -649,5 +651,5 @@ Ya no puedo escuchar su voz.
 [sha:f7dad19aa03d48f0efea55f13b47cbf5db78cc8f]{
 -- Page 756, Offset 10712.
 -- 今度こそ誰にも邪魔されずに、遠野志貴の意識は深い眠りに落ちていった。
-Sin más interrupciones, finalmente me quedo profunda, profundamente dormido.
+Sin más interrupciones, finalmente me quedo profunda y completamente dormido.
 }

@@ -11,7 +11,7 @@ La parte trasera de mi cuello se siente extrañamente caliente... se está hinch
 [sha:543352fc739fcbda0fcd57f1fea80ba0d554d894]{
 -- Page 10013, Offset 3067.
 -- そのせいだろうか。どこに向かう予定だったのか見失っている気がする。
-Me pregunto... Quizá esa sea la razón por la que siento como si hubiese perdido la noción de dónde iba.
+Por que será... quizá sea esa la razón por la que siento como si hubiese perdido la noción de dónde iba.
 }
 [sha:6f8c930ddc61fc2c5d3d20f135f302294ee608ab]{
 -- Page 181, Offset 3068.
@@ -31,7 +31,7 @@ Las luces de los coches pasan.
 [sha:32fef07e410b5b054b240c7bd1ec9dc396c21c9f]{
 -- Page 181, Offset 3071.
 -- 駅からはき出される、あるいは呑み込まれる人の群れ。
-Multitudes son vomitadas y luego tragadas de nuevo por la estación.
+Multitudes son vomitadas para luego ser tragadas de nuevo por la estación.
 }
 [sha:85d4f4a5aa52ff6c12a7ce91c82a5eda6e55d75d]{
 -- Page 181, Offset 3072.
@@ -41,7 +41,7 @@ Ahora no se ven muchos uniformes escolares.
 [sha:60c97c9a70d180c54a7c8de9a1358d1e11c9c972]{
 -- Page 181, Offset 3073.
 -- 色とりどりの服に身を包んだ人々が闊歩している。
-La gente que sube y baja la calle lleva todo tipo de vestimenta.
+La gente que sube y baja la calle lleva todo tipo de vestimentas.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 182, Offset 3074.
@@ -61,7 +61,7 @@ Ya es hora de marchar.
 [sha:207417268913225e447817b6792aa29585dd102e]{
 -- Page 182, Offset 3077.
 -- 行く理由はまったくないが、繁華街に足を向けた。
-Aún sin razón para ir allí, me doy la vuelta y me dirijo al centro.
+A pesar de no tener razón para ir, me doy la vuelta y me dirijo al centro.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 183, Offset 3078.
@@ -71,22 +71,22 @@ Aún sin razón para ir allí, me doy la vuelta y me dirijo al centro.
 [sha:943d910893acc0d84b35456aa7ca5aca170e1e1f]{
 -- Page 183, Offset 3079.
 -- 大通りから横道にそれる。
-Me sumerjo en una calleja de la calle principal.
+Me sumerjo en una bifurcación de la calle principal.
 }
 [sha:28b44602e9fa87015e429c573eace12d7c301a54]{
 -- Page 183, Offset 3080.
 -- 道というより、ビルとビルの間に出来た死角。
-Es más un punto ciego entre edificios que una calleja.
+Es más un punto ciego entre edificios que un callejón.
 }
 [sha:8c8412cbb2f8b3ff10a36c6f21f4807a86961aa2]{
 -- Page 184, Offset 3081.
 -- 周囲に人影はない。
-No hay gente aquí.
+Aquí no hay gente.
 }
 [sha:1e5be9b3a58deb9a8526b67d47654f93c71ac3b0]{
 -- Page 184, Offset 3082.
 -- 物音もない。
-No hay sonido.
+Ni sonido.
 }
 [sha:a8c744df19be5258f61898af3f868dc4f62db31f]{
 -- Page 184, Offset 3083.
@@ -96,7 +96,7 @@ Ni señales de vida.
 [sha:b19ff96946357cfe2e86d2fa99e6b499194a2fa2]{
 -- Page 184, Offset 3084.
 -- ただ、<あ|・><の|・><奥|・>から、ガサガサと音がするだけ。
-Solo hay――un crujido, emanando de lo más profundo del callejón.
+Solo hay――un crujido, emanando de lo más profundo del mismo.
 }
 [sha:4f7ec850b3dac4847c62d4396dbf9940aee82141]{
 -- Page 185, Offset 3085.
@@ -140,10 +140,10 @@ Si abro y voy lo suficientemente profundo, estoy seguro de que encontraré――
 -- 「ちょっと、そこの人」
 "Ey, tú el de ahí."
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:3093]{
 -- Page 187, Offset 3093.
 -- 「―――え？」
-"―――¿Huh?"
+"―――¿Eh?"
 }
 [sha:23d79d846930ca0f0d1d25a3729972ab608e3766]{
 -- Page 188, Offset 3094.
@@ -159,7 +159,7 @@ Sigo algo mareado,
 [sha:27414b622bfd52d0d3e8c6cc975df6274400946d]{
 -- Page 188, Offset 3096.
 -- ……意味が分からない。
-No sé qué está pasando...
+no sé qué está pasando...
 }
 [sha:dd54237ca21c2065e05193c9187f5b0be4a8609a]{
 -- Page 188, Offset 3097.
@@ -194,12 +194,12 @@ Está de pie de una manera que grita 'He intentado comprar algo de zumo... pero 
 [sha:a5842f468ea06060ab988297f6144f27c20d9c45]{
 -- Page 190, Offset 3103.
 -- こんな路地裏で、さらに奥まで行こうとしていた自分が後ろめたかったのか、空気に流されて百円を手渡す。
-Quizá es porque me siento culpable de haber intentado meterme en las profundidades del callejón, por lo que la sigo la corriente y la doy los cien yenes.
+Quizá sea por que me siento culpable de haber intentado adentrarme en las profundidades del callejón que la sigo la corriente y la doy los cien yenes.
 }
 [sha:3894950fd93d9681315d9f3e59b5dc7448922e0d]{
 -- Page 191, Offset 3104.
 -- 「どうも。助かりました」
-"Gracias. Lo aprecio."
+"Gracias. Lo agradezco."
 }
 [sha:57821c3b16a4e43fe1ddc56ac23543993bcc5234]{
 -- Page 191, Offset 3105.
@@ -219,18 +219,18 @@ Frunce el ceño, pareciendo decepcionada.
 [sha:690fc8e2fbd5139a99777c7ed170985902e24bcf]{
 -- Page 192, Offset 3108.
 -- 「こんな時間に散歩とか、<暢気|のんき>ですね。
-"¿Andando por ahí a estas horas?
+"¿Por ahí a estas horas?
  Si que eres despreocupado.
 }
 [sha:05c4107fdd0b3ec69c078a86db85ac5d447d9241]{
 -- Page 192, Offset 3109.
 -- お家の人、待ってるんじゃないですか？」
-¿No hay nadie en casa que te esté esperando?"
+¿No hay nadie en casa esperándote?"
 }
 [sha:34dfbf3d9d52edc45c1774b2b93290866a1108f2]{
 -- Page 192, Offset 3110.
 -- 「え―――ああ……！」
-"Ah――¡si!"
+"Ah――¡sí!"
 }
 [sha:5ede16ac693ffd7e1642bfb5909222ffcf76614e]{
 -- Page 193, Offset 3111.
@@ -240,27 +240,27 @@ Miro mi teléfono.
 [sha:0e68ba5c338f01ca324fcd1ff24862acd8ac3d91]{
 -- Page 193, Offset 3112.
 -- 時計は無慈悲にも７時40分―――やばい、門限まであと20分しかない！
-El reloj sin piedad marca las 7:40 PM――mierda, ¡solo tengo veinte minutos hasta el toque de queda!
+El reloj marca las 7:40 PM sin piedad――mierda, ¡solo tengo veinte minutos hasta el toque de queda!
 }
 [sha:2f523f69a71d12c9e96a3fa274640f1b67b7c84b]{
 -- Page 194, Offset 3113.
 -- あわてて路地裏から駆け出す。
 En pánico, salgo pitando del callejón.
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:3114]{
 -- Page 194, Offset 3114.
 -- ―――と。
 ―――Pero entonces
 }
-[sha:5e801d302798f8ba23e7c9ebb3f03981dbcaa90a]{
+[offset:3115]{
 -- Page 194, Offset 3115.
 -- 「待ってください」
-"Espera un segundo"
+"Espera un segundo."
 }
 [sha:f76017b1291878cba8e2c9540ef27ef09e364ed1]{
 -- Page 194, Offset 3116.
 -- またも女の子に呼び止められた。
-Me para otra vez.
+Me para de nuevo.
 }
 [sha:49ae5d754696a210869df27b3abdf3887e88b766]{
 -- Page 195, Offset 3117.
@@ -275,12 +275,12 @@ Me lanza una lata de zumo.
 [sha:1d69d506af7e75a182803b38aef643a59cca9ed3]{
 -- Page 195, Offset 3119.
 -- あわててキャッチするものの、これ、この子が買ったものじゃなかったか？
-Aturullado, consigo cogerla, ¿pero no es esta la lata que ha comprado?
+Aturullado, consigo cogerla, ¿pero esta no es la lata que ha comprado?
 }
 [sha:ecee7c73e50302c5dfe6f9662ea6c8c604282f0b]{
 -- Page 196, Offset 3120.
 -- 「それ、あげます」
-"Quédatela"
+"Quédatela."
 }
 [sha:1522082e629032e95ef53e45edb28963f90a201b]{
 -- Page 196, Offset 3121.
@@ -290,7 +290,7 @@ Aturullado, consigo cogerla, ¿pero no es esta la lata que ha comprado?
 [sha:24887819d5d4810c1dbf21634fa0898e8fd2ad53]{
 -- Page 196, Offset 3122.
 -- 「どれも飲めない味でした」
-"No aguanto ese sabor"
+"No aguanto ese sabor."
 }
 [sha:d92c96cc8770dc5d4f4e2042915038830f97e85c]{
 -- Page 197, Offset 3123.
@@ -310,8 +310,8 @@ Yo tambíen tengo que moverme. Comienzo a correr.
 [sha:6eed12b6cef0fb84347e6a9810e45fe224f108d5]{
 -- Page 198, Offset 3126.
 -- 一日目から門限を破るなんて兄貴として、いや人間としてダメすぎる。当主様のカミナリが落ちる前に、なんとしても屋敷に戻らなければ……！
-// Muy literal seguramente
-Fallar en llegar antes del toque de queda el primer día sería desastroso,
+//Muy literal seguramente
+Ser incapaz de volver el primer día antes del toque de queda sería de ser un desastre,
  no solo como hermano mayor, sino como ser humano.
  Sin importar que, ¡debo llegar a la mansión antes de que el rayo de la cabeza de familia me mate!
 }

@@ -11,7 +11,7 @@ Haré que estoy durmiendo en mi mesa para no revelar mi posición a través de l
 [sha:3669fe135328c45c019c37a4b37f04866f28f12a]{
 -- Page 229, Offset 20237.
 -- 「遠野ー。こら遠野ー。
-"Tohno. Ey Tohno.
+"Tohno. Oye Tohno.
 }
 [sha:3cfbb5934356dbb0cbfdbd30420417991f9baa61]{
 -- Page 229, Offset 20238.

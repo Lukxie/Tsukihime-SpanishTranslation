@@ -41,7 +41,7 @@
 [sha:568ec02c9816c990716503fe8823c5399f5e8706]{
 -- Page 150, Offset 27463.
 -- 「―――さて」
-"―――Bueno entonces."
+-- TRANSLATION HERE
 }
 [sha:9c83688861fc166886c8fd7026e3baf68b46ec10]{
 -- Page 150, Offset 27464.
@@ -143,7 +143,7 @@
 -- キミがもうちょっと酷いヤツなら、後腐れのない仕事だったのに」
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:27484]{
 -- Page 156, Offset 27484.
 -- 「―――え？」
 "―――¿Huh?"
@@ -161,7 +161,7 @@
 [sha:41e9b448ab3965a158cbf875011e06c7a657b488]{
 -- Page 157, Offset 27487.
 -- ―――まずい。
-―――Esto es malo.
+-- TRANSLATION HERE
 }
 [sha:2a619d1ffac87b08e58b1ef279fafd09dc05416c]{
 -- Page 157, Offset 27488.

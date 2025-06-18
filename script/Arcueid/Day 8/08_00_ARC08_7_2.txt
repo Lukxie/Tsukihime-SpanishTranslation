@@ -75,7 +75,7 @@ Me apoyo contra la pared para tomarme un descanso.
 [sha:3fcea8107bc740ff23693d0d6e23c78ea7384322]{
 -- Page 474, Offset 20911.
 -- 屋敷の周辺を調べていたが、今日一日の疲労から、ついに眩暈を起こしてしまった。
-Mientras buscaba por el perímetro de la mansión me ha venido el cansancio de hoy ,
+Mientras buscaba por el perímetro de la mansión me ha venido el cansancio de hoy,
  dejándome un poco aturdido.
 }
 [sha:65a5dd1f54c5d924978c67c08c6ceaa0060c7ab0]{
@@ -133,21 +133,21 @@ Con solo pensar en andar por el de noche me da un escalofrío.
 -- 「ん？」
 "¿Hmm?"
 }
-[sha:7b4f8e4d5b7066a2a808765dd27abbb39802aab3]{
+[offset:20922]{
 -- Page 479, Offset 20922.
 -- なんだろう。
-¿Qué %{i}era%{/i} eso?
+¿Qué es eso?
 }
 [sha:a859aaec946e028e36c6aff8f4cce913cdefccc3]{
 -- Page 479, Offset 20923.
 -- 街灯と街灯の中間。明かりの届かない暗がりに、何かが立っているような―――
-Ahí, en el espacio entre dos farolas.
- En esa oscuridad que la luz no puede alcanzar, se alza una figura―――
+Allí, en el espacio entre las dos farolas.
+ En aquella oscuridad que la luz es incapaz de alcanzar, se alza una figura―――
 }
 [sha:23611c72556ac02b3487f3d884fd1cd8a9fba2f5]{
 -- Page 480, Offset 20924.
 -- ――――――どくん。
-―――%{i}Bum-bum%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:7bc025ef6db9108c689f35f3bbd4a06e3bba984c]{
 -- Page 480, Offset 20925.
@@ -179,17 +179,17 @@ Cada vez se acerca más.
 [sha:165d816c203d65acc4e017171ad00966c6521b57]{
 -- Page 481, Offset 20930.
 -- 乾いた足音が聞こえてくる。
-Escucho sus chirriantes pasos.
+El sonido de sus pasos huecos.
 }
 [sha:873f35553ab76c0947f2984e2403f1eab519a5f0]{
 -- Page 481, Offset 20931.
 -- その、<唯一|ゆいいつ>剥き出しの眼球が、血走りながら俺を凝視する。
 Me mira fijamente con un solo y sangriento ojo.
 }
-[sha:d82319ae49d8581f4f759d24e24ba5649b736610]{
+[offset:20932]{
 -- Page 482, Offset 20932.
 -- ――――どく、ん。
-―――%{i}Bum-bum%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:237e507957bd226c6e3a9d8f63d56e4de2fe3c07]{
 -- Page 482, Offset 20933.
@@ -209,7 +209,7 @@ Siento un escalofrío recorriéndome lentamente.
 [sha:973800449bc2c94e7cfba9f02df6d2d2fb85fe89]{
 -- Page 482, Offset 20936.
 -- 人影が、あと一歩で絶望的な距離に入る。
-Con un paso más,  la figura se adentra en el punto de no retorno.
+Con un paso más, la figura se adentra en el punto de no retorno.
 }
 [sha:0b4eacd190c2ec0241a873c8c4a117a1d9345c98]{
 -- Page 482, Offset 20937.
@@ -222,10 +222,10 @@ De repente――con un click,
 -- 月も雲に隠れている。
 La luna se oculta tras las nubes.
 }
-[sha:46fa8b21d2c9202512da33db26c2e9dd2baadb44]{
+[offset:20939]{
 -- Page 483, Offset 20939.
 -- 世界は、唐突に闇になった。
-El mundo es sumergido en la oscuridad.
+El mundo se sumerge en la oscuridad.
 }
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 484, Offset 20940.
@@ -235,7 +235,7 @@ El mundo es sumergido en la oscuridad.
 [sha:84927294141abf9a7d6783fcef9056edf788309b]{
 -- Page 484, Offset 20941.
 -- ――――どく、ん………！
-―――¡%{i}Bum――Bum%{/i}!
+―――¡%{i}Ba――dump%{/i}!
 }
 [sha:92cfcfd4ae9f09f1ccef6177bf93284562a149ca]{
 -- Page 484, Offset 20942.
@@ -255,7 +255,6 @@ Intento retroceder, pero mi cuerpo no puede seguirle el ritmo a mi cerebro.
 [sha:d76486ce318e4a0779497668f569faae3e2e711b]{
 -- Page 485, Offset 20945.
 -- 闇に走る刃物。
-// Tl oficial
 La hoja corta la oscuridad.
 }
 [sha:8438d88f8bc5c0cfd69c3981f77e13aeff6ed9c3]{

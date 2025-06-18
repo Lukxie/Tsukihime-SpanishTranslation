@@ -16,13 +16,13 @@ No hay muchos estudiantes en la acera.
 [sha:104952d9bb4abfe379f358bff592d42ff8532f03]{
 -- Page 42, Offset 16676.
 -- あと10分もすれば生徒達で賑わう正門前も、いまは自分を含めて二、三人しか歩いていない。
-En diez minutos las, el área alrededor de las puertas estará repleto de ellos,
+En diez minutos, el área alrededor de las puertas estará repleto de ellos,
  pero ahora solo hay dos o tres, yo incluido.
 }
 [sha:2ff9900a760670b7fee1353a868f7ccd25f28a22]{
 -- Page 42, Offset 16677.
 -- あの時のように、ガードレールに腰を下ろして誰かを待っている、嘘みたいに美しかった女の姿もない。
-A diferencia del otro día, hoy no hay ni rastro de la mujer increíblemente bella que esperaba a alguien sentada en el guardarrail.
+A diferencia del otro día, hoy no hay ni rastro de la mujer increíblemente bella, sentada en el guardarrail esperando a alguien.
 }
 [sha:48eb9dbbce615e0080cab41030928592f2050b6a]{
 -- Page 43, Offset 16678.
@@ -32,7 +32,7 @@ En el patio, los clubs de deporte están en medio de su práctica matutina.
 [sha:f13b51a4afd0e7b8a3489d4dd1bbc91aaaacec28]{
 -- Page 43, Offset 16679.
 -- それを横目に昇降口に向かう。
-Mirandoles de reojo, me dirijo a la entrada.
+Mientras los miro de reojo, me dirijo a la entrada.
 }
 [sha:6bc446d0773be4895350cbbedc5a7744a639aa18]{
 -- Page 43, Offset 16680.
@@ -48,7 +48,7 @@ Sin embargo, no pude unirme a ningún club.
 -- Page 44, Offset 16682.
 -- 慢性的な貧血持ちなので、ここぞという時にまわりに迷惑をかけかねないし、そもそも、過度の運動は控えるようにと医者からも固く念を押されている。
 Al tener anemia crónica,
- cabe la posibilidad de que arrastre al equipo cuando más lo necesiten.
+ cabe la posibilidad de que lastre al equipo cuando más lo necesiten.
  Además, mi doctor insiste en que evite sobreesforzarme.
 }
 [sha:31066ec2a9e937f648433c432887ed15b2db3960]{
@@ -64,7 +64,7 @@ Cuando lo hacían, siempre los rechazaba diciendo 'quizá la próxima'.
 [sha:5820e77ca903e58be753aeb041a8a7fbc7a622b4]{
 -- Page 45, Offset 16685.
 -- そのたびに、言いようのない隔たりを感じる事があった。
-Y cada vez, sentía que era más distante a ellos.
+Y cada vez, me sentía más distante a ellos.
 }
 [sha:e1d62d09b336092b0b0c310e0753a4da40b0a834]{
 -- Page 46, Offset 16686.
@@ -90,14 +90,14 @@ No es momento para ponerse sentimental.
 [sha:973256af0931dfb0f77337340f6df6cfaf1e546a]{
 -- Page 47, Offset 16690.
 -- 心中、部活動に励む仲間たちに声援を送って、校舎へと足を向けた。
-Ánimo en silencio a los clubs que se encuentran dando lo mejor de sí,
+Animo en silencio a los clubs que se encuentran dando lo mejor de sí,
  y continúo hacia el edificio principal.
 }
 [sha:d6e012300a744c486cfb773e8d9f9a34c15751c6]{
 -- Page 48, Offset 16691.
 -- 「あ、あらら？　おはよう志貴クン、今朝は早くない？」
-"¿Oh, qué tenemos aquí?
- Buenos días, Shiki-kun, ¿hoy no llegas un poco pronto?"
+"Oh, ¿qué tenemos aquí?
+ Buenos días, Shiki-kun, ¿no llegas hoy un poco pronto?"
 }
 [sha:469912541425e423470aa25ae53627b39288f752]{
 -- Page 48, Offset 16692.
@@ -145,7 +145,7 @@ Ah, y ahora que estás aquí, sobre mi ausencia injustificada del viernes..."
 [sha:5caf296439ad270e9234a5af9e54262f54872257]{
 -- Page 51, Offset 16700.
 -- たった一日のボイコットなんてフツーだものね。志貴クンだって、その方が都合が良かったでしょう？」
-// Cambiola estructura para que tenga mas sentido
+//Cambiola estructura para que tenga mas sentido
 Te parece bien, ¿no?
  Es totalmente normal hacer pellas de vez en cuando."
 }
@@ -184,13 +184,13 @@ Me da la sensación que la política educativa de Noel-sensei es muy indulgente.
 -- Page 53, Offset 16707. Mods: @k, @e.
 -- 先生は不真面目なワケじゃありませーん。生徒の自主性を尊重してのコトですぅー。
 ¡No es que no sea seria!
- ¡Es solo que respecto la independencia de mis estudiantes!
+ ¡Es solo que respeto la independencia de mis estudiantes!
 }
 [sha:38c9797b2f015f4be731f84ff4957452c3420325]{
 -- Page 53, Offset 16708. Glued. Mods: @x.
 -- だってみんな、こんなにも若くて美味しそうなんですもの。一日ぐらい、背伸びして遊びに行くのは仕方がないコトだと思うの」
-// Mix de tls.
-Quiero decir, todos sois tan jóvenes y apetitosos.
+//Mix de tls.
+ Quiero decir, todos sois tan jóvenes y apetitosos.
  Creo que es normal que quieras estirar las piernas y pasártelo bien un día o dos."
 }
 [sha:dab2440acb5ac2ac08546b5b531ac05693c2bda6]{
@@ -206,8 +206,8 @@ Quiero decir, todos sois tan jóvenes y apetitosos.
 [sha:b63945d3503715f582a634c0328148d998cae224]{
 -- Page 54, Offset 16711.
 -- 分かってます分かってます、例の貧血でしょう？　真面目な志貴クンが火遊びをするワケないものね。
-"Lo sé, lo sé, fue la anemia usual, ¿verdad?
- Un chico tan honesto como tú no iría por ahí jugando con fuego ni nada.
+Lo sé, lo sé, fue la anemia usual, ¿verdad?
+ Un chico tan honesto como tú no iría por ahí jugando con fuego de esa forma.
 }
 [sha:853300345bcd036aeda3517a143357665c967d45]{
 -- Page 54, Offset 16712.
@@ -217,7 +217,7 @@ Entonces, ¿cómo te encuentras? ¿Aún te duele?"
 [sha:1a023b018c606681edf4002a0b9c147289ee98ad]{
 -- Page 55, Offset 16713.
 -- ……真剣に心配されてしまった。
-// Tl oficial
+//Tl oficial
 Parece que se preocupa por mi de verdad.
 }
 [sha:7025d4a4e126b3048ed2c460921ff24f53adb074]{
@@ -260,7 +260,7 @@ Y, ¿qué ocurrió?"
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 59, Offset 16721.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:f7b320db1e1b117fd2b9d853f614fa52cd31efa1]{
 -- Page 59, Offset 16722.
@@ -302,7 +302,7 @@ Un escalofrío indescriptible me recorre.
 -- Page 61, Offset 16729.
 -- ノエル先生の無神経な発言にじゃない。この先生は好奇心旺盛というか、空気を読めない人だというのは赴任初日から分かっている。
 No por los comentarios insensibles de Noel-sensei.
- Tiene una curiosidad insaciable, o quizás sería más preciso decir que tiene incapacidad para leer entre líneas.
+ Tiene una curiosidad insaciable, o quizá sería más preciso decir que es incapaz de leer entre líneas.
  Ha estado claro desde que comenzó aquí.
 }
 [sha:40dc4844a2885f18b03fc3cab80e0ce55dfae6ed]{
@@ -351,12 +351,12 @@ Pensaba que sería el primero en llegar, pero varios de mis compañeros ya está
 [sha:c5454b41ae9f1fb8759c49d21478aef0177f6b40]{
 -- Page 65, Offset 16738.
 -- 「早いな遠野。金曜、どうしたん？」
-"Que pronto llegas, Tohno. ¿Qué pasó el viernes?"
+"Que pronto llegas, Tohno. ¿Qué te pasó el viernes?"
 }
 [sha:4f044551b36009743a1d7a0a59b439a8d72fecec]{
 -- Page 65, Offset 16739.
 -- 「おはよ。金曜は体調不良。そっちは朝練終わり？」
-"Buenos días. El viernes estaba malo.
+"Buenos días. El viernes estaba enfermo.
  ¿Qué hay de ti? ¿Ya has terminado la práctica matutina?"
 }
 [sha:afeff3b7e7f4004366cb413e8c8f8b482e96c1cf]{
@@ -364,7 +364,7 @@ Pensaba que sería el primero en llegar, pero varios de mis compañeros ya está
 -- 「そーそー。放課後の部活動だけじゃなく、朝練まで自重しろって話になってきてさー。主将を交代したばっかだってのに、こんなんじゃ統率とれねぇよ。なぁ？」
 "No me hagas hablar.
  Tanto anoche como esta mañana, nos dijeron que recogieramos pronto y nos preocupáramos más por nuestra seguridad.
- Y acabamos de cambiar de capitán. ¿Cómo se supone que se va a encargar en estas condiciones?
+ Y acabamos de cambiar de capitán. ¿Cómo se va a encargar en estas condiciones?
  Es de locos, ¿verdad?"
 }
 [sha:bd38cf8ceafb39c2780de989d82b79fe05ade647]{
@@ -402,7 +402,7 @@ Mientras me siento, reflexiono sobre lo agradable que es que las clases de hoy v
 [sha:8b4984abf9f789b40758963de0b8b62215ae224c]{
 -- Page 69, Offset 16747.
 -- 背後から、朝の一時を台無しにする声をかけられた。
-Alguien a mi espalda me llama, arruinándome la mañana.
+Alguien me llama por detrás, arruinándome la mañana.
 }
 [sha:771b6389cc32bac7b8accfb22811f39695e8ca91]{
 -- Page 70, Offset 16748.
@@ -419,8 +419,8 @@ Gracias a eso, estoy seguro de que vas a estar aún más...
 [sha:fcb83f5bf731d217c4dfdd6d3e57abefba555958]{
 -- Page 70, Offset 16750. Glued. Mods: @x.
 -- なんだよ、<金土日|きんどーにち>と寝こんでたんじゃねーの？」
-¿Qué narices?
- Pensaba que te habías pasado todo el finde durmiendo algo.
+ ¿Qué narices?
+ Pensaba que te habías pasado todo el finde durmiendo o algo.
 }
 [sha:3f0ba8736934b0c1ce948ec95157ad4e44a2c1c1]{
 -- Page 71, Offset 16751.
@@ -430,7 +430,7 @@ Gracias a eso, estoy seguro de que vas a estar aún más...
 [sha:5550261e1ff388e22e32b9d96344441cebdb9a97]{
 -- Page 71, Offset 16752.
 -- 金曜日はたまたま気分が悪くなっただけで、家に帰ったら回復したよ。面倒なんで、そのまま学校は休んだけど」
-Me encontraba un poco mal el viernes, pero me empecé a sentir bien cuando llegué a casa.
+El viernes me encontraba un poco mal, pero me empecé a sentir bien cuando llegué a casa.
  No me apetecía volver a la escuela, así que me tomé el día libre."
 }
 [sha:f68f096fce6e45dbcef3a52868a206fc9b61e2d2]{
@@ -443,10 +443,10 @@ Me encontraba un poco mal el viernes, pero me empecé a sentir bien cuando llegu
 [sha:a4d6a69d38f648948d284c02164a34af27c8e3c6]{
 -- Page 72, Offset 16754. Glued. Mods: @x.
 -- あいかわらず<肝|きも>太いっつーか、順応性高いっつーか、ほんと住めば<都|みやこ>なのな遠野は。うん、メチャクチャ羨ましくねぇーーー！」
-// Aqui me tomo algo de libertad para que tenga más sentido
-Cómo siempre nada te molesta, eh.
+//Aqui me tomo algo de libertad para que tenga más sentido
+ Cómo siempre nada te molesta, eh.
  Mira al señor Meadaptoatodo, con su actitud de 'me siento en casa donde sea'.
- ¡No me das envidia!"
+ ¡No me das ni un poco de envidia!"
 }
 [sha:c62b12a3e47296348ce2629966188bafbb15f7c1]{
 -- Page 73, Offset 16755.
@@ -472,7 +472,7 @@ Además, no has visto lo grande que es esa casa... ¿Hmm? Arihiko, ¿has visto a
 -- Page 75, Offset 16759.
 -- 「うんにゃ、知らぬ。あんだけ高いところにあって、かつまわりは塀と林だろ？　敷地の中に入らねぇと見えねぇだろ。
 "Nope, ni un poco.
- Quiero decir, está en la cima de una colina, y está rodeada de paredes y árboles, ¿no?
+ Quiero decir, está en la cima de una colina, y está rodeada de paredes y árboles, ¿verdad?
  No hay forma de echar un vistazo.
 }
 [sha:9e4b0b55204909bb918674b77c04f24e31816f9f]{
@@ -510,7 +510,7 @@ Si pillan a los ladrones antes de que la policía aparezca,
 [sha:ff62c821640e490e50188de856bf7683da03f6d6]{
 -- Page 78, Offset 16765.
 -- 「いや、だからよ。そもそも外に出てきてねえんじゃねえの、その泥棒さん」
-"No, no me refiero a eso. ¿A donde van a parar luego los ladrones?"
+"No, no me refiero a eso. ¿A dónde van a parar luego los ladrones?"
 }
 [sha:47f32f5617b1cd30ab111db1c69f5ca6aa841b2f]{
 -- Page 78, Offset 16766.
@@ -566,7 +566,7 @@ Pero ey, no todo son malas noticias.
 -- Page 82, Offset 16774.
 -- 「鞍御橋のホテルって、あのドームホテル？　あー……そういえば、あっちでも火災があったんだっけ。北口の壊れっぷりがすげえんで忘れてたわ」
 "Un hotel en Kuramibashi... ¿te refieres al Hotel Dome?
- Ah sí, también tuvo un incendio, ¿no?
+ Ah sí, allí también hubo un incendio, ¿no?
  Lo de la estación fue tan loco que me olvidé por completo de ello."
 }
 [sha:9caf14b145678895cf9c4bcbc95dc1940b2d2be2]{
@@ -583,7 +583,7 @@ Aunque toda esa gente muriera quemada en ese incidente,
 [sha:5256222b9022630df26c64ec0c604a277cc0c25a]{
 -- Page 83, Offset 16777.
 -- 日々ニュースが更新される現代において、どれほど辛い出来事だろうと、次の凄惨なニュースに上書きされ、消費される。
-Vivimos en unos tiempos donde nos bombardean con noticias.
+Vivimos en una época donde nos bombardean con noticias. 
  Aunque oigamos algo terrible,
  la siguiente tragedia lo reemplaza rápidamente.
 }
@@ -597,7 +597,7 @@ Vivimos en unos tiempos donde nos bombardean con noticias.
 -- そういうおまえさんもどうなんだよ。遠野は中学からこっち、貧血持ちのくせに学校だけは休まなかったじゃねえか。まあ、登校した瞬間に帰るっていう離れ技は何度かあったけどな」
 De todas formas, ¿qué pasa contigo?
  A pesar de tu anemia, no creo que te haya visto tomarte un solo día libre desde secundaria.
- Aunque, si te he visto hacer el truco de irte a casa después de aparecer un par de veces."
+ Aunque, si te he visto hacer un par de veces el truco de irte a casa después de aparecer."
 }
 [sha:0719ae0088f7b80aeafc8ba0ecfc455d9a6fc928]{
 -- Page 84, Offset 16780.
@@ -618,11 +618,11 @@ De todas formas, ¿qué pasa contigo?
 [sha:a9b44efd6b781794892f9f414d142e16fd049c1f]{
 -- Page 86, Offset 16783.
 -- 「木曜からずっと欠席。今朝も来てねえ。あいつもずっと優等生してたからな、いいかげんテンパッてたのかもしれん。しかしフリテンだから上がれない、と」
-// No tengo ni idea de mahjong y como en la tl oficial lo cambian a una analogía de poker yo la cambio a una de mus
+//No tengo ni idea de mahjong y como en la tl oficial lo cambian a una analogía de poker yo la cambio a una de mus
 "Lleva ausente desde el jueves.
  Tampoco parece que haya venido hoy.
- Siempre ha sido una estudiante ejemplar, supongo que las cosas pintaban bien antes de envidar,
- pero ahora no se atreve a ver el órdago."
+ Siempre ha sido una estudiante ejemplar, supongo que las cosas pintaban bien antes de apostar,
+ pero ahora no se atreve a ver el all-in."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 86, Offset 16784.
@@ -632,7 +632,7 @@ De todas formas, ¿qué pasa contigo?
 [sha:fd1530cf7000ea25d7962e453a6657c0dc4065be]{
 -- Page 86, Offset 16785. Mods: @n.
 -- 有彦の喩え話は、なんというか独特だ
-Las analogías de Arihiko son... únicas, diría.
+Las analogías de Arihiko son... únicas, diría
 }
 [sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
 -- Page 86, Offset 16786. Glued.
@@ -652,7 +652,7 @@ Nos vemos, ¡dale al libro para recuperar lo del viernes!"
 [sha:29543953134ccb8141491cb5a6444d44e3e33284]{
 -- Page 88, Offset 16789.
 -- 有彦はいそいそと教室を出ていった。
-// Tl oficial
+//Tl oficial
 Arihiko deja la clase. Parece contento por algo.
 }
 [sha:2e67389995a0a9d14e566c1306f1515d0a4920c1]{

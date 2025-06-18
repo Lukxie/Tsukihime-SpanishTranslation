@@ -13,11 +13,12 @@ No hay ni un alma.
 -- ベンチに座って、時計の秒針を数えるように、アルクェイドが来るのを待つ。
 Me siento en un banco,
  contando los segundos del reloj mientras espero la llegada de Arcueid.
+ 
 }
 [sha:9fbc7118ac3a9a7ce40d7870ea410d0e56257eed]{
 -- Page 158, Offset 29951.
 -- 昨日のように夜の街を走り回る事も考えた。
-Había pensado en ir por la ciudad corriendo de un lado para otro como anoche.
+Había pensado en ir por la ciudad corriendo de un lado para otro igual que anoche.
 }
 [sha:51f093a64c58a34406ec74ac4e412607c86666e2]{
 -- Page 158, Offset 29952.
@@ -29,7 +30,7 @@ Pero estoy seguro de que será inútil.
 -- だって、あいつが本気で俺に会わないよう動けば、俺はどうあってもあいつを捕まえられない。
 Quiero decir,
  si de verdad me quiere evitar,
- tengo cero probabilidades de pillarla.
+ tengo cero probabilidades de encontrarla.
 }
 [sha:d1c2a67b8ffe90daff0db2a048c122c47ff4ba94]{
 -- Page 159, Offset 29954.
@@ -54,7 +55,6 @@ Esta noche aún no la hemos cumplido.
 [sha:a486bcb3f0305e649ff6fc6fb8d11bddbecbf643]{
 -- Page 160, Offset 29958.
 -- 俺にとってこの約束は反故にできないもので、
-// Tl oficial
 No volveré a faltar a mi palabra.
 }
 [sha:bd3139cbe5eee07d54924e4b4e72c49691e440a0]{
@@ -106,7 +106,7 @@ Quiere salir corriendo y empezar a buscarla de inmediato,
 [sha:89c903d07c1c01da2878978421e321595c9deeed]{
 -- Page 163, Offset 29968.
 -- なのに、心は落ち着いている。
-Contrasta bastante con mi mente, en calma.
+Esto contrasta bastante con mi mente, que está en calma.
 }
 [sha:735896a3b898b7f37cfb7137cbbe7b7fab7ab4f7]{
 -- Page 163, Offset 29969.
@@ -133,7 +133,7 @@ no sentiré dolor alguno.
 [sha:ced3fa1d42582b23cd0e4fb697a1cde6c2773b5f]{
 -- Page 164, Offset 29973.
 -- だからこんな時間、幸福で息がつまる。
-Por eso ahora mismo estoy tan feliz que siento que me asfixio.
+Por eso, ahora mismo estoy tan feliz que siento que me asfixio.
 }
 [sha:6b8df25e06ba52150e2c26e3ea167cb8161cc5cf]{
 -- Page 165, Offset 29974.
@@ -158,12 +158,12 @@ Nunca volveré a pasar una noche junto a Arcueid, ni a sentir esa felicidad.
 [sha:08d85bb52f2faab63b1a0a9d120f7670268e7945]{
 -- Page 166, Offset 29978.
 -- ―――と、いうかだな。
-―――O al menos me da la sensación.
+―――O al menos me da esa sensación.
 }
-[sha:8b99d41e162a8989b33dc4f7f1fd488b1f0248d9]{
+[offset:29979]{
 -- Page 167, Offset 29979.
 -- 「………はあ」
-"%{i}Haaaa%{/i}..."
+"%{i}Haaa%{/i}..."
 }
 [sha:1f6a6de4b9f3b474bf3356b8c659d980c6b731b6]{
 -- Page 167, Offset 29980.
@@ -175,7 +175,7 @@ Se me escapa un suspiro patético.
 -- 可笑しくてこぼれたのか、落胆からこぼしたのか、自分でも分からない。
 ¿Suspiro de lo ridículo que es?
  ¿O por que estoy decepcionado?
- Ni yo mismo se.
+ Ni yo mismo sé.
 }
 [sha:77c8fb87bfa9cf46209f3fe87a6e850428e7bf3e]{
 -- Page 168, Offset 29982.
@@ -185,8 +185,8 @@ Bueno, no es que importe.
 [sha:f44d272912a88ebf9a27d767c663829cdea0b186]{
 -- Page 168, Offset 29983.
 -- 休憩所の陰に白い影がチラチラと見えている。
-Entre las sombras alrededor,
- llevo un rato vislumbrando atisbos de una figura blanca.
+Llevo un rato vislumbrando atisbos de una figura blanca
+ entre las sombras de alrededor.
 }
 [sha:9044324c9a109c92698975f9498fe6a4c0b81e48]{
 -- Page 168, Offset 29984.
@@ -197,7 +197,7 @@ Parece que la persona en cuestión intenta ocultarse,
 [sha:d6397a19c94bd024b0d444b51e84cf8500a0c39b]{
 -- Page 169, Offset 29985.
 -- 「おい。もう３時だぞ。いつまで待たせるんだ、ばか」
-"Oye, ya son las tres de la mañana. ¿Cuanto tiempo me vas a hacer esperar? Idiota."
+"Oye, ya son las tres de la mañana. ¿Cuánto tiempo me vas a hacer esperar? Idiota."
 }
 [sha:12ed0fa1413d825489b3f28a10bea6b4711893a4]{
 -- Page 169, Offset 29986.
@@ -239,7 +239,7 @@ Arcueid no dice nada.
 [sha:3e30eca919eea7edaa74fa43b9cab2db56d9d3a4]{
 -- Page 171, Offset 29993.
 -- 目を伏せたまま、ベンチに近寄ろうとしない。
-Tampoco se acerca a mi,
+Tampoco se acerca a mí,
  se queda donde está con los ojos mirando al suelo.
 }
 [sha:15d4abbe6a20cd3ee7b8a25e1e1be69ff95cea8f]{
@@ -260,17 +260,17 @@ La llamo, pero ella ni siquiera me mira, mucho menos me responde.
 [sha:c28a7220e41af40feb4caeb83ee1915539ea7d90]{
 -- Page 172, Offset 29997.
 -- 続く言葉が頭に浮かばない。
-No se ni que decir.
+No sé ni que decir.
 }
 [sha:b1253b0a7ed62464897b6884207d2881866f2111]{
 -- Page 172, Offset 29998.
 -- さっきまで思い描いていた言葉は、あの顔を見た瞬間にすべて消え去った。
-Las palabras que llevo pensando hasta ahora se desvanecen al verla.
+Al verla las palabras que llevo pensando hasta ahora se desvanecen.
 }
 [sha:f790eb478d6e801ad00de4abd8747a3768776eb4]{
 -- Page 173, Offset 29999.
 -- ……くそ。なにを言えばあいつをまた笑顔に戻せるのか、俺には分からない。
-Maldita sea. No se que decir para que vuelva a sonreir.
+Maldita sea. No sé que decir para que vuelva a sonreir.
 }
 [sha:27e096f0abfbafe250f6bc73885dd8caf8b7aa53]{
 -- Page 173, Offset 30000.
@@ -327,7 +327,7 @@ Su voz tiembla un poco al hablar,
 [sha:d5b7b2eef981f95939aa7d120006e0b631fb80b1]{
 -- Page 177, Offset 30010.
 -- 「……そりゃあ帰らないよ。おまえはもう会わないとか言ってたけど、それとこれとは別問題だろ。
-"Sí, no me voy. Dijiste que no deberíamos volver a vernos, pero eso no tiene nada que ver con esto.
+"Sí, no me voy a ir. Dijiste que no deberíamos volver a vernos, pero eso no tiene nada que ver con esto.
 }
 [sha:47c444e2ffea2e06e0a59b36272ec7cb9f70afbc]{
 -- Page 177, Offset 30011.
@@ -398,12 +398,12 @@ Ni siquiera merezco tu ayuda.
 [sha:deda12880fd346a61e12d3a34ebf2a6ed9d4ac4a]{
 -- Page 182, Offset 30024.
 -- 「……そんな事にも気づかないままで、わたしは、あと少しであなたを台無しにしてしまうところだった。
-"Lo supe desde un principio, pero lo hice igualmente, y por ello estuve a %{i}esto%{/i} de arruinarte.
+"Lo supe desde un principio, pero lo hice igualmente, y por ello estuve a %{i}esto%{/i} de arruinarte. 
 }
-[sha:8bff0d75936c49222070ad8695c2e6b6d88a1a33]{
+[offset:30025]{
 -- Page 182, Offset 30025.
 -- だから―――」
-Es por eso que―――"
+Así que―――"
 }
 [sha:a5ed154265c1bf7d1b61b33f23bcacedfd991f59]{
 -- Page 182, Offset 30026.
@@ -438,7 +438,7 @@ Cuando hice esa promesa sabía en lo que me metía.
 [sha:c2363fd88e52a0d7c1383ac368961e1ab0717646]{
 -- Page 183, Offset 30032.
 -- こんなの―――俺には、何一つだってよくはない……！
-Pero me niego――¡me niego a acabar así!
+Pero me niego――¡me niego a que se acabe así!
 }
 [sha:0b4e32574a95fbaf56e63e3ac6164ae2a63c6549]{
 -- Page 184, Offset 30033.
@@ -490,7 +490,7 @@ Ahora es duro, pero en unos días habrás vuelto a la normalidad, ¿verdad?
 [sha:2d6463fdc6aa4e7b0857cf7351e307e2b5263599]{
 -- Page 186, Offset 30042.
 -- なら気にする必要はない。
-En realidad no tienes de qué preocuparte.
+Entonces, no tienes de qué preocuparte.
 }
 [sha:76be4af800aa8bf80162af74eb364f2bba5717c0]{
 -- Page 186, Offset 30043.
@@ -554,7 +554,7 @@ A pesar de que mi único propósito es matar vampiros, acabé haciendo todo tipo
 [sha:0fd85916e8f99d06a97cb579e83b77d5ed5ca153]{
 -- Page 191, Offset 30054.
 -- 「……何も知らなければ、何かを欲しいだなんて思うこともなかった。志貴なんかに頼らず、自分だけで敵を追っていれば良かった。
-"Si no hubiera permanecido en la ignorancia, nunca habría deseado nada.
+"Si hubiera permanecido en la ignorancia, nunca habría deseado nada.
  Debería haber ido tras mi enemigo por mi cuenta, sin depender de ti.
 }
 [sha:f96bbeefbb24c7566cbbdb3121cf6a2d1d3320d0]{
@@ -570,7 +570,7 @@ Si hubiera hecho eso――podría haberlo solucionado sola."
 [sha:6f0dee89f6871819b5e58612034f77597e996913]{
 -- Page 192, Offset 30057.
 -- ……ああ、ダメだ。やっぱり俺は、こいつ相手になると最低の人間になってしまう。
-Ah, esto no es bueno. Ir contra ella saca lo peor de mi.
+Ah, esto no es bueno. Ir contra ella saca lo peor de mí.
 }
 [sha:c7dedc9fe4b293037216aa1d103b4826457661fa]{
 -- Page 192, Offset 30058.
@@ -618,7 +618,7 @@ Tirándome de los pelos, me levanto del banco y le pego un berrido a Arcueid.
 -- 「ああ、気にくわなければ惑星級でも銀河級でも、なんでも付け足してやる！　ふざけやがって、何が自分だけで敵を追ってれば良かった、だ！
 "Así es. Y si no te vale puedo añadirle 'de renombre mundial' o 'de escala galáctica'.
  ¡Lo que sea que pegue con 'la más idiota de-'!
- ¿A qué narices te refieres con 'solucionarlo tu sola'?
+ ¿A qué narices te refieres con 'solucionarlo tú sola'?
 }
 [sha:24305084052cdab749266a6cf916a928791f909f]{
 -- Page 196, Offset 30067.
@@ -651,13 +651,11 @@ Así que... por favor, por tu propio bien―――
 [sha:e4fb434df1852fa653fed2783b292de3e25d927b]{
 -- Page 198, Offset 30072.
 -- ……やっと。
-// tl oficial
 No cuando...
 }
 [sha:bda634eea39a2798ec5553481c2413ad3d91c62a]{
 -- Page 198, Offset 30073.
 -- やっと、生きている事が楽しいって、思えたんなら。
-// tl oficial. lloran2
 finalmente has encontrado algo de felicidad en tu vida.
 }
 [sha:0cc09d43fb790914dfbcd0315a83f2b8cc7cc722]{
@@ -673,7 +671,7 @@ No quiero que te desprendas de ella como si nada.
 [sha:713d4c06536b66f0bc11b7d002fc354ba4fb68f1]{
 -- Page 199, Offset 30076. Glued.
 -- あなた、泣いてるの……？」
-estas... llorando...?"
+¿estas... llorando...?"
 }
 [sha:36bdeeecbed6c0119c8ddc0df4bcbc75a5c25e1c]{
 -- Page 199, Offset 30077.
@@ -695,7 +693,7 @@ Arcueid estaba diciendo tales sin sentidos que mis emociones se descontrolaron,
 [sha:8b93e18c9a69db5be38bb1133f3146c9c43bcf46]{
 -- Page 201, Offset 30080.
 -- 「ああもう、とにかく吸血鬼探しは続けるからなっ！
-"Ah, ¡olvidalo! ¡Vamos a buscar vampiros de una vez!
+"Ah, ¡olvídalo! ¡Vamos a buscar vampiros de una vez!
 }
 [sha:1200d4a92823b9653f754a79313600a2044950d4]{
 -- Page 201, Offset 30081.
@@ -732,12 +730,12 @@ pero la verdad es, que no."
 [sha:94a88bd76a35f224716ee686cf7d7620bc12f311]{
 -- Page 204, Offset 30087.
 -- 「……一瞬だけ止まったのは、志貴がわたしを怖がったから。
-"La única razón por la que paré momentáneamente eres tu, Shiki, que estabas asustado de mi...
+"La única razón por la que paré momentáneamente eres tú, Shiki, que estabas asustado de mí...
 }
 [sha:9871aaee741535639273bdd243e6e70fe6acc74c]{
 -- Page 204, Offset 30088.
 -- わたし、今まで何人もの人間に怖がられてきた。だから自分に向けられる嫌悪の念なんて、もう何も感じなくなってた」
-Que un humano me tenga miedo no es algo nuevo para mi.
+Que un humano me tenga miedo no es algo nuevo.
  Por eso ya casi ni me doy cuenta del desdén de otros."
 }
 [sha:14effb25709d2c372e93140016444ffc3d41d1f9]{
@@ -878,11 +876,9 @@ Pero no creo que sea algo malo.
 [sha:05fdb01dfd690cb30f6cdeb82eaf1b19014b4741]{
 -- Page 212, Offset 30115.
 -- だって、いつまでもひとりきりは寂しいだろ」
-// Tl oficial.
-// Esto es mitica frase de mueres cuando dejas de vivir: es solitario estar solo.
 Quiero decir, es mejor que estar solo ¿no?"
 }
-[sha:7ef6dc156f74976249afea1d52ca7a5bb0c79955]{
+[offset:30116]{
 -- Page 212, Offset 30116.
 -- アルクェイドは答えない。
 Arcueid no responde.
@@ -930,12 +926,11 @@ Me acerco a Arcueid.
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 215, Offset 30125.
 -- 「あ――――」
-"Ah―――"
+-- TRANSLATION HERE
 }
 [sha:2cea3c5a9b063e2cd2075067516b5410149231ca]{
 -- Page 215, Offset 30126.
 -- 逃げようとする背中を、離れていく肩に手を置いて、強引に振り向かせる。
-// Tl oficial
 Parecía que iba a huir en cualquier momento, por lo que pongo mi mano en su hombro y la doy la vuelta antes de que tenga oportunidad de ello.
 }
 [sha:c65326c478c0eb724cb410bbd7a8297912748433]{
@@ -962,7 +957,7 @@ La realidad es que nunca tuve motivaciones tan nobles como proteger la ciudad en
 [sha:fa82934506f2cc6eee1f06d8e0b1c3d09cd64d92]{
 -- Page 217, Offset 30131.
 -- 口ではそう言ってごまかして、自分自身にも言い聞かせていた。
-Puede que mintiera al decir que si,
+Puede que mintiera al decir que sí,
  pero estaba intentando convencerme tanto a mi mismo como al resto.
 }
 [sha:828f24560f9b664e5b3c74067cea0d8ae6f7b7e8]{
@@ -978,13 +973,12 @@ Yo simplemente....
 [sha:35ead962c2bfd42840acb07ecf5d4068641a86db]{
 -- Page 218, Offset 30134.
 -- 「単純に、おまえが好きだから。おまえの力になりたかったから、協力するって言ったんだ。
-// Mix de tls
 "En pocas palabras: porque te quiero. Quise convertirme en tu fuerza, y por eso accedí a ayudarte.
 }
 [sha:4f3ae4ccdf77dd1e9db43047b9aed4be7f12aca5]{
 -- Page 218, Offset 30135.
 -- それをいまさら―――無かった事になんて、できない」
-Y ya en este punto ――no puedo pretender que no."
+Y llegados a este punto ――no puedo pretender que no."
 }
 [sha:cb336c7b395170c1f9525bdf6090bcb05d82ef55]{
 -- Page 218, Offset 30136.
@@ -1071,30 +1065,29 @@ Puedo sentir las pulsaciones de Arcueid.
 -- Page 225, Offset 30152.
 -- 「……ちがうよ、志貴。それは……ただこの瞬間だけ、わたしに、気が触れてる、だけだもの……」
 "Te equivocas, Shiki.
- Esos sentimientos por mi solo son...
+ Esos sentimientos por mí solo son...
  nada más que una obsesión temporal..."
 }
 [sha:59cbc4de3cca2cf877582d10a5a58aae49beca72]{
 -- Page 225, Offset 30153.
 -- 「―――それでもいい。
-// Tl oficial
 "¿Y qué?
 }
 [sha:33be29b32b1f0b1b804f8c5825f53399bfb39148]{
 -- Page 225, Offset 30154.
 -- いまアルクェイドを愛してるなら、それが遠野志貴の真実だ。そのあとの事なんて、知らない。
-Querer a Arcueid en este momento es la verdad de Tohno Shiki.
+Querer a Arcueid es la verdad de Tohno Shiki en este momento.
  Lo que venga después me da igual.
 }
 [sha:fb153b244584b33196ef1bdc4693d0562d92363a]{
 -- Page 225, Offset 30155.
 -- それとも―――俺のこと、嫌いか」
-O es que... ¿no te gusto?"
+O acaso... ¿me odias?"
 }
 [sha:f8ccf3036a2aac24de4c072bdebcd140b48992ba]{
 -- Page 226, Offset 30156.
 -- とく、ん。
-%{i}Badu――m%{/i}.
+%{i}Bad――um%{/i}.
 }
 [sha:1a8e637512f9e0b296fd6028fa130bd26fda1819]{
 -- Page 226, Offset 30157.
@@ -1139,7 +1132,7 @@ El abrazo dura un momento.
 [sha:86ff41c86bc2e405ba29918fe45a56f4de36f775]{
 -- Page 228, Offset 30165.
 -- どちらが離れたのか、自分でもよくわからない。
-No estoy seguro de quien lo terminó.
+No estoy seguro de quién lo terminó.
 }
 [sha:3dc4d5b663f7dd5e5594caafc00bb782aab701a3]{
 -- Page 228, Offset 30166.
@@ -1175,12 +1168,12 @@ Tengo la certeza de que jamás volveremos a separarnos.
 [sha:0e54e32eba5966dee0935d929f6c37a722064f70]{
 -- Page 231, Offset 30172.
 -- 「……よかった。やっとアルクェイドを捕まえた。
-"Me alegro tanto, por fin te pillo, Arcueid.
+"Me alegro tanto, por fin te atrapo, Arcueid.
 }
 [sha:fc4c01cb7e9d4570a0a7e60fb30483c98edfca89]{
 -- Page 231, Offset 30173.
 -- 正直に言うと、ずっと怖かった。俺はあの時、おまえに酷いことをした。ここで約束を守ると信じながら、もう会えないとも、思ってたんだ」
-Estaba aterrorizado si digo la verdad.
+Si digo la verdad, estaba aterrorizado.
  Te hice algo innombrable.
  Pensé que mantendrías tu palabra,
  pero me preocupaba que quizá no volviera a verte."
@@ -1204,7 +1197,7 @@ Levanta la cabeza como si fuera a decir algo,
 [sha:fc23751c13bd08b6d36b67a9000cdb4a35873ce5]{
 -- Page 233, Offset 30177.
 -- 「……だめだよ、志貴。
-"Eso no está bien,  Shiki.
+"Eso no está bien, Shiki.
 }
 [sha:02a97079075b0791d5861af4a07d4aa0cccb8a0e]{
 -- Page 233, Offset 30178.
@@ -1229,7 +1222,7 @@ Su voz es frágil.
 [sha:c56b0317a54c4c291ac7c15f4062e28015dbde85]{
 -- Page 233, Offset 30182.
 -- アルクェイドは俺を気遣って、路地裏での事は触れないようにしてくれていたのに。
-Arcueid estaba intentando mencionar lo que pasó en ese callejón por consideración hacia mi.
+Arcueid estaba intentando no mencionar lo que pasó en ese callejón por consideración hacia mí.
 }
 [sha:07e2eca1aa98bd476267c21ee7c52961061a5742]{
 -- Page 234, Offset 30183.
@@ -1240,7 +1233,7 @@ Arcueid estaba intentando mencionar lo que pasó en ese callejón por considerac
 [sha:53a3954ceafe149cfbb7261753af194fbfde1912]{
 -- Page 234, Offset 30184.
 -- 「……そうじゃなくて。責任があるとしたら、それはわたしの方。……だから忘れてって言ったのに」
-"No es eso... si hay alguien al que culpar, es a mi. Por eso te dije que lo olvidaras."
+"No es eso... si hay alguien al que culpar, es a mí. Por eso te dije que lo olvidaras."
 }
 [sha:4e75955370d79037ef02a8c3afe16824a0f2a1cc]{
 -- Page 235, Offset 30185.
@@ -1279,7 +1272,7 @@ En cómo me iba a disculpar cuando te viese, lo que iba a decir.
 [sha:e35d51c5b63ebee81255ec8545424cea99f12525]{
 -- Page 237, Offset 30191.
 -- なのに、おまえに謝りたいと思いながら、俺はあの時の事が頭から離れなかった。もう一度、ううん、もっともっとアルクェイドに触れたいって、馬鹿みたいに思ってた」
-Y aún cuando pensaba en cómo disculparme,
+Y aún así, incluso cuando pensaba en cómo disculparme,
  no pude sacarme de la cabeza lo que pasó.
  Empecé a pensar en lo mucho que quería tocarte una vez más――no, una y otra vez."
 }
@@ -1354,10 +1347,10 @@ Tímidamente, como estuviera confesando una broma―――
 -- 俺の目を見詰めながら、そう言った。
 Me mira directamente a los ojos, y dice esas palabras.
 }
-[sha:93134910fba6fec6a338c7e1057708a8629c88ab]{
+[offset:30206]{
 -- Page 243, Offset 30206.
 -- 「きゃっ！？」
-"¡¿%{i}Eep%{/i}?!"
+"¡¿%{i}Kya%{/i}?!"
 }
 [sha:167a907281d2798a2f567a5d8ca8a4c7f7715016]{
 -- Page 243, Offset 30207.
@@ -1367,7 +1360,6 @@ Mierda.
 [sha:6d4a8d3c9e834e9bc1898dc7dd1a5024658eead3]{
 -- Page 243, Offset 30208.
 -- あまりの破壊力に、勢い抱きしめてしまった。
-// En ingles quizá no pero en español creo que se puede transladar a esto
 Ha soltado tal bomba que no he podido evitar abrazarla.
 }
 [sha:2c6cfa1493375af72107a2263c1e8cd3092a627c]{
@@ -1403,7 +1395,7 @@ Escucho una risita escapando de sus labios.
 [sha:42ce5ec0c551ba7e21a70c46e907c149ca546ab8]{
 -- Page 244, Offset 30215.
 -- アルクェイドがその重さを俺に預けながら、もう一度、両腕を背中にまわしてくる。
-Apoyándose en mi, Arcueid envuelve sus brazos de nuevo en mi espalda.
+Apoyándose en mí, Arcueid envuelve sus brazos de nuevo en mi espalda.
 }
 [sha:bb84a25f2dbb462c569b871c50a83fc4d8eaf650]{
 -- Page 245, Offset 30216.
@@ -1440,12 +1432,12 @@ Ah. Lo siento, soy consciente.
 [sha:44183b3349941c6c23e84135302ab409878f747a]{
 -- Page 247, Offset 30222.
 -- 「……でも、可笑しいね。殺した男と殺された女が、こうして抱き合ってるなんて」
-"Pero...¿es gracioso no? El chico asesino y la mujer víctima abrazándose así."
+"Pero... ¿es gracioso no? El chico asesino y la mujer víctima abrazándose así."
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:30223]{
 -- Page 247, Offset 30223.
 -- 「……？」
-¿Eh...?
+"¿Eh...?"
 }
 [sha:620bfdbc74731ac7afbc3f1cec042c780fc5a31e]{
 -- Page 247, Offset 30224.
@@ -1472,12 +1464,12 @@ Mientras lo susurra, su cuerpo comienza a temblar.
 -- いろんな感情が溢れてきて、体がぽわっとして、頬が自分のものじゃないみたい。自分がいまどんな顔をしているか分からないくらいに。
 Ahora mismo mis emociones están rebosando,
  mi cuerpo está tan inundado por el alivio que he perdido el control de mis mejillas.
- Ni sé qué cara estoy poniendo ahora.
+ No sé ni qué cara estoy poniendo ahora mismo.
 }
 [sha:fe065e257846fbfd957c2bfa4586f53fbfc6fabb]{
 -- Page 248, Offset 30229.
 -- ―――ね。志貴なら、わたしがどんな顔をしているか分かるかな」
-―――Ey, Shiki... ¿puedes decirme qué cara tengo ahora mismo?"
+―――Oye, Shiki... ¿puedes decirme qué cara tengo ahora mismo?"
 }
 [sha:10a82dbd8096a0b0316a3abe36c471bbb480a124]{
 -- Page 249, Offset 30230.
@@ -1557,7 +1549,7 @@ Queda solo una hora hasta el amanecer.
 [sha:6eb6de5624062ac1ea9b0e5a33a9f8605fc20273]{
 -- Page 252, Offset 30245.
 -- 夜は明ける。アルクェイドの時間が終わる。
-La noche termina. Y con ella nuestro tiempo también.
+La noche termina. Y con ella también nuestro tiempo.
 }
 [sha:e2fdfd29d208e77ad7e4099608c6fd205438d749]{
 -- Page 252, Offset 30246.

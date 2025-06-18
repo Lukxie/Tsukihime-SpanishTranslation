@@ -22,7 +22,7 @@ La intento preguntar lo que hace.
 [sha:4c93a1c2328fb85218bc2449efc4bd2f438e3342]{
 -- Page 295, Offset 30373.
 -- 「あれ？　志貴ったら起きてたの？」
-"¿Eh? Shiki, ¿estas despierto?"
+"¿Eh? Shiki, ¿estás despierto?"
 }
 [sha:9022ea7a06984e1ba9903f63795e0db21163b3c7]{
 -- Page 295, Offset 30374.
@@ -32,7 +32,7 @@ Sí, pero estoy un poco adormilado.
 [sha:828a78d32516affc264866180e069edcb1f292ca]{
 -- Page 295, Offset 30375.
 -- アルクェイドのおかげで、まだ体が言うコトをきかないのだ。
-Gracias a ti, aun no puedo mover el cuerpo como quiero.
+Gracias a ti, aún no puedo mover el cuerpo como quiero.
 }
 [sha:1706e92b5d03a8c305be5ce46d1f82a45068c12f]{
 -- Page 296, Offset 30376.
@@ -63,7 +63,7 @@ Me parece raro que pueda saber lo que hace incluso con los ojos cerrados,
 [sha:07477f7fedce398f19724691b9ec0fe9c3488ea6]{
 -- Page 297, Offset 30381.
 -- アルクェイドも疲れているんだから、夜になるまで眠ってればいいのに。
-Tu también estás cansada, duerme hasta la noche.
+Tú también estás cansada, duerme hasta la noche.
 }
 [sha:143510d8cc48bedd6a1810d56c2b5c6ac3c84eb9]{
 -- Page 298, Offset 30382.
@@ -93,7 +93,7 @@ Ya que, la da miedo beber sangre.
 [sha:004229b1732ca2d2922dde21cbac3326593bedeb]{
 -- Page 299, Offset 30387.
 -- 生きる為に他の生命を奪う事は、自然界じゃ当然の摂理だと言ったでしょう。だから―――
-Recuerdas que hablamos de que, tomar la vida de otra criatura para sobrevivir, es el orden natural de las cosas.
+Recuerdas que hablamos de que, tomar la vida de otra criatura para sobrevivir es el orden natural de las cosas.
  Por eso―――
 }
 [sha:892e2902021e16fbb7ec17535ee832ace3fe8c80]{
@@ -112,10 +112,10 @@ Para.
 No hay forma de que eso llegue a ocurrir, y no soy fan de los y-sis.
  Ya te lo he dicho.
 }
-[sha:1a8787d67102ddd4ef9aa243721e209691ab649e]{
+[offset:30391]{
 -- Page 300, Offset 30391.
 -- 「そう？　わたしはイフって好きよ。
-"¿De veras? A mi me gustan bastante.
+"¿En serio? A mi me gustan.
 }
 [sha:77d848f993d40f9f41dd4724a5fb0efbd911fb09]{
 -- Page 300, Offset 30392.
@@ -136,7 +136,7 @@ Ahora que lo pienso, no es la primera vez que sacas el tema.
 [sha:535e632b18cb6b6a5a0438740d7b067aa20f8f26]{
 -- Page 301, Offset 30395.
 -- 「うん。だから……志貴がもっとひどいヤツだったら、わたしはどうしてたかなって」
-"Sí. Por eso――me pregunto qué habría hecho si tu no hubieras sido tan amable."
+"Sí. Por eso――me pregunto qué habría hecho si tú no hubieras sido tan amable."
 }
 [sha:78ad5d8dad5d7015bcf7cd5daa50a4d27419efcc]{
 -- Page 301, Offset 30396.
@@ -181,7 +181,7 @@ Un click señala el cierre de la puerta.
 [sha:e8f0db55c6f65b91500fb402bc77721001a09894]{
 -- Page 303, Offset 30404.
 -- 眠ったまま。
-Mientras dormía.
+Mientras duermo.
 }
 [sha:7f6c339c4497c1bbe4523c8e5dac252f4f654db8]{
 -- Page 303, Offset 30405.
@@ -339,12 +339,11 @@ Un simple trozo de papel en la mesa.
 [sha:27aae7a862b4597505699f979849d16447ee5d29]{
 -- Page 313, Offset 30435.
 -- ……何の冗談か、どこの国の言葉なのか。
-¿Esto es algún tipo de broma? ¿Que idioma es este?
+¿Esto es algún tipo de broma? ¿Qué idioma es este?
 }
 [sha:98ce82191f016cbab8df6b4c347dd44c2bfc6183]{
 -- Page 313, Offset 30436.
 -- 紙きれには、ただ、ばいばい、としか、書かれていなかった。
-// Creo que lo voy a dejar como bai bai, se sobreentiende diría yo
 En el trozo de papel hay escrita una sola palabra: %{i}baibai%{/i}.
 }
 [sha:02d2202e6fe91df56f538f2a2dff17f5000f8792]{
@@ -403,7 +402,7 @@ Por qué... por qué vuelves a la soledad―――
 -- 力のかぎり叫んで、紙きれを握りつぶす。
 Gritando a pleno pulmón, aplasto el trozo de papel.
 }
-[sha:8e16d95f9398ccb73907bd928fdac287bdefda21]{
+[offset:30448]{
 -- Page 317, Offset 30448.
 -- そのあと。
 Y entonces―――
@@ -426,7 +425,7 @@ Lo sé.
 [sha:5c1b7bba08cfefdbd0383bbe0e868bd99178c969]{
 -- Page 318, Offset 30452.
 -- もう絶対にあいつは俺の前に現れないって、わかってる。
-Se muy bien que no volverá a mostrarse frente a mi.
+Sé muy bien que no volverá a mostrarse frente a mí.
 }
 [sha:85bf3ae4e881a2c89186784fb5aa77f98ce5d427]{
 -- Page 319, Offset 30453.

@@ -236,7 +236,7 @@
 [sha:5fe753f7686c538ddedce47fe8c16752e9b7fbb1]{
 -- Page 157, Offset 37479.
 -- いや、そもそも―――
-No, en realidad―――
+-- TRANSLATION HERE
 }
 [sha:c180c6fa2777380bf0a72108cd790fd4d5fec0ae]{
 -- Page 158, Offset 37480.
@@ -286,7 +286,7 @@ No, en realidad―――
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 162, Offset 37489.
 -- 「……？」
-¿Eh...?
+-- TRANSLATION HERE
 }
 [sha:920b38b5a6d760447501ca5073ced98d193701aa]{
 -- Page 162, Offset 37490.
@@ -413,7 +413,7 @@ No, en realidad―――
 -- 大げさに振り下ろされる大熊猫の爪を、後ろに跳ぶことでやり過ごす。
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:37515]{
 -- Page 171, Offset 37515.
 -- 「―――え？」
 "―――¿Huh?"
@@ -436,7 +436,7 @@ No, en realidad―――
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 172, Offset 37519.
 -- 「！」
-"¡%{i}Agh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:59caa393eb12c30dd81e8f94719a6fed5bac8e5b]{
 -- Page 173, Offset 37520.
@@ -491,7 +491,7 @@ No, en realidad―――
 [sha:b6d1c0118ed4653407c45e0755c77909eac068d0]{
 -- Page 176, Offset 37530.
 -- 「うわあ！？」
-"%{i}Guaaah%{/i}?!"
+-- TRANSLATION HERE
 }
 [sha:a19875d867ab5bcfbc401fd0996497adf690fdc5]{
 -- Page 176, Offset 37531.
@@ -626,7 +626,7 @@ No, en realidad―――
 [sha:fa08b1044900b8268cd279df0730b708430394f2]{
 -- Page 185, Offset 37557.
 -- 「ぐっ――――！」
-"%{i}Ghh%{/i}―――!"
+-- TRANSLATION HERE
 }
 [sha:de5a34d6e4e843ee6b8533a937c44a635c2053b0]{
 -- Page 185, Offset 37558.

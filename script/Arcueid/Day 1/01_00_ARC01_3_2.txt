@@ -49,13 +49,13 @@ Cada vez hay menos casas alrededor.
 [sha:68477b9638d067228810beb78f3a17625571065f]{
 -- Page 214, Offset 1721.
 -- ―――鼻孔をくすぐる緑の匂い。
-―――El olor de la vegetación cosquillea mi nariz.
+―――El olor a vegetación cosquillea mi nariz.
 }
 [sha:6c479d7ec0367dfd5ea2e72429b7df0e7f8ae3dd]{
 -- Page 214, Offset 1722.
 -- 都市のただ中にありながら、近代化を拒絶する空気を感じる。
 Aunque estamos en medio de una ciudad,
- la atmósfera aquí da la sensación de rechazo a la modernidad.
+ aquí la atmósfera da una sensación de rechazo a la modernidad.
 }
 [sha:5297b91f2921b2b7137d55579df9569da12a6e21]{
 -- Page 215, Offset 1723.
@@ -65,7 +65,7 @@ Desde este punto casi todo el terreno pertenece a la familia Tohno.
 [sha:dfdfc65b4d809d90ddb10206cd4acb80e05e12e1]{
 -- Page 215, Offset 1724.
 -- 遠野志貴が10歳まで暮らしていた屋敷。
-La mansión en la que Tohno Shiki vivió hasta los diez...
+La mansión en la que vivió Tohno Shiki hasta los diez...
 }
 [sha:3b8f1d6af78f5c61be3190a1acb9276d97c397e2]{
 -- Page 215, Offset 1725.
@@ -106,8 +106,8 @@ Ser el heredero de la familia Tohno significa ser sometido a una estricta educac
 [sha:215361868bc07e96e727ca07a4832bfc6d778add]{
 -- Page 218, Offset 1732.
 -- それがイヤで自由に過ごしていた俺は、<槙久|ちちおや>から何度小言を言われたか分からない。
-Lo odiaba, así que siempre me escapaba y me iba a jugar.
- No me acuerdo de todas las veces mi padre me echó la bronca por ello.
+Lo odiaba, por lo que siempre me escapaba y me iba a jugar.
+ No me acuerdo de todas las veces que mi padre me echó la bronca por ello.
 }
 [sha:e18732387b026f7773d50a2f88ce86cf69238512]{
 -- Page 218, Offset 1733.
@@ -117,12 +117,12 @@ Entonces, me ví involucrado en el accidente que me dejó con un defecto físico
 [sha:bd4b56e65eae6611eb750efe9177bc37c5e80fd3]{
 -- Page 219, Offset 1734.
 -- 曰く、“たとえ長男であろうと、いつ死ぬか分からない軟弱者を後継者にはできない”とのこと。
-Dijo, 'Aunque seas el hijo mayor, un debilucho como tú que podría morirse en cualquier momento no puede ser mi sucesor.'
+Dijo, 'Aunque seas el hijo mayor, un debilucho que podría morirse en cualquier momento como tú no puede ser mi sucesor.'
 }
 [sha:6dd64022e8f84f5918127e8226560513594553dc]{
 -- Page 219, Offset 1735.
 -- 俺は<槙久|ちちおや>の予想を裏切ってなんとか回復したけれど、その頃には妹の秋葉が跡取りに決められていた。
-Desafíe las expectativas y conseguí recuperarme, pero para entonces, mi hermana pequeña Akiha había sido elegida como sucesora.
+Desafié las expectativas y conseguí recuperarme, pero para entonces, mi hermana pequeña Akiha había sido elegida como sucesora.
 }
 [sha:48388a872542852f3a1e2fccd3eb8c08f0c29821]{
 -- Page 220, Offset 1736.

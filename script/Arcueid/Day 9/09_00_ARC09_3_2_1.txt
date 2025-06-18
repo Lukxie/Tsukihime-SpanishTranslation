@@ -48,7 +48,7 @@ Miro alrededor del pasillo para confirmar que nadie me ha visto
 [sha:3d2b1f3c2ea43a7cbfc21e38e8c6fb396f381ec5]{
 -- Page 156, Offset 21730.
 -- 「なんだこの部屋……暗すぎないか？」
-"Que ocurre en esta habitación... ¿Por qué está tan oscura?"
+"Qué ocurre en esta habitación... ¿Por qué está tan oscura?"
 }
 [sha:b38e4d54230886da354349aa4332f0885b00ccd5]{
 -- Page 156, Offset 21731.
@@ -84,7 +84,7 @@ El diseño interior es parecido al de la oficina que Akiha usa.
 [sha:eebedec4c090daf891c74a9118963ca26be847d8]{
 -- Page 158, Offset 21737.
 -- まあ、先月まで<槙久|おやじ>が使っていたんだから、荒れている道理もない。
-Bueno, la estaba usando nuestro padre hasta hace un mes así que no me sorprende.
+Bueno, hasta hace un mes la estaba usando nuestro padre, así que no me sorprende.
 }
 [sha:fbf772b95dc0e307d9adfb75f1561044c04cc4f6]{
 -- Page 159, Offset 21738.
@@ -101,7 +101,7 @@ Lo único que me desconcierta es lo oscuro que está.
 -- カーテンは一体どうなっているのか、と携帯を窓に向ける。
 Apunto mi teléfono hacia la ventana y trato de ver lo que pasa con las cortinas.
 }
-[sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
+[offset:21741]{
 -- Page 160, Offset 21741. Mods: @k, @e.
 -- 「――――――、
 "
@@ -180,14 +180,14 @@ Esto es malo.
 [sha:d0dc486ccdd2639c6c684cd5cc79472162874cff]{
 -- Page 163, Offset 21756.
 -- この闇が何を示しているかは分からないが、これが見てはいけない秘密……狂気の檻である事は分かる。
-No se que me intenta revelar esta oscuridad,
+No sé qué me intenta revelar esta oscuridad,
  pero puedo intuir que es un secreto que nunca debe salir a la luz...
  Este lugar es una caja construida para contener la locura.
 }
 [sha:4c514cb1c271494d2896ee602f9ba254f4979a45]{
 -- Page 164, Offset 21757.
 -- 今すぐこの部屋を出なければいけない。
-Tengo que salir de esta habitación inmediatamente.
+Tengo que salir inmediatamente de esta habitación.
 }
 [sha:f381c3c24fe0638dbe673fbab3148d5b048f4f86]{
 -- Page 164, Offset 21758.
@@ -431,7 +431,7 @@ Doy la vuelta a la página. La fecha marca 2004.
 [sha:3a660976579c8ee6a30fc41b365d98d3bee1145d]{
 -- Page 176, Offset 21804.
 -- ……槙久によって養子にとられた誰かが、人知れず病死した年だ。
-El año en el que el hijo que Makihisa adoptó murió de una enfermedad en secreto...
+El año en el que el hijo que Makihisa adoptó murió en secreto de una enfermedad...
 }
 [sha:27b9640b5e6ca73d8b8e43d0b12766ea0b9dc355]{
 -- Page 177, Offset 21805.
@@ -538,7 +538,7 @@ Tengo que ser yo, no sé quién más puede―――
 [sha:989f01d61270f298e67cf39dc04d5f019dbd587f]{
 -- Page 183, Offset 21823.
 -- 胸の傷が痺れた事は何度もあったが、これは初めての経験だ。
-La herida de mi pecho de ha entumecido muchas veces antes, pero esto es una sensación totalmente distinta.
+La herida de mi pecho se ha entumecido muchas veces antes, pero esto es una sensación totalmente distinta.
 }
 [sha:740cc8116978659ff48d0be6c0405a22cab978f1]{
 -- Page 184, Offset 21824.
@@ -564,7 +564,7 @@ cayendo de espaldas.
 -- 「その日記はまずい。なにしろまだ<検閲|けんえつ>が済んでいない。君に見られる予定もない」
 "Ese diario son malas noticias.
  Aún tengo que redactarlo debidamente.
- Tampoco es que te fuera a dejar verlo de todos modos."
+ De todos modos, tampoco es que te fuera a dejar verlo."
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 185, Offset 21828.
@@ -589,7 +589,7 @@ Este hombre... no era―――
 [sha:fa25c9fadfc2ccdc571557eca67a1cbcc28bb878]{
 -- Page 186, Offset 21832.
 -- どうやってかは知らないが、鍵を手に入れたのが君の不運という事だ」
-No se como lo has hecho,
+No sé como lo has hecho,
  pero me temo que obtener esa llave selló tu destino."
 }
 [sha:bfb1b45dc9470f76195615e4c731e19b1816d78b]{
@@ -628,6 +628,6 @@ Quiero decir, sin ellos,
 -- Page 188, Offset 21839.
 -- もともと死に<体|たい>だった遠野志貴の体は、このまま、目覚める事のない眠りに落ちていく―――
 El cuerpo de Tohno Shiki,
- que estaba condenado desde el inicio,
+ que desde el inicio estaba condenado,
  cae a lo más profundo de un sueño del que nunca despertará―――
 }

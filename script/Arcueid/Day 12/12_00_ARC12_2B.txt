@@ -38,7 +38,7 @@ Mi cuerpo no responde. Ni siquiera puedo pestañear.
 -- 「―――――――」
 "―――――――"
 }
-[sha:aa97ea5701f6f59551ed11fc009eeccd4cf11d02]{
+[offset:30761]{
 -- Page 79, Offset 30761.
 -- 消えた。
 Ya no está.
@@ -108,10 +108,10 @@ Sus habilidades parecen estar a la par.
 -- まだ太陽が沈みきっていない状態で、という条件付きだが。
 Pero eso será siempre y cuando el sol no se ponga.
 }
-[sha:15666c4b28bd5363d84ef70dbadababb7c88a960]{
+[offset:30775]{
 -- Page 83, Offset 30775.
 -- ――――と。
-Pero entonces―――
+―――Y entonces...
 }
 [sha:726c8c4eadb0c3e0099d611c69096fdfc2e0b247]{
 -- Page 83, Offset 30776.
@@ -121,12 +121,11 @@ De repente Roa empieza a reirse como un loco, como si se hubiera dado cuenta de 
 [sha:b5b4d5633ebca91585b5e2cea49c8ac43ad89ba7]{
 -- Page 84, Offset 30777.
 -- 「―――ふ、ははは、ははははははは！」
-"―――%{i}Jej, jajaja, jajajajajajaja%{/i}!"
+"―――¡%{i}Jej, jajaja, jajajajajajaja%{/i}!"
 }
 [sha:a11d9bbbea135d34a851a59443b22f461daec3b0]{
 -- Page 85, Offset 30778.
 -- 「そうか、そういう事か女！　想定すらしていなかった、こんな<事態|ケース>もあるのだな！
-// Hmm no se si es correcto del todo
 "Ya veo, ¡así que esas traemos, mujer!
  ¡Ni siquiera había considerado que un caso como este pudiera darse!
 }
@@ -185,7 +184,7 @@ Es inútil me temo. Ya no tiene salvación."
 [sha:5d2cbab2dd9ada8ecde8985de0bd7d877c96bdd7]{
 -- Page 90, Offset 30789.
 -- 「今まで遠野志貴が好き放題やってきた事を、そのまま返してやったのだからな。
-"Tohno Shiki acaba de recibir su merecido por vivir como le ha placido todo este tiempo
+"Tohno Shiki acaba de recibir su merecido por vivir como le ha placido todo este tiempo.
 }
 [sha:8287cd19d46c72dddb89e212bd9adc7140fc005a]{
 -- Page 90, Offset 30790.
@@ -213,10 +212,10 @@ Senpai se muerde el labio, aguantando la furia que siente hacia ese vampiro.
 -- 今すぐ<奔|はし>りだしたい殺意を呑み込んでいる。
 Contiene sus ganas de abalanzarse y matarlo en este instante.
 }
-[sha:d839c3c39cb37783437230675ff504dc37ec2253]{
+[offset:30795]{
 -- Page 91, Offset 30795.
 -- ……それは。
-Sería si―――
+Todo eso...
 }
 [sha:7315497e0b2e107373ce732e180d24da6a63fdbf]{
 -- Page 91, Offset 30796.
@@ -309,8 +308,8 @@ Reencarnación completada, ¿verdad? Si no, por favor, no te contengas.
 -- Page 96, Offset 30813.
 -- つーか安心しろ、死徒は例外なくブッ殺す。その前に拾っておかなきゃならねぇお宝があってな。ジジイの密命と言えばお利口なテメェも納得だろ？
 Y no te preocupes――te aseguro que vamos a matar a este puto Apóstol Muerto.
- Pero antes, hay una cosita que necesito de el.
- ¿Crees que Ms. Mojigata lo entenderá si digo que es una orden del viejo?
+ Pero antes, hay una cosita que necesito de él.
+ ¿Seguro que incluso la Srta. Mojigata lo entenderá si digo que es una orden del viejo?
 }
 [sha:293f047a738a720399f1f66d2e1673fecfd67623]{
 -- Page 96, Offset 30814.
@@ -337,7 +336,7 @@ La inmortalidad perfecta no se puede alcanzar siendo humano.
 [sha:816a0b07efe16900be4c8d0bcc29f3b9c0c4a072]{
 -- Page 97, Offset 30818.
 -- 私の書庫を漁った盗人どもがこの忠告を受け入れなかったのなら、自業自得と言うほかない」
-"Si los ladrones que hurgaron en mi biblioteca no hicieron caso, ellos se lo buscaron".
+Si los ladrones que hurgaron en mi biblioteca no hicieron caso, ellos se lo buscaron".
 }
 [sha:16a592938bcb289f3eb7e45547d0294b178d4868]{
 -- Page 98, Offset 30819.
@@ -363,7 +362,7 @@ Mis andares con el cuerpo no fueron más que un capricho pasajero. De ello no sa
 [sha:38f28cbea70c5f041d4b11911cb23da312f9b0dd]{
 -- Page 99, Offset 30823.
 -- そんな不確かな儀式は魔術とは呼べない。それは呪いと言うのだ、ベスティーノ」
-Rituales tan inciertos ni siquiera pueden ser considerados hechicería. Son una 'maldición', Bestino.
+Rituales tan inciertos ni siquiera pueden ser considerados hechicería. Son una 'maldición', Bestino."
 }
 [sha:e8b4d6570c70e9f6901c07a1f96199de3e9540e9]{
 -- Page 99, Offset 30824.
@@ -390,7 +389,7 @@ Puedo sentir la decepción de Mario a través del micrófono. Su desesperación.
 [sha:051e7202267f71cb510b48d5d72f5ea9218868af]{
 -- Page 102, Offset 30828.
 -- 「“…………呪いと言ったな、バルダムヨォン”」
-"¿Lo has llamado maldición? Valdamjong"
+"¿Lo has llamado maldición? Valdamjong."
 }
 [sha:b874a8bc61b39a4314e9a0ea1cb29d14fcc4ae9e]{
 -- Page 102, Offset 30829.
@@ -400,7 +399,7 @@ Puedo sentir la decepción de Mario a través del micrófono. Su desesperación.
 [sha:5b17900d3c69ef28905156654bc32c5283b0019c]{
 -- Page 102, Offset 30830.
 -- 魔術に疎い聖堂教会であろうと、司祭代行であればその成り立ちは知らされていよう」
-Aunque la Santa Iglesia esté familiarizada con la hechicería, seguro que el Sacerdote en funciones al menos entiende cómo funciona."
+Aunque la Santa Iglesia no esté familiarizada con la hechicería, seguro que el Sacerdote en funciones al menos entiende cómo funciona."
 }
 [sha:26f676c07f541c33fd03d741286f2a1c7539940e]{
 -- Page 103, Offset 30831.
@@ -416,7 +415,7 @@ Ciel-senpai se sube a la ventana rota conmigo aún en brazos.
 [sha:eba27d0cffc4d3348e3184cff543d0ecbd00c858]{
 -- Page 104, Offset 30833.
 -- ……ヤツは、それを薄ら笑いで見逃している。
-El hombre simplemente nos mira irnos, con una sonrisa ladina en el rostro.
+El hombre simplemente mira como nos vamos, con una sonrisa ladina en el rostro.
 }
 [sha:6cfe6ca263e25800fecaa44dcec0b93865d0c168]{
 -- Page 105, Offset 30834.
@@ -427,7 +426,7 @@ El hombre simplemente nos mira irnos, con una sonrisa ladina en el rostro.
 [sha:15c61573ecf604c753a7023abc50620e3791afb3]{
 -- Page 105, Offset 30835.
 -- こうしてロアとして地上に出た以上、姫君はじきに訪れよう。
-Ahora que me he revelado como Roa, la Princesa me hará una visita pronto.
+Ahora que me he revelado como Roa, pronto la Princesa me hará una visita.
 }
 [sha:ef0ec8bf8972f2a559c05603ab556f87b2630019]{
 -- Page 105, Offset 30836.
@@ -479,7 +478,7 @@ Aún en sus brazos, Senpai va directa a la mansión Tohno.
 [sha:3cceb1286b9dd000f84d0fae42e8f5ac688bb8b3]{
 -- Page 109, Offset 30845.
 -- ……なんのつもりか知らないけど、ちょっと、それは困る。
-No se que planea hacer, pero no veo que pueda salir bien.
+No sé qué planea hacer, pero no veo que pueda salir bien.
 }
 [sha:0aa541eaceaa04d310588107aea50bec4b8968b4]{
 -- Page 109, Offset 30846.
@@ -506,7 +505,7 @@ Quiero decirla que pare,
 [sha:c420e1b37c0ea59da0ef3d9d84578d161a8afa79]{
 -- Page 111, Offset 30850.
 -- 「遠野くんは黙っていてくださいっ！
-¡Tohno-kun, necesito que te quedes callado!
+"¡Tohno-kun, necesito que te quedes callado!
 }
 [sha:5c2095671fac54a3773527349625487db61013b7]{
 -- Page 111, Offset 30851.
@@ -549,7 +548,7 @@ Por eso... ¡esta vez también hay posibilidades!"
 [sha:f718afd0ba12bfb7d5568dd28e9a3fa06ac8796d]{
 -- Page 114, Offset 30858.
 -- ……先輩、それはどういう……
-Senpai, a que te refieres con...
+Senpai, a qué te refieres con...
 }
 [sha:ac86822be74f2077af457753d6df356384bf62f3]{
 -- Page 114, Offset 30859. Mods: @k, @e.

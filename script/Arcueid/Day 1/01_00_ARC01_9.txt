@@ -1,7 +1,7 @@
 [sha:a6dd32cd2f87dd96fbda143f189c3f35f43806f3]{
 -- Page 10026, Offset 2421.
 -- 夕食は秋葉と顔を合わせてのものだった。
-Me siento cara a cara con Akiha en la mesa del comedor.
+En la mesa del comedor me siento cara a cara con Akiha.
 }
 [sha:4f476047900ed48dea1b9135e083bb1afcc1710a]{
 -- Page 10026, Offset 2422.
@@ -31,7 +31,7 @@ Los humanos somos expertos en optimización, y dejamos las memorias sin usar en 
 [sha:3f97c0c53d2241f6e43ff1ed467d656671e00bb8]{
 -- Page 501, Offset 2427.
 -- 俺の一挙一動に秋葉の眉がつりあがっていく様はなかなか緊張感があり、実にスリリングだった。
-// súper
+//súper
 Viendo a Akiha levantar el borde de la ceja a cada movimiento que hago me tiene de los nervios. Es súper emocionante, créeme.
 }
 [sha:414d3cbe0178baacba7ba762ebee74adf00b93df]{
@@ -62,7 +62,7 @@ Tan pronto como Hisui y Kohaku-san terminan de quitar los platos――
 [sha:e4c27d2416129bc0b2f65a7231847468bb558655]{
 -- Page 504, Offset 2433.
 -- 「―――やはり、徹底的な再教育が必要なようですね」
-"―――Parece que una reeducación a fondo es necesaria después de todo."
+"―――Parece que después de todo es necesaria una reeducación a fondo."
 }
 [sha:a58ef2c89465fc2557316fb223150be944c586c5]{
 -- Page 504, Offset 2434.
@@ -109,7 +109,7 @@ Así que en eso estaba pensando mientras comía, con sus bonitas cejas retorcié
 -- どのような理由であれ、外出の時は私か琥珀、翡翠の許可をとるように」
 Si por cualquier razón tienes que salir, primero obtén permiso de Hisui o Kohaku, o mío."
 }
-[sha:c55b82f406a46e151e1d07a56e70f51bb9868551]{
+[offset:2443]{
 -- Page 507, Offset 2443.
 -- 「は……？」
 "¿Qu..?"
@@ -122,7 +122,7 @@ Si por cualquier razón tienes que salir, primero obtén permiso de Hisui o Koha
 [sha:bdf759d2eb80c489f500e105d0ed87670731b139]{
 -- Page 507, Offset 2445.
 -- 「待て待て、それは」
-"Bua, bua, bua, eso es―――"
+"Espera espera, eso es―――"
 }
 [sha:b122518bf64be56d9f6773d7344e607cdd252376]{
 -- Page 508, Offset 2446.
@@ -142,7 +142,7 @@ Por lo que me han dicho, tus notas son completamente mediocres, ¿no?
 [sha:5aab2ff6f6fbc56ba3f08b4172472428e9c71a9f]{
 -- Page 508, Offset 2449. Glued. Mods: @x.
 -- まったく。相変わらず、効率良く手を抜くのだけは得意なようで」
-Honestamente, no has cambiado ni un poco...
+De verdad, no has cambiado ni un poco...
  Tomar atajos sigue siendo tu fuerte."
 }
 [sha:921de26bcc4bd00a926221196fb6c794bed04f22]{
@@ -153,7 +153,7 @@ Honestamente, no has cambiado ni un poco...
 [sha:79f18b6a83175e2548822b5cfe586858b791efd7]{
 -- Page 509, Offset 2451.
 -- 「ですが、この屋敷にいる間は本気を出していただきますから、そのつもりで。
-"Como quiera que sea, mientras vivas en esta mansión, te haré tomarte las cosas en serio.
+"Sea como sea, mientras vivas en esta mansión, te haré tomarte las cosas en serio.
  Ten eso en cuenta por favor.
 }
 [sha:d918908bff2a3b1cf888bad7718a37b093d3ecf7]{
@@ -169,12 +169,12 @@ La sobreestimación de mi hermana pica.
 [sha:42a58937f1cdd441f19bd9b6615f0d1464a3fff0]{
 -- Page 510, Offset 2454.
 -- あともう俺の成績をリサーチしている周到さが怖い。
-También estoy un poco asustado de lo meticulosa que ha sido estudiando mis notas.
+También me asusta un poco lo meticulosa que ha sido estudiando mis notas.
 }
 [sha:9bf049f9027afb1a516e92ecfee4cc14fedc282c]{
 -- Page 511, Offset 2455.
 -- 「他の習い事はもう少し落ち着いてからにしましょうか。
-"Nos esperaremos a que te establezcas un poco más antes de  hacer nada.
+"Nos esperaremos a que te establezcas un poco más antes de hacer nada.
 }
 [sha:b3aff2c9b5a43a0fc7c59ab19a82aceaabdbd1f5]{
 -- Page 511, Offset 2456.
@@ -184,7 +184,7 @@ Pero antes de eso――Nii-san, saca esa cosa."
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 511, Offset 2457.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:c4645117dda21dfab65a54d510b813e7f8f8544d]{
 -- Page 511, Offset 2458.
@@ -234,7 +234,7 @@ Incluso tú tienes uno, ¿no?"
 -- 「――――――
 "―――
 }
-[sha:b328ba224751be6c026073ab7c95cec68ea40864]{
+[offset:2467]{
 -- Page 514, Offset 2467. Glued. Mods: @x.
 -- なるほど」
 Por supuesto."

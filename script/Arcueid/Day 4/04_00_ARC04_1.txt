@@ -6,7 +6,7 @@ Me despierto con la luz gris del día.
 [sha:d7af1b3813fe0654735e97e9cca36aab5634902d]{
 -- Page 1, Offset 5570.
 -- 雨だれの音はもう聞こえない。
-Ya no escucho el sonido de las gotas de lluvia.
+Ya no escucho el sonido del caer de las gotas.
 }
 [sha:54871f6baf742bf33a7696a9849a4dc043244489]{
 -- Page 1, Offset 5571.
@@ -56,7 +56,7 @@ Te intentan recordar todas las cosas que estarías mejor olvidando.
 [sha:bdce391ee26c65ba26c60cfe1253a216a1302aa6]{
 -- Page 6, Offset 5580.
 -- ……そう、ただの夢なんだから。
-Si... solo fue un sueño.
+Sí... solo fue un sueño.
 }
 [sha:6ddc170a190fed142662181d17aa3c61e3fc8cf2]{
 -- Page 6, Offset 5581.
@@ -98,13 +98,13 @@ El reloj marca justo antes de las seis.
 -- 「いや。こっちこそ驚かせてごめん。昨日の夕方から寝ていたから、早く目を覚ましたんだ。
 "No te preocupes.
  Siento haberte sorprendido de esta forma.
- Después de dormir ayer toda la tarde me he levantado antes.
+ Después pasarme ayer toda la tarde durmiendo me he levantado antes.
 }
 [sha:c2579b7abd8de3e22d357130d1b308447367ce5a]{
 -- Page 10, Offset 5589.
 -- ……それで、翡翠の方こそどうしたんだ？　こんな早くから何かあったのか？」
-De todos modos, ¿qué pasa, Hisui?
- Que pronto estás aquí.
+De todos modos, ¿qué ocurre, Hisui?
+ Que pronto has venido.
  ¿Ha pasado algo?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
@@ -120,7 +120,7 @@ Hisui se queda en silencio, aparentemente perpleja.
 [sha:a6bca4fa274e5dabb2b7eb4e5dd17bd29c7d343c]{
 -- Page 11, Offset 5592.
 -- よく見れば、その手にはうちの学校の制服があった。
-Mirando detenidamente, me doy cuenta de que lleva con ella mi uniforme escolar.
+Mirando detenidamente, me doy cuenta de que trae con ella mi uniforme escolar.
 }
 [sha:e66615ffb6a3360ba830e229de1e9b107f43d4af]{
 -- Page 12, Offset 5593.
@@ -137,10 +137,10 @@ Mirando detenidamente, me doy cuenta de que lleva con ella mi uniforme escolar.
 -- お見苦しいところをお見せしました」
 Parece ser que he me he avergonzado delante de usted."
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:5596]{
 -- Page 12, Offset 5596.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:07c08c5d169ed697d1a72b8ffc6b27a8ab5be592]{
 -- Page 12, Offset 5597.
@@ -151,12 +151,12 @@ Hisui no dice nada más.
 -- Page 12, Offset 5598.
 -- ……どこにもお見苦しいところなんて無かったと思うけど、それはそれとして。
 No creo que haya hecho nada particularmente embarazoso,
- pero no me voy a preocupar por ello.
+ pero tampoco voy a darle vueltas.
 }
 [sha:42b54896e21f8de0d4a11638b73c8f4121a2c94e]{
 -- Page 13, Offset 5599.
 -- 「……とにかくありがとう。制服はそこに置いていいよ。すぐに着替えて居間に行くから」
-"De todas formas, gracias. Puedes dejar mi uniforme ahí. Me cambiaré y bajaré a la sala de estar en un minuto."
+"De todas formas, gracias. Puedes dejar ahí mi uniforme. Me cambiaré y bajaré a la sala de estar en un minuto."
 }
 [sha:a1660d03574d4f25bc97d2f1c270cbb12e51f67e]{
 -- Page 13, Offset 5600.
@@ -168,7 +168,7 @@ No creo que haya hecho nada particularmente embarazoso,
 -- 音もなくドアに向かう翡翠。
 Hisui se dirige a la puerta sin hacer un sonido.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:5602]{
 -- Page 14, Offset 5602.
 -- ……と。
 Sin embargo...
@@ -181,7 +181,7 @@ Se para antes de llegar, y se gira repentinamente.
 [sha:8b02f48add93e1dc419f337c4add7fbb154aa859]{
 -- Page 15, Offset 5604.
 -- 「志貴さま。……その、お時間があるのでしたら入浴の用意もいたしますが」
-"Shiki-sama... um, si tiene tiempo, puedo prepararle un baño."
+"Shiki-sama... em, si tiene tiempo, puedo prepararle un baño."
 }
 [sha:eeff33c6cbd0f673857bfaa12cd9a1f3dc501c38]{
 -- Page 15, Offset 5605.
@@ -192,7 +192,7 @@ Se para antes de llegar, y se gira repentinamente.
 -- Page 16, Offset 5606.
 -- 「はい。志貴さまはひどく汚れています。学校に行く前にお体を流された方がよろしいのではないでしょうか」
 "Sí.
- Me temo que de alguna manera esta mañana parece desaliñado.
+ Me temo que esta mañana parece ciertamente desaliñado.
  Sugeriría que aproveche la oportunidad para lavarse antes de dirigirse a la escuela."
 }
 [sha:5556a142f28fb0e329364d40f038cdd96b0bd2c3]{
@@ -216,7 +216,7 @@ Parece ser que me pasé una gran parte del día de ayer colapsado con anemia en 
 -- この時間なら学校にも十分間に合うし」
 Es suficientemente pronto como para no tener ningún problema para llegar a la escuela a tiempo."
 }
-[sha:570afbfb68a775177c0dc699e78357d337fb0542]{
+[offset:5611]{
 -- Page 19, Offset 5611.
 -- 「かしこまりました。
 "Entendido.
@@ -239,12 +239,12 @@ Siguen siendo las seis de la mañana.
 [sha:e8c05a7296b75eaec29bdcbf5c1a437a9e47aa59]{
 -- Page 20, Offset 5615.
 -- 何をするでもなく、20分間ぼんやりと部屋の天井を見上げ続けた。
-Miro el techo de mi habitación durante veinte minutos sin hacer nada.
+Miro el techo de mi habitación sin hacer nada durante veinte minutos.
 }
 [sha:4cc3fbc1b050dc627f273714c5a1465d4df47af8]{
 -- Page 21, Offset 5616.
 -- 頭から水をかぶると、鈍った<思考|あたま>はようやくスッキリしてくれた。
-// Aquí supongo que se refiere a estar lento por la mañana no perezoso como tal.
+//Aquí supongo que se refiere a estar lento por la mañana no perezoso como tal.
 Tras mojarme la cabeza con agua fría,
  mi pensamiento lento comienza a agudizarse.
 }
@@ -256,28 +256,28 @@ Respiro hondo mientras el agua fría gotea por mi cabello.
 [sha:0d515d075108ce59c68895de75791081344e561a]{
 -- Page 22, Offset 5618.
 -- ……しかし、厭な夢だった。
-Realmente fue un sueño desagradable...
+Pero, que sueño tan desagradable...
 }
 [sha:114becde48c5668b0bedfa378cd46efd75790c32]{
 -- Page 22, Offset 5619.
 -- 見ず知らずの女性を殺す夢なんてどうかしている。
-No me puedo creer que soñara con matar una mujer que ni siquiera conocía.
+No me puedo creer que soñara con matar una mujer que ni conocía siquiera.
 }
 [sha:d679998f5fde499c3e105c28799bfc5abeee2f44]{
 -- Page 22, Offset 5620.
 -- 慣れない屋敷の生活で疲れていたにしろ、あんな夢を見ているようじゃこの先が思いやられるというものだ。
-Sabía que estaba cansado por vivir en esta mansión desconocida,
+Sabía que el vivir en esta mansión desconocida me había desgastado,
  pero si ya he llegado al punto de ver sueños como ese, no augura nada bueno para mi futuro.
 }
 [sha:bed792822981a1e354292bc7c9946d324d9bd774]{
 -- Page 23, Offset 5621.
 -- 「……そうだよな。気を、引き締めないと」
-"Si... de veras tengo que calmarme."
+"Sí... tengo que mantenerme firme."
 }
 [sha:db6f1758c1f8a25a06573ba02064f97ea064944f]{
 -- Page 23, Offset 5622.
 -- もう一度冷たい水をかぶってから体を洗う。
-Echo otro cubo de agua fría sobre mí y empiezo a lavarme.
+Me echo otro cubo de agua fría y empiezo a lavarme.
 }
 [sha:cf90cfa9a6b093484fb8e0c96f215b288425fd02]{
 -- Page 23, Offset 5623.
@@ -289,10 +289,10 @@ Echo otro cubo de agua fría sobre mí y empiezo a lavarme.
 -- タオルが喉に触れただけでズキリと痛んだ。
 El roce de la toalla es suficiente para que un dolor punzante me atraviese la garganta.
 }
-[sha:33e04eebd2591bbb4d3fef62fb2d955fb9930d89]{
+[offset:5625]{
 -- Page 24, Offset 5625.
 -- 「……なんだ、これ」
-"¿Qúe narices...?"
+"¿Qué narices...?"
 }
 [sha:bb7e7fbabce0ede3400c7174baa9623149eadef3]{
 -- Page 24, Offset 5626.

@@ -21,12 +21,12 @@ El aire frío es tan intenso que simplemente %{i}sobrevivir%{/i} es difícil.
 [sha:2c8bc31082f985d4f6a0a41541bef0f552f6dc9e]{
 -- Page 10019, Offset 10112.
 -- 頭蓋の中を加圧されるように、脳は<軋|きし>みをあげている。
-Mi cerebro cruje como si mi calavera lo estuviera estrujando.
+Mi cerebro cruje como si mi cráneo lo estuviera estrujando.
 }
 [sha:3f34268b02bd8e5c73d145c6e9d07b37c27678f9]{
 -- Page 562, Offset 10113.
 -- 俺は２分後の結末を予測し、破裂しそうな心臓をかき<毟|むし>る。
-// De la traduccion oficial.
+//De la traduccion oficial.
 Mi corazón, casi a punto de explotar,
  me doy dos minutos como mucho.
 }
@@ -54,7 +54,7 @@ Van a matar a Arcueid.
 -- Page 563, Offset 10118.
 -- あの死体どもに手足をもぎとられ、俺が／おまえがしたように、解体されて献上される。
 Esos cadáveres van a descuartizarla miembro a miembro――
-justo como <Yo|T ú > hiciste――
+tal y como <yo|tú > hice――
  y ofrecer su cuerpo desmembrado.
 }
 [sha:4423d8c86b8831bb1f07fcc228d430a86b485ca4]{
@@ -100,12 +100,12 @@ Fue más que arrogante pensar que podría derrotarlo.
 [sha:bbf5457e1ea8f0c9eb900a865fc137db0bb7064c]{
 -- Page 566, Offset 10127.
 -- 犠牲者を出さずに解決する？
-¿Resolver la situación sin mas bajas?
+¿Resolver la situación sin más bajas?
 }
 [sha:ba088599dc3247eecf2ebbcf9c9b3f6825b5d62c]{
 -- Page 566, Offset 10128.
 -- なんて愚かな。あの怪物は見逃すしかなかった。立ち向かってはいけなかった。台風のように、通り過ぎるのを待つしかなかった。そうしていれば、せめて、街が燃えるだけで済んだかもしれないのに。
-¿Como demonios pensaba hacer eso?
+¿Cómo demonios pensaba hacer eso?
  Debería haberlo ignorado.
  No debería haberme enfrentado a ese monstruo.
  Como con un tifón, no hay más opción que dejarlo pasar.
@@ -119,40 +119,41 @@ Fue más que arrogante pensar que podría derrotarlo.
 [sha:251845d6b1293257b8499ab936554f62d20985ae]{
 -- Page 567, Offset 10130.
 -- 何もできなかった誰か。何もしない自分。
-Ella, que no podía hacer nada. Yo, que elegí no hacer nada.
+Ella, que no pudo hacer nada. Yo, que no hice nada.
 }
 [sha:e40c4ad72974a9a0e84200cb31617b1bf21886b8]{
 -- Page 567, Offset 10131.
 -- 武器すらなかった誰か。武器を持っている自分。
-Ella, que ni siquiera iba armada. Yo, que porto un arma.
+Ella, que no iba armada. Yo, que porto un arma.
 }
 [sha:5bec74ff7e331aa87ec96a06fd8f19e623360aa1]{
 -- Page 567, Offset 10132.
 -- 加圧された脳の中で、常識と非常識がのたうちまわる。
-Sentido común e irracionalidad se retuercen en mi cerebro presurizado.
+Cordura y locura se retuercen, presionan mi cerebro.
 }
 [sha:4171ca57d7de1f49794b8ac7ae927ca333754188]{
 -- Page 567, Offset 10133.
 -- 逃げようと意識が<背後|うしろ>を向く。止めようのない自分がいる。
 Mi consciencia me dice que me dé la vuelta y corra.
- ¿Y por qué debería escuchar?
+   ¿Y por qué no debería escuchar?
 }
 [sha:530c3e626fe25b4e62bee3eb79fc58c9df9a63c0]{
 -- Page 567, Offset 10134.
 -- だってしょうがない。アレを相手に何が出来る。あの女が。ここまでで十分だ。ここから先は過剰すぎる。あの女が。あとは逃げてしまえばいい。目を背けてしまえばいい。それが<ま|・><っ|・><と|・><う|・><な|・><人|・><間|・>だ。あの女が、殺される。
 No hay nada que pueda hacer.
- ¿Que podría esperar hacer yo siquiera contra un oponente como ese?
+ ¿Qué podría esperar lograr siquiera contra un oponente como ese?
  %{i}Arcueid%{/i}.
  De aquí en adelante, estoy totalmente fuera de mi elemento.
  %{i}Arcueid%{/i}.
- Debería huir solamente.
- Cualquier se humano %{i}decente%{/i} lo haría.
+ Tan solo debería huir.
+ Deja de mirar.
+ Cualquier ser humano %{i}decente%{/i} lo haría.
  %{i}Van a matar a――Arcueid%{/i}.
 }
 [sha:be6efd65e8d159d56bfb49a8b7abcd276f8b2c6b]{
 -- Page 568, Offset 10135.
 -- 空を仰ぐ。視界には凍りついたビルがある。
-Miro al cielo. Donde quiera que mire, veo edificios helados.
+Miro al cielo. Donde quiera que dirija los ojos, veo edificios helados.
 }
 [sha:be31b00f2e2b749af80f4d1cef0702518d3792e1]{
 -- Page 568, Offset 10136.
@@ -186,7 +187,7 @@ Mi cabeza cruje. Sin importar el frío, mi corazón bombea sangre ferozmente.
 [sha:1093ea5f740cc4c9903c2c4324545b3d1a592544]{
 -- Page 569, Offset 10141.
 -- それは、つまり、
-Lo que significa en otras palabras―――
+Lo que en otras palabras, significa―――
 }
 [sha:137b7120254ef1fbdc80fa666262d2bfb81ac337]{
 -- Page 570, Offset 10142.
@@ -206,12 +207,12 @@ Soy defectuoso. Un hazmereir. Demasiado inmaduro como humano.
 [sha:282bb9e364b56522fdbfd96ffb339701a9e9c248]{
 -- Page 570, Offset 10145. Glued. Mods: @n.
 -- だって。
-Después de todo,
+ Después de todo,
 }
 [sha:971ed0bb9a5b872487b24f4d35cbbd6a3820619a]{
 -- Page 570, Offset 10146. Glued.
 -- この事態を傍観するだけの度量が、判断力が、俺には微塵も存在しない―――！
-¡ni un solo átomo de mi cuerpo puede tolerar quedarse atrás observando!
+ ¡ni un solo átomo de mi cuerpo puede tolerar quedarse atrás observando!
 }
 [sha:fdfa08beb060b3a8d06b06195029cbd1b50db08c]{
 -- Page 571, Offset 10147.
@@ -237,7 +238,7 @@ Grabo firmemente este límite de tiempo en mi mente.
 [sha:1343b868168593c11b3e13753e7d404d92dc1536]{
 -- Page 572, Offset 10151.
 -- 精神力の問題ではない。あの地下において、それが人間の生命活動の限界だ。
-No estoy me preocupa perder los nervios. Tres minutos simplemente es lo máximo que puede sobrevivir un humano en ese hoyo.
+No me preocupa perder el coraje. Tres minutos simplemente es lo máximo que puede sobrevivir un humano en ese hoyo.
 }
 [sha:6a4c22fecc3eb9396dfec177672f6b523ab4639b]{
 -- Page 573, Offset 10152.
@@ -278,7 +279,7 @@ Esa %{i}cosa%{/i} no puede ser tolerada.
 [sha:655c43e2fbac70ca71dd04aeb105cc714b03f310]{
 -- Page 575, Offset 10159.
 -- アレは野放しにはできないもの。
-No se le puede permitir campar a sus anchas.
+No se le puede permitir hacer lo que quiera.
 }
 [sha:a6fdc69405e54c4d277f0a929e00c68cb93d677b]{
 -- Page 575, Offset 10160.
@@ -313,12 +314,12 @@ No tiene escrúpulos para robar y matar para sobrevivir.
 [sha:2523ed13698b415dbe8671171a3db8951d81b0bd]{
 -- Page 577, Offset 10166.
 -- 違う<生物|にんげん>として、同じ生命として許容できない。
-Como  <organismo|p e r s o n a   > distinto, no puedo permitir que resida en mi mismo plano de existencia.
+Como <organismo|p e r s o n a   > distinto, no puedo permitir que resida en el mismo plano de existencia que yo.
 }
 [sha:64ef0b6e5d5eeb189ced7f5f64ff877b93dc1bea]{
 -- Page 577, Offset 10167.
 -- 何であろうと生きているのなら俺の獲物だ。
-Lo que sea que es, si está vivo es mi presa.
+Sea lo que sea, si está vivo, es mi presa.
 }
 [sha:e21f77f16685564c0033207cbf924ee9128ad109]{
 -- Page 577, Offset 10168.
@@ -333,7 +334,7 @@ Corro hacia Arcueid.
 [sha:bd532ffe925d020f10486a77ccd995cf4c9da065]{
 -- Page 578, Offset 10170.
 -- 死体どもは女の体に歯を立てようとしている。
-Los cadáveres intentan hundir sus dientes en su cuerpo.
+Los cadáveres intentan hundir los dientes en su cuerpo.
 }
 [sha:12ffcac06b5053a681b58f8489b050e75d634a44]{
 -- Page 579, Offset 10171.
@@ -343,7 +344,7 @@ La pregunta que me hice antes sobre si podía matarlos o no ni se me pasa por la
 [sha:f18897145d6c644ab874b2dfedf3464531b2e38c]{
 -- Page 579, Offset 10172.
 -- 人間であろうとなかろうと、人のカタチをしたものを殺せるのか。
-¿Puedo matar algo que se parezca a una persona, si importar que sea realmente humana?
+¿Puedo matar algo que se parezca a una persona, sin importar que sea realmente humana?
 }
 [sha:957f3de2c36e46ab754ad411875d1b7da0428109]{
 -- Page 580, Offset 10173.
@@ -358,17 +359,17 @@ Todo lo que sé es que me duele la cabeza.
 [sha:3b9ba3fa5f5fb2759fc9ad12daebbc1635678ab0]{
 -- Page 580, Offset 10175.
 -- ここまで長く裸眼をさらけ出すのは初めてだ。
-Esta es la primera vez que he usado mis ojos desnudos durante tanto tiempo.
+Esta es la primera vez que he usado mis ojos descubiertos durante tanto tiempo.
 }
 [sha:7eab30bc7b4d2352ae747d2c4a858937fe0fa2fc]{
 -- Page 580, Offset 10176.
 -- ここまで客観的な思考で動くのは初めてだ。
-La primera vez que actuo tan objetivamente.
+La primera vez que actúo tan objetivamente.
 }
 [sha:865b0c2deea103a6e3c3f9cb5b38cc870696a684]{
 -- Page 580, Offset 10177.
 -- 狂躁したまま死の線を俯瞰し、
-Al mirar las líneas de muerte frenéticamente―――
+Al mirar las líneas de muerte preso del frenesí―――
 }
 [sha:bb9cbae9f439deeb74f64d95d89fa6631cbdd1a3]{
 -- Page 580, Offset 10178.
@@ -388,7 +389,7 @@ Además―――
 [sha:013f2a43e23c8ab4c5c205ecad1f0346a345481a]{
 -- Page 580, Offset 10181.
 -- 俺以外の生き物が、<そ|・><の|・><女|・><を|・><獲|・><物|・><に|・><す|・><る|・><な|・>。
-// De la tl oficial
+//De la tl oficial
 Ella es mi %{i}presa%{/i} y solo mía.
 }
 [sha:b77c80e09148a8e9f8723ff66668747f99067121]{
@@ -412,7 +413,7 @@ Muy fácil.
 [sha:b9b5070762c567491a42712b76dabd88c5740f99]{
 -- Page 582, Offset 10185.
 -- 「起きろ！　いつまで寝てやがる……！」
-"¡Despierta! ¡¿Vas a dormir todo el día o que?!"
+"¡Despierta! ¡¿Vas a dormir todo el día o qué?!"
 }
 [sha:97876c6c8e1635a18bb0182371d7c24f8dbb4d5d]{
 -- Page 582, Offset 10186.
@@ -427,7 +428,7 @@ La llamo mientras mato el cuarto cadáver.
 [sha:1aab83eeb842b7caddfd2c161c5d460ae0170208]{
 -- Page 583, Offset 10188.
 -- 「ん……志、貴……？」
-"Mmm... Shi... ki?"
+"Mmm... ¿Shi... ki?"
 }
 [sha:c41d93cdfde13fba89839b62aca13a1f70b42459]{
 -- Page 583, Offset 10189.
@@ -469,7 +470,7 @@ Ella es la que debería huir, no yo.
 -- 「よし、元気だな。ならいい。できるなら援護してくれ」
 "Muy bien, pareces lo suficientemente sana.
  Genial.
- Si puedes apoyame."
+ Si puedes, apoyame."
 }
 [sha:3f417dd297613d9657018d245ab83cb34a5c0882]{
 -- Page 587, Offset 10196.
@@ -484,7 +485,7 @@ Ella es la que debería huir, no yo.
 [sha:e5e78f55720e3c43fcdb645ae6c7fa0c10c3d633]{
 -- Page 587, Offset 10198.
 -- いいか、俺にとってここは海の底だ。３分しか時間はない。だから、その間に―――」
-Escucha, este sitio es para mi como el fondo de océano.
+Escucha, este sitio para mi es como el fondo de océano.
  Solo tenemos tres minutos.
  Así que tenemos que aprovecharlos―――"
 }
@@ -553,7 +554,7 @@ Las líneas de muerte que 'matarán' ese monstruo.
 [sha:8603354e518e7a4d310836149739b2261b6c91e9]{
 -- Page 592, Offset 10211.
 -- ようやくヤツが反応する。
-El hombre reacciona finalmente.
+El hombre finalmente reacciona.
 }
 [sha:d58ea4c8e03414a60ff58f78d8e0cda6ca201abb]{
 -- Page 592, Offset 10212.
@@ -575,12 +576,12 @@ Por supuesto que no.
 [sha:f2c51fae8b48cc8c7996c4b5d3116eaad1fc331b]{
 -- Page 593, Offset 10215.
 -- ヴローヴにとって俺は死体たちと変わらない。
-A los ojos de Vlov, no soy distinto de los cadáveres.
+A ojos de Vlov, no soy distinto de los cadáveres.
 }
 [sha:e0588af5af4ac8f750c63dfd23b024eeb91eb613]{
 -- Page 593, Offset 10216.
 -- アルクェイドを守るだけの、無能な“モノ”扱いだ。
-Me tratata como a una 'cosa' incompetente que solo protege a Arcueid.
+Me trata como a una 'cosa' incompetente que solo protege a Arcueid.
 }
 [sha:e250d34b8ac2a78e60ad6fa4b1c925787af01e1e]{
 -- Page 593, Offset 10217.
@@ -630,7 +631,7 @@ Dos segundos.
 [sha:d21867f82f30274706bf41e309007e206d8e2e79]{
 -- Page 596, Offset 10226.
 -- 危険を冒すのは、生死の<境|さかい>を越えるのは一度だけ。
-Tengo que arriesgarme y cruzar el límite entre la vida y la muerte――
+Tengo que arriesgarme a cruzar el límite entre la vida y la muerte――
  pero solo tengo que hacerlo una vez.
 }
 [sha:9db6e7a9acdb807dd4c221cda0c33e95b4a4abf8]{
@@ -643,10 +644,10 @@ Tengo que concentrarme totalmente en esquivar su primer movimiento.
 -- その<丁半|ちょうはん><博打|ばくち>さえすり抜ければ、あとはあの“線”を断つだけで―――
 Si gano esa apuesta, entonces todo lo que queda es cortar esa línea―――
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:10229]{
 -- Page 597, Offset 10229.
 -- 「―――！」
-"%{i}Hnh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:56c4d30c4ad9c501bef71bd990d7da62cfc57f1b]{
 -- Page 597, Offset 10230.
@@ -707,7 +708,7 @@ Uno mucho más mortal.
 [sha:da8da44ce2e09ecc73ad18902cf513c38d1c1956]{
 -- Page 600, Offset 10241.
 -- “野郎―――！”
-Este cabron...
+Este cabrón...
 }
 [sha:c53ed6aee6c1abf068183a063fa000316f96b832]{
 -- Page 600, Offset 10242.
@@ -717,7 +718,7 @@ El dolor de cabeza causado por exponer mis ojos se mezcla con mi ira.
 [sha:5bd20d3b644a4bd86df857fad432f29ee1bd302f]{
 -- Page 601, Offset 10243.
 -- 信じられない。あの野郎、事もあろうに読み切った。
-No me lo creo. De todas las cosas que podían pasar, este bastardo ha visto a través de mi.
+No me lo creo. De todas las cosas que podían pasar, este bastardo ha visto a través de mí.
 }
 [sha:1f08c9b63344f218f9fa1364c6ef74ffd03c77bc]{
 -- Page 601, Offset 10244.
@@ -757,7 +758,7 @@ Supongo que para un vampiro esa debe ser la 'distancia mínima de seguridad'. No
 [sha:e2f02639f06fe7c014e39c7b597ece9f9063a7a6]{
 -- Page 603, Offset 10251.
 -- 「“……なんだ。おまえは、なんだ……？”」
-"¿Que... %{i}eres%{/i}?"
+"¿Qué... %{i}eres%{/i}?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 603, Offset 10252.

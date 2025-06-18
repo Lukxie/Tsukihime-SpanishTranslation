@@ -1,7 +1,7 @@
 [sha:e0b6508add525a0550d6874d1d708db85af682da]{
 -- Page 10003, Offset 29603.
 -- 「………………そうだな。
-"Cierto, si...
+"Sí, cierto..
 }
 [sha:aafb8a7836e26d3e0bd29308d8c146b8ab4c645d]{
 -- Page 10003, Offset 29604.
@@ -11,7 +11,7 @@ Es ahora o nunca. No cabe duda."
 [sha:adeafc241d452bee6368c0c43fd902d8fb7d215a]{
 -- Page 42, Offset 29605.
 -- 俺はもうあいつと会えない。合わす顔がない。
-No la volveré a ver. No %{i}merezco%{/i}  volverla a ver.
+No la volveré a ver. No %{i}merezco%{/i} volverla a ver.
 }
 [sha:f20ab5821ec7606b5e8ebfb204303fafbc3389bb]{
 -- Page 42, Offset 29606.

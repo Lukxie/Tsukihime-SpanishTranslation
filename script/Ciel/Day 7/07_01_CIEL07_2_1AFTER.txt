@@ -66,7 +66,7 @@
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 243, Offset 15374.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:0850b2076c1d40f42eab9db6e42d025eea2ef7c2]{
 -- Page 243, Offset 15375.
@@ -106,7 +106,7 @@
 [sha:6839b8ff8a632fe5fceac6d97eaa2a68c6723321]{
 -- Page 247, Offset 15382. Glued.
 -- ！
-%{nothing}
+-- TRANSLATION HERE
 }
 [sha:e2f111dcea86932296992198af84142917e771d4]{
 -- Page 247, Offset 15383.
@@ -221,7 +221,7 @@
 [sha:c7c933ae4b402581a1a040bf9ff007b3df3ab535]{
 -- Page 256, Offset 15405. Glued. Mods: @x.
 -- あれ？
-¿o no?
+-- TRANSLATION HERE
 }
 [sha:83bfdb66f9d452c162f0d53b098456fddae86267]{
 -- Page 256, Offset 15406.

@@ -108,7 +108,7 @@
 -- ここが勝負所だ。
 -- TRANSLATION HERE
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:11620]{
 -- Page 286, Offset 11620. Mods: @k, @e.
 -- 俺は、
 Yo...

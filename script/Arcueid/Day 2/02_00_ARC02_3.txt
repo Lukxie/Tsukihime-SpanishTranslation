@@ -11,12 +11,12 @@ El lado izquierdo de mi cuello duele un poco, como si me hubiese arañado algo o
 [sha:c13ae2943421489ed14ecbd6967bbaff24bc1f01]{
 -- Page 10008, Offset 3051. Mods: @n.
 -- 特に用もないし、
-No tengo nada que hacer, así que
+No tengo nada que hacer, por lo que
 }
 [sha:79bc3fa5d9cd5c57b5ba1a29ef2c8b1d4d7ec660]{
 -- Page 10008, Offset 3052. Glued.
 -- 俺は―――
-Yo―――
+ me―――
 }
 [sha:54fb79a2194ac081c6c7609e783b9176ae6cc456]{
 -- Page 174, Offset 42587. Choice.

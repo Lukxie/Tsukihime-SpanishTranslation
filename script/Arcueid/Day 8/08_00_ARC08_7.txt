@@ -17,7 +17,7 @@ No me di cuenta pero,
 [sha:c014f4ad5c461a43dbd4789687e7e9e4245973d6]{
 -- Page 430, Offset 20788.
 -- ベンチの前にはアルクェイドが立っている。
-Arcueid está de pie frente al banco,
+Arcueid está de pie frente al banco.
 }
 [sha:76bb9e3922cbf33961b741767f48d2842384ce4f]{
 -- Page 430, Offset 20789.
@@ -64,11 +64,10 @@ Además, si no hubiera intervenido se te habría abierto la herida de nuevo como
 [sha:b438689badf8c4367f2586ace8f0abb974190ef4]{
 -- Page 433, Offset 20796.
 -- ま、一番身近にして最高級の“死”に慣れているんだから、それも当然か。……ほんと、どうしてやろうかしら。一度思いっきり怖がらせてあげましょうか？」
-// Tl oficial para el termino de highest grade que cambia a itself
 Bueno,
  quizá no sea tan sorprendente,
  dada tu costumbre a tener la 'muerte' misma a centímetros.
- En serio, no se que voy a hacer contigo.
+ En serio, no sé que voy a hacer contigo.
  ¿Quizá debería darte algo a lo que tenerle miedo de verdad?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -84,7 +83,7 @@ Bueno,
 [sha:a8e0cdf9fe0a736e179c5fc8be2570947f15f80d]{
 -- Page 434, Offset 20799.
 -- 誰か、明確な解説を求む。
-Alguien, por favor, ilumíname.
+Que alguien me ilumine por favor.
 }
 [sha:d5399b4762e4b6a4479c4cf5e93225673d29c7b0]{
 -- Page 435, Offset 20800.
@@ -159,14 +158,13 @@ Y para que lo sepas, nunca me he rendido ante la desesperación, ni por mi mismo
 [sha:276b4ef5cc677d0055cd4456564928823f1aebbf]{
 -- Page 440, Offset 20813.
 -- そうだろうとも。
-// Tl oficial
 Seguro que lo es.
 }
 [sha:176318d59b4cf02ed9152aac13e1043397621bc8]{
 -- Page 440, Offset 20814.
 -- これは矜持というか、依り所の話だ。
-// Mix de tls
 Pero es una cuestión de orgullo. De tener un sitio al que pertenecer.
+ 
 }
 [sha:c7606f5d987bb369402905c8bf1be376f2fc6df9]{
 -- Page 440, Offset 20815.
@@ -188,7 +186,6 @@ Si ese es el caso, no quiero ceder ante la desesperación antes de cumplir con �
 [sha:1dbbb38bb10c5ba1b203973705d123877bed508b]{
 -- Page 441, Offset 20818.
 -- 裸眼でいると色々と不都合があるけど、食欲が薄れるのは手間が省けて楽だよ。もともと小食だから相性はいいと思う」
-// Mix de tls en la ultima línea
 Ir por ahí sin mis gafas puede ser problemático, seguro,
  pero no tener apetito me ahorra mucho tiempo.
  Siempre he comido poco, así que combina bastante bien conmigo."
@@ -313,20 +310,19 @@ Pensaba que era un tema que te incomodaba..."
 -- 今日の学校での事前調査だって、俺に無理させたくなかったんだろ？　おまえだって昼間は辛いのに。
 Y también está el que vinieras a la escuela para revisarla por adelantado――
  lo hiciste para que no tuviera que esforzarme, ¿verdad?
- Aunque sea duro para ti estar fuera de día.
+ Aunque estar fuera de día sea duro para ti.
 }
 [sha:0a9b446136d729673baa85b23913bff7239edfc1]{
 -- Page 449, Offset 20841.
 -- だから、ありがとう。……ここまでされてやっと気がつくあたり、お礼を言える立場でもないけど」
-// Joder que frase mas larga xd
 Así que... gracias.
- Sé que no estoy en posición de agradecerte tras haber tardado tanto en darme cuenta de lo que has hecho por mi,
+ Sé que no estoy en posición de agradecerte tras haber tardado tanto en darme cuenta de lo que has hecho por mí,
  pero déjame decirlo igualmente."
 }
 [sha:c204da43f5a697934ad7426aac229b01d67a20d6]{
 -- Page 450, Offset 20842.
 -- 「でも、そういうアルクェイドはどうなんだ？
-"Pero, ¿cómo te encuentras tu?
+"Pero, ¿tú cómo te encuentras?
 }
 [sha:98afa04b20959745df62b6f8bf20194d6f0575bc]{
 -- Page 450, Offset 20843.
@@ -367,7 +363,7 @@ No es dolorosa――si tuviera que describirlo, es más bien una sensación de p
 [sha:b7cb25dd4eb9b743d226411daafeffb7b719cd85]{
 -- Page 453, Offset 20850.
 -- 「いや―――なんだ、これ」
-"Que raro... ¿que ha sido eso?"
+"Que raro... ¿qué ha sido eso?"
 }
 [sha:c8cd612ced5180632a5caf7ac3d1f9ea5c5d0f0e]{
 -- Page 453, Offset 20851.
@@ -377,13 +373,11 @@ Sin saber muy bien por qué, meto la mano por el cuello de mi camisa.
 [sha:124fbff77e54d776d112a47d71bae8417143a433]{
 -- Page 454, Offset 20852.
 -- ―――ぬるり。
-// Tl oficial
 ―――Es viscoso.
 }
 [sha:b404db49e8cb06b574c866afbbe00c8c708f3221]{
 -- Page 454, Offset 20853.
 -- 何か。
-// Tl oficial
 ¿Por qué?
 }
 [sha:9cd7d127a078648eff712ebaae2c19014d8d6779]{
@@ -409,24 +403,21 @@ Pegada a mi mano―――
 [sha:89eb5bce5e1158963157bbf13f59afb43a1ac69e]{
 -- Page 455, Offset 20858.
 -- 真っ赤な血が、べったり、と。
-// Mix de tls
 Una mancha carmesí de sangre.
 }
-[sha:dc06185e07677b1228446fbcf397e61bf2b8bd60]{
+[offset:20859]{
 -- Page 456, Offset 20859.
 -- 「え―――――」
-"Qu―――"
+"Que―――"
 }
 [sha:98290311bbd23ecf3099d3951f54dcbbea47ec01]{
 -- Page 456, Offset 20860.
 -- ちくん。
-// Tl oficial
 Otro pinchazo.
 }
 [sha:f89b018425c53bdf1ad0f86d71e02299431ec680]{
 -- Page 456, Offset 20861.
 -- またおかしな感触がする。
-// Tl oficial
 Y de nuevo la sensación extraña.
 }
 [sha:2c6dfb527260b09e72c6019f4ab5cdd26b4dd32b]{
@@ -452,7 +443,6 @@ Es muy rojo.
 [sha:cfd7d5d097d282e10ca1201abc1b63e89f9048c6]{
 -- Page 458, Offset 20866.
 -- 綺麗で、濁りのない、目を奪う赤い水。
-// Mix de tls y adaptado.
 Un líquido rojo, tan puro, tan cautivador.
 }
 [sha:9bdd1e82a8cd8e38effcd39d8cb3d9f1a31a6e18]{
@@ -470,15 +460,14 @@ No duele, y el sangrado parece haberse detenido, así que no hay nada de lo que 
 -- アルクェイドは呆然と俺の手を見ている。
 Arcueid sigue mirando mi mano, absorta.
 }
-[sha:7d336c68eb9d86aae86d2d4b2ea61ac1ebc97ce5]{
+[offset:20870]{
 -- Page 460, Offset 20870.
 -- いや、正しくは。
-No, para ser preciso―――
+O más bien,
 }
 [sha:64b95b6155692f1107fc4662cb3516ef005da7c2]{
 -- Page 460, Offset 20871.
 -- 俺の手にべったりと付着した、赤い血を見つめている。
-// Tl oficial
 está completamente fija en el líquido carmesí de mi mano.
 }
 [sha:436dda8c25fd431107b7f928a6af352a7416bdcc]{
@@ -491,10 +480,10 @@ está completamente fija en el líquido carmesí de mi mano.
 -- 「――――――――」
 "――――――――"
 }
-[sha:7ef6dc156f74976249afea1d52ca7a5bb0c79955]{
+[offset:20874]{
 -- Page 461, Offset 20874.
 -- アルクェイドは答えない。
-Arcueid no responde.
+No responde.
 }
 [sha:3e0855a3ae0c86cc5b8a164f2fec8af480529208]{
 -- Page 461, Offset 20875.
@@ -521,7 +510,7 @@ Está jadeando, como si estuviera sufriendo.
 -- アルクェイドの肩を掴む。
 Agarro a Arcueid por el hombro.
 }
-[sha:15666c4b28bd5363d84ef70dbadababb7c88a960]{
+[offset:20880]{
 -- Page 463, Offset 20880.
 -- ――――と。
 Pero entonces―――
@@ -603,11 +592,10 @@ Desaparece antes de que pueda pararla mucho menos perseguirla.
 -- Page 468, Offset 20895.
 -- アルクェイドは俺の目も見ないまま、たん、と虚空に向かって跳んでいってしまった。
 Sin siquiera mirarme a los ojos,
- sale disparada, elevándose al vasto cielo sobre mi.
+ sale disparada, elevándose al vasto cielo sobre mí.
 }
 [sha:d701d092170d66f1c8eb6afb688cec4417ff085d]{
 -- Page 468, Offset 20896.
 -- それこそ、月面を跳ねる兎のように。
-// Tl oficial
-Como un conejo, saltando por la luna.
+Como un conejo, saltando sobre la luna.
 }

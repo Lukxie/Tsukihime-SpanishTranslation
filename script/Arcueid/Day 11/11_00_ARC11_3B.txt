@@ -6,7 +6,7 @@ El apartamento de Arcueid no ha cambiado nada.
 [sha:ab81a2dee29b5dc31732afa0ec370c0afe3811e3]{
 -- Page 10007, Offset 30248.
 -- 変わったのは俺たちだ。
-Nosotros hemos cambiado.
+Los que han cambiado somos nosotros.
 }
 [sha:7dcbf03e8a26a026eb6516e3c88c9b944d9311bb]{
 -- Page 10007, Offset 30249.
@@ -57,18 +57,18 @@ Pero al hacerlo――Arcueid me toca la espalda suavemente.
 [sha:51448a05738994eddf1e598c73bcd3170a92c9eb]{
 -- Page 256, Offset 30258.
 -- ……アルクェイドの声は落ち着いている。
-Su voz el calmada.
+Hay calma en su voz.
 }
 [sha:ba7a6985735a78c918b45be2ff0a139de43cebff]{
 -- Page 256, Offset 30259.
 -- 背中に触れた手は、何かを確かめるようにじっとして動かない。
-La mano en mi espalda está completamente inmovil,
+La mano en mi espalda está completamente inmóvil,
  como si reafirmara que esto es real.
 }
 [sha:a9576a05cced15a908054b4d10855eb68bcf6a31]{
 -- Page 257, Offset 30260.
 -- 「……ねえ志貴。わたしが、初めてあなたを待っていた時のこと、覚えてる？」
-"Ey, Shiki. ¿Te acuerdas de la primera vez que nos vimos? Cuando te esperé."
+"Shiki. ¿Te acuerdas de la primera vez que nos vimos? Cuando te esperé."
 }
 [sha:29ae33524d8882480aae63136aba58da76443b63]{
 -- Page 257, Offset 30261.
@@ -95,7 +95,7 @@ En contraste a sus palabras, la voz de Arcueid es increíblemente gentil.
 [sha:81eea6712ecb8068abfbee516d73061fcc55b905]{
 -- Page 259, Offset 30265.
 -- 「―――もう自分でも吸血衝動は抑えられないと判っていて。
-"―――Ya sabía que no podía contener mis impulsos vampíricos por mucho más.
+"―――Sabía que no podía contener mis impulsos vampíricos por mucho más.
 }
 [sha:a492b1e14dcb2d96586636768ecd9c40d0865a30]{
 -- Page 259, Offset 30266.
@@ -171,7 +171,7 @@ No podía aguantarlo ni un segundo más, quería conocerte ya.
 [sha:cbdccfbf43b0a7a7c910f0485e1d2ed44f345325]{
 -- Page 263, Offset 30279.
 -- わたしをあんなふうに殺したヤツ、わたしが初めて、自分を見失うぐらいに―――ずっと、思い続けている誰かに」
-La persona que me mató brutalmente, quien me hizo perder los estribos por primera vez――
+La persona que me mató brutalmente, quién me hizo perder los estribos por primera vez――
 la persona en la que no podía parar de pensar."
 }
 [sha:8013765baa0d4c20587d4bc45473f217aa118286]{
@@ -249,7 +249,7 @@ Nuestros labios se encuentran.
 [sha:1be78061bc97b57df7211af2c0b3b826c48cdeb0]{
 -- Page 269, Offset 30294.
 -- どちらかが求めたのかもしれないし、どちらもが求めたのかもしれない。
-No se quien de los dos buscó al otro. Quizá los dos.
+No sé quién de los dos buscó al otro. Quizá ambos lo hicimos.
 }
 [sha:d4718d9faf4c85bb87fd3c5e5e8911ae16bfa1b2]{
 -- Page 269, Offset 30295.
@@ -295,7 +295,6 @@ Pero no es porque tenga miedo.
 [sha:0dc1582399bbe27e18ff066839276f452756ccfb]{
 -- Page 271, Offset 30303.
 -- 閉じられた目蓋、上気した桜色の頬が、たまらなく愛らしい。
-// Mix de tls
 Ojos cerrados y mejillas sonrosadas; el epítome de lo adorable.
 }
 [sha:15c735699397481447390ac5e31df814a3595505]{
@@ -341,29 +340,26 @@ Su cabello dorado baila suavemente.
 [sha:094417aeaf9f4a55149501edbfa03568f957daec]{
 -- Page 275, Offset 30312.
 -- 「アルクェイド……こういうの、イヤか」
-"Arcueid... ¿no te gusta... esto?"
+"Arcueid... ¿esto... no te gusta?"
 }
 [sha:d0a27bec96943dd5b5f7aa553dc92cbc647dfef0]{
 -- Page 275, Offset 30313.
 -- 「―――ううん。わたし、すごくどきどきしてる」
-// Tl oficial aunque no sea precisa.
 "No... Me ha encantado. Mi corazón está a mil."
 }
-[sha:621b6aae64858d609eaade7715f31f611cd3cc81]{
+[offset:30314]{
 -- Page 275, Offset 30314.
 -- どくん、と。
-%{i}Badum%{/i}.
+%{i}Ba-dum%{/i}.
 }
 [sha:855a3dfb906727ca3fd7530047ff61e2c9f8a6ee]{
 -- Page 275, Offset 30315.
 -- たしかに、彼女の心音はとても大きくなってきている。
-// Tl oficial
 En efecto, tanto que puedo escucharlo latir,
 }
 [sha:92602501e1cd9bd5b20d1d61f7de3ad5ec960b30]{
 -- Page 275, Offset 30316.
 -- ……そんなの、こっちも同じ事だけど。
-// Tl oficial
 y el sonido del mío lo acompaña.
 }
 [sha:a44ae88d36c0626a69c6273f74019aa9e62267a2]{
@@ -384,7 +380,7 @@ y el sonido del mío lo acompaña.
 [sha:e9d2d65f0e2f5ad1ddfee0451609b810e22d5078]{
 -- Page 277, Offset 30320.
 -- 「……うん。だってね、志貴。
-"Ah... Bueno, veras, Shiki...
+"Ah... Bueno, verás, Shiki...
 }
 [sha:8143d64e1a24f99bc2251b23ac5390b6b5c138d9]{
 -- Page 277, Offset 30321.
@@ -414,7 +410,7 @@ Con eso, es jaque mate.
 [sha:108d6a430a80afd9385455aae6dd62dc647bd2f0]{
 -- Page 278, Offset 30326.
 -- 自分が遠野志貴という人間である事さえ消失した。
-Mi mente se queda en blanco. Incluso de quien soy.
+Mi mente se queda en blanco. Incluso ni sé quien soy.
 }
 [sha:b30e1adf8492ad9ef9e2f349b38e2ca8a8917a9a]{
 -- Page 279, Offset 30327.
@@ -424,7 +420,7 @@ Colpaso en la cama con Arcueid aún en mis brazos.
 [sha:1b6b48fc0da0cef0d8427ae265ad16c09ee4f8a6]{
 -- Page 279, Offset 30328.
 -- 彼女の肌に、彼女の髪に手を伸ばそうとして、
-Paso mis manos por su pelo, por su piel desnuda―――
+Paso mis manos por su cabello, por su piel desnuda―――
 }
 [sha:fa95fcfac1b11654caca18511b6109cb47f0b284]{
 -- Page 279, Offset 30329.
@@ -534,19 +530,17 @@ Pero no tengo nada de lo que arrepentirme, acabo de hacer el amor con Arcueid.
 [sha:7824fb04b8c97a597baa89fcd02925165f24ca54]{
 -- Page 285, Offset 30349.
 -- ただ、もう少し。
-// Tl oficial
-Excepto quizá... ojalá hubiese mantenido la calma―――
+Excepto porque... ojalá hubiese mantenido la calma―――
 }
 [sha:21aca473f7ee0a5d461754233abbb3105119b267]{
 -- Page 285, Offset 30350.
 -- もう少しちゃんと理性を働かせて、アルクェイドの肌の感触とか、恥じらうときの表情とかを噛み締めたかった。
-// Tl oficial
 Si me hubiera controlado quizá pudiera haber saboreado la calidez de su piel o el rubor de su rostro.
 }
 [sha:16270ae4deb438bc1861da5b8d9f01bd3e040689]{
 -- Page 286, Offset 30351.
 -- 「……まだ無理かな。今はついていくのが精一杯だし」
-"Supongo que aún no estoy listo... casi no puedo seguirla el ritmo."
+"Supongo que aún no estoy listo... casi no puedo seguirle el ritmo."
 }
 [sha:dfac227bbf9826bb3c43ca2ba48cb4cdcc78857e]{
 -- Page 286, Offset 30352.
@@ -619,7 +613,7 @@ Sino porque Arcueid, que ha estado sola todo este tiempo,
 [sha:f6a2ced6cba17d3024c2de6284e3c84d26c49ef4]{
 -- Page 291, Offset 30365.
 -- くらり、と意識が薄れる。
-Me consciencia empieza a desvanecerse.
+Mi consciencia empieza a desvanecerse.
 }
 [sha:65e7a62ba07371602de1f2127f1ed228d6fb23ac]{
 -- Page 291, Offset 30366.

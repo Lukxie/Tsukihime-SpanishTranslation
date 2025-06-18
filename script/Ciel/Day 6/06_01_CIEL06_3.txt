@@ -246,12 +246,12 @@
 [sha:0f47e994796114ea6d2b122e8e6960f80b072c9b]{
 -- Page 138, Offset 13515.
 -- 「ハァーイ、おっはよっうチャーン！
-"¡Hiiiiii, buenoooos diiiiiias!
+-- TRANSLATION HERE
 }
 [sha:c633a41078b07a5d6ad59b4896839c95f1a321a1]{
 -- Page 138, Offset 13516. Mods: @k, @e.
 -- 朝からカラダをいじってほしいとかぁ、
-¿Quieres que juegue contigo a primera hora de la mañana?
+-- TRANSLATION HERE
 }
 [sha:a306a95aa7c740b4c712c75abeb6cfaa86870d5a]{
 -- Page 138, Offset 13517. Glued. Mods: @x, @k, @e.

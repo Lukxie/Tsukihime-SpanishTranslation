@@ -1,7 +1,7 @@
 [sha:404226a9e4c8399a11a0a23dc49a65c47fcc8918]{
 -- Page 10015, Offset 21844.
 -- ……話し声が聞こえてくる。
-Escucho el sonido de la gente hablando...
+Escucho el sonido de gente hablando...
 }
 [sha:7d2a36f327886c0983c77002e49a0cb86734ea89]{
 -- Page 194, Offset 21845.
@@ -96,7 +96,7 @@ No entiendo del todo lo que está pasando.
 [sha:8a1720122541b8de6959c3842415e2729bcfe946]{
 -- Page 202, Offset 21862.
 -- 分からないけれど、翡翠が俺のせいで怒られている、という事ぐらいは読み取れた。
-Pero al menos puedo decir que están echando la bronca a Hisui por mi.
+Pero al menos puedo decir que están echando la bronca a Hisui por mi culpa.
 }
 [sha:78623c53603398756ab1b6a837bb839ee5128be3]{
 -- Page 203, Offset 21863.
@@ -106,7 +106,7 @@ Pero al menos puedo decir que están echando la bronca a Hisui por mi.
 [sha:dd0e88c1ed9488a4e1c772ad7e7b5da3130fe852]{
 -- Page 203, Offset 21864.
 -- 貴女は今日一日、どこで何をしていたのかを。
-¿Por qué no me explicas donde y que has estado haciendo todo el día?
+¿Por qué no me explicas donde y qué has estado haciendo todo el día?
 }
 [sha:fec54483bbd9f443f86bc374fa72af74636c5183]{
 -- Page 203, Offset 21865.
@@ -199,7 +199,7 @@ Pongo fuerza en mis brazos y de alguna forma consigo incorporarme parcialmente.
 [sha:6861973920ea05206027c8079896c30ba12379af]{
 -- Page 209, Offset 21881.
 -- 今はそれが精一杯。もう指一本だって動かせそうにない。
-Para solo hacer eso, he tenido que dar todo de mi.
+Solo para hacer eso, he tenido que dar todo de mí.
  Llegado a este punto no creo poder mover otro músculo.
 }
 [sha:3762739dc81d3998fe60ce718c92579faede2f6c]{
@@ -254,7 +254,7 @@ Sin embargo, no mi cuerpo no me preocupa tanto como la promesa que hice con Arcu
 [sha:8301b82d7263216136741d29ad5c49a7b0158485]{
 -- Page 214, Offset 21891.
 -- “夜の10時、次はぜったい時間厳守”
-Mañana noche espero que estés aquí justo a las diez.'
+ 'Mañana noche espero que estés aquí justo a las diez.'
 }
 [sha:ec2dcc3baa04c7470e4855de70ba44b94b289249]{
 -- Page 214, Offset 21892.
@@ -284,7 +284,7 @@ Lo siento, Akiha. Tengo que salir, así que te dejo el resto. No seas mala con H
 [sha:426b7ad532ac538c4d929a641f25d407c8bb9078]{
 -- Page 216, Offset 21897.
 -- 私、兄さんが毎夜どこに行くかなんてもう聞きません。聞きませんから、どうか今夜ぐらいは、ご自分の体を大事にしてあげてください……！」
-Ya no te preguntaré qué haces de noche. ¡No lo haré, así que por favor, cuida tu cuerpo, al menos esta noche!"
+No te volveré a preguntar qué haces de noche. ¡No lo haré, así que por favor, al menos esta noche, cuida tu cuerpo!"
 }
 [sha:61f49af5fbd72f5322a423d224004951036ec313]{
 -- Page 217, Offset 21898.

@@ -1,7 +1,7 @@
 [sha:a109852b6143674947e86027a8f5abc3cfa70ed0]{
 -- Page 10009, Offset 9396.
 -- 夜の９時を過ぎた頃、俺たちは公園に移動した。
-Nos dirigimos al parque a las nueve y pico de la noche.
+A las nueve y pico de la noche nos dirigimos al parque.
 }
 [sha:b6434394dd4758437db9a21ff394f535ad2a2d32]{
 -- Page 315, Offset 9397.
@@ -32,12 +32,12 @@ Derrotar a un Apóstol Muerto significa vencer a su superpoder.
 -- Page 316, Offset 9402.
 -- あの炎を消す手段を獲得しないかぎり人間に勝ち目はない。だから―――わたしがヴローヴの呪いを壊すまで、志貴はアイツに近づかないでね」
 Sin una forma de extinguir las llamas los humanos no tienen oportunidad contra Vlov.
- Es por eso que necesito que estés alejado de él hasta que rompa su maldición."
+ Es por eso que necesito que estés alejado de él hasta que rompa su maldición." 
 }
 [sha:0971ad639697657b6dbf5d757b667ca185b4e213]{
 -- Page 317, Offset 9403.
 -- 計画自体はいたってシンプルだ。
-El plan en sí es bastante simple.
+El plan en si es bastante simple.
 }
 [sha:79e5c5e1f11a08eb65228675e192247822fb625a]{
 -- Page 317, Offset 9404.
@@ -57,7 +57,7 @@ Parece que Vlov no esconde su longitud de onda.
 [sha:58ee87d81c3106d1138183ccc8b0b88509c141eb]{
 -- Page 318, Offset 9407.
 -- その気がないのか、単に出来ないのかは不明とのこと。
-No se si es porque no le importa, o porque simplemente no puede.
+No sé si es porque no le importa, o porque simplemente no puede.
 }
 [sha:83996a5542e7fd5bad41146964313f8683e602d6]{
 -- Page 319, Offset 9408.
@@ -67,8 +67,8 @@ De cualquier forma, si Vlov comienza a acercarse, Arcueid será capaz de detecta
 [sha:bc0346c8cb64c82e1703b09e6a0feda951def481]{
 -- Page 319, Offset 9409.
 -- 一方、アルクェイドは波長を常時抑えているが、今は解放してヴローヴを挑発している。
-Por otro lado, Arcueid normalmente suprime su longitud de onda,
- pero ahora mismo está emitiendola a propósito para provocar a Vlov.
+Por otro lado, Arcueid normalmente suprime su longitud de onda, 
+ pero ahora mismo la está emitiendo a propósito para provocar a Vlov.
 }
 [sha:0720500700f04f0247706d83284cd78a65b0da4c]{
 -- Page 320, Offset 9410.
@@ -139,7 +139,7 @@ Soy muy consciente de ello.
 [sha:37a4428d4b1612399dcd144e796bfc1155e8296c]{
 -- Page 325, Offset 9423.
 -- 一つは隠れている俺を、ヴローヴが察知している場合。
-Para empezar, cabe la posibilidad de que Vlov se de cuenta de que me estoy escondiendo.
+Para empezar, cabe la posibilidad de que Vlov se de cuenta dé que me estoy escondiendo.
 }
 [sha:e8e10f9a91b63966a93d9b43d9ed926506f371f6]{
 -- Page 325, Offset 9424.
@@ -149,7 +149,7 @@ Aunque Arcueid ha dicho que la posibilidad de que esto pase es extremadamente ba
 [sha:82a7cba52995b8b3dddb3e9c1be9a8a4a10fdbdf]{
 -- Page 325, Offset 9425.
 -- そうなれば俺の安全は保証されない。ホテルの時のように、何もできないまま焼かれる危険性がある。
-Si eso ocurre, no se puede garantizar mi seguridad. Corro el riesgo de morir en vano quemado, como la gente del hotel.
+Si eso ocurre, no se puede garantizar mi seguridad. Corro el riesgo de morir en vano quemado, igual que la gente del hotel. 
 }
 [sha:404820038a6bd0f8b1b7866cea151c3d6885d34c]{
 -- Page 326, Offset 9426.
@@ -184,7 +184,7 @@ Recaerá en este cuchillo tanto detener a Vlov como salvar a Arcueid.
 [sha:68cebf0b5cfca6d42577500cee0f495df16257b9]{
 -- Page 328, Offset 9432.
 -- あの吸血鬼を。
-Puedo de verdad ir contra ese vampiro―――
+De verdad puedo ir contra ese vampiro―――
 }
 [sha:ba97b1b7fb963fe2eef0add17027072a3e785dde]{
 -- Page 328, Offset 9433.
@@ -194,7 +194,7 @@ Contra esas llamas――¿yo solo?
 [sha:bc8f10a78184aeed1bce240951371a2c0c090dda]{
 -- Page 329, Offset 9434.
 -- それを思うと手足が震える。
-Solo pensarlo hace que mis extremidades tiemblen.
+El solo pensarlo hace que mis extremidades tiemblen.
 }
 [sha:9510d3e8af814e27190d00f8d7bba982badb129c]{
 -- Page 329, Offset 9435.
@@ -219,7 +219,7 @@ Ni yo mismo sé lo que causa este sentimiento―――
 [sha:08a9da9f70ab174d7e81afafe993c0be292fbd32]{
 -- Page 330, Offset 9439.
 -- 気がつくと、アルクェイドのヤツが俺の正面に立っていた。
-Al salir de mis pensamientos, Arcueid está de pie frente a mi.
+Cuando vuelvo en mi, Arcueid está plantada frente a mí.
 }
 [sha:5ae3d81b012d7bc28d0659606dff22a7e0b8acca]{
 -- Page 330, Offset 9440.
@@ -236,26 +236,26 @@ Debe haber notado que estaba temblando.
 [sha:a8480e534e1373ec162d0d7f2549b7b33e78c78b]{
 -- Page 331, Offset 9442.
 -- 「？　志貴、泣いてないけど？」
-// Modificado para que tenga sentido en español
+//Modificado para que tenga sentido en español
 "¿Eh? Pero Shiki, ¿por qué no te veo llorar?"
 }
 [sha:4552496b301a59864a6fd725a8b8ecf39399bcf9]{
 -- Page 331, Offset 9443.
 -- 「必死に我慢してんだよ。わかれ、バカ」
-"Eso es porque me estoy aguantando, obvio.
+"Obviamente porque me estoy aguantando.
  Lee un poco el ambiente, idiota."
 }
 [sha:a07a7603a48648cccfb495fc18a6272a9068436a]{
 -- Page 332, Offset 9444.
 -- ほんとに無神経なヤツである。少しはこっちの意地を分かってほしい。
-Es muy insensible. Estaría bien que pudiera entenderme, aunque solo sea un poco.
+Que insensible es. Estaría bien que pudiera entenderme, aunque solo fuera un poco.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 333, Offset 9445.
 -- 「……………」
 "........."
 }
-[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+[offset:9446]{
 -- Page 333, Offset 9446.
 -- しかし。
 En vez, esto es lo que me toca.
@@ -263,12 +263,12 @@ En vez, esto es lo que me toca.
 [sha:c64b2e74391360b4437d36b9201fe32055e687b8]{
 -- Page 333, Offset 9447.
 -- なにが不満なのか、アルクェイドは俺の返答がお気に召さなかった様子だ。
-No estoy seguro de que parte de lo que acabo de decirla la ha sacado de quicio, pero parece estar molesta.
+No estoy seguro de que parte de lo que acabo de decir la ha sacado de quicio, pero parece estar molesta.
 }
 [sha:b52f95a3f3666e4d0bfe58c5eb75dcb2f9e1f0ee]{
 -- Page 334, Offset 9448.
 -- 「ところで、私もその吸血鬼なんだけど」
-"Por si no lo sabías, cómo el, yo tambíen soy un vampiro."
+"Por si no lo sabías, al igual que él, yo tambíen soy un vampiro."
 }
 [sha:372141908e42903237aaf914ab79fd55216f95ea]{
 -- Page 334, Offset 9449.
@@ -315,17 +315,17 @@ Tiene toda la razón... pero...
 [sha:46799c69025e33f7954627edc3f217785a6e6548]{
 -- Page 338, Offset 9457.
 -- 納得がいったのか、ふーん、とアルクェイドは他人事のように流していた。
-No se si lo ha entendido o no, pero hace un sonido evasivo y deja el tema.
+No sé si lo ha entendido o no, pero suelta un 'hmm' y deja el tema.
 }
 [sha:62e6a2d9fbe85f13223ca9f1af927e0574ded7b9]{
 -- Page 339, Offset 9458.
 -- 時計の針が10時を指す。
-Las manilla del reloj marca las diez.
+Las manecillas del reloj marcan las diez.
 }
 [sha:a834825558544ec372aa9dc8fc7352121c46b6dc]{
 -- Page 339, Offset 9459.
 -- アルクェイドによれば、このあたりから吸血鬼の活動時間になるらしい。
-De acuerdo con Arcueid, ahora es cuando los vampiros son más activos.
+De acuerdo con Arcueid, es ahora cuando los vampiros son más activos.
 }
 [sha:5be267c6d61236ee1374ce17510d6d1e9fe22740]{
 -- Page 340, Offset 9460.
@@ -366,7 +366,7 @@ Murmurando con un asco intenso, mira al norte――en dirección a la estación.
 [sha:ed9cc5b09fea443411758e88349da2f1fe9d419f]{
 -- Page 343, Offset 9467.
 -- アルクェイドが見ている方角に視線を向ける。
-Me giro para mirar donde Arcueid mira.
+Me giro hacia donde Arcueid mira.
 }
 [sha:0ae624b624dbbb2973e89904357fc7153aa7c783]{
 -- Page 343, Offset 9468.
@@ -403,7 +403,7 @@ Debe haber un fuego en algu――no, un momento.
 -- 「正気が欠けている、なんて甘かった。アイツは死者と変わらない。血が足りなければ目の前の人間から補充するケダモノだった。文明社会―――この時代の人間のルールを、まるで把握していない」
 "Decir que está demente no lo hace justicia.
  He sido demasiado optimista.
- No es diferente a los Muertos.
+ No es diferente a uno de los Muertos.
  No es más que una bestia que se alimenta de cualquiera a la vista cuando le falta sangre.
  Es como si fuera totalmente incapaz de entender las reglas humanas de esta era――de la sociedad civilizada."
 }

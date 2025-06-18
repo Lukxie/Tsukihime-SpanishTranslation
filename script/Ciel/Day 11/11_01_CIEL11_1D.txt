@@ -86,17 +86,17 @@ Duele.
 [sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
 -- Page 92, Offset 29300.
 -- ……。
-...
+-- TRANSLATION HERE
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 92, Offset 29301.
 -- …………。
-......
+-- TRANSLATION HERE
 }
 [sha:bc901850a5107465d5916e1396176a5ecabf1fc5]{
 -- Page 92, Offset 29302.
 -- …………………。
-.........
+-- TRANSLATION HERE
 }
 [sha:b22142e14faa9fd7962ee71cdf43361fec01b43a]{
 -- Page 92, Offset 29303.

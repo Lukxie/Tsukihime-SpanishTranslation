@@ -16,8 +16,8 @@ Como puedes ver, Arcueid está estupefacta. Es como si acabara de considerar la 
 [sha:be89f72ad6b33f0b5bc1d8b493cf12db923e10a4]{
 -- Page 470, Offset 6862.
 -- なんでだろ。なんとなくね、路地裏で志貴と話しているうちに信用しきってたみたい」
-Que raro...
- Supongo que sentí que podía confiar en ti después de hablar contigo en el callejón."
+Qué raro...
+ Supongo tras hablar contigo en el callejón sentí que podía confiar en ti."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 470, Offset 6863.
@@ -57,12 +57,12 @@ Dices 'en guardia', pero no es que vaya a ser de mucha utilidad si viene algo co
 [sha:65c9dcd7a0f8d9b6abca9fc37484487f0ba2eff4]{
 -- Page 473, Offset 6870.
 -- 自分には荷が勝ちすぎる話だと承知しているが、“分かっている”だけでは見張り役すら務まらない。
-Se muy bien que este tipo de responsabilidad está por encima de mis capacidades, y decir que 'recibido' simplemente no va a hacer capaz de montar guardia.
+Sé muy bien que este tipo de responsabilidad está por encima de mis capacidades, y simplemente decir 'recibido' no me va a hacer capaz de montar guardia.
 }
 [sha:c438c78e4103296372677cabcf031a3d0b6a5a3d]{
 -- Page 474, Offset 6871.
 -- ……中断してしまった情報収集を再開しよう。
-Vamos a recapitular lo que sabemos antes de avanzar.
+Antes de avanzar vamos a recapitular lo que sabemos.
 }
 [sha:f3e5160c54cf07bd139e71dd166607770082b2d8]{
 -- Page 474, Offset 6872.
@@ -131,18 +131,18 @@ Porque en este momento, Arcueid está muy débil.
 [sha:0ebbe0c0ecdc883a7c3d794528df90cb0ab4139e]{
 -- Page 480, Offset 6884.
 -- 「そして、敵とやらには手足になる部下がいて、おまえには誰もいない、と」
-"Además, este enemigo tiene subordinados que hacen el trabajo sucio por él, pero tú por otro lado no tienes nadie de quien depender, ¿cierto?"
+"Además, este enemigo tiene subordinados que hacen el trabajo sucio por él, pero tú por otro lado no tienes nadie de quién depender, ¿cierto?"
 }
 [sha:ec17305b76a8246a0758c72763a6a50e917360cd]{
 -- Page 480, Offset 6885.
 -- むう、と不機嫌そうに眉を寄せるアルクェイド。
-// Esto hay que revisarlo, no tengo el juego abierto mientras traduzco
-Arcueid protesta, frunciendo el ceño insatisfecha.
+//Esto hay que revisarlo, no tengo el juego abierto mientras traduzco
+Arcueid protesta insatisfecha, frunciendo el ceño.
 }
 [sha:1dc43e8c2b9a6a5d297447bb321328434aa35465]{
 -- Page 481, Offset 6886.
 -- 反論しない、というコトは本当にひとりなのか……
-No está intentando negarlo... supongo que de verdad está ella sola.
+No está intentando negarlo... supongo que de verdad está sola.
 }
 [sha:03f3f8cc8e880f8c1e04acc93896ab408a51fcf9]{
 -- Page 481, Offset 6887.
@@ -157,7 +157,7 @@ Bueno, no es que sean buenas noticias para mi.
 [sha:f9f6e579291fd470f710406666ff3103416cb7f8]{
 -- Page 482, Offset 6889.
 -- じゃあ、『仲間がたくさんいる吸血鬼』ってのはどんなヤツなんだ？」
-Si lo es, ¿cual es el nombre concreto para un 'vampiro con muchos aliados'?
+Si lo es, ¿cuál es el nombre concreto para un 'vampiro con muchos aliados'?
 }
 [sha:6c91eff8ba91c09b70fac80e31002876d261e494]{
 -- Page 483, Offset 6890.
@@ -167,7 +167,7 @@ Si lo es, ¿cual es el nombre concreto para un 'vampiro con muchos aliados'?
 [sha:6fd712a35d331840268100f39d23346daed6624c]{
 -- Page 483, Offset 6891.
 -- ……ええっと、どうすれば簡単に説明できるかな……」
-Hmm... cual es la mejor manera de explicar esto..."
+Hmm... cuál es la mejor manera de explicar esto..."
 }
 [sha:fe2e8afd729857b76cd9ccf1b67208e2e8781472]{
 -- Page 484, Offset 6892.
@@ -187,17 +187,17 @@ Parece que no está acostumbrada a hablar con gente.
 [sha:3f7bd1be05d3ec70f78351872498aaad43605b42]{
 -- Page 485, Offset 6895.
 -- 俺もわけが分からないけど、なんとか話の筋を見極めるから」
-No se lo que está pasando en realidad, pero intentaré seguir la explicación lo mejor que pueda.
+No sé muy bien lo que está pasando, pero intentaré seguir la explicación lo mejor que pueda.
 }
 [sha:20ad44f3ace34f061a90c745c123927f7effa0c5]{
 -- Page 486, Offset 6896.
 -- 「そう？　ありがと、志貴」
-"¿De verdad? Muchas gracias, Shiki."
+"¿De veras? Muchas gracias, Shiki."
 }
 [sha:85e41ce44b31eb4d6a701b5adef65c805d64142a]{
 -- Page 486, Offset 6897.
 -- 「はいはい。お礼はいいから続けてくれ」
-"Claro, por supuesto. No tienes que agradecerme, continúa."
+"Sí, sí. Tú sigue, no hace falta agradecerme."
 }
 [sha:0e15e757eebd6720bccb49d66d2e1d86e7066953]{
 -- Page 486, Offset 6898.
@@ -232,13 +232,13 @@ El vampiro escoge humanos con habilidades excepcionales y los vuelve sus subordi
 [sha:18604bef27eb6567bbdb88a6f3e3c44fc5c44e2f]{
 -- Page 489, Offset 6904.
 -- 吸血鬼に血を吸われた人間は死んで“城主”の操り人形になるけど、人間だった頃のパーソナリティも残している。
-Los humanos a los que les ha chupado la sangre a un vampiro mueren y se convierten en marionetas del Soberano, aunque aún retienen su personalidad de cuando eran humanos.
+Los humanos a los que le ha chupado la sangre un vampiro mueren y se convierten en marionetas del Soberano, aunque conservan la personalidad de cuando eran humanos.
 }
 [sha:edaffa9f8bf44e96c0137a88efc16a60746acc0c]{
 -- Page 489, Offset 6905.
 -- ようは『人格の残った死体』ね。<死|し><徒|と>の<階梯|かいてい>でいうと<不死級|さんだんかいめ>の、上級の使い魔ってところ」
 En otras palabras, un 'cadáver que retiene la consciencia'.
- En relación a los rangos de los Apóstoles Muertos, estos No Muertos son el tercer eslabón más bajo, equivalentes a un familiar de alta calidad."
+ En relación a los rangos de los Apóstoles Muertos, estos Muertos Vivientes son el tercer eslabón más bajo, equivalentes a un familiar de alta calidad."
 }
 [sha:da7a14a59d46613455f829da8ed6d9dfe8864f16]{
 -- Page 490, Offset 6906. Mods: @n.
@@ -254,12 +254,12 @@ Genial, acaba de empezar ¡y ya me he perdido!
 -- Page 490, Offset 6908.
 -- だがこっちも眠って頭はスッキリしている。
 Es bueno que haya dormido un poco.
- Mi mente está renovada y lista.
+ Mi mente está fresca y lista.
 }
 [sha:be9d86c601050adaea70fb4df66e50a53f99ae5f]{
 -- Page 490, Offset 6909.
 -- 不明な単語はスッ飛ばして、理解できたところだけ追求するぞっ。
-Voy a obviar las palabras que no entienda y preguntar por las partes que entienda.
+Voy a obviar las palabras que no entienda y preguntar por las partes que sí.
 }
 [sha:c253d7e9a4d038adeecd51c266f09357897a5f96]{
 -- Page 491, Offset 6910. Mods: @n.
@@ -309,12 +309,12 @@ Es extrañamente versátil...
 [sha:7d85d1c2d689b8aac219e31823904d459b34d246]{
 -- Page 494, Offset 6919.
 -- 「都市の人間をある程度の数<下僕|しもべ>にした“城主”は<棺|ひつぎ>を用意して眠りにつく。
-"Cuando el Soberano ha convertido en subordinados a un cierto número de habitantes, se preparan un ataúd y se van a dormir.
+"Cuando el Soberano ha convertido en subordinados a un cierto número de habitantes, preparan un ataúd y se van a dormir.
 }
 [sha:faa27cd46f2cee1f34d4d64a29e1bd8feb940b4a]{
 -- Page 494, Offset 6920.
 -- 日中は活動できないし、なにより“城主”の吸血鬼は活動するだけで目立つから。食糧の備蓄、勢力拡大は下僕たちに任せるの」
-Los Soberanos no pueden ir por el día de un lado para otro ya que únicamente su presencia llamaría la atención.
+Los Soberanos no pueden ir por el día de un lado para otro ya que tan solo su presencia ya llamaría la atención.
  En vez de eso, es tarea de los subordinados acumular 'comida' y expandir su influencia."
 }
 [sha:8f05b8e48119bf9d1ef830720ec5f114c068bef5]{
@@ -332,7 +332,7 @@ Estos subordinados también necesitan carne y sangre humana para mantenerse,
 -- Page 495, Offset 6923.
 -- “城主”は棺で眠ったまま力を蓄え、最後にはコミュニティごと自分の血肉に変えてしまう。
 El poder del Soberano continúa acumulándose mientras duerme en su ataúd,
- hasta que finalmente la comunidad entera se ha convertido en su carne de su carne.
+ hasta que finalmente la comunidad entera se ha convertido en su carne y sangre.
 }
 [sha:ab845a995168f3dbcfdedb83606c6e25b645c277]{
 -- Page 495, Offset 6924.
@@ -367,18 +367,18 @@ Esta vez no tengo pistas, así que no me queda más remedio que pasearme por la 
 [sha:6091424f265763e545ca40ba79947f66790ded9e]{
 -- Page 497, Offset 6930.
 -- そうしていたら、通りすがりの殺人鬼に襲われちゃって、まあたいへん」
-Y mientras estaba dando una vuelta, me mató un asesino.
- ¡qué lástima!"
+Y mientras andaba con ello, un asesino me mató.
+ ¡menudo lío!"
 }
 [sha:40fdd59035bfda0eabfb93cde588c7e429c62bd2]{
 -- Page 498, Offset 6931.
 -- ぽん、と両手を合わせてアルクェイドは笑いかけてくる。
-Sonriéndome, da una palmada.
+Sonriéndome, da una palmada. 
 }
 [sha:9cd9f4ccc4361e71de3fbdc119ae578590745992]{
 -- Page 498, Offset 6932.
 -- 通りすがりの殺人鬼への当てつけであろう。たいへん居心地が悪い。
-Parece que está sacando buen provecho de dicho asesino. No se siente bien.
+Parece ser una indirecta hacia dicho asesino. Bastante incómodo he de decir.
 }
 [sha:96cdfccc0cfac6b78ac5f353af1c80c04f3990e9]{
 -- Page 499, Offset 6933.
@@ -393,7 +393,7 @@ Así que, un monstruo que caza humanos ha construido un nido en esta ciudad, y h
 [sha:920e7e3bacaf46f03d1a348c585787b25cdd9069]{
 -- Page 499, Offset 6935.
 -- けどそいつの居場所を探している時に、その、俺にやられちまって、今は弱っているから回復するまで隠れてる……そういうコトか？」
-Pero mientras buscabas donde se esconde... fue cuando, bueno... te ataque, lo que significa que ahora estás débil y tienes que esconderte hasta que te recuperes... ¿Lo he entendido bien?"
+Pero mientras buscabas donde se esconde... fue cuando, bueno... te ataqué, lo que significa que ahora estás débil y tienes que esconderte hasta que te recuperes... ¿Lo he entendido bien?"
 }
 [sha:1590a189dcfe91175233c04784455b759f7df8f3]{
 -- Page 500, Offset 6936.
@@ -408,7 +408,7 @@ Pero mientras buscabas donde se esconde... fue cuando, bueno... te ataque, lo qu
 [sha:115b1eecbc6de9151c2217b3546a7b7937a2ae33]{
 -- Page 500, Offset 6938.
 -- 下僕なんか作らずに、全部ひとりでやればいいじゃないか」
-¿No sería más fácil que lo haga el mismo sin crear todos esos subordinados?"
+¿No sería más fácil que lo haga él mismo sin crear todos esos subordinados?"
 }
 [sha:9e6ee271c463b3eef556ba7ed4de6fd5214c0ae0]{
 -- Page 501, Offset 6939.
@@ -424,7 +424,7 @@ Sin importar sus superpoderes;
 [sha:8d353f7de78ba053912c46b7d7225215cfb74871]{
 -- Page 501, Offset 6941.
 -- 弱点が多い彼等は、決して表舞台に長居はしない。
-Tienen tantas debilidades que no pueden permanecer en la superficie por mucho tiempo.
+Tienen tantas debilidades que no pueden permanecer mucho tiempo en la superficie.
 }
 [sha:582a9aa215a8e7126bffb74d123c1c6b49751119]{
 -- Page 501, Offset 6942.
@@ -436,7 +436,7 @@ Por eso acechan desde la seguridad de sus escondites y recolectan sangre usando 
 [sha:fb92805dd9e3ee1df67b6c60431c4943d0c4b2fe]{
 -- Page 502, Offset 6943.
 -- 「弱点が多い、ねぇ……その、具体的には？」
-"Muchas debilidades... ¿cómo cuales?"
+"Muchas debilidades... ¿cómo cuáles?"
 }
 [sha:dbcedf66e8248e3f83eab30e50770600693c7e50]{
 -- Page 502, Offset 6944.
@@ -447,7 +447,7 @@ Por eso acechan desde la seguridad de sus escondites y recolectan sangre usando 
 [sha:8d0f70688bacb5a638a76c9819eec7229aaf061b]{
 -- Page 502, Offset 6945.
 -- <敵|・><が|・><多|・><い|・>、という事かしら」
-Simplemente que tienen %{i}un monton%{/i} de enemigos, ¿supongo?"
+Que simplemente tienen %{i}un montón%{/i} de enemigos, ¿supongo?"
 }
 [sha:fb6a2742794617b49743e3ce0d108b75dde914f1]{
 -- Page 502, Offset 6946.
@@ -469,12 +469,12 @@ Sabes... los humanos odian a los vampiros.
 -- Page 503, Offset 6949.
 -- いるのよ、世界には吸血鬼が事件を起こせば駆けつけてくる、吸血鬼を殺す事だけを目的とした<連中|ニンゲン>が」
 Así que sí, existe gente cuyo único objetivo es matar vampiros,
- y tienden a ir corriendo cuando en el mundo ocurre cualquier incidente relacionado con vampiros."
+ y tienden a ir corriendo cuando en el mundo ocurre cualquier incidente relacionado con ellos."
 }
 [sha:aac95f315358bff2479f8ab01ad62757d003e6ae]{
 -- Page 504, Offset 6950.
 -- 「とくに陰湿で執念深いのが教会……西欧を中心にした宗教の異端狩り。主の意思を人の手で代行する、なんてお題目から代行者と呼ばれているわ。
-"De la Iglesia son los más infames y tenaces... cazadores de heréticos de una religión basada en la Europa Occidental. Dicen que su objetivo es %{i}ejecutar%{/i} la voluntad divina, así que naturalmente, se llaman Ejecutores.
+"En lo que respecta a esto, la Iglesia son los más infames y tenaces... cazadores de heréticos de una religión basada en Europa Occidental. Dicen que su objetivo es %{i}ejecutar%{/i} la voluntad divina, por lo que se llaman Ejecutores, naturalmente.
 }
 [sha:b62999df6447735ab66cb7fc10bcf893a0ca46a3]{
 -- Page 504, Offset 6951.
@@ -485,7 +485,7 @@ Esa gente se ha pasado cientos de años refinando sus técnicas para asesinar Ap
 [sha:684e8d448d7d12afc5b195d5378cdb79766547e8]{
 -- Page 505, Offset 6952.
 -- 「だから吸血鬼はいったん隠れるの。いちいち相手をしていたら血も集まらないし、なにより封印される危険性があるから」
-"Por eso los vampiros intentan ocultarse por un tiempo. Si tuvieran que lidiar con la Iglesia todo el tiempo, no serían capaces de reunir suficiente sangre. Además, aún más importante, corren el riesgo de ser sellados."
+"Por eso los vampiros intentan ocultarse por un tiempo. Si tuvieran que lidiar con la Iglesia todo el tiempo, no serían capaces de reunir sangre suficiente. Además, aún más importante, corren el riesgo de ser sellados."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 506, Offset 6953.
@@ -500,9 +500,9 @@ Los cazadores de heréticos de la Iglesia... ¿supongo que son como los cazadore
 [sha:252fd7a796c231aa4cdc3935fe616acf23c3de96]{
 -- Page 506, Offset 6955.
 -- 吸血鬼たちが隠れるぐらいなんだから対吸血鬼のスペシャリストなんだろう。
-Esos cazadores deben ser especialistas antivampiros de verdad si los vampiros tienen que esconderse.
+Si los vampiros tienen que esconderse, esos cazadores deben ser especialistas antivampiros de verdad.
 }
-[sha:73abbb531dcbcbd0910c206019c82e3edf2ee810]{
+[offset:6956]{
 -- Page 506, Offset 6956.
 -- しかし……
 Aún así...
@@ -531,7 +531,7 @@ Entonces, una vez haya devorado la ciudad completamente, pasarían a buscar otro
 [sha:84cc05dcf1a8fc18939002e50c11935a061ac2e1]{
 -- Page 509, Offset 6961.
 -- 「貴方たち人間が吸血鬼を排除したかったら、それは『事件が起きる前』に気づくしかない。吸血鬼事件なんてものが起きた時点で、その街は根本から腐っている。
-"Si vosotros los humanos queréis exterminar vampiros, debéis daros cuenta de estos incidentes antes de que pasen.
+"Si vosotros, los humanos, queréis exterminar vampiros, debéis daros cuenta de estos incidentes antes de que pasen.
  Para cuando la actividad vampírica es visiblemente evidente, la ciudad ya está podrida hasta la médula.
 }
 [sha:954398d0cd280f697332b706cd6bb323c2345736]{
@@ -587,7 +587,7 @@ Y además―――
 [sha:02b4c929ec5d1bdceb5598e3f72b649d0bf75e9d]{
 -- Page 513, Offset 6972.
 -- 「当たり前じゃない。その必要性がないんだもの」
-// Y por eso es una mujer ficticia xd
+//Y por eso es una mujer ficticia xd
 "Por supuesto que no. Las mentiras no me sirven de nada."
 }
 [sha:f698e6058b19a2f01c4d1c5227400a4bf3256fd7]{
@@ -634,12 +634,12 @@ La cuestión no es si son reales o no; es más que no me puedo imaginar como son
 -- Page 516, Offset 6981.
 -- 旧いタイプとか言われてもお手上げだ。おまえとそいつらの違いも分からない」
 Dices cosas como 'clase tradicional' y ya me he perdido.
- Ni siquiera se las diferencias entre ellos y tú."
+ Ni siquiera sé las diferencias entre ellos y tú."
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:6982]{
 -- Page 517, Offset 6982.
 -- ……そうだ。
-Eso es verdad...
+Eso es...
 }
 [sha:0e114c40c071cbab155bc7b417966a1f08597860]{
 -- Page 517, Offset 6983.
@@ -649,7 +649,7 @@ Ni siquiera debería estar hablando con ella si no se la diferencia. No puedo co
 [sha:9df996dd0e518bf4b1b7ef62b9b628a00032e691]{
 -- Page 517, Offset 6984.
 -- だって、コイツがその“城主”の吸血鬼より、更に危険な生き物の可能性だってあるのだから。
-Quiero decir, cabe la posibilidad de que ella sea más peligrosa que el vampiro Soberano.
+Quiero decir, cabe la posibilidad de que ella sea aún más peligrosa que el vampiro Soberano.
 }
 [sha:35e7ab6613563869b77aeacf3931a26447a1a307]{
 -- Page 518, Offset 6985.
@@ -684,12 +684,12 @@ Arcueid mantiene el dedo en alto orgullosamente.
 [sha:c2635777435d475c457b1ad80114ed84fccab53c]{
 -- Page 521, Offset 6991.
 -- 「志貴は素人だから、吸血鬼なら子猫でも知っているようなコトから始めないといけないでしょ？
-"Aún eres un completo novato, así que vamos a empezar con cosas que incluso un gatito podría entender, ¿vale?
+"Aún eres un completo novato, así que vamos a empezar con cosas que incluso un gatito podría entender, ¿vale? 
 }
 [sha:b0d387bf5189c16824f07d4d420a275c6ac75a15]{
 -- Page 521, Offset 6992.
 -- だから基礎編。だいじょうぶ、先輩としてバシッと教えてあげるから」
-// Fundamentos Vampiricos?
+//Fundamentos Vampiricos?
 Por tanto: 'Fundamentos sobre Vampiros'.
  No te preocupes. Tengo experiencia suficiente en este campo, considérate en buenas manos."
 }
@@ -702,7 +702,7 @@ No me fío ni un poco de esas manos.
 [sha:825dacf9d0c377c3a028aaa2257cc257ce9f4039]{
 -- Page 523, Offset 6994.
 -- 「……はあ。オーケー。とりあえず、手短に頼むよ」
-// Otro sfx que no me acuerdo como suena una vez se juegue supongo que habrá que corregirlo
+//Otro sfx que no me acuerdo como suena una vez se juegue supongo que habrá que corregirlo
 "%{i}Haaah%{/i}... Vale.  Bueno al menos, intenta ser breve, ¿vale?"
 }
 [sha:489f2a8d701e364f07b115864837881b428e6864]{
@@ -723,7 +723,7 @@ Ya lo mencioné antes, pero parece que Arcueid no está acostumbrada a entablar 
 [sha:fbe9ef1929376b7cb3537d1870ea7f4d7c79c187]{
 -- Page 525, Offset 6998.
 -- ……まあ、自称吸血鬼なんだから、人間と話をする機会なんて今までなかったのかもしれない。
-Bueno... se llama a sí misma vampiro, así que quizá nunca haya tenido la oportunidad de hablar con un humano.
+Bueno... se llama vampiro a sí misma, osea que quizá nunca haya tenido la oportunidad de hablar con un humano.
 }
 [sha:622e34d656b70960ecfc970deda0d9e02deea6f3]{
 -- Page 526, Offset 6999.

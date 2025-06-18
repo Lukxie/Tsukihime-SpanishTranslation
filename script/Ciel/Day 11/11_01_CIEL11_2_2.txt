@@ -96,7 +96,7 @@
 [sha:f8087b4253d6e9b2d979b7d14622b103ba67ad0c]{
 -- Page 127, Offset 29436.
 -- なんという事はない。
-No es nada de lo que preocuparse.
+-- TRANSLATION HERE
 }
 [sha:d015b335ed1859b227e6337f46c8961db185903d]{
 -- Page 127, Offset 29437.
@@ -256,7 +256,7 @@ No es nada de lo que preocuparse.
 [sha:c09f3877d5a9f201580d69b929cbe917e305a990]{
 -- Page 135, Offset 29468.
 -- ―――さて。
-―――Bien pues.
+-- TRANSLATION HERE
 }
 [sha:c63b767c35b73a6f975d422c739c86c66961aecd]{
 -- Page 135, Offset 29469.

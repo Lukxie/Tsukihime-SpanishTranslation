@@ -3,7 +3,7 @@
 -- 「―――そっか。うん、いい人なんだね、あなた」
 "Ya veo... Sí, eres una buena persona, ¿no?"
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:6178]{
 -- Page 10010, Offset 6178.
 -- 「……？」
 ¿Eh...?
@@ -11,7 +11,7 @@
 [sha:ff30e0be48a88774e4a0e611edd24c190ed17202]{
 -- Page 221, Offset 6179.
 -- 驚きから顔を上げる。
-Miro hacia arriba, sorprendido
+Miro hacia arriba, sorprendido.
 }
 [sha:bd41a033abd6844ec26623e09ccdd747feb80eeb]{
 -- Page 221, Offset 6180.
@@ -26,17 +26,17 @@ Para ser una vampiro autoproclamada, sin duda tiene una cara honesta.
 [sha:469fd8dd0a8e404c03056c3b6bb2656b6055dc91]{
 -- Page 222, Offset 6182.
 -- 「決めた。
-"Está decidido.
+"Decidido.
 }
 [sha:4cbd75c0743f214ce6051247991bfe3292038095]{
 -- Page 222, Offset 6183.
 -- やっぱりあなたには、わたしの手伝いをしてもらうわ」
 Creo que después de todo te haré ayudarme."
 }
-[sha:ad108496c15f148ab18c2fe886302b0b07d145c3]{
+[offset:6184]{
 -- Page 223, Offset 6184.
 -- 「―――は？」
-"―――¿Perdón?"
+"¿Qu―――?"
 }
 [sha:753151c9dcd47b0671f129f0f5ee002171ae3a4a]{
 -- Page 223, Offset 6185.
@@ -63,7 +63,7 @@ Quiere que la ayude...
 [sha:b7f3f59c69d3e97a66ba72a8d02e5c897d5caa88]{
 -- Page 224, Offset 6189.
 -- この街に根付いている吸血鬼の始末を、ちょっと手伝ってもらおうかなって」
-Pensé en que quizá te haga ayudarme a deshacerme del vampiro que se ha infiltrado en esta ciudad."
+Se me ha ocurrido que quizá te haga ayudarme a deshacerme del vampiro que se ha infiltrado en esta ciudad."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 224, Offset 6190.
@@ -101,23 +101,23 @@ Vives aquí, ¿cierto?
 [sha:e0b4a5a7aac2107a1c0b9f6ed132cc3677438131]{
 -- Page 226, Offset 6196.
 -- なら、最近起きている殺人事件も知ってるわよね」
-Entonces debes saber sobre los recientes asesinatos.
+Entonces debes saber sobre los recientes asesinatos."
 }
 [sha:b71c180710b9e96a42906f88ab58dcef5fee9529]{
 -- Page 227, Offset 6197.
 -- 「う……いや、まあ」
-"Uhh... bueno, sí."
+"Ehm... bueno, sí."
 }
 [sha:98e47c4bbc5fddce7362997fe867a0db55b4c242]{
 -- Page 227, Offset 6198.
 -- 聞き覚えのある世間話を振られて、混乱した頭がクールダウンする。おかしな話だが、殺人事件という異常な話の方が、いまの状況より何倍もリアルな話だった。
 Las palabras familiares dan a mi mente algo a lo que agarrarse.
- Es extraño, pero la historia loca sobre los asesinatos en serie parece más real que la situación actual.
+ Es extraño, pero la historia descabellada sobre los asesinatos en serie parece más real que la situación actual.
 }
 [sha:c298f56bdea0f222c3054a7a9bb019dedcfb6918]{
 -- Page 228, Offset 6199.
 -- 「……そりゃあ知ってるよ。連続通り魔だろ。もう何人も殺されてる事件で、被害者は血液を抜かれて―――」
-// Drenadas, sin sangre, desangradas. lo que quede mejor
+//Drenadas, sin sangre, desangradas. lo que quede mejor
 "Sí... sé sobre ellos.
  Estás hablando sobre los asesinatos en serie, ¿cierto?
  Muchas personas han sido asesinadas,
@@ -126,7 +126,7 @@ Las palabras familiares dan a mi mente algo a lo que agarrarse.
 [sha:8919c18f29f6a7c44bba974c443550cb05319120]{
 -- Page 229, Offset 6200.
 -- そこまで口にして、女の言い分を理解する。
-Tan pronto como digo eso, me doy cuenta a lo que se refería.
+En cuanto lo digo, me doy cuenta de a que se refería.
 }
 [sha:154f4394f8164dedbee46e7bea008e547c76455b]{
 -- Page 229, Offset 6201.
@@ -146,7 +146,7 @@ Sigues diciéndome que te mate, pero ahora mismo esa es la única persona con la
 [sha:885d3262002caae18b9733544586c319689a62d4]{
 -- Page 230, Offset 6204.
 -- この殺人犯って、あなたたちにとっても敵なんじゃないの？」
-"¿No dirías que este asesino en serie es también tu enemigo?"
+¿No dirías que este asesino en serie es también tu enemigo?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 231, Offset 6205.
@@ -156,26 +156,26 @@ Sigues diciéndome que te mate, pero ahora mismo esa es la única persona con la
 [sha:a664bec77a550391ff66e9d2ab4a52710864bc5a]{
 -- Page 231, Offset 6206.
 -- 更新される状況に追いつこうと頭を走らせる。
-Mis pensamientos se aceleran intentando entender esta información nueva.
+Mis pensamientos se aceleran intentando entender esta nueva información.
 }
 [sha:374db4cb3f8dfd96b3303a2514bb87aef6c89166]{
 -- Page 231, Offset 6207.
 -- 文脈は分かる。女が何を言っているのかも理解できる。しかし根本的なところで、俺の常識は置いてけぼりになっていた。
 Entiendo el contexto.
- Entiendo lo que está diciendo.
+ Entiendo lo que dice.
  Pero mi habilidad para razonarlo se ve superada.
 }
 [sha:1a871b8a2ef7dd126e2169a0ac4d66f97e837d17]{
 -- Page 232, Offset 6208.
 -- 「ほーんと、人間って非効率すぎて理解できないわ。
-"Honestamente los humanos son taaan ineficientes,
- de verdad no los entiendo para nada.
+"De verdad, los humanos son taaan ineficientes,
+ no los entiendo para nada.
 }
 [sha:4533a9927ca51ab25f3261039fefa18b98a893ae]{
 -- Page 232, Offset 6209.
 -- 自分たちで『吸血鬼のしわざか』と言っているのに、誰も吸血鬼退治をしないんだもの。森が燃えているのに逃げ出さない栗鼠みたい」
 Vais por ahí proclamando 'esto es la obra de un vampiro',
- pero nadie hace nada para exterminarlos.
+ pero nadie hace nada por exterminarlos.
  Sois como ardillas que no huyen del bosque aunque esté en llamas."
 }
 [sha:71bf7fb12605228a39efc415891a58ca374d4cf4]{
@@ -201,7 +201,7 @@ Oh... cierto.
 [sha:1295b699f0038c2e4943fc884e634a9768c39d77]{
 -- Page 233, Offset 6214.
 -- いま目の前にいるのは吸血鬼を名乗っている正体不明の存在だったっけ。
-Recuerdo que la persona frente a mí es un ente desconocido que se llama vampiro a sí misma.
+Recuerdo que la persona frente a mí es un ente desconocido que se llama a sí misma vampiro.
 }
 [sha:f5706ecb2b117094d5d8026407b06c345b41baf4]{
 -- Page 234, Offset 6215.
@@ -216,7 +216,7 @@ Recuerdo que la persona frente a mí es un ente desconocido que se llama vampiro
 [sha:b7f8300d0da0287472b72eb924c84acfd5d4f582]{
 -- Page 234, Offset 6217.
 -- んで、それの手伝いを俺にしろとか言っちゃってるのか？
-Y... ¿estas diciendo que supuestamente %{i}yo%{/i} tengo que ayudarte con eso?
+Y... ¿estás diciendo que supuestamente %{i}yo%{/i} tengo que ayudarte con eso?
 }
 [sha:de9dc36a507581802fb3793904b1ff8576ef6f24]{
 -- Page 235, Offset 6218.
@@ -226,7 +226,7 @@ Y... ¿estas diciendo que supuestamente %{i}yo%{/i} tengo que ayudarte con eso?
 [sha:92c5822029f0cc612ee966006a3b327397970c27]{
 -- Page 235, Offset 6219.
 -- 昨日、なぜか見ず知らずの殺人鬼に襲われて殺されちゃったから。うん、アレはまいったなあ。もうかんっぺきな不意打ちで、反撃する間もなく十七個に切断されたんだもの」
-Ayer, desafortunadamente un asesino desconocido me atacó y mató por la razón que sea.
+Por desgracia, ayer, por la razón que sea, un asesino desconocido me atacó y mató.
  Sí, eso la verdad que puso trabas a mis planes.
  Fue un ataque sorpresa perfecto, y me cortaron en diecisiete pedazos antes de que siquiera pudiese contraatacar."
 }
@@ -235,7 +235,7 @@ Ayer, desafortunadamente un asesino desconocido me atacó y mató por la razón 
 -- 「はじめて見ただけの相手を尾行して、殺したら満足して去っていくとかどうなの？　ほーんと、酷いなんてものじゃないわ。言い逃れもできないぐらい、完全な殺人鬼よね、そいつ」
 "¿Cómo puede alguien perseguir a una persona que acaba de ver, matarla, y marcharse satisfecho?
  Es tan cruel que me pone enferma.
- Quien quiera que lo haya hecho no es más que un asesino de sangre fría."
+ Quién quiera que lo haya hecho no es más que un asesino de sangre fría."
 }
 [sha:33df52a8003b3c747f6ca52844b2a31202086fd5]{
 -- Page 237, Offset 6221.
@@ -245,7 +245,7 @@ Ayer, desafortunadamente un asesino desconocido me atacó y mató por la razón 
 [sha:1c970a84ac76e16717ec9dd80f69e76f1bf99d23]{
 -- Page 237, Offset 6222.
 -- ……くそ。その殺人鬼って、どうみても俺の事だよな。
-Maldita sea... Está claramente hablando de mí.
+Maldita sea... Claramente está hablando de mí.
 }
 [sha:6932380d1e3aa645ae40e9339ec7a9fa9f2a0e54]{
 -- Page 237, Offset 6223.
@@ -261,19 +261,19 @@ Por mucho que lo intente negar, no hay nada que pueda decir.
 -- Page 238, Offset 6225.
 -- あんな屈辱を受けたのは初めてだったし、復元しきるのに八割以上の力を消費してしまったわけだし」
 Nunca me habían humillado así,
- y solo para reconstruir mi cuerpo tuve que usar más de un ochenta por ciento de mi energía.
+ y solo para reconstruir mi cuerpo tuve que usar más de un ochenta por ciento de mi energía."
 }
 [sha:df8a3690d13150797a4fda1b5858f863226f291b]{
 -- Page 239, Offset 6226.
 -- 「それよりなにより、ほんっっっとうに、ものすごく痛かったんだから。あんまりにも痛いから気が触れそうになるんだけど、やっぱりあんまりにも痛くて正気に戻るの。
 "Pero más que nada, dolió %{i}muuuuuchiisimo%{/i}.
  Dolió tanto que pensaba que me iba a volver loca,
- pero entonces dolió aún más y eso me devolvió la conciencia de nuevo.
+ pero entonces dolió aún más y eso me devolvió de nuevo la consciencia.
 }
 [sha:996d3712186f5a63becb1c6458b3d48245f2bd7f]{
 -- Page 239, Offset 6227.
 -- そんな繰り返しを一晩体験したわたしの気持ち、わかる？」
-"¿Tienes una idea de lo cómo se siente estar constantemente oscilando entre tales extremos durante toda una noche?"
+¿Tienes una idea de lo cómo se siente estar constantemente oscilando entre tales extremos durante toda una noche?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 240, Offset 6228.
@@ -288,23 +288,23 @@ Lo siento. Como ser humano, eso está más allá de lo que puedo imaginar.
 [sha:4927411a6a674709ae902ec722bf62bac1d6803f]{
 -- Page 241, Offset 6230.
 -- 「それでね、もう憎くて憎くてあなたを探したわ。
-"Y entonces, empecé a odiarte tanto que empecé a buscarte.
+"Y entonces, empecé a odiarte tanto que te empecé a buscar.
 }
 [sha:8b583ac5f58b7f7cbbdbd63091f55d152350be3b]{
 -- Page 241, Offset 6231.
 -- 目的である吸血鬼も放っておいたぐらい、それだけに熱中した」
-Me enfadé tanto que deje de lado mi objetivo original, que era encontrar ese vampiro."
+Me enfadé tanto que dejé de lado mi objetivo original, que era encontrar ese vampiro."
 }
 [sha:279dcc7b21fc049a0114b87af3a119f69d928565]{
 -- Page 242, Offset 6232.
 -- 「土地の記録からあなたの服装があの学校のものだって判ったのは二時間ぐらい前の話。
-"Solo fue hace unas horas cuando me enteré por los registros municipales que tu ropa pertenecía a esa escuela.
+"Hace solo unas horas que me enteré que tu ropa pertenecía a esa escuela por los registros municipales.
 }
 [sha:cd5808d926c053c936aa0865244b6d51bbc1e94d]{
 -- Page 242, Offset 6233.
 -- ホントは夜まで待って捕まえようと思ったけど、もう一分だって待ちたくなかった。それじゃあって、あそこで待つコトにしたの」
-Originalmente pensaba esperar hasta la noche para atraparte, pero simplemente no podía esperar más.
- Es por eso que en vez de eso decidí esperarte allí.
+En realidad pensaba esperar hasta la noche para atraparte, pero no podía aguantar ni un minuto más.
+ Así que decidí esperarte allí."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 243, Offset 6234.
@@ -321,16 +321,16 @@ Ya veo... por eso me estaba esperando frente a la escuela.
 -- それだけの痛みを経験した後だ、さぞ俺を殺したくてたまらなかっただろう。
 Seguro que tras experimentar tanto dolor, debía estar muriéndose por matarme.
 }
-[sha:73abbb531dcbcbd0910c206019c82e3edf2ee810]{
+[offset:6237]{
 -- Page 243, Offset 6237.
 -- しかし……
-Aún así...
+Pero...
 }
 [sha:29343151d95b16331b551228b1bf8ca77d99ac36]{
 -- Page 244, Offset 6238.
 -- 「……わからないな。そこまで憎かったのに、どうして俺を許すなんて言うんだ」
 "No lo entiendo...
- si me odiabas tanto, ¿por qué ahora estás dispuesta a perdonarme?"
+ si tanto me odiabas, ¿por qué ahora estás dispuesta a perdonarme?"
 }
 [sha:de3b243e899d8c8711b59d301dae58492da9ebbf]{
 -- Page 245, Offset 6239.
@@ -345,7 +345,7 @@ Resumiendo supongo me tranquilicé con el tiempo... o algo.
 [sha:e582919a58d8992d83f09f1d0f6cbc6a67bc29b6]{
 -- Page 245, Offset 6241.
 -- わたしも力を消費しちゃったコトだし、メッタメタに殺すより、グッチャグチャの盾になってもらったほうが効率的だなって考えたの」
-También he usado mi poder bastante,
+También he usado bastante mi poder,
  así que pensé que en vez de matarte sin pensarlo, sería más eficiente hacer que seas mi escudo de carne."
 }
 [sha:a7c0fd983ab7a3860399bebac5c7216f98ff3d12]{
@@ -376,17 +376,17 @@ Y además, un %{i}tipo%{/i} particular de escudo.
 [sha:c9349a767b3bd50924beef0ca329d8219d73270e]{
 -- Page 247, Offset 6247.
 -- わたしはあなたのことを許したけど、それはわたし個人の感情に整理をつけただけだもの。
-Te he perdonado, seguro, pero eso solamente concierne mis sentimientos personales.
+Te he perdonado, claro, pero solamente en lo que concierne a mis sentimientos personales.
 }
 [sha:ddd1947fc83cabd4ec313b5ff413129c72ff4dde]{
 -- Page 247, Offset 6248.
 -- あなたが犯した殺害という行為そのものは、やっぱり気持ちじゃなくて行為で<贖|あがな>うしかないでしょ？」
-Pero aún tienes que expiar el asesinato que cometiste con acciones más que palabras, ¿no te parece?"
+Aún tienes que expiar el asesinato que cometiste con acciones más que palabras, ¿no te parece?" 
 }
 [sha:e7104792a4d1f34498f6d9eef087bc7837d91041]{
 -- Page 247, Offset 6249.
 -- 「いや、でしょ、と言われても」
-"Me refiero, es cierto, pero..."
+"Quiero decir, es cierto, pero..."
 }
 [sha:0994954a77a6eb0a1a7494ba0f449fc9b7e6bfbc]{
 -- Page 248, Offset 6250.
@@ -447,19 +447,19 @@ Su enfado de anoche, olvidado hasta ahora, parece haber resurgido mientras despo
 [sha:8cab865f873fe7c9a360187184a9ca8a15fb1b75]{
 -- Page 252, Offset 6261. Mods: @k, @e.
 -- 二晩も経てば回復するだろうけど、その前に襲われたら打つ手がないの。
-// Igual decir 'no hay nada que pueda hacer' en vez de se acabó lo que se daba es mas correcto
+//Igual decir 'no hay nada que pueda hacer' en vez de se acabó lo que se daba es mas correcto
 Probablemente vuelva a la normalidad en dos días o así,
  pero si me atacan antes, no habrá nada que pueda hacer.
 }
 [sha:4f7de02f18fb6154ff78ea9047a28f329c676faf]{
 -- Page 252, Offset 6262. Glued. Mods: @x.
 -- だからその間、あなたにはわたしの盾になってもらうから」
-Por eso mientras tanto voy a hacer que seas mi escudo."
+ Por eso mientras tanto voy a hacer que seas mi escudo."
 }
 [sha:c09aab5309589cde5f4386835bc1847d662c5499]{
 -- Page 252, Offset 6263.
 -- 「いや、もらうからって、なに勝手に決めてんだよ!?」
-// Eh, si esto suena mal en algún dialecto del español pues que se cambie
+//Eh, si esto suena mal en algún dialecto del español pues que se cambie
 "Ey, ¡no puedes coger y decidir hacerme tu escudo así como así!"
 }
 [sha:c701a3e0d16775e16846931b5d4a546710a63f85]{
@@ -496,7 +496,7 @@ No me mires así antes de tener la oportunidad de arrepentirme o decir que me lo
 [sha:eb28bf9de91f0372f1dffb55e13f1c1b0b82430e]{
 -- Page 255, Offset 6270.
 -- 吸血鬼なんて怪物を自称するのなら、そんな純粋な目で<人|オ><間|レ>を責めないでほしい。
-Si te vas a llamar de monstruo como son los vampiros, al menos deja de condenarme con esos ojos tan puros.
+Si dices ser un monstruo como es un vampiro, al menos deja de condenarme con esos ojos tan puros.
 }
 [sha:038bcaf95c83dfc5b9753c884a8aebaff4e0ed59]{
 -- Page 256, Offset 6271.

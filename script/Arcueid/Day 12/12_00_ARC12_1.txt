@@ -108,7 +108,7 @@ Me hundo en el sofá y me quedo con la mirada perdida en el reloj.
 [sha:ae4cf41d74999eba933f73e9501910e085d47991]{
 -- Page 7, Offset 30492. Glued. Mods: @x.
 -- 今日は学校があると分かってますよね？」
-pero sabes que hoy tienes clase, ¿verdad?"
+ pero sabes que hoy tienes clase, ¿verdad?"
 }
 [sha:a585f19b6bad73fb86e82dd69da238d00fb76f51]{
 -- Page 7, Offset 30493.
@@ -200,7 +200,7 @@ No hay nadie, como esperarías.
 [sha:78e2318fe9f1b80ec4fd9fff8910e6c1ecb2abd2]{
 -- Page 13, Offset 30510.
 -- ―――何をしているんだろう、俺は。
-―――¿Se puede saber que hago?
+―――¿Se puede saber qué hago?
 }
 [sha:78069903157d4d1823585138e08d2db0534773f6]{
 -- Page 13, Offset 30511.

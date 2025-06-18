@@ -17,7 +17,7 @@ Dicho eso, debería ser honesto y decir que saldré de casa esta noche.
 [sha:d5bc993e6af5a6289530b737b1d9c0d625ec5f5d]{
 -- Page 265, Offset 20331.
 -- 「……ああ。実はこれから何日か、夜は出かける事になる。
-"Sí... saldré de casa cada noche por un tiempo.
+"Sí... por un tiempo saldré de casa cada noche.
 }
 [sha:ec27d685f5b027f4952a41face1f83488a464719]{
 -- Page 265, Offset 20332.
@@ -25,10 +25,10 @@ Dicho eso, debería ser honesto y decir que saldré de casa esta noche.
 Pero juro que no es para hacer el tonto ni nada inapropiado.
  Sé que Akiha me va a odiar por esto, pero no puedo dejar a medias lo que estoy haciendo."
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:20333]{
 -- Page 266, Offset 20333.
 -- ……そうだ。
-Eso es verdad...
+Cierto...
 }
 [sha:caf88f516fc5b47af49d8c923673e2436a28c403]{
 -- Page 266, Offset 20334.
@@ -62,7 +62,7 @@ Como humano que habita esta ciudad, no puedo apartar la mirada y pretender que n
 [sha:b986ccec8eddbb27fd9442efa5d882558e11862f]{
 -- Page 269, Offset 20339.
 -- 「……いえ。志貴さまはわたしの主人です。
-"No. Tu eres mi amo.
+"No. Usted es mi amo.
 }
 [sha:7c0238c77d11848d193b9503501a3162218b800b]{
 -- Page 269, Offset 20340.
@@ -72,7 +72,7 @@ Ninguna sirvienta regañaría a su amo y lo llamaría inútil."
 [sha:c257dc692c2dc369aacecfc15f49ca9da5ed1c2c]{
 -- Page 270, Offset 20341.
 -- 無表情で、淡々と翡翠は語る。
-Hisui responde como si fuera lo más normal del mundo, inexpresiva.
+Hisui responde inexpresiva como si fuera lo más normal del mundo.
 }
 [sha:ba4dc13214af0db31b9b08af5ab686b87920031b]{
 -- Page 270, Offset 20342.
@@ -94,10 +94,10 @@ Inclino la cabeza y empiezo a subir las escaleras.
 -- 」
 "
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:20346]{
 -- Page 271, Offset 20346.
 -- ……と。
-Sin embargo...
+Pero entonces, Hisui me pide que me detenga.
 }
 [sha:c1dd4f6d4f69ca4bb767816c415b107eac06cbf6]{
 -- Page 271, Offset 20347.
@@ -117,7 +117,7 @@ Hisui pierde el hilo, pero aprieta las manos con fuerza, se gira y me mira direc
 [sha:5132bb2ad9dbf2075b8de864c059e47559186ad0]{
 -- Page 273, Offset 20350.
 -- 「志貴さまさえよろしければ、夜に出かける事を秋葉さまにお隠しする事ができます」
-"Si lo desea, puedo ocultarle a Akiha-sama el hecho de que sales de noche."
+"Si lo desea, puedo ocultarle a Akiha-sama el hecho de que sale de noche."
 }
 [sha:77a01822d0e4c3712e7f7323b859b2ec1c813364]{
 -- Page 273, Offset 20351.
@@ -131,7 +131,7 @@ Hisui pierde el hilo, pero aprieta las manos con fuerza, se gira y me mira direc
 "Sí. Es raro que Akiha-sama deje su habitación tras la cena.
  Nee-san y yo somos responsables de hacer la inspección nocturna,
  si no mencionamos nada fuera de lo común en nuestro informe
- nadie podrá saber que no estabas en tu habitación."
+ nadie podrá saber que no estaba en su habitación."
 }
 [sha:04c49421862c7af374386abbff6bb9eba4b467a4]{
 -- Page 275, Offset 20353.
@@ -193,13 +193,13 @@ Si usa esta tarjeta, podrá desbloquear la puerta, incluso de noche."
 [sha:7faac3dccdc1823eb09bffd7b2d6cad13ff5f603]{
 -- Page 278, Offset 20364.
 -- 危なかった……知らずに出かけていたら、帰りは正門の前で夜を明かす事になっていたかもしれない。
-Estuvo cerca...
+Que poco ha faltado...
  Si llego a salir sin saberlo, quizá me hubiese pasado la noche tumbado frente a la puerta sin poder dormir.
 }
 [sha:4e26db9b78c4b899da374dd5c50cba88d6757fab]{
 -- Page 279, Offset 20365.
 -- 「わたしからの提案は以上です。
-"Eso es todo lo que puedo ofrecerte.
+"Eso es todo lo que puedo ofrecerle.
 }
 [sha:f76ee8c12ca9b4b52220ad6f94f67dfddf6cc8e6]{
 -- Page 279, Offset 20366.
@@ -244,5 +244,5 @@ Son casi las diez.
 [sha:9955b707e77864d73e17522469ef4b56ea36f4e8]{
 -- Page 281, Offset 20374.
 -- ポケットにナイフをしまいこんで、できるだけ物音を立てないように部屋を後にした。
-Me meto mi cuchillo en el bolsillo, y salgo de mi habitación lo más silenciosamente posible.
+Me meto el cuchillo en el bolsillo, y salgo de mi habitación lo más silenciosamente posible.
 }

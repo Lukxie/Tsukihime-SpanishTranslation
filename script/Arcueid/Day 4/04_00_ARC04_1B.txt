@@ -31,12 +31,12 @@ Tras bajar, me encuentro con Kohaku-san que justo estaba saliendo de la sala de 
 [sha:c4202a3c6b25920588d9b3a145e537dd45b54d0d]{
 -- Page 27, Offset 5635.
 -- 「それになんだかサッパリしていらっしゃいます。
-"También pareces renovado de alguna forma.
+"Y además, de alguna forma pareces como nuevo.
 }
 [sha:5256cb6e1ea018310aca244059e95c80b2e0e883]{
 -- Page 27, Offset 5636.
 -- もしかしてお風呂あがりなんですか？」
-Por alguna casualidad, ¿te acabas de dar un baño?"
+Por casualidad, ¿te acabas de dar un baño?"
 }
 [sha:dd234a8a26745cd7966ad17283a70b09655045be]{
 -- Page 27, Offset 5637.
@@ -52,17 +52,17 @@ Por alguna casualidad, ¿te acabas de dar un baño?"
 [sha:b795165b8b6464f4da00d19149c6137a8bda649b]{
 -- Page 28, Offset 5639.
 -- お風呂あがりだと、志貴さんはいっそう可愛らしくなるんですね」
-Tengo que decir que estás aún más mono tras un baño."
+Tengo que decir que tras un baño estás aún más mono."
 }
 [sha:b8fb11ffb899eaa387ced81d32f37b20b67965f9]{
 -- Page 29, Offset 5640.
 -- 屈託のない笑顔を向けられて、訳もなく視線を逸らした。
-Frente a su sonrisa despreocupada, no puedo evitar apartar la mirada.
+No puedo evitar apartar la mirada frente a su sonrisa despreocupada.
 }
 [sha:13016bd969ac9c2b06c516c0cfbe3af32fe29d2a]{
 -- Page 29, Offset 5641.
 -- ……今は、笑顔を向けられると胸が痛い。
-Que me sonrían en este momento hace que me duela el corazón...
+En este momento, que me sonrían hace que me duela el corazón...
 }
 [sha:e3d34d83f84c631f849a9c292c0b2c3ca30286b9]{
 -- Page 30, Offset 5642.
@@ -118,28 +118,28 @@ Cierto, el desayuno...
 [sha:4df3d2c894a6b6fcd74fddd1bacb31dcd6e63d64]{
 -- Page 33, Offset 5652.
 -- 「そうなんですか？　志貴さんは昨夜も食べていませんから、おなかの音で目を覚ましたのかなって、翡翠ちゃんと話してたんですけど」
-"¿Es así?
+"¿Sí?
  Anoche tampoco comiste.
- Antes estaba comentando con Hisui-chan que quizá fue tu estómago rugiendo lo que te despertó."
+ Antes estaba comentando con Hisui-chan que quizá lo que te despertó fue tu estómago rugiendo."
 }
 [sha:ecd1b5967a36e3dccae7cad64ec73c5fb0f2591d]{
 -- Page 34, Offset 5653.
 -- 「いや、単純に寝過ぎただけだよ。子供の頃から小食だったから、一食二食抜くのはよくある事だったし」
-"No, simplemente dormí mucho.
+"No, tan solo dormí mucho.
  Desde niño nunca he sido de comer mucho,
- muchas veces me he saltado una o incluso dos comidas seguidas."
+ me he saltado muchas veces  una o incluso dos comidas seguidas."
 }
 [sha:9bc42524fcba988ef7486c14fee0658f1439fda9]{
 -- Page 35, Offset 5654.
 -- 「ははあ。言われてみると、志貴さんって贅肉のない、いい体をしていますものね。もしかして菜食主義者さんですか？」
 "%{i}Ah ja%{/i}.
  Ahora que te miro, tienes un cuerpo bonito y esbelto.
- ¿Eres vegetariano por alguna casualidad?"
+ ¿Por casualidad eres vegetariano?"
 }
 [sha:56b026bb8934b471aa0f78bba19431ebe335ed76]{
 -- Page 36, Offset 5655.
 -- 「そんな<拘|こだわ>りはなかったけど……言われてみれば、有間の家では野菜ばっかり食べてた気がします」
-"No soy quisquilloso con esas cosas... aunque ahora que lo dices, creo que sólo comía verduras en la casa de los Arima."
+"No soy quisquilloso con esas cosas... aunque ahora que lo dices,  en casa de los Arima creo que sólo comía verduras."
 }
 [sha:b8c6041fc820df2a42c11336a435f2317490f558]{
 -- Page 37, Offset 5656.
@@ -171,14 +171,14 @@ Kohaku-san se da media vuelta y se apresura a volver a la sala de estar.
 [sha:117522e45c90ada52aba40d2d1d8c29fa234458b]{
 -- Page 39, Offset 5661.
 -- けれど、今は喉にものを通す気になれなかった。
-Pero no estoy para tragar nada en este momento.
+Pero en este momento no estoy para tragar nada.
 }
 [sha:67d78388a95420777669c876d98ac7ebadd2bf68]{
 -- Page 40, Offset 5662.
 -- 「あ、いいんだ琥珀さん。今日は食欲がないからこのまま学校に行くよ。秋葉にもそう伝えておいてくれ」
-"Oh, no hace falta, Kohaku-san.
+"Ah, no hace falta, Kohaku-san.
  Hoy no tengo mucho apetito, así que me dirigiré directamente a la escuela.
- Si puedes decirle lo mismo a Akiha, lo agradecería."
+ Si agradecería si pudieras decirle lo mismo a Akiha."
 }
 [sha:6e92fb0eedeb3161bb9727eab556b3b681a54611]{
 -- Page 40, Offset 5663.
@@ -193,7 +193,7 @@ Sin embargo, en cuanto lo hago,
 [sha:1c0b92c455a28b6564d136191dd140227a0d08de]{
 -- Page 40, Offset 5665. Glued.
 -- がしっと腕を掴まれた。
-algo me agarra el brazo con firmeza.
+ algo me agarra el brazo con firmeza.
 }
 [sha:efe8602a84bcca5a07b9c67d6cea0f7b7ec7a511]{
 -- Page 41, Offset 5666.
@@ -218,7 +218,7 @@ Kohaku-san parece... ¿enfadada?
 [sha:18c1b535f2ad94f02b17b655f3e730b4dde4b18a]{
 -- Page 42, Offset 5670.
 -- 志貴さん、今朝は鏡をご覧になってないんですか!?」
-Shiki-san, ¡¿no te has mirado al espejo esta mañana?!"
+Shiki-san, ¡¿esta mañana no te has mirado al espejo?!"
 }
 [sha:d3303eef2a8cc1cc73cf185221441851a19360c1]{
 -- Page 42, Offset 5671.
@@ -228,7 +228,7 @@ Shiki-san, ¡¿no te has mirado al espejo esta mañana?!"
 [sha:abddae0d647e83f5e3af68f52328d26a93c5733b]{
 -- Page 43, Offset 5672.
 -- 「うそですっ。ご自分の顔を一度でも見ているんなら、そんなコトは言えません！」
-"Mientes.
+"Mentira.
  Si hubieras echado un mero vistazo a tu cara, ¡no estarías diciendo algo así!"
 }
 [sha:89b1fc956d50a26ebcd0f014575007defd2d3ca4]{
@@ -240,7 +240,7 @@ Parece que Kohaku-san está realmente cabreada.
 -- Page 44, Offset 5674.
 -- ……そういえば風呂場で見た自分の顔は、青を通り越して土気色っぽかったっけ……。
 Pensándolo bien,
- cuando ví mi cara en el baño no solo estaba pálida, estaba extremadamente lívida...
+ cuando ví mi cara en el baño no solo estaba pálida, sino extremadamente lívida...
 }
 [sha:b567fadce8bda9309b5d2a58bfbdfd5abd036fc3]{
 -- Page 45, Offset 5675.
@@ -262,7 +262,7 @@ Pensándolo bien,
 -- 琥珀さんは俺の腕を掴んだまま、強引に食堂へ歩きだした。
 Manteniendo el firme agarre en mi brazo, Kohaku-san comienza a arrastrarme hacia el comedor a la fuerza.
 }
-[sha:710ff592deee686ff519ceafb73ddb56a38c986c]{
+[offset:5678]{
 -- Page 47, Offset 5678.
 -- ……仕方ない。
 Parece que no tengo mucha elección.
@@ -270,7 +270,7 @@ Parece que no tengo mucha elección.
 [sha:17fb26c2a90ec544ca801cf006ed43b4eda43e25]{
 -- Page 47, Offset 5679.
 -- 本当に気乗りはしないけれど、ここは琥珀さんの厚意に甘えるとしよう……。
-Esto no me entusiasma mucho de veras, pero aceptaré su amable oferta...
+No me entusiasma mucho la verdad, pero aceptaré su amable oferta...
 }
 [sha:cf8448bac14bed13f634571a3a0c885992e8d36b]{
 -- Page 48, Offset 5680.
@@ -347,12 +347,12 @@ Esto es un poco incómodo...
 [sha:68885b8f7594879135b4c782aff481190f99cc09]{
 -- Page 52, Offset 5694. Glued.
 -- 昨夜の事ですけど。
-sobre anoche―――
+ sobre anoche―――
 }
 [sha:84068f22730942fccf62cf2564af248d8d657914]{
 -- Page 52, Offset 5695.
 -- 公園で倒れていたというのは本当なんですか？」
-¿Es verdad que te desmayaste en el parque?"
+¿Es cierto que te desmayaste en el parque?"
 }
 [sha:c0f7d736eb6478632657e0fd2e40b1771a4fbc57]{
 -- Page 53, Offset 5696.
@@ -373,14 +373,14 @@ Eres débil físicamente, así que si alguna vez sientes que estás en peligro, 
 [sha:a6ecf959bdd8af711ca2e1c3abf546df33bdf5c7]{
 -- Page 55, Offset 5699.
 -- 「……あのな。小学生じゃないんだから、そんなのは必要ないよ。どんなに気分が悪くたって自分ひとりで帰ってこれる」
-"Oh, venga. No hay necesidad de todo eso, no es como si aún estuviese en primaria.
- Aunque me sienta fatal, aún puedo volver a casa por mi cuenta."
+"Vamos. No soy un crío de primaria, nada de eso es necesario.
+ Por muy mal que me sienta, puedo volver a casa yo solo."
 }
 [sha:868e2ab6b365d24f49cf489661390babf99cd23a]{
 -- Page 55, Offset 5700.
 -- 「それでは兄さんはまだ子供なんですね。昨日はひとりで帰って来れなかったんですから」
 "Entonces siguiendo ese razonamiento, aún eres un niño.
- Después de todo, ayer no fuiste capaz de volver a casa por tu cuenta."
+ Ya que, ayer no fuiste capaz de volver a casa por tu cuenta."
 }
 [sha:22401633fcb4d5e813aabb196207be4d726f5931]{
 -- Page 56, Offset 5701.
@@ -408,7 +408,7 @@ Causalmente ayer justo ocurrió en un momento mortalmente desafortunado, solo es
 -- ご自分の体の事でしょう!?　屋敷に帰られたばかりだというのに、兄さんに死なれたら私はどうすればいいんです……！」
 Estás hablando sobre tu propio cuerpo, ¡¿no?!
  Acabas de volver a la mansión,
- ¿qué narices haría yo si te murieses?"
+ ¿qué narices voy a hacer si te mueres?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 57, Offset 5706.
@@ -423,7 +423,7 @@ Akiha está realmente molesta.
 [sha:bba9bf08597fa70fdd776278c1cebbd440116027]{
 -- Page 57, Offset 5708.
 -- その、ある種余裕のない怒りが、俺には意外だった。
-Me sorprende verla tan firmemente enfadada.
+Me sorprende que se haya enfadado de manera tan desbocada.
 }
 [sha:c728883a0500c0a8ac3ef6ff8f9d13e9ac8f23bf]{
 -- Page 58, Offset 5709.
@@ -446,12 +446,12 @@ Cuídate un poco más por favor."
 [sha:1daf647363fb5685bd4462b888f83d0920c8b0bd]{
 -- Page 60, Offset 5712.
 -- 「ええ、出来ることならそうしてしまいたいぐらいです。
-"Sí, ese es el nivel de cuidado que prefiero si es posible.
+"Sí, ese es el nivel de cuidado que prefiero a ser posible.
 }
 [sha:0a86f94da4e4ea4500d1e6edff2493fa7037e47c]{
 -- Page 60, Offset 5713.
 -- どこかの孤島でも買い取って、そこで反省していただくのも有りですね」
-Quizá podría comprar una isla remota en algún lado,
+Igual podría comprar una isla remota en algún lado,
  y mandarte allí para que reflexiones sobre lo que has hecho."
 }
 [sha:6d56ed1d20f583e051a686feef498f6d9e181362]{
@@ -468,7 +468,7 @@ Lo que lo hace terrorífico es que por supuesto no está bromeando.
 [sha:70cbf50ba391a4b3c8fe44405772984f04d1d0d9]{
 -- Page 62, Offset 5716.
 -- 「―――はあ。
-"―――%{i}Suspiro%{/i}.
+"―――%{i}Haaa%{/i}.
 }
 [sha:3725a47fa2a8bc1b5cc1564a5b8d9c68dda9ff81]{
 -- Page 62, Offset 5717.

@@ -17,7 +17,7 @@ O más bien, si se acerca algo más, terminará en un forcejeo.
 [sha:9fb3f2c0e5beb53da41b4079d79b7e4410da997d]{
 -- Page 639, Offset 7276.
 -- ……いいか。見たらすぐ返すんだぞ」
-Devuelvemelas en cuanto acabes de verlas, ¿me escuchas?"
+Devuélvemelas en cuanto acabes de verlas, ¿me escuchas?"
 }
 [sha:1c90f193c2da97826d941812a526c1cddee8df27]{
 -- Page 640, Offset 7277.
@@ -37,7 +37,7 @@ Y entonces―――
 [sha:f0e147d8e9bee031075cb5658ca93b7ac76571a0]{
 -- Page 641, Offset 7280.
 -- 「志貴。これをあなたに渡した人、この街にいるの？」
-"Shiki. ¿Está en la ciudad la persona que te las dio ?
+"Shiki. ¿La persona que te las dió está en la ciudad?
 }
 [sha:68c470a43eb2f19b6125604758de28f82bea7e08]{
 -- Page 641, Offset 7281.
@@ -79,12 +79,12 @@ Estas gafas son una increíble pieza de artesanía.
 [sha:c16e6ee1e665045b6995ee08b356c1604273e166]{
 -- Page 644, Offset 7288.
 -- アルクェイドはますます真剣な顔をする。
-La expresión de Arcueid cada vez más seria.
+La expresión de Arcueid es cada vez más seria.
 }
 [sha:7e44665dd38516bcf72630b9d5ab5bf950c4a0c7]{
 -- Page 645, Offset 7289.
 -- 「……って、おまえ壊すつもりだったのか」
-"Espera... ¿Así que %{i}estabas%{/i} planeando romperlas?"
+"Espera... ¿Osea que %{i}estabas%{/i} planeando romperlas?"
 }
 [sha:5c552b7f0785ad95234c052e0c2629d99652e105]{
 -- Page 645, Offset 7290.
@@ -99,7 +99,7 @@ La expresión de Arcueid cada vez más seria.
 [sha:58a749bf280f21b0e75e21dfd8261afdd09b3e30]{
 -- Page 646, Offset 7292.
 -- 「……やっぱり壊す気だったんだな」
-"Lo %{i}sabía%{/i} ibas a intentar romperlas."
+"Lo %{i}sabía%{/i}, ibas a intentar romperlas."
 }
 [sha:b8abbe57119b944a232491d7c94b3e3ca0b4c8bb]{
 -- Page 646, Offset 7293.
@@ -151,5 +151,5 @@ No puedo entender ni un poco como razona este vampiro.
 -- 先生との思い出も大事だけど、それ以上にコレがないとやってけないんだ。四六時中線が見えてたら、頭痛で頭がどうにかしそうだし」
 Atesoro las memorias del tiempo que pasé con Sensei,
  pero aún más importante, sin esas gafas no sería capaz de vivir.
- Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo."
+ Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo." 
 }

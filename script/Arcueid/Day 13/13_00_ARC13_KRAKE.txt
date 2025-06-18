@@ -21,7 +21,6 @@ Para la Ejecutora Ciel, matar vampiros es un tema profesional no de orgullo.
 [sha:62ac530561a25e0f0147362253649838ca0643de]{
 -- Page 259, Offset 32380.
 -- 正面から突入するなど、ましてや正々堂々と戦いを挑むなど、それこそ正気を疑う行動である。
-// Rarete
 Para ella, entrar por la puerta principal es algo que un loco haría,
  como también la idea de enfrentarle justamente.
 }
@@ -54,7 +53,7 @@ Existen vampiros capaces de detectar las ondas de causa y efecto provocadas por 
 [sha:db63588cedcb18a812d22b08b0b9d78a39c8cc90]{
 -- Page 261, Offset 32386.
 -- 今夜のミハイル・ロア・バルダムヨォンがその域に達しているかは定かではないが、真祖アルクェイドであればその程度の空間支配は行うだろう。
-No está claro si está Michael Roa Valdamjong ha llegado a tal nivel,
+No está claro si Michael Roa Valdamjong ha llegado a tal nivel,
  pero un Verdadero Ancestro como Arcueid sin duda posee ese nivel de dominio espacial.
 }
 [sha:2a5123cec8ad8b512aded2a0ad1c57b92486c48d]{
@@ -105,7 +104,7 @@ Arcueid avanza hacia el gimnasio por el pasillo adyacente.
 [sha:9ad63e4a33b02774ef95bd220bd7ad93b8db6b64]{
 -- Page 265, Offset 32396.
 -- ちりちりとコンクリートの表面が焦げている。
-De las paredes de cemento del edificio saltan chispas.
+Saltan chispas de las paredes de cemento del edificio.
 }
 [sha:7f2b4a0503846bbea0b1ab8d39890e9dc687ab4a]{
 -- Page 266, Offset 32397.
@@ -120,7 +119,7 @@ compite por supremacía ante la energía mágica de Arcueid.
 [sha:b4c0976a0c4059822e66f1769c38ddc8e586cc6e]{
 -- Page 266, Offset 32399.
 -- シエルに意識があれば火薬庫を連想しただろう。
-Si Ciel no hubiera sellado sus pensamientos, la habría recordado a un barril explosivo.
+Si Ciel no hubiera sellado sus pensamientos, le habría recordado a un barril explosivo.
 }
 [sha:cc10453c9e1f1152ea56f1f7b566621b0861017c]{
 -- Page 266, Offset 32400.
@@ -156,7 +155,6 @@ Ni siquiera la aparición del mismo Roa hará que salga de este trance.
 [sha:17815fef6fa4099f559cdb245f1ce02f924f59a1]{
 -- Page 268, Offset 32406.
 -- その上で、
-// tl oficial
 Pero entonces―――
 }
 [sha:2f14d44dcb5ac02e187373da40b4db9c3039b76e]{
@@ -172,7 +170,6 @@ Lo vé.
 [sha:d3f08a29c5b7135bb1b44570b86097d68cfcf2c9]{
 -- Page 269, Offset 32409.
 -- 致命的な運命のように、目を疑う<何|・><か|・>がいた。
-// Revisar, es bastante complicado ya que no se jp
 Ve %{i}algo%{/i} que hace que dude de sus propios ojos,
  un augurio de lo fatal.
 }
@@ -241,14 +238,12 @@ Pero lo más bizarro de todo es―――
 [sha:43e5119cd762725f4404aec63d9205db64686f63]{
 -- Page 274, Offset 32422.
 -- 向けられるだけで死を覚悟する殺意は知っている。
-// Rigido
-Ya ha experimentado antes esa intensa intención asesina que puede hacerte aceptar la muerte.
+Ya había experimentado antes una intensa intención asesina que puede hacerte aceptar la muerte.
 }
 [sha:039195b7f185e5f72ce484bb37ee6046dbfc5842]{
 -- Page 274, Offset 32423.
 -- 向けられるだけで全身が粟立つ敵意は知っている。
-// Rigido
-Ya ha experimentado antes esa hostilidad extrema que te eriza de arriba a abajo.
+Ya había experimentado antes una hostilidad extrema que te eriza de arriba a abajo.
 }
 [sha:656bc88dbb4aaa14f664446f72e984bf5399f95a]{
 -- Page 274, Offset 32424.
@@ -269,7 +264,7 @@ No hay humano ordinario que pueda entender el origen de tal 'consciencia'.
 [sha:d2f9141c9253570357d23293aabb084bd7465909]{
 -- Page 275, Offset 32427.
 -- とある高名な画家の油絵を思い出す。
-La recuerda a una pintura de un artista de renombre.
+Le recuerda a una pintura de un artista de renombre.
 }
 [sha:489958209f50e94221cf057d6b902a7a959a1a1f]{
 -- Page 275, Offset 32428.
@@ -419,27 +414,27 @@ Aunque su cuerpo entero sea una maraña de armas letales,
 [sha:e14e5456f2f1d73f7a89edb95604ce3222316a4f]{
 -- Page 285, Offset 32456.
 -- 肩の瘤から群生した牙と、巨大な左腕。
-Los colmillos que sobresalen de su hombro, y ese enorme brazo izquierdo.
+Los colmillos que sobresalen de su hombro, y, ese enorme brazo izquierdo.
 }
 [sha:9812849531be6f91a55a30d3b13ae0fe217abba1]{
 -- Page 285, Offset 32457.
 -- 肩の牙は接近戦用のものではない。
-Los colmillos no están hechos para combate cercanos.
+Los colmillos no están hechos para combate a corta distancia.
 }
 [sha:bbcd164d25d88fb950ccc094cee4d87221540f35]{
 -- Page 285, Offset 32458.
 -- あれは間違いなく、
 En vez, seguramente―――
 }
-[sha:82569ce7130b2317adc0fe17c311418237f176aa]{
+[offset:32459]{
 -- Page 286, Offset 32459.
 -- このように。
-Aquí viene.
+Como sospechaba.
 }
 [sha:2632db020c08c361821de66ff7d9d392dedc1457]{
 -- Page 286, Offset 32460.
 -- 遠距離から獲物を撃ち抜く<生|ミ><態|サ><機|イ><能|ル>だ。
-Son misiles, diseñados para disparar a la presa a distancia.
+Son misiles, diseñados para disparar a su presa a distancia.
 }
 [sha:d42ced31358b1e960ac97b481060d4ea74562a9a]{
 -- Page 286, Offset 32461.
@@ -504,7 +499,7 @@ Sin embargo, eso no significa que sea débil a corta distancia.
 -- Page 291, Offset 32472.
 -- 懐に飛び込んだが最後、巨大な左腕が防御ごとシエルを叩き潰すだろう。
 Si Ciel atacase de frente,
- ese brazo izquierdo gigantesco destruiría cualquier tipo de defensa.
+ ese gigantesco brazo izquierdo destruiría cualquier tipo de defensa.
 }
 [sha:2ff97d1f074ba2dab606d4413fb8ad81e4978bf6]{
 -- Page 292, Offset 32473.

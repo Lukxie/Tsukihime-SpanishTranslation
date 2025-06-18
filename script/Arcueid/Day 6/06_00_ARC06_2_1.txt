@@ -16,23 +16,24 @@ Una gasa y analgésicos es todo lo que necesito.
 [sha:893e6d70505f82d23b3c64fc6050a5db73d53cc2]{
 -- Page 174, Offset 14336.
 -- 私は午後から外せない会食があるので外出しますが、当主が留守だからといってあまり羽目を外さないようお願いしますね、兄さん」
-Esta tarde hay una cena que debo atender, así que aunque no vaya estar aquí para echarte un ojo, te pido por favor que te controles un poco, Nii-san."
+Esta tarde hay una cena que debo atender, por lo que aunque no vaya estar aquí para echarte un ojo, te pido por favor que te controles un poco, Nii-san."
 }
 [sha:de1558f7043fc50ac5e58ee7924fce7e84849ddc]{
 -- Page 175, Offset 14337.
 -- 何が嬉しいのか、秋葉は安心したように微笑んでいる。
-// De la tl oficial.
+//De la tl oficial.
 No estoy seguro por qué, pero Akiha parece sonreír aliviada.
 }
-[sha:11ea1ebdad61867797537439434201effb9d2ecd]{
+[offset:14338]{
 -- Page 175, Offset 14338.
 -- ……さて。
-Ahora pues...
+Ahora...
 }
-[sha:f6e56bede459f5d14fa1220a06498b66cda5c33b]{
+[offset:14339]{
 -- Page 175, Offset 14339.
 -- とりあえずは朝食、その後は診察を受けるとしよう。
-Mi primera prioridad es el desayuno, una vez haya lidiado con eso, iré a que me miren.
+//De la tl oficial
+Mi primera prioridad es el desayuno, luego iré a que me miren la pierna.
 }
 [sha:19fe2f6c472c42a6f8b803cafbb6d231e28d9949]{
 -- Page 176, Offset 14340.
@@ -47,19 +48,19 @@ Kohaku-san entra con una caja de madera retro en mano.
 [sha:62376813bf30af01911653a1b3b970bdb796c672]{
 -- Page 177, Offset 14342.
 -- 「悪いね琥珀さん。忙しい中、わざわざ来てもらって」
-// De la tl oficial.
+//De la tl oficial.
 "Siento esto, Kohaku-san. Sé que estás muy ocupada."
 }
 [sha:45d8c12a249c4d07442f2a3b0061d7b33d82885b]{
 -- Page 177, Offset 14343.
 -- 「いえいえ。今日は休日ですからお仕事も少なめですので、お気になさらず。
-"Para nada. Es fin de semana, así que no hay mucho que hacer no te preocupes.
+"Para nada. No te preocupes, es fin de semana, osea que no hay mucho que hacer.
 }
 [sha:252e7267c32f1b90aa3dcf59f804104b908e0dff]{
 -- Page 177, Offset 14344.
 -- 志貴さんのご指名ですもの。私などでよろしければ、いつでもご奉仕させていただきます」
-// De la tl oficial.
-Estoy contenta de ayudar cuando lo necesites, y aún más que fuera tu primera elección."
+//De la tl oficial.
+Estoy contenta de ayudar cuando lo necesites, y aún más de que fuera tu primera elección."
 }
 [sha:d3501190228d7a14e25d6996170005de3fc560cc]{
 -- Page 178, Offset 14345.
@@ -69,8 +70,8 @@ Kohaku-san se acerca a la cama con una sonrisa resplandeciente.
 [sha:dafb3a7920bbfbe1cac3c8a7818c87f5c08c6728]{
 -- Page 179, Offset 14346. Mods: @k, @e.
 -- 「ではでは、診察のお時間です。ベッドに腰をかけてください。お加減が悪いのはおもに……
-// Mix de tls
-"Sin más dilación, es hora de tu reconocimiento. Por favor siéntate en la cama. Veamos cual es el problema...
+//Mix de tls
+"Sin más dilación, es hora de tu reconocimiento. Por favor siéntate en la cama. Veamos cuál es el problema...
 }
 [sha:2804747a29d8258c9f3311e408b1e78a117dc81b]{
 -- Page 179, Offset 14347. Glued. Mods: @x.
@@ -80,7 +81,7 @@ Kohaku-san se acerca a la cama con una sonrisa resplandeciente.
 [sha:3a29c6c508365425e8502357ddc38d84296bf5dd]{
 -- Page 180, Offset 14348.
 -- 「え……見ただけで分かるんですか？」
-"Guau... ¿puedes decirlo a primera vista?"
+"Guau... ¿puedes notarlo a primera vista?"
 }
 [sha:a430517781b48dd4002a25fd1538ac4a67495bd1]{
 -- Page 180, Offset 14349.
@@ -102,10 +103,10 @@ Me siento en la cama, y me subo los pantalones para que pueda empezar a examinar
 -- 軽い<触診|しょくしん>。琥珀さんの指が<脛|すね>をなぞるたびに、痛みで声が出そうになる。
 Kohaku-san palpa mi pierna con sus manos. Cada vez que sus dedos rozan contra mi piel, el dolor me hace querer gritar.
 }
-[sha:3c5e2867f00d02dec72b47aadeebd8e9e14f78c6]{
+[offset:14353]{
 -- Page 182, Offset 14353.
 -- と……
-Sin embargo...
+Y entonces...
 }
 [sha:40fedeeb5b64ebe2a9ca89a925f24d3398f9d31e]{
 -- Page 183, Offset 14354.
@@ -117,10 +118,10 @@ Sin embargo...
 -- もしかして、骨に<罅|ヒビ>入ってませんか？」
 ¿Hay alguna posibilidad de que te hayas roto la pierna?"
 }
-[sha:62046bc5262d2106f3cdba5d75d7335dde131543]{
+[offset:14356]{
 -- Page 184, Offset 14356.
 -- あー……やっぱりそうか。
-Vaya... me preocupaba que fuera el caso.
+Vaya... me preocupaba que ese fuera el caso.
 }
 [sha:8dbcdfc888915432c70c7c4146bad7a55ed78ddf]{
 -- Page 184, Offset 14357.
@@ -135,17 +136,17 @@ Honestamente no me sorprendería si me dijera que está rota por todos lados.
 [sha:c5357ab7489b683e8231c44c876c55d1bf904aed]{
 -- Page 185, Offset 14359.
 -- 「そうかもしれません。でもちょっとだけですよ、きっと。
-"Supongo que es posible. ¡Pero solo es una pequeña! Probablemente.
+"Supongo que cabe la posibilidad. ¡Pero solo una pequeña! Probablemente.
 }
 [sha:616bc6ee3e958db3caf027c26b78119bcdbbe081]{
 -- Page 185, Offset 14360.
 -- こうして我慢できる程度なんですから」
-Después de todo, he sido capaz de aguantarme hasta ahora."
+Después de todo, hasta ahora he sido capaz de aguantarme."
 }
 [sha:bb8f59c90e3982c3e1ec332650abdafc5217e3e9]{
 -- Page 186, Offset 14361.
 -- 「……はあ。秋葉さまのお気持ちがちょっとだけ分かっちゃいました。志貴さんは平気なお顔をしていても、いえ、している時の方がたいへんな方なんですね。
-// De la tl oficial
+//De la tl oficial
 "%{i}Haaa%{/i}... empiezo a entender cómo se siente Akiha-sama.
  Incluso si actúas como si no pasara nada, haces que nos preocupemos.
  Más aún, en realidad.
@@ -153,37 +154,37 @@ Después de todo, he sido capaz de aguantarme hasta ahora."
 [sha:42cd0cb62c526b3c13124cc2a1f599589c128a15]{
 -- Page 186, Offset 14362.
 -- しばらくお待ちください、秘蔵の軟膏などを持ってきますので。それまでベッドから動いちゃダメですよ」
-// De la tl oficial
+//De la tl oficial
 Por favor espera un momento, tengo que ir a buscar unos ungüentos de mi almacén privado. No me muevas de la cama, ¿vale?"
 }
 [sha:6c9489f5f7e170a8b81d62fb7aedb34779166199]{
 -- Page 187, Offset 14363.
 -- 琥珀さんはパタパタと足音をたてて部屋から出て行った。
-// De la tl oficial
+//De la tl oficial
 El sonido de sus pasos se desvanece mientras corre por el pasillo.
 }
 [sha:c802f73ecec5539e8c02ed6f4dbc7984717f05d3]{
 -- Page 187, Offset 14364.
 -- ……ひとり残されて、異様な罪悪感が湧く。
-// De la tl oficial
+//De la tl oficial
 Ahora que estoy solo, me empiezo a sentir extrañamente culpable.
 }
 [sha:3eb68180ff650da35eda216057771042f82f724f]{
 -- Page 187, Offset 14365.
 -- あの琥珀さんがあんなに元気のない声をだすなんて。
-// De la tl oficial
+//De la tl oficial
 Nunca había escuchado a Kohaku-san sonar tan triste.
 }
 [sha:a8458b8ec1fe07d74f106cdd05d3ee9f6d33ddd3]{
 -- Page 188, Offset 14366.
 -- 琥珀さんの治療は、思いの<外|ほか>本格的だった。
-// De la tl oficial
+//De la tl oficial
 El tratamiento de Kohaku-san es sorprendentemente profesional.
 }
 [sha:d9833da97b8cbbf56378485d3e7f265695c09e98]{
 -- Page 188, Offset 14367.
 -- 軟膏のあとにカカトを固定するテーピング、その後に脛まで固定するギプス。
-// Mix de ambas
+//Mix de ambas
 Tras aplicar el ungüento, me venda el talón para sujetarlo e incluso me escayola hasta la espinilla.
 }
 [sha:e1369190ea916560a5e356525401fa7e99024a16]{
@@ -194,7 +195,7 @@ Tras aplicar el ungüento, me venda el talón para sujetarlo e incluso me escayo
 [sha:381025946796f7f90ad90741c2548b4aabb8b6cf]{
 -- Page 189, Offset 14369. Mods: @n.
 -- 「そこまでの事です。
-"Sí que hace falta.
+"Sí que hace.
 }
 [sha:34068b32025e1776ac12cbf233f3588aea3b3f69]{
 -- Page 189, Offset 14370.
@@ -204,8 +205,8 @@ Tras aplicar el ungüento, me venda el talón para sujetarlo e incluso me escayo
 [sha:cf4466b25df552acdbb080fa89430ca8515a9140]{
 -- Page 189, Offset 14371.
 -- そもそもこんな怪我をどこでこしらえたんです？　志貴さんの健康を任された者として、これは見過ごせません」
-// Mix de ambas
-Además en primer lugar, ¿cómo te hiciste esta herida? Como responsable de tu salud, tengo que saber cómo te has hecho esto.
+//Mix de ambas
+Además en primer lugar, ¿cómo te hiciste esta herida? Como responsable de tu salud, tengo que saber cómo te has hecho esto."
 }
 [sha:ead5deb70c0e67f066aba62a87c1de4b03e4ecd6]{
 -- Page 190, Offset 14372.
@@ -215,7 +216,7 @@ Además en primer lugar, ¿cómo te hiciste esta herida? Como responsable de tu 
 [sha:a7f88b2c95e4bd33811fae9b8b0be477a980595e]{
 -- Page 190, Offset 14373.
 -- 「志貴さん。正直に仰ってください」
-// Tl oficial
+//Tl oficial
 "Shiki-san. Dime la verdad por favor."
 }
 [sha:786cf6295447377e9815df02bce24b914d8278ec]{
@@ -236,13 +237,13 @@ Kohaku-san parecía preocupada de verdad así que tampoco podía mentir y decir 
 [sha:30501eed702fc486250342a09c17a48abcf2a6f9]{
 -- Page 192, Offset 14377.
 -- 「ケンカ、ですか？　もう、だめですよそんなこと。
-// mix de ambas
+//mix de ambas
 "¿Una pelea? Vaya hombre, ¡eso no está bien!
 }
 [sha:0e87e9cf6479443697b892fde087a308692dca49]{
 -- Page 192, Offset 14378.
 -- わんぱくなのはいいと思いますけど、暴力はいけませんっ！　手を上げられたほうも、手を上げてしまったほうも痛いだけじゃないですか」
-// mix de ambas
+//mix de ambas
 ¡Una pequeña travesura está bien, pero la violencia está mal!
  Una pelea solo acaba dañando ambas partes."
 }
@@ -269,7 +270,7 @@ Las palabras de Kohaku-san tienen un extraño tono conmovedor.
 [sha:9dc01093184b5e2443ca1f37cb54160149ff83db]{
 -- Page 194, Offset 14383.
 -- 「でしょう？　なのにこんな怪我までしてがっかりです。
-"¿Verdad? Y aún así vas tu y te lesionas así. Me decepcionas.
+"¿Verdad? Y aún así vas tu y te lesionas de esta forma. Me decepcionas.
 }
 [sha:4574961426604ae9bd629c2f3b169d7af5977758]{
 -- Page 194, Offset 14384.
@@ -279,19 +280,19 @@ No importan las circunstancias. Si sigues así, tendré que reevaluar mi opinió
 [sha:c35c4c3bfa1ec2fbfbb957a402c24ef18d41c0d9]{
 -- Page 194, Offset 14385.
 -- 「……ああ、俺もバカだったって反省中です。二度とこんな事にならないよう、努力します」
-// tl oficial
+//tl oficial
 "Sí. Fui un idiota, lo sé. Me aseguraré de que no vuelva a ocurrir de nuevo."
 }
 [sha:31655b82e25fc03077126fa54d983dd32a65e1db]{
 -- Page 195, Offset 14386.
 -- 「はい、わかってくださったのなら結構です。
-// tl oficial
+//tl oficial
 "Sí, me alegro que lo entiendas.
 }
 [sha:d36cb5e4cf44979e38ac6ed3339f5d3ea12ae86e]{
 -- Page 195, Offset 14387.
 -- それでは上の具合も診ますから、服を脱いでくださいね」
-// tl oficial
+//tl oficial
 Ahora, quítate la ropa. También voy a examinarte el tren superior."
 }
 [sha:e6e955327da69388f21bcdeba70c42ff320dcfaa]{
@@ -302,7 +303,7 @@ Ahora, quítate la ropa. También voy a examinarte el tren superior."
 [sha:db2ea960ee5d642bfa3f8428150c2b2f9aa1ed8c]{
 -- Page 196, Offset 14389.
 -- 琥珀さんは淀みのない動作で立ち上がると、ぐい、と俺が着ているシャツを掴んだ。
-// un mix de ambas tls
+//un mix de ambas tls
 Sin dudarlo un segundo, Kohaku-san me agarra de la camisa que llevo.
 }
 [sha:11ead4edb8a2f5cc9fc90a9dd4c0cd6e9ed175e8]{
@@ -333,19 +334,19 @@ Ciertamente tus piernas están en mal estado, pero diría que tus hombros y cade
 [sha:8c173ad8beef090a01388bddbe6d300121fb60f3]{
 -- Page 199, Offset 14395.
 -- 「あいたぁ!?　なに、いまのツボ？　ツボですか!?　っていうか、この悪辣な腕の取り方、もしかして琥珀さんに整体教えたのって、<時南|じなん>医院のじじいでは!?」
-// Mix de ambas
+//Mix de ambas
 "¡¿%{i}Au%{/i}?! ¿Qué narices fue eso? ¿Un punto de presión? Espera, esa llave de brazo―― ¡¿No me digas que has aprendido tortura de ese viejo bastardo de la Clínica Jinan?!"
 }
 [sha:60e866f88cb3130dbd758a391624791c3d24d671]{
 -- Page 200, Offset 14396. Mods: @k, @e.
 -- 「はい。時南先生にはしっかりと志貴さんのお体について教えていただきましたとも。
-// Tl oficial
+//Tl oficial
 "En efecto.  Dr. Jinan me enseñó todo lo que tenía que saber de tu cuerpo, Shiki-san.
 }
 [sha:39ac2000b73490cc2dfb1468ab37ef282bd53584]{
 -- Page 200, Offset 14397. Glued. Mods: @x.
 -- あと悪辣、ではありません。巧みな指使い、と言ってくださいね♡」
-// Tl oficial
+//Tl oficial
 Y por favor, no es tortura. Piensa en ello como un masaje ♡"
 }
 [sha:5dd8e901f01f781d25d67953fdf9239a2d2e73da]{
@@ -356,7 +357,7 @@ Y por favor, no es tortura. Piensa en ello como un masaje ♡"
 [sha:b7f49a0d5e7bc4d14614c4dc61ef8d8a2c5bf607]{
 -- Page 201, Offset 14399.
 -- あっさりとベッドに、うつぶせで倒されてしまった……！
-¡Me tiró boca abajo sobre la cama como si nada!
+¡Me ha tirado boca abajo sobre la cama como si nada!
 }
 [sha:b11d4dc787fa647374d83b12b119ba195d06ad7a]{
 -- Page 201, Offset 14400.
@@ -386,14 +387,14 @@ Con una sonrisa satisfecha, Kohaku-san ignora mis protestas y empieza a quitarme
 [sha:3137dc5fa31af1e0664d57154e9cbf8a5734a545]{
 -- Page 203, Offset 14405.
 -- 「志貴さんのお体なんて見慣れてます。いいから観念してくださいまし。
-// mix de ambas tls
+//mix de ambas tls
 "Además, ya estoy acostumbrada a ver tu cuerpo. Sé un chico bueno y quítatela.
 }
 [sha:00df96cb8dfed5b72c90f3c0a7624c23970616ad]{
 -- Page 203, Offset 14406.
 -- 昨夜もお着替えをさせていただきましたから。背中のほくろの位置までばっちりです」
-// Tl oficial
-¿Quién crees que te cambió anoche? Incluso sé la localización de cada pequeño lunar en tu espalda."
+//Tl oficial
+¿Quién crees que te cambió anoche? Lo sé todo, incluso donde está ese pequeño lunar de tu espalda."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 204, Offset 14407.
@@ -403,7 +404,7 @@ Con una sonrisa satisfecha, Kohaku-san ignora mis protestas y empieza a quitarme
 [sha:49752673ae6e403a0b49c8b9025de4c7e616c4df]{
 -- Page 204, Offset 14408.
 -- 言われてみれば起きた時、学生服じゃなく寝間着だった！
-¡Ahora que lo menciona, estaba en pijama cuando me levanté, no en mi uniforme escolar!
+¡Ahora que lo menciona, cuando me levanté estaba en pijama, no en mi uniforme escolar!
 }
 [sha:63ec764e9073563b5bb731dc617f32ed78764247]{
 -- Page 205, Offset 14409.
@@ -423,13 +424,13 @@ Tiene razón. Pero eso no hace más fácil el estar desnudo frente a ella...
 [sha:8d66521005fe7397111416dc739011dd879ee728]{
 -- Page 207, Offset 14412.
 -- 「もう。では仕方ありませんね。わたしが診るのは背中だけにいたしましょう。それなら恥ずかしい事はないでしょう？」
-// Mix de ambas tls
+//Mix de ambas tls
 "Venga, vale. Si vas a ponerte así limitaré el reconocimiento a la espalda. Eso no debería darte vergüenza, ¿verdad?"
 }
 [sha:c449b4d286790ee844bae722a01e65b89b921dde]{
 -- Page 208, Offset 14413.
 -- 十分気恥ずかしいが、精一杯の譲歩だった。
-// Tl oficial
+//Tl oficial
 Un poco, pero es mejor que la alternativa.
 }
 [sha:48bc919716fe647820bd45f048c864b230f79cab]{
@@ -445,7 +446,7 @@ Si quiero ponerme una gasa en la espalda, aún tengo que pedirle ayuda a alguien
 [sha:bf1552865452622e43c9bc2c5a4971e9dde1162c]{
 -- Page 209, Offset 14416.
 -- あきらめて力を抜く。
-// Tl oficial
+//Tl oficial
 Me rindo ante su persistencia y relajo mi cuerpo.
 }
 [sha:a2600552da0d1cfd8b83fffe639b571a4b0fe0ad]{
@@ -461,7 +462,7 @@ El antiséptico penetra en mi piel.
 [sha:f862404e162ffb9ac6017a98f19e0d9d9b5a77bd]{
 -- Page 210, Offset 14419.
 -- あれだけの二日間だったんだ。知らずに擦りむいた傷もあるのだろう。
-// Tl oficial
+//Tl oficial
 Han sido dos días ajetreados. Debo estar cubierto de pequeños cortes.
 }
 [sha:2616e47521fef00300421bcdacb505d66a9bb244]{
@@ -487,7 +488,7 @@ Y con eso, el reconocimiento de Kohaku-san llega a su fin.
 [sha:c11083c4130a4078f304388a2a01e60706667b3c]{
 -- Page 212, Offset 14424.
 -- 予想以上の本格的な診察に、改めてこの人のすごさを思い知った１時間だった。
-Tras el reconocimiento, que duró una hora y fue mucho más profesional de lo que me esperaba, me doy cuenta de nuevo de lo increíble que es.
+Tras el reconocimiento, que duró una hora y fue mucho más profesional de lo que me esperaba, de nuevo me doy cuenta de lo increíble que es.
 }
 [sha:a48ce3044cf29d20b475f6a35b92b448d86f9098]{
 -- Page 213, Offset 14425.

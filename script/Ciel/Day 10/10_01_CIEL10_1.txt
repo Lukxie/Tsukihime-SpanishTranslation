@@ -126,13 +126,12 @@
 [sha:7c686ab0a169e4d34fda0e6f213a878a61a4f5f7]{
 -- Page 7, Offset 27078.
 -- 「―――志貴さま」
-"Shiki-sama."
+-- TRANSLATION HERE
 }
 [sha:f3fcf506818f2cd038db7b8d67ee88dd21b2cfef]{
 -- Page 7, Offset 27079.
 -- ……朝の光に交じって、翡翠の呼び声が聞こえてくる。
-Junto al sol matutino,
- me recibe la voz de Hisui llamándome.
+-- TRANSLATION HERE
 }
 [sha:3f906d7264622a3d0ac53faa5a00f6aeddd546c4]{
 -- Page 8, Offset 27080.
@@ -267,7 +266,7 @@ Junto al sol matutino,
 [sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
 -- Page 18, Offset 27106.
 -- 「っ――――」
-"――――"
+-- TRANSLATION HERE
 }
 [sha:acfc45d9959dfbfc4e8ece2ab38b09c0fac7dcfd]{
 -- Page 18, Offset 27107.
@@ -459,10 +458,10 @@ Junto al sol matutino,
 -- この街から吸血鬼を一掃する。その為にアルクェイドとも協力するし、先輩の力にもなる。
 -- TRANSLATION HERE
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:27145]{
 -- Page 31, Offset 27145.
 -- ……そうだ。
-Eso es verdad...
+-- TRANSLATION HERE
 }
 [sha:213437f5226d1a48211c5c825fb9b4e65ab9d5f2]{
 -- Page 31, Offset 27146.

@@ -41,7 +41,7 @@ La atmósfera cruje.
 [sha:3fd3cfad3d3f896deca373700fa2cf2a667c705d]{
 -- Page 518, Offset 9988.
 -- 原子の活動が早きから遅きに切り替わる。
-// Aquí habla de lo que se conoce como agitación térmica que es lo que confiere los distintos estados de la materia. Cuanto más frio este algo menos agitación termica y mas solidas de vuelven las cosas, lo opuesto ocurre cuando se calientan las cosas y se transiciona a un estado liquido y despues gaseoso.
+//Aquí habla de lo que se conoce como agitación térmica que es lo que confiere los distintos estados de la materia. Cuanto más frio este algo menos agitación termica y mas solidas de vuelven las cosas, lo opuesto ocurre cuando se calientan las cosas y se transiciona a un estado liquido y despues gaseoso.
 La agitación térmica se frena de golpe.
 }
 [sha:2afe442320084adae5e9bc871e7da6979982d03d]{
@@ -163,7 +163,7 @@ Es de corto alcance, y el frío se expande por el suelo, pero una vez liberado n
 [sha:41ed9c90a22fca2dd8fadcf78ba38586f400d38f]{
 -- Page 527, Offset 10012.
 -- もしヤツが地上に出てしまったら、ヤツの目の前にあるものは為す術なく息絶える……！
-Si ese tipo consigue salir a la superficie, cualquier persona que se encare con él no tendrá más remedio que arrodillarse y morir.
+Si ese tipo consigue salir a la superficie, cualquier persona que se encare con él no tendrá más remedio que arrodillarse y morir. 
 }
 [sha:9ae42ab641644447423a6e44b43956bbcc2876ef]{
 -- Page 528, Offset 10013.
@@ -269,7 +269,7 @@ Más bien al contrario―――
 [sha:d8bd7763a3d5a172264a8acbe2020f38011a3cb1]{
 -- Page 535, Offset 10033.
 -- 正しくは、いま初めて、アレは“戦う”気になったのだ。
-Es como si hubiera empezado ahora a luchar en serio.
+Es como si ahora hubiera empezado a luchar en serio.
 }
 [sha:a158c688bb180a629bceb3bd7d5557c89b846103]{
 -- Page 536, Offset 10034.
@@ -284,7 +284,7 @@ Es como si hubiera empezado ahora a luchar en serio.
 [sha:0de7e4b5636f9221ba95190d87c0367c53896545]{
 -- Page 537, Offset 10036.
 -- 伝え聞いた貴様の姿と、今の貴様はかけ離れている。
-Eres bastante distinta a la persona que se me ha hecho esperar.
+Eres bastante distinta a la persona que me describieron.
 }
 [sha:4f6830de29fb667d35017bdbf16cc071ceb5af77]{
 -- Page 537, Offset 10037.
@@ -299,7 +299,7 @@ Parece que a la hora de la verdad, la fortuna me sonríe."
 [sha:72d66522d72c971055ab34abdb90fd524358d729]{
 -- Page 538, Offset 10039.
 -- お互い、最後の一撃を残しているだけのていたらく。どちらかが仕掛ければどちらかが消えるだけ。
-Parece que a ambos nos queda solo un ataque. El que ataque, hará que el otro desaparezca.
+Parece que a ambos nos queda solo un movimiento. El que ataque, hará que el otro desaparezca.
 }
 [sha:8219ee6ba9c6d71e5b06e245f21cb22695cea11b]{
 -- Page 538, Offset 10040.
@@ -324,7 +324,7 @@ Pero antes de eso, al menos permíteme ofrecerte esta cortesía."
 [sha:40c9074d62e45d3d2ec7969b87459dfaf656497c]{
 -- Page 539, Offset 10044.
 -- 貴様にとって血とは何や？”」
-%{g}¿Para vuesa merced la sangre qué es?%{/g}"
+%{g}¿Para vuesa merced qué es la sangre?%{/g}"
 }
 [sha:9300270e262dd3ea0a8e3c18b18f22b8b358318b]{
 -- Page 540, Offset 10045.
@@ -359,12 +359,12 @@ Tras abrir sus ojos por la sorpresa, Vlov responde.
 [sha:587d21d1e803ea7c9378ced8273aa55c77aaad5c]{
 -- Page 541, Offset 10051.
 -- <爾|しか>り。血液がなければ、おれはこの寒さに凍り付く”」
-%{g}En definitiva: sin sangre, con este frío helado me hallaría.%{/g}"
+%{g}En definitiva: sin sangre, con este frío me helaría.%{/g}"
 }
 [sha:e16249d5808cb217a4a166cf17224788913f9140]{
 -- Page 541, Offset 10052.
 -- <敬|うやま>いすら感じさせる声で、自らの正体を明らかにした。
-Revela tu verdadero yo, con una voz que podría ser interpretada como respetuosa.
+Revela su verdadero yo, con una voz que podría ser interpretada como respetuosa.
 }
 [sha:2d20506c4da203293de68dd327ffdd8553637fdc]{
 -- Page 542, Offset 10053.
@@ -396,7 +396,7 @@ Osea que básicamente, %{i}la mataste y te quedaste con él %{/i}, ¿no?"
 [sha:3fa95e0e7297ade4f2d667f1250107ba8b990ebb]{
 -- Page 543, Offset 10058.
 -- 「……そうだ。おれは後継者ではない。ただの騎士だ。騎士だった。永遠など、おれには手に余るものだ」
-"Efectivamente... No soy un Sucesor... soy un simple caballero――%{i}era%{/i} un caballero... La eternidad no algo que me corresponda."
+"Efectivamente... No soy un Sucesor... soy un simple caballero――%{i}era%{/i} un caballero... La eternidad es algo muy por encima de mi posición."
 }
 [sha:ab32209397fb11b5f6c08eeab757d47b065d9575]{
 -- Page 544, Offset 10059.
@@ -406,7 +406,7 @@ El vampiro gira la mano derecha hacia su propia sombra.
 [sha:11c56cf227d279cd0e8565456c92883ada39da95]{
 -- Page 544, Offset 10060.
 -- 長く―――不自然なまでに長く伸びた影から、巨大な<得|・><物|・>が浮上する。
-De la larga――antinaturalmente larga――sombra que se extiende bajo el emerge la forma descomunal de un arma %{i}estrafalaria%{/i}.
+De la larga――antinaturalmente larga――sombra que se extiende bajo él, emerge la forma descomunal de un arma %{i}estrafalaria%{/i}.
 }
 [sha:b96d31336608a041ff2c5505466202aaa047b946]{
 -- Page 545, Offset 10061.
@@ -416,7 +416,7 @@ De la larga――antinaturalmente larga――sombra que se extiende bajo el emer
 [sha:29faf61892010bef02e15248b3be003b451c922d]{
 -- Page 545, Offset 10062.
 -- 故に奪った。騎士として王を倒し、その王座を<簒奪|さんだつ>した。いまやこの原理は、おれだけの<呪|もの>になった」
-Por tanto, lo robé.  El Caballero derrotó a la Reina, reclamando el trono para él... Ahora, este Principio es una maldición que soporto yo solo.
+Por tanto, lo robé. El Caballero derrotó a la Reina, reclamando el trono para él... Ahora, este Principio es una maldición que soporto yo solo.
 }
 [sha:0f7f0f51208726bfb2c9d0275048422786a8d6d0]{
 -- Page 545, Offset 10063.
@@ -492,7 +492,7 @@ Arcueid no duda.
 [sha:db036742449bf03708cf701df5d77964c2807a3d]{
 -- Page 550, Offset 10077.
 -- ヴローヴの異様な武器が自分を打倒しうるモノだと理解しながら、なお正面から飛びかかる。
-Arcueid ataca de frente, aún sabiendo que ese extraño arma tiene el potencial para derrotarla.
+Ataca de frente, aún sabiendo que ese extraño arma tiene el potencial para derrotarla.
 }
 [sha:be413b996327e7d33522060c3fc6ca671205d3de]{
 -- Page 550, Offset 10078.
@@ -507,7 +507,7 @@ Y entonces―――
 [sha:5a34da987dbe2ad8e37cd710badd8724996c6c5a]{
 -- Page 551, Offset 10080.
 -- <彼|か>の領土はこの星の一部でありながら、“生きるに<能|あた>わず”と除外された生命圏。
-// Simplificado con la tl oficial.
+//Simplificado con la tl oficial.
 Aunque mi dominio sea parte del planeta, no es compatible con la vida.
 }
 [sha:d5e217d9d0ade899bb9bf162e4b8b308f788e254]{
@@ -528,7 +528,7 @@ Arcueid se para en seco y extiende sus manos para protegerse.
 [sha:4826277cd58ca53701834ede16a3fe9cb4255468]{
 -- Page 552, Offset 10084.
 -- 吹き<荒|すさ>び、金切り声をあげ、街を覆う絶対零度。
-El aire sopla con fieramente, cubriendo los alrededores en temperaturas cercanas al cero absoluto.
+El aire sopla fieramente, cubriendo los alrededores en temperaturas cercanas al cero absoluto.
 }
 [sha:3dad0829f90c4d33437fed7e650d50f20c35a3a8]{
 -- Page 552, Offset 10085.
@@ -538,7 +538,7 @@ Y entonces―――
 [sha:d3a8376f2db4e6cf03952ab86359667d916c9d4b]{
 -- Page 553, Offset 10086.
 -- 純白のドレスを粉砕する、この世ならざる鋼の巨槍。
-Una enorme lanza de metal de otro mundo pulveriza su vestido blanco puro.
+Una enorme lanza de un metal de otro mundo pulveriza su puro vestido blanco.
 }
 [sha:3e32e9391ed6dbf0003289d53fa2f37f1bb74dfb]{
 -- Page 554, Offset 10087.

@@ -29,7 +29,6 @@ Me tumbo en la cama.
 [sha:c7389f19502a942208dcd46e4c7febaa940d174a]{
 -- Page 238, Offset 21953.
 -- 「―――ええ、言われてみればそうですね」
-// Mix de tls
 "―――Ahora que lo mencionas, tiene sentido."
 }
 [sha:0fff1b4fc2b906e1e3fc5b2ba6c2fd66ad29cb0f]{
@@ -52,7 +51,7 @@ Nii-san, ¿qué quieres hacer con la cena?"
 -- 「いや、食事はちょっと。琥珀さんには悪いけど、食べられそうにない。今夜はこのまま眠らせてもらうよ。
 "Hmm, cenar puede que sea demasiado...
  Dale mis disculpas a Kohaku-san, ahora mismo no creo que tenga el estómago para comer nada.
- Mejor que esta noche me vaya a dormir tal y como estoy."
+ Mejor que esta noche me vaya a dormir tal y como estoy.
 }
 [sha:d2f66bd8daf9977933196e8894e342852f161baf]{
 -- Page 239, Offset 21958.
@@ -65,21 +64,21 @@ Ah, pero debería poder tomar algo líquido.
 -- 「わかりました。翡翠、そう琥珀に伝えてきて」
 "Entendido. Hisui, por favor informa a Kohaku de lo que ha dicho."
 }
-[sha:570afbfb68a775177c0dc699e78357d337fb0542]{
+[offset:21960]{
 -- Page 241, Offset 21960.
 -- 「かしこまりました。
-"Entendido.
+"Como desee.
 }
 [sha:e3967e80201e85420bf9e019c9960075d828c757]{
 -- Page 241, Offset 21961.
 -- 野菜ジュース……人参、トマト、白菜、キャベツ、赤ピーマン、ウメ、などのミックスを、至急」
 Zumo de verduras...
- Enseguida prepararemos una mezcla de zanahorias, tomates, repollo, pimientos rojos, ciruela y otros ingredientes.
+ Enseguida prepararemos una mezcla de zanahorias, tomates, repollo, pimientos rojos, ciruela y otros ingredientes."
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:21962]{
 -- Page 241, Offset 21962.
 -- 「？」
-"Hm?"
+"¿Eh?"
 }
 [sha:fecbdfe64f794483d72167f9df80be91467e5b08]{
 -- Page 241, Offset 21963.
@@ -137,8 +136,8 @@ Lo entiendo, pero aún así, tengo que ir al parque.
 [sha:e20dd55e5428cd71358900d1c56f88b421bbd09d]{
 -- Page 244, Offset 21973.
 -- ……アイツの事だから、放っておいたらバカ正直に何時間も待つに決まっている。
-Es %{i}ella%{/i} de quien estamos hablando.
- Si dejo a esa idiota tirada, se quedará esperando tantas horas como sea necesario.
+Es de %{i}ella%{/i} de quién estamos hablando.
+ Si dejo tirada a esa idiota, se quedará esperando tantas horas como sea necesario.
 }
 [sha:debc5ea9739e532c105c23fec4e49921539e2386]{
 -- Page 245, Offset 21974.
@@ -150,10 +149,10 @@ Me tambaleo hasta el escritorio.
 -- 引き出しからナイフを取って、上着を羽織る
 Cojo mi cuchillo del cajón, y lo pongo en mi chaqueta.
 }
-[sha:dcdfecd2391c5f5d596ff05fc281fcdb8312cd2a]{
+[offset:21976]{
 -- Page 245, Offset 21976. Glued.
 -- 。
-.
+%{nothing}
 }
 [sha:9ca5aa3ebfd335f3ff6030b422dd7b0e2069bc84]{
 -- Page 245, Offset 21977.
@@ -235,7 +234,7 @@ Arcueid viene directamente, sus pasos resuenan con intensidad.
 [sha:c15afb21ab52706736eb011e7d57146dcd1fcb4e]{
 -- Page 252, Offset 21991.
 -- 「今夜も壮大な意地悪、恐れ入るわ。
-"Esta noche crueldad tampoco conoce límites. Honestamente estoy impresionada.
+"Esta noche tu crueldad tampoco conoce límites. Honestamente estoy impresionada.
 }
 [sha:8ab28a7828c2c5783c8bc10c334fe3e903490ad2]{
 -- Page 252, Offset 21992. Mods: @n.
@@ -261,15 +260,14 @@ Al ver mi cara Arcueid se queda sin palabras.
 [sha:97692d9dab21ecceda30061aa48060304af79133]{
 -- Page 253, Offset 21996.
 -- 顔は真っ青だし、生気も全然感じられないし……もしかして、先に死者探しをしてきちゃった？」
-// Mix de tls
 Tu cara está totalmente pálida,
- y  ni siquiera puedo sentir tu fuerza vital...
- ¿Has ido a buscar a los Muertos sin mi?"
+ y ni siquiera puedo sentir tu fuerza vital...
+ ¿Has ido a buscar a los Muertos sin mí?"
 }
 [sha:32c5fe616fa6ff7df2cab038ee218943994d7ddf]{
 -- Page 254, Offset 21997.
 -- 「どんな冒険野郎だよ俺は……。
-"Por que clase de idiota aventurero me tomas...
+"Por qué clase de idiota aventurero me tomas...
 }
 [sha:f1eff95fec3c41e2aac99e6ef95e27c580436489]{
 -- Page 254, Offset 21998.
@@ -279,7 +277,7 @@ Te equivocas. Solo me siento un poco anémico.
 [sha:eea19d18466e100ceea53c1538555849e96c5e62]{
 -- Page 254, Offset 21999.
 -- 時々こういう風になるからそう驚かなくていい。
-Sufro de esto de vez en cuando,
+Sufro esto de vez en cuando,
  no es nada por lo que sorprenderse.
 }
 [sha:b4f96d41c307ddc2720558134f0ad7b6e2589fec]{
@@ -302,7 +300,7 @@ Más importante, lo siento.
 -- Page 256, Offset 22003.
 -- ……ほんと、わかんない。そんな体で出てくるなんてヘンだよ、志貴」
 No lo entiendo...
-Shiki,  ¿por qué has venido hasta aquí con el cuerpo en ese estado?"
+Shiki, ¿por qué has venido hasta aquí con el cuerpo en ese estado?"
 }
 [sha:9824a6e9adcee0eb46cb04b82b46bb16249b582a]{
 -- Page 257, Offset 22004.
@@ -321,18 +319,18 @@ Y además, eso no es todo.
 -- Page 258, Offset 22006.
 -- 「それは嬉しいけど……後半のは余計だけど……。
 "Bueno, me alegra que digas eso...
- excepto por eso último.
+ excepto por lo último.
 }
 [sha:651f7caedba80f30b6ca068c58862ad6231ff6a7]{
 -- Page 258, Offset 22007.
 -- やっぱりおかしい。こんなの、いくらなんでも酷すぎる」
 Pero igualmente, esto no está bien.
- Di lo que quieras, pero esto parece demasiado cruel."
+ Di lo que quieras, pero esto me parece demasiado cruel."
 }
 [sha:1241e34bd79eacb9f7a38e4168116c52ce88de1b]{
 -- Page 258, Offset 22008.
 -- 「酷いって、なにが……？」
-"¿Cruel? ¿El que...?"
+"¿Cruel? ¿El qué...?"
 }
 [sha:48f7f6a5f59aac0b8838c7cee2b7b487cbd7ebdd]{
 -- Page 259, Offset 22009.
@@ -361,7 +359,7 @@ Quizá sea un efecto secundario de tus Ojos Místicos de Percepción Mortal,
 [sha:e3713c00e3732b6daa8c7ba1467ebdbf28bc9af8]{
 -- Page 260, Offset 22013.
 -- だから、あなたの貧血とやらは『前も大丈夫だったから今回も大丈夫』なんていうものじゃない」
-Por eso no puedes simplemente achacarlo a tu anemia y pensar que 'estuve bien la última vez, así que esta vez también'."
+Por eso no puedes simplemente achacarlo a tu anemia y pensar 'la última vez no pasó nada, osea que esta vez tampoco'."
 }
 [sha:2d78df2b8bea1b75dfea2bef1590844ce5e7811d]{
 -- Page 261, Offset 22014. Mods: @n.
@@ -381,7 +379,7 @@ Pero por otro lado, tu resistencia a causas de muertes internas es prácticament
 [sha:ebc0da66ca19a9d22f9e575c1bc46127b5234b1f]{
 -- Page 262, Offset 22017.
 -- 「頻繁に貧血で倒れるのは<身体|からだ>が行っている防護策なのよ、きっと。
-"Los ataques de anemia que sigues teniendo son casi seguro una forma de tu cuerpo de protegerse a sí mismo.
+"Los ataques de anemia que sigues teniendo casi seguro que son una forma que tiene tu cuerpo de protegerse a si mismo.
 }
 [sha:124025b85dc3944ce04bf31143e8b4b988a78058]{
 -- Page 262, Offset 22018.
@@ -395,7 +393,7 @@ Los humanos son incapaces de percibir las anormalidades que ocurren dentro de el
 -- Page 263, Offset 22019.
 -- 「今の貧血だって、本来なら死んでいてもおかしくない断線のはず。覚醒できたのは<偶々|たまたま>運が良かったからと思いなさい」
 "La anemia que sufres ahora te debilita tanto que honestamente no sería sorprendente si te matara.
- Necesitas apreciar la suerte que has tenido al poderte levantar siquiera."
+ Necesitas apreciar la suerte que has tenido al poder levantarte siquiera."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 264, Offset 22020.
@@ -417,7 +415,7 @@ Hasta ahora pensaba en ello como un ordenador apagándose forzosamente,
 [sha:c165cebded7eb2de0a23b0d551727b486e2fc511]{
 -- Page 264, Offset 22023.
 -- この貧血は虚弱体質ではなく、自分自身の命を守る為の安全装置ではないのか、という仮説。
-Por ejemplo, la hipótesis de que era por tener una constitución débil,
+Por ejemplo, la hipótesis de que más que por tener una constitución débil,
  en realidad esta anemia es un mecanismo de seguridad que emplea mi cuerpo para proteger mi vida.
 }
 [sha:ce75f1bff2c13b475b040447565efcfea772bc18]{
@@ -433,7 +431,6 @@ Pero, si algo así es cierto...
 [sha:e752bcb70f610cc7ba4bd73864cb9bf53ef123a3]{
 -- Page 265, Offset 22026.
 -- 「つまり、貧血になってる時は、指先一つでコロッと逝きやすいってコト？」
-// Mix de tls
 "Entonces, quiere eso decir que cuando me empiezo a sentir anémico,
  ¿solo me tendrían que soplar un poco para que me de algo y me muera?"
 }
@@ -451,7 +448,7 @@ Si ese es el caso,
 [sha:775fc83d31e413a8c577d801808da5f47f88b0af]{
 -- Page 266, Offset 22029.
 -- でも来てくれてありがとう！
-¡No digo que no aprecie que hayas venido!
+¡No digo que no aprecie el que hayas venido!
 }
 [sha:e1ac5df8ca55c058836facfb815a0034c1203ac7]{
 -- Page 266, Offset 22030.
@@ -493,7 +490,6 @@ Mi cerebro es asaltado de nuevo por el mareo,
 [sha:a6558b9f71e2a2a64b4ebe3f997234dad0508fe0]{
 -- Page 268, Offset 22037.
 -- 今まで意識しないよう努めていた、アルクェイドの胸の柔らかさとか、肌の白さとか、キレイな金の髪とか、そういった女性的な艶めかしさが。
-// Mix de tls
 He intentado todo lo posible ignorar su atracción femenina――
 la suavidad de su pecho,
  su piel de porcelana,
@@ -540,7 +536,7 @@ He escapado de la tortura combinada de estar mareado por la anemia y por estar m
 [sha:265992b29988d0191edc4620bbd65687c9d49637]{
 -- Page 273, Offset 22045.
 -- 「とにかく、アルクェイドに心配してもらうほどじゃない。
-"De todos modos, no hace falta que te preocupes por mi.
+"De todos modos, no hace falta que te preocupes por mí.
 }
 [sha:f0e28d68a5528607d6faef96a5bd4b3aa1f5c3d0]{
 -- Page 273, Offset 22046.
@@ -619,7 +615,7 @@ Me tranquilizo e intento explicarla todo lo más claramente posible.
 [sha:fcf1cfd7e44ed8baf2ed4fdcd8f3b61b8f54f09a]{
 -- Page 278, Offset 22060.
 -- ただ、あの黒い男が『死の線』を視ていた、という事だけは黙っておいた。確証はないし、俺の勘違いの気もするからだ。
-Sin embarjo, no la menciono que el hombre de negro podía ver las líneas de muerte.
+Sin embargo, no le menciono que el hombre de negro podía ver las líneas de muerte.
  No tengo prueba definitiva de que pudiese, así que es posible que solo estuviera imaginándomelo.
 }
 [sha:3871cff4a59f42c927d7b034924ebe5c2e1e9ff1]{
@@ -630,7 +626,6 @@ Sin embarjo, no la menciono que el hombre de negro podía ver las líneas de mue
 [sha:138d2ab222289a0b3aa79c43b48263868d6925b1]{
 -- Page 10018, Offset 22062.
 -- ひとしきり説明を終えて顔色をうかがう。
-// Mix de tls
 Tras explicar todo lo que pasó,
  echo un vistazo a la cara de Arcueid e intento averiguar su reacción.
 }
@@ -652,7 +647,7 @@ Su mirada se ha mantenido totalmente afilada desde el momento que he empezado a 
 [sha:bc61d2e501a570609550918c80cff211be802f71]{
 -- Page 280, Offset 22066.
 -- その死者は何者だか知らないけど、修道服を着た女のことなら見当はつく」
-No se quien era ese Muerto,
+No se quién era ese Muerto,
  pero me hago una buena idea de quién era esa mujer vestida de monja."
 }
 [sha:7cd069a88050cfc4122556cf13db6a445b88dbc1]{
@@ -684,7 +679,7 @@ Su irritación es casi asesina.
 [sha:f8970899e533619a4d447f4c63280a18d5d76755]{
 -- Page 282, Offset 22072.
 -- ……けどおかしいな。埋葬機関がこんなに早く代行者を送ってくるハズはないんだけど」
-Pero es raro... La Agencia de Entierros no debería haber mandado un Ejecutor tan rápido."
+Pero que raro... La Agencia de Entierros no debería haber mandado un Ejecutor tan rápido."
 }
 [sha:29e45bcd4289e69cec4b16c2a47443ea635a081d]{
 -- Page 283, Offset 22073.
@@ -730,13 +725,13 @@ Quizá hablé demasiado pronto...
 -- Page 286, Offset 22081.
 -- 「訊いていいか？　さっきまでの深刻な空気はどこに？」
 "¿Puedo preguntarte algo?
- ¿Qué ha pasado con la atmósfera sería de hace un segundo?"
+ ¿Qué ha pasado con la atmósfera seria de hace un segundo?"
 }
 [sha:1d6e839339fc7c39fee4819d9cbf3c8e86d34979]{
 -- Page 286, Offset 22082.
 -- 「本気で怒ってるの！　せっかく志貴と一緒に戦えると思ったのに！」
 "¡Estoy enfadada de verdad!
- ¡Pensé que finalmente tendría una oportunidad de luchar junto a ti!"
+ ¡Pensé que por fin tendría una oportunidad de luchar junto a ti!"
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 286, Offset 22083.
@@ -752,7 +747,7 @@ Es un deseo peligroso,
 [sha:a32bf8e25490b54df8f9a37857e2504042cadc4f]{
 -- Page 287, Offset 22085.
 -- 「……あのな。ひとりでやり合う事になったのはなりゆきだよ、なりゆき。
-"Escucha. Sé que luche por mi cuenta, pero tuve que hacerlo, ¿vale? Mis manos estaban atadas.
+"Escucha. Sé que luché por mi cuenta, pero tuve que hacerlo, ¿vale? Mis manos estaban atadas.
 }
 [sha:c650703d2ac1801d3429525ae008fbaaa7ccc2d7]{
 -- Page 287, Offset 22086.
@@ -794,7 +789,7 @@ En ese momento...
 [sha:12956c78467dbdec0a611492d799c9e4aecc6e8f]{
 -- Page 290, Offset 22093.
 -- 目の前に人影があると気付いた時、俺の中には恐怖しかなかった。
-Cuando noté que había una figura frente a mi,
+Cuando noté que había una figura frente a mí,
  me invadió el miedo.
 }
 [sha:a24bba37d706393d011a03cf898e238d81818708]{
@@ -812,7 +807,7 @@ Y tras eso, saqué mi cuchillo en respuesta,
 [sha:b157285e4ed976686b37e3f4685d8b2b6b4a5e7f]{
 -- Page 291, Offset 22096.
 -- 正義感では、人は人を殺せない。
-El sentido de la justicia no es suficiente como para dejar a una persona matar a otra.
+El sentido de la justicia no es suficiente como para dejar que una persona mate a otra.
 }
 [sha:413585584623fc9424f6595f67b9b9f789c15637]{
 -- Page 291, Offset 22097.
@@ -843,7 +838,7 @@ Si no, moriré.
 -- Page 291, Offset 22102.
 -- 結論を凌駕する結論。純化した<確|・><信|・>と<理|・><由|・>。その二つが、あの瞬間の俺の全てだった。
 Una conclusión definitiva.
- %{i}Convicción%{/i} y %{i}motivo%{/i} purificado.
+ %{i}Convicción%{/i} y %{i}motivo%{/i} puro.
  En ese momento, no era más que eso.
 }
 [sha:f0e70626f298bad6d34166a94fa4ce0dbc5ca6ca]{
@@ -881,7 +876,7 @@ Te dije que descansaras, ¿no?
 -- Page 293, Offset 22109.
 -- 死者の食堂もあらかた片付けたところだし、今夜は様子を見て、明日に備えましょう」
 Ya hemos limpiado la mayoría de los comederos,
- así que podemos usar esta noche para reorganizar y prepararnos para mañana."
+ así que podemos usar esta noche para reorganizarnos y estar listos para mañana."
 }
 [sha:d4e5877967bf289a821d9dfd2b7e4fc2308134cb]{
 -- Page 294, Offset 22110.
@@ -919,13 +914,13 @@ sino que nunca había visto tu cuerpo tan débil.
 [sha:a35b01743bca3fe3acf98b31d2f463cd0ca45bb3]{
 -- Page 297, Offset 22116.
 -- 「……ああ、そうか。協力者が足手まといになってたら話にならない。
-"Ah, se a qué te refieres.
- Sí, definitivamente sería un problema que la persona que tiene ayudarte acabe siendo una molestia.
+"Ah, sé a qué te refieres.
+ Sí, definitivamente sería un problema que la persona que tiene ayudarte acabe siendo un lastre.
 }
 [sha:2e8d99cf87ddbe0bb9ef8adeb38fa00c02e88b29]{
 -- Page 297, Offset 22117.
 -- オッケー、明日までには体力を回復させておく」
-Vale, me aseguraré de estar mañana de vuelta en forma."
+Vale, me aseguraré de vuelta en forma para mañana."
 }
 [sha:d84687aabdb7d17f092daee05b210338106e5551]{
 -- Page 297, Offset 22118.
@@ -940,7 +935,7 @@ Arcueid refunfuña, descontenta con algo aparentemente.
 [sha:31b4f12c4e28e6982e1686bc6ce69bc59e727383]{
 -- Page 298, Offset 22120.
 -- ……やっぱり、こいつの考えはいまいち分からない。
-Como siempre, no se que hay en su cabeza...
+Como siempre, no sé lo que hay en su cabeza...
 }
 [sha:e1698f5395af0aa433aa26ab0a5f8b062c54df3d]{
 -- Page 299, Offset 22121.

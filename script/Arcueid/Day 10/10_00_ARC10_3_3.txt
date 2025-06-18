@@ -18,7 +18,7 @@ Entramos en el parque.
 -- 平日の午前中でも利用者は多かった。背広姿の社会人、子供連れの女性、俺よりやや年上のペアなどが、のんびりと過ごしている。
 Hay mucha gente aunque sea por la mañana y entre semana.
  Hombres de negocios en traje, mujeres con sus niños, un puñado de parejas de ancianos...
- Hay todo tipo de gente disfrutando del día.
+ Todo tipo de gente se encuentra disfrutando del día.
 }
 [sha:388a2d55764a4e75ec9b12cf0edee15cffba4054]{
 -- Page 241, Offset 24879.
@@ -46,7 +46,7 @@ Supongo que no tiene quejas sobre dar un simple paseo por el parque.
 [sha:14424be6f6c5b77083ee37eeccab747c4304d445]{
 -- Page 243, Offset 24883.
 -- 志貴、あれは何を売ってるところ？」
-Shiki, ¿que tipo de tienda es?"
+Shiki, ¿qué tipo de tienda es?"
 }
 [sha:8a70c07fd22f6c5808b451b238b938970d720bc6]{
 -- Page 244, Offset 24884.
@@ -67,7 +67,6 @@ En el camino que se aleja de la fuente hay una furgoneta vendiendo helado.
 [sha:068dd4c4a998e39a1c47f089e4c4d9914e98f99b]{
 -- Page 246, Offset 24887.
 -- 物欲しげなアルクェイドを先に封じておく。
-// Tl oficial
 Corto sus demandas de raíz antes de que florezcan.
 }
 [sha:f6062b46b12df5eaaafeabef599ad2d232dd8426]{
@@ -75,7 +74,7 @@ Corto sus demandas de raíz antes de que florezcan.
 -- 秋空の下でアイスを食べるのも悪くはないが、今日は先が長そうだし。胃を冷やすのは避けるべきだ。
 Comer helado bajo el cielo otoñal no suena mal,
  pero parece que va a ser un día largo.
- Me gustaría evitar meter algo frío en mi estómago.
+ Me gustaría evitar introducir algo frío en mi estómago.
 }
 [sha:6276de8f802d8e40ccd939d3f5a42b01a4a886c1]{
 -- Page 247, Offset 24889.
@@ -85,7 +84,7 @@ Pero... ¿qué es esta ansiedad que siento?
 [sha:f7d66ad5691346c5c2c1d17e935185806634ece9]{
 -- Page 247, Offset 24890.
 -- 歩いているだけなのに、妙に背中が落ち着かない。
-Solo estamos dando una vuelta, ¿qué es esta sensación inquietante como si alguien nos estuviera mirando?
+Solo estamos dando una vuelta, ¿qué es esta sensación inquietante, como si alguien nos estuviera mirando?
 }
 [sha:36682d37f8c5337c074921e7211331fe0049fdc1]{
 -- Page 248, Offset 24891.
@@ -100,7 +99,7 @@ Solo estamos dando una vuelta, ¿qué es esta sensación inquietante como si alg
 [sha:dca13262241a9f107a5905635bf3e031ebaa6554]{
 -- Page 249, Offset 24893.
 -- 「んー、みんなわたしたちを見てるから、志貴の知り合いなのかなって」
-"Bueno, todo el mundo no está mirando, así que igual los conocías."
+"Bueno, todo el mundo nos está mirando, así que igual los conocías."
 }
 [sha:643d6e86cc499e36ab9cccd9cfab6e8eec9b8260]{
 -- Page 249, Offset 24894.
@@ -195,17 +194,17 @@ Veamos... ¿Un poco de agua?"
 [sha:81c0200102590fc7e5cc99ca03190789c33030b3]{
 -- Page 258, Offset 24911.
 -- ……と、そこいらのヤツに声をかけられたら適当に聞き流すように。くれぐれも相手にしないコト」
-Y, si alguno de esos tipos se acercan, ignóralos por favor. Ni les des la hora."
+Y, si alguno de esos tipos se acerca, ignóralos por favor. No les des ni la hora."
 }
 [sha:6bbdb50a6a065ef244515bab511db03f974d40f4]{
 -- Page 259, Offset 24912.
 -- 小走りで近くの自動販売機に向かう。
 Troto hacia una máquina expendedora cercana.
 }
-[sha:710ff592deee686ff519ceafb73ddb56a38c986c]{
+[offset:24913]{
 -- Page 259, Offset 24913.
 -- ……仕方ない。
-Parece que no tengo mucha elección.
+Vale, bien.
 }
 [sha:6b7573e0afc13078b233a4175f0403ae28d6c7de]{
 -- Page 259, Offset 24914.
@@ -236,7 +235,6 @@ Hay una pequeña procesión de palomas en el camino.
 [sha:f46fd3a9daed8c85041052a71c2045eff9eba15f]{
 -- Page 261, Offset 24919.
 -- 昼休みになってさらに数を増した背広姿。
-// Mix de tls
 Es hora de comer, por lo que el número de gente en traje se multiplica.
 }
 [sha:e240d0ae0eabeec11cc0beedee4c9177f1c2c91d]{
@@ -345,7 +343,7 @@ No estoy diciendo necesariamente que sería genial si fuera así,
 -- Page 269, Offset 24940.
 -- おまえがそんな優しい生き物じゃないコトはよく分かってる。なにしろ地面ごとドカーンなヤツだから」
 Sé que no eres tan amable.
- Sin mencionar que si lo intentas probablemente dejes un rastro de destrucción a tu paso."
+ Sin mencionar que si lo intentas probablemente dejes un rastro de destrucción a tu paso." 
 }
 [sha:b4ece17695ebcbe5bf88d9d1ab9232246469a350]{
 -- Page 270, Offset 24941. Mods: @n.
@@ -402,10 +400,10 @@ Es solo que me dió la sensación de que quería estar en silencio, simplemente 
 -- 「ううん、別にそういうんじゃないけど……さっきの、一体なんなのかなって思って」
 "No, no es nada de eso... solo me preguntaba que ha sido eso de antes."
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:24952]{
 -- Page 273, Offset 24952.
 -- 「……？」
-¿Eh...?
+"¿Hmm...?"
 }
 [sha:1dbe38bb0c01767f4561d0f0bb199ca052525084]{
 -- Page 273, Offset 24953.
@@ -415,7 +413,7 @@ Es solo que me dió la sensación de que quería estar en silencio, simplemente 
 [sha:7cdec20cc56bd5f0880680991a74ffaa28448844]{
 -- Page 274, Offset 24954.
 -- 「わからないな。さっきのって何のこと？」
-No entiendo. ¿A qué te refieres con eso de antes?"
+"No entiendo. ¿A qué te refieres con eso de antes?"
 }
 [sha:6b231abd1d3dfdf46c5975a1250c8054dbf7c609]{
 -- Page 274, Offset 24955.
@@ -467,19 +465,16 @@ No pasa nada, ¿verdad? A estas alturas ir de la mano no es para tanto.
 [sha:0908eb3b6273b93a86a239ed23fbdb07cc94129f]{
 -- Page 277, Offset 24964.
 -- 「そうなんだ。理由のない事がわりと多いなんて、志貴って無駄が多いんだね」
-// Tl oficial
 "Ya veo. Haces muchas cosas sin razón, ¿o no, Shiki? Eres bastante ineficiente."
 }
 [sha:e60f61bc089c1bc185881dbb16bb2fb952e60d61]{
 -- Page 278, Offset 24965.
 -- 「理由がない＝無駄が多い、という意見には異議を申し立てるけどな。
-// Tl oficial
 "Objeto, hacer cosas sin razón no es lo mismo que ser ineficiente.
 }
 [sha:3ed927515e43292551be066ec5aa0ab662271f12]{
 -- Page 278, Offset 24966.
 -- 実行に移る際の工程が一つ少ないんだぞ？　むしろ無駄がないだろ。……まあ、それで物事が上手くいくかはバクチだけど」
-// Mix de tls
 En todo caso, significa que hay un paso menos entre la idea y la ejecución, ¿no?
  Si me preguntas, diría que es %{i}más%{/i} eficiente.
  Aunque no sabría decir si el resultado es mejor o peor."
@@ -503,7 +498,7 @@ Murmurando por admiración o asombro,
 [sha:0dc893bb53707b8b89a5eb784ab3ff6c8a2c1597]{
 -- Page 281, Offset 24970.
 -- 本当に突然、まったく関係のない事を聞いてくる。
-Cambia de marcha de golpe y de la nada me lanza una nueva pregunta.
+Cambiando marcha de golpe, me lanza una nueva pregunta de la nada.
 }
 [sha:55bbd45fb217f873230a90bc9700f11817d43ccc]{
 -- Page 281, Offset 24971.
@@ -515,7 +510,7 @@ Está mirando a un niño jugar frente a ella,
 -- Page 282, Offset 24972.
 -- 「さあ、どうかな。たしかに子供のころは遊びまわってたけど、それは屋敷の中だけの話でさ。こういう公園で遊んだ事は少なかった」
 "Hmm, no sabría decirte.
- Está claro que jugué mucho de niño, pero siempre era en los confines de la mansión.
+ Está claro que de niño jugué mucho, pero siempre era en los confines de la mansión.
  No tuve muchas oportunidades de jugar en un parque como este."
 }
 [sha:013579996dae94f7806f59ea10474e2d6c590fd2]{
@@ -527,7 +522,6 @@ Y en cuanto a compañeros solo tuve a Akiha y al resto;
 [sha:e5254a800516d11216da95e599e534595528b303]{
 -- Page 283, Offset 24974.
 -- 俺はどちらかというと、無菌室のような環境で育てられた子供だったのかもしれない。
-// Mix de tls
 Si tuviera que dar una respuesta, probablemente diría que soy un niño que creció apartado del mundo.
 }
 [sha:4a08df7cfa3ad7fb902961d842d348a827751592]{
@@ -548,7 +542,7 @@ Si los vampiros no tienen algo parecido a la infancia estaría bastante feo preg
 [sha:d9c45fac3259ccb8ee2c82db9ebb8b417ebdfd25]{
 -- Page 285, Offset 24978.
 -- 「志貴の想像通り、幼年期の思い出はないよ。
-"Tal y como sospechas, no tengo memorias de mi infancia.
+"Tal y como sospechas, no tengo recuerdos de mi infancia.
 }
 [sha:87b250d97e2e98583a7581a67ebe8f977a39780c]{
 -- Page 285, Offset 24979.
@@ -564,18 +558,18 @@ Por eso pensé que era un algo extraño.
 [sha:eda3c423de390612abe93c0619f935477294abf0]{
 -- Page 285, Offset 24981.
 -- 幼年期や老年期なんていう無駄な時間を、どうしてあなたたちは過ごせるんだろうって」
-Infancia, senilidad... no puedo evitar preguntarme porque vivís años tan insignificantes."
+Infancia, senilidad... no puedo evitar preguntarme por qué vivís años tan insignificantes."
 }
 [sha:ebc3e21e2387f3435c1ec328a212faa7bf323919]{
 -- Page 286, Offset 24982.
 -- その言葉は、俺に対する問いというよりアルクェイド本人に対する問いのように聞こえた。
-Parecía que se lo decía a sí misma más que a mi.
+Parece que se lo decía a sí misma más que a mí.
 }
 [sha:cd94adf17f0df24322b74074ba7ec60ef86b8cb0]{
 -- Page 287, Offset 24983.
 -- 「なんでもない。こんなふうに無作為に時間を浪費するのなんて初めてだから、思考が誤作動しちゃったみたい」
 "No es nada. Es la primera vez que pierdo el tiempo así,
- así que me he liado un poco."
+ por lo que me he liado un poco."
 }
 [sha:cf35ebffd680533cef81383be8e0f3010de465e3]{
 -- Page 287, Offset 24984.
@@ -620,7 +614,7 @@ Estaría bien volver a hacer algo así en otro momento, ¿no crees Shiki?"
 [sha:62677dc3127cff588f580cbce367aa2539303aec]{
 -- Page 290, Offset 24992.
 -- 「―――まあ、それは」
-"Bueno, a ver..."
+"Bueno, eso..."
 }
 [sha:8c2b27c446ddb0ae0acc7083750a8b28d8873cec]{
 -- Page 291, Offset 24993.
@@ -630,7 +624,6 @@ Ciertamente fue aburrido, pero eso no significa que no fuera interesante.
 [sha:4004cd9a6a904bc10987a354e129c04283cb3220]{
 -- Page 291, Offset 24994.
 -- 考えてみればアルクェイドと公園で時間を浪費するなんて、滅多にない事なんだし。
-// Reestructurado para que tenga sentido
 Ahora que lo pienso, pasar tiempo en el parque con Arcueid así como así no es algo que se suela dar.
 }
 [sha:6f98a8cd0b9a334ca06b0db1f17cf627338bbeed]{
@@ -656,7 +649,6 @@ Tras decir eso, empezamos a salir del parque.
 [sha:10936d3aacae5d83121278bdc50f6bfeffc9cecb]{
 -- Page 293, Offset 24999.
 -- ほんの一瞬、アルクェイドの手を握ろうと思い、すぐに止めた。
-// fucking loser
 Por un momento pienso en tomar su mano, pero rápidamente decido que no.
 }
 [sha:c2a2cc02cd31959ff100b8cd9e4b1c1f0127ad8b]{

@@ -16,8 +16,8 @@ Nos somos tan cercanos como para saber dónde encontrarnos.
 [sha:b098512bd0a1a39180382460a487480a3ff6d871]{
 -- Page 10005, Offset 16908.
 -- 偶然に頼らないのであれば、自分の勘と足を総動員して、あの白い背中を見つけないと。
-Y parece que no puedo confiar en casualidades,
- entonces tendré que usar mi par de piernas e intuición para buscar su silueta blanca.
+Y si no puedo confiar en casualidades,
+ tendré que usar mi par de piernas e intuición para buscar su silueta blanca.
 }
 [sha:3c9aee0c85a4f7e86695a38a0e995a522984caf9]{
 -- Page 135, Offset 16909.
@@ -32,7 +32,7 @@ Así era antes de que se popularizasen los móviles.
 [sha:03f5273375be480962e8ab433dbff0d2bda2942d]{
 -- Page 136, Offset 16911.
 -- 待ち合わせの場所ですれ違っても、相手の生活習慣や考え方を考察すれば身一つで探し当てられた。
-// Rarete
+//Rarete
 Aunque no puedas encontrar al otro donde quedasteis,
  si consideras las costumbres y como piensa la otra persona,
  puedes buscarla basándote en sus hábitos.
@@ -46,7 +46,7 @@ Es como un 'sexto sentido', una habilidad humana innata.
 [sha:3314a77e92cfef9ee5b2887fca4b3286592494fd]{
 -- Page 137, Offset 16913.
 -- ……とはいえ、俺の行動範囲は狭い。
-Pero... hay un límite al área que puedo peinar.
+Pero... hay un límite al área que puedo cubrir.
 }
 [sha:0d9a3a7f84e3d5e48b0bda8a70829b4e8594746e]{
 -- Page 137, Offset 16914.
@@ -54,10 +54,10 @@ Pero... hay un límite al área que puedo peinar.
 El distrito residencial o el distrito comercial...
  Me pregunto en que será mejor centrarse.
 }
-[sha:aae437e53ec0f6bcbe703a56219f31691218593a]{
+[offset:16915]{
 -- Page 138, Offset 16915.
 -- 「…………よし」
-"Vale..."
+"Muy bien..."
 }
 [sha:fbfda66622c16b42cb1b68c8a64d7268461dacc6]{
 -- Page 138, Offset 16916.
@@ -67,14 +67,14 @@ Tras pensarlo brevemente, me decido por el distrito comercial.
 [sha:e91c721b857f65b505788e8fefd09e9fbf6d38da]{
 -- Page 138, Offset 16917.
 -- 総耶駅の北口と南口を交互に監視しながら、繁華街の方にも足を延ばそう。
-De camino, me aseguro de echarle un ojo al norte y al sur de la Estación Souya.
+De camino, me aseguro de echarle un ojo al norte y al sur de la estación de Souya.
 }
 [sha:73ba314a2d86f7f9821d935f16b0098910bcb854]{
 -- Page 139, Offset 16918.
 -- どんな人混みであろうと、アイツがこの街に残っているのなら―――あの後ろ姿がまだ残っていてくれるなら、俺は決して見逃さない。
 Sin importar lo abarrotado que esté, si sigue en esta ciudad――
  si su silueta aún está entre la multitud――
- no se me pasará de ninguna manera.
+ no hay forma de que la pase por alto.
 }
 [sha:48432d6fd796e951cdefaadcc999c572ccdb2ff4]{
 -- Page 140, Offset 16919.
@@ -84,18 +84,18 @@ Sin importar lo abarrotado que esté, si sigue en esta ciudad――
 [sha:ee92d9f321d915735a356a79a9507a91fc479d7d]{
 -- Page 140, Offset 16920.
 -- 野生の勘とかぜんぜん無かった。
-Sexto sentido' mis cojones.
+ 'Sexto sentido' mis cojones.
 }
 [sha:db986036297fdfc46bd5d43c79e0306b061a4012]{
 -- Page 140, Offset 16921.
 -- そろそろ見つけられるかも？　という予感も、
-// Todas mis esperanzas acaban frustradas.
+//Todas mis esperanzas acaban frustradas.
 ¿'Quizá está a la vuelta de la esquina'?
 }
 [sha:c4207b36d8bc5080f98f7b32428f4060196f0057]{
 -- Page 140, Offset 16922.
 -- 次こそこっちの駅前にいる！　という期待も、
-¡Esta vez seguro que está frente a la estación!"
+ '¡Esta vez seguro que está frente a la estación!'
 }
 [sha:7455cf5191df92c10e539ff68ab8f521b81c990d]{
 -- Page 140, Offset 16923.
@@ -105,8 +105,8 @@ Todas mis esperanzas acaban frustradas.
 [sha:0d7f360a959b96fda5ee838dfa5c78ccf723b383]{
 -- Page 141, Offset 16924.
 -- ここまで清々しい無駄骨は久しぶりだ。言い過ぎかもしれないが初めてですらある。
-// Tl oficial
-Ha pasado mucho desde que me siento tan inútil. En realidad, puede que sea la primera vez que sea tan lamentable.
+//Tl oficial
+Ha pasado mucho desde la última vez que me sentí tan inútil. En realidad, puede que sea la primera vez que sea tan lamentable.
 }
 [sha:5cb8447561154ca98311d64abd49634f9098e4e7]{
 -- Page 141, Offset 16925.
@@ -168,13 +168,13 @@ Lo digo porque ha llegado una invitada inesperada."
 [sha:628a64abcb9901d4643a498d58e4e30e86917815]{
 -- Page 146, Offset 16936.
 -- 朝の一件だけでなく志貴さまがお帰りにならない事に不機嫌だった秋葉さまとかけます。
-// Tl oficial
+//Tl oficial
 No solo eso, pero Akiha-sama sigue molesta por tu ausencia, y ya ni mencionar el incidente de esta mañana.
 }
 [sha:d883e9583fb640c25956862935c0ba325b7fa698]{
 -- Page 146, Offset 16937.
 -- そのこころは？』
-// Tl oficial
+//Tl oficial
 Una combinación explosiva, ¿no crees?"
 }
 [sha:3728d685c33850856e89d63ae91a0b114ff6973e]{
@@ -200,19 +200,19 @@ Estoy en blanco.
 [sha:d2cc8ccc777df074ec4b7c348cd4b8faf56ee19f]{
 -- Page 147, Offset 16942.
 -- つまり……アルクェイドはいま、遠野の屋敷に？
-Significa esto... ¡¿que Arcueid está en la mansión en este momento?!"
+Significa esto... ¡¿que ahora mismo Arcueid está en la mansión?!"
 }
 [sha:715faa8ce32044382de44b5bc9324d8d3b73c922]{
 -- Page 147, Offset 16943.
 -- 思考は最悪の事態をたやすく理解し、そして理解を拒んだ。
-// Tl oficial
+//Tl oficial
 Puedo ver como esto va a acabar muy mal,
  pero no quiero saber lo que puede pasar.
 }
 [sha:33b4e703ba090c09de4ac8fceceb4c7866f134d3]{
 -- Page 148, Offset 16944.
 -- 俺は甘かった。本当に甘かった。
-Fui ingenuo. Mucho.
+Fui ingenuo. Muy, ingenuo.
 }
 [sha:61d1cfb652ad7bd4ca2171caebcaa14bc4ffca58]{
 -- Page 148, Offset 16945.
@@ -222,7 +222,7 @@ Fui ingenuo. Mucho.
 [sha:1c5ef0e1c0912753314738e3662835b42161175b]{
 -- Page 149, Offset 16946. Mods: @n.
 -- 「にしても
-De todos los lugares,
+"De todos los lugares,
 }
 [sha:7d8fe2fc24cd736ff25e52c6cecae97c14df44dc]{
 -- Page 149, Offset 16947. Glued.
@@ -242,9 +242,9 @@ Me aterra pensar lo que Arcueid pueda estar diciendo.
 [sha:f33f67cda2f1671aa4b2c97e83997ccd1495be08]{
 -- Page 150, Offset 16950.
 -- そして、それを聞いた秋葉がどんな感想を抱くのかなんて、もはや想像するだけで死にそうなんですけど……！
-// Tl oficial adaptado para que no crashee
+//Tl oficial adaptado para que no crashee
 Y...
- ¡temo por mi vida con solo imaginarme lo que estará pensando Akiha mientras la escucha!
+ ¡temo por mi vida con solo imaginar lo que estará pensando Akiha mientras la escucha!
 }
 [sha:9dca6c321f85e25777ae83b1ed7902cc599a98f5]{
 -- Page 151, Offset 16951.
@@ -290,8 +290,8 @@ O más bien...
 [sha:23aef950de5378e58b3b5f3482ef009d42acbfe0]{
 -- Page 154, Offset 16959.
 -- 『まあ、ちょうどいいところに。
-// Tl oficial
-"Llegas en el momento perfecto
+//Tl oficial
+"Llegas en el momento perfecto.
 }
 [sha:6892ee90e952fbc0d1b72f0133a69404fe69da5c]{
 -- Page 154, Offset 16960.

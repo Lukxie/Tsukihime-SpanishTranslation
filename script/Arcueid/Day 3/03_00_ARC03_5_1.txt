@@ -119,10 +119,10 @@ Nauseabundo y aturdido,
 -- 『ご―――ぼ――』
 "%{i}Hurk%{/i}――%{i}ughh%{/i}―――"
 }
-[sha:8492584c3a9dd05ba5799ab2d53f28a534997a34]{
+[offset:4683]{
 -- Page 254, Offset 4683.
 -- 胃液が逆流する。
-Jugos gástricos brotan de mi garganta.
+De mi garganta brotan jugos gástricos.
 }
 [sha:9a86c917e8ccc4bd17693c3e8807ef4ec12d1a0e]{
 -- Page 254, Offset 4684.
@@ -134,16 +134,16 @@ Vomito todo el contenido de mi estómago.
 -- 食い物も、胃液も、泣きながら吐き出した。
 Todo lo que he comido, mis jugos gástricos; lo vomito todo y lloro.
 }
-[sha:9864bba3fdcbca062dad0206628d860290379b63]{
+[offset:4686]{
 -- Page 255, Offset 4686.
 -- 胃の中には何もない。
-No hay nada más en mi estómago.
+Ya no queda nada en mi estómago.
 }
 [sha:92e540528c16126604851cf2c2eb35dd92f5c606]{
 -- Page 255, Offset 4687.
 -- なのに起きてしまった出来事をなかった事に、もとの日常に戻そうとするかのように、体は嘔吐を強制する。
-Y aún así sigo con arcadas, como si estuviera rechazando todo lo que ha pasado aquí.
- Como si estuviera intentando de alguna manera limpiar todo esto y devolver el mundo a la normalidad.
+Pero sigo con arcadas, como si rechazara todo lo ocurrido aquí.
+ Como si de alguna manera intentara limpiar todo esto y devolver el mundo a la normalidad.
 }
 [sha:eff1ee168a59f690115eaa4546b613c012c229c2]{
 -- Page 256, Offset 4688.
@@ -216,7 +216,7 @@ No sé por qué la he matado sin razón alguna.
 -- その理由が解らない。
 No entiendo por qué.
 }
-[sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
+[offset:4702]{
 -- Page 260, Offset 4702.
 -- 『――――うそだ』
 "―――Es una mentira."
@@ -236,7 +236,7 @@ Quiero decir, piénsalo. Tuve uno de mis mareos, y entonces...
 -- その間に見ていたユメなんだ―――
 Todo esto es un sueño que he visto mientras estaba aturdido―――
 }
-[sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
+[offset:4706]{
 -- Page 261, Offset 4706.
 -- 『――――うそだ』
 "―――Es una mentira."
@@ -259,13 +259,13 @@ No hay forma de que puedas hacerlo con nada más que un cuchillo.
 [sha:6b419ec259b33a24f1543de8a2d536a2a7d0d6af]{
 -- Page 262, Offset 4710.
 -- あの『線』なんて初めからなくって、自分が勝手に思いこんでいるだけの妄想で――――
-Además que, esas 'líneas' no son reales para empezar.
+Además que, para empezar esas 'líneas' no son reales.
  Solo son un delirio conveniente que me inventé―――
 }
-[sha:4f76d8b1b5b302955809c8e2905509f22b8a97f9]{
+[offset:4711]{
 -- Page 263, Offset 4711.
 -- 『――――うそだ』
-"―――Es una mentira."
+"―――Es mentira."
 }
 [sha:bceed0a6817de3687e59765128d366e4d747b0a5]{
 -- Page 263, Offset 4712.
@@ -291,7 +291,7 @@ Mi estómago se contrae, aunque no quede nada dentro de él.
 [sha:e770cf955d04135fbd04805ea59821ec4f8f4b08]{
 -- Page 264, Offset 4716.
 -- 『い……た――――』
-// Añado 'como' para que tenga sentido
+//Añado 'como' para que tenga sentido
 "Como... duele―――"
 }
 [sha:70393eec05e9a75ec0deb6c2286ecaa5c50881b5]{
@@ -312,7 +312,7 @@ Esto no es un sueño; solo me estoy engañando.
 [sha:65532994eea777002f2b313cac09a4d43b719997]{
 -- Page 265, Offset 4720.
 -- 『―――全部、うそだ』
-"―――Todo... todo es una mentira."
+"―――Todo... todo es mentira."
 }
 [sha:8ad7f53a5515cc586410ffd9a9e51c204d4cb30e]{
 -- Page 265, Offset 4721.
@@ -337,7 +337,7 @@ Ya entendí que esas 'líneas' me dejan cortar las cosas tan fácil como cortar 
 [sha:835bf45bb5328af2f06fd26cd2adc68a63863190]{
 -- Page 266, Offset 4725.
 -- 遠野志貴は、人間だって簡単にバラしてしまうと理解していた筈なのに。
-Tohno Shiki debió saber que los humanos podían ser despedazados con la misma facilidad.
+Tohno Shiki debía haber sabido que los humanos podían ser despedazados con la misma facilidad.
 }
 [sha:0a0493252b546d2720ed8cf4ad169d14085c5e97]{
 -- Page 266, Offset 4726.
@@ -347,7 +347,7 @@ He vivido de manera irresponsable, sin pararme a considerar esa posibilidad.
 [sha:3ddd3378bdbc6937d432e2dd754213f44e8d5b99]{
 -- Page 267, Offset 4727.
 -- ……自分が、簡単に何かを殺してしまう危険な人間なら。
-Puedo matar las cosas tan fácilmente... soy un ser humano peligroso.
+Puedo matar cosas con tanta facilidad... soy un ser humano peligroso.
 }
 [sha:9815145bb18c84e837728fc603d7d149f503f3c9]{
 -- Page 267, Offset 4728.

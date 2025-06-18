@@ -31,7 +31,7 @@
 [sha:481b66ba5e60f3d03a0d30dc71ed8c8d61733906]{
 -- Page 5, Offset 14807.
 -- コンコン、と扉が叩かれる。
-Alguien llama a la puerta.
+-- TRANSLATION HERE
 }
 [sha:b8252782ca8b197441682bf99ddfb36d67e20dbf]{
 -- Page 5, Offset 14808.
@@ -41,17 +41,17 @@ Alguien llama a la puerta.
 [sha:691cd6f0bf1e0b25be291daf1971aa33aa578cd4]{
 -- Page 6, Offset 14809.
 -- 「失礼します」
-"Perdone la intrusión."
+-- TRANSLATION HERE
 }
 [sha:f754220a7e7512923dbb122967006ca53f9bcdfc]{
 -- Page 6, Offset 14810.
 -- 「おはよう翡翠。今朝もありがとう」
-"Buenos días, Hisui. Gracias por venir a levantarme."
+-- TRANSLATION HERE
 }
 [sha:f940935d41f961d346617e7e5a515dc3e20c8f46]{
 -- Page 7, Offset 14811.
 -- 「おはようございます、志貴さま。お目覚めになられていたのですね」
-"Buenos días, Shiki-sama. Veo que ya está despierto."
+-- TRANSLATION HERE
 }
 [sha:cd5605fe2c7f9e3a328971810ef4f0377354d5c3]{
 -- Page 7, Offset 14812.
@@ -126,12 +126,12 @@ Alguien llama a la puerta.
 [sha:f277b37ca134b2a44587992650d404080df1a731]{
 -- Page 12, Offset 14826.
 -- 今日は月曜日。
-Es lunes.
+-- TRANSLATION HERE
 }
 [sha:8e8c04ab9f74ebaf08154738f5b44093454cbf30]{
 -- Page 12, Offset 14827.
 -- 仕切り直しにはちょうどいい、一週間の始まりだった。
-Principio de semana――perfecto para empezar de cero.
+-- TRANSLATION HERE
 }
 [sha:8a1681f01749c0ea43783b714c8b2ab53182c9ba]{
 -- Page 13, Offset 14828.
@@ -221,7 +221,7 @@ Principio de semana――perfecto para empezar de cero.
 [sha:2b4ea5f170dddaa2b902679c31e3853326cf4d09]{
 -- Page 19, Offset 14845.
 -- その背中に、
-Pero antes de irse―――
+-- TRANSLATION HERE
 }
 [sha:baa38586a53834e5ed128d1ded158582dafc4a46]{
 -- Page 19, Offset 14846.

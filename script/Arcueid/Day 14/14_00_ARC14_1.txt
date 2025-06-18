@@ -16,7 +16,7 @@ Escucho una voz familiar...
 [sha:aa697fe32e743bfbd771bd2bc7839da3758bb9a4]{
 -- Page 2, Offset 36751.
 -- 昨日に引き続き遅刻をなされますと、秋葉さまとの約束を破る事になってしまいます」
-Si vuelve a llegar tarde hoy,
+Si hoy vuelve a llegar tarde,
  habrá roto su promesa son Akiha-sama."
 }
 [sha:a9185b9fd90c37c1f7f738c49e2ee5b1c94570e3]{
@@ -48,12 +48,12 @@ Creo que prefiero no escuchar más de esta terrible agenda...
 [sha:792274e8b3a8281a020784f527dae09d33090b70]{
 -- Page 6, Offset 36757.
 -- 毛布をかぶったまま返答して、ゆっくりと目を覚ますことにした。
-Respondo con la sábana aún sobre mi cabeza antes de salir de volver en mí.
+Respondo con la sábana aún sobre la cabeza antes de salir de volver en mí.
 }
-[sha:6c65a761377b18958ab2281d4658e489918b70c9]{
+[offset:36758]{
 -- Page 7, Offset 36758.
 -- 「おはようございます、志貴さま」
-"Buenas noches, Shiki-sama."
+"Buenos días, Shiki-sama."
 }
 [sha:dbc5aa5403d2ba59e5aa50908d719b5cf9da6924]{
 -- Page 7, Offset 36759.
@@ -91,10 +91,10 @@ Una vez termine de cambiarse, por favor venga al comedor."
 -- 一礼をして、翡翠は部屋から立ち去っていった。
 Hisui deja la habitación tras hacer una reverencia.
 }
-[sha:3eeedb2d5b3e3194e641ff4141dc8d9ba9b1c82f]{
+[offset:36766]{
 -- Page 10, Offset 36766.
 -- 「は――――あ」
-"%{i}Ha――h%{/i}."
+"%{i}Ha――ah%{/i}."
 }
 [sha:ef37a346b998e99002572c73173ac4561a0d2c36]{
 -- Page 10, Offset 36767.
@@ -120,7 +120,7 @@ En el cajón está mi cuchillo. Desde aquella noche ha estado en desuso.
 [sha:66ceaccb29e1b744f542b0d97a1a4c3967a97e89]{
 -- Page 12, Offset 36771.
 -- ふわり、とカーテンがゆらいだ。
-Las cortinas se mecen gentílmente.
+Las cortinas se mecen gentilmente.
 }
 [sha:39b9cc72266abe75ab0d50dbbdbf0dfbac7e30da]{
 -- Page 12, Offset 36772.
@@ -167,7 +167,7 @@ Aún tras saber la verdad, nada ha cambiado en nuestra relación.
 [sha:788a300cffdfc850fa72bd417cf6522ba4e267e9]{
 -- Page 15, Offset 36780.
 -- 学校は渡り廊下を修理中という事を除けば、そう大きな変化はない。
-Aparte de que estén reconstruyendo el paso, nada ha cambiado en nuestra escuela.
+Nada ha cambiado en nuestra escuela, sin tener en cuenta que están reconstruyendo el paso.
 }
 [sha:0d2081eff777feed2efaeef5acc03c96bb844791]{
 -- Page 15, Offset 36781.
@@ -194,13 +194,13 @@ Tampoco ha habido más asesinatos en serie.
 [sha:bca93d36e6ed255502935c885c774a0611713170]{
 -- Page 17, Offset 36785.
 -- 犯人が捕まったわけではないので夜の街は寂しいままだが、あと<一月|ひとつき>も経てば元の活気を取り戻すだろう。
-Nunca pillaron al responsable, por lo que la ciudad sigue bastante tranquila de noche,
+Nunca pillaron al responsable, por lo que la ciudad sigue bastante desierta de noche,
  pero en un mes o así habrá vuelto a ser como era.
 }
 [sha:ec123df152823a1cfd7126f56b9171a997bd7d34]{
 -- Page 18, Offset 36786.
 -- 俺は、結局。
-En cuanto a mi―――
+En cuanto a mí―――
 }
 [sha:5f2d056c29f93b876a4088a4499bd9af29d527a6]{
 -- Page 18, Offset 36787.
@@ -272,7 +272,7 @@ Las clases han terminado.
 [sha:b8e00d428127c897f37aeb5849bbf45751e9f8cf]{
 -- Page 23, Offset 36799.
 -- 教室から誰も居なくなっても、
-No queda nadie en clase.
+No queda nadie en el aula.
 }
 [sha:c680680ba3fb178c2a18803dd2f5c0cf9f79aaa5]{
 -- Page 23, Offset 36800.
@@ -302,14 +302,14 @@ El sol empieza a derretirse, como si se hundiera en los recovecos del cielo.
 [sha:390a0c55b998404c1476e2f7a3452ba98f83e760]{
 -- Page 25, Offset 36805.
 -- ずっと、こうして待っている。
-Llevo mucho tiempo esperando así.
+Llevo mucho tiempo esperando de esta forma.
 }
 [sha:a5ee2547fcc3cda97f152b7c2da1fbe9cc4527be]{
 -- Page 25, Offset 36806.
 -- 彼女との約束を覚えていて、それを忘れられないかぎり、この風景が消えるまで、ここで待ち続ける。
 Y seguiré haciéndolo――
 Me sentaré aquí día tras día viendo cómo el paisaje se desvanece,
- hasta el día que no pueda recordar la promesa que la hice.
+ hasta el día que no pueda recordar la promesa que le hice.
 }
 [sha:252f63a1a484727ed957e97b80392d5096961758]{
 -- Page 26, Offset 36807.
@@ -334,7 +334,7 @@ Si no recuerdo mal, estaba confusa.
 [sha:f62f3b3bb9dc6612b5b6ecd46f06e451d5a8ef07]{
 -- Page 27, Offset 36811.
 -- “だから―――本当に、何の義務もなくなった後、何の意味もなく会えたらどうなるかなって、そう思っただけ”
-%{i}Me preguntaba si una vez acabemos lo que tenemos que hacer, pudiéramos vernos de nuevo,
+%{i}Me preguntaba si una vez acabemos lo que tenemos que hacer, podríamos vernos de nuevo,
  sin una razón de por medio.%{/i}
 }
 [sha:d8af075cd7c2454f4878f8cea03a4de8a600ce61]{
@@ -375,7 +375,7 @@ Pensé que disfrutaría de algo así.
 [sha:010c6357556cf19ce028bb0312dba4e0c797e692]{
 -- Page 30, Offset 36819.
 -- 呆然と目を見開かせたあと、こくん、と頷いて。
-Sus ojos estaban de par en par por la sorpresa, pero después asintió.
+Sus ojos se abrieron de par en par por la sorpresa, pero después asintió.
 }
 [sha:e026bd025f92779c214635cb1ad0c2f56aaf4cf7]{
 -- Page 30, Offset 36820.
@@ -416,7 +416,7 @@ No me %{i}permitiré%{/i} olvidar.
 -- Page 31, Offset 36827.
 -- 燃えるような教室の中、ここにまた来ようと約束した時を、ずっとずっと覚えている―――
 Aquí, en esta clase que parecía estar en llamas, prometimos volver.
- Por siempre, recordaré ese momento―――
+ Y por siempre, recordaré ese momento―――
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 32, Offset 36828.
@@ -426,7 +426,7 @@ Aquí, en esta clase que parecía estar en llamas, prometimos volver.
 [sha:91684bdb2b61dc9aac5a288b1d4b5d539b32d584]{
 -- Page 32, Offset 36829.
 -- 深く沈んでいく。
-El sol sumerge en el horizonte.
+El sol se sumerge en el horizonte.
 }
 [sha:c492d2e30872de3ff31b66995842f9bb30572d44]{
 -- Page 32, Offset 36830.
@@ -436,7 +436,7 @@ Quedan pocas horas hasta que el bermellón desaparezca.
 [sha:cdce3d4d999bc08125ec234d7953035c4148ee76]{
 -- Page 32, Offset 36831.
 -- 真紅の空気がなくなるまでの静かな時間。
-Un lapso tranquilo antes de que se disipe el carmesí en el cielo.
+Un lapso tranquilo antes de que se disipe el carmesí del cielo.
 }
 [sha:6a300ac2a05e71c619814fc6dedadc51a708820e]{
 -- Page 32, Offset 36832.
@@ -478,10 +478,10 @@ Miro.
 -- 閉じていた窓が開いている。
 Y la ventana antes cerrada, ahora está abierta.
 }
-[sha:8fed91a743193516fbe8d1615c604726280220f6]{
+[offset:36840]{
 -- Page 34, Offset 36840.
 -- 気がつけば。
-Cuando recupero la razón―――
+Mi mente tarda un segundo en procesar.
 }
 [sha:933bc29a41d2886370c13f794ac58bbee908414c]{
 -- Page 34, Offset 36841.
@@ -497,7 +497,7 @@ No se mueve de la ventana.
 [sha:8fb251e38d9010f4d3aec0a6d69b058d596364f6]{
 -- Page 35, Offset 36843.
 -- こうして目の前にいるのに、
-Aunque ahora mismo esté frente a mi―――
+Aunque ahora mismo esté frente a mí―――
 }
 [sha:b7e08fdce8777bd826b84583af1bcdd7ff94b1c4]{
 -- Page 35, Offset 36844.
@@ -532,12 +532,12 @@ No podía dejarte solo,
 [sha:7127a59a12487419d9f470e3f0dcd347835be89b]{
 -- Page 37, Offset 36850. Glued.
 -- 出てきちゃった」
-así que, bueno, aquí estoy."
+ así que, bueno, aquí estoy."
 }
 [sha:1343090960441d038d30681f4b551013efdb0225]{
 -- Page 37, Offset 36851.
 -- 照れるように、彼女は柔らかに微笑んだ。
-Sonríe con delicadeza, con un toque de rubor.
+Sonríe con delicadeza y con un toque de rubor.
 }
 [sha:23fec8d54537b582c0317034be62c2af5e0c82f7]{
 -- Page 38, Offset 36852. Mods: @n.
@@ -552,12 +552,12 @@ Sonríe con delicadeza, con un toque de rubor.
 [sha:4dc147c8024387fe069dc51d4883a51895587d86]{
 -- Page 38, Offset 36854.
 -- 言っただろ、おまえとの約束は、二度と破らないって」
-Lo dije, ¿no? Que volvería a romper más promesas"
+Lo dije, ¿no? Que no volvería a romper más promesas"
 }
 [sha:e9d5005638295803e4568e19cb7063ef68ee931d]{
 -- Page 38, Offset 36855.
 -- 「そうだったね。ありがとう、約束を守ってくれて」
-"Supongo que si. Gracias por cumplirla."
+"Supongo que sí. Gracias por cumplirla."
 }
 [sha:f3b76452161068ea83aa6f2efdba5b5671e29642]{
 -- Page 39, Offset 36856.
@@ -615,7 +615,7 @@ He sido capaz de preguntarla en un tono gentil, sin atisbos de ira o súplica en
 -- その、実はね。わたし、ずっと昔に一度だけ人間の血を飲んだ事があったの。その時に力の一部をその人間に<奪|と>られてしまって、そいつはすごく強力な死徒になって」
 Em, la verdad es que...
  Una vez hace mucho tiempo, bebí la sangre de un humano.
- Al hacerlo, robó una parte de mi poder y se volvió un temible Apóstol Muerto."
+ Al hacerlo, él robó una parte de mi poder y se volvió un temible Apóstol Muerto."
 }
 [sha:95868288af77b44c34ce975f0f20a252884561e1]{
 -- Page 42, Offset 36867.
@@ -646,7 +646,7 @@ Pero solo fue que tardaron en aparecer."
 [sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
 -- Page 44, Offset 36872. Mods: @n.
 -- だから―――
-Es por eso―――
+Por eso―――
 }
 [sha:214cee8c8c8722d6bc2d1a4c605971aeab2a5cce]{
 -- Page 44, Offset 36873. Glued.
@@ -687,7 +687,7 @@ Por eso juré no volver a beber sangre...
 -- Page 46, Offset 36880.
 -- けど一度でも血を吸ってしまった真祖は、人の血を吸わないと正気でいられなくなってしまう」
 Pero aquellos Verdaderos Ancestros que han probado la sangre, aunque solo sea una vez,
- no pueden mantenerse cuerdos sin ella.
+ no pueden mantenerse cuerdos sin ella."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 46, Offset 36881.
@@ -697,12 +697,12 @@ Pero aquellos Verdaderos Ancestros que han probado la sangre, aunque solo sea un
 [sha:d56cf344fbe9a6ec0bab20b5ea33bd6df3afd133]{
 -- Page 47, Offset 36882. Mods: @n.
 -- 「……わたしがこうしていられるのはね、志貴がロアを完全に
-"La única razón por la que estoy aquí ahora es porque tú
+"La única razón por la que estoy aquí ahora es porque
 }
 [sha:6ff66bdefcd520d60759c2c0c29edc5d6628e15b]{
 -- Page 47, Offset 36883. Glued.
 -- “殺”してくれたから。
-fuiste capaz de 'matar' completamente a Roa.
+ fuiste capaz de 'matar' completamente a Roa.
 }
 [sha:e8c972b18211bc3757e621337d013fc210ad2cb9]{
 -- Page 47, Offset 36884.
@@ -718,7 +718,7 @@ Sin importar las veces que lo aniquilara,
 [sha:c3219173016e8591874ad1e5e4fdf0c027fb3ee5]{
 -- Page 48, Offset 36886.
 -- おかげで奪われていた力が戻って、なんとか蘇生することができたんだ」
-Gracias a eso, el poder que me robó volvió a mi, y fue capaz de revivir de alguna forma."
+Gracias a eso, el poder que me robó volvió a mí, y de alguna forma fui capaz de revivir."
 }
 [sha:74a98d7aa3bddc9682609ab39ffa733a816dbc73]{
 -- Page 49, Offset 36887.
@@ -754,7 +754,7 @@ Siento romper nuestra promesa."
 [sha:63e47f5b5de645bb206100221043080131b68e9d]{
 -- Page 50, Offset 36893.
 -- ……そんなコトは、どうでもいいんだ。
-Nada de eso importa ya...
+Ya nada de eso importa...
 }
 [sha:377888d9e5ba6d6cd89926c59b349de60b0d956f]{
 -- Page 50, Offset 36894. Mods: @n.
@@ -814,7 +814,7 @@ Pero creo que paso. No quiero tu sangre."
 [sha:3b36975477af1bdf99c6e3890a3e39b91435511e]{
 -- Page 53, Offset 36905. Glued. Mods: @x.
 -- 俺の血を吸えない理由なんか、あるのか」
-¿Hay otra razón por la que no puedas beber mi sangre?"
+ ¿Hay otra razón por la que no puedas beber mi sangre?"
 }
 [sha:5b7ec9b0a41be6261bac0d009497159d485aad68]{
 -- Page 53, Offset 36906.
@@ -855,12 +855,12 @@ Con todo lo que me queda,
 [sha:5a9f05ac52389c3d4ca06b894e28875369604c59]{
 -- Page 56, Offset 36913.
 -- 止めたかった。
-Quería detenerla.
+-- TRANSLATION HERE
 }
 [sha:5a9f05ac52389c3d4ca06b894e28875369604c59]{
 -- Page 56, Offset 36914.
 -- 止めたかった。
-Quería detenerla.
+-- TRANSLATION HERE
 }
 [sha:5a9f05ac52389c3d4ca06b894e28875369604c59]{
 -- Page 56, Offset 36915.
@@ -885,7 +885,7 @@ No puedo mancillarla con mi egoísmo.
 [sha:0235d1fde031bd152d529de128ec8c378bafed64]{
 -- Page 57, Offset 36919.
 -- 「―――さよなら。今まで本当にありがとう、志貴」
-"―――Adios. Te agradezco todo de corazón, Shiki."
+"―――Adiós. De corazón, gracias por todo, Shiki."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 57, Offset 36920.
@@ -968,7 +968,7 @@ Me has hecho feliz, tal y como dijiste."
 [sha:0066f3676656822cefde1a698ade77bb3873e1c3]{
 -- Page 61, Offset 36935.
 -- 「………………っ！」
-"¡%{i}gh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:1be83f1643c3437471583ee58755764ef234cbb5]{
 -- Page 61, Offset 36936.
@@ -978,7 +978,7 @@ Me estoy ahogando.
 [sha:168b6baac14c29930ec6ba92372dc0a189fbc5f0]{
 -- Page 61, Offset 36937.
 -- そんなもの―――そんなものを、俺は。
-Para que sea... yo―――
+Para que ella sea... yo―――
 }
 [sha:2b715fd0a1c115d6f3ea988021e7d865bc3a8c47]{
 -- Page 62, Offset 36938.
@@ -988,7 +988,7 @@ Para que sea... yo―――
 [sha:38d28811ebae61706be50e63cae0c60cd205b3e8]{
 -- Page 62, Offset 36939.
 -- うん、やっぱり最後にお別れを言いに来てよかった」
-Sí. Me alegro de haber venido a decir adios."
+Sí. Me alegro de haber venido a decir adiós."
 }
 [sha:0944242cec42914f4aa27fcd20e13bdb46dcd216]{
 -- Page 63, Offset 36940.
@@ -1003,7 +1003,7 @@ Amo tu sinceridad, tu temeridad, como te metes solo conmigo, y cómo enfrentas t
 [sha:6e3fd00ebbb21dc0b1d9f0fb33684f2d9684292b]{
 -- Page 63, Offset 36942. Glued. Mods: @x.
 -- だから、お願い。これからもずっと、そのままで生きていってね」
-Así que, por favor vive tu vida――y no cambies."
+ Así que, por favor vive tu vida――y no cambies."
 }
 [sha:92acc7b12ae14de7fff513feeced79a21402947e]{
 -- Page 63, Offset 36943.
@@ -1043,7 +1043,7 @@ Si ella ha sonreído hasta el final, lo menos que puedo hacer es aguantarme las 
 [sha:dc5c2dc290a72f2bd8aeb5ff86f581fc49485c72]{
 -- Page 66, Offset 36950.
 -- 「………そっか。約束、守ったじゃないか、おまえ」
-"Ya veo... Al final mantuviste tu promesa, ¿no?"
+"Ya veo... Al final mantuviste tu promesa."
 }
 [sha:23a0e1f7bc9e52952d15c80f75af20eb3ad6aec6]{
 -- Page 66, Offset 36951.
@@ -1089,12 +1089,12 @@ Después de todo, ella está viva,
 [sha:1db6e80d5714f086441cf98c23209e823cf54c60]{
 -- Page 68, Offset 36959. Glued. Mods: @n.
 -- 笑顔で、自分は幸せだと、
-sonreía,
+ sonreía,
 }
 [sha:4047c0f4f7fa91551fa0d617365c9078cefbb867]{
 -- Page 68, Offset 36960. Glued. Mods: @n.
 -- 言ってくれた、の、だ、し
-y me dijo que... estaba... feliz...
+ y me dijo que... estaba... feliz...
 }
 [sha:f599447a67e29f15bc47b6092a2cf08681bc32ea]{
 -- Page 68, Offset 36961. Mods: @n.
@@ -1104,7 +1104,7 @@ y me dijo que... estaba... feliz...
 [sha:f4c7056f9f26ebf9ab86bdc71abc47098f836c42]{
 -- Page 68, Offset 36962. Glued.
 -- そんなモノが―――
-esto no es―――
+ esto no es―――
 }
 [sha:231ab883e90be7ea048f856efb572baf6fdc5d14]{
 -- Page 68, Offset 36963. Mods: @n.
@@ -1116,10 +1116,10 @@ esto no es―――
 -- 」
 "
 }
-[sha:d21bfeb03248da96e882320672405951be97baba]{
+[offset:36965]{
 -- Page 69, Offset 36965.
 -- ―――そう。
-Sí―――
+―――Exacto.
 }
 [sha:b57609c3a02447ad639f3c75fbcac4a6a6858b1c]{
 -- Page 69, Offset 36966.
@@ -1202,7 +1202,7 @@ No hay forma de que pueda hacer eso.
 [sha:4161960267dc5008fcbea9b049be69a483fd775f]{
 -- Page 73, Offset 36981.
 -- 俺には―――そうやって生きていく自信なんて、本当は、これっぽっちもないっていうのに。
-No confío ni un poco en que pueda vivir de así.
+No confío ni un poco en que pueda vivir así.
 }
 [sha:0fae2eabeed8f8ff094ba6abfa099acec797a869]{
 -- Page 73, Offset 36982.
@@ -1272,12 +1272,12 @@ Puede que ella ya no esté aquí.
 [sha:f98ba62c5aebf7e99e9ea844df444ca1d48c8a7b]{
 -- Page 76, Offset 36995.
 -- 言い忘れていた事を、言葉にして残さないと。
-Pero tengo que sacar del pecho las palabras que se me han olvidado decir.
+Pero tengo que sacar de dentro las palabras que se me han olvidado decir.
 }
 [sha:8bb502d18ef4a6c80076a25f771af83f03574616]{
 -- Page 77, Offset 36996.
 -- 「じゃあな。……俺も、すごく、楽しかった」
-"Nos vemos. Yo... también me lo he pasado muy bien."
+"Nos vemos. Yo también... me lo he pasado muy bien."
 }
 [sha:3857df7ed1a965361709e4faeed87ba091d09cc2]{
 -- Page 77, Offset 36997.

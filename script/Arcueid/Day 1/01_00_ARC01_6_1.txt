@@ -46,7 +46,7 @@ En el otro lado del jardín, hay más bosque, si no recuerdo mal―――
 [sha:63dcc2872e5a5260a905214451b76ca656e32ba0]{
 -- Page 310, Offset 1943.
 -- 突然の声に振り返って、息を呑んだ。
-Grito del asombro y me doy la vuelta al oír la voz.
+Al oír la voz grito del asombro y me doy la vuelta.
 }
 [sha:e243edf4e436cc1a8cd71d67ae540e59b6959b3d]{
 -- Page 310, Offset 1944.
@@ -56,7 +56,7 @@ Allí, frente a la puerta que lleva al vestíbulo―――
 [sha:6c12d68cda0231afb278d64fdd6d0c0f8a34b51e]{
 -- Page 310, Offset 1945.
 -- あまりにも奇怪な、黒一色の人物が立っていた。
-Se encuentra de pie una figura totalmente negra, demasiado extraña como para creérselo.
+Se encuentra de pie una figura totalmente negra, demasiado extraña como para ser de verdad.
 }
 [sha:6fe671943072d9b74f6adf5f1af4ecdcf93a0f6e]{
 -- Page 311, Offset 1946. Mods: @k, @e.
@@ -81,17 +81,17 @@ El hecho de que sea completamente negro no es una metáfora.
 [sha:503372992ed074c3d7f31639bd773b991550481f]{
 -- Page 312, Offset 1950.
 -- どのような事情なのか、その手ばかりか顔までぐるりと、全身が黒い包帯で覆われていた。
-Cualquiera sea la razón, está cubierto de vendajes negros; no solo por las manos sino de pies a cabeza.
+Sea cual sea la razón, está cubierto de vendajes negros; no solo las manos, sino de pies a cabeza.
 }
 [sha:49cb6e6e9bc266a197ffa571ae616223331f5d73]{
 -- Page 312, Offset 1951.
 -- それこそ、推理小説に出てくる怪人のように。
-Le hace parecer el principal villano de la típica novela de misterio.
+Le hace parecer el villano principal de la típica novela de misterio.
 }
 [sha:ac4c2f30b67610ec00aeec80f360f531b7f47f3e]{
 -- Page 313, Offset 1952.
 -- 「……………あの、貴方は？」
-"Uh... ¿quién eres?"
+"Eh... ¿quién eres?"
 }
 [sha:3c362cd0b6250e8f2d96a281230ad367f575e82e]{
 -- Page 313, Offset 1953.
@@ -111,7 +111,7 @@ Nos vimos alguna vez de cuando eras un niño, aunque no así. Incluso si me reco
 [sha:7f7102eb393eb91ead62e90a0ee634401ab61ad3]{
 -- Page 314, Offset 1956.
 -- 斎木……？
-Saiki...?
+¿Saiki...?
 }
 [sha:90b3c841191b3989be08fcca1aebad35e217334c]{
 -- Page 314, Offset 1957.
@@ -151,12 +151,12 @@ Es un gesto exagerado, pero no parece fuera de lugar.
 [sha:a641839730752bf0493afeaab94cfdd20f1f9865]{
 -- Page 316, Offset 1964.
 -- 生まれついての品格……優雅さを感じさせる仕草だった。
-Es un gesto de uno nacido con dignidad natural... una elegancia informal.
+Es el gesto de alguien nacido con dignidad natural... una elegancia informal.
 }
 [sha:5d668018b743b50f94dd57887d63dce0ba6c61a3]{
 -- Page 317, Offset 1965.
 -- 「しかし。まあ、よくも帰ってこられたものだ」
-"Pero debo decir esto... un poco descarado lo de volver así.
+"Pero debo decir esto... un poco descarado lo de volver así."
 }
 [sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
 -- Page 317, Offset 1966.
@@ -171,7 +171,7 @@ Es un gesto de uno nacido con dignidad natural... una elegancia informal.
 [sha:04987a1021a05529a85040baf45a7a220a2bceae]{
 -- Page 318, Offset 1968.
 -- 「脱落。そう、脱落だ。君はご両親からの投資を投げ捨て、自らの義務を放棄した脱落者だ。にも拘わらずこうして屋敷に戻り、秋葉の兄として振る舞おうとしている。
-"Desertaste. Si, desertaste. Desechaste la inversión de tus padres y abandonaste tu deber. Y aún así aquí estas, de vuelta en la mansión, intentando actuar como el hermano de Akiha.
+"Desertaste. Sí, desertaste. Desechaste la inversión de tus padres y abandonaste tu deber. Y aún así aquí estas, de vuelta en la mansión, intentando actuar como el hermano de Akiha.
 }
 [sha:4e807edd974bfb1b6457441e98fc28823eb18d71]{
 -- Page 318, Offset 1969.
@@ -206,7 +206,7 @@ Hay un claro desprecio y provocación en los ojos de Saiki Gouto, pero no tiene 
 [sha:326489dd9d447b85b0c90d0c30ec5f6ad8b4f196]{
 -- Page 320, Offset 1975.
 -- でも、脱落者とか投資とか、家族の話にそんな言葉を使う貴方こそ、恥ずかしいとは思わないんですか？」
-¿Pero no %{i}te%{/i} sientes avergonzado de usar palabras como 'desertaste' o 'inversión' cuando hablas sobre tu familia?
+¿Pero no %{i}te%{/i} sientes avergonzado de usar palabras como 'desertaste' o 'inversión' cuando hablas sobre tu familia?"
 }
 [sha:80e124d071e722f0739663576487e2c1b2f7123b]{
 -- Page 321, Offset 1976.
@@ -290,17 +290,17 @@ Me muerdo el labio mientras pienso en Saiki llamándome 'desertor'.
 [sha:03e9d15b09120263e4f51da7d8abac635c4b46dc]{
 -- Page 327, Offset 1991.
 -- それはアイツの言葉通り、この上なく的確に、この屋敷における遠野志貴の立場を表していた。
-Es una descripción muy precisa de mi posición en esta mansión, como el dijo.
+Una descripción muy precisa de mi posición en esta mansión, como el dijo.
 }
 [sha:95abd47ce0d20bb09109f0470bbf6379e5c9e329]{
 -- Page 329, Offset 1992.
 -- 「失礼いたします」
-"Con permiso"
+"Con permiso."
 }
 [sha:c3870ea54521a299d36221d3c6a03b58ddc35315]{
 -- Page 329, Offset 1993.
 -- 本当にきっかり10分後、彼女は戻ってきた。
-Just tras diez minutos, la chica vuelve.
+Justo tras diez minutos, la chica vuelve.
 }
 [sha:84777d26ea5469b8110f4f24c01f0945bfb41d74]{
 -- Page 330, Offset 1994.
@@ -356,7 +356,7 @@ Su oficina... De cierta forma, lo puedes llamar el corazón de la familia Tohno.
 -- Page 334, Offset 2004.
 -- 子供の頃は入れなかった、槙久の当主としての私室。
 Era la habitación privada de Tohno Makihisa en sus capacidades como cabeza de familia,
- y no tenía permitido entrar de niño.
+ y de niño no tenía permitido entrar.
 }
 [sha:bfd2925960de3d530a12540903b81a39e126c68d]{
 -- Page 334, Offset 2005.

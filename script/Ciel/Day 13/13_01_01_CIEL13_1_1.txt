@@ -106,7 +106,7 @@
 [sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
 -- Page 59, Offset 33280.
 -- ……ああ。
-Ah...
+-- TRANSLATION HERE
 }
 [sha:3c82c609715659a69915428007b2b6e52d30a877]{
 -- Page 59, Offset 33281.
@@ -136,7 +136,7 @@ Ah...
 [sha:60cccb2e8d7c0190950d216c6e3514e91daeefea]{
 -- Page 60, Offset 33286.
 -- なのに。
-Y a pesar de eso―――
+-- TRANSLATION HERE
 }
 [sha:fd8241c5d7533f3cd043a8a83f5a8394aecbc587]{
 -- Page 60, Offset 33287.
@@ -146,7 +146,7 @@ Y a pesar de eso―――
 [sha:c50a3ce3b61df1ad2fb0757ee78ae9e436b5911d]{
 -- Page 61, Offset 33288.
 -- ……ああ。
-Ah...
+-- TRANSLATION HERE
 }
 [sha:ae9afce478d9c203ceef347fb4b844e528c7f96e]{
 -- Page 61, Offset 33289.

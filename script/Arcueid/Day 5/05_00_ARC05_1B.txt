@@ -11,7 +11,7 @@ Arcueid asoma la cabeza por la cocina.
 [sha:d6ebd424864b6df590ebbfa19ac119663d158a49]{
 -- Page 32, Offset 8675.
 -- 「む。恐い顔しちゃって、なにかあった？」
-"%{i}Whoa%{/i}. Que miedo da tu cara, ¿ha pasado algo?"
+"%{i}Uy%{/i}. Que miedo da tu cara, ¿ha pasado algo?"
 }
 [sha:82a340711594bbbac097f10000a6dcdc2ebb3643]{
 -- Page 32, Offset 8676.
@@ -32,7 +32,7 @@ Arcueid me llama casualmente en un tono alegre.
 -- Page 34, Offset 8679.
 -- ふふ。朝の挨拶をするなんて、珍しい経験ね」
 %{i}Jeje%{/i}.
- No es frecuente que pueda decirle eso a alguien. "
+ No suelo poder decirle eso a alguien. "
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 35, Offset 8680.
@@ -47,7 +47,7 @@ Su sonrisa inesperada me quita el aliento.
 [sha:5935a30e60908e1247d26d560116cbb18654193b]{
 -- Page 35, Offset 8682.
 -- 冷えきっていた思考は、それで唐突に消えてくれた。
-Con ella desaparecen los pensamientos escalofriantes de hace un momento.
+Y con ella, desaparecen los pensamientos escalofriantes de hace un momento.
 }
 [sha:1ff12ed123acaafd8d022f4f610dbcadd1766fdc]{
 -- Page 36, Offset 8683.
@@ -72,18 +72,19 @@ Espera, ¡que hago distrayéndome!
 [sha:abf5616b2adb26cfa7043b5c8074b5e5e0a61a8d]{
 -- Page 37, Offset 8687. Glued. Mods: @x.
 -- ええ、とりあえず問題ないわ」
-Creo que estaré bien por ahora."
+ Creo que estaré bien por ahora."
 }
 [sha:442934fe2de15134b2f712d762223e05a303453e]{
 -- Page 38, Offset 8688.
 -- アルクェイドは余裕そうに立っている。
-Arcueid está ahí de pie, parece totalmente relajada.
+Arcueid permanece de pie con un aire relajado.
 }
 [sha:0aec74b1733513abee4c907f2a3084e343bb28ba]{
 -- Page 38, Offset 8689.
 -- すっかり元通りになったようで、下手をすると俺より元気があるかもしれない。
 Supongo que ha vuelto a la normalidad.
  Maldita sea, quizá incluso esté más sana que yo.
+ 
 }
 [sha:3ed38619978c54770a2616e682acc85c0f48699a]{
 -- Page 39, Offset 8690.
@@ -103,7 +104,7 @@ Me alegro que al menos la gente cercana a mí esté bien.
 [sha:e18d2866524472dc26118f5545c8dd29779541df]{
 -- Page 39, Offset 8693.
 -- いや、なに考えてんだ俺。
-Espera, ¿que estoy pensando?
+Espera, ¿qué estoy pensando?
 }
 [sha:fa120bce71cc57c14348b9858f0f5bb246d8c0dc]{
 -- Page 39, Offset 8694.
@@ -128,7 +129,7 @@ Me alegro de que tus heridas no fueran nada serio."
 [sha:e1a4703e265ce18fa656472c45b444580ad0273d]{
 -- Page 40, Offset 8698.
 -- 「へえ、どうしたのよ志貴。ちょっと前までは、わたしのこと化け物呼ばわりしてたクセに」
-"Hmm, Shiki, ¿que te ha entrado?
+"Hmm, Shiki, ¿qué te ha entrado?
  Hace no mucho me estabas llamando monstruo."
 }
 [sha:08d2561b193409b4a9f6231bf6d2bbf8ad8eb9e7]{
@@ -145,7 +146,7 @@ Me alegro de que tus heridas no fueran nada serio."
 [sha:171cb8ab304dd91fe4ea86be159ec336529c2da5]{
 -- Page 43, Offset 8701.
 -- アルクェイドは意外そうに目を見張った。
-Arcueid sorprendida abre los ojos de par en par.
+Arcueid abre los ojos de par en par, sorprendida.
 }
 [sha:2bed87d1cf88bc071747505534d44aa88eff32f4]{
 -- Page 43, Offset 8702.
@@ -190,7 +191,7 @@ Pero aún tengo que discrepar, Shiki. Si no hubieses hecho guardia, no tendrías
 [sha:c270bc601ec88c65327895474feb01912e3fb0c8]{
 -- Page 47, Offset 8709.
 -- 志貴の生活に毒を混ぜたのはわたしよ。あなたはわたしを憎みこそすれ、感謝するのは間違ってるんじゃない？」
-Yo soy la que te quitó tu vida normal.
+La que te apartó de tu vida ordinaria fui yo.
  ¿No tendría más sentido que sintieras odio en vez de gratitud?"
 }
 [sha:cd0a644070e575faf08dac92f45734a74ac744b1]{
@@ -263,23 +264,23 @@ Si hubieses escogido a cualquier otro como víctima, probablemente nunca te hubi
 [sha:d959e447549116f131ff02e463f67e77d7ebb7a7]{
 -- Page 54, Offset 8723.
 -- 「…………あのな」
-"Ey..."
+"Oyes..."
 }
 [sha:f927ca2be9fd6aad0c4538e251dfde33d4566fc5]{
 -- Page 54, Offset 8724.
 -- そもそもアルクェイド以外の誰かを殺したかもしれない、なんて仮定は成り立たない。
-Para empezar, que asumas que mataría a otra que no seas tu es absurdo.
+Para empezar, asumir que mataría a otra que no sea ella es absurdo.
 }
 [sha:508d74fece12fede5fe2b312e13faa17d851fcc3]{
 -- Page 55, Offset 8725.
 -- あんな気持ちになって、訳も判らないまま歩き回って、あげく殺してしまった相手なんて、今のところアルクェイドしかいないんだから。
 Arcueid es la única que me ha hecho sentirme así...
- Me hizo sentir que necesitaba seguirla para matarla.
+ Que necesitaba seguirla para matarla.
 }
 [sha:823ef4c563496793ed4e7acb676e8b2a5e2ac8e8]{
 -- Page 55, Offset 8726.
 -- というか、コイツ以外にはいないと思い―――
-Honestamente, no creo que nadie más que ella %{i}pueda%{/i} hacerlo―――
+Honestamente, no creo que nadie más que ella %{i}pueda%{/i} hacerme sentir eso―――
 }
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 56, Offset 8727.
@@ -305,7 +306,7 @@ Arcueid me mira, frunciendo el ceño.
 [sha:cb7906128247e27a2e6038f5a6d604efe17bbe06]{
 -- Page 57, Offset 8731.
 -- 当然の反応だ。
-TIene todo el derecho a reaccionar así.
+Tiene todo el derecho a reaccionar así.
 }
 [sha:62cdc41ced21b1ddd7113a930214dab0b6dee82a]{
 -- Page 57, Offset 8732.
@@ -320,7 +321,7 @@ Después de todo, yo, el infractor, acabo de decir que no sé por que la maté.
 [sha:0b5fd085e7d717b9933b83f8b286b3221fdc18a0]{
 -- Page 58, Offset 8734.
 -- だって、志貴は根っからの殺人鬼なんだから」
-Después de todo, eres asesino de corazón."
+Después de todo, eres un asesino nato."
 }
 [sha:2ccf4dd3499d49952507c56e168736f34befa0fe]{
 -- Page 58, Offset 8735.
@@ -335,7 +336,7 @@ Un momento.
 [sha:928ccc31614e243c694a08da8d1469cb10578bc6]{
 -- Page 59, Offset 8737.
 -- いま、この女は、なんてコトを口にした―――？
-¿Que acaba de decir sobre mi?
+¿Qué acaba de decir sobre mi?
 }
 [sha:ce737d4e8e7c28736e6bd2444889a230e68fa2d2]{
 -- Page 60, Offset 8738.
@@ -345,7 +346,7 @@ Un momento.
 [sha:5e0c1730a5f7ba264bc127e491436698243d65db]{
 -- Page 60, Offset 8739.
 -- チャイムを押して、扉が開いた瞬間に手を差し込んできて、有無を言わさず中に押し入る。
-Presionaste el timbre, metiste la mano en el momento que abrió la puerta, y entonces entraste forzosamente.
+Presionaste el timbre, colaste la mano en el momento que abrió la puerta, y entonces entraste forzosamente.
 }
 [sha:3903934b89c7ded8512f6dc9c6bc3d3af839ddb9]{
 -- Page 60, Offset 8740.
@@ -417,7 +418,7 @@ Tiene razón.
 [sha:d90e6f5d414fe5fecacb4c12e74fcb05ae5ffb05]{
 -- Page 67, Offset 8753.
 -- こくん、と<頷|うなず>いてから、ちょいちょい、とアルクェイドを手招いた。
-Después de asentir, la hago una ligera señal para que se acerque.
+Después de asentir, le hago una ligera señal para que se acerque.
 }
 [sha:786a349b211b4facbf3e664c5a43d1bef4e34db0]{
 -- Page 68, Offset 8754.
@@ -437,7 +438,7 @@ Acerco mi boca a su oreja para que pueda dejar claro lo que voy a decir.
 [sha:9bc3514aacab9dbeffb87ea14b5828b2c1c9f62e]{
 -- Page 70, Offset 8757.
 -- 「……あのな、アルクェイド」
-"Ey, Arcueid..."
+"Verás, Arcueid..."
 }
 [sha:4e0246b0c0231872e161deaafb2a062406fb7a94]{
 -- Page 70, Offset 8758.
@@ -657,7 +658,7 @@ Shiki, ¿a qué te refieres con 'ya veo'?"
 [sha:5d3a8a8c7130228bb89d6f872d322d71265358e9]{
 -- Page 89, Offset 8800.
 -- 異常事態を理由にして、重要なことを忘れていた。
-Involucrado en esta situación increíblemente anormal, olvidé algo muy importante.
+Al estar involucrado en esta situación increíblemente anormal, olvidé algo muy importante.
 }
 [sha:749278c076813762afc1c147650132c3e4348ba9]{
 -- Page 89, Offset 8801.
@@ -699,7 +700,7 @@ No solo eso, si no que aún no entiendo el impulso que tuve en ese momento――
 -- Page 92, Offset 8808.
 -- だから……俺は罰を受けないといけない。こんな人殺し、みんなの社会に混ぜる訳には、いかないだろ」
 Y por ese crimen... tengo que ser castigado.
- No se puede permitir a un asesino como yo mezclarse con el resto de la sociedad."
+ No se puede permitir que un asesino como yo se mezcle con el resto de la sociedad."
 }
 [sha:9e5148d361a6a00271659792239037e7ce44c298]{
 -- Page 93, Offset 8809.
@@ -710,9 +711,9 @@ No puedo creer que sea ahora cuando digo esto...
 [sha:ef4c04ae48b7fd96e545125a261800a3d276a1fa]{
 -- Page 93, Offset 8810.
 -- 理由もなく人を殺してしまう人間に、はじめから、居場所なんてある筈がなかったんだ。
-Para empezar alguien que mata sin razón nunca tuvo un lugar en la sociedad.
+Para empezar, alguien que mata sin razón nunca tuvo un lugar en la sociedad.
 }
-[sha:f6cdbe4f66c2395ff388b6ecc58a7674074b7503]{
+[offset:8811]{
 -- Page 94, Offset 8811.
 -- 「―――そう。
 "Ya veo...
@@ -720,12 +721,12 @@ Para empezar alguien que mata sin razón nunca tuvo un lugar en la sociedad.
 [sha:7ef5ed2bea3a675f5f69444c0518a3884a579527]{
 -- Page 94, Offset 8812.
 -- 志貴は本当に、自分でも理由が分からないのね」
-Osea que en realidad no entiendes por qué lo hiciste, ¿no?"
+Osea que en realidad no entiendes por qué lo hiciste, ¿verdad?"
 }
 [sha:48a360f0b5d3d4d675b89ea0a6174d02e6ad258f]{
 -- Page 94, Offset 8813.
 -- ……<俯|うつむ>いたまま<頷|うなず>く。
-Asiento avergonzado con la cabeza baja.
+Asiento con la cabeza baja, avergonzado.
 }
 [sha:8bf374553044dbe20bdb98ae810a61c3ae5eff9a]{
 -- Page 95, Offset 8814.
@@ -755,7 +756,7 @@ Osea que, ¿de veras era la única persona a la que querías matar?"
 [sha:8d4d12465fa14eba6cf1e16ee60919743c36b6c2]{
 -- Page 96, Offset 8819.
 -- 「……ああ。アルクェイド以外には、そんな気持ちにはならなかった」
-"Sí... salvo tú nunca alguien me había hecho sentir algo así."
+"Sí... salvo por ti, nadie antes me había hecho sentir algo así."
 }
 [sha:1bfec8419bf4f6661a71aab8f040ae172f8ba00e]{
 -- Page 97, Offset 8820.
@@ -795,7 +796,7 @@ Da la casualidad que la persona que quisiste matar era yo. Y para hacerlo peor, 
 [sha:48ae7bfcf168273563af744ab7bbd5d419130307]{
 -- Page 100, Offset 8827.
 -- 「けど、都合のいいコトにわたしが吸血鬼だったんだから、誰も死んでないでしょう？
-"Pero por suerte para ti, soy un vampiro, y nadie murió al final, ¿verdad?
+"Pero por suerte para ti, soy un vampiro, y al final nadie murió, ¿verdad?
 }
 [sha:cac0c20da47ee28526da704030d9023c90cfcc38]{
 -- Page 100, Offset 8828.
@@ -805,17 +806,17 @@ No hay razón para que sufras. Y tampoco creo que tengas que preocuparte por la 
 [sha:abe1e0fabbe43a3ee067eeedb1254ef197f1c82d]{
 -- Page 101, Offset 8829.
 -- 「人間に貴方は弾劾できない。だって、いまのところ世界で志貴を責めていいのは、被害者であるわたしと、当事者である志貴本人だけなんだから」
-"Los humanos no tienen derecho a juzgarte. Después de todo, los únicos en este mundo que pueden criticarte somos tu, el asaltante, y yo, la víctima."
+"Los humanos no tienen derecho a juzgarte. Después de todo, los únicos en este mundo que pueden criticarte somos tú, el asaltante, y yo, la víctima."
 }
 [sha:d4b2694d041e9f1e4b514435877b1067daa89dac]{
 -- Page 102, Offset 8830.
 -- 「―――それはそうだけど。おまえを殺したっていう事実だけは、決して、変わらないじゃないか」
 "Entiendo lo que quieres decir... Pero eso no cambia el hecho de que te matase, ¿no?"
 }
-[sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
+[offset:8831]{
 -- Page 103, Offset 8831.
 -- そう。
-Solo digo las cosas como son.
+Sí...
 }
 [sha:fa02d2d62f0e5f7e9fdfd29b8d42da4071499dfc]{
 -- Page 103, Offset 8832.
@@ -850,7 +851,7 @@ Pero Shiki, ¿sabes qué? Mientras sientas remordimiento genuino y te arrepienta
 [sha:e2cae856ff51e3abff70d76aac9c824c058c854a]{
 -- Page 105, Offset 8838.
 -- だから大丈夫。誰がなんて言ったって、志貴本人がそうじゃないって言いきったって―――志貴は、まだそっち側の世界にいられるよ」
-Es por eso que no pasa nada. Sin importar lo nadie diga, o si incluso tu mismo dices lo contrario――puedes pertenecer a ese lado del mundo."
+Es por eso que no pasa nada. Sin importar lo que nadie diga, o incluso si tu mismo dices lo contrario――aún puedes pertenecer a ese lado del mundo."
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 106, Offset 8839.
@@ -865,24 +866,24 @@ No tengo palabras...
 [sha:2f423cc5362500e7e704a565cb88da4f3094b2d7]{
 -- Page 106, Offset 8841.
 -- よくもまあ―――自分を殺した相手に対して、こんな台詞を笑顔で言えるもんだ、コイツは。
-El temple de esta mujer――¿cómo puede decirle algo así a su asesino con una sonrisa tan despreocupada en su rostro?
+El temple de esta mujer――¿cómo es capaz de decirle algo así a su asesino con tal despreocupada sonrisa en el rostro?
 }
 [sha:6566aa3de218a8746b761aececa9b1315665d2a9]{
 -- Page 107, Offset 8842. Mods: @k, @e.
 -- 「ほら、そんな事より、わたしたちにはもっと厄介な問題があるでしょ？　志貴の目も覚めたんだし、今後の事を話し合いたいんだけ、
-"Veras, aparte de eso, ¿no tenemos un problema mucho más grande entre manos? Ahora que estás despierta, deberíamos hablar sobre lo que vamos a
+"Veras, aparte de eso, ¿no tenemos un problema mucho más grande entre manos? Ahora que estás despierto, deberíamos hablar sobre lo que vamos a
 }
 [sha:fbee7ef803d4838a8f47e74f62382f9d76c5da51]{
 -- Page 107, Offset 8843. Glued. Mods: @x, @k, @e.
 -- ど
-hacer―――
+ hacer―――
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 107, Offset 8844. Glued. Mods: @x.
 -- 」
 "
 }
-[sha:70a544ce909034266812004d9aca986952265be1]{
+[offset:8845]{
 -- Page 108, Offset 8845.
 -- 「!?」
 "¡¿%{i}Uwah%{/i}?!"
@@ -930,8 +931,7 @@ Por un momento, creo que ví un leve color rojo asomando a través de su camiset
 [sha:3914f5974c0ac1f2736ab6a2c61a7f091302e230]{
 -- Page 111, Offset 8854.
 -- ホテルで俺を庇って受けた―――
-// Revisar
-Las que la hicieron al protegerme en el hotel―――
+Las que le hicieron al protegerme en el hotel―――
 }
 [sha:624e5049ee14ad7e9a11a1462a1c67ebef497f18]{
 -- Page 112, Offset 8855.
@@ -1012,7 +1012,7 @@ Arcueid se deja caer en la cama suavemente.
 [sha:fe19d2089f4d8713ed0b69d81c9999be62d3b2f9]{
 -- Page 119, Offset 8870.
 -- 「ふざけるな、傷口が開いたらどうするつもりだ！」
-"Deja de hacer el tonto. ¡¿Que vas a hacer si la herida se abre de nuevo?!
+"Deja de hacer el tonto. ¡¿Que vas a hacer si la herida se abre de nuevo?!"
 }
 [sha:05ecf9586fa06136367b485d535a47312fd6bc95]{
 -- Page 119, Offset 8871.
@@ -1048,7 +1048,7 @@ Arcueid me mira insatisfecha,
 [sha:f617cb7dddf39c6388d8b7b310b7d6224b135214]{
 -- Page 122, Offset 8877.
 -- 固く口を閉ざしたまま、やる気なさげに立ち上がった。
-Se levanta a regañadientes, negándose a hablar obstinadamente.
+Se levanta a regañadientes, negándose obstinadamente a hablar.
 }
 [sha:5b4f70aec34a951a052fef33d9791e2d6862aa03]{
 -- Page 122, Offset 8878.
@@ -1073,7 +1073,7 @@ Arcueid levanta su ropa y expone su abdomen.
 [sha:482596ebd0db2c4800f083d55e787d2f69b47622]{
 -- Page 124, Offset 8882.
 -- 「――――――バ」
-"Oye―――"
+"Serás―――"
 }
 [sha:1a85c959294485237fd2423c2174151322f69869]{
 -- Page 124, Offset 8883.
@@ -1088,12 +1088,12 @@ No solo ha cerrado sus heridas――hay tanta cinta aislante que ha cerrado todo
 [sha:35a54fa80cd0db711fa50347a350b8ac8765ad02]{
 -- Page 125, Offset 8885.
 -- 服を元に戻して、アルクェイドを抱きかかえる。
-La pongo de nuevo la ropa y la cojo en brazos.
+Le pongo de nuevo la ropa y la tomo en brazos.
 }
 [sha:9294c0c0335522703d24bb576a8c5c9431991a6f]{
 -- Page 126, Offset 8886.
 -- 「ちょっ――何するのよ、志貴！」
-"Ey――¡¿Shiki, qué te crees que haces?!
+"Oye――¡¿Shiki, qué te crees que haces?!
 }
 [sha:b121eca0b165566650db18de7636656665dd862a]{
 -- Page 126, Offset 8887.
@@ -1204,7 +1204,7 @@ No es que importe mucho, pero... ¿acaba de sacar ese montón de billetes de la 
 -- 「無茶だけどやれ。眠ると体の機能は低下する。免疫力とか抵抗力な。
 "Sé que es mucho, pero hazlo igualmente.
  Tu metabolismo se ralentiza cuando duermes.
- Lo mismo va para tu sistema inmune,
+ Lo mismo va para tu sistema inmune.
 }
 [sha:f86c24eb8242e6dba4a527758506a127fc47e400]{
 -- Page 135, Offset 8908.
@@ -1230,7 +1230,7 @@ Arcueid sonríe alegremente.
 [sha:1d8aa1bc61044a6ab5666366225f78ae5205c7dc]{
 -- Page 136, Offset 8912.
 -- ……やっぱりこいつの思考回路は理解しがたい。
-Como siempre, no se que pasa en esa cabeza...
+Como siempre, no sé que pasa en esa cabeza...
 }
 [sha:84f01fa02840f0fdfc4ee55d90d0e6a3ed5dbe48]{
 -- Page 137, Offset 8913.
@@ -1261,14 +1261,14 @@ Me aguanto las ganas de responder y me centro en lo que tengo que hacer a contin
 -- Page 138, Offset 8918. Mods: @n.
 -- まずは部屋を出て、血で汚れた上着を脱いで、
 Lo primero de todo tengo que salir,
- dejar mi chaqueta manchada de sangre,
+ dejar mi chaqueta manchada de sangre, 
 }
 [sha:949a7fc88491b6c5b59df38f143f0d60642ecd90]{
 -- Page 138, Offset 8919.
 -- 買い物に―――
-e ir a comprar―――
+ e ir a comprar―――
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:8920]{
 -- Page 139, Offset 8920.
 -- ……と。
 Sin embargo...
@@ -1293,7 +1293,7 @@ En la mesa hay algo que se podría describir más precisamente como 'alimento' q
 [sha:742f4c1336925a586b8a544a10a21e3f4000b47f]{
 -- Page 140, Offset 8924.
 -- アルクェイドが台所にいたのは、ようするにコレのためか。
-Osea que por eso estaba Arcueid antes en la cocina...
+Osea que por eso Arcueid estaba antes en la cocina...
 }
 [sha:fe0dac1f8fb4a9719a2571903fb9864fe67babda]{
 -- Page 141, Offset 8925.
@@ -1303,12 +1303,12 @@ Arcueid ha dicho que no come comida normal.
 [sha:048aea3c8db648f869054a4ffa03cae74ca4efd1]{
 -- Page 141, Offset 8926.
 -- これが誰のために用意されたものか、考えるまでもない。
-No hace falta decir para quien ha preparado esto.
+No hace falta decir para quién ha preparado esto.
 }
 [sha:6f92a471628208317b0dcbf3aa010c28ca9ed060]{
 -- Page 142, Offset 8927.
 -- 「ああもう―――なんなんだ、あいつ」
-"Oh venga――¿que demonios la pasa?"
+"Oh venga――¿qué demonios le pasa?"
 }
 [sha:aad7d1ff85962eca53d19a15e011b8fb8e95cc78]{
 -- Page 142, Offset 8928.
@@ -1318,5 +1318,5 @@ Me estoy irritando.
 [sha:6b1b43c485d6cd4fc29fa21f097d6b177c511d99]{
 -- Page 142, Offset 8929.
 -- あんまりにイライラするものだから、せめて一秒でも早く、応急手当が出来そうなモノを買ってこようと走り出した。
-Tanto que no pierdo tiempo en salir disparado a comprar algo que pueda usar para darla primeros auxilios.
+Tanto que no pierdo tiempo en salir disparado a comprar algo que pueda usar para darle primeros auxilios.
 }

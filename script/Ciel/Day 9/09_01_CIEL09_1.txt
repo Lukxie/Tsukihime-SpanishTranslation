@@ -418,10 +418,10 @@
 -- 「い、いえ、別にかけていなければいけない、と言いたかったのではなく……眼鏡をかけていない志貴さまを見るのは珍しい事ですので、つい」
 -- TRANSLATION HERE
 }
-[sha:21986ad523b3ede52e9657892de80c97477dfb7c]{
+[offset:22223]{
 -- Page 34, Offset 22223.
 -- それはそうだ。
-Tiene razón.
+-- TRANSLATION HERE
 }
 [sha:5635b2f3bac11af3e5bbb5d59954166522c45aaf]{
 -- Page 34, Offset 22224.

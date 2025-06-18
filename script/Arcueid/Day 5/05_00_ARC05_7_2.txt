@@ -1,4 +1,4 @@
-[sha:8698057db19d1fc1d7a151c38074dc82413bc1bc]{
+[offset:9968]{
 -- Page 10017, Offset 9968.
 -- アルクェイドは言った。
 Arcueid dijo algo antes.
@@ -31,12 +31,12 @@ Esa no era su habilidad―――
 [sha:91a67e94732760ed733be16c74ad2a52933fbe37]{
 -- Page 514, Offset 9974. Glued. Mods: @x.
 -- 逆なんだ、アルクェイド……！」
-¡Arcueid, lo has entendido al revés!"
+¡Arcueid, lo hemos entendido al revés!"
 }
 [sha:dec8b0f01bdd48e2693f8312193b34d74137c388]{
 -- Page 514, Offset 9975.
 -- 地上から、遠く離れた彼女に向けて叫ぶ。
-Desde lo alto del agujero, la grito a lo lejos.
+Desde lo alto del agujero, le grito a lo lejos.
 }
 [sha:b295f878348aac5f23c9a5ec66412addcbd5ed5a]{
 -- Page 514, Offset 9976.

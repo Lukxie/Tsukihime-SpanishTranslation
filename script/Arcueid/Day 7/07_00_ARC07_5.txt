@@ -47,7 +47,7 @@ Es como si la cama me tragase.
 [sha:cbec7d5e8e12e7fb7ec83f1bca42c236e11743d1]{
 -- Page 659, Offset 18241.
 -- 「………………はあ」
-"%{i}Haaaa%{/i}..."
+"%{i}Haaa%{/i}..."
 }
 [sha:31ad430880a23dfdd48e88f816a417471df79dac]{
 -- Page 659, Offset 18242.
@@ -99,7 +99,7 @@ La única razón por la que siquiera toco este asunto de caza de vampiros es por
 [sha:3c9c3ab007246991b343339cc6ebdfc3fd6d1162]{
 -- Page 662, Offset 18251.
 -- 「……そうだ。それ以外、なにがある」
-"Cierto. ¿Porqué sino haría esto?"
+"Cierto. ¿Por qué sino haría esto?"
 }
 [sha:386f9271dd07c2dba1753f38548816ab5ff47c7c]{
 -- Page 663, Offset 18252.
@@ -114,8 +114,8 @@ Me quito las gafas.
 [sha:0e30eadaf7b43ebdaebecc2709ff65072e27e5dd]{
 -- Page 663, Offset 18254.
 -- 体と意識を深い闇に引きずり込もうとする、巨大な手のような眠気に身を委ねる。
-// Tl oficial
-El sueño se hace cargo de mi, una mano gigante que arrastra cuerpo y consciencia a la oscuridad profunda.
+//Tl oficial
+El sueño se hace cargo de mí, una mano gigante que arrastra cuerpo y consciencia a las profundidades de la oscuridad.
 }
 [sha:6b92a9678ae8e4cec6b52df4e4f7bd9851141b70]{
 -- Page 664, Offset 18255.

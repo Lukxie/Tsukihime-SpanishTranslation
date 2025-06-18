@@ -8,7 +8,7 @@ La verja está firmemente cerrada.
 -- 子供の頃は『とにかく広い家』ぐらいにしか思っていなかったが、一般家庭である有間家で暮らした後だと、改めてどれだけ巨大なのか実感できる。
 De niño sabía que la mansión Tohno era 'bastante grande',
  pero después de vivir en una casa de tamaño normal como la de los Arimas,
-me estoy dando cuenta de lo realmente grande que es la mansión.
+ me estoy dando cuenta de lo realmente grande que es la mansión.
 }
 [sha:b2dab21471e0187afa6290d72958092f3259c0d2]{
 -- Page 243, Offset 1787.
@@ -18,7 +18,7 @@ Toda la colina con vistas a la ciudad es propiedad de la familia Tohno.
 [sha:f3b47024ba5eef03f483602c2e85f3410f6fa8a7]{
 -- Page 243, Offset 1788.
 -- 敷地はうちの高校より広く、背後に広がる森まで含めば、その三倍にもなるだろう。
-El terreno construido de la  mansión es más grande que mi escuela,
+El terreno construido de la mansión es más grande que mi escuela,
  y si tenemos en cuenta el bosque que hay detrás,
  seguramente sea tres veces más grande.
 }
@@ -57,7 +57,7 @@ Tras unos segundos de espera,
 [sha:852b3a0cb9a7bf40a5ec78cb42c431a362e34696]{
 -- Page 247, Offset 1795.
 -- 「……ここのドア、全自動になったんだ。昔は守衛さんがいたんだけどな……」
-"Así que ahora es completamente automático... Solía haber un guarda."
+"Así que ahora es completamente automático... Antes solía haber un guarda."
 }
 [sha:ef271c9bb089642730530766072b0a89b34623e3]{
 -- Page 248, Offset 1796.
@@ -92,7 +92,7 @@ Continúa hacia el este, tras aproximadamente cuarenta metros gira bruscamente a
 [sha:2b7e498eebe958b51a1da6b76356ffc2adc0e35d]{
 -- Page 250, Offset 1802.
 -- 一歩進むごと、<彩|いろ>づくように記憶が蘇る。
-Con cada paso que doy, mis recuerdos recuperan gradualmente su brillo.
+A cada paso que doy, mis recuerdos recuperan gradualmente su brillo.
 }
 [sha:8a5a522ef179f7e712ea897468bfa8f6ae7e5845]{
 -- Page 250, Offset 1803.
@@ -160,13 +160,13 @@ Probablemente todos eran empresarios de éxito con sus propias mansiones. Y aún
 [sha:3e53ac72b9d188835b51b6dfa62f9c1c46f87a41]{
 -- Page 256, Offset 1815.
 -- 彼らにとって、この土地に住む事が<箔|はく>のようなものだったのだろう。
-Debían considerar el vivir aquí muy prestigioso.
+Debían considerarlo muy prestigioso.
 }
 [sha:f34aa7efcbd3e63f64ebbd455e578032a68278ea]{
 -- Page 256, Offset 1816.
 -- ……ほんと、馬鹿げている。特権階級という響きにどうしても馴染めない自分にとっては“豪勢な屋敷”にすぎないのだが。
 Cuanto sin sentido... No estoy familiarizado con los valores de la clase alta,
- pero en lo que a mí respecta es solo una 'mansión lujosa'.
+ pero en lo que a mí respecta solo es una 'mansión lujosa'.
 }
 [sha:b1a554a328313d87c1edaf93cba4a32d1bce3fea]{
 -- Page 257, Offset 1817.
@@ -191,12 +191,12 @@ Me deshago de mis nervios y presiono el timbre.
 [sha:774e41ae7a9829555f33809255a9bd28c16444f2]{
 -- Page 258, Offset 1821.
 -- ピンポーン、といった親しみのある音はしない。
-Pero no suena el "%{i}pin pon%{/i} que normalmente esperarías.
+Pero no suena el %{i}pin pon%{/i} que normalmente esperarías.
 }
 [sha:8f5aab6a28b61c2c89d8433243b2f307d9505521]{
 -- Page 259, Offset 1822.
 -- 重苦しい静寂が続くこと数秒。
-El silencio intenso continúa por varios segundos.
+El intenso silencio dura varios segundos.
 }
 [sha:0c3138d22900177da1596932a22c55d028384cdb]{
 -- Page 259, Offset 1823.
@@ -216,7 +216,7 @@ A pesar de su apariencia, la puerta se abre fácilmente.
 [sha:dc0e149f40332e834530fb156fdd241dfce1971e]{
 -- Page 261, Offset 1826.
 -- 窓から差しこむ斜陽に眼を細める。
-Miro de reojo a la luz de la puesta de sol que brilla a través de la ventana.
+Miro de reojo la luz de la puesta de sol brillando a través de la ventana.
 }
 [sha:c71a03154648bba6740423974daddcffd329346e]{
 -- Page 261, Offset 1827.
@@ -226,22 +226,22 @@ Pensaba que estaba preparado para esto, pero ver el vestíbulo es suficiente par
 [sha:e7e7c2dde215e42c710d5f970bb00df7db69bafd]{
 -- Page 262, Offset 1828.
 -- ……訪れる者を圧倒する建築美。
-Cualquier visitante se quedaría impresionado con la belleza arquitectónica.
+Cualquier visitante se quedaría impresionado ante la belleza arquitectónica.
 }
 [sha:0a6368ceec81a2a16433c2c6447d0d4312e23aac]{
 -- Page 262, Offset 1829.
 -- どこか違う国、違う時代にタイムスリップしてしまった錯覚に襲われる。屋敷の内装はあまりにも時代がかっていて、その空気さえ違っていた。
-Me da la impresión de que he sido transportado a otro país en otro momento. La decoración de la mansión está tan anticuada que incluso la atmósfera es distinta.
+Me da la impresión de haber sido transportado a otro país en otra época. La decoración de la mansión está tan anticuada que incluso la atmósfera es distinta.
 }
 [sha:26ffefd715e06c717a7723d86993116cc69c6fd3]{
 -- Page 263, Offset 1830.
 -- それでも、ここは見覚えのある遠野邸のロビーだ。
-Aún así, esta es el lobby de la mansión Tohno tal y como recordaba.
+Aún así, este es el lobby de la mansión Tohno tal y como recordaba.
 }
 [sha:f7a1f449d67693a63697930182a9148f7730b764]{
 -- Page 264, Offset 1831.
 -- 立ち尽くす俺の前には、出迎えに来てくれた、これまた時代錯誤な服装の少女がひとり。
-Me quedo anonadado, en frente de la persona que ha venido a recibirme―― una chica que viste de manera anacrónica.
+Me quedo anonadado frente a la persona que ha venido a recibirme―― una chica que viste de manera anacrónica.
 }
 [sha:f4731712d47defe8c5afbf3e26e325007cefdbc4]{
 -- Page 265, Offset 1832.
@@ -273,15 +273,15 @@ Estoy tan desconcertado por este inesperado giro de los acontecimientos que no p
 -- てっきり、出迎えてくれるのは槙久の秘書でもあった、いかつい顔の執事さんと思いこんでいた。
 Asumí que la persona que esperando para recibirme sería el mayordomo con pinta robusta que había sido el secretario de Makihisa.
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:1838]{
 -- Page 267, Offset 1838.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:3a063035671467265abd04f107a177175b187c48]{
 -- Page 267, Offset 1839.
 -- 戸惑う俺の態度を不審に思ったのか、少女はかすかに首をかしげた。
-La chica inclina la cabeza perpleja ante mi confusa actitud.
+Ante mi confusa actitud la chica inclina la cabeza, perpleja.
 }
 [sha:5feca18cc1454dc6dfc4997c8e2e292040ad3c76]{
 -- Page 268, Offset 1840.
@@ -312,12 +312,12 @@ La chica en delantal presiona su dedo índice contra sus labios con un gesto de 
 -- Page 270, Offset 1845.
 -- どうやら本気で心配し、怒っているらしい。それでも微笑は絶やさず、少女は温かな雰囲気を崩さない。
 Parece que se preocupó de verdad y ahora está algo molesta.
- Aun así, la sonrisa permanece en su rostro, y ofrece un ambiente de bienvenida.
+ A pesar de ello, la sonrisa permanece en su rostro, y aún ofrece un ambiente de bienvenida.
 }
 [sha:07571617080c6612f843e7eb44982038b584ae88]{
 -- Page 271, Offset 1846.
 -- ……着物にエプロン。
-Lleva un kimono y un delantal...
+Lleva kimono y delantal...
 }
 [sha:db746d08a7825a3b5f2623711e9abe235a00ebfa]{
 -- Page 271, Offset 1847.
@@ -332,7 +332,7 @@ En ese caso, ella debe ser―――
 [sha:d3ef5c06e9d998be8f50e27e8f18c0026ba7e957]{
 -- Page 272, Offset 1849.
 -- 「すみません。もしかして、ここのお手伝いさんですか？」
-"Perdona. ¿De casualidad no serás una sirvienta?"
+"Perdona. ¿Por casualidad no serás una sirvienta?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 272, Offset 1850.
@@ -342,7 +342,7 @@ En ese caso, ella debe ser―――
 [sha:7303e0203b9a0898d27b58ea1b75ca706c636c3c]{
 -- Page 272, Offset 1851.
 -- 俺の質問に少女は微笑みだけで答えた。
-Ella simplemente sonríe en respuesta a mi pregunta.
+En respuesta a mi pregunta, ella simplemente sonríe.
 }
 [sha:f60d24ccf5ad385a301c4d78b3833463b3c49ad1]{
 -- Page 273, Offset 1852.
@@ -358,7 +358,7 @@ Por favor, pasa. Akiha-sama  te recibirá en breves,
 [sha:d6876a9ae0610a51ff9c7e870c1f54a5fbf4d11c]{
 -- Page 274, Offset 1854.
 -- 少女は俺を先導するように、ゆったりとした動作で歩き出した。
-La chica empieza a caminar como si me estuviera guiando, sus movimientos son elegantes y calmados.
+La chica empieza a caminar como si me estuviera guiando, sus movimientos son calmados y elegantes.
 }
 [sha:f2716134420f5ef5fe5d026bf8ad8089e252d428]{
 -- Page 274, Offset 1855.
@@ -370,7 +370,7 @@ Se dirige hacia el pasillo en la parte este del vestíbulo, al lado de una gran 
 -- たしか、あの廊下に入ってすぐに居間があった筈だ。
 Si recuerdo correctamente, la puerta al salón está justo en ese pasillo.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:1857]{
 -- Page 275, Offset 1857. Mods: @k, @e.
 -- 俺は―――
 Yo―――
@@ -383,7 +383,7 @@ Decido obedecer y seguirla.
 [sha:50e590287b007d253fdab4c8f62f60e339b6e01d]{
 -- Page 276, Offset 42581. Choice.
 -- 少女を呼び止めて名前を訊く事にした。
-Decido parar a la chica y preguntarle su nombre.
+Decido parar a la chica y preguntar por su nombre.
 }
 [sha:49c6402bd4f619ff85b4ab64d4af8233e7bb449a]{
 -- Page 276, Offset 42582. Choice.

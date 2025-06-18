@@ -22,12 +22,12 @@ Esta es la oficina del cabeza de familia...
 [sha:7759bd8c8c7b3887fb183bd0b6ab410827bed297]{
 -- Page 364, Offset 2085.
 -- 「志貴さまをお連れしました」
-"He traído a Shiki-sama conmigo"
+"He traído conmigo a Shiki-sama."
 }
 [sha:2b2214a6fa129e957422bbea7a01071471aa39cf]{
 -- Page 364, Offset 2086.
 -- 「ごくろうさま。仕事に戻っていいわよ、<琥珀|こはく>」
-"Gracias. Puedes volver a tus tareas, Kohaku
+"Gracias. Puedes volver a tus tareas, Kohaku."
 }
 [sha:9dd2faa5de8b5396ae93c00049e2294c4bdb8d62]{
 -- Page 364, Offset 2087.
@@ -39,7 +39,7 @@ Esta es la oficina del cabeza de familia...
 -- お手伝いさんは琥珀という名前らしい。
 Parece que el nombre de la sirvienta es Kohaku.
 }
-[sha:397cdbb88d9d83cd927cdb51360f567836de0fd4]{
+[offset:2089]{
 -- Page 365, Offset 2089.
 -- 琥珀さんは俺にも小さくおじぎをして退室した。
 En respuesta hace una ligera reverencia a los dos , y sale de la habitación.
@@ -49,10 +49,10 @@ En respuesta hace una ligera reverencia a los dos , y sale de la habitación.
 -- 残されたのは自分と―――見覚えのない、二人の少女だけ。
 Los únicos que quedamos soy yo y――dos chicas que no reconozco.
 }
-[sha:397cdbb88d9d83cd927cdb51360f567836de0fd4]{
+[offset:2091]{
 -- Page 10023, Offset 2091.
 -- 琥珀さんは俺にも小さくおじぎをして退室した。
-En respuesta hace una ligera reverencia a los dos , y sale de la habitación.
+En respuesta hace una ligera reverencia a los dos, y sale de la habitación.
 }
 [sha:c7b7e28e139e590c8cec94c46bdbe4d68f6e20ec]{
 -- Page 10023, Offset 2092.
@@ -62,7 +62,7 @@ Los únicos que quedamos soy yo y――dos chicas que no reconozco.
 [sha:500d704cc69584dd66a48c17c0fb6b0cfda5f33e]{
 -- Page 10024, Offset 2093.
 -- 「お久しぶりですね、兄さん」
-// Prefiero mantener Nii-san a decir hermano tiene mas sentido ya que habla más de su relación.
+//Prefiero mantener Nii-san a decir hermano tiene mas sentido ya que habla más de su relación.
 "Ha pasado mucho tiempo, Nii-san."
 }
 [sha:8a7bec10b3289a130b36fe17af64eeebcb1507be]{
@@ -84,7 +84,7 @@ Mi mente está completamente en blanco.
 [sha:243efb666e7005e83469c78c5985db44bef09871]{
 -- Page 368, Offset 2097.
 -- 思考は完全に停止してしまった。
-Mis pensamientos se han parado en seco.
+Mis pensamientos parados en seco.
 }
 [sha:5df2bcd647c1ed576dae944c5953604005fbc0e1]{
 -- Page 369, Offset 2098.
@@ -110,7 +110,7 @@ La Akiha ante mi se ve muy distinta a la que conocía hace siete años.
 -- Page 370, Offset 2102.
 -- 挙動不審な来訪者を冷静に観察するように、黒髪の少女はかすかに目を細める。
 La chica de pelo negro entrecierra un poco los ojos,
- como si estuviera examinando a su visitante desconfiado.
+ como si examinara atentamente a su visitante desconfiado.
 }
 [sha:5eb3082f8df445a4553d65f10cff5ac976e80a9a]{
 -- Page 371, Offset 2103.
@@ -127,14 +127,14 @@ Mi mente aún está intentando recomponerse. Solo puedo tartamudear con dificult
 -- こっちは目前の少女を秋葉と認識するため頭をフル回転させているのに、秋葉の方はとっくに俺を兄と認めているようだ。
 Los engranajes de mi cerebro están girando a toda velocidad,
  sufriendo para procesar que la persona en frente de mi es Akiha.
- Ella, por otro lado, no parece tener problemas en reconocerme como su hermano
+ Ella, por otro lado, no parece tener problemas en reconocerme como su hermano.
 }
 [sha:4cfb6b166818cfc675faeb450befd4d9e41dd575]{
 -- Page 372, Offset 2106.
 -- 「―――はあ。話には聞いていましたが、本当に体調が不安定なんですね。時間は無駄にしますが、私からの話の前にお休みになられますか？」
-"%{i}Suspiro%{/i}.
+"%{i}Haaa%{/i}.
  Ya me han informado que tu condición física es inestable.
- Aunque sea una pérdida de tiempo, ¿preferirías descansar antes de que hablemos?
+ Aunque sea una pérdida de tiempo, ¿preferirías descansar antes de que hablemos?"
 }
 [sha:02cc31cd4d8011bff905db4c60a0a22507dee818]{
 -- Page 372, Offset 2107.
@@ -144,7 +144,7 @@ Se dirige a mí.
 [sha:0ba8542de6d9cc2a682e705eb9f01d0d00dbb794]{
 -- Page 372, Offset 2108.
 -- 秋葉の言葉は、なんとなく刺があるような気がする。
-Las palabras de Akiha tienen cierto filo
+Las palabras de Akiha tienen cierto filo.
 }
 [sha:bfd141a3807d1ef1ddd97f81f3f8f7e480d3f61e]{
 -- Page 373, Offset 2109.
@@ -155,10 +155,10 @@ Las palabras de Akiha tienen cierto filo
 [sha:b48e02d0b5ed5f4d610d9b71faa217066ba9a7fc]{
 -- Page 374, Offset 2110.
 -- 「……。七年も経てば変わります。ただでさえ私たちは成長期だったんですから。それとも、いつまでも以前のままだと思っていたんですか、兄さんは」
-"%{i}Suspiro%{/i}...
+"%{i}Haaa%{/i}...
  Las cosas cambian después de siete años.
  Eso es lo que significa crecer.
- ¿O piensas que todo sería siempre igual?, Nii-san."
+ ¿O piensas que siempre sería todo igual?, Nii-san."
 }
 [sha:80f4d54a77c3ec63c097a028771496df90a5bbf7]{
 -- Page 374, Offset 2111.
@@ -183,7 +183,7 @@ No me había imaginado como sería la Akiha actual.
 [sha:5f54de33dc8b6aea2a38657f97e8c57768f23808]{
 -- Page 375, Offset 2115.
 -- いつまでも子供のままの、兄貴として都合のいい思い出から先を考えていなかったのだ。
-// Suena raro
+//Suena raro
 No había pensado más allá de la conveniente realidad de mi infancia como su hermano.
 }
 [sha:cf52a552730a559cdbe0ee45f7a0266eb6dd6978]{
@@ -194,12 +194,12 @@ Me pregunto como estos últimos siete años la han hecho desarrollarse. Ah, pero
 [sha:e2a54cadca095fc20d20d7d3cfa52bdd447ab9ae]{
 -- Page 376, Offset 2117.
 -- 「……面目ない。正直、考えが足りなかった。
-"%{i}Suspiro%{/i}. Me avergüenzo. Para serte sincero, no lo había pensado.
+"%{i}Haaa%{/i}. Me avergüenzo. Para serte sincero, no lo había pensado.
 }
 [sha:1414bbf05b174dd8b4b27f25d38ef375440004c4]{
 -- Page 376, Offset 2118.
 -- でも、それにしたって秋葉は変わったよ。昔より格段に美人になった」
-Pero aún así, has cambiado. Eres considerablemente más bella de lo que eras."
+Pero aún así, has cambiado. Eres considerablemente más bella que antes."
 }
 [sha:c96c13e1b81dc998c086d41b37a8c9d87510fc55]{
 -- Page 376, Offset 2119.
@@ -274,7 +274,7 @@ Si estás listo para ello, entonces sigamos con la conversación.
 [sha:47bab90ce0be43acf5ffbf78ae803e2272a37011]{
 -- Page 381, Offset 2133.
 -- 今回の移転について、詳しい事情は聞いていますか？」
-¿Te han informado de los detalles de las circunstancias de tu mudanza?"
+¿Te han informado sobre los detalles de las circunstancias de tu mudanza?"
 }
 [sha:af1cc3029e976e76620a84748f62be2eb4a92d1a]{
 -- Page 382, Offset 2134.
@@ -337,7 +337,7 @@ Ser desheredado te pone en una posición complicada de muchas formas.
 [sha:d1a0f4b6fc3f379745c2e6790a9fd14a1b2f434a]{
 -- Page 387, Offset 2145.
 -- そう言っていただけると、私も少しは気が楽になります」
-Oírte decir eso me hace sentirme mejor."
+Oírte decir eso me hace sentir mejor."
 }
 [sha:50fa5fada509f8d3df68f5c228614d2e00466140]{
 -- Page 388, Offset 2146.
@@ -478,7 +478,7 @@ Aquellos que no toman la responsabilidad no están cualificados para ser padres,
 [sha:37c83676172e7e144fa480ee8c10e344f920ff0d]{
 -- Page 398, Offset 2173.
 -- 遠野槙久はこんな話を何度も俺と秋葉に語った。まるで自分自身に言い聞かせるように、何度も何度も。
-Tohno Makihisa nos dijo esto a Akiha y a mi múltiples veces. Es como si se estuviera convenciendo a si mismo, una y otra vez.
+Tohno Makihisa nos dijo esto a Akiha y a mi múltiples veces. Era como si se estuviera convenciendo a si mismo, una y otra vez.
 }
 [sha:ff3ee319d0ce0ff714ebb090fe5ef36f64f61fa3]{
 -- Page 399, Offset 2174.
@@ -508,7 +508,7 @@ No era consideración por su hermano, que había sido desheredado por su padre.
 [sha:d67734b960e566b2c20fff3537b9259fd32dac50]{
 -- Page 400, Offset 2179.
 -- 遠野家当主として、野放しになっていた案件を片付けただけらしい。
-Como cabeza de la familia Tohno, solo está limpiando un asunto que se había quedado desatendido.
+Como cabeza de la familia Tohno, solo se está encargando de un asunto que se había quedado desatendido.
 }
 [sha:2e05fe03dbdcbbc7a3a2d37cf2f87a11f9c5af83]{
 -- Page 401, Offset 2180.
@@ -530,7 +530,7 @@ No hace falta que lo diga, pero mis palabras son las palabras de la cabeza de fa
 [sha:b7fdb24b36ec11ebf6c5c5b8a01aa93e87443e90]{
 -- Page 402, Offset 2183.
 -- 七年前の事は忘れて、私たちは当主とその家人である事を肝に銘じてくださいますよう」
-Por favor olvida lo que pasó hace siete años y graba en tu mente que soy la cabeza de familia y tu eres parte de ella."
+Por favor olvida lo que pasó hace siete años y graba en tu mente que soy la cabeza de familia y que tu eres parte de ella."
 }
 [sha:8d8617b9293503e6c7f810a0fb10458db93bd7ca]{
 -- Page 403, Offset 2184.
@@ -540,9 +540,9 @@ La voz de Akiha es indiferente.
 [sha:1931aae16ff188f122ad9934a797a7e3d49c1c62]{
 -- Page 403, Offset 2185.
 -- <権高|けんだか>な、上の立場から下される決定。そこに冷たいものを感じたのは事実だ。
-// Se lee raro
+//Se lee raro
 Me impone su decisión despótica.
- Y la verdad, se sintió como algo frío.
+ Y la verdad, se siente como algo frío.
 }
 [sha:173e02ef50255ed683c81ceba6d1cd5d5f1b1fd8]{
 -- Page 403, Offset 2186.
@@ -639,12 +639,12 @@ Ciertamente ha madurado externamente,
 [sha:311c697b069eb59eec40ebb094e954fe185fa904]{
 -- Page 410, Offset 2204.
 -- 「……兄さん？
-"Nii-san?
+"¿Nii-san?
 }
 [sha:565a99ea7415542407934714b1a01b0a4ac930d9]{
 -- Page 410, Offset 2205.
 -- ぼうとしたお顔をされていますが、何か？」
-Tienes una expresión ausente. ¿Te ocurre algo?"
+Tienes una expresión ausente. ¿Ocurre algo?"
 }
 [sha:0d6e3c3ea13d2d3afe5c81c1cb551b7b1d9d7018]{
 -- Page 411, Offset 2206.
@@ -685,7 +685,7 @@ No hay forma de que ahora vuelva a ser una persona educada, y tampoco tengo la i
 [sha:ad3180c1497c54ca085bda9fd01866a4922492fc]{
 -- Page 414, Offset 2213.
 -- 子供じゃあるまいし、試す前から泣き言は結構です。
-No eres un niño, así que no lloriquees sin ni siquiera empezar.
+No eres un niño, así que no lloriquees antes de siquiera empezar.
 }
 [sha:e1b95a41d1853ac961cfaf8fbc22b342dce37913]{
 -- Page 414, Offset 2214.
@@ -742,7 +742,7 @@ No hay duda. Ahora mismo estoy siendo bombardeado sin piedad por la hostilidad a
 [sha:c1eb5fb6c08e9ea1d3cd6a5b399d64b8541b1490]{
 -- Page 417, Offset 2224.
 -- 優しさが一ミリもない感想に二の句も継げない兄だった。
-Estoy completamente perplejo ante su falta de siquiera una pizca amabilidad.
+Estoy completamente perplejo, ni una pizca amabilidad siquiera.
 }
 [sha:ad7799980481f9b840800cf87b51ca5049974f14]{
 -- Page 418, Offset 2225.
@@ -757,9 +757,8 @@ Te daré una semana como mucho un mes, así que intentalo como si tu vida depend
 [sha:669314378078081c84a4224e84d983fe38bf10b4]{
 -- Page 419, Offset 2227.
 -- 猶予は猶予でもそれは執行猶予というものではないか、という思いつきをぐっと堪える。
-// raro, posiblemente por como este planteada la frase
-// REVISAR
-Me abstengo de pensar que esto se parece más a algo postpuesto que a irse de rositas.
+//raro, posiblemente por como este planteada la frase
+No quiero pensar en que esto se parece más a algo postpuesto que a irse de rositas.
 }
 [sha:b6908eb821ada556a13f9b5201b6e874e5815f37]{
 -- Page 419, Offset 2228.
@@ -799,7 +798,7 @@ Un momento... no me digas que...
 [sha:0eaee60927b0a89fb442c7ceae06e5e38a1bae84]{
 -- Page 421, Offset 2235. Glued.
 -- というか、そんな事できたんだ……！
-¡Y pensar que es capaz de hacer eso!
+¡Y pensar que es capaz de hacer eso!"
 }
 [sha:9d9506bfb452b5f4b06cee68ea2d5d63b3e2a2cc]{
 -- Page 422, Offset 2236.
@@ -815,7 +814,7 @@ Eran simples sanguijuelas, alimentándose perezosamente de la generosidad de pad
 [sha:6f02c4d7912a087289ea0fbde639a339c356473c]{
 -- Page 422, Offset 2238.
 -- ああ、使用人たちも大部分に暇をだしましたが、私と兄さん付きの者は残しましたので問題はありません」
-Oh, y despedí a la mayoría de los criados, pero he dejado uno para cada uno de nosotros, así que no hay problema."
+Oh, y despedí a la mayoría de los sirvientes, pero he dejado uno para cada uno de nosotros, así que no hay problema."
 }
 [sha:63f13f803d44dcbca1dba9741b17b22d42787b2c]{
 -- Page 423, Offset 2239.
@@ -873,7 +872,7 @@ Ni siquiera nuestro padre podía ir en contra de las opiniones de nuestros famil
 [sha:d3f28f320a99e1c1babe7b2624abee8d0f236084]{
 -- Page 428, Offset 2249.
 -- そんな事より、兄さんはこれからのご自分の生活を案じてください。色々大変なコトになるって目に見えているんだから」
-Pero deberías estar más preocupado por tu vida a partir de ahora. Es obvio que vas a tener muchos problemas a partir de ahora."
+Pero de ahora en adelante deberías estar más preocupado por tu vida. Es obvio que vas a tener muchos problemas."
 }
 [sha:c864003e57e92271708fd3ec0d0d71830e1bcfce]{
 -- Page 429, Offset 2250.
@@ -893,12 +892,12 @@ Bueno, no es que importe. Tengo una sirvienta para eso.
 [sha:35e5ec9b76b5fd94d10bf8c24d00947c3473868e]{
 -- Page 430, Offset 2253.
 -- この先、分からない事があったらこの子に言いつけて。
-Si tienes alguna pregunta en el futuro, pregúntale a ella.
+Si en el futuro tienes alguna pregunta, pregúntale a ella.
 }
 [sha:b76c7a51b1e3d1602ae6033141f7342102bf1742]{
 -- Page 430, Offset 2254.
 -- ――――<翡翠|ひすい>」
-―――Hisui.
+―――Hisui."
 }
 [sha:0d2f35887c337da92a0b64f01d8aa02a36e032e2]{
 -- Page 431, Offset 2255.
@@ -938,7 +937,7 @@ Ya veo, así que ella es una sirvienta... espera, ¿qué?
 [sha:55b190cbba4183d8c02444c77cbb1315945ef162]{
 -- Page 434, Offset 2262.
 -- 「分かりやすくいうと召使い、という事です」
-"Una sirvienta personal sería una mejor descripción"
+"Una sirvienta personal sería una mejor descripción."
 }
 [sha:45c5f6b1228cb3b13552935208d2b100759048ef]{
 -- Page 435, Offset 2263.
@@ -949,7 +948,7 @@ No me lo puedo creer...
 -- Page 435, Offset 2264.
 -- メイド服を着込んだ少女は秋葉同様、そうしているのが当然といわんばかりに、その<表|か><情|お>を崩さない。
 La chica en uniforme de sirvienta parece ser de la misma edad que Akiha,
- y su rostro es desprovisto de expresión de una manera que casi parece natural en ella.
+ y su rostro está desprovisto de expresión de una manera que casi parece natural en ella.
 }
 [sha:1b98f50cb10103604c48517cc161a20a50384313]{
 -- Page 436, Offset 2265.
@@ -989,12 +988,12 @@ Por favor acepta el trato apropiado como parte de tu deber."
 [sha:58c5ee55bc0d1070ee042ee7bb1999d241dd81ca]{
 -- Page 438, Offset 2272.
 -- メイド服の少女に視線を泳がす。
-Lanzo una mirada a la chica en el uniforme de sirvienta.
+Lanzo una mirada a la chica en uniforme de sirvienta.
 }
 [sha:dfbb46df360e661e258d1c980a25376cfb164ea2]{
 -- Page 438, Offset 2273.
 -- 翡翠はやはり無表情で、人形のようにこちらを見つめ返してくるだけだった。
-Hisui sigue inexpresiva, solo mirándome fijamente como si fuera una muñeca.
+Hisui sigue inexpresiva, mirándome fijamente como si fuera una muñeca.
 }
 [sha:aa86fb39757088a5ed9e9544999c1f7a97191894]{
 -- Page 439, Offset 2274.
@@ -1024,12 +1023,12 @@ Me está mirando fijamente, pero yo miro a todos los lados para que nuestras mir
 [sha:75022a91897e8b3fcf17f72b206a3f76ca2b27ad]{
 -- Page 440, Offset 2279.
 -- ……その歩調も緩やかながら遅さを感じさせないもので、彼女が長く使用人を務めている事を示していた。
-Su paso es suave, pero no lento... Está claro que ha sido sirvienta por mucho tiempo.
+Su paso es suave, pero no lento... Está claro que lleva mucho tiempo siendo una sirvienta.
 }
 [sha:d440e588d736785161ff92e1c74135acc645c3fd]{
 -- Page 441, Offset 2280.
 -- 「ああ、それと兄さん。長男と言えど、この屋敷では禁止された事柄、立ち入ってはいけない場所があります。それを犯したりする事のないように。
-"Oh, Nii-san. Incluso como hijo mayor, hay ciertas cosas que están prohibidas en la mansión, como sitios en los que no debes entrar. Por favor, no violes esas reglas.
+"Ah, Nii-san. Incluso como hijo mayor, hay ciertas cosas que están prohibidas en la mansión, como sitios en los que no debes entrar. Por favor, no violes esas reglas.
 }
 [sha:d732cd79e1a0bf36f17a19e4f2a04bb2230fbdf6]{
 -- Page 441, Offset 2281.
@@ -1039,7 +1038,7 @@ También he ordenado a Hisui ocuparse de tí, así que escucha su consejo todo l
 [sha:704515ccff7a7acce1c28de23f4338ce89ab936b]{
 -- Page 442, Offset 2282.
 -- 「それ、お守りじゃなくて監視役って言わないか？」
-"Eso se parece más a tenerme vigilado , ¿no crees?"
+"Eso se parece más a tenerme vigilado, ¿no crees?"
 }
 [sha:fc634ea6793bec10d6229054356fc8f2b88c409b]{
 -- Page 442, Offset 2283.
@@ -1069,7 +1068,7 @@ Ignorando mi confusión, Hisui se dirige a la puerta.
 [sha:d3be2bb5932f6224a74bae4e22b12317d51117ae]{
 -- Page 444, Offset 2288.
 -- 「……はあ」
-"%{i}Suspiro%{/i}..."
+"%{i}Haaa%{/i}..."
 }
 [sha:734fb9e2feec5b1faa3cfa40e5f0e85830d0fc16]{
 -- Page 444, Offset 2289.

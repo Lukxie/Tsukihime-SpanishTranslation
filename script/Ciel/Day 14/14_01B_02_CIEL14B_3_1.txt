@@ -143,7 +143,7 @@
 -- 人体における『肘の内側』の節目に、俺は、渾身の力でナイフを突き立てた。
 -- TRANSLATION HERE
 }
-[sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
+[offset:40015]{
 -- Page 206, Offset 40015.
 -- ―――が。
 ―――Pero.
@@ -283,7 +283,7 @@
 -- 『“させない”』
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:40043]{
 -- Page 214, Offset 40043.
 -- 「……！」
 ¡Ah!

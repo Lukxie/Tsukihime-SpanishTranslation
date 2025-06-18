@@ -17,7 +17,7 @@ Cada planta tiene cuatro habitaciones, la mayoría con las luces encendidas.
 [sha:dd5eaa14164c0996f73a96c1490187d2377ba4e8]{
 -- Page 352, Offset 20549.
 -- それがまっとうなものかどうかは、外から眺める他人は与り知らぬ事だ。
-Pero desde fuera no hay forma de saber si lo que hacen es algo turbio o no.
+Desde fuera no hay forma de saber si lo que hacen es algo turbio o no.
 }
 [sha:902feaa15de01b9c7194b7ac0323bb4a9988042f]{
 -- Page 353, Offset 20550.
@@ -111,7 +111,6 @@ Pensaba que la iba a levantar de una, pero―――
 [sha:d20b95a28356ca0124636ced42beedbc17275956]{
 -- Page 360, Offset 20567.
 -- 「ええ。わたしより志貴が適任。無理矢理あけると警報が鳴るでしょ？」
-// Tl oficial
 "Sí. Es tu área de especialidad.
  Además, si la abriese a la fuerza, podría hacer saltar una alarma."
 }
@@ -133,7 +132,7 @@ Arcueid es bastante buena manteniendo la cabeza fría bajo presión.
 [sha:7f4763ed07b4f8c2393f4a61d013e34bedda5fbd]{
 -- Page 362, Offset 20571.
 -- ここが“巣”なら、中には十体近い<不死|アンデッド>がいるはず。
-Si este es su 'nido', probablemente habrá unos diez de esos Muertos Vivientes dentro.
+Si este es su 'nido', dentro habrá probablemente unos diez de esos Muertos Vivientes.
 }
 [sha:d0ab3c9e49c336a490fdda0ee0cfb79226b1f11c]{
 -- Page 362, Offset 20572.
@@ -154,7 +153,7 @@ Corto las 'líneas' de la puerta.
 [sha:8f0240b5274fba95dcd78602e4cd158e96d0c9f5]{
 -- Page 363, Offset 20575.
 -- ざらん、と音をたてて、鉄の扉がコンクリートの床に落ちる。
-Dando un golpe contra el suelo, el metal se cae al suelo de cemento.
+El trozo cae al suelo de cemento emitiendo un sonido metálico.
 }
 [sha:422ed06a89cd4a40f01f64dba729122b7ce760c7]{
 -- Page 363, Offset 20576.
@@ -174,7 +173,7 @@ El olor es repulsivo.
 [sha:a260da53c82bd18fed351db269bba1b9aaf9a477]{
 -- Page 364, Offset 20579.
 -- ガレージの中はすえた肉の匂いと、濃厚な血の匂いで満ちていた。
-El garaje apesta a carne podrida y el aire está cargado con olor a sangre.
+El garaje apesta a carne podrida y el aire está cargado de un aroma a sangre.
 }
 [sha:83c6628429bc79ce2e9b0d83651cfe4f43b604bb]{
 -- Page 365, Offset 20580.
@@ -210,8 +209,7 @@ Esta debe ser su guarida. En cuyo caso, yo también debería―――"
 [sha:22170349c722aab4c77c774db2074836d9722a99]{
 -- Page 368, Offset 20586.
 -- だいじょうぶ、起きたばっかりの不死なんて虫みたいなものだし。志貴はそこで待ってて、すぐ片づけちゃうから！」
-// Modificado un poco para que se entienda mejor
-No te preocupes, acaban de transformarse, no son más que insectos para mi. ¡Espera ahí Shiki, me encargaré de ellos rápidamente!"
+No te preocupes, acaban de transformarse, no son más que insectos para mí. ¡Espera ahí Shiki, me encargaré de ellos rápidamente!"
 }
 [sha:e277c5439364fa77adf34b3a1db2c23fdab84906]{
 -- Page 369, Offset 20587.
@@ -221,38 +219,35 @@ No te preocupes, acaban de transformarse, no son más que insectos para mi. ¡Es
 [sha:d690aa4ffd17a05fb478cb5543908bcefaa1afa7]{
 -- Page 369, Offset 20588.
 -- 予想外のシーンの連続に、意識の<対応|チャンネル>が間に合わない。
-Mi cerebro no está hecho para procesar lo que está pasando frente a mi.
+Mi cerebro no está hecho para procesar lo que está ocurriendo frente a mí.
 }
 [sha:5c5bbe324db33939fcdd7dddc85d324bee88c5d5]{
 -- Page 369, Offset 20589.
 -- ヘドロのつまった墓穴を見せつけられた後、
-// Adaptado
 Primero este garaje-tumba sangriento―――
 }
 [sha:687df8974ef79bb0e6c0b8773277a2113e0f2620]{
 -- Page 369, Offset 20590.
 -- 華麗なフィギュアスケートが始まったような、そんな食い合わせの悪さだった。
 Y ahora este magnífico espectáculo de patinaje.
- La combinación no es que deja un buen sabor de boca.
+ La combinación no es que deje un buen sabor de boca.
 }
 [sha:82a3c23275492f0622141b873b4139d1f741a787]{
 -- Page 370, Offset 20591.
 -- 目を覚まし、来訪者に襲いかかる無数の死者。
-// Tl oficial
 Una multitud de Muertos se acercan al invitado.
 }
 [sha:ba06db9ee4e96a966c05278bd92ba91458bda036]{
 -- Page 370, Offset 20592.
 -- 腕の<一|ひと>振るいで巻き起こる断裂。
-// Tl oficial.
 Ella, con un solo movimiento de brazo, orquestra una sinfonía de huesos rotos.
 }
 [sha:663215de95831c4640ce8adeaf002164223e5b7b]{
 -- Page 370, Offset 20593.
 -- 群がる牙。飛び散る死肉。その雨の中で、一片も濡れる事なく舞う白い影。
-Una cacofonía de colmillos repiquetean buscando su presa.
+Una cacofonía de colmillos que repiquetea buscando su presa.
  El sonido de la carne desgarrándose.
- Y de alguna forma, incluso en esa nube visceral, una sombra blanca, pristina, ni una mota de sangre encima.
+ Y de alguna forma, incluso en esa nube visceral, una sombra blanca, pristina, sin una mota de sangre encima.
 }
 [sha:32c025e3e55154c417cac3e25b732ab1b10f4983]{
 -- Page 371, Offset 20594.
@@ -260,10 +255,10 @@ Una cacofonía de colmillos repiquetean buscando su presa.
 Ya lo he visto muchas veces,
  pero sigue dejándome sin aliento.
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:20595]{
 -- Page 371, Offset 20595.
 -- ……そうだ。
-Eso es verdad...
+Por supuesto...
 }
 [sha:182e4dbd4933b04f882be2489ac0425bb8ac9569]{
 -- Page 371, Offset 20596.
@@ -273,21 +268,18 @@ Estos cadáveres no tienen oportunidad contra ella.
 [sha:fa40b698a396380a14165d140bfe69ca1f29b91d]{
 -- Page 372, Offset 20597.
 -- 性能が違う。視点が違う。存在の次元が違う。
-// Tl oficial
 Sus habilidades son desiguales. Su visión diferente. Su misma existencia reside en una dimensión distinta.
 }
 [sha:2099b0eccb2d52e62f2a4bb1ec06bf3a4a4285dc]{
 -- Page 372, Offset 20598.
 -- <鎧袖一触|がいしゅういっしょく>、無双とはこの事だ。
-// Tl oficial
 Es como si la palabra %{i}inigualable%{/i}
  hubiese sido hecha para ella y solo para ella.
 }
 [sha:d9dd50ff2e25e2aab1d6f1ba649155f28ea866b9]{
 -- Page 372, Offset 20599.
 -- アルクェイドにとって<血|・><を|・><吸|・><う|・><だ|・><け|・>の吸血鬼なんて、俺たち人間と何ら変わりのない獲物、なんだろう。
-// Mix de tls
-A los ojos de Arcueid, estos vampiros que existen solo para beber sangre no deben ser distintos a los humanos. Son solo presa, y nada más.
+A los ojos de Arcueid, estos vampiros que existen solo para beber sangre no deben ser distintos a los humanos. No son más que, presa.
 }
 [sha:187727eba438d86ffebd25fbec3030bb544cb7dd]{
 -- Page 373, Offset 20600.
@@ -297,66 +289,57 @@ A los ojos de Arcueid, estos vampiros que existen solo para beber sangre no debe
 [sha:00454c90f34f140a529d4873532e465256e973c2]{
 -- Page 373, Offset 20601.
 -- 頭痛が走る。裸眼でいる事の代償だが、まだ眼鏡をかける事はできない。
-// Tl oficial
 Otra corriente de dolor me recorre el cerebro.
  Es el precio a pagar por no llevar las gafas, pero aún no me las puedo poner.
 }
 [sha:48cfb3d4f95368af1ac120789dc5238e4af79096]{
 -- Page 374, Offset 20602.
 -- アルクェイドひとりで済むとは言っても、死体はまだ十体以上残っている。
-// Tl oficial
 Arcueid ha dicho que se encargaría ella sola, pero aún quedan más de diez.
 }
 [sha:bdb09e8029fed064c7535d9c5b9348b5a1afb2b4]{
 -- Page 374, Offset 20603.
 -- あのペースならあと１分もかけずに一掃できるとはいえ、アルクェイドの戦いが終わるまでは俺も―――
-// Tl oficial
 A este paso, los erradicará en menos de un minuto, pero hasta que no acabe la pelea, no me―――
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:20604]{
 -- Page 375, Offset 20604.
 -- 「……？」
-¿Eh...?
+"¿Eh...?"
 }
 [sha:2892068d99a677f8a694d17a123817c97a6c40c7]{
 -- Page 375, Offset 20605.
 -- 様子がおかしい。
-// Tl oficial
 Algo va mal.
 }
 [sha:d22f4ad4a6f883130f2aedd530019d085dab8b55]{
 -- Page 375, Offset 20606.
 -- アルクェイドの動きが緩慢になっている。
-// Tl oficial
 Los movimientos de Arcueid se están volviendo más lentos.
 }
 [sha:413b159b549ef137c476d69fba687b7e4a776cb2]{
 -- Page 376, Offset 20607.
 -- あいつは傷を受けていない。
-// Tl oficial
 No la han herido.
 }
 [sha:250bd20fe99e52883ac0b46d7d9db0b9236e0865]{
 -- Page 376, Offset 20608.
 -- そもそも死者たちを近づけてもいない。
-// Tl oficial
 Los Muertos no se pueden acercar para empezar.
 }
 [sha:3c024bcb18c136bc32fda2bd7f648b73251879ef]{
 -- Page 376, Offset 20609.
 -- なのに、
-Y aún así―――
+-- TRANSLATION HERE
 }
 [sha:01a57eacfbebdf43c3236e9b9a92174dae1ab6a9]{
 -- Page 376, Offset 20610.
 -- 一つ、また一つと死者を引き裂く度に、その顔が苦痛に歪んでいるようだった。
-// Tl oficial
 Su cara parece estremecerse de dolor con cada enemigo que destruye.
 }
 [sha:87379954a472fc2120a63e42351971bbb6d13d39]{
 -- Page 377, Offset 20611.
 -- ―――吹き荒れる暴虐。
-// Tl oficial
 Cada uno de ellos cae ante su violenta arremetida.
 }
 [sha:c75a05351ce04f8876dd599281d4d8220ba48fbc]{
@@ -396,7 +379,7 @@ En el corazón de la masacre se encuentra Arcueid,
 [sha:2c94658e0bf60262712e2abf91cea1a02a00e2dc]{
 -- Page 378, Offset 20618.
 -- ……あの馬鹿。どんな心境の変化かは知らないけど、無駄に力を使いすぎだ。
-Esa idiota... no se que la ha dado, pero ha malgastado demasiada energía.
+Esa idiota... no sé que la ha dado, pero ha malgastado demasiada energía.
 }
 [sha:76c41a531cf17533b26e72728abfdb03f497899d]{
 -- Page 378, Offset 20619.
@@ -422,7 +405,6 @@ La llamo desde la entrada del garaje.
 [sha:9ae00c45c42c1a1aa26f31207fd09c1145892c2c]{
 -- Page 380, Offset 20623.
 -- 今夜はこれで終わりだし、あなたの前だし、いつもより張りきってやっちゃった」
-// Mix de tls
 Esta era la última parada de la noche, y me estabas mirando, así que he ido un poco más fuerte."
 }
 [sha:5af9aad60c9af4147699ced0997fb18138cf6f48]{
@@ -443,8 +425,8 @@ Por favor, dame un respiro.
 [sha:6b4b187c587371c9d86af787ac48ab16e7dd03f6]{
 -- Page 382, Offset 20627.
 -- いつもより余分に暴れた理由が、単に俺に自慢したかったからとか、どう反応していいか本気で困る。
-Y pensar que toda esa violencia excesiva es porque quería presumir frente a mi.
- Honestamente no se como responder a eso.
+Y pensar que toda esa violencia excesiva es porque quería presumir frente a mí.
+ Honestamente no sé como responder a eso.
 }
 [sha:d678a8f00559ecd50ae1bd2138cce22579cf3e51]{
 -- Page 383, Offset 20628.
@@ -474,12 +456,12 @@ La cosa frente a mi es tan bizarra que no puedo evitar dudar de mis ojos.
 [sha:b0da8986ae75b4a925bab265d42f92382497a1c4]{
 -- Page 384, Offset 20633.
 -- それはいつからあったのか。
-¿Cuánto lleva %{i}esa%{/i} cosa ahí?
+¿Cuánto lleva ahí %{i}esa%{/i} cosa?
 }
 [sha:bda3ab6718332e9ca13b11bfc61d425dc45c15c8]{
 -- Page 384, Offset 20634.
 -- いや、いつから見落としていたのか。
-No, ¿cuanto tiempo llevo sin verla?
+No, ¿cuánto tiempo llevo sin verla?
 }
 [sha:931b494b782d9fa9cf3d00a56cae64ea2ceb9a2d]{
 -- Page 384, Offset 20635.
@@ -499,12 +481,12 @@ Muertos haciéndose disfrazándose de humanos.
 [sha:34f2d53372d9d0f95897f854cdc60ab7913026a0]{
 -- Page 384, Offset 20638.
 -- この数日、多くの異常を見てきた。多くの未体験を味わってきた。
-He visto todo tipo de cosas extrañas estos últimos días. Y he experimentado todo tipo de cosas por primera vez.
+Estos últimos días he visto todo tipo de cosas extrañas. Y he experimentado por primera vez todo tipo de cosas.
 }
 [sha:12c15e2068bfb19445ccabc9a077e1962c4fe397]{
 -- Page 385, Offset 20639.
 -- だが、それらはすべて現実から変わったもの、
-Pero todas esas cosas tenían una base en la realidad.
+Pero todas esas cosas partían de una base en la realidad.
 }
 [sha:2eac8579890d5238d5660865f84f32f95ec3a27f]{
 -- Page 385, Offset 20640.
@@ -520,7 +502,6 @@ Pero esa cosa es distinta.
 [sha:f867c0a1e086983b74dab8f8f952107cd9fe1c94]{
 -- Page 385, Offset 20642.
 -- 空気が違う。種別が違う、存在にいたる工程が違っている。
-// Adaptado para que no haya tanta repetición
 El aire que da, distinto.
  Su especie, anómala.
  El proceso por el que ha llegado a existir, aberrante.
@@ -529,7 +510,7 @@ El aire que da, distinto.
 -- Page 385, Offset 20643.
 -- 俺たちの街にも、アルクェイドの世界にも、いる筈のない“異種”だった。
 Esa criatura es completamente alienígena.
- No debería existir. No en esta ciudad y ni siquiera en el mundo de Arcueid.
+ No debería existir. No en esta ciudad, y ni siquiera en el mundo de Arcueid.
 }
 [sha:cb5c4ab35721da521c276570ad9ba0ddca659dfe]{
 -- Page 386, Offset 20644.
@@ -539,7 +520,7 @@ Esa cosa tiene forma humana.
 [sha:4a4971cbd72724dc82bd2acdb50444766330c2e6]{
 -- Page 386, Offset 20645.
 -- 死者たちと同じ匂いを持っていた。
-Lleva el mismo olor que los Muertos.
+Porta el mismo olor que los Muertos.
 }
 [sha:0d8c03431584d951e56b77e65ee3931ee2cee2fc]{
 -- Page 386, Offset 20646.
@@ -550,7 +531,6 @@ Sin embargo, ha descartado cualquier atributo humano.
 [sha:5d26c64401c88c7e8ebfc375b9b0a5a385c5cf04]{
 -- Page 386, Offset 20647.
 -- 生存の息づかいを感じない。光に反応する機能が見て取れない。
-// Mix de tls
 No siento ninguna función respiratoria.
  Ni tampoco puedo veo capacidad alguna para reaccionar a la luz.
 }
@@ -579,7 +559,7 @@ Aunque no haya visto nunca nada similar,
 [sha:8b2fc646dfc7d07d03403428bda15d63c2b426bd]{
 -- Page 388, Offset 20652.
 -- 思考がまだ止まっている。
-Mis mente sigue congelada.
+Mi mente sigue congelada.
 }
 [sha:9317dfe29a754292c54180a4a5ec720a946dee83]{
 -- Page 388, Offset 20653.
@@ -620,7 +600,6 @@ Grito.
 [sha:95a6e90759ef16e826f0929f0a1012402f43315b]{
 -- Page 390, Offset 20660.
 -- 異常を察し、アルクェイドが振り向く。
-// Mix de tls
 Al sentir la aberración detrás de ella, Arcueid se da la vuelta.
 }
 [sha:fdc9af8d3d6ee171f7ce3a03c5c7304356dd7792]{
@@ -674,21 +653,18 @@ Puedo escuchar el sonido de un click en mi cabeza.
 [sha:2f2c420c14e63352175a773f092a41770f953872]{
 -- Page 394, Offset 20670.
 -- 隠れていた異形の死者。―――そういう事もある。
-// Ocurrir
 Un Muerto grotesco acechando a la espera.%{n}
                     ―――Algo así puede pasar.
 }
 [sha:9d1ea5e2336708fc60c57dcf6a1352d28ada8bc6]{
 -- Page 394, Offset 20671.
 -- 隠していた外皮の硬さ。―――そういう事もある。
-// No se si dejarlo igual.Darse
 La inesperada dureza de su piel.%{n}
                     ―――Algo así puede pasar.
 }
 [sha:5e09e57f1f355bc8f9b376c454150a1c469d0f94]{
 -- Page 394, Offset 20672.
 -- 先ほどの死者たちとは種別の違う醜悪さ。そういう事もある。
-// Pasar
 Repugnancia incomparable a los Muertos de antes.%{n}
                     ―――Algo así puede pasar.
 }
@@ -711,12 +687,12 @@ Lo suficientemente engreído como para pensar que puede matar a Arcueid,
 [sha:fd914602ac184b51872a602bd12cc8396d7587e8]{
 -- Page 395, Offset 20676.
 -- 馬鹿な。
-Eso es estúpido.
+Qué estupidez.
 }
 [sha:242e79c3ba9507d89709cc419f76f9af55c2b494]{
 -- Page 395, Offset 20677.
 -- 馬鹿だ。
-Ella es estúpida.
+Qué idiota.
 }
 [sha:4168338a935541a677a0ecf19d4a4e5ca3006397]{
 -- Page 395, Offset 20678.
@@ -748,7 +724,7 @@ Si lo hubiera hecho, las habría reventado de la rabia.
 [sha:9110d7903f038132cd714aef390b04bbfd1eccdd]{
 -- Page 396, Offset 20682.
 -- 異形の死者がはしゃぐように飛び上がる。
-La aberración de lanza al aire, como si estuviera disfrutando.
+La aberración da brincos, como si estuviera disfrutando.
 }
 [sha:3e6d64a4b3cd234b72e62010295c4ee56f052610]{
 -- Page 396, Offset 20683.
@@ -769,7 +745,7 @@ Que te jodan.%{n}
                                   QUE TE JODAN.%{n}
 Es mía. Mi responsabilidad. Mi deber.
  Es mi culpa... si está en el suelo es porque la maté,
- y aún habiéndola matado sin otro motivo más que mi placer,
+ e incluso tras haberla matado sin más motivo que mi placer,
  me perdonó. Perdonó a una basura inhumana como yo.
  Voy a―――
 }
@@ -797,7 +773,7 @@ Corto.
 [sha:197816de79f1fef7869148be99bf007d5658bc1f]{
 -- Page 398, Offset 20690.
 -- ヤツが迫っているのか。
-¿O está viniendo ello a mi?
+¿O está viniendo a mí?
 }
 [sha:24427338c1e654db103cb84b4be2deb592d84f78]{
 -- Page 398, Offset 20691.
@@ -818,12 +794,12 @@ La bestia suelta un segundo golpe.
 [sha:0a05a6be515632108c9e16fc6346d6c9c665c4fc]{
 -- Page 399, Offset 20693.
 -- まったく問題ない。<人|オ><間|レ>では躱せないのなら、目の前で<割|わ>かれてもらうだけだ。
-No es problema para mi. Si no puedo esquivarlo, solo tendré que desgarrarlo.
+No es problema para mí. Si no puedo esquivarlo, solo tendré que desgarrarlo.
 }
 [sha:6ff94c5a0b3a04f0e6f92a4c683212948fa9048f]{
 -- Page 400, Offset 20694.
 -- 逃げる背中を追う。<赤狂|あかぐる>う死の断線。
-Persigo a la figura frente a mi.
+Persigo a la figura frente a mí.
  Un pequeño cúmulo compacto de líneas carmesí.
 }
 [sha:1f376b0f3d328f9623121ea5c985e58d109e557f]{
@@ -834,7 +810,6 @@ No tengo ni que pensar mientras secciono cada línea.
 [sha:7da690d82ed03fcc8550024d2dff8d8bed42d47a]{
 -- Page 400, Offset 20696.
 -- もっとも警戒していたヤツの左脚が“死”に瀕した。
-// Mix de tls
 La criatura hizo lo que pudo para defenderse,
  pero ahí va la pierna izquierda. Muerta.
 }
@@ -856,7 +831,6 @@ No escucho ningún grito de agonía mientras muere.
 [sha:60ae0134392c26409927d36f1f9b07c327990507]{
 -- Page 401, Offset 20700.
 -- 異形の死者は電池を抜かれた機械人形のように、あらゆる動作を停止し、死亡した。
-// Tl oficial
 La aberración simplemente colapsa en el suelo,
  como si fuera una muñeca mecánica a la que has quitado las baterías.
 }
@@ -883,13 +857,11 @@ Los alrededores están repletos de trozos de carne podrida.
 [sha:17456ef7aed972b72ed50a1225f56c772c92baf5]{
 -- Page 403, Offset 20705.
 -- 俺が仕留めた死者は、既に灰になっている。
-// Tl oficial
 La cosa que acabo de matar se ha desvanecido, convertida en ceniza.
 }
 [sha:59c47934b452911c5471a70ac0a43c7279255762]{
 -- Page 403, Offset 20706.
 -- アルクェイドが仕留めた死者は何の変化もないところを見ると、やはりあの異形は特別だったのか。
-// Mix de tls
 Considerando que los cuerpos de los Muertos que mató Arcueid aún permanecen,
  parece que esa cosa grotesca era un caso especial.
 }
@@ -906,7 +878,7 @@ Pero, lo he matado.
 [sha:23a73e93097d29a3a3052a499743d02057a3546a]{
 -- Page 404, Offset 20709.
 -- 異形であれ躊躇いもせずに、息の根を止めた。
-Aun con apariencia surrealista,
+Aún con esa apariencia surrealista,
  le quité la vida sin dudarlo.
 }
 [sha:d3bfaea03d42d72d23a0f0e2eda0f020d09d4995]{
@@ -1014,7 +986,7 @@ Su espalda tiembla mucho.
 [sha:c7f70ea4fbd7d7d96d8be56a9f35b4075ec79e91]{
 -- Page 410, Offset 20729.
 -- ……酷い。体中に浮かんだ汗といい尋常じゃない。
-Es horrible... no puede ser bueno si suda de esta manera por cada poro.
+Es horrible... que sude de esta manera por cada poro no puede ser bueno.
 }
 [sha:6ba84d98aaa7002805851570220524dcd038813a]{
 -- Page 410, Offset 20730.
@@ -1025,7 +997,7 @@ Pensando que igual ha sufrido una herida en el pecho,
 [sha:da6e98eb3ec2caeafb34d4e84aa41ea81724421f]{
 -- Page 411, Offset 20731.
 -- 「ぷっ―――ふふ、あはははは！　あははは！」
-"¡%{i}Pfft――fufu, ajajajajaja%{/i}! %{i}Ajajaja%{/i}!"
+"¡%{i}Pfft――fufu, ajajajajaja%{/i}! ¡%{i}Ajajaja%{/i}!"
 }
 [sha:7939ca42b79e07bdcf4c205987ff44dce78d2ff9]{
 -- Page 411, Offset 20732.
@@ -1035,7 +1007,6 @@ Pensando que igual ha sufrido una herida en el pecho,
 [sha:f1ac9ccb9e9c5c1ab46e8640d2c2c5f3e47bb386]{
 -- Page 412, Offset 20733.
 -- 「もう、志貴ったらケダモノー！
-// Hmm no se si aquí se juega con el doble sentido en el japonés, me da la sensación de que si
 "¡Qué animal eres!
 }
 [sha:14c18bd7703a0e5970752f3196d4b49e29690762]{
@@ -1072,7 +1043,6 @@ Se estaba intentando aguantar la risa.
 [sha:a19bd6fba3fb9339bb16974ac9ab483d9123ed14]{
 -- Page 414, Offset 20740.
 -- というかそうだよな、心配した俺が馬鹿だった！　頑丈なおまえが、あれぐらいで痛がるはずないもんな！」
-// En la tl oficial dice dense, otra vez doble significado, se transalada de cierta manera al español
 %{i}Ugh%{/i}, ¡soy un idiota por preocuparme! ¡No hay forma de que alguien tan densa se haga tanto daño!"
 }
 [sha:fc3dc8e89cfe08273a185ecb532476663419b444]{
@@ -1086,10 +1056,10 @@ Se estaba intentando aguantar la risa.
 ¡Un poco más y
  el corte que cierta persona me hizo en el estómago podría haberse abierto %{i}de nuevo%{/i}!"
 }
-[sha:b6d6fa6f065e31a67653c484f47f0008b26fd2e1]{
+[offset:20743]{
 -- Page 415, Offset 20743.
 -- 「う、ぐ……」
-"%{i}Ugh%{/i}..."
+"%{i}Ugh, gh%{/i}..."
 }
 [sha:713c596c87a7cf2848c0328ec85fd391756e426c]{
 -- Page 415, Offset 20744.
@@ -1099,7 +1069,6 @@ Eso es jugar sucio.
 [sha:800a1aa59fd13c3e0a39fe873fca6cbd93b97386]{
 -- Page 415, Offset 20745.
 -- 何を言っても俺の責任になるので、全面的に黙るしかなくなる。
-// D O M A D O
 No importa lo que diga, tengo la culpa, así que acepto mi derrota en silencio.
 }
 [sha:3bffd14261f336d3935aa338441ce9807807e87f]{
@@ -1117,10 +1086,10 @@ Sin tener en cuenta la risa de antes, me alegro de que estés bien."
 -- ふん、と嫌味まじりに切り返す。
 Respondo con una pizca de sarcasmo.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:20749]{
 -- Page 417, Offset 20749.
 -- ……と。
-Sin embargo...
+Y entonces...
 }
 [sha:3aff1e458ffb4af774ae349c17b42dd6070917fe]{
 -- Page 417, Offset 20750.
@@ -1179,7 +1148,7 @@ Sigo sin mirar a Arcueid.
 Intento esconder con las manos mis mejillas rojas,
  pero eso solo hace que las sienta aún más calientes.
 }
-[sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
+[offset:20761]{
 -- Page 421, Offset 20761.
 -- 「――――――っ」
 "―――Ah."
@@ -1187,8 +1156,8 @@ Intento esconder con las manos mis mejillas rojas,
 [sha:447ff2cf5a293d863d02727e335b5dbe4575f915]{
 -- Page 421, Offset 20762.
 -- だからなんだその顔。この陰惨な状況で殺人スキルを褒めてくるとかなに考えてるんだ。ＴＰＯわきまえてほしい。魔性の女にもほどがある。ってかそんなんで嬉しくなっている俺の方がおかしいのか。なら落ち着こう。落ち着いて、この不意打ちじみた熱をやり過ごそう。
-Y además, ¿que es esa cara?
- ¿En que anda pensando cuando se pone a elogiar mis habilidades como asesino en una situación como esta?
+Y además, ¿qué es esa cara?
+ ¿En qué anda pensando cuando se pone a elogiar mis habilidades como asesino en una situación como esta?
  Desearía que fuera un poco más consciente de lo que dice y cuando lo dice.
  Lleva el concepto de 'femme fatale' a otro nivel.
  ¿Soy yo el raro por estar feliz?
@@ -1251,7 +1220,7 @@ No hay hombre vivo que pueda resistirse a sus encantos cuando dice tales cosas c
 [sha:2bc1204fab139893049dddefaa6c35a44a44a272]{
 -- Page 424, Offset 20773.
 -- こんなにも頭が痛いのも、手足が重いのも、ぜんぶアルクェイドの―――
-Este sentimiento, este dolor de cabeza, el peso de mis extremidades, eso todo por Arcueid―――
+Este sentimiento, este dolor de cabeza, el peso de mis extremidades, es todo por culpa de Arcueid―――
 }
 [sha:ac3dbcb7d3447f8e26b088ab049930e9c68ab474]{
 -- Page 425, Offset 20774.
@@ -1308,7 +1277,6 @@ Siento como me agarra del brazo.
 [sha:89bdee37ec67c0f6cd79cf2d8968511e5f729814]{
 -- Page 428, Offset 20784.
 -- 俺はアルクェイドの言葉に漠然と頷いて、死肉にまみれた地下ガレージを後にした。
-// Mix de tls
 Asiento embobado,
  y dejamos atrás el garaje junto al mar de cuerpos.
 }

@@ -1,28 +1,27 @@
 [sha:4b4057bc0a8f2a6f42ea1583b94ef75e0baadf35]{
 -- Page 1, Offset 19663.
 -- その頃、屋敷は大きな遊び場だった。
-En aquel entonces, la mansión era un patio de juegos gigante.
+-- TRANSLATION HERE
 }
 [sha:5d57cc8e0d0dda0ac7d98899b142b37016eae93c]{
 -- Page 1, Offset 19664.
 -- 深い海のような森。
-El bosque, un océano profundo.
+-- TRANSLATION HERE
 }
 [sha:f55a1c2c9a724a5fa09f696c927d1904ca96d08c]{
 -- Page 1, Offset 19665.
 -- 高い城のような家。
-La casa, un castillo enorme.
+-- TRANSLATION HERE
 }
 [sha:015fd6302852760ddebc1edc4b94730fc2d28036]{
 -- Page 1, Offset 19666. Mods: @n.
 -- 何日かかっても探険しきれない箱庭で、
-// Tl oficial
 Cada día una nueva aventura ocurría en nuestro reino. Había mucho que explorar.
 }
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 1, Offset 19667.
 -- ボクたちは遊びまわった。
-Lo pasábamos en grande.
+-- TRANSLATION HERE
 }
 [sha:1f302bd314cdf7f04d0d16389e124a1904292f3f]{
 -- Page 2, Offset 19668.
@@ -37,7 +36,7 @@ No éramos conscientes de que un día creceríamos.
 [sha:368ada945d0216fd5a3e9aa8a8cfc56c4f704689]{
 -- Page 2, Offset 19670. Mods: @n.
 -- 朝と夜はおなじように繰り返されるものなんだって、
-El hecho de que seguiríamos así, día tras día
+El hecho de que seguiríamos así, día tras día,
 }
 [sha:f7116ca8dd32bed5efa098f1695141597a290fb6]{
 -- Page 2, Offset 19671.
@@ -48,7 +47,6 @@ El hecho de que seguiríamos así, día tras día
 [sha:2424014b127b3a6d2d237cfcd5a984757570bc6c]{
 -- Page 2, Offset 19672.
 -- それは子犬のようにはしゃぎまわった幼年期。
-// Tl oficial
 Solo éramos niños, jugando y gritando como cachorros.
 }
 [sha:30acfdf0d20fc92bc40f16698d6fd753b772ace9]{
@@ -89,7 +87,7 @@ La casa, un castillo enorme.
 [sha:2f2d6528a78fd7f7ecfb48d9d6cc4b86afcc17d0]{
 -- Page 4, Offset 19680. Mods: @n.
 -- 何日かかっても探険しきれない閉じた世界で、
-Cada día una nueva aventura ocurría en nuestro mundo cerrado. Había mucho que explorar.
+Cada día una nueva aventura ocurría en nuestro mundo aislado. Había mucho que explorar.
 }
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 4, Offset 19681.
@@ -106,17 +104,17 @@ Me despierto lentamente.
 -- 朝の光が、張り付いていた眠りを剥がしていく。
 La luz matutina se lleva mi somnolencia.
 }
-[sha:e0846ca3c8b6f9bfb2d7b567c500369928acf9cc]{
+[offset:19684]{
 -- Page 5, Offset 19684.
 -- その中で。
-Pero entre ellas―――
+Mientras estoy embobado mi mundo...
 }
 [sha:31b512db4d38809dc58e12b13272470586dac5f6]{
 -- Page 5, Offset 19685.
 -- なにか、懐かしい夢をみた気がしていた。
 Tengo la sensación de haber tenido un sueño nostálgico.
 }
-[sha:34209719ca290c596bcd97cad96fca8c9353cf33]{
+[offset:19686]{
 -- Page 6, Offset 19686.
 -- 「っ……」
 "%{i}Ngh%{/i}..."
@@ -124,12 +122,12 @@ Tengo la sensación de haber tenido un sueño nostálgico.
 [sha:f8e2f2a3ff179d49b5aa0825373f85f0acdd5e1d]{
 -- Page 6, Offset 19687.
 -- 目を覚ました途端、<厭|いや>なモノが視界に入ってくる。
-Algo desagradable invade mi campo visual tan pronto como me levanto.
+Algo desagradable invade mi campo visual en cuanto me levanto.
 }
 [sha:b87f91d0c5637288f4f25b09e6610eb3c53b65dd]{
 -- Page 7, Offset 19688.
 -- こめかみの肉と骨をえぐるような、鋭い頭痛。
-Siento como si mi cabeza se fuera a partir en dos por las sienes.
+Siento como si mi cabeza se fuera a partir en dos por la sien.
 }
 [sha:c44e8c5d0957e1df3fad155de83084a2cd3cf6b0]{
 -- Page 7, Offset 19689.
@@ -168,7 +166,6 @@ No siento mis extremidades.
 [sha:ebad7b2598cea452dd06bbeab9786b621d2b37f6]{
 -- Page 9, Offset 19695.
 -- 目蓋を閉じる事もできず、ただ時間を食い潰していく。
-// Mix de tls
 Sufro en silencio, incapaz de cerrar los ojos.
 }
 [sha:24fd01b19ede12234e7a9dba551e23822ff475b1]{
@@ -189,12 +186,12 @@ Respiro hondo, y finalmente consigo ponerme las gafas y deshacerme de esta vista
 [sha:36655b729429f21673e7a6174126906a63a518b2]{
 -- Page 11, Offset 19699.
 -- 「は―――――あ」
-"%{i}Hah――hah%{/i}."
+"%{i}Ha――ah%{/i}."
 }
 [sha:1de26a89109ee4af8c49a9235bd9f056ecfcf24c]{
 -- Page 11, Offset 19700.
 -- 息を吐いて、ようやくベッドから体を起こす。
-Exhalo y me incorporo al fin.
+Exhalo y finalmente me incorporo.
 }
 [sha:f8087b4253d6e9b2d979b7d14622b103ba67ad0c]{
 -- Page 12, Offset 19701.
@@ -240,10 +237,10 @@ Las líneas de los edificios son difíciles de ver.
 -- こめかみに残る頭痛の余韻は、それこそ銃創のようだ。
 Los resquicios del dolor de cabeza se sienten como un tiro en la sien.
 }
-[sha:a2eedf0c447a3d7bcba5e7d8d694c9afd89a60a3]{
+[offset:19709]{
 -- Page 14, Offset 19709.
 -- 先生は言った。
-Sensei una vez me dijo algo.
+Hace mucho, Sensei me advirtió.
 }
 [sha:0b65cff7acec41c66bd96b181fd5a4633e9f47f7]{
 -- Page 14, Offset 19710.
@@ -273,14 +270,14 @@ Este es el precio a pagar como humano por involucrarme con vampiros.
 [sha:a75fa4f7d32d4f1a8155dbfbe98eb535b025a6ed]{
 -- Page 15, Offset 19715.
 -- 吸血鬼と対峙する時に危険を冒すのではなく、常から危険を冒していく。
-Los riesgos que tomo no se limitan a cuando me enfrento a un vampiro;
- Me estoy exponiendo al peligro en cada momento del día.
+Los riesgos que tomo no solo se limitan a cuando me enfrento a un vampiro;
+ Me estoy exponiendo al peligro cada momento del día.
 }
 [sha:58b6ebfd8334ad49cc744282cf116969f613e8c8]{
 -- Page 16, Offset 19716.
 -- ……今さら確認するまでもない。それを踏まえた上で、俺はアルクェイドに協力したいと思ったんだ。
 Ahora no voy a empezar a dudar de mi mismo.
- Ya sabía en lo que me metía cuando decidí ayudar a Arcueid.
+ Sabía en lo que me metía cuando decidí ayudar a Arcueid.
 }
 [sha:024d2f31925815f97bb6c35f71838ee9301f4d7e]{
 -- Page 17, Offset 19717.
@@ -290,7 +287,7 @@ Ahora no voy a empezar a dudar de mi mismo.
 [sha:89142e6290fb7015599ce85467186276026f452f]{
 -- Page 18, Offset 19718.
 -- だいたい、見て見ぬふりでも渦中にある事は変わらない。
-Además, aunque me encoja en una esquina,
+Además, aunque haga oídos sordos,
  no cambiará el hecho de que estoy en medio de todo esto.
 }
 [sha:aad44805e5e7bfd2c86255d9cff234c259bb2412]{
@@ -301,7 +298,7 @@ Liberaremos esta ciudad de los vampiros.
 [sha:6dba5b0238e3bce7ae44ac35298d304995d23863]{
 -- Page 18, Offset 19720.
 -- 秋葉や親しい人たちの安全のため、仕方なくアルクェイドに手を貸しているにすぎない。
-Si quiero proteger a Akiha y a aquellos cercanos a mi, no tengo más remedio que ayudar a Arcueid.
+Si quiero proteger a Akiha y a aquellos cercanos a mí, no tengo más remedio que ayudar a Arcueid.
 }
 [sha:b1c0d017df5cb11a5a3ed130c4c5da65df5c4d6c]{
 -- Page 19, Offset 19721.
@@ -362,5 +359,5 @@ Me da curiosidad el que, pero no es de mi incumbencia.
 -- Page 22, Offset 19732.
 -- 今朝は時間もないし、手早く制服に着替えて一階に下りよう。
 Además, esta mañana no tengo tiempo que perder.
- Mejor me cambio rápidamente al uniforme y bajo a la primera planta.
+ Mejor me pongo rápido el uniforme y bajo a la primera planta.
 }

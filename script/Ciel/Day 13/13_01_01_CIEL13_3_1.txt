@@ -51,7 +51,7 @@
 [sha:90f257d1a22e39e7787b4f890dd57af1ac11bd1f]{
 -- Page 254, Offset 33908.
 -- 「っ――――！」
-"¡%{i}Kh%{/i}―――!"
+-- TRANSLATION HERE
 }
 [sha:519e7ac0cf50bb26ebf7150238d0ff24f1c3f6ef]{
 -- Page 254, Offset 33909.
@@ -648,7 +648,7 @@
 -- 「眼鏡、外さないんですか」
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:34028]{
 -- Page 288, Offset 34028.
 -- 「―――え？」
 "―――¿Huh?"
@@ -683,10 +683,10 @@
 -- 「―――――――」
 "―――――――"
 }
-[sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
+[offset:34035]{
 -- Page 290, Offset 34035.
 -- それは。
-Eso es...
+-- TRANSLATION HERE
 }
 [sha:097d50d7c5bc5b227a612a00f3692e65d018a37f]{
 -- Page 290, Offset 34036.
@@ -711,7 +711,7 @@ Eso es...
 [sha:f6f550d783c52437ba509af765eac4406a163111]{
 -- Page 292, Offset 34040.
 -- ―――来る。
-―――Aquí viene.
+-- TRANSLATION HERE
 }
 [sha:16dc933471bdb43c13005809a0bf1822f13a4411]{
 -- Page 292, Offset 34041.
@@ -851,7 +851,7 @@ Ya casi estoy.
 [sha:5e39ac1c787b40b37a29ae23c2484b704d915b72]{
 -- Page 302, Offset 34068.
 -- 「な――――」
-"Qu―――"
+-- TRANSLATION HERE
 }
 [sha:9085d6323129b3e2d1f5a422bceb2c1bf813eb87]{
 -- Page 302, Offset 34069.
@@ -936,7 +936,7 @@ Ya casi estoy.
 [sha:ff4ef17efca66185fab8a44f9d1bcd9ad11a3af8]{
 -- Page 306, Offset 34085.
 -- 「や、め―――」
-"Deten...te―――"
+-- TRANSLATION HERE
 }
 [sha:8237bbc7031506cb6917dec017fa7882fffca091]{
 -- Page 306, Offset 34086.

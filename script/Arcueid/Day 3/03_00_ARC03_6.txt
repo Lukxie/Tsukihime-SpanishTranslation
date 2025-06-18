@@ -58,7 +58,7 @@ No estoy seguro de cómo he llegado aquí, pero estoy tumbado en mi habitación.
 -- 枕元に置かれている眼鏡をかける。
 Tomo las gafas de la mesilla de noche y me las pongo.
 }
-[sha:6c65a761377b18958ab2281d4658e489918b70c9]{
+[offset:4754]{
 -- Page 275, Offset 4754.
 -- 「おはようございます、志貴さま」
 "Buenas noches, Shiki-sama."
@@ -86,7 +86,7 @@ Hisui me hace una pregunta extraña.
 [sha:f154fa726e9d9592325a5e82e5530cd32111e9e4]{
 -- Page 276, Offset 4759.
 -- お体の具合って、別に悪いところなんて一つもな―――
-No hay nada particularmente mal con mi cuerpo―――
+No hay nada mal con mi cuerpo en particular―――
 }
 [sha:661e97293dfa2e20ef4f89f4a61b634a47cc940c]{
 -- Page 277, Offset 4760.
@@ -96,12 +96,12 @@ No hay nada particularmente mal con mi cuerpo―――
 [sha:319bb7a767d7474c7081fc1dc08e4d581c4e026f]{
 -- Page 277, Offset 4761.
 -- そう、なんで。
-Si... ¿por qué?
+Sí... ¿por qué?
 }
 [sha:0ebf3d7d85a94a6154755b01d957b321b0a30ee9]{
 -- Page 277, Offset 4762.
 -- 自分は、こんなところで眠っているんだ―――？
-¿Por qué estoy aquí de vuelta, durmiendo en mi propia cama?
+¿Por qué estoy de vuelta, aquí, durmiendo en mi cama?
 }
 [sha:c337ca4ee7ff6930288fc0590233ff238f1edade]{
 -- Page 278, Offset 4763.
@@ -116,7 +116,7 @@ Cierro la boca a cal y canto justo antes de decir que la había matado.
 [sha:e739355ac2b02c58e2932b1d103210b2962e54e8]{
 -- Page 278, Offset 4765.
 -- その言葉だけは、口にしてはいけないと理性が歯止めをかけてくる。
-Esa es una palabra que mi sentido de la razón no me deja decir.
+Esa es una palabra que no me deja decir mi sentido de la razón.
 }
 [sha:59a77c6960ba75cd80211ce97276a05e9720f517]{
 -- Page 279, Offset 4766.
@@ -137,19 +137,19 @@ Hisui frunce el ceño imperceptiblemente.
 -- Page 280, Offset 4769.
 -- 「学校の方から志貴さまは早退した、というお電話がありました。ですが夕方になっても帰ってこられず、姉が探しに行ったところ、公園でお休みになっていたそうです」
 "Recibimos una llamada de la escuela diciendo que había salido antes.
- Sin embargo, cuando llegó la tarde y no había vuelto a casa, mi hermana fue a buscarte.
- Aparentemente, te encontró descansando en el parque."
+ Sin embargo, cuando llegó la tarde y no había vuelto a casa, mi hermana fue a buscarle.
+ Aparentemente, le encontró descansando en el parque."
 }
 [sha:f95613d46f48f1442beaab99aa0e7a71d3a28129]{
 -- Page 280, Offset 4770.
 -- 「公園って―――近くの公園？」
-"En el parque... ¿te refieres el que está por aquí cerca?"
+"En el parque... ¿te refieres al que está por aquí cerca?"
 }
 [sha:5845398749ee9544235a829278ab135645cb9e66]{
 -- Page 281, Offset 4771.
 -- 「はい。志貴さまはベンチで休まれており、その後、ご自分の足で屋敷までお帰りになられました」
-"Sí. Te habías parado un momento a descansar en el banco,
- y después volviste a la mansión por tu propio pie."
+"Sí. Se había parado un momento a descansar en el banco,
+ y después volvió a la mansión por tu propio pie."
 }
 [sha:db01fc63755a001eb7cf7f5e7dcfa607661349fa]{
 -- Page 281, Offset 4772.
@@ -159,13 +159,13 @@ Hisui frunce el ceño imperceptiblemente.
 [sha:555128ebdf88a94f167e43f3af40744d8b1969c0]{
 -- Page 282, Offset 4773.
 -- 「志貴さまの記憶が定かではないのは、そうおかしな事ではないと思います。
-"No creo que sea particularmente raro que sus memorias esten borrosas.
+"No creo que sea particularmente raro que sus memorias estén borrosas.
 }
 [sha:61e796653c3be6f44eb99ed7b263fdc6f3c7175c]{
 -- Page 282, Offset 4774.
 -- 貧血による衰弱で、志貴さまは意識が混濁していたようなので」
 Parece que se sentía débil tras el episodio de anemia,
- así que en ese momento su consciencia seguramente estaba nublada."
+ por lo que en ese momento su consciencia seguramente estuviera nublada."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 283, Offset 4775.
@@ -180,7 +180,7 @@ De verdad no recuerdo nada de eso...
 [sha:2fc0cae5abe0231a811e174bacd1376c9ee336b0]{
 -- Page 283, Offset 4777.
 -- けど、翡翠の言葉には疑う余地がない。
-Aun así, no tengo razón para dudar de lo que me dice Hisui.
+Aun así, no tengo razón para dudar de lo que Hisui me dice.
 }
 [sha:be3053adcf2c307bb89aed153dd3e263f9936747]{
 -- Page 284, Offset 4778.
@@ -220,7 +220,7 @@ He matado a alguien――espera, un momento.
 -- 「翡翠。俺、どんな格好をしてたんだ？」
 "Hisui. ¿Como me veía?"
 }
-[sha:ad108496c15f148ab18c2fe886302b0b07d145c3]{
+[offset:4785]{
 -- Page 287, Offset 4785.
 -- 「―――は？」
 "―――¿Perdón?"
@@ -243,7 +243,7 @@ Estaban calados y pegajosos de ella.
 [sha:6eae2e69b2ba2d1344968d6d8f46f163b33f48ae]{
 -- Page 288, Offset 4789.
 -- 「洗濯って、あんな血だらけの服を……!?」
-"¡¿Me estás diciendo que lavaste esa ropa calada de sangre?!
+"¡¿Me estás diciendo que lavaste esa ropa calada de sangre?!"
 }
 [sha:0cf81b15aaa616099e66d9494949c196e54b8307]{
 -- Page 289, Offset 4790.
@@ -265,7 +265,7 @@ Increíble...
 [sha:be4e4561418b92167ab75439fda4bc6341799baa]{
 -- Page 290, Offset 4793.
 -- 血の海にひざまずいて、足も腕も真っ赤になっていたっていうのに……？
-¿Incluso tras arrodillarme en ese mar de sangre con mis brazos y piernas de un rojo claro?
+¿Incluso tras arrodillarme en ese mar de sangre y tener brazos y piernas de rojo claro?
 }
 [sha:7284f5611731388e4990b253052da5925cd2214f]{
 -- Page 291, Offset 4794.
@@ -275,7 +275,7 @@ Increíble...
 [sha:a0f06abfc1ddee87352410bbf3acb0d500075507]{
 -- Page 291, Offset 4795.
 -- 先ほどまで<魘|うな>されていたようですし、今もお顔の色が優れません」
-Antes parecía que estaba teniendo una pesadilla, y su cara sigue un poco pálida."
+Antes parecía estar teniendo una pesadilla, y su cara sigue un poco pálida."
 }
 [sha:6bc704ecf7c9f669e2d27173c294fb589998e96f]{
 -- Page 291, Offset 4796.
@@ -310,7 +310,7 @@ Hisui está mirando mi cara intensamente.
 [sha:0548e5586f6ab8d40665db6b8fd9a0fece650116]{
 -- Page 292, Offset 4802.
 -- 「いや―――そうだよな。あんなのは、悪いユメだ」
-"Sí... tiene razón.
+"Sí... tienes razón.
  Todo debe haber sido una pesadilla."
 }
 [sha:de5220105a5f59b6220a2cbd984cb446f193b772]{
@@ -331,7 +331,7 @@ Todo ha sido una pesadilla.
 [sha:317fca2529581594423d05ed8b4e96d0b657ec4f]{
 -- Page 293, Offset 4806.
 -- 意味もなく理由もなく、幼い頃に先生と交わした約束を破って、俺があんなコトをするわけがなかったんだ。
-No hay forma de que rompa la promesa que hice a Sensei de pequeño sin motivo alguno.
+No hay forma de que rompa la promesa que hice de pequeño a Sensei sin motivo alguno.
  Especialmente cuando no tenía razón para ello.
 }
 [sha:4f95cb3ec84c3ddcc332aee18692e25dc21f4262]{
@@ -367,18 +367,18 @@ Esta noche me iré a dormir sin comer. Más importante, Hisui―――"
 [sha:929fdcd11117df47f79eb66f0e414d0d40627200]{
 -- Page 296, Offset 4813.
 -- 「はい、なんでしょうか志貴さま」
-"Sí, ¿qué es, Shiki-sama?"
+"Sí, ¿de qué se trata, Shiki-sama?"
 }
 [sha:5bee9f06c292a5f455a5e727133d2c747b23b03c]{
 -- Page 296, Offset 4814.
 -- 「その、さ。俺、夕方に帰ってきたらしいけど、秋葉はなんて言ってた？」
-"Um, bueno... me dijiste que volví por la tarde. ¿Ha dicho algo Akiha?"
+"Um, bueno... has dicho que he vuelto por la tarde. ¿Akiha ha dicho algo?"
 }
 [sha:3bc619f6056a44fffd06d3346534f076cb1240bb]{
 -- Page 297, Offset 4815.
 -- 「秋葉さまなら、その時間はお帰りになられてはおりませんでした。２時間ほど前にお帰りになられたおり、志貴さまのご容態をお伝えしておきましたが」
 "Akiha-sama aún no había vuelto.
- Vino a casa hace unas dos horas, y entonces fue cuando la informé de tu estado."
+ Vino a casa hace unas dos horas, y fue entonces cuando la informé de tu estado."
 }
 [sha:94e4fc3ee73177b35124ad049a211eec3b4e4bf8]{
 -- Page 298, Offset 4816.
@@ -393,13 +393,13 @@ Su expresión parece decir '¿Qué pasa con eso?'.
 [sha:a04da436beaa0a49753eef026f84d19016f96ff9]{
 -- Page 299, Offset 4818.
 -- 帰ってきてまだ三日目なのに迷惑をかけて、呆れてるだろうなって」
-Apenas he vuelto hace tres días y ya la estoy dando problemas...
+He vuelto hace apenas tres días y ya la estoy dando problemas...
  Seguro que ya está harta de mí."
 }
 [sha:02a3bfab72571fc79b1baae4ff735e2b88e748d5]{
 -- Page 300, Offset 4819.
 -- 「……たしかに秋葉さまはご気分を害されておりましたが、呆れているという訳ではなさそうでした」
-"Aunque es cierto que el humor de Akiha-sama ha empeorado tras escuchar las noticias, no parece que este harta de usted."
+"Aunque es cierto que el humor de Akiha-sama ha empeorado tras escuchar las noticias, no parece que esté harta de usted."
 }
 [sha:6883bf4d3253a5ad00b8db0affacb7a99e1afe8c]{
 -- Page 300, Offset 4820.
@@ -424,7 +424,7 @@ Si necesita algo más, por favor hágamelo saber."
 [sha:2f578e606224efc253687ff8b445d298864e94fd]{
 -- Page 302, Offset 4824.
 -- 「はい、なんでしょう志貴さま」
-"Sí, ¿qué pasa, Shiki-sama?"
+"Sí, ¿de qué trata, Shiki-sama?"
 }
 [sha:5daa31473e21f0c734a0f5309af4c895897d79f2]{
 -- Page 302, Offset 4825.
@@ -460,7 +460,7 @@ Debe haber sido un episodio severo de anemia...
 [sha:b2b4b1660fa9cc661f1eb156a5fc1e5f42826839]{
 -- Page 304, Offset 4831.
 -- 琥珀さんにもお礼を伝えておいてくれ」
-Por favor dile a Kohaku-san que gracias."
+Por favor dale las gracias a Kohaku-san de mi parte."
 }
 [sha:a304935f37bb6cbf12ac2a104030ce757ab114e3]{
 -- Page 304, Offset 4832.
@@ -470,7 +470,7 @@ Por favor dile a Kohaku-san que gracias."
 [sha:ef3a77ba1327aa6bc7565bce03fa95dbc1d5d190]{
 -- Page 305, Offset 4833.
 -- 「―――ああ。夢だったんだ」
-"―――%{i}Fiu%{/i}. Así que todo era un sueño."
+"―――%{i}Haa%{/i}. Osea que todo era un sueño."
 }
 [sha:55f06f96bb83121616bc5578822bb7fffb8abb81]{
 -- Page 305, Offset 4834.
@@ -480,12 +480,12 @@ Las palabras que murmuré estaban completamente vacías.
 [sha:e6ba44565d480dd28728192928f1f74b843f2972]{
 -- Page 305, Offset 4835.
 -- まったく実感が湧いてこない。
-Simplemente no puedo convencerme de que son ciertas.
+Simplemente no puedo me puedo convencer de que son ciertas.
 }
 [sha:c93b75e34119919bd7949ef5b6cf775d28959e33]{
 -- Page 305, Offset 4836.
 -- その夢だと思う出来事の実感も、
-No puedo creerme lo que ocurrió en ese sueño―――
+No me puedo creer lo que ocurrió en ese sueño―――
 }
 [sha:76c4d4b306874c28a7a30950e4595b54e31cb2ff]{
 -- Page 305, Offset 4837.
@@ -505,7 +505,7 @@ Mi cabeza aún se siente un poco pesada.
 [sha:68b4290f670337bf7c7b33a13e55081f314a5857]{
 -- Page 306, Offset 4840.
 -- ふと自分の胸を見る。
-Casualmente miro a mi pecho.
+Casualmente me miro el pecho.
 }
 [sha:62d7fa1b77143baa15f725d5e1d7ac25cc0dc191]{
 -- Page 306, Offset 4841.
@@ -541,18 +541,18 @@ Todo fue un sueño...
 -- Page 307, Offset 4847.
 -- 自分自身を誤魔化すよう、そう繰り返して目蓋を閉じる。
 Cierro los ojos,
- aún repitiendo esas palabras una y otra vez en mi cabeza,
- como si estuviera engañandome para creerlas.
+ sigo repitiendo esas palabras una y otra vez en mi cabeza,
+ como si me estuviera engañando para creerlas.
 }
 [sha:cf0014337ce74a53e9789e848a0b809b4fd00073]{
 -- Page 308, Offset 4848.
 -- ……肺に取りこんでしまった香気をかきだすように、長く長く息を吐く。
-Exhalo; inspiro lentamente, como si estuviera intentando limpiar mis pulmones de ese aroma.
+Exhalo; inspiro lentamente, como si intentara limpiar ese aroma de mis pulmones.
 }
 [sha:5b6a5e7d4d565db8fa52ce3ce8ab560fd96a37a6]{
 -- Page 308, Offset 4849.
 -- 意識を切断する暗い眠りに身を委ねる。
-Rindo mi consciencia a la oscuridad del sueño.
+Cedo mi consciencia a la oscuridad del sueño.
 }
 [sha:039925f36563f89b26efaa850a09f852efc53690]{
 -- Page 309, Offset 4850.

@@ -195,7 +195,7 @@ Ambas me miran, pero las caras que ponen son como el día y la noche.
 [sha:c06d1f099d8554cdd72d9da6a97e29ac3e29f252]{
 -- Page 182, Offset 17023.
 -- ……知っている。この気持ちを知っている。
-La conozco.... conozco esta sensación.
+Conozco.... conozco esta sensación.
 }
 [sha:66740c2c2eb74f7c1ccb89d8fe6b8c647010a8af]{
 -- Page 182, Offset 17024.
@@ -222,7 +222,7 @@ De todas las cosas que podrían haber ocurrido...
 [sha:0005cb79ac13654a08816a469a3b1196aa381072]{
 -- Page 184, Offset 17028.
 -- アルクェイドは平然としていて、秋葉も同じように平然とソファーに座っている。
-Arcueid y Akiha se encuentran sentadas tranquilamente en el sofá con una compostura similar.
+Ambas se encuentran sentadas tranquilamente en el sofá con una compostura similar.
 }
 [sha:8fe34b8bc751f9df241b0a6b601fd7d905bc3fb9]{
 -- Page 184, Offset 17029.
@@ -285,8 +285,8 @@ Akiha me atraviesa con la mirada.
 -- ええい、こうなっては何を言っても無駄な気がするけど、誰も傷つかない……特に俺の平穏が脅かされない……弁明を繰り出さなければいけない。
 Vale.
  Probablemente hemos pasado el punto de no retorno,
- si quiero asegurarme que nadie sale herido...
- y, por supuesto, que mi propia paz no se vea amenazada...
+ si quiero asegurarme de que nadie salga herido...
+ y, por supuesto, de que mi propia paz no se vea amenazada...
  No tengo otra que inventarme algún tipo de explicación.
 }
 [sha:fac9223df3e7525ff58923d705a1db8fffa8ab04]{
@@ -295,7 +295,7 @@ Vale.
 Me la tengo que inventar, pero antes――
  ¿Bajo que pretexto este vampiro,
  que sonríe alegremente como si no la incumbiera,
- ha conseguido este vampiro entrar a la mansión?
+ ha conseguido entrar a la mansión?
 }
 [sha:3f6e608e01b71743e31fe91b31e7c06799e2a6d5]{
 -- Page 192, Offset 17041.
@@ -305,7 +305,7 @@ Me cuesta creer que Akiha invitase a un desconocido a la sala de estar.
 [sha:ec515bd16b86ee4cb415992d39fdcdfbb6ea12f6]{
 -- Page 193, Offset 17042.
 -- 「……その前に、いいかな。
-"Antes de eso, ¿puedo preguntar algo?"
+"Antes de eso, ¿puedo preguntar algo?
 }
 [sha:18a5fa9e56a14442d3cc0e208d11b8a4ad1d0baf]{
 -- Page 193, Offset 17043.
@@ -330,7 +330,7 @@ Arcueid inclina la cabeza, perpleja.
 [sha:c073262dd76631e05a61448a44515c18da2bc7eb]{
 -- Page 194, Offset 17047.
 -- この方はそう自称しましたが」
-Así se ha presentado.
+Así se ha presentado."
 }
 [sha:3fafd618cc53f6050456ccbc2b12def28e67f9c1]{
 -- Page 194, Offset 17048.
@@ -345,7 +345,7 @@ Así se ha presentado.
 [sha:b3eb039c5e7de1541f2cd6cb6e502139963d58f4]{
 -- Page 195, Offset 17050.
 -- 兄さんのご友人でしたら、無下にお帰りいただくわけにはいきませんし」
-Si es tu amiga, estaría feo darla puerta, ¿no?
+Si es tu amiga, estaría feo darla puerta, ¿no?"
 }
 [sha:5d4bc268068d0c0b40663538bfdd63ed22c909c3]{
 -- Page 195, Offset 17051.
@@ -374,10 +374,10 @@ Quizá se ha cansado de que la ignoren,
 "Y pensar que solo soy eso para ti, tras todas las barbaridades que me hiciste.
  Aún me duele el cuerpo, sabes."
 }
-[sha:a34636cdd84a4aaa20b1a35f8681309c6f62dc33]{
+[offset:17056]{
 -- Page 197, Offset 17056.
 -- 「な――――――」
-"Qué―――"
+"Qu―――"
 }
 [sha:0a29da2404b3a16ca99774fa333c566ac333d2eb]{
 -- Page 198, Offset 17057.
@@ -442,7 +442,7 @@ Fuerzo una risa, mientras corro hacia Arcueid,
 [sha:fb6dcf27b7a00df01893a510290083c03ba3084e]{
 -- Page 202, Offset 17068. Glued.
 -- 強引に腕を掴む。
-y la agarro forzosamente del brazo.
+ y la agarro forzosamente del brazo.
 }
 [sha:24240ed8c368d8c7a3b616e40529a5639c993d90]{
 -- Page 203, Offset 17069.
@@ -470,7 +470,7 @@ Hisui me espera en el vestíbulo.
 -- 翡翠はアルクェイドを引っ張って走る俺を、どのような心境で見ているのか。考えると胃に穴が空きそうなので、今は考えないようにしよう。
 Me pregunto qué estará pensando viéndome como arrastro a Arcueid.
  Pensar en ello hace que me duela la tripa,
- así que me olvidaré de ello por ahora.
+ así que por ahora me olvidaré de ello.
 }
 [sha:04f32eabd6edc09ca9a1a45093c40d2ea3eb2386]{
 -- Page 205, Offset 17074.

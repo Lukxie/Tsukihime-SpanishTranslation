@@ -1,7 +1,7 @@
 [sha:3088463f080ccaf75428688cc2a2ce9f3f47e77d]{
 -- Page 10012, Offset 21702.
 -- 何をしようとしばらく考えこんだあげく、七年ぶりに屋敷の中を散歩する事にした。
-Tras sopesar un rato qué hacer
+Tras sopesar un rato qué hacer,
  decido dar mi primera vuelta de verdad por la mansión en siete años.
 }
 [sha:69a10a2e6f3dec8dc4d8bb653a6ce665a78dd77b]{
@@ -92,10 +92,10 @@ Eso es ridículo...
 -- 馬鹿げた話だが、あいつは確証のない話はしない。
 Es ridículo, pero ella nunca diría eso sin una buena razón.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:21720]{
 -- Page 150, Offset 21720.
 -- 俺は―――
-Yo―――
+Voy a―――
 }
 [sha:c2f1be890131151195ded21948e2985e6d3284bb]{
 -- Page 152, Offset 42665. Choice.

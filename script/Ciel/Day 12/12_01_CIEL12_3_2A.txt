@@ -43,7 +43,7 @@
 -- アイツなら『体調不良で行けなくなった』と言えば事情は察してくれる。
 -- TRANSLATION HERE
 }
-[sha:570afbfb68a775177c0dc699e78357d337fb0542]{
+[offset:31355]{
 -- Page 183, Offset 31355.
 -- 「かしこまりました。
 "Entendido.
@@ -108,10 +108,10 @@
 -- 平衡感覚がまるでない。目眩に負けて倒れないよう、壁に手をつけて歩く。
 -- TRANSLATION HERE
 }
-[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
+[offset:31368]{
 -- Page 186, Offset 31368.
 -- と。
-Y entonces―――
+-- TRANSLATION HERE
 }
 [sha:71b419d2f9504b90b00983905030e969d1ee1cb8]{
 -- Page 187, Offset 31369.

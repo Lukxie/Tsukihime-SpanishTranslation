@@ -1,13 +1,13 @@
 [sha:b4850aa386a26094018f168697fc9354df0a2044]{
 -- Page 10003, Offset 19772.
 -- と言っても、秋葉の威圧感はこれまでの比ではない。
-Me atrevería a decir que nunca he visto a Akiha tan intimidante como ahora.
+Me atrevería a decir que hasta ahora nunca había visto una Akiha tan intimidante.
 }
 [sha:4b5c4108b06168dc80d876ec85459d41fae262b8]{
 -- Page 10003, Offset 19773.
 -- 下手な事を言おうものなら必殺のカウンターが返ってきそうだ。
 Si no elijo mis palabras con cuidado,
- puede que responda mortalmente
+ puede que responda mortalmente.
 }
 [sha:0d69284fe7d3bd745a923e1ee562d73e55ac997c]{
 -- Page 10003, Offset 19774.
@@ -34,22 +34,22 @@ La saludo tan delicada y silenciosamente como puedo.
 [sha:040ab242f839cc1c3bb4267a42a4385c5ac3c075]{
 -- Page 40, Offset 19778.
 -- でも新鮮な体験ができました。辛抱と困惑が頂点を過ぎると、少し愉快な気持ちになってくるなんて」
-Pero fui capaz de experimentar algo nuevo. ¿Quien iba a saber que cuando la paciencia y el desconcierto llegan a un límite se volverían algo parecido a la euforia?
+Pero fui capaz de experimentar algo nuevo. ¿Quién iba a saber que cuando la paciencia y el desconcierto llegan a un límite se volverían algo parecido a la euforia?
 }
 [sha:10e0cb37b23a0c1885b0ffe23c5db7d716ad3dc3]{
 -- Page 41, Offset 19779.
 -- なるほど、静かに怒り心頭に発していらっしゃる。
-Ya veo. En otras palabras, está que arde por dentro.
+Ya veo. En otras palabras, por dentro está que arde.
 }
 [sha:46678514ce584c5209696b15f766fc153b3c568c]{
 -- Page 41, Offset 19780.
 -- これはどんな話術も通用しないとみた。
-Parece que esta vez las palabras bonitas no me salvarán.
+Parece que esta vez no me salvarán las palabras bonitas.
 }
 [sha:5643e735b1a3aeb72f9bb3c9a697ca93c1af5590]{
 -- Page 42, Offset 19781.
 -- 「そうか。睡眠不足はよくないよな。些細なことでも気が立って落ち着かないだろうし。
-"Ya veo. La falta de sueño no está bien. Hace que te vuelvas irascible ante las cosas más triviales.
+"Ya veo. La falta de sueño no es algo trivial. Hace que te vuelvas irascible ante las cosas más triviales.
 }
 [sha:ecbf7169b7e592a102493d26cbd012f974f79f54]{
 -- Page 42, Offset 19782.
@@ -84,7 +84,6 @@ Ya que, no solo se detuvieron mis piernas, mi corazón también.
 [sha:07c70b20ffa42bb201da69daf8b2dcc6e6d5e7f0]{
 -- Page 44, Offset 19788.
 -- 「……はい。なんでしょうか、秋葉さん」
-// Tl oficial
 "...¿Sí? ¿Qué quieres, Akiha-san?"
 }
 [sha:97815465cef2209b185c7badfe9c186072f9cf5c]{

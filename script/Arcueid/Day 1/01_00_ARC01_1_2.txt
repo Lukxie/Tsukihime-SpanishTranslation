@@ -16,7 +16,8 @@ De repente, una pregunta cruza mi mente.
 [sha:9b6de15ac9276d0588cca9bb04bf0219884c9754]{
 -- Page 45, Offset 1269.
 -- 先輩、部活やってませんよね。こんな時間に登校なんて」
-No estas en ningun club, ¿verdad Senpai? ¿Por qué vas a la escuela tan temprano?"
+No estas en ningún club, ¿verdad Senpai?
+ ¿Por qué vas tan temprano a la escuela?"
 }
 [sha:98450903a33176da0ab46671ff6329a7ff8ba09f]{
 -- Page 46, Offset 1270.
@@ -51,7 +52,7 @@ Senpai es el tipo de persona que siempre anda trabajando por el bien de otros.
 [sha:da6b2df5c60e8794a48c93d9966cd6cce4a49c92]{
 -- Page 48, Offset 1276.
 -- 他の皆さんはいったん帰宅したんですが、わたしは面倒なのでこのまま登校してしまおうかと」
-Todo el mundo se fue a casa un rato, pero yo pensé en ir directamente a la escuela porque volver primero a casa hubiera sido mucho problema.
+Todo el mundo se fue a casa hace un rato, pero yo pensé en ir directamente a la escuela porque volver primero a casa hubiera sido mucho problema.
 }
 [sha:b4d3673e28d8cf872c1f8bd2fc14731cb010c3b9]{
 -- Page 48, Offset 1277.
@@ -93,17 +94,19 @@ Espera.. Su cara, su olor, y otras muchas cosas están tan cerca que no sé ni d
 [sha:c954dad85579d23ac1b90486a6fff49e6923d9b4]{
 -- Page 52, Offset 1284.
 -- よろしい。それでしたら放課後、いつもの茶道部に来てください。貴方なら大歓迎です」
-Muy bien. En ese caso, pásate por el club ceremonia del té después de clase. Eres más que bienvenido."
+Muy bien. En ese caso, pásate por el club ceremonia del té después de clase.
+ Eres más que bienvenido."
 }
 [sha:506aa919b2d2b5f46f672d95b135f11ba0a6a60c]{
 -- Page 53, Offset 1285.
 -- 染みいるような笑顔で言われると、こちらも照れてしまう。
-No puedo evitar sentirme avergonzado, si la escucho decirlo con esa sonrisa contagiosa en la cara.
+Si la escucho decirlo con esa sonrisa contagiosa en la cara
+ no puedo evitar sentirme avergonzado.
 }
 [sha:9ceff1196e26ca6347563652c0a7cf30c24d0035]{
 -- Page 53, Offset 1286.
 -- 気の利いた返事もできず、はい、とうだつの上がらない返答をした。
-Incapaz de responder ingeniosamente lo mucho que puedo decir es un débil 'si'.
+Incapaz de responder ingeniosamente lo mucho que puedo decir es un débil 'sí'.
 }
 [sha:db35839ea1d7b829decd941465aaf26dc0d25b59]{
 -- Page 54, Offset 1287.
@@ -113,12 +116,12 @@ Incapaz de responder ingeniosamente lo mucho que puedo decir es un débil 'si'.
 [sha:692bf2a9bbf51efcc29027da3ddf49bebe10d5da]{
 -- Page 54, Offset 1288.
 -- 「そ、そうですか。じゃあ予定があえば、是非。
-"¿E-Es eso? Bueno, si mi horario lo permite, me pasaré.
+"¿S-Sí? Bueno, si mi horario lo permite, me pasaré.
 }
 [sha:3cf117b82827bdf9a7cb219d978c69e8f1380601]{
 -- Page 54, Offset 1289.
 -- 食べ物につられて行くとか、猫かって話ですけど」
-Aunque, ser atraído por comida casi me hace parecer que soy un gato."
+Aunque, ser atraído por comida casi me hace parecer un gato."
 }
 [sha:da7074138e771ca6f7e78e43a8c942a0ddf8afd3]{
 -- Page 55, Offset 1290.
@@ -138,7 +141,7 @@ La senpai del lazo verde responde―――
 [sha:2f290989076c056ff31e11aad499df4f8ee0e870]{
 -- Page 56, Offset 1293.
 -- というかネコ科はよくありません。最後まで頼りになるのは、律儀で頭のいいイヌ科です！」
-Me refiero, los felinos son terribles. ¡Responsables e inteligentes los caninos son los únicos con los que puedes contar al final!
+Me refiero, los felinos son terribles. ¡Responsables e inteligentes, los caninos son los únicos con los que puedes contar al final!
 }
 [sha:ae9a64034cf4a7a9f1e05cd48b49a44dcee49cda]{
 -- Page 56, Offset 1294.
@@ -153,7 +156,7 @@ Como nos dirigimos al mismo sitio, nuestra conversación continúa.
 [sha:c737432e9e1d3ac6f25e2ec3240aa722719cd9b8]{
 -- Page 57, Offset 1296.
 -- 先週に終わった中間試験のこと。
-Hablamos de los exámes de mitad de ciclo de la semana pasada.
+Hablamos de los exámenes de mitad de ciclo de la semana pasada.
 }
 [sha:8c1c0e8e435081e3db56eb31cc821600b219130a]{
 -- Page 57, Offset 1297.
@@ -163,7 +166,7 @@ Sobre el festival deportivo, el cual ha sido reducido en tamaño y solo duró un
 [sha:65d085b8420a42ab0fcea5d9a5fe9b9bba65c989]{
 -- Page 57, Offset 1298.
 -- いっこうにメニューが改められない食堂のこと。
-Acerca de la cafetería, donde el menú nunca cambia.
+Sobre de la cafetería, donde el menú nunca cambia.
 }
 [sha:5b99eab5dc0b43f500cfc090ea8c36845b77140f]{
 -- Page 57, Offset 1299.
@@ -180,14 +183,14 @@ Los quince minutos se pasan rápido.
 [sha:6d3035113a9f4ac882d2eae73a0a444fcc6d1de5]{
 -- Page 58, Offset 1301.
 -- 先輩は話し上手で、噂通りの“男女ともに好かれる”先輩だった。
-Esta es la universalmente querida Senpai que los rumores describen――de verdad puede manterner una conversación.
+Esta es la universalmente querida Senpai que los rumores describen――de verdad puede mantener una conversación.
 }
 [sha:ef9e61f501c7b1c7e7082a3790d61dd6602e04df]{
 -- Page 59, Offset 1302.
 -- あと数分で総耶駅に着いてしまう事が名残惜しく、つい次の話題を持ちかける。
-No quiero pensar sobre el hecho de que pronto llegaremos a la estación de Souya, así que saco otro tema
+No quiero pensar sobre el hecho de que pronto llegaremos a la estación de Souya, así que saco otro tema.
 }
-[sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
+[offset:1303]{
 -- Page 59, Offset 1303.
 -- ―――が。
 ―――Pero.
@@ -240,7 +243,7 @@ Era como si la atmósfera amigable que había experimentado hasta ahora hubiese 
 [sha:46d7d5848bf8f2622ffde7a204965ddfcae7a044]{
 -- Page 62, Offset 1313.
 -- 誰もが他人にすぎない、都会特有の沈黙が車内を支配する。
-Todos son desconocidos, el silencio característico de la ciudad domina el tren
+Todos son desconocidos, el silencio característico de la ciudad domina el tren.
 }
 [sha:427be293a369627661401b9e960c261991a83bdc]{
 -- Page 63, Offset 1314.
@@ -304,7 +307,7 @@ Casi quiero echarme a correr también, para no quedarme atrás, pero no tengo ni
 -- <体調|からだ>の事もあるし、いつも通りのペースで学校に向かおう。
 Además, tengo que preocuparme por mi cuerpo. Iré a la escuela a mi ritmo habitual.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:1326]{
 -- Page 67, Offset 1326.
 -- ……と。
 Sin embargo...
@@ -362,8 +365,8 @@ Bueno, incluso si tienes eso en cuenta...
 [sha:134f70ea9a4ba4b1de8a6c8d565a77056fd294de]{
 -- Page 71, Offset 1337.
 -- 「……いや、最近の中学生はおっかないな」
-// Pero tío, no sé que poner aquí para sustituir a man
-"Tío...los estudiantes de secundaria de hoy en día si que intimidan."
+//Pero tío, no sé que poner aquí para sustituir a man
+"Vaya...los estudiantes de secundaria de hoy en día si que intimidan."
 }
 [sha:d52e59a52750dbcb21c8affe8856f4ae5a3f3612]{
 -- Page 71, Offset 1338.

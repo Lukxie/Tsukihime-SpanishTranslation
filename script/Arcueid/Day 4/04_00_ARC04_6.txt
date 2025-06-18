@@ -47,7 +47,7 @@ Así que, aquí estamos.
 [sha:992064b4f09333ff07df9e2f06e1dde357740efb]{
 -- Page 367, Offset 6582.
 -- アルクェイドは大通りでタクシーを停め、となり町まで移動。
-Arcueid paró un taxi en la calle principal y lo cogimos para ir a la ciudad de al lado.
+Arcueid paró un taxi en la calle principal y lo tomamos para ir a la ciudad de al lado.
 }
 [sha:6c00be0ef36570985b9e90a519a63b1f2efe50b0]{
 -- Page 367, Offset 6583.
@@ -59,7 +59,7 @@ Nos registró en una habitación en uno de los hoteles más caros del área.
 [sha:03d42bedeb4e23f7d336b85865dec2a2a1317d99]{
 -- Page 368, Offset 6584.
 -- 「おー、高いたかーい！
-"Wow, ¡qué alto es!
+"Wow, ¡qué alto está!
 }
 [sha:4f48ac53a2fb67ac8f354e9c57068a1641c6f9dd]{
 -- Page 368, Offset 6585.
@@ -69,7 +69,7 @@ La arquitectura humana está avanzando a un ritmo impresionante.
 [sha:a505850f5bc5e718df7a0ab044e7379604e31f78]{
 -- Page 368, Offset 6586.
 -- こういうのなんて言うんだっけ？　<一髪千鈞|いっぱつせんきん>？　<日進月歩|にっしんげっぽ>？
-// Matadme please, esto está adaptado totalmente ya que en español no tiene sentido sino.
+//Matadme please, esto está adaptado totalmente ya que en español no tiene sentido sino.
 ¿Cuál es el dicho que usa la gente para esto?
  ¿A %{i}toda máquina%{/i} ?
  O espera, ¿era 'un gran paso para el hombre...'?
@@ -77,7 +77,7 @@ La arquitectura humana está avanzando a un ritmo impresionante.
 [sha:a5238b3124203be49f0f3301fadad0488195b7ec]{
 -- Page 368, Offset 6587.
 -- ま、どっちでもいっか！　ほら、見て見て志貴、さっきまでいた路地裏があんなにちっちゃくなってる！」
-Bueno, ¡no es que importe! Ooh, ooh, ¡mira allí, Shiki! ¡El callejón en el que estábamos ahora es tan pequeño!
+Bueno, ¡no es que importe! Ooh, ooh, ¡mira, Shiki! ¡El callejón en el que estábamos ahora es tan pequeño!
 }
 [sha:e475d6c2e3c957438197e961490d17ca8ffb6245]{
 -- Page 369, Offset 6588.
@@ -87,12 +87,12 @@ Arcueid ha abierto un pequeño hueco entre las cortinas y parece estar divirtié
 [sha:896cc4955f196c876256958a21123539d45c857e]{
 -- Page 369, Offset 6589.
 -- とてもじゃないが俺はそんな気分じゃない。
-Yo no estoy para nada de humor para eso.
+Yo no estoy nada de humor para eso.
 }
 [sha:fc768a2018111c2da63fb2448fd2af51afc033e5]{
 -- Page 370, Offset 6590.
 -- ここはホテルの一部屋というより、ホテルの最上階に造られた砦のようだ。
-Este lugar no es una habitación de hotel más que una fortaleza casualmente construida en la cima de un hotel.
+Este lugar, más que una habitación de hotel, es una fortaleza casualmente construida en la cima de uno.  
 }
 [sha:deba44dcb89c22e80d4db5640d5d33aa0f76f47e]{
 -- Page 370, Offset 6591.
@@ -105,22 +105,22 @@ Las cortinas opacas,
 -- Page 371, Offset 6592.
 -- 最上階を借り切っている以上、他の客はこのフロアにはやってこない。よく見れば、部屋には一階ロビーの様子を逐一映しているモニターすらあった。
 Como hemos reservado la última planta entera, ningún otro huésped vendrá aquí.
- Esta habitación tiene incluso un monitor que muestra lo que está pasando en el vestíbulo de la primera planta.
+ Esta habitación tiene incluso un monitor que muestra lo que ocurre en el vestíbulo de la primera planta.
 }
 [sha:087f233f31ea2ca9a00dfa3c72407db580dfad37]{
 -- Page 371, Offset 6593.
 -- ……この部屋を使用する人種はそういう特権階級なのだと、改めて思い知る。
-De nuevo me impacta como la gente hospedada usa las habitaciones del hotel como si fueran de una estirpe completamente distinta al resto...
+De nuevo, me impacta como la gente hospedada usa las habitaciones del hotel como si fueran de una estirpe completamente distinta al resto...
 }
 [sha:986be607843deff178834b27f5bd172f3e0bc930]{
 -- Page 372, Offset 6594. Mods: @k, @e.
 -- 「今夜はここに隠れましょう。あ、宿泊費のことは気にしなくていいよ。
-"Vamos a escondernos aquí esta noche. Oh, y no te preocupes por la factura.
+"Vamos a escondernos aquí esta noche. Ah, y no te preocupes por la factura.
 }
 [sha:b2895741955ebf5692a008f15984d0e30ddc0bb9]{
 -- Page 372, Offset 6595. Glued. Mods: @x.
 -- わたしお金持ちだから、おごってあげる」
-Soy rica, así que te invito."
+ Soy rica, así que te invito."
 }
 [sha:0f1a47a49da5c58baddd34810b8519669fd25087]{
 -- Page 373, Offset 6596.
@@ -186,7 +186,7 @@ No tengo que decir nada superfluo.
 [sha:760fda11109ddb4d3591f687e3463a3916891760]{
 -- Page 377, Offset 6608.
 -- いきなり怒ったり黙ったりして、予測がつかないね」
-Eres tan impredecible, te enfadas de golpe y luego te quedas callado."
+Que impredecible eres, te enfadas de golpe y luego te quedas callado."
 }
 [sha:6e902d5dc2ff59a21c964dbab4c0d3b082c356d4]{
 -- Page 377, Offset 6609.
@@ -201,7 +201,7 @@ No sé qué es tan gracioso, pero Arcueid se está riendo.
 [sha:68d1d86f953154a56207aaeafd686c7116516629]{
 -- Page 378, Offset 6611.
 -- 一方、こっちはドアの間近に立ったまま、油断なく部屋の様子を観察する。
-Mientras tanto, yo estoy de pie junto a la puerta, aún prácticamente tenso, vigilando la habitación atentamente.
+Yo mientras tanto, estoy de pie junto a la puerta, aún prácticamente tenso, vigilando atentamente la habitación.
 }
 [sha:abe8a62afcd449c51334e193a1f8938c23dd8ebb]{
 -- Page 378, Offset 6612.
@@ -211,14 +211,14 @@ Soy el completo opuesto a la relajada Arcueid.
 [sha:46c55a52b391154dc55bc714d518ad56b0cdedd4]{
 -- Page 379, Offset 6613.
 -- 疲れきっていたので休みたいのは山々だが、いまソファーに腰を下ろしたらそれこそ深海まで沈んでしまいそうだ。
-Estoy exhausto y quiero descansar desesperadamente,
+Estoy exhausto y desesperado por descansar,
  pero si me sentase ahora en el sofá,
  puedo garantizar que caeré rápidamente.
 }
 [sha:ead459093273aa589f5f1994bdd8f538534adfc7]{
 -- Page 379, Offset 6614.
 -- いくら<自|ヤ><棄|ケ>になっているからといって、そこまで無防備にはなれない。
-Sin importar lo desesperado que esté, no puedo permitirme estar tan indefenso.
+Sin importar lo desesperado que esté, no puedo permitir quedarme tan indefenso.
 }
 [sha:9dedea441f853dddee384b9dc23d2c656f0ba846]{
 -- Page 380, Offset 6615.
@@ -260,13 +260,13 @@ La verdad es que no estoy seguro de si es menor o no.
 [sha:fe5b29e9d5e112b1a058b5f0380ead87d4265ecc]{
 -- Page 382, Offset 6622.
 -- 「後で自分で選ぶからいい。それより―――」
-// Alternativamente cogeré o escogeré
+//Alternativamente cogeré o escogeré
 "Pillaré algo para mí más tarde. Más importante―――"
 }
 [sha:2e862d5864cdea4815a3018360a20b8b7a73372f]{
 -- Page 382, Offset 6623.
 -- どんなに疲れていても、面食らっていても、訊くべき事がある。
-Sin importar lo perplejo que esté, hay algo que tengo que aclarar.
+Da igual lo perplejo que esté, hay algo que tengo que aclarar.
 }
 [sha:308310fb19eff03687e24a5724f214e32b29502d]{
 -- Page 383, Offset 6624.
@@ -282,7 +282,7 @@ En otras palabras, ¿cuán peligrosa es la situación en la que me encuentro?
 -- Page 383, Offset 6626.
 -- それらが俺の常識にないものだとしても、出来る範囲で理解しないとおちおちソファーに座れもしない。
 Incluso si la respuesta desafía al sentido común,
- no puedo sentarme y relajarme en el sofá sin intentar entender las cosas lo mejor que pueda.
+ no me puedo sentar y relajar en el sofá sin antes intentar entender las cosas lo mejor que pueda.
 }
 [sha:a021f43b643e41293d53acc113e42e4a8384aa49]{
 -- Page 384, Offset 6627.
@@ -292,12 +292,12 @@ Incluso si la respuesta desafía al sentido común,
 [sha:cfa5ae8378f4af2c1aafc8afd8e79115d59a9380]{
 -- Page 384, Offset 6628.
 -- のんびり休むのはその後だ」
-No me puedo sentar y relajarme hasta que lo haga."
+No me puedo relajar hasta que lo haga."
 }
 [sha:58d69c7bf83d8373e64ea7f5f4195df1c4f92c0a]{
 -- Page 385, Offset 6629.
 -- 「？　かまわないけど、どうしたの、急にかしこまって」
-"¿Hm? No importa, ¿cual es el problema?
+"¿Hm? No importa, ¿cuál es el problema?
  De repente estas muy serio."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -309,7 +309,7 @@ No me puedo sentar y relajarme hasta que lo haga."
 -- Page 385, Offset 6631.
 -- かしこまるも何も、おまえの前で気を許した事はないんですけどぉ……いや、それはいいとして、
 Bueno por supuesto que estoy serio, no he bajado la guardia ni un segundo desde que me encontré contigo...
- De todas formas, a parte de eso―――
+ En fin, dejando eso a un lado―――
 }
 [sha:ddfeaab597eacfc455a7a2b0a8be2a7ce154d55d]{
 -- Page 386, Offset 6632. Mods: @n.
@@ -354,12 +354,12 @@ Pero tú también eres un vampiro, ¿no?"
 [sha:fd159e9e69cc3fd11b0b1b75df619cef540f27d1]{
 -- Page 389, Offset 6640.
 -- 俺が言いたいのは、どうして<吸|・><血|・><鬼|・>であるおまえが<吸|・><血|・><鬼|・>を殺すのかって事だ。それ、おかしいだろ、理屈的に」
-Lo que intento decir es que, ¿por qué un %{i}vampiro%{/i} como tú iba a ir por ahí matando %{i}otros vampiros%{/i}? No tiene ningún tipo de sentido."
+Lo que intento decir es que, ¿por qué un %{i}vampiro%{/i} como tú iba a ir por ahí matando %{i}otros vampiros%{/i}? No tiene ningún tipo de sentido." 
 }
 [sha:7e428da9e99f4f422721e84b96c2359a7751cc02]{
 -- Page 389, Offset 6641.
 -- 「あら、志貴は同族同士で殺し合うのは嫌いなんだ？」
-"Oh, ¿así que no te gusta cuando miembros de la misma especie se matan entre ellos?
+"Oh, ¿así que no te gusta que miembros de la misma especie se maten entre ellos?"
 }
 [sha:547d611fc48b779d2fc68e53f19282ca41689268]{
 -- Page 390, Offset 6642.
@@ -369,7 +369,7 @@ Lo que intento decir es que, ¿por qué un %{i}vampiro%{/i} como tú iba a ir po
 [sha:925767fa02a1b49a14f196408bb630e2936f9381]{
 -- Page 390, Offset 6643.
 -- ……あのさ、吸血鬼は人間の血を吸う鬼なんだろ。なら殺す対象は人間であって、同じ吸血鬼じゃない。
-Pero a ver... los vampiros son demonios que absorben sangre humana, ¿verdad? Entonces ¿tu objetivo no deberían ser otros humanos y no otros vampiros?
+Pero a ver... los vampiros son demonios que succionan sangre humana, ¿verdad? Entonces ¿tu objetivo no deberían ser otros humanos y no otros vampiros?
 }
 [sha:be20518cf0527aaa71795817d32eebab68c0a477]{
 -- Page 390, Offset 6644.
@@ -395,7 +395,7 @@ Aún así, entiendo lo que quieres decir.
 [sha:7af3c26d144f590afe10faca0883bb42cf7d6c5e]{
 -- Page 391, Offset 6648.
 -- けど、吸血鬼は同じ<大|お><源|や>から派生したモノであっても、それぞれ異なる進化を遂げた固有種のようなものだから。
-Sin embargo, aunque todos los vampiros deriven del mismo <origen|p r o g e n i t o r  > superior, cada uno es una especie única que ha evolucionado de una forma muy distinta del resto.
+Sin embargo, aunque todos los vampiros deriven del mismo <origen|p r o g e n i t o r  > superior, cada uno es una especie única que ha evolucionado de una forma muy distinta al resto.
 }
 [sha:beba554b0f88d11edb4307bddcd64d4ddca158a1]{
 -- Page 391, Offset 6649.
@@ -405,7 +405,7 @@ No tenemos el mismo sentido de camaradería que tienen los humanos."
 [sha:56c59f665424fb76f6f56419c19a1787f3d41c7e]{
 -- Page 392, Offset 6650.
 -- 「……？　じゃあその、おまえが探している吸血鬼は、おまえとは違うっていうのか？」
-"¿Eh...? Así que, eso significa que el vampiro al que estás buscando es uno distinto a ti?"
+"¿Eh...? Osea que, ¿significa eso que el vampiro al que buscas es uno distinto a ti?"
 }
 [sha:8121f5b63d5597133b082dff0098573b0bdfd64d]{
 -- Page 393, Offset 6651.
@@ -439,13 +439,13 @@ Recuerdas esos Muertos ardientes de esta mañana, ¿verdad?
 -- Page 394, Offset 6656.
 -- 路地裏に現れたあの死体……吸血鬼の物語では、血を吸われた人間は新しい吸血鬼になって人を襲うという。
 Los cadáveres que aparecieron en el callejón...
- De acuerdo con las leyendas sobre vampiros, aquellos a los que les chupan la sangre se vuelven nuevos vampiros y atacan a la gente.
+ De acuerdo a las leyendas de vampiros, aquellos a los que les chupan la sangre se vuelven nuevos vampiros y atacan a la gente.
 }
 [sha:a7d04731ee57ac84c77ae53c02128f0b6536b7ca]{
 -- Page 394, Offset 6657.
 -- そうやって数を増やしていき、最後には村をまるごと死の土地にしてしまう……という事か。
-Mientras hacen esto y crecen sus números,
- eventualmente convertirán la aldea entera en una tierra de muerte... o eso dicen.
+Haciendo esto crecen sus números,
+ y con el tiempo convertirán la aldea entera en una tierra de muerte... o eso dicen.
 }
 [sha:d36a3dad0ea22e9f83040ff5feb34c1f77130832]{
 -- Page 395, Offset 6658.
@@ -455,7 +455,7 @@ Mientras hacen esto y crecen sus números,
 [sha:4388b41f45d599eb707253de835e335e2549d0be]{
 -- Page 395, Offset 6659.
 -- わたしは血を吸う事に執心はないし、彼等の<同類|なかま>でもない。だから、互いに殺し合う事に問題は発生しない」
-No tengo interés en chupar sangre, no soy su aliada.
+No tengo interés en chupar sangre y no soy su aliada.
  Como tal, no tengo problema en matar estos otros vampiros.
 }
 [sha:ada886f73098ce1502c3919a9bfd9b2f2c80c3a8]{
@@ -487,7 +487,7 @@ Así que me estas diciendo que la razón por la que me has dicho que me vuelva t
 -- Page 398, Offset 6665.
 -- あなたなんて嫌がっても盾にしてやる、逃げても<魔眼|くさり>で縛り付けてさんざん怖がらせて使い切ってやるって。
 Estaba planeando usarte como escudo lo quiseras o no.
- Si hubieses intentado huir, te habría obligado con mis Ojos Místicos y te hubiese explotado a través del miedo.
+ Si hubieses intentado huir, te habría obligado con mis Ojos Místicos y te hubiese explotado a través del miedo. 
 }
 [sha:a0589156f2e0973b21007b3165bccceaaf91a458]{
 -- Page 398, Offset 6666.
@@ -517,8 +517,8 @@ Vale, me aseguraré de recordar eso.
 [sha:a21df7e56cb456f6e7090850c040cf161f6e3ec4]{
 -- Page 400, Offset 6671.
 -- わたしね、志貴。あなたに殺されて復元するまでのあいだ、あなたは教会の人間だと思っていたの。
-¿Sabes qué? Shiki
- Estuve todo el tiempo desde que me mataste hasta que reviví bajo la impresión de que eras un miembro de la Iglesia.
+¿Sabes qué Shiki? 
+ Desde que me mataste hasta que reviví estuve todo el tiempo bajo la impresión de que eras un miembro de la Iglesia.
 }
 [sha:ac1bda3e23e0fb30c4c98fae76d128cf080512c2]{
 -- Page 400, Offset 6672.
@@ -531,7 +531,7 @@ Si lo %{i}hubieras%{/i} sido,
 -- Page 401, Offset 6673.
 -- 「なのに志貴ったらまるっきり普通の人なんだもん。敵の棺の場所はおろか、吸血鬼の事をまるで知らないし」
 "Pero al final eras una persona completamente normal.
- No sabes nada de vampiros, mucho menos de la localización del ataúd enemigo."
+ No sabes nada de vampiros, mucho menos la localización del ataúd enemigo."
 }
 [sha:0d68077f4b4e2502ce839a61c345c8e0924007c6]{
 -- Page 402, Offset 6674.
@@ -569,27 +569,27 @@ Su voz es alegre, pero lo que dice es perturbador.
 [sha:0216aac80832c79e22712401a38cfac7cb6b4625]{
 -- Page 405, Offset 6680.
 -- ……くそ。まだ俺に思うところがあるぞ、あの女。
-Maldita sea, aún me la tiene jurada, ¿no?
+Maldición, aún me la tiene jurada, ¿no?
 }
 [sha:38221985a2c42b91a51c6e67a701ce7b4ec0edcb]{
 -- Page 405, Offset 6681.
 -- あんなコトをしでかした以上憎まれて当然とはいえ、微笑みながら“殺したい”と言われるのは心臓に悪い。
-Aunque es normal que me odie después de lo que hice, no es bueno para mi corazón oírla decir 'quiero matarte' con una sonrisa.
+Aunque sea normal que me odie después de lo que hice, oírla decir 'quiero matarte' con una sonrisa no es bueno para mi corazón.
 }
 [sha:21ae4cb479e88ef207fed0f96887016d4f2179aa]{
 -- Page 405, Offset 6682.
 -- やはり俺が油断した瞬間、あっさり殺すつもり―――
-Parece que de verdad planea matarme el momento en el que baje la guardia―――
+Parece que de verdad planea matarme en cuanto baje la guardia―――
 }
 [sha:18c062f4bd5ba8c4c2c156addad8f3be3f0f2d59]{
 -- Page 406, Offset 6683.
 -- 「真面目な話は終わり？　じゃ、ベッドにどーん！」
 "¿Hemos terminado con las cosas serias? Entonces, ¡hora de dormir!"
 }
-[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+[offset:6684]{
 -- Page 406, Offset 6684. Mods: @k, @e.
 -- 「は？」
-"¿Qué?"
+"¿%{i}Qu%{/i}?"
 }
 [sha:8503b43769270c47dbdab92119841e1b87db45a4]{
 -- Page 406, Offset 6685. Mods: @n.
@@ -599,12 +599,12 @@ Y entonces,
 [sha:91b18c48b731adb279d48df631bbc1d027604b0c]{
 -- Page 406, Offset 6686. Glued. Mods: @n.
 -- と弾むような足取りでベッドまで移動すると、
-de caminando alegremente,
+ camina alegremente,
 }
 [sha:9b25b7e9e32d87a3992778b4c3effce40c31d323]{
 -- Page 406, Offset 6687. Glued.
 -- ぼすん、と横になってしまった。
-se acerca a la cama y se acuesta en ella.
+ se acerca a la cama y se acuesta en ella.
 }
 [sha:620ef58e002785e27a48128a13223cbacaddc5cb]{
 -- Page 407, Offset 6688.
@@ -637,7 +637,7 @@ Ah, Shiki, tu también deberías descansar mientras puedas.
 [sha:2554923601de71cf9cf5fba29617baff580cba69]{
 -- Page 409, Offset 6693.
 -- 「お、おい」
-"E-Ey!"
+"¡E-Ey!"
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 409, Offset 6694.
@@ -647,7 +647,7 @@ Ah, Shiki, tu también deberías descansar mientras puedas.
 [sha:77ee21a225788ebf4877733b64b9bcd87c29c515]{
 -- Page 409, Offset 6695.
 -- アルクェイドはエンジンを切った車のように、唐突に眠ってしまった。
-Arcueid se queda dormida de repente como al apagar el motor de un coche.
+Arcueid se queda dormida de golpe, como al apagar el motor de un coche.
 }
 [sha:72766b4a06ff7070e83b8601b6de7b3da4f1cdb3]{
 -- Page 410, Offset 6696.
@@ -667,7 +667,7 @@ Me siento como un idiota por pasarme todo el tiempo al lado de la puerta en caso
 [sha:8ebb0c13cd5d0abec0b0d475f59de461ae400f23]{
 -- Page 411, Offset 6699.
 -- いいのかそれ。俺が言うコトじゃないけど、ホントにそれでいいのかこいつ？
-¿Está bien esto? Se que no me corresponde decirlo, pero ¿de veras está de acuerdo con esto?
+¿Esto está bien? Se que no me corresponde decirlo, pero ¿de veras está de acuerdo con esto?
 }
 [sha:f564060757a689706055ddd39ba7acbc3fc4081f]{
 -- Page 411, Offset 6700.
@@ -692,7 +692,7 @@ Incluso si no tengo los mismos impulsos que antes―――
 [sha:b22dbec322248f652d2d7fbbc51cc5fda5c6f4a0]{
 -- Page 412, Offset 6704.
 -- なのに、どうして眠ってしまえるのか、この女は。
-¿Cómo es capaz de quedarse dormida tan casualmente?
+¿Cómo es capaz de quedarse dormida como si nada?
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
 -- Page 413, Offset 6705.
@@ -707,7 +707,7 @@ Miro fijamente la cara de Arcueid.
 [sha:c38ab41a702aff6f438ef9fb3b34471b6879f451]{
 -- Page 413, Offset 6707.
 -- ……ふくよかな胸が上下しているところを見ると、呼吸はしているようだ。
-// well-rounded es tan confuso que no se si quiere decir bien dotado o redondeado, en vez de eso me baso en el texto original
+//well-rounded es tan confuso que no se si quiere decir bien dotado o redondeado, en vez de eso me baso en el texto original
 Juzgando por el por el suave ascenso y descenso de su pecho bien dotado, parece que aún respira.
 }
 [sha:c176751911a02f8761552fe69dfb1353b8f41d97]{
@@ -718,7 +718,7 @@ Tumbada en la cama, su cuerpo totalmente quieto.
 [sha:c68d65378c262c56cdf8088d467fd2eebc31eb47]{
 -- Page 414, Offset 6709.
 -- 一枚の絵のような眠り。
-Parece una obra de arte reposando.
+Parece una obra de arte en reposo.
 }
 [sha:43c8161a32be696c3615215ca1fa6f9cb874e714]{
 -- Page 414, Offset 6710.
@@ -728,7 +728,7 @@ Párpados suavemente cerrados.
 [sha:4f8429a379d37e48b8d5c1c39514eeac9511786a]{
 -- Page 414, Offset 6711.
 -- 長い<睫|まつげ>と、<紅|べに>を引かずとも<瑞々|みずみず>しい可憐な唇。
-Largas pestañas, labios bonitos que lucen vibrantes incluso in pintalabios.
+Pestañas largas, labios bonitos que incluso sin pintalabios lucen vibrantes.
 }
 [sha:d94749dcef952730fc796687a69ce408c95e7399]{
 -- Page 415, Offset 6712.
@@ -743,12 +743,12 @@ La línea de sus caderas es como la de una montaña desapareciendo en el horizon
 [sha:25788a3ec162e68d2e379e6acd453adfc6cc4f96]{
 -- Page 415, Offset 6714.
 -- すらりと伸びた細い両脚。
-Los piernas delgadas y suaves están estiradas sobre la cama.
+Sus delgadas y suaves piernas están estiradas sobre la cama.
 }
 [sha:354e5f66d0e62fc4169ec2bb46b5084ac5e85676]{
 -- Page 415, Offset 6715.
 -- 清楚でありながら扇情的、なんて矛盾した言葉が浮かぶ。
-Modesto, pero sensual; tales palabras contradictorias se me vienen a la mente.
+Modesta, pero sensual; tales palabras contradictorias se me vienen a la mente.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 416, Offset 6716.
@@ -763,8 +763,8 @@ Una mujer así está dormida e indefensa en esta suite presidencial.
 [sha:ef1394745bae40fe83bc03135ab3ac7f9638c095]{
 -- Page 416, Offset 6718.
 -- まだ知り合って間もない俺を、自分を無残に殺した人間を、心の底から信用しきって。
-La conozco desde hace poco, y aún así confía en mí――
- la persona que la mató brutalmente――
+Hace poco que la conozco, y aún así confía en mí――
+ en la persona que la mató brutalmente――
  de corazón.
 }
 [sha:30658237ab2419bcd761f2b0d5eea01eb6884056]{

@@ -33,7 +33,7 @@ No suelo juzgar un plato a primera vista, pero no tengo las agallas para comerme
 [sha:6cff29e61df76d0441f0d33d743f6e1cdb7ccb5c]{
 -- Page 248, Offset 9207.
 -- コンディションが万全ならあるいは……と一瞬だけ考えたが、やっぱりない。
-Hubo un momento donde pensé que estaría dispuesto si tuviera un día bueno, pero... no, incluso entonces, sería imposible.
+Hubo un momento donde pensé que estaría dispuesto si tuviera un día bueno, pero... no, incluso entonces, sería imposible.  
 }
 [sha:c9ed317011d4ad459ca5600792a19dc0be351b91]{
 -- Page 248, Offset 9208.
@@ -59,7 +59,7 @@ El problema son esas llamas.
 [sha:0c3acd742b39350a0f9dff977b6fb4fb9cd90587]{
 -- Page 249, Offset 9212. Glued. Mods: @x.
 -- あれをどうにかしないかぎり、俺もアルクェイドも近寄れない。
-Hasta que se nos ocurra una especie de contramedida, ninguno podemos acercarnos.
+ Hasta que se nos ocurra una especie de contramedida, ninguno de los dos podemos acercarnos.
 }
 [sha:3e65308b49451e6a65ad53d6c6754e2782d539c2]{
 -- Page 250, Offset 9213.
@@ -75,7 +75,7 @@ Parece que tu eres su objetivo.
 [sha:4325f9578fee323927de959a4764f1da775cb2a4]{
 -- Page 250, Offset 9215.
 -- 俺は事前に隠れていて、アイツがおまえに気を向けている隙に背後から襲いかかる……とか？」
-Mientras, me esconderé en algún lado y le atacaré por la espalda mientras está centrado en ti... o algo así."
+Mientras, me esconderé en algún lado y le atacaré por la espalda mientras esté centrado en ti... o algo así."
 }
 [sha:d4ed5115e9a65bf6704fe725f5434c3fa07a1801]{
 -- Page 251, Offset 9216.
@@ -95,8 +95,8 @@ Aunque, no soluciona el problema de acercarse a él con esas llamas de por medio
 [sha:24128b8898d7512078d5d31ac357a24a8e20ba6a]{
 -- Page 252, Offset 9219.
 -- わたしがオトリ、志貴がトドメ。志貴ならヴローヴがどれだけ命のリザーブを持っていても関係ないしね」
-Seré el señuelo, y tu el que lo elimine.
- No importa cuánta energía tenga en reserva si tu eres el que da el golpe final."
+Yo seré el señuelo, y tú quién lo elimine.
+ No importa cuánta energía tenga en reserva si el que da el golpe final eres tú."
 }
 [sha:0c7e28b442d3b5b610b2453b037fb1321f8f7a12]{
 -- Page 253, Offset 9220.
@@ -106,8 +106,8 @@ Seré el señuelo, y tu el que lo elimine.
 [sha:a86a65f343beac3a25f342fc998a50e48ca5e538]{
 -- Page 253, Offset 9221.
 -- 俺はともかく、おまえはアイツと正面から向き合うんだ。あの手みたいな炎はどうするんだ」
-Si te olvidas de mi por un segundo, tu eres la que va a ir de frente contra el.
-  ¿Qué vas a hacer con esas llamas con forma de mano?"
+Si te olvidas de mi por un segundo, tú eres la que va a ir de frente contra él.
+  ¿Qué vas a hacer con esas llamas en forma de mano?"
 }
 [sha:195c726f6cab4eb67a672e9242f5099dbc5da0ca]{
 -- Page 254, Offset 9222.
@@ -118,13 +118,13 @@ Si te olvidas de mi por un segundo, tu eres la que va a ir de frente contra el.
 -- Page 254, Offset 9223.
 -- 一度受けてみてヴローヴの炎は3000℃程度って判ったし。今から体を耐熱仕様に作り直しておけば耐えられるわ」
 En cuanto me golpearon, pude comprobar que las llamas de Vlov están solamente alrededor de 3000℃  o así.
- Empezaré ahora mismo a reconstruir mi cuerpo para que se vuelva resistente al calor,
+ Empezaré a reconstruir mi cuerpo ahora mismo para que se vuelva resistente al calor,
  y entonces seré capaz de soportarlas sin problemas."
 }
-[sha:c55b82f406a46e151e1d07a56e70f51bb9868551]{
+[offset:9224]{
 -- Page 255, Offset 9224.
 -- 「は……？」
-"¿Qu..?"
+"¿Eh...?"
 }
 [sha:6cf588e9b52225760818ba42839f32655198fbea]{
 -- Page 255, Offset 9225.
@@ -159,12 +159,12 @@ La única razón por la que no pude hacerlo en el hotel es porque estabas detrá
 [sha:d06becc9b53d57489240a5ce4cc27edde899545e]{
 -- Page 257, Offset 9231.
 -- ずいぶんとイージーかつ適当なニュアンスを感じるのだが、事実、あの時はこいつに助けられていた。
-Parece demasiado fácil, pero el hecho es que ya me ha salvado la vida antes.
+Parece demasiado fácil, pero lo cierto es que ya me ha salvado la vida antes.
 }
 [sha:d2d0ad64e3f9cce5165a5af3bddaad8f05eac8c0]{
 -- Page 258, Offset 9232.
 -- 「うん、だいたい決まりね。
-"Muy bien, parece que tenemos un plan,
+"Muy bien, parece que tenemos un plan.
 }
 [sha:4bef1ac37be513500731ad6364ff455a5db6b4e5]{
 -- Page 258, Offset 9233.
@@ -206,7 +206,7 @@ Sería inutil sujetarle directamente.
 -- Page 261, Offset 9240.
 -- 「場所によるけど、基本的には鎖かな」
 "Exactamente como depende de la ubicación,
- pero resumiendolo, usaré cadenas."
+ pero en resumidas cuentas, usaré cadenas."
 }
 [sha:7371bf30d3635da3426e39418d57415e9e5c5622]{
 -- Page 262, Offset 9241.
@@ -218,10 +218,10 @@ Sería inutil sujetarle directamente.
 -- 「ええ。ほら、こんな風に」
 "Sí. Sabes, algo así."
 }
-[sha:70a544ce909034266812004d9aca986952265be1]{
+[offset:9243]{
 -- Page 262, Offset 9243.
 -- 「!?」
-"¡¿%{i}Uwah%{/i}?!"
+"%{i}Uoh%{/i}?!"
 }
 [sha:86e7383b68fda74005074d302ee8e67e458d3090]{
 -- Page 262, Offset 9244.
@@ -241,7 +241,7 @@ Espera, ¡¿De dónde han salido siquiera?!
 [sha:4ab6e51bcc6108923a7fcc61824fbaec3a0ba821]{
 -- Page 263, Offset 9247. Glued. Mods: @x.
 -- 強度は……んー、今なら一本あたり100トンぐらいまでかな？　とにかく何十本と重ねがけするから、動きだけなら封じられる」
-En cuanto lo fuertes que son... ahora mismo, ¿cada cadena podría aguantar cien toneladas? Apilaré una docena sobre el, que como mínimo debería detener su movimiento."
+ En cuanto lo fuertes que son... ahora mismo, ¿cada cadena podría aguantar cien toneladas? Apilaré una docena sobre él, que como mínimo debería detener su movimiento."
 }
 [sha:55e1425de0fdb1b962ed6fbd4577f637dfee71e9]{
 -- Page 264, Offset 9248.
@@ -304,7 +304,7 @@ Arcueid lo dice como si nada, pero todo esto me incomoda bastante.
 [sha:79782b9459a33603a9451373a37802a4c09839d3]{
 -- Page 270, Offset 9259.
 -- 「いや、経験していない事を目算に入れるのはやめよう。
-"Pensándolo mejor, no deberíamos basar nuestro plan en algo nunca hemos intentado.
+"Pensándolo mejor, no deberíamos basar nuestro plan en algo que nunca hemos intentado.
 }
 [sha:8ae233b6468a00ea33c86081294b7cd995649dd9]{
 -- Page 270, Offset 9260.
@@ -320,7 +320,7 @@ De esa forma, Arcueid no tendrá que luchar con él necesariamente.
 [sha:2a991f2016959d3d1812745d650cb3ee7b666295]{
 -- Page 271, Offset 9262.
 -- まず戦う、という選択は、俺の奇襲が失敗してから選べばいい。
-En su lugar podemos hacer lo otro si de alguna manera el ataque sorpresa falla.
+En su lugar, podemos optar por lo otro en caso de que el ataque sorpresa falle.
 }
 [sha:311c0c61c48c5539b87ebd0e8968f6c794fe1c66]{
 -- Page 271, Offset 9263.
@@ -378,20 +378,20 @@ Por eso tienes que deshacerte de tu sentido de la moral, aunque solo sea esta no
 [sha:cb5a5d24874ba9b2383989c6d085c29baafa1331]{
 -- Page 276, Offset 9273.
 -- 手足を切る？　やめてよ、そんな自殺行為。手足を切る暇があるのなら、まず命を切りなさい。他の生き物ならともかく、あなたにだけはそれが出来るんだから。
-¿Quieres contarle las extremidades?
+¿Quieres cortarle las extremidades?
  Eso es como pedir que te maten.
- Si tienes tiempo de hacer eso, deberías usarlo para matarle en su lugar.
- Si fueras cualquier otro quizá tendría sentido, pero tu tienes algo que solo tú puedes hacer.
+ Si tienes tiempo de hacer eso, mejor deberías usarlo para matarle.
+ Si fueras cualquier otro quizá tendría sentido, pero tú eres capaz algo que nadie más puede hacer.
 }
 [sha:08f8b1310fd9c54a0778ebddaf3deae01ca5463d]{
 -- Page 276, Offset 9274.
 -- いい？　ヴローヴには反撃の機会を与えないこと。志貴の利点は“相手に正体が知られていない事”だけなんだから」
-¿Lo entiendes? No le des a Vlov oportunidad de contraatacar. La única ventaja que tienes es que no sabe de tu habilidad."
+¿Lo entiendes? No le des a Vlov oportunidad de contraatacar. La única ventaja que tienes es que no es consciente de tu habilidad."
 }
 [sha:f9fc0854a1a328f7f4565ff36b6264d23af4d4b2]{
 -- Page 277, Offset 9275.
 -- アルクェイドの目が、俺に否定を許さない。
-La cara de Arcueid no deja margen para discutir.
+La cara de Arcueid no deja margen de discusión.
 }
 [sha:2cc8e336d41e2626654ffb9085ceefe71691881c]{
 -- Page 277, Offset 9276.
@@ -401,7 +401,7 @@ Sus ojos rojos solo me dicen una cosa:
 [sha:833ce331c7248c789a0e4f7498d1b24529462e92]{
 -- Page 277, Offset 9277.
 -- “初撃を外せば、遠野志貴に次の選択はない”と。
-Si fallas la primera vez, no habrá una segunda.'
+ 'Si fallas la primera vez, no habrá una segunda.'
 }
 [sha:fd8b5cba1902fd0ddd26dd2344a09ed11082d3f9]{
 -- Page 278, Offset 9278.
@@ -411,8 +411,8 @@ Tiene razón...
 [sha:14c580e0cc82a35d74c4906542da09731eb063de]{
 -- Page 278, Offset 9279.
 -- 彼女の言う通り、まず手足を切る、なんて悠長な真似をしている間に、俺の体は燃え尽きている―――
-Es como ella dice.
- Si voy y pierdo el tiempo cortándole las extremidades, acabaré completamente reducido a cenizas.
+Tal y como ella afirma.
+ Si me entretengo cortándole las extremidades, acabaré completamente reducido a cenizas.
 }
 [sha:a911b46b3159624921e9c09f95b2a20a5b5ade7d]{
 -- Page 279, Offset 9280.
@@ -422,7 +422,7 @@ Es como ella dice.
 [sha:2d4a63f472e8da84fe0af81b3d4dcac8d3e19386]{
 -- Page 279, Offset 9281.
 -- その時にわたしたち―――いえ、わたしと志貴であいつを、これ以上ないっていうカタチで『殺す』の。
-En ese momento, nosotros――no, ambos tu y yo debemos ir con la intención de masacrarle.
+En ese momento, nosotros――no, ambos, tú y yo, debemos ir con la intención de masacrarle.
 }
 [sha:e4c7c04b610f0bdf43e85dc3ea2359c17b6f88ea]{
 -- Page 279, Offset 9282.
@@ -447,12 +447,12 @@ Está muy enfadada...
 [sha:4d555eacf04312d36e67b93315a862d2ace7c119]{
 -- Page 280, Offset 9286.
 -- 俺が、遠野志貴が、まだどこかで甘い考えを持っているという事を。
-Está enfadada por el hecho de que aún sea tan inocente.
+Enfadada por el hecho de que aún sea tan inocente.
 }
 [sha:437c14dbbefc17848ebb5da70e5890cfe852c240]{
 -- Page 281, Offset 9287.
 -- 「―――わかった。俺はためらわない。
-"Entiendo. No dudaré.
+"Lo entiendo. No dudaré.
 }
 [sha:2d2d24d2e51119cda433d1609af52794d6bf7cba]{
 -- Page 281, Offset 9288.
@@ -462,7 +462,7 @@ Cortaré todas las líneas de golpe.
 [sha:c19366afefaac24bc4f1370b81ccae7ca1d6c367]{
 -- Page 281, Offset 9289.
 -- それでいいんだろう、アルクェイド」
-¿Eso te vale, verdad, Arcueid?"
+Eso te vale, ¿verdad, Arcueid?"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 282, Offset 9290.
@@ -472,7 +472,7 @@ Cortaré todas las líneas de golpe.
 [sha:fb412ddde7654bab760c67d335ca2576c9328d7f]{
 -- Page 282, Offset 9291.
 -- アルクェイドの視線は険しいままだ。
-La mirada de Arcueid sigue seria.
+Arcueid sigue mirándome seriamente.
 }
 [sha:79dd30caf72588b06bc6f14883887c44c8db5e62]{
 -- Page 282, Offset 9292.
@@ -514,13 +514,13 @@ Arcueid se gira y aparta la mirada.
 [sha:0d7f12aa531d84c21e3febe183e4dabc9ac9c3c3]{
 -- Page 286, Offset 9299.
 -- 「無理よ。結局、志貴は一度も『殺す』と口にしてくれない。
-"No puedes hacerlo. Después de todo, aún no has dicho la palabra 'matar' ni una vez.
+"No puedes hacerlo. Después de todo, aún no has dicho la palabra 'matar' ni una sola vez.
 }
 [sha:82121c2f6db26c5ac35bd99022993e4c505b82dd]{
 -- Page 286, Offset 9300.
 -- このままだと最後の瞬間で、あなたはきっとためらう。それで、あっけなく殺される」
-Tal como estas, si dudas en el último momento.
- Morirás antes de darte cuenta siquiera."
+Tal como estas, dudarás en el último momento.
+ Y morirás antes de darte cuenta siquiera."
 }
 [sha:c58c10e26c60e5543853d58f6ad0a5cad234b692]{
 -- Page 287, Offset 9301.
@@ -553,7 +553,7 @@ Es como una especie de contradicción."
 [sha:7844e88743eb0cacd50276747652eada3ed79259]{
 -- Page 289, Offset 9306.
 -- 「志貴を信じるわ。二人でヴローヴを倒しましょう」
-"Creo en ti Shiki. Derrotemos a Vlov juntos."
+"Creo en ti Shiki. Derrotemos juntos a Vlov ."
 }
 [sha:6a4583fc22b278483306b5a02c598e0f05d648f1]{
 -- Page 289, Offset 9307.
@@ -568,5 +568,5 @@ Me pregunto por qué...
 [sha:f92d374e1c5bd5bc7621c08c4b8b0e6df17c809c]{
 -- Page 290, Offset 9309.
 -- あんなに信頼に満ちた<瞳|め>を向けられているのに、それは、ひどく不安げな笑顔だった。
-Aunque sus ojos rebosen confianza, no puedo evitar sentir una terrible aprensión en su sonrisa.
+Aunque sus ojos rebosen confianza, no puedo evitar sentir una terrible inquietud en su sonrisa.
 }

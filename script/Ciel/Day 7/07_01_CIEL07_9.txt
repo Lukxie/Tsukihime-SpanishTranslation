@@ -21,12 +21,12 @@
 [sha:d4a4b7363df031d5e871952393f0597dd15358ac]{
 -- Page 660, Offset 16398.
 -- 「―――ふう」
-"―――%{i}Fiu%{/i}."
+-- TRANSLATION HERE
 }
 [sha:d454a009e96ff751331c1ddf3b0807fdd2c09e5b]{
 -- Page 660, Offset 16399.
 -- 一息ついてベッドに腰をかける。
-Respiro hondo y me tiro a la cama.
+-- TRANSLATION HERE
 }
 [sha:aa9855e8e03b5250545dec26c16b19f14cde5df6]{
 -- Page 660, Offset 16400.
@@ -51,12 +51,12 @@ Respiro hondo y me tiro a la cama.
 [sha:669de443de38b68d569f915d3cac0fdd003f6119]{
 -- Page 662, Offset 16404.
 -- それとも放っておきたくなかったのか。
-O quizá no quiera.
+-- TRANSLATION HERE
 }
 [sha:52e40e314fdd10f2f21403a6a3d3b217a413fc0a]{
 -- Page 662, Offset 16405.
 -- あの奇跡のように美しい、人間ではない生き物を。
-Quizá me sienta atraido a ella, a toda su belleza y a toda su inhumanidad.
+-- TRANSLATION HERE
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 663, Offset 16406.
@@ -68,10 +68,10 @@ Quizá me sienta atraido a ella, a toda su belleza y a toda su inhumanidad.
 -- 一瞬、針を刺すような頭痛があった。
 -- TRANSLATION HERE
 }
-[sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
+[offset:16408]{
 -- Page 663, Offset 16408.
 -- ……なんだろう。
-Pero... algo no tiene sentido.
+-- TRANSLATION HERE
 }
 [sha:4639313f6979e8dc26f63db5393953b5afc9f278]{
 -- Page 663, Offset 16409.
@@ -96,8 +96,7 @@ Pero... algo no tiene sentido.
 [sha:0e30eadaf7b43ebdaebecc2709ff65072e27e5dd]{
 -- Page 664, Offset 16413.
 -- 体と意識を深い闇に引きずり込もうとする、巨大な手のような眠気に身を委ねる。
-// Tl oficial
-El sueño se hace cargo de mi, una mano gigante que arrastra cuerpo y consciencia a la oscuridad profunda.
+-- TRANSLATION HERE
 }
 [sha:5111826b08d3fe7c83025ca79c9d42ef08a2c773]{
 -- Page 664, Offset 16414.
@@ -474,7 +473,7 @@ El sueño se hace cargo de mi, una mano gigante que arrastra cuerpo y conscienci
 -- 同じ年頃の少年たちが思う以上の、輝ける星だった。
 -- TRANSLATION HERE
 }
-[sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
+[offset:16489]{
 -- Page 681, Offset 16489.
 -- だから―――
 Es por eso―――

@@ -143,7 +143,7 @@
 -- 一瞬の躊躇もない。
 -- TRANSLATION HERE
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:35248]{
 -- Page 10, Offset 35248.
 -- 俺は、
 Yo...
@@ -508,7 +508,7 @@ Yo...
 -- ―――０秒。
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:35321]{
 -- Page 10002, Offset 35321.
 -- 「―――え？」
 "―――¿Huh?"
@@ -538,7 +538,7 @@ Yo...
 -- 俺はナイフと共に、意識を闇に落としていった。
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:35327]{
 -- Page 32, Offset 35327.
 -- 「―――え？」
 "―――¿Huh?"

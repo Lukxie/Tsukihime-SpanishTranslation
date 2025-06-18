@@ -123,10 +123,10 @@
 -- ……ただ、その―――」
 -- TRANSLATION HERE
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:28054]{
 -- Page 364, Offset 28054.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:e00848ec25b3f52a47001fd10e14c37c1373b48e]{
 -- Page 364, Offset 28055.
@@ -163,7 +163,7 @@
 -- 死者を一掃したところで仕事は終わりませんよ。私はロアを倒すまでこの街に残ります。元凶を残したまま職務放棄はできませんからね」
 -- TRANSLATION HERE
 }
-[sha:2e95d9c5d54409753e34109ef5d60277fb88c6cb]{
+[offset:28062]{
 -- Page 367, Offset 28062. Mods: @k, @e.
 -- 「―――、
 "
@@ -171,7 +171,7 @@
 [sha:dbcec3df76e528d0dbb31c560813f3de94457a0c]{
 -- Page 367, Offset 28063. Glued. Mods: @x.
 -- え？」
-¿Eh?"
+-- TRANSLATION HERE
 }
 [sha:6fc52319a231cca2278151341c39ff4ba239bee9]{
 -- Page 368, Offset 28064.
@@ -196,7 +196,7 @@
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 369, Offset 28068.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:3fb43e358e5ed582fd60874d0370fe6169dece10]{
 -- Page 369, Offset 28069.
@@ -281,7 +281,7 @@
 [sha:0819415b8baa31d472380275168d825499a8ea42]{
 -- Page 374, Offset 28085. Glued. Mods: @k, @e.
 -- ―――
-――
+-- TRANSLATION HERE
 }
 [sha:6f32634bb935fd9c22240ca7090c9acbb1ae8af5]{
 -- Page 374, Offset 28086. Glued. Mods: @x, @n.

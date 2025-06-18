@@ -86,17 +86,17 @@ Creo que―――
 [sha:95f5b440dc0e01af4749521cb9ea2d49cd9c58e0]{
 -- Page 43, Offset 30612. Mods: @n.
 -- <昏睡|こんすい>の際で
-Vi una luna como esta
+Cuando era pequeño
 }
 [sha:6ac406ece0b4155040e98985b491799cb0195112]{
 -- Page 43, Offset 30613. Glued. Mods: @n.
 -- 見つめていた
-cuando era pequeño,
+ vi una luna como esta,
 }
 [sha:798615fe5965da0976006b35b3021525bff8124f]{
 -- Page 43, Offset 30614. Glued.
 -- きがする。
-cuando caí en un coma.
+ el día en el que caí en coma.
 }
 [sha:fd269993cc49d09c17c225b60a8d8fdebcb47b01]{
 -- Page 44, Offset 30615.
@@ -148,20 +148,20 @@ Está pegajosa. Mi uniforme teñido de un profundo rojo.
 -- 傷が開いて、出血している。
 Mi cicatriz abierta y sangrando.
 }
-[sha:d82319ae49d8581f4f759d24e24ba5649b736610]{
+[offset:30625]{
 -- Page 47, Offset 30625.
 -- ――――どく、ん。
-―――%{i}Bum-bum%{/i}.
+―――%{i}Badu  m%{/i}.
 }
 [sha:e5d62dd10a542dca4b597201c3c25ece06f529ed]{
 -- Page 47, Offset 30626.
 -- 「は―――ア、ハア―――ハッ――――」
 "%{i}Ha――h, ha――ha%{/i}―――"
 }
-[sha:9179982c03ed3215c71fcfec80b02744d5621f1c]{
+[offset:30627]{
 -- Page 47, Offset 30627.
 -- 呼吸が乱れる。
-Mi respiración se vuelve loca.
+Estoy jadeando.
 }
 [sha:192c37eba71339fe5f2826d90a34b8ca099355fb]{
 -- Page 47, Offset 30628.
@@ -232,7 +232,6 @@ Su avance es acompañado por el frío eco de sus pasos.
 [sha:448958298102e9f0d339ca57a7700290ac1a5ec9]{
 -- Page 50, Offset 30641.
 -- ヴローヴのような、吹き荒ぶ脅威とは違う。
-// Esto puede cambiarse
 No siento el peligro en el aire de la misma forma que con Vlov.
 }
 [sha:4c05ea0702a58d403c4f7914c36985f01f360609]{
@@ -308,7 +307,7 @@ Late con ritmo, como si de un corazón se tratase, proclamando que en muerte hay
 [sha:acbe7ff2ef813da99aa27419f9e632c393249499]{
 -- Page 54, Offset 30656.
 -- 「―――――――――――――――――――――」
-"―――――――――――――――――――――"
+-- TRANSLATION HERE
 }
 [sha:58735d54ff2b9438bfef23244e0a89fd959451e6]{
 -- Page 54, Offset 30657.
@@ -353,12 +352,12 @@ Un poco más, y podré ver su cara de cerca.
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30665.
 -- 誰に似ているのか。
-¿A quién me recuerda?
+-- TRANSLATION HERE
 }
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30666.
 -- 誰に似ているのか。
-¿A quién me recuerda?
+-- TRANSLATION HERE
 }
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30667.
@@ -368,7 +367,7 @@ Un poco más, y podré ver su cara de cerca.
 [sha:547e8af76558eaee0267b9cbe818762115ce2c7d]{
 -- Page 55, Offset 30668.
 -- 自分は、誰を忘れているのか――――――
-A quien he olvidado―――
+A quién he olvidado―――
 }
 [sha:9429372c88b7b16f2e9f98c6919a76c0035ab879]{
 -- Page 56, Offset 30669.
@@ -481,7 +480,7 @@ La vida es un enigma.
 [sha:01ca088ca6b1686c8b65519e68f3d164a711f1bc]{
 -- Page 61, Offset 30690.
 -- <堰|せき>を切って走る。
-Rompo las cadenas que me sujetaban y me abalanzo sobre el.
+Rompo las cadenas que me sujetaban y me abalanzo sobre él.
 }
 [sha:c8d79563f13b804a8d7b2a4f2599659e7dfc0a3d]{
 -- Page 61, Offset 30691.
@@ -611,7 +610,7 @@ Y mientras caigo―――
 [sha:d808d9be9ffe7f21831e37016029d10489dd5b8e]{
 -- Page 66, Offset 30716.
 -- 見上げるように男の顔を見た。
-Finalmente puedo ver la cara del hombre ante mi.
+Finalmente puedo ver la cara del hombre ante mí.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 67, Offset 30717.
@@ -699,7 +698,7 @@ Cuando era pequeño.
 [sha:32db60524e4175deb5d67ed80623287053961669]{
 -- Page 71, Offset 30733.
 -- 遠野の屋敷で遊んだ、自分と、秋葉と、もう一人のこどものことを。
-Cuando jugaba en los jardines de la mansión Tohno, éramos Akiha y yo... y otro chico.
+Cuando jugaba en los jardines de la mansión Tohno, éramos Akiha, yo... y otro chico.
 }
 [sha:fa6847e6718914ad43889a86a91191b4e153c23f]{
 -- Page 72, Offset 30734.
@@ -741,7 +740,7 @@ El dueño de este cuerpo, Tohno SHIKI, ya no está con nosotros.
 [sha:b451da08f01d719cb55e3f7fc93289d503ff9d89]{
 -- Page 73, Offset 30741. Glued.
 -- 君への復讐を完遂して、な」
-Ya que, una vez ejecutada su venganza, carecía de razón para permanecer."
+ Ya que, una vez ejecutada su venganza, carecía de razón para permanecer."
 }
 [sha:beaef76eaa02e186c47a2af45d9bcb5ba203733e]{
 -- Page 74, Offset 30742.

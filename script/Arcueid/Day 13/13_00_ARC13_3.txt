@@ -59,10 +59,10 @@ Lo único que nos espera dentro es una lucha a muerte.
 -- はあ、と深呼吸をしたあと、眼鏡を外した。
 Respiro profundamente, y me quito las gafas.
 }
-[sha:24f46a0482ba923b601f8dae125d9c0799b01e10]{
+[offset:32326]{
 -- Page 238, Offset 32326.
 -- 頭痛が走る。
-Me duele la cabeza.
+Un dolor familiar me atraviesa el cerebro.
 }
 [sha:4aa2a87fdb53e7fb3a840fdb97eb852434999181]{
 -- Page 238, Offset 32327.
@@ -96,26 +96,24 @@ La luna ilumina las tinieblas de la escuela con su brillo plateado.
 -- 「ロアの状態です。真祖は月齢によってその能力限度を上下させます。彼らは満月に近いほど力を増す。それは死徒であるロア本人も同じです。
 "Hablo de la condición de Roa.
  El poder total de un Verdadero Ancestro crece y decrece dependiendo de la fase lunar.
- Cuanto mas cercanos a luna llena, más fuertes se vuelven.
- Lo mismo ocurre con los Apóstoles Muertos como el.
+ Cuanto más cercanos a luna llena, más fuertes se vuelven.
+ Lo mismo ocurre con los Apóstoles Muertos como él.
 }
 [sha:f5417c0e00f6b071bde2f05d21043a2c3fd74172]{
 -- Page 241, Offset 32333.
 -- ……今夜のロアはかぎりなく不死身に近いでしょう。今のわたしの装備では殺しきれないかもしれません」
-// Mix de tls
 Esta noche, Roa anda rozando la inmortalidad.
  Es posible que no pueda matarlo con el equipamiento que tengo a mano."
 }
 [sha:2bd2d5f06eec228c1a30813c89421e6e2c28ee9d]{
 -- Page 242, Offset 32334.
 -- ―――限りなく不死身に近い、か。
-// Tl oficial
 ―――Rozando la inmortalidad, eh.
 }
 [sha:ddc8d8e1ea7cab16205e3440b5d40d07ec9d4c92]{
 -- Page 242, Offset 32335.
 -- けど、それは俺には関係がない。
-Eso no significa nada para mi.
+Eso no significa nada para mí.
 }
 [sha:5395018993cf866f2a9af01772daf12d46d26cfe]{
 -- Page 242, Offset 32336.
@@ -126,7 +124,7 @@ Mientras exista en él una forma de 'morir', no importa la dificultad de la mism
 [sha:0153049ae8d6c2230d983bdf1d697c81106344ac]{
 -- Page 243, Offset 32337.
 -- 近づければ。次の瞬間にこの胸を貫かれてもいいから、近づければ、一息のうちにヤツの“死”を貫いてみせる。
-Solo tengo que se acerque a mi. No importa si me atraviesa el pecho en el intento――si se acerca, perforaré su 'muerte' en un instante.
+Solo necesito que se acerque a mí. No importa si me atraviesa el pecho en el intento――si se acerca, perforaré su 'muerte' en un instante.
 }
 [sha:f371fd5a08fdd8ec078bd3a3c6ef3e251d6bbea3]{
 -- Page 244, Offset 32338. Mods: @k, @e.
@@ -134,10 +132,10 @@ Solo tengo que se acerque a mi. No importa si me atraviesa el pecho en el intent
 "Pero, si que brilla esta noche.
  Nos costará infiltrarnos bajo el amparo de la oscuridad.%{n}
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:32339]{
 -- Page 244, Offset 32339. Glued. Mods: @x, @n.
 -- ……
-...
+%{n}......
 }
 [sha:730b39b2b7abce948cf036d62dc18157cf41c11f]{
 -- Page 244, Offset 32340. Glued.
@@ -173,7 +171,7 @@ Un testimonio a la muerte de la existencia, en el que quizá uno pueda encontrar
 [sha:b1e428399555581177ab981388acc6bbffffc9f2]{
 -- Page 245, Offset 32346.
 -- ずきりと。
-%{i}Crack%{/i}.
+-- TRANSLATION HERE
 }
 [sha:8e14acb794435027d8e9c975e4d5960311a14c99]{
 -- Page 245, Offset 32347.
@@ -183,7 +181,6 @@ Mi cerebro rechina.
 [sha:aa4a40757359c3088c41fec8cd6d4bd2172284a9]{
 -- Page 246, Offset 32348.
 -- 「……太陽じゃなくて、月の弱い明りだとよけいにはっきり視えるから。線をかき消すぐらい強い陽射しか、本当の暗闇のほうが、気が楽だ」
-// Esta es complicadilla
 "Por que a diferencia del sol, la suave luz de la luna revela cosas que estaría mejor sin ver.
  Estaría más cómodo bajo la luz del sol u oscuridad total, ya que hacen las líneas menos visibles."
 }
@@ -207,7 +204,7 @@ No es dolor lo que causa que mi cerebro chirrie,
 -- Page 248, Offset 32352.
 -- なにもかも死に<易|やす>そうで、まるで月の荒野にいるみたい」
 Todo parece estar al borde de la muerte.
- Es como si estuviéramos a la superficie de la luna."
+ Es como si estuviéramos en la superficie de la luna."
 }
 [sha:73f2393a1999b1e2dc77de9d2e6cdbf46ed35277]{
 -- Page 248, Offset 32353.
@@ -257,7 +254,6 @@ Senpai declara su estrategia sin una pizca de vergüenza.
 [sha:0437befbe2b5484b6590a0d46b6cdbd3168a4139]{
 -- Page 251, Offset 32361.
 -- ……うん。嘘で誤魔化さないその<真摯|しんし>さが、今はとても頼りになる。
-// Rarete
 Sí... me alegro de poder fiarme de ella, no se guarda nada.
 }
 [sha:c8b8006ebe6dd4bacb34dccd30a815a9f3c4e369]{
@@ -269,13 +265,12 @@ Sí... me alegro de poder fiarme de ella, no se guarda nada.
 [sha:3621ac590c00d5b06cc6404d520bdbabfff08212]{
 -- Page 253, Offset 32363.
 -- 「はい。仕事に私情を挟むのはここまでです。
-// Tl oficial.
 "Sí. Aquí terminan mis sentimientos personales y comienza mi deber.
 }
 [sha:88d8f3ba2fde0cf7f0217a28acb5c3c76463f408]{
 -- Page 253, Offset 32364.
 -- 遠野くんは彼女の為に戦うのでしょう？　それと同じように、わたしにも自分なりの理由があるんです。
-Tu luchas por ella, ¿verdad? Al igual que tú, yo también tengo mis razones para luchar.
+Tú luchas por ella, ¿verdad? Al igual que tú, yo también tengo mis razones para luchar.
 }
 [sha:51c03537cdb9f546737e75af4cfeae235834eb6c]{
 -- Page 253, Offset 32365.

@@ -26,7 +26,7 @@ Una vez llego a la Estación Kushizuka,
 -- Page 246, Offset 20279.
 -- 最寄りのバス停からさらに歩くこと20分。
 Incluso desde la parada más cercana
- llegar aun me toma otros veinte minutos a pie.
+ llegar aún me lleva otros veinte minutos a pie.
 }
 [sha:597928ef6eb1ad5661c594972646fc7e5f07d58a]{
 -- Page 246, Offset 20280.
@@ -85,7 +85,7 @@ Aquí el cielo parece tan alto.
 -- Page 249, Offset 20290.
 -- 周囲に背の高い建物がないため、視界いっぱいに青空が広がっている。
 Sin edificios altos bloqueando la visión,
- en cualquier dirección no hay nada salvo el vasto cielo azul.
+ donde quiera que mires no hay nada salvo el vasto cielo azul.
 }
 [sha:c850527221ab9ec326a796cce55f9d4943969d43]{
 -- Page 249, Offset 20291.
@@ -120,7 +120,7 @@ Parece que aquí no hay nada más que un edificio abandonado,
 -- Page 251, Offset 20296.
 -- 無駄骨だったが、まあ、調査というものはこういうものだろう。正門に戻り、次のバスの時間をチェックする。
 Esta pista puede haber sido una pérdida de tiempo, pero es algo normal en una investigación.
- Vuelvo a la entrada y reviso cuando pasa el siguiente bus,
+ Vuelvo a la entrada y reviso cuando pasa el siguiente bus.
 }
 [sha:58b4d8b8503f5fa9f5ef52bd123efa3b82aafdc8]{
 -- Page 251, Offset 20297.
@@ -132,5 +132,5 @@ Parece que en diez minutos pasa uno que va a la estación.
 -- Page 251, Offset 20298.
 -- やれやれと肩をすくめて、バス停に走る事にした。
 Me encojo de hombros, hastiado,
- y me pongo a correr hasta la parada.
+ y me pongo a correr hacia la parada.
 }

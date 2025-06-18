@@ -1,7 +1,7 @@
 [sha:c49fe76b268cad1c5cb7ae65054ccc4d1eca561e]{
 -- Page 10001, Offset 2696.
 -- 居間には秋葉と翡翠の姿があった。
-En la sala de estar, encuentro a Akiha y a Hisui.
+En la sala de estar, me encuentro a Akiha y Hisui.
 }
 [sha:e87b1126f56bf963fb99c22626b51a59e474d079]{
 -- Page 10001, Offset 2697.
@@ -48,12 +48,12 @@ Me trago mis palabras 'Hoy me he levantado más pronto de lo normal' y me siento
 [sha:38094a4d0b811c5ab664ce5c98f1d01fc8ee145d]{
 -- Page 40, Offset 2705.
 -- 私も、もう一杯いただきます」
-Yo tomaré otra taza también."
+Yo también tomaré otra taza."
 }
 [sha:36c642d21115976c85e66c9f493a040a17940444]{
 -- Page 40, Offset 2706.
 -- 「かしこまりました。志貴さま、お砂糖はお入れしますか？」
-"Entendido. Shiki-sama, ¿quiere azúcar en su té?
+"Entendido. Shiki-sama, ¿quiere azúcar en su té?"
 }
 [sha:b606b4c9d41508e008eb449bd306675f11320ded]{
 -- Page 40, Offset 2707.
@@ -78,7 +78,7 @@ Así empieza la parte incómoda de la mañana.
 [sha:87260e62e333a94f1b7908cbb3ec1557591b6a69]{
 -- Page 41, Offset 2711.
 -- 翡翠はティーカップをテーブルに置くと、壁際に戻って待機。
-Hisui pone la taza sobre la mesa, y vuelve a esperar a la pared.
+Hisui pone la taza sobre la mesa, y se vuelve a esperar junto a la pared.
 }
 [sha:5ed0b3b96f952f0b3976075f0ceeb9077e1a540c]{
 -- Page 41, Offset 2712. Mods: @n.
@@ -113,12 +113,12 @@ Anoche aprendí la grandeza de la mansión Tohno, y este té no es la excepción
 [sha:15b722ca6d8973efdd959516ab0e4d761db5bcff]{
 -- Page 44, Offset 2718.
 -- 「今朝はマリアージュのエスプリドノエルですね。
-"Esta mañana estamos tomando %{i}Esprit de Noel%{/i} de %{i}Mariage%{/i}.
+"Esta mañana estamos tomando %{i}Esprit de Noel%{/i} proveniente de %{i}Mariage%{/i}.
 }
 [sha:7c24e6addd26f481552f2d264ff9bdc8e922d63a]{
 -- Page 44, Offset 2719.
 -- 紅茶の名店といえばイギリスですが、こちらはフランスの名店です。創業そのものは1850年頃、日本に上陸したのはつい最近……十五年ほど前だからメジャーではないものの、品質に問題はありません」
-El las tiendas de té más famosas están en Inglaterra, pero este es de Francia.
+Las tiendas de té más famosas están en Inglaterra, pero este es de Francia.
  Fue fundado sobre 1850, pero solo empezó a estar disponible en Japón hace quince años...
  No es una marca importante, pero es de buena calidad."
 }
@@ -135,7 +135,7 @@ Akiha sonríe de manera orgullosa, supongo que está disfrutando de mi sorpresa.
 [sha:c067f8f1f90115c5438ea03f49e2ebb607cfccd3]{
 -- Page 46, Offset 2722.
 -- 「お値段もお手頃だそうですし、庶民派な兄さんに合わせてみた甲斐がありました。上質の葉には黄金に等しい価値があると勉強になりましたか？」
-"He escuchado que su precio es asequible, así que pensé que sería una buena elección para mi hermano plebeyo.
+"He escuchado que su precio es asequible, por lo que pensé que sería una buena elección para el plebeyo de mi hermano.
  ¿Ves como una buena hoja vale su peso en oro?
 }
 [sha:71061e058ae0d068af9726fd613fff70a59dac05]{
@@ -146,7 +146,7 @@ La señoriosa Akiha me mira por encima del hombro como si fuera un tipo de paté
 [sha:f9bbd68cdd193d39132122859dcc2e5717d6ba1e]{
 -- Page 47, Offset 2724.
 -- ティーカップを<皿|ソーサー>に置く仕草さえ優雅である。
-Incluso sus gestos devolviendo la taza al plato son elegantes.
+Incluso sus gestos al devolver la taza al plato son elegantes.
 }
 [sha:b155b154c38f063ca2f994b48abd0176674dffce]{
 -- Page 48, Offset 2725.
@@ -161,11 +161,10 @@ Pero, desafortunadamente, tiene razón.
 [sha:633e7549a1a56f4d2968036589c6a771f738b35c]{
 -- Page 48, Offset 2727.
 -- これが本当の紅茶……今まで俺が午後に飲んでいた紅茶とはなんだったのか……というか、これなら貿易会社の一つや二つ、確かに起こる。娯楽の少ない時代にこんなものがあったら、俺だって必死に取り寄せたくなるぞ……。
-// Más que traducir directamente real deal o ponerlo como 'este té es buena mierda' creo que definirlo como 'el té' tiene más sentido en español.
-// Corregido
+//Más que traducir directamente real deal o ponerlo como 'este té es buena mierda' creo que definirlo como 'el té' tiene más sentido en español.
 Este es 'el té'...
  Quiero decir, ¿qué he estado bebiendo por las tardes hasta ahora?
- Veo como se podrían fundar una o dos compañías de comercio con algo así...
+ Veo como se podrían fundar una o dos compañías de comercio a partir de algo así...
  Si esto existiera en una época sin mucho otro entretenimiento, yo también estaría desesperado por obtenerlo.
 }
 [sha:7f18323c0a1a8fbcae24ae551f007b9ed3bdb79e]{
@@ -181,12 +180,12 @@ Pasan unos diez minutos.
 [sha:d6f5951d9371018f57ce76beceb37d3cb1221868]{
 -- Page 49, Offset 2730.
 -- 俺も秋葉も紅茶を楽しむだけで、これといった会話はかわされなかった。
-Akiha y yo no intercambiamos palabras, simplemente disfrutamos nuestro té.
+Akiha y yo no intercambiamos palabras, tan solo disfrutamos nuestro té.
 }
 [sha:2984a4e96de391051bc6bf12d8fa198714113861]{
 -- Page 49, Offset 2731.
 -- たまに視線があっても話題が思いつかずティーカップに視線を戻す、を繰り返した結果だ。
-De vez en cuando nuestras miradas se cruzaban,
+De vez en cuando cruzabamos miradas,
  pero ninguno de los dos podía encontrar algo de lo que hablar,
  por lo que cada vez que pasaba volvíamos a mirar a nuestras tazas.
 }
@@ -203,17 +202,17 @@ Aún así, pienso que fue tiempo bien empleado.
 [sha:ea1c7b8d9ce55a1787fa565515ebdb5e122e3403]{
 -- Page 50, Offset 2734.
 -- 今まで放っておいた立場で言える事じゃないが、秋葉がこうして穏やかに過ごしているのを見ているだけで、なんともいえない気持ちが湧いてくる。
-No es algo que pueda decir ya que he estado por mi cuenta hasta ahora, pero ver a Akiha pasando así su tiempo tranquilamente me produce una sensación indescriptible.
+No es algo que pueda decir ya que he estado por mi cuenta hasta ahora, pero el ver a Akiha pasando su tiempo así tranquilamente me produce una sensación indescriptible.
 }
 [sha:68483f2e80b7cc9ca2dcc15322db2b2d1cfc8015]{
 -- Page 50, Offset 2735.
 -- これは安心……なんだろうか。どうあれ秋葉が目の前にいてくれる事が、今は嬉しくて仕方がない。
-Es... ¿alivio lo que siento? Lo que sea que es, no puedo evitar estar feliz porque esté frente a mi en este momento.
+Es... ¿alivio lo que siento? Sea lo que sea, no puedo evitar estar feliz por tenerla frente a mi en este momento.
 }
 [sha:b1aaec285e124e8ebb515055c2e01e57cf849c8f]{
 -- Page 51, Offset 2736.
 -- そんなささやかな満足感に浸っていると、廊下から妙な音が聞こえてきた。
-Mientras estaba inmerso en mi pequeño sentimiento de satisfacción, escucho una voz extraña viniendo del pasillo.
+Mientras me encontraba inmerso en este pequeño sentimiento de satisfacción, escucho una voz extraña viniendo del pasillo.
 }
 [sha:d822e975a1b4b6a0d2919e351f1318095e3ed4a7]{
 -- Page 52, Offset 2737.
@@ -238,7 +237,7 @@ El vano, débil tarareo que puedo escuchar a través de las paredes se acerca po
 [sha:945abdacf85827ffd07af5bd8839cde18b57a565]{
 -- Page 53, Offset 2741.
 -- 「ハアーイ、グッモーニーーンッ！
-// Holi le pega a Arach la verdad
+//Holi le pega a Arach la verdad
 "¡Holii, bueenos diiias!
 }
 [sha:80c3d1a8da79e2d3af0f76e19cd03a00cfefd19f]{
@@ -249,18 +248,16 @@ El vano, débil tarareo que puedo escuchar a través de las paredes se acerca po
 [sha:d5d3de78d60cc30d22c04469f7bb16cc92202fab]{
 -- Page 54, Offset 2743.
 -- 豪快にドアを開けて入って来たソレは、デタラメな登場に負けないほど、破天荒な格好をしていた。
-// Corregido
-Abriendo la puerta dramáticamente, una mujer de apariencia tan excéntrica como su saludo irrumpe en la sala de estar.
+Abriendo la puerta dramáticamente, una mujer de apariencia igual de excéntrica a su saludo irrumpe en la sala de estar.
 }
 [sha:0ff0b16c6dd5e12b2386d4c05ac3eb3da67d2b34]{
 -- Page 55, Offset 2744.
 -- 下着一歩手前の上着と、タイトなレザースカート。
-Una chaqueta de cuero lo suficientemente corta como para no cubrir su ropa interior, y una falda de cuero ajustada.
+Chaqueta de cuero lo suficientemente corta como para no cubrir su ropa interior, y una falda de cuero ajustada.
 }
 [sha:3713c65ab15f14198c27721ff389662c14b3606b]{
 -- Page 55, Offset 2745.
 -- 異様に長い髪をどうでもよさげにまとめ、
-// Corregido
 Su pelo inusualmente largo está organizado sin ritmo o razón.
 }
 [sha:d9a4ef0af28d4ecae225e85493ce89add1866f0c]{
@@ -281,14 +278,14 @@ Por lo que puedo ver de su pecho y caderas expuestas, tiene una excelente figura
 [sha:c19fd224f6200a718e438a3144d560577da6ff87]{
 -- Page 56, Offset 2749.
 -- やってきた女性は『成熟しきった大人の女』そのもので、こんな時代錯誤な洋館にいるより、真夏の浜辺で寝そべっている方がしっくりくる。
-// Igual esto es estirar mucho el chicle y suena forzado, como a traducción literal.
-La mujer que acaba de llegar es la 'feminidad adulta y madura' personificada,
+//Igual esto es estirar mucho el chicle y suena forzado, como a traducción literal.
+La mujer que acaba de llegar es la personficacion de la 'feminidad adulta y madura',
  el tipo de persona que te esperarías ver tumbada en la playa más que dentro de un edificio de estilo Occidental anacronista como este.
 }
 [sha:54a07f359ace7b8ff9a2a2de0d74dda0aa3ce270]{
 -- Page 56, Offset 2750.
 -- ……あの、妙に似合う白衣さえなければの話だが。
-Bueno... si no fuera por lo extrañamente bien que le queda esa bata de laboratorio.
+Bueno... eso si no fuera por lo extrañamente bien que le queda esa bata de laboratorio.
 }
 [sha:d4b91def89288a2d7d194a35f5dd72757efefbc3]{
 -- Page 57, Offset 2751.
@@ -308,7 +305,7 @@ Bueno... si no fuera por lo extrañamente bien que le queda esa bata de laborato
 [sha:3f41347ec64d88348284cb1b941d309e971e2af4]{
 -- Page 58, Offset 2754.
 -- 夕日を見てたらムラッときちゃって、調査ほっぽりだして街に飛び出したのよぅ。ま、率直に言えばサボリ。なーんで、今日こそキチンとお仕事したくて朝からやってきたワケ！
-Cuando estaba viendo la puesta de sol, me frustré, así que abandoné mi investigación y me fui a la ciudad. Resumiendo, me salté el trabajo. Así que, ¡hoy he venido aquí por la mañana para terminar algunos trabajos!
+Cuando estaba viendo la puesta de sol, me frustré, así que abandoné mi investigación y me fui a la ciudad. Resumiendo, me salté el trabajo. Así que, ¡hoy he venido aquí por la mañana para terminar algunos asuntos!
 }
 [sha:3e89cad80755e815063fd623fbb1009933afa0e5]{
 -- Page 58, Offset 2755.
@@ -343,12 +340,12 @@ Me está mirando fijamente.
 [sha:697df5bad62304e6527a6e7aa765c2dc9e91ce50]{
 -- Page 61, Offset 2761. Mods: @n.
 -- たっぷり観察して納得したのか、
-Como si llegase a un entendimiento después de observarme detenidamente,
+Como si hubiese llegado a un entendimiento tras observarme detenidamente,
 }
 [sha:6ca732286eceec96244d7322c46f7fd98db2e95b]{
 -- Page 61, Offset 2762. Glued.
 -- 女はニマリ、と笑ったかと思うと―――
-la mujer parecía haber sonreído pícaramente―――
+ la mujer parece haber sonreído pícaramente―――
 }
 [sha:349701cecb07893cdd81a72ca1dc5606d1fad65e]{
 -- Page 62, Offset 2763.
@@ -363,20 +360,20 @@ Es-¡Esto es demasiado bueno para ser verdad―――!
 [sha:fc00792ed0484a83a6c10e0afc0b6a1fa09a35f1]{
 -- Page 62, Offset 2765.
 -- なにこれ、当主チャンったらアタシを笑い殺す作戦でキタわけ!?　それすごい、デッドマストでＡ－１０<分泌|で>まくり！
-// Chiste de inmunología, realmente de nicho y terrible.
+//Chiste de inmunología, realmente de nicho y terrible.
 Qué es esto, ¿nuestra Matriarca-chan ha pensado un plan para matarme de la risa? Es increíble, ¡como un A10 secretado en su totalidad de un mastocito muerto!
 }
 [sha:1937aedd597b84120855cf63edbc91d8f54848a6]{
 -- Page 62, Offset 2766.
 -- ツボ、ツボだわ、マクベスかっつーのこの屋敷！　もう殺すとか殺されるとか、悲劇につっ走る気満々じゃない！」
-// No he leído Macbeth, me dont understando this referencia. Igual necesita corrección.
+//No he leído Macbeth, me dont understando this referencia. Igual necesita corrección.
 Ay, dios mío, ¡es como Macbeth en esta mansión!
  ¡Vais de cabeza a la tragedia como si fuera matar o morir!"
 }
 [sha:90bd6ad9eea385a28eb5ca59a29e65772621496a]{
 -- Page 63, Offset 2767.
 -- 女は腹を抱えて笑っている。
-Se está partiendo de la risa.
+Se parte de la risa.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 63, Offset 2768.
@@ -386,7 +383,7 @@ Se está partiendo de la risa.
 [sha:38f2311ed1a93ed877101447c7d01b483acbcdf7]{
 -- Page 63, Offset 2769.
 -- こっちは顔をしかめる事しかできない。
-No podía hacer más que fruncir el ceño.
+No puedo hacer más que fruncir el ceño.
 }
 [sha:32f59299d3c4be077ff39fc95111b0267c11bf0d]{
 -- Page 63, Offset 2770.
@@ -406,8 +403,7 @@ No podía hacer más que fruncir el ceño.
 [sha:48cbfabbdccb88017f971b8dc764513bb57766a4]{
 -- Page 64, Offset 2773.
 -- 置いてけぼりの俺を見かねたのか、秋葉はコホン、と咳払いして白衣の女をたしなめた。
-// Revisar
-Como si no aguantase verme tan perdido, Akiha garraspea y reprende a la mujer en bata de laboratorio.
+Dando la impresion de no aguantar verme tan perdido, Akiha garraspea y reprende a la mujer de la bata.
 }
 [sha:024c6cf0b2b96e3aeec278f029e41ad387cad638]{
 -- Page 65, Offset 2774.
@@ -427,9 +423,8 @@ Makihisa-kun me habló de él.
 [sha:571ec87ed5a9f48afdc33bfaf61022feb62a6342]{
 -- Page 65, Offset 2777.
 -- 志貴チャンだって、アタシみたいな余所者の事情なんて興味ないでしょう？　つーかそんな甲斐性があるなら当主チャンに向けてあげろって話ぃ？」
-// Corregido
-No está interesado en los asuntos de un desconocido como yo, ¿verdad?
- Además, si lo estuviera, ¿no estaría mejor hablando contigo?
+Shiki-chan no está interesado en los asuntos de una desconocida como yo, ¿verdad?
+ Además, si lo estuviera, ¿no sería mejor que hable contigo?"
 }
 [sha:71f4e7cc34e0a92860956b5f8d5a1335de0137e7]{
 -- Page 66, Offset 2778.
@@ -464,12 +459,12 @@ pero entonces el destino me llevó hasta Makihisa-kun.
 [sha:ed9e0be1a03e7bff9ddb2f08cdde7c5c2a55919a]{
 -- Page 67, Offset 2784. Glued. Mods: @x, @k, @e.
 -- でも残念、槙久クンはちょーーーっとタイプじゃないんであっさり断って、今は当主チャンのお友達？
-Pero una lástima, no es reaaaalmente mi tipo, así que simplemente le di calabazas, ¿y ahora supongo que soy amiga de la cabeza actual?
+ Pero que lástima, no es reaaaalmente mi tipo, así que simplemente le di calabazas, ¿y ahora supongo que soy amiga de la cabeza actual?
 }
 [sha:1c826823fe58aabce788fa87ae5214a127e71acb]{
 -- Page 67, Offset 2785. Glued. Mods: @x.
 -- なのかしら？」
-O algo así."
+ O algo así."
 }
 [sha:84b560b3308e3cd74bd768f31bb918c5961ba209]{
 -- Page 68, Offset 2786.
@@ -494,18 +489,18 @@ Como amiga de Padre, ahora actúa como mi consejera."
 [sha:081fd5eccba60747224ee7328c2e6d4e734b242b]{
 -- Page 70, Offset 2790.
 -- 「えー。アタシ、その呼び方キラーイ。
-"¿Eeeh? No me gusta cuando me llamas eso.
+"¿Eeeh? No me gusta que me llames así.
 }
 [sha:bba8d0c9de5866d0d968f1fb6046fbe0933fa0bd]{
 -- Page 70, Offset 2791.
 -- は・か・せ。アタシのコトは親しみと愛情をこめて、阿良句博士って呼んでくれなきゃ博士泣いちゃーう！」
-Doc-to-ra. Lloraré si no me llamas Doctora Arach con amor y afecto!"
+Doc-to-ra. ¡Lloraré si no me llamas Doctora Arach con amor y afecto!"
 }
 [sha:bbbe2e66260e235d6be745e33461fb67e4f35038]{
 -- Page 71, Offset 2792.
 -- 泣くどころかケラケラ笑う阿良句氏。
-// redundancia y lo de Srta no se si es mejor decir Dña. o Sra.
-En vez de llorar, Srta. Arach sonríe y se ríe.
+//redundancia y lo de Srta no se si es mejor decir Dña. o Sra.
+En vez de llorar, Srta. Arach sonríe y suelta una carcajada.
 }
 [sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
 -- Page 71, Offset 2793.
@@ -515,7 +510,7 @@ Sin embargo...
 [sha:2168851c9673cb01e24678a92e0039b197ed9d3a]{
 -- Page 71, Offset 2794.
 -- 笑いながらも、その目はぴったりと―――この部屋にやってきた時からずっと、粘り着く糸のように、俺の顔に向けられている。
-Aunque lo haga, sus ojos siguen pegados a mi cara, como han estado desde el momento que entró en la habitación.
+Mientras lo hace, sus ojos siguen pegados a mi cara, como lo han estado desde el momento que entró en la habitación.
 }
 [sha:cb61c68834e50acdb6aa1fbe5d2cdf01494007de]{
 -- Page 72, Offset 2795.
@@ -535,6 +530,7 @@ Sin leer el ambiente――no, sin ser %{i}afectado%{/i} por él, neutraliza la t
 [sha:2ab0892bd1dc0ed84421924675da8a9eb95da015]{
 -- Page 74, Offset 2798.
 -- 「もう。メイドチャンったら、ホント、メイドの鑑ねぇ」
+//Lo dejo como Maid-chan de momento porque Criada-chan hace que sangren mis ojos, igual hay que cambiar todas las veces que digo criada por sirviente o maid
 "Oh, Maid-chan. Realmente eres la epítome de las sirvientas."
 }
 [sha:16f9082ae6ae5e55b762b0e7c4655dcbecadea76]{
@@ -545,13 +541,12 @@ Se enfurruña porque la han interrumpido.
 [sha:272ea8403d8a285ce34987740c26b5c1da80f724]{
 -- Page 74, Offset 2800.
 -- 阿良句女史は片手を腰にあて、スポーツドリンクを飲むような豪快さで、砂糖のたっぷり入った紅茶を一息で飲みきった。
-Con una mano en su cadera, se bebe el té repleto de azúcar de un gran, abundante trago como si estuviera tragando bebida deportiva.
+Con una mano en su cadera, se bebe el té repleto de azúcar de un gran y abundante trago como si estuviera tragando bebida deportiva.
 }
 [sha:e151fc1f4906af7091f7851cb26f1efc6824ba4d]{
 -- Page 75, Offset 2801.
 -- 「おう、ナイスシュガー！　糖分が五臓六腑に染み渡る、っていうか子宮とか卵巣にキュンと溶けイっちゃってたまんナーイ！　<気|ラ><合|ブ>入ってきたー！」
-// xd
-// Corregido
+//xd
 "Ohh, ¡el buen azúcar! ¡Dominando mis cinco sentidos! Hace incluso que mis ovarios y útero se derritan... ¡Ya viene! %{i}Haah%{/i}... ¡graaacias por la comidaa!"
 }
 [sha:5b992df5812f3dea072385030123f97d98c64ca9]{
@@ -577,7 +572,6 @@ Al tocar el pomo, la mujer se gira y me dice―――
 [sha:c14bf406cef9e280b46f8d40654b2d94060443ea]{
 -- Page 78, Offset 2806.
 -- これから色々あるでしょうけど―――
-// Corregido
 Muchas cosas van a pasar de ahora en adelante, pero...
 }
 [sha:0b7d32ea132d3119360f746e94bead12dc53b060]{
@@ -608,21 +602,20 @@ Un silencio indescriptible engulle la sala de estar.
 [sha:83418d533825f11c54877392a5a4124293f68688]{
 -- Page 80, Offset 2812.
 -- 「なあ、秋葉」
-// Corregido
 "Esto, Akiha."
 }
 [sha:aeca4550679c225142ed3d347ddd10734770e1e8]{
 -- Page 80, Offset 2813.
 -- 「阿良句先生については、私もよくは知りません。
-"Yo tampoco sé mucho sobre Arach-sensei."
+"Yo tampoco sé mucho sobre Arach-sensei.
 }
 [sha:e56ad4174fa8d5ba916d4c6ad182527994ceccda]{
 -- Page 80, Offset 2814.
 -- お父様の遺言の関係で、屋敷本館への出入りと手入れを一任されている方です。お父様は建築家として重宝なさっていたとか。ご本人曰く、建築業は副業だそうですが」
-// Will, es testamento o voluntad aquí
+//Will, es testamento o voluntad aquí
 Pero de acorde al testamento de Padre, ella está a cargo del mantenimiento y la gestión de la mansión.
  Escuché que la tenía en alta estima como arquitecta.
- De acuerdo con lo que dice Arach misma, parece ser que era algo que hacía aparte."
+Sin embargo, de acuerdo a lo que Arach misma dice, parece ser que era algo que hacía aparte."
 }
 [sha:a09e551d16dbaab6854444f2adc599ff8adb44d7]{
 -- Page 81, Offset 2815.
@@ -632,12 +625,12 @@ La declaración de Akiha es seca.
 [sha:d777a6bd7bed54c06ea84f5d2da425804f656890]{
 -- Page 81, Offset 2816.
 -- “あの人、なに？”という質問の先手を打たれてしまった。
-Me corta antes de que siquiera pueda preguntar '¿qué pasa con %{i}ella%{/i}?'
+Me corta antes de que siquiera pueda preguntar '¿qué %{i}la%{/i} pasa?'
 }
 [sha:e6d121be579f94390ac5b382192473410ace95f0]{
 -- Page 81, Offset 2817.
 -- “それ以上の質問は受け付けません”といわんばかりの態度だ。
-Está claro por su actitud que no responderá a mis preguntas.
+Por su actitud está claro que no responderá a mis preguntas.
 }
 [sha:4437922f355797e70d4630533911e854162468bd]{
 -- Page 82, Offset 2818. Mods: @k, @e.
@@ -652,8 +645,7 @@ Está claro por su actitud que no responderá a mis preguntas.
 [sha:2d9dcbc09d806e72967c60bec15c77f1c08dfc71]{
 -- Page 82, Offset 2820.
 -- ははーん。朝から無理難題を言って、さっそく志貴さんを怯えさせてしまったのですか？」
-// Revisar, rígido
-%{i}Jaja%{/i}. ¿Ya habéis asustado esta mañana a Shiki-san diciendo cosas poco razonables?"
+%{i}Jaja%{/i}. ¿Ya estaís desde por la mañana asustando a Shiki-san con cosas poco razonables?"
 }
 [sha:f21939141e1139c20284276085d348254e86faf3]{
 -- Page 83, Offset 2821.
@@ -663,14 +655,13 @@ Está claro por su actitud que no responderá a mis preguntas.
 [sha:2dd3b1c385eb61f2202b7a7f82b611cbc36482fd]{
 -- Page 83, Offset 2822.
 -- 第一、私は理不尽な決まり事は口にしません。常識的な範囲でのお願いをするだけです」
-// Corregido
 Primero de todo, no le pido nada poco razonable.
- Mis peticiones se encuentran justo en lo que se considera sentido común."
+ Mis peticiones se encuentran dentro de lo que se considera sentido común."
 }
 [sha:14bcc94efc69dff3e1dfb505a041ef6b3ecefff7]{
 -- Page 84, Offset 2823.
 -- 秋葉の物言いに、おお、と感心する琥珀さん。
-Se impresiona por la declaración de Akiha.
+Kohaku se impresiona ante la declaración de Akiha.
 }
 [sha:3b8afa4154932fdd715f7ba322854ff3df1a722f]{
 -- Page 84, Offset 2824.
@@ -685,13 +676,11 @@ Es solo el segundo día, pero estoy empezando a comprender la relación entre es
 [sha:3854f5c07189dc191df7aed876d98427b0233916]{
 -- Page 85, Offset 2826.
 -- 兄さん。昨夜も言いましたが門限は厳守するように。昨夜のニュースはご覧になっていますか？」
-// Corregido
-Nii-san, como dije anoche, el toque de queda está impuesto estrictamente. ¿Miraste anoche las noticias?"
+Nii-san, como dije anoche, el toque de queda está impuesto estrictamente. ¿Revisaste las noticias anoche?"
 }
 [sha:3ae2aac3f1d513df7c2a8a6b5f09f647723926df]{
 -- Page 85, Offset 2827.
 -- 「なってないよ。携帯電話は誰かに取り上げられたからね。理不尽気味に」
-// Corregido
 "No, no lo he hecho. Ya que, alguien me quitó el teléfono. Y de manera irrazonable, debo añadir."
 }
 [sha:a1e8f5e5e8e3cb0f32443798957328668c96a876]{
@@ -712,25 +701,23 @@ Ahí lo tienes.
 [sha:0b53275ac4d4d20ffe1d267926c89550f2bfe112]{
 -- Page 87, Offset 2831.
 -- 俺のささやかな<皮肉|ていこう>なんぞノータイムで跳ね返す鉄壁の姿勢だった。
-// Diavlo que duresa
-// Revisar
-Mi intento de sarcasmo fue evitado instantáneamente por su inexpugnable porte.
+Su inexpugnable porte evita instantáneamente mi intento de sarcasmo.
 }
 [sha:154ac5533522b869cdcb6e14ccc0f48492a8fa7a]{
 -- Page 88, Offset 2832.
 -- 「ニュースによると、昨夜、総耶駅北口で浮浪者の遺体が発見されたそうです。栄養失調による凍死とも、出血による衰弱死とも報道されています」
-"Según las noticias, anoche el cuerpo de un transeúnte fue encontrado al norte de la Estación de Souya. Se ha informado que o se congeló por malnutrición o sucumbió por pérdida de sangre."
+"Según las noticias, anoche el cuerpo de un transeúnte fue encontrado al norte de la estación de Souya. Han informado de que o se congeló por malnutrición o sucumbió por pérdida de sangre."
 }
 [sha:e1997fb83050ddd6b81d40ca1fd48a02b253f5d8]{
 -- Page 89, Offset 2833.
 -- 「真相はどうあれ、このところ繁華街の治安は良くないようです。そんな時に出歩いてくだらない事件に巻きこまれては遠野家の恥ですから。
 "Independientemente de lo que pasara, estos días parece que el área del centro no es segura.
- Sería una desgracia para la familia Tohno si te vieras involucrado en un incidente trivial mientras deambulas por allí.
+ Sería una desgracia para la familia Tohno que te vieras involucrado en un incidente trivial mientras deambulas por allí.
 }
 [sha:18278c69943a54be1ee149dfda32170be3bd0c28]{
 -- Page 89, Offset 2834.
 -- 学校が終わり次第、日が落ちる前に屋敷に戻ることを心がけてください」
-Cuando termine la escuela, por favor asegúrate de volver a la mansión antes del anochecer."
+En cuanto terminen las clases, por favor, asegúrate de volver a la mansión antes del anochecer."
 }
 [sha:05f78a3c34698d46834e06c5fc45cabfaacc7a36]{
 -- Page 90, Offset 2835.
@@ -740,5 +727,5 @@ Tras recordarme sobre el toque de queda, Akiha deja la sala de estar.
 [sha:af5c46524a5fdc10c49ea1c2a7cc640929385d17]{
 -- Page 90, Offset 2836.
 -- しかし……日が落ちる前って、６時までには帰ってこいって事だ。門限８時とは何だったのか。
-Pero... antes del anochecer significa que tengo que volver antes de las seis en punto. ¿El toque de queda no era a las ocho?
+Pero... antes del anochecer significa que tengo que estar de vuelta a las seis en punto. ¿El toque de queda no era a las ocho?
 }

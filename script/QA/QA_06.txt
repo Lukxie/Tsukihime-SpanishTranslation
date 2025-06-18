@@ -3,10 +3,10 @@
 -- <ＯＳ|オーエス>。<ＯＳ|オーエス>。<ＯＳ|オーエス>。
 OS. OS. OS.
 }
-[sha:c88a8885bad9130c8a1db417ce5a1e47d79888fc]{
+[offset:42977]{
 -- Page 116, Offset 42977.
 -- と。
-.
+Fiu.
 }
 [sha:c78b8ed8424e53a631717cee9750a4e6bd7654c2]{
 -- Page 117, Offset 42978. Mods: @n.
@@ -16,7 +16,7 @@ Llevo veinte horas presionando las teclas O y S.
 [sha:713b6eea35f74e87258b9bdcbc0b59431777360a]{
 -- Page 117, Offset 42979.
 -- こんだけ打っておけば何らかのアプリも完成すんだろ。
-Con%{n}todo este tecleo, ya podría haber desarrollado una app.
+ Con%{n}todo este tecleo, ya podría haber desarrollado una app.
 }
 [sha:a7d9ff493774b694325dc52bb79b676370dadeeb]{
 -- Page 118, Offset 42980. Mods: @n.
@@ -31,12 +31,12 @@ Este ambiente hace que incluso yo sienta que%{n}he terminado un duro día de tra
 [sha:9bbf4f7e64db866727d7476b9ca1f2b918ee9f62]{
 -- Page 119, Offset 42982. Mods: @n.
 -- さて、今朝の<メガネ新聞|デッドエンド>は……
-Ahora pues, en cuanto al%{n}<Gaceta Gafotas|d e a d   e n d   > de esta mañana...
+Ahora pues, en cuanto al <Gaceta Gafotas|d e a d   e n d   >%{n}de esta mañana...
 }
 [sha:1e77ab62df144cdc4fe9f510b56cd6762328bf3c]{
 -- Page 119, Offset 42983.
 -- ほほう、敵との正面衝突ですか。
-Ahh, impacto directo contra%{n}el enemigo ya veo.
+ Ahh, impacto directo contra%{n}el enemigo ya veo.
 }
 [sha:03a42de56c51a049b571e5ee6328d57069dc1e17]{
 -- Page 120, Offset 42984. Mods: @n.
@@ -81,7 +81,7 @@ Quiero decir, si a tu lado tienes una unidad de maquinaria%{n}pesada, como una e
 [sha:972058422e3a30eb4b315aba5777e4bb65b5a94e]{
 -- Page 124, Offset 42992.
 -- あるなら、使ってみたくなるのが人情と言えるので。
-es bastante humano%{n}querer usarla para algo complicado.
+ es bastante humano%{n}querer usarla para algo complicado.
 }
 [sha:19539cdf54afe2a6a9163b37e33650c80c0da7d3]{
 -- Page 125, Offset 42993. Mods: @n.
@@ -91,7 +91,7 @@ es bastante humano%{n}querer usarla para algo complicado.
 [sha:1eadfe47e25cdec09cd07e51d88108c0abbe7bfd]{
 -- Page 125, Offset 42994.
 -- あとユニット言うな。ヒロインな、ヒロイン。
-No me llames unidad.%{n}Es heroína. Heroina.
+ No me llames unidad.%{n}Es heroína. Heroina.
 }
 [sha:63ae01d80a203aa1e14c56f8b53cb014fab2b455]{
 -- Page 126, Offset 42995. Mods: @n.
@@ -121,12 +121,12 @@ libremente sin pensar en las consecuencias.
 [sha:239ebf7b15bcf14767ddea41209ad706afbbd7ad]{
 -- Page 129, Offset 43000. Mods: @n.
 -- うんにゃ。単に、志貴に頼られて
-Nyah. ¿No estaba yo demasiado feliz
+Nyah. ¿No estaría yo demasiado feliz
 }
 [sha:7ea2e51830b2299fa3eb0d88a978b416e41e3e28]{
 -- Page 129, Offset 43001.
 -- 嬉しかっただけじゃニャい？
-por%{n}que han confiado mucho en mi?
+ por%{n}que han confiado mucho en mí?
 }
 [sha:f7afdcb7fe0c6b7d0dc5cf925d8842d95dde5d3c]{
 -- Page 130, Offset 43002. Mods: @n.
@@ -136,7 +136,7 @@ por%{n}que han confiado mucho en mi?
 [sha:1a0f5da0e0ad48aef5f05a63fd575e8450775b2e]{
 -- Page 130, Offset 43003.
 -- 馬に蹴られて死んでください。
-Espero que un caballo te%{n}mate a patadas.
+ Espero que un caballo te%{n}mate a coces.
 }
 [sha:c632ce03f9981f7e12bbdf180eea339f7dc20485]{
 -- Page 131, Offset 43004. Mods: @n.
@@ -146,7 +146,7 @@ Parece que la mitad de la culpa es de Tohno-kun
 [sha:61aa465f1ee6543db8262a86a59db8e593f1d459]{
 -- Page 131, Offset 43005.
 -- 責任があったと見るべきですね。
-y%{n}la otra mitad sea de Arcueid.
+ y%{n}la otra mitad sea de Arcueid.
 }
 [sha:94ad1574029eab0f435bc4028364b89e19dc6816]{
 -- Page 132, Offset 43006. Mods: @n.
@@ -156,7 +156,7 @@ Este no es momento de andarse%{n}con chiquitas.
 [sha:fea4c0b319cc04ef7734cb4b8c2b4711013827dc]{
 -- Page 132, Offset 43007.
 -- クライマックスは目前です。
-El climax está%{n}justo frente a ti.
+ El climax está%{n}justo frente a ti.
 }
 [sha:04ee6ef2c768a88221e7f1f86dd1dd686190977f]{
 -- Page 133, Offset 43008. Mods: @n.
@@ -176,17 +176,17 @@ Eeehhh.
 [sha:022c82875df6d7cc954a2bf921e476064fa32d17]{
 -- Page 134, Offset 43011.
 -- 同じ立場ならシエルもやってたと思うけどにゃ～。
-Si hubieras sido tu, apuesto que%{n}habrías hecho lo mismo nyaaa.
+ Si hubieras sido tú, apuesto que%{n}habrías hecho lo mismo nyaaa.
 }
 [sha:9bcb7520bec612315388a01ae8a6724908b16ac0]{
 -- Page 135, Offset 43012. Mods: @n.
 -- ふふっ。イヤですね、やりませんよ。
-Jeje. Para nada, por supuesto no.
+Jeje. Para nada, por supuesto que no.
 }
 [sha:f79212f32160358015fabc6308f4f3e172fa0a40]{
 -- Page 135, Offset 43013.
 -- そんな筋力、ありませんから。
-Yo no tengo%{n}ese tipo de fuerza muscular.
+Yo no %{n}tengo ese tipo de fuerza muscular.
 }
 [sha:fe52b1a0ae748cbb9657c25fd41ebd6112fcad07]{
 -- Page 136, Offset 43014.

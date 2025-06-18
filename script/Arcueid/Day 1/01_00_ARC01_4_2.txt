@@ -6,7 +6,7 @@ Es mi hermana Akiha, por supuesto.
 [sha:9e57206b6943717e4c8e1a9239fa47daea27c40b]{
 -- Page 232, Offset 1761.
 -- 有間家に預けられた当初、秋葉は何度か訪ねて来てくれたらしい。
-Aparentemente ella vino a visitarme unas pocas veces justo después de ser encomendado a los Arimas.
+Aparentemente vino a visitarme unas pocas veces justo después de ser encomendado a los Arimas.
 }
 [sha:26967599dda6f69b3d1e7e50f4c76e357faaf0bb]{
 -- Page 232, Offset 1762.
@@ -22,7 +22,7 @@ A diferencia de Akiha, yo ya no pertenezco a la familia principal.
 [sha:54b7f9558ea30011b06bb33347a31c51acec5233]{
 -- Page 233, Offset 1764.
 -- だからこうして自由気ままな生活を送れている。
-Es por eso por lo que pude llevar una vida libre y fácil.
+Es por ello que pude llevar una vida libre y fácil.
 }
 [sha:c733ea3dcf01166e1739bc0445df6c1c8721c7e7]{
 -- Page 233, Offset 1765.

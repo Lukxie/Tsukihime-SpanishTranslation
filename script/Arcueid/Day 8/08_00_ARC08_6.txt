@@ -12,7 +12,7 @@ No me he encontrado con nadie de camino,
 [sha:ed2ff2d61c0384703429689864f427ffb2a0039a]{
 -- Page 288, Offset 20391.
 -- そこに、ぽつんと白い女のシルエットが立っている。
-A la vista solo la silueta de la mujer de blanco.
+Lo único a la vista es la silueta de la mujer de blanco.
 }
 [sha:a529876a982e2931d1363be58763dbbe79665c28]{
 -- Page 289, Offset 20392.
@@ -32,7 +32,7 @@ Por alguna razón, Arcueid me grita en cuanto me ve.
 [sha:cf09326ab9125f41f476f93015de8faea85dc090]{
 -- Page 290, Offset 20395.
 -- 「な、なんだよ。もしかして時間間違えたか、俺？」
-"¿Qu-Que? ¿Llego tarde o como?"
+"¿Qu-Qué? ¿Llego tarde o qué?"
 }
 [sha:87aa5ed28f5d574621f426ea5f514377fb345fa7]{
 -- Page 290, Offset 20396.
@@ -42,12 +42,11 @@ Por alguna razón, Arcueid me grita en cuanto me ve.
 [sha:bb48a0ecd36e5dca2f48c26105b36bf9b231967e]{
 -- Page 290, Offset 20397.
 -- 約束の時間を10分も過ぎちゃってるじゃない！」
-¡Llegas más de diez minutos tarde!
+¡Llegas más de diez minutos tarde!"
 }
 [sha:f56715d8b6c8a11a5786058ee1ca1ac1a78c7576]{
 -- Page 291, Offset 20398.
 -- ……10分もって……。そりゃあ、屋敷を出たのが10時前だったから、全力で走ってきても時間通りに到着はできない。
-// Mix de tls
 ¿%{i}Diez minutos%{/i}...?
  Aunque haya dejado la mansión antes de las diez,
  no habría llegado a tiempo ni esprintando.
@@ -111,7 +110,7 @@ Arcueid está bastante molesta. Casi puedo ver como la sale humo de las orejas.
 [sha:d36657c06c2bdd64a725961b833287b7a2cb17be]{
 -- Page 297, Offset 20409.
 -- 「……なあ。アルクェイド、何時からここで待ってたんだ？」
-"Ey, Arcueid... ¿cuanto llevas esperando?"
+"Oye, Arcueid... ¿cuánto llevas esperando?"
 }
 [sha:47465b9dd1da8a60cd2ea76a68c90ed1861f464a]{
 -- Page 297, Offset 20410.
@@ -141,7 +140,6 @@ Arcueid está bastante molesta. Casi puedo ver como la sale humo de las orejas.
 [sha:8a92235b36c6576ce47e46f0aa7954c2fcc76f37]{
 -- Page 299, Offset 20415.
 -- 自分でも呆れているのか、アルクェイドはそんな独り言をもらした。
-// Tl oficial
 Arcueid piensa en alto,
  como si ella también estuviera sorprendida por ello.
 }
@@ -175,7 +173,7 @@ Si vienes tres horas antes de lo acordado no te puedes quejar de estar esperando
 [sha:de7d1367b9de2f44c70a4afc9237f1eaa59f88d8]{
 -- Page 303, Offset 20421.
 -- 「そんなの、わたしにだって分からないわ。
-"Honestamente, no se como responderte a eso.
+"Honestamente, no sé como responderte a eso.
 }
 [sha:5b13afb394bc463c7f7ef2e539d14e63d8ec5829]{
 -- Page 303, Offset 20422.
@@ -192,18 +190,17 @@ Fue bastante entretenido a su manera;
 [sha:abd4cd6413ec20e9d7f62769612f06ce9309a19f]{
 -- Page 304, Offset 20424.
 -- 「さあ。自分にだって分からないって言ったでしょ。
-"Quien sabe. Como he dicho, ni yo misma lo sé.
+"Quién sabe. Como he dicho, ni yo misma lo sé.
 }
 [sha:4e3aa080847475e6a082c75301530191dee5c05b]{
 -- Page 304, Offset 20425.
 -- ……志貴に殺されたせいかしらね。わたし、体のどこかが壊れて治ってないみたい。
 Me pregunto si tiene algo que ver con que me matases...
- Parece que alguna parte de mi se rompió y nunca llegó a curarse.
+ Parece que alguna parte de mí se rompió y nunca llegó a curarse.
 }
 [sha:67bf999aa8c7ae847975cf98086771c1e6d8d974]{
 -- Page 304, Offset 20426.
 -- 自分でおかしいって思うんだけど、体のどこが、どうしておかしいのかてんで分からないんだもの」
-// Tl oficial
 Hay algo mal con mi cuerpo,
  pero no tengo ni idea de que parte o por qué."
 }
@@ -215,7 +212,6 @@ Hay algo mal con mi cuerpo,
 [sha:72daa7ea1fd433ebb3987f3a340d82cba8f523d4]{
 -- Page 305, Offset 20428.
 -- それを言われると、返答に困る。
-// Tl oficial
 No estoy seguro de cómo responder.
 }
 [sha:dc96a1819915a0104dabe54c9176fbf85b7d3da9]{
@@ -233,8 +229,8 @@ Soy el capullo que desmanteló su cuerpo en diecisiete.
 [sha:5e0b110b5b9cb94b18a4df9d6bac12b61d5acbaf]{
 -- Page 306, Offset 20431. Glued.
 -- 時間もなくなっちゃったし、無駄話をしている暇なんてないものね」
-No tenemos mucho tiempo,
- no podemos quedarnos charlando toda la noche de cháchara."
+ No tenemos mucho tiempo,
+ no podemos quedarnos toda la noche de cháchara."
 }
 [sha:195974fd72411ba164b1e2016cc5d1f3fa578656]{
 -- Page 306, Offset 20432.
@@ -263,7 +259,7 @@ No tenemos mucho tiempo,
 -- Page 308, Offset 20436.
 -- なんで、間違っても二度とうちには来ないように！　ただでさえ秋葉に誤解されたままなんだ、これ以上引っかき回されたらマジで部屋を犬小屋にされかねない！」
 Así que por favor, pase lo que pase, ¡no vuelvas a la mansión!
- El malentendido con Akiha ya es malo de por sí;
+ El malentendido con Akiha ya es malo de por si;
  ¡si la provocás aún más quizá acabe viviendo en la caseta del perro!"
 }
 [sha:f12b7657c446898504d043a2e9928907407ae4ef]{
@@ -306,7 +302,7 @@ No es que Akiha me %{i}asuste%{/i} particularmente,
 -- Page 311, Offset 20444.
 -- ……昔から、あいつには迷惑をかけてきたから。できるだけこのまま、何も知らないままでいてほしい」
 La he dado muchos problemas incluso desde pequeños.
- Me gustaría que siguiera como siempre, sin tener que preocuparse por nada de esto, a ser posible."
+ A ser posible me gustaría que siguiera como siempre, sin tener que preocuparse por nada de esto."
 }
 [sha:eb1bebac87ef6d7fb466e63341ac023a6eb70c63]{
 -- Page 311, Offset 20445.
@@ -363,14 +359,14 @@ Una sonrisa despreocupada, como la de un niño.
 [sha:be28551b958871c735b3942614348f03a100c6ff]{
 -- Page 315, Offset 20455.
 -- 妙に体が熱い。体温があがったらしい。
-No sé por qué pero tengo calor.
+No sé por qué, pero tengo calor.
  Igual tengo fiebre.
 }
 [sha:53b8ac082dc8823a114732aa58218951f8d5ef17]{
 -- Page 315, Offset 20456.
 -- これ以上こいつを見ていると毒気が抜かれてしまいそうなので、大げさに視線を逸らした。
-Esto me va a superar como no deje de mirarla,
- así que desvío la mirada.
+Como no deje de mirarla esto me va a superar.
+ Así que desvío la mirada.
 }
 [sha:cc8c79d537a0172774e20ebea00825cedc93d122]{
 -- Page 316, Offset 20457.
@@ -380,7 +376,7 @@ Esto me va a superar como no deje de mirarla,
 [sha:e79421efe5138e3a8bad83a7fed3fb4c701d0702]{
 -- Page 316, Offset 20458.
 -- 昨日と同じように吸血鬼探しをするんだろ」
-Vamos a buscar vampiros como ayer, ¿no?"
+Saldremos a buscar vampiros como ayer, ¿no?"
 }
 [sha:86301c412c9ccbcd8a338546779c815745ca4717]{
 -- Page 316, Offset 20459.
@@ -460,12 +456,12 @@ Como me vino a la mente que los vampiros viven más o menos para siempre
 "Este sitio es un fiasco pues.
  Vamos al siguiente.
  Y ponte las gafas de nuevo.
-El siguiente está un poco lejos, no quiero que te esfuerces demasiado."
+ El siguiente está un poco lejos, no quiero que te esfuerces demasiado."
 }
 [sha:830dd6be740fa3e54669e2a5523791abffd917d6]{
 -- Page 322, Offset 20473.
 -- 昼間言っていたように、アルクェイドは死者たちの巡回場所に当たりを付けていた。
-Esta tarde Arcueid mencionó que tenía una idea de donde podían patrullar los Muertos.
+Esta tarde Arcueid mencionó que tenía una idea de dónde podían patrullar los Muertos.
 }
 [sha:eae4ef54a1d1cdd72fe54f01ef712808fb097981]{
 -- Page 322, Offset 20474.
@@ -476,7 +472,7 @@ Quiere echarle un vistazo a seis lugares.
 -- Page 322, Offset 20475.
 -- 最初の二箇所はハズレだったが、三つ目の貸しビルはアタリだった。
 Los dos primeros fueron un chasco.
- Pero el tercero, unos apartamentos de alquiler, dio en el clavo.
+ Pero el tercero, unos apartamentos de alquiler, dió en el clavo.
 }
 [sha:abd5fdc484d7d1012e7ea28b6c3375907644b1c2]{
 -- Page 323, Offset 20476.
@@ -510,13 +506,13 @@ Por mínimo que sea, pude ver un atisbo de decepción en Arcueid mientras se enc
 -- Page 325, Offset 20481.
 -- 「いや、違うよ。いつも気楽なおまえでも、気を落とす事があるんだなって」
 "No, no es eso.
- Me ha sorprendido que incluso alguien tan despreocupada como tu tenga también sus bajones."
+ Me ha sorprendido que incluso alguien tan despreocupada como tú tenga también sus bajones."
+ 
 }
 [sha:3bc6966605c72ed172879e656e9f2e98c95c3db3]{
 -- Page 326, Offset 20482.
 -- 「む。それ、どういう意味。わたしだってヒトなみに壊したり潰したりしますよーだ」
-// Tl oficial
-"%{i}Hmph%{/i}. ¿Y eso que significa? Yo también me rompo y sangro como el resto, sabes."
+"%{i}Hmph%{/i}. ¿Y eso qué significa? Yo también me rompo y sangro como el resto, sabes."
 }
 [sha:66f6e2b7b99d44765e1dc80fa09823ca6235192f]{
 -- Page 326, Offset 20483.
@@ -563,7 +559,6 @@ Parece que es en el distrito residencial.
 [sha:6f68292d546c5ea32657815ce88d55094a8edb5b]{
 -- Page 329, Offset 20491.
 -- アルクェイドは語らないが、それが今夜の本命である事はなんとなく感じ取れた。
-// Tl oficial
 Arcueid no lo dice, pero me da sensación de que se estaba guardando este para el final.
 }
 [sha:971a8f356a0b9d92142d5f4ce304a819277b2ec9]{
@@ -586,16 +581,15 @@ Investigar a pie hoy en día se siente bastante anticuado."
 [sha:db9c31b50edc7169331f379ec13a1a58fd5d7a15]{
 -- Page 331, Offset 20495.
 -- 「そっか、ならいい―――って、別にイヤがってる訳じゃないぞ？　単に、アルクェイドも大変だなって思っただけで！」
-// Mix de tls
 "Ya veo, en ese caso está―― espera, no estoy diciendo que no quiera estar aquí ni nada de eso.
- ¡Solo pensaba en que esto debe ser duro para ti!
+ ¡Solo pensaba en que esto debe ser duro para ti!"
 }
 [sha:b61d5f17efa5db85ebd6279714e43ad7a4e70d1c]{
 -- Page 331, Offset 20496.
 -- 「ん？　わたしは別に大変じゃないよ？　決められた作業だもの、手順を踏んでいけばきちんと終わるものだし」
 "¿Hmm? No es que me importe mucho.
  Es parte del proceso.
- Si lo sigues paso a paso meticulosamente, funcionará."
+ Si lo sigues meticulosamente paso a paso, funcionará."
 }
 [sha:c313eb8aa607fc883124935d9b3eec91ba9619fa]{
 -- Page 332, Offset 20497.
@@ -605,7 +599,6 @@ Sin pensarlo mucho respondo un 'Ya veo'.
 [sha:b61ebab17870c47a49055a2cf5883c9c00acbfc1]{
 -- Page 332, Offset 20498.
 -- こと吸血鬼退治において、アルクェイドはひたすらに合理的だ。どんなに地味な作業でも、それがゴールに繋がる一歩なら確実に、冷徹に積み上げていく。
-// Mix de tls
 En lo que respecta a cazar vampiros, Arcueid es fría y racional.
  Hará todo lo necesario siempre y cuando de resultado,
  sin importar lo tedioso que sea.
@@ -672,7 +665,6 @@ No tengo ni que pensarlo.
 [sha:03ba3908c4d80226189f59a9049c70ec76cb02c9]{
 -- Page 338, Offset 20510.
 -- 「別に。平気かどうかなんて、ただのえり好みだろ。
-// Mix de tls.
 "No me importa. Y tampoco es que tenga otra opción.
 }
 [sha:6000c0a028067b34af7e3ebeeba9f1e6f07d739e]{
@@ -715,7 +707,7 @@ Quizá por eso me sienta realizado―――
 [sha:ecb13d1061711f843311b32263dfb63b5fe32bf8]{
 -- Page 340, Offset 20518.
 -- 「でも、気を遣わなくていいのは、いい」
-"Pero, qué bien sienta no tener que preocuparse"
+"Pero, qué bien sienta no tener que preocuparse."
 }
 [sha:231d76bb285e005ac948b734f25724aea4c3f06a]{
 -- Page 340, Offset 20519.
@@ -732,7 +724,7 @@ Doy voz a sentimientos que nunca había expresado antes.
 -- 「だから、気楽だってコト。……俺はその、根本的にろくでなしだからさ。おまえみたいに頑丈なヤツがいてくれると、なんていうか、」
 "Quiero decir, puedo relajarme.
  Soy... bueno, básicamente un inútil.
- Tener a alguien tan fuerte como tu alrededor es, bueno, como decirlo..."
+ Tener a alguien tan fuerte como tú alrededor es, bueno, como decirlo..."
 }
 [sha:a361b70c191067336cc6bb1c0fcfaec65c1641df]{
 -- Page 341, Offset 20522.
@@ -781,7 +773,7 @@ Conclusiones obvias con las que he vivido los últimos siete años...
 [sha:1cbc47d84852b246bf84074205fc55f67b1af57b]{
 -- Page 344, Offset 20530.
 -- 「む。おっかないって、どのへんが？」
-"%{i}Hmph%{/i}. ¿Que parte de mi es tan aterradora?"
+"%{i}Hmph%{/i}. ¿Qué parte de mi es tan aterradora?"
 }
 [sha:0bdb8ff27531006f64eb7f1929da5aa6ab961000]{
 -- Page 345, Offset 20531. Mods: @k, @e.
@@ -792,18 +784,18 @@ Conclusiones obvias con las que he vivido los últimos siete años...
 [sha:b6f4ea731a397ebd3dae6b1a60a6898c706c2f5a]{
 -- Page 345, Offset 20532. Glued. Mods: @x, @r, @k, @e.
 -- 3000℃の高熱をあちち、で済ますところとか、
-luego tu habilidad para soportar temperaturas de más de 3000℃ como si nada,
+ luego tu habilidad para soportar temperaturas de más de 3000℃ como si nada,
 }
 [sha:1595d76e014595176f59f9fafe6744ad60969870]{
 -- Page 345, Offset 20533. Glued. Mods: @x, @k, @e.
 -- ガムテープとか、ビルの屋上まで駆け上がるところとか、
-que te cierres las heridas con cinta aislante,
+ que te cierres las heridas con cinta aislante,
  que puedas saltar hasta la cima de rascacielos,
 }
 [sha:40f4e77ea346935dde6ee19e7d9ea3e1b8d983dd]{
 -- Page 345, Offset 20534. Glued. Mods: @x.
 -- 駅前をオシャカにするところとか、」
-y el cráter que hiciste frente a la estación..."
+ y el cráter que hiciste frente a la estación..."
 }
 [sha:a4c4ee568fe7cd4b93c0f5b83f9944ee34ffe29c]{
 -- Page 345, Offset 20535.
@@ -814,7 +806,7 @@ Y que usaras todo tu poder para protegerme del hielo de Vlov...
 -- Page 346, Offset 20536.
 -- 「岩盤をちゃぶ台返しするところとか、人の体によくわかんないものを塗りつけたりとか、あと、昼間に学校に来るところとか」
 "Sin mencionar que das la vuelta a un cimiento de roca como si fuera una mesa,
- o que frotas cosas raras a las heridas de otros,
+ o que frotas cosas raras en las heridas de otros,
  oh, y no nos olvidemos de que te presentas en mi escuela en medio del día."
 }
 [sha:b71f02d7330e3a400727f612d5c61c282ec8a828]{
@@ -842,10 +834,10 @@ Y que usaras todo tu poder para protegerme del hielo de Vlov...
 -- アルクェイドはスピードをあげて、ずんずんと先行していく。
 Arcueid aligera el paso y empieza a alejarse.
 }
-[sha:e8cb3eafaaa8b2753f66d0d5eb2d421134fa44a6]{
+[offset:20542]{
 -- Page 349, Offset 20542. Mods: @n.
 -- 「ちょっ、待てってば！
-"¡E-Espera un segundo!
+"E-Ey, ¡esperame!
 }
 [sha:c6c753d184cadc7be83a87db11ccb753de5adff0]{
 -- Page 349, Offset 20543.

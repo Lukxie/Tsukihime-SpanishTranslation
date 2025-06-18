@@ -28,7 +28,7 @@ No hay señales de gente; ni siquiera se puede escuchar un sonido.
 [sha:8dfbb9aef3af9179bba5c791f0c6d87209c5122b]{
 -- Page 845, Offset 26679.
 -- 明かりもついておらず、校舎は墓地のように沈黙している。
-Las luces están apagadas, y el edificio escolar es silencioso como una tumba.
+Las luces están apagadas, y el silencio en el edificio escolar es como el de una tumba.
 }
 [sha:15397a52730efc6d83979a4cc50951fde7d6c0e2]{
 -- Page 845, Offset 26680. Mods: @n.
@@ -38,7 +38,7 @@ Las luces están apagadas, y el edificio escolar es silencioso como una tumba.
 [sha:ea3f9176ab89fdb731983283c33d0ad8c57c0e7b]{
 -- Page 845, Offset 26681. Glued.
 -- なにか………」
-hay algo..."
+ hay algo..."
 }
 [sha:db22801ce769ca1c5a9577cbdb4dcbb40fb5b23f]{
 -- Page 845, Offset 26682.
@@ -88,7 +88,7 @@ Siento un hormigueo en el cuello.
 [sha:e75629210af96d49b48a0c56c171ab15c6eccafa]{
 -- Page 848, Offset 26691.
 -- 人影はない。
-No hay nadie.
+-- TRANSLATION HERE
 }
 [sha:e75629210af96d49b48a0c56c171ab15c6eccafa]{
 -- Page 848, Offset 26692.
@@ -103,7 +103,7 @@ No hay... nadie.
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 848, Offset 26694.
 -- だが。
-Sin embargo―――"
+Sin embargo―――
 }
 [sha:c7731aa512ebb0616cbf16f65d8880c4fda92117]{
 -- Page 848, Offset 26695.

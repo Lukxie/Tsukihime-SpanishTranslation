@@ -78,7 +78,7 @@
 -- あれではいずれ先輩の防御を上回ってしまいそうで―――
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:23848]{
 -- Page 659, Offset 23848.
 -- 「……！」
 ¡Ah!
@@ -151,7 +151,7 @@
 [sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
 -- Page 665, Offset 23862. Mods: @k, @e.
 -- 「――――――、
-"
+-- TRANSLATION HERE
 }
 [sha:c267ed739be5106eb77f21d065b9b536b48f3c2b]{
 -- Page 665, Offset 23863. Glued. Mods: @x.

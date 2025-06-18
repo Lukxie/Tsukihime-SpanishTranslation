@@ -25,7 +25,7 @@ Cuando Arcueid se presentó me quedé en shock,
 [sha:0c408495b7e256038f9983abee56cd27dc4a6dd0]{
 -- Page 22, Offset 21373.
 -- 昨夜の出来事はすべて夢だった、と言われたら、よろこんでその嘘にのっかる程だ。
-Si alguien me hubiese dicho que lo que pasó ayer era un sueño, seguramente me lo habría creído.
+Si alguien me hubiese dicho que lo que pasó ayer era un sueño, seguramente me lo habría creído. 
 }
 [sha:bc2cdd35267c41b7c2e3ebfdce56139b2fe00b18]{
 -- Page 23, Offset 21374.
@@ -61,5 +61,5 @@ Pero... también es un humano cuya forma de hablar marca una diferencia fundamen
 -- Page 25, Offset 21380.
 -- おそらく、彼女にとって“吸血鬼”はすべて排除する対象なのだろう。それはアルクェイドも―――ともすれば、アルクェイドに協力する俺も例外ではない。
 Es como si su objetivo fuera eliminar todos los vampiros de la faz de la tierra.
- Apostaría que tanto Arcueid――como sus cómplices, vease yo――no somos excepciones.
+ Apostaría que tanto Arcueid――como sus cómplices, véase yo――no somos excepciones.
 }

@@ -76,7 +76,7 @@
 [sha:c9455eb28deb72ec442c46376f24705898eb2884]{
 -- Page 70, Offset 27259.
 -- 「………っ」
-"......"
+-- TRANSLATION HERE
 }
 [sha:55f7f071c55f53934bb04bd4bbc522564b8eca82]{
 -- Page 70, Offset 27260.

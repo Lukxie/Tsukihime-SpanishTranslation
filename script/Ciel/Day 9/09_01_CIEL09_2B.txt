@@ -71,7 +71,7 @@
 [sha:9b7b29ede3f18fe306a1daf9b1b8895bed778f53]{
 -- Page 154, Offset 22523.
 -- ……空気が変わる。
-La atmósfera cambia.
+-- TRANSLATION HERE
 }
 [sha:ca3b2695a2ccdaaf7bc96185b15000f5daa561fc]{
 -- Page 154, Offset 22524.
@@ -148,10 +148,10 @@ La atmósfera cambia.
 -- ……ヴローヴがやって来ただけでも災難なのに、この街は何十年も前からそんなヤツに居座られていたのか。
 -- TRANSLATION HERE
 }
-[sha:73abbb531dcbcbd0910c206019c82e3edf2ee810]{
+[offset:22539]{
 -- Page 161, Offset 22539.
 -- しかし……
-Aún así...
+-- TRANSLATION HERE
 }
 [sha:4590d87a2ebaf173ae127d93c23f6d5145ccce65]{
 -- Page 162, Offset 22540.
@@ -1026,7 +1026,7 @@ Aún así...
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 227, Offset 22715.
 -- つまり。
-En otras palabras―――
+-- TRANSLATION HERE
 }
 [sha:a233471bd01a8f702036656f61e540d26e93263f]{
 -- Page 227, Offset 22716.
@@ -1181,7 +1181,7 @@ En otras palabras―――
 [sha:b87eda4c5ed5dacbbc234891a432a4d5612c3b3a]{
 -- Page 238, Offset 22747.
 -- 「遠野くん……？」
-"¿Tohno-kun...?"
+-- TRANSLATION HERE
 }
 [sha:e3849af6640a5766e08d0c7c635fc8218449fd2d]{
 -- Page 238, Offset 22748.
@@ -1203,10 +1203,10 @@ En otras palabras―――
 -- 彼女は人間じゃない、いつ気紛れから人間の血を吸うかわからない、死徒以上の化け物なんですよ……!?」
 -- TRANSLATION HERE
 }
-[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+[offset:22752]{
 -- Page 239, Offset 22752.
 -- 「っ―――！」
-"%{i}Kh%{/i}―――!"
+-- TRANSLATION HERE
 }
 [sha:7db4c0be02f8ccd70505ea6820770ac153a7a709]{
 -- Page 240, Offset 22753.
@@ -1331,7 +1331,7 @@ En otras palabras―――
 [sha:154292aa9b40cdf7b2538742176e68ac48bff3f5]{
 -- Page 248, Offset 22777.
 -- 「遠野……くん？」
-"¿Tohno... kun?"
+-- TRANSLATION HERE
 }
 [sha:ebf8ac7520477dcb7e5e5b4294b71d8cfe402133]{
 -- Page 248, Offset 22778.
@@ -1481,7 +1481,7 @@ En otras palabras―――
 [sha:61e53f4156aaa283c131d425b788fb9f808ec752]{
 -- Page 264, Offset 22807.
 -- ……いや。
-Más bien al contrario―――
+-- TRANSLATION HERE
 }
 [sha:8bde493454a93b49ff7d461304af7c57714716ee]{
 -- Page 264, Offset 22808.

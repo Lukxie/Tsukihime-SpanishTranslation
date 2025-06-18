@@ -6,7 +6,7 @@
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 10015, Offset 27500.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:587bf708dbc5f039aaca434c35dce22af5f6b242]{
 -- Page 10015, Offset 27501.
@@ -106,7 +106,7 @@
 [sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
 -- Page 168, Offset 27520. Mods: @k, @e.
 -- ここは―――
-Me parece que―――
+-- TRANSLATION HERE
 }
 [sha:6c7c98e5526cbe0e9900725efa1d8e59483bbe75]{
 -- Page 10016, Offset 42733. Choice.

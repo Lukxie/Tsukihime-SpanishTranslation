@@ -7,7 +7,7 @@
 -- Page 228, Offset 17125.
 -- 「吸血鬼のこと。おまえ、前に言ったよな。<巷|ちまた>を騒がしている通り魔殺人は吸血鬼の仕業だって」
 "Vampiros,
- ¿Que es lo que dijiste antes?
+ ¿Qué es lo que dijiste antes?
  ¿Que los asesinatos en serie de los que todo el mundo habla son obra de un vampiro?"
 }
 [sha:2f31499af214477aefe776ac40880dd9a45a33c0]{
@@ -23,7 +23,7 @@ Arcueid asiente afirmativamente.
 [sha:526072ba0dff6e5ad40367ee39e0a4f305d405eb]{
 -- Page 229, Offset 17128.
 -- 昨日の夜に通り魔に殺されて、血を抜かれたらしいんだけど」
-La asesinaron anoche y la succionaron la sangre, aparentemente."
+La asesinaron anoche y aparentemente le succionaron la sangre."
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 229, Offset 17129.
@@ -40,7 +40,7 @@ Arcueid entrecierra sus ojos.
 -- 地面と思って踏みこんだ先が薄氷だと気づいたような、一歩間違えれば死に至るような緊迫感。
 De repente el ambiente se siente muy tenso.
  Es como si el suelo se hubiese vuelto una fina capa de hielo,
- un movimiento en falso podría ser fatal.
+ y un movimiento en falso pudiera ser fatal.
 }
 [sha:0c304f3188a266a8d8203252dbc5d5ebc6d75176]{
 -- Page 231, Offset 17132.
@@ -88,7 +88,7 @@ Si su sangre está tus manos, entonces yo―――
 [sha:ea1c97fd1cf6a56cd3b1db401af3add30a379612]{
 -- Page 234, Offset 17140.
 -- 「はあ。もう、そんなワケないでしょ。
-// Mix de tls
+//Mix de tls
 "%{i}Haaa%{/i} ¿Estás de broma, no?
 }
 [sha:c4fb1924a9f4ba994ac6e6d24c8bfd487ca9aae7]{
@@ -130,12 +130,12 @@ Aunque me alegre oir que fue obra de otro vampiro, aún hay algo que no encaja.
 [sha:12a257c8e0e4f86264b25e68f1683dec876c5b6d]{
 -- Page 237, Offset 17148.
 -- 「まさか。あの事件は初めから一人の吸血鬼の仕業よ。
-"Nada de eso, Los incidentes eran obra de un solo vampiro desde el principio.
+"Nada de eso. Desde el principio los incidentes fueron obra de un solo vampiro.
 }
 [sha:2862dce15b0a369f137d23951c867c362cf7b724]{
 -- Page 237, Offset 17149.
 -- この街を食いものにする『新しい吸血鬼』なんてやってこないし、ヴローヴだって、あの事件にはまったく関係ないわ」
-No ha aparecido ningún 'vampiro nuevo',
+Ni ha aparecido ningún 'vampiro nuevo',
  ni Vlov estaba relacionado con los asesinatos."
 }
 [sha:b4213392cd33da09e9b3c3d1efe998de3196502f]{
@@ -187,13 +187,13 @@ Pero eso no es lo que Vlov haría.
 [sha:39e4f8144ffca33ae583b17efb5533415027cfc6]{
 -- Page 241, Offset 17159.
 -- あいつは死体を燃やしてしまう。血を吸いはしたが、それは主立った殺害方法じゃなかった。
-// Modus operandi es mas concreto.
-Ese tipo chamusca los cadáveres. Es verdad que también chupaba sangre, pero es su modus operandi.
+//Modus operandi es mas concreto.
+Ese tipo chamusca los cadáveres. Es verdad que también chupaba sangre, pero no es su modus operandi. 
 }
 [sha:4cc9de1a26e6581ab8a69b3a12913880901dc882]{
 -- Page 242, Offset 17160.
 -- 現に、ホテルの被害者たちは殺人事件としてではなく、火災による死傷者として扱われていた。
-De hecho, la gente que murió en el hotel era tratada como víctimas de un incendio, no como víctimas de asesinato.
+De hecho, las personas que murieron en el hotel fueron tratadas como víctimas de un incendio, no como víctimas de asesinato.
 }
 [sha:99500c3c7a945e3ea846180e2d83ef7fb6f662ec]{
 -- Page 242, Offset 17161.
@@ -229,7 +229,7 @@ Vine a esta ciudad para matar al vampiro detrás de ellos."
 -- Page 245, Offset 17167.
 -- てっきりわたしを追いかけてきた一人かと思ったけど、ヴローヴにはそれだけの理性……死徒社会における協調性はなかったみたいだし」
 Estaba segura de que vino aquí persiguiéndome, pero no podía pensar tan racionalmente,
- ni tampoco particularmente alineado con la sociedad de los Apóstoles Muertos."
+ ni tampoco parecía particularmente alineado con la sociedad de los Apóstoles Muertos."
 }
 [sha:58361c1e1901b967ed3c2b31f48518f91a9e5ee7]{
 -- Page 246, Offset 17168.
@@ -240,7 +240,7 @@ Estaba segura de que vino aquí persiguiéndome, pero no podía pensar tan racio
 -- Page 246, Offset 17169.
 -- とにかく、ヴローヴとこの街に巣くっている吸血鬼は別物よ。ヴローヴは正真正銘、無関係の第三者」
 En conclusión Vlov y el vampiro que acecha en la ciudad son dos seres distintos.
- El realmente no tuvo nada que ver con los asesinatos."
+ Él de verdad no tuvo nada que ver con los asesinatos."
 }
 [sha:7db1beda072367ac5f89eba262d13d467f0b46ec]{
 -- Page 247, Offset 17170.
@@ -282,7 +282,7 @@ Básicamente dijo que matar vampiros era su objetivo,
 [sha:eba9e71ca5b1c28264268b7965dba0364ee1a7a6]{
 -- Page 250, Offset 17177.
 -- 「……それじゃあ何か？　あの夜ヴローヴと殺し合ったのは、無意味な事だったっていうのか……？」
-"Entonces... ¿ahora qué? ¿Me estás diciendo que matar a Vlov no tuvo ningún sentido...?
+"Entonces... ¿ahora qué? ¿Me estás diciendo que matar a Vlov no tuvo ningún sentido...?"
 }
 [sha:4d640982a1bcc3ad7041c23e2717a9198f883363]{
 -- Page 251, Offset 17178. Mods: @k, @e.
@@ -292,7 +292,7 @@ Básicamente dijo que matar vampiros era su objetivo,
 [sha:f47707b99a9eec3319c098a0569cc77f3532dd57]{
 -- Page 251, Offset 17179. Glued. Mods: @x.
 -- ま、志貴さえわたしを殺さなかったら、その必要もなかったでしょうけど」
-Aunque en primer lugar nunca hubiera sido necesario si no me hubieses matado."
+ Aunque en primer lugar nunca hubiera sido necesario si no me hubieses matado."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 252, Offset 17180.
@@ -327,18 +327,18 @@ Mierda.
 [sha:f2dc2e6c45f1cc51d1826a1beec849bd58aa598f]{
 -- Page 253, Offset 17186.
 -- 虚脱感と自己嫌悪がぐるぐると回っている。
-Mi cabeza está llena de autodesprecio y decepción.
+Mi cabeza se llena de decepción y autodesprecio.
 }
 [sha:77f1ef7f790d3e6fb918cb7af2ce7a8bbe8e44ee]{
 -- Page 254, Offset 17187.
 -- 「……わるい。しつこいけど、最後に確認させてくれ。
-"Lo siento... se que es molesto, pero dejame confirmarlo de nuevo.
+"Lo siento... sé que es molesto, pero déjame confirmarlo de nuevo.
 }
 [sha:6bf3d986214bf094d5ce44fb40fb7bca07076023]{
 -- Page 254, Offset 17188.
 -- ヴローヴは吸血鬼殺人には関係なくて、ここ一ヶ月街を騒がしているのは別の吸血鬼って事だな……？」
 Osea que estás diciendo que Vlov no tiene relación con los asesinatos,
- y que el que ha estado este último mes causando estragos en la ciudad es otro vampiro diferente, ¿verdad?
+ y que el que ha estado este último mes causando estragos en la ciudad es otro vampiro diferente, ¿verdad?"
 }
 [sha:a342d2c547149e63cb4ceabbc039b9d99f11731d]{
 -- Page 255, Offset 17189.
@@ -353,14 +353,14 @@ Pero ese es mi problema, no te tienes que preocupar por ello.
 [sha:4be9a6b6d3f59ac1506b37decfb251715c5e8ac6]{
 -- Page 255, Offset 17191. Glued. Mods: @x.
 -- そんなコトより、ねえ」
-Dejando eso a un lado..."
+ Dejando eso a un lado..."
 }
 [sha:4bba3031f05e1032b654a4162cc10ae7417bb673]{
 -- Page 256, Offset 17192.
 -- やけに楽しそうな笑顔をうかべて、アルクェイドは俺を見上げてくる。
 Arcueid me mira con una sonrisa increíblemente feliz en su rostro.
 }
-[sha:8a431e9804deb4eaf8d1b9c2340009a9eab84d91]{
+[offset:17193]{
 -- Page 257, Offset 17193. Mods: @n.
 -- 「……なんだよ。
 "¿Qué quieres...?
@@ -378,13 +378,13 @@ No puedo controlar mis sentimientos.
 [sha:1aa0895bb6bf0237cfbe11d56ddeaaa50c94d1ac]{
 -- Page 257, Offset 17196.
 -- いま妙なコト言われたら、足元から崩れそうだ。
-// Rarete, esto seguramente lo cambie
+//Rarete, esto seguramente lo cambie
 Cualquier cosa que diga puede hacer mis piernas se rindan.
 }
 [sha:2ab4a9dedf2212df18b37711e97f622e9e757eb2]{
 -- Page 258, Offset 17197.
 -- 「ちょっとした疑問よ。ふたりでヴローヴを倒した時のこと。ね、なんで３分だったの？」
-// Tl oficial
+//Tl oficial
 "Solo una pequeña pregunta. Cuando luchábamos contra Vlov, ¿por qué dijiste que sólo tenías tres minutos?"
 }
 [sha:018e4dffe1a6829431bad8d10f863e55458b36de]{
@@ -401,7 +401,7 @@ Cualquier cosa que diga puede hacer mis piernas se rindan.
 -- Page 259, Offset 17200.
 -- 「……あのな。言っただろ、あそこは海の底みたいなものだって。だから３分しか無理だって言ったんだ」
 "Escucha. Tal y como dije, ese lugar era como el fondo del océano, ¿verdad?
- Por eso dije que tres minutos era el límite."
+ Por eso dije que tres minutos era mi límite."
 }
 [sha:83de2b884d76bb369e97cfe33d5b19a448100572]{
 -- Page 260, Offset 17201.
@@ -413,10 +413,10 @@ Cualquier cosa que diga puede hacer mis piernas se rindan.
 -- 「――――――」
 "――――――"
 }
-[sha:8875480dbcce5111eaca56e52d5b61a7eca464af]{
+[offset:17203]{
 -- Page 260, Offset 17203.
 -- ……良かった。
-Que alivio...
+Gracias a dios...
 }
 [sha:648f960d0d076ef63f4922938a843ecb7a35a658]{
 -- Page 260, Offset 17204.
@@ -431,7 +431,7 @@ Si aún tuviese energía, habría contestado algo mordaz.
 [sha:aa957444f63bfc97029924157c07192293386e80]{
 -- Page 262, Offset 17206.
 -- 「なによ。わ、わたしだって、ちょっとは寒かったわ！
-"¡Oye! ¡I-incluso tenía fresquito!
+"¡Oye! ¡I-incluso yo tenía algo de fresquito!
 }
 [sha:0afc7e674e5b3aa4bfa100867cbcca54692d7b33]{
 -- Page 262, Offset 17207.
@@ -441,12 +441,12 @@ Además, ¡yo también me aburriría si tuviera que estar horas en el fondo del 
 [sha:c56d0342b0fd402898828aa5f53f37e5f80f0dfc]{
 -- Page 262, Offset 17208.
 -- 『ちょっと寒かった。』ときたか。
-Fresquito', dice.
+ 'Fresquito', dice.
 }
 [sha:119f9dd8e20cac79dd26e033ff552364e129ae14]{
 -- Page 262, Offset 17209.
 -- こっちは死ぬ思いだったんだけど。
-Hacía tanto frío que pensaba que moría.
+Hacía tanto frío que pensé que moriría.
 }
 [sha:33da3f4b093719cb7750785a992b4f902525ad9a]{
 -- Page 262, Offset 17210.
@@ -468,7 +468,7 @@ Para ser sincero, tres minutos bajo el agua ya es forzarlo.
 [sha:5af221721c26cf93cde3a839fc513bd6268b798a]{
 -- Page 264, Offset 17213.
 -- 頭を抱えながら、しっしっ、とアルクェイドを手で払う。
-Cansado me sujeto la cabeza con una mano, y largo a Arcueid con la otra.
+Cansado, me sujeto la cabeza con una mano, y largo a Arcueid con la otra.
 }
 [sha:62495f5a98bb4de052f8dee287b5315ce7b4e8a1]{
 -- Page 265, Offset 17214.
@@ -508,7 +508,7 @@ Consigo controlar mis sentimientos, y levanto la cabeza para seguir hablando, pe
 [sha:47a39f92f0823b346e2574669f6409ae9bdb65c7]{
 -- Page 267, Offset 17221.
 -- 「なによ、志貴のいじわる。
-"Shiki, eres un abusón!
+"¡Shiki, eres un abusón!
 }
 [sha:4f88529c51959e2078f05ddef1b3bd418a9f98d2]{
 -- Page 267, Offset 17222.
@@ -543,12 +543,12 @@ Arcueid debe estar muy molesta, ya que continúa andando sin mirar atrás.
 [sha:dc73dca758019ac1ac1cbe3199c7d239d699bd2a]{
 -- Page 270, Offset 17228.
 -- あいつ、どこに行くつもりなんだろう。
-No puedo creerla... ¿A dónde se cree que va?
+No puedo creerlo... ¿A dónde se cree que va?
 }
 [sha:eb2aa5df9a6dd5cf3a0bc6f8185afacb00b052c1]{
 -- Page 270, Offset 17229.
 -- ……もしかして地雷踏んだのか、俺。
-Quizá ya tocado una fibra sensible...
+Quizá he tocado una fibra sensible...
 }
 [sha:47946f6e4862708fb2fdc6637fd1eff740880070]{
 -- Page 270, Offset 17230.
@@ -595,5 +595,5 @@ Definitivamente no lo hago porque me sienta culpable por molestarla.
 [sha:a6a462cd774bcd909989c52677b0e435d3e62b97]{
 -- Page 273, Offset 17238.
 -- そもそも、肝心の話の続きをまだしていないワケだし……！
-¡Es simplemente que aún hay cosas importantes que discutir!
+¡Es solo que aún hay cosas importantes por discutir!
 }

@@ -7,12 +7,12 @@ chico despierta de su sueño.
 [sha:e5393bb43db8bc0f428e25961d0dfd1c6c571ec6]{
 -- Page 291, Offset 43293.
 -- かくて、すべて世は事もなし―――
-Y así pues, todo%{n}está bien en el mundo...
+ Y así, todo%{n}en el mundo queda en orden...
 }
 [sha:252375b579ed09325c08b19798bf2c18d35e0a10]{
 -- Page 292, Offset 43294. Mods: @n.
 -- エンド後のお助けコーナー、
-De acuerdo con el final, el segmento de ayuda%{n}
+A razón del final, el segmento de ayuda%{n}
 '¡Enséñame, Ciel-Sensei!'
 }
 [sha:73f2f32dbfa0dc5ea63b826b10c1e3cb1422f03b]{
@@ -28,7 +28,7 @@ Bien hecho completando
 [sha:259b2530368cf7c60770bb02bbdbbf499a6b82fd]{
 -- Page 293, Offset 43297.
 -- おつかれさまでした。
-la ruta%{n}de Arcueid en Tsukihime.
+ la ruta%{n}de Arcueid en Tsukihime.
 }
 [sha:79d20d60e77ea12fcdb8e9c96eb3e27b87e1feff]{
 -- Page 294, Offset 43298. Mods: @n.
@@ -38,7 +38,7 @@ Gracias por jugar
 [sha:ee2646d8f0a941251349c27995530b5561c4a6e8]{
 -- Page 294, Offset 43299.
 -- まことにありがとうございます。
-hasta llegar%{n}a este punto.
+ hasta llegar%{n}a este punto.
 }
 [sha:98354551fe3b535cbfb3d3939780293329350ebb]{
 -- Page 295, Offset 43300. Mods: @n.
@@ -48,7 +48,7 @@ Por favor usa esta oportunidad para%{n}descansar los ojos
 [sha:b3767044c53a8c5bb84eabca687c068b8ba7d9a2]{
 -- Page 295, Offset 43301.
 -- 体をいたわっていただければ。
-y darle un respiro%{n}a tu cuerpo.
+ y darle un respiro%{n}a tu cuerpo. 
 }
 [sha:68f0c7a45f4645c5b166606ab18e5f8d3c89f700]{
 -- Page 296, Offset 43302. Mods: @n.
@@ -58,7 +58,7 @@ Y después, si estas interesado,
 [sha:d74916a7f07ff7cc66b1d26bfaf09d366bda45a1]{
 -- Page 296, Offset 43303.
 -- 引き続き『月姫』の世界をお楽しみください。
-por favor continúa%{n}disfrutando el resto de Tsukihime.
+ por favor continúa%{n}disfrutando el resto de Tsukihime.
 }
 [sha:88c16dcce08bcd0a6a56d2e5a21318ed8f092176]{
 -- Page 297, Offset 43304. Mods: @n.
@@ -88,7 +88,7 @@ Te recomiendo encarecidamente que empieces%{n}desde
 [sha:552782c8562b25e49dff9b76456861bbc1580ddc]{
 -- Page 299, Offset 43309.
 -- 未知の選択肢を選んでいくのもお勧めです。
-el día uno y explores otras opciones%{n}que no has escogido antes.
+ el día uno y explores otras opciones%{n}que no has escogido antes.
 }
 [sha:5f18b55355698e419f775b9dfd991dc31a9fcd4b]{
 -- Page 300, Offset 43310. Mods: @n.
@@ -108,7 +108,7 @@ Las respuestas a los misterios que quedan,
 [sha:9757cb11b1c7f81ce3235d3ea95c45fcbd13d17d]{
 -- Page 301, Offset 43313.
 -- これまでとはまったく違う吸血鬼退治……
-y un tipo de%{n}caza vampírica totalmente distinta...
+ y un tipo de%{n}caza vampírica totalmente distinta...
 }
 [sha:b1d91e2eabdeae6ce168a6767b9241c065fc1cd9]{
 -- Page 302, Offset 43314. Mods: @n.
@@ -118,5 +118,5 @@ Volvamos a vernos en la siguiente ruta de la%{n}'Cara Visible de la Luna',
 [sha:0471cfcb1d70f815c11ed0ba0c8f8990ee7d7385]{
 -- Page 302, Offset 43315.
 -- もう一度お会いしましょう！
-¡donde se mostrarán%{n}todas esas cosas!
+ ¡donde se mostrarán%{n}todas esas cosas!
 }

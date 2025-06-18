@@ -6,14 +6,13 @@ Han pasado unas horas desde que se produjo el fuego frente a la estación.
 [sha:2044c0b73966f2dedf1d6ca2f15aa29be40d4591]{
 -- Page 10024, Offset 10714.
 -- 火災発生時、火の勢いから消火作業には二日を要すると現場の消防員から報告があったものの、午前零時を待たずして火の手は弱まり、ほどなくして鎮火した。
-Cuando estalló,
+Cuando estalló, 
  los bomberos en escena informaron de que llevaría dos días extinguirlo debido a la intensidad de las llamas,
  pero se frenó a media noche y fue extinguido poco después.
 }
 [sha:2278677bc97ecd3af9ac78682a399e43529a7386]{
 -- Page 10024, Offset 10715.
 -- “まるで生き物のように、ひとりでに消え去った”とは、現場に詰めていた警官の弁である。
-// Consistencia, igual uso cursiva
 %{i}¡Se apagó por si solo! Como si fuera un ser vivo%{/i},
  dijo un policía en escena.
 }
@@ -35,7 +34,7 @@ También nos hemos deshecho de cualquier rastro restante de los Apóstoles Muert
 [sha:56d35deace33cfbb97429d82da08ee3f6bfff449]{
 -- Page 758, Offset 10719.
 -- 警視庁に向かわれますか、マーリオゥ様」
-// Mario-sama o Padre Mario? HMMMMMMMMMMMMMMMM
+//Mario-sama o Padre Mario? HMMMMMMMMMMMMMMMM
 ¿Padre Mario, Deberíamos dirigirnos al Departamento de Policía Metropolitana?"
 }
 [sha:3a0efebd6f627fe32977deea726aa29802569b02]{
@@ -47,7 +46,7 @@ También nos hemos deshecho de cualquier rastro restante de los Apóstoles Muert
 [sha:a5a8fcf5e7b3d2d15f413b0c1da3199689c8b818]{
 -- Page 759, Offset 10721.
 -- ジジイの名前だけじゃ収まりはつかねえだろ。オレも出向いて誠意ってもんを見せないとな」
-// Hmm quizá too much?
+//Hmm quizá too much?
 No vamos a ser capaces de resolver esto simplemente mencionando al viejo.
  A veces tienes que ir a los sitios y hacer que lo puto entiendan, ¿sabes?"
 }
@@ -64,19 +63,19 @@ No vamos a ser capaces de resolver esto simplemente mencionando al viejo.
 [sha:e67f12e0b87ef0631cacbc7c8b56a17b12b55761]{
 -- Page 761, Offset 10724.
 -- 「あー、なぜか潜入捜査してたアイツらか。
-"Ah sí,  esos capullos que estaban trabajando en cubierto por la razón que sea.
+"Ah sí, esos capullos que estaban trabajando en cubierto por la razón que sea.
 }
 [sha:b5035c8922558a208d0559a9e60b9bc43eab665c]{
 -- Page 761, Offset 10725.
 -- ツーマンセルなんだよな？　下っ端の方は、オレのホテルに呼びつけて待機させとけ。使い道があれば使う。
 Iban en pareja, ¿no?
-  Invita al segundo al hotel y haz que permanezca a la espera.
+ Invita al segundo al hotel y haz que permanezca a la espera.
  Veamos si puedo hacer que sea de utilidad.
 }
 [sha:762bf9b908dd9063c145723656cae40920e762a6]{
 -- Page 761, Offset 10726.
 -- <埋葬機関|あっち>の方はできるだけ早く本国に帰らせろ。セオナトールをつっつけばすぐに動く」
-// mix con la tl oficial
+//mix con la tl oficial
 En cuanto a la de la Agencia de Entierros, mándala a casa tan rápido como puedas.
  Molesta a Seonator con ello y lo arreglará rápidamente."
 }
@@ -93,24 +92,24 @@ En cuanto a la de la Agencia de Entierros, mándala a casa tan rápido como pued
 [sha:7f4968b5f92a65140a0ff97691be11b86d768919]{
 -- Page 762, Offset 10729.
 -- 現場の後処理は誰にやらせてもいいんだが……
-Realmente no me importa quien se quede a limpiar la escena, pero...
+Realmente no me importa quién se quede a limpiar la escena, pero...
 }
 [sha:7be201a45fb3d07698af813d9e9913c09352dcd5]{
 -- Page 762, Offset 10730.
 -- おいアンドー！」
-EY, ANDOU!"
+¡EY, ANDOU!"
 }
 [sha:8f7dd92b90e610d4e23cfed435c309ac0c55ed8c]{
 -- Page 763, Offset 10731.
 -- 「へーい、お呼びですか坊ちゃん。
-// mix con la tl oficial
+//mix con la tl oficial
 "Nas', ¿me has llamado jefe?
 }
 [sha:a64fe154867b9e4a38534fb7ca979e6d6e972822]{
 -- Page 763, Offset 10732.
 -- いやあ、着任早々ついてないッスね。こんなんガス爆発で誤魔化すとか無理ですわ。どっかのテロ組織に声明でもだしてもらいます？」
 Cielos, también me han asignado esto.
- Esto no es mi día.
+ Hoy no es mi día.
  Sería rebuscado declarar esto como una de explosión de gas.
  ¿Vemos si algún terrorista quiere colgarse la medalla?"
 }
@@ -151,7 +150,7 @@ Osea que... ¿se supone que voy a hacer esto solo?
 -- 「見つけ出すだけじゃねえぞ。生きているなら教会に送れ。死んでいるならもう一度殺してやれ」
 "No solo vas a localizarlos.
  También tienes que mandar los vivos a la Iglesia,
- y matar a los muertos de nuevo."
+ y matar de nuevo a los muertos."
 }
 [sha:ebf507e2b1d1ac26fe7bc3a5f333e04f4dad963c]{
 -- Page 767, Offset 10739.
@@ -196,7 +195,7 @@ Osea que... ¿se supone que voy a hacer esto solo?
 [sha:8281c6b14302d46a739000aec0fe12c7eaa4adc2]{
 -- Page 770, Offset 10746.
 -- 「その必要はねえ。つーか絶対報せるな。この件はここだけで片付ける。
-// Mix entre ambas tls
+//Mix entre ambas tls
 "No es necesario.
  De hecho, ni se te ocurra informar de esto.
  Vamos a encargarnos de que esta mierda se quede aquí.
@@ -204,7 +203,7 @@ Osea que... ¿se supone que voy a hacer esto solo?
 [sha:58b4fdebc6cc2b2ea25bb1eacf9777fc21d57e9c]{
 -- Page 770, Offset 10747.
 -- しばらくは情報収集だ。これでも正義の味方だからな、いたずらに犠牲は増やせない。
-// Mix entre ambas tls
+//Mix entre ambas tls
 Por ahora reuniremos información.
  Estamos del lado de la justicia,
  no podemos acumular bajas sin razón.
@@ -212,7 +211,7 @@ Por ahora reuniremos información.
 [sha:c2fb327ed8e2da751833eb8d66a476cc9d97b975]{
 -- Page 770, Offset 10748.
 -- 誰が敵で誰が邪魔者か―――きっちりアタリをつけなくちゃな？」
-// Tl oficial
+//Tl oficial
 Primero tenemos que asegurarnos de quién es nuestro enemigo, y quién se interpone en nuestro camino."
 }
 [sha:edd72659351e9723cfcfe915ca0eb2f86b907e92]{

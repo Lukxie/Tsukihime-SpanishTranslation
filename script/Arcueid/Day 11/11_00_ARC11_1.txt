@@ -6,7 +6,7 @@
 [sha:79b4e63b40794786687702ec56a488fc2ac1f114]{
 -- Page 1, Offset 29475.
 -- 枕もとの眼鏡をかけてから目を開ける。
-Cojo las gafas del lado de la cama, me las pongo, y abro los ojos.
+Tomo las gafas del lado de la cama, me las pongo, y abro los ojos.
 }
 [sha:a310d25f7b5a384d84a800d06f9b759918a6b163]{
 -- Page 1, Offset 29476.
@@ -37,7 +37,7 @@ No puedo borrar de mi mente la imagen del perfil de Arcueid mientras se disculpa
 [sha:a835470ed9b5f76b576b1806ae9677bab6f674f3]{
 -- Page 3, Offset 29481.
 -- “お互い忘れましょう―――”
-Olvidémonos de―――'
+ 'Olvidémonos de―――'
 }
 [sha:0498250d9d55f3828a2c5f6b940fad99fe55f485]{
 -- Page 3, Offset 29482.
@@ -57,7 +57,7 @@ Olvidémonos de―――'
 [sha:b3edb946c754d4cf8e4846a57482ee5a7681a9c1]{
 -- Page 4, Offset 29485.
 -- ……どちらにしても不可能だ。
-Es imposible sea como sea...
+Sea como sea, es imposible...
 }
 [sha:0b7f156ec166b14b7c97329a3d6243041c70c11a]{
 -- Page 4, Offset 29486.
@@ -67,12 +67,12 @@ No puedo olvidar ni lo más mínimo de ella.
 [sha:168ac9ff9d2764a030af2acf4691b685bae9f016]{
 -- Page 5, Offset 29487.
 -- じっと両手を見つめる。
-Me miro las manos fíjamente.
+Me miro las manos fijamente.
 }
 [sha:61ae28ed6a39bbe0f288fc1ea47b47b2d4e4231b]{
 -- Page 5, Offset 29488.
 -- この指はまだアルクェイドの体を覚えている。
-Mis dedos aun recuerdan su cuerpo.
+Mis dedos aún la recuerdan.
 }
 [sha:5b02e6010f3a2b6238ebf645ffb6d36e6bb3fd49]{
 -- Page 5, Offset 29489.
@@ -88,7 +88,7 @@ La calidez de su cuerpo.
 -- Page 6, Offset 29491.
 -- 後悔はそれこそ数え切れない。あの時、あいつが俺を殺したとしても、それは当然の結果と受け入れる。
 Mis remordimientos son incontables.
-  No la habría culpado si me hubiera matado en ese momento.
+ Si me hubiera matado en ese momento no la habría culpado.
 }
 [sha:fcd7ca3127f982d777d7fb1f65563c48bd17c868]{
 -- Page 7, Offset 29492.
@@ -107,10 +107,10 @@ Y si, ¿en vez de maltratarla como un animal,
  la hubiese tratado con cariño como a un ser humano?
  De ser así―――
 }
-[sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
+[offset:29495]{
 -- Page 8, Offset 29495.
 -- 「――――――っ」
-"―――Ah."
+"―――%{i}Gh%{/i}."
 }
 [sha:64d77ef782f2cd103d06e40a03c4e401e2038f53]{
 -- Page 8, Offset 29496.
@@ -126,7 +126,7 @@ No perdí el control por mirar sus ojos dorados.
 -- Page 8, Offset 29498.
 -- いつからか本気になっていただけ。
 La simple realidad es que,
- en algún momento empecé a ir por ella en serio.
+ en algún momento empecé a sentir algo de verdad por ella.
 }
 [sha:d5d2c76b27233a2a90656fe7de074ca296b60ecf]{
 -- Page 9, Offset 29499.
@@ -149,12 +149,12 @@ Aunque―――
 [sha:73fe2549a856fe2d7c20f0086e4c5a6f23c7a7a2]{
 -- Page 10, Offset 29502.
 -- “もう会わない方がいいよね、わたしたち”
-Creo que lo mejor es que no volvamos a vernos'
+ 'Creo que es mejor que no volvamos a vernos.'
 }
 [sha:89478890a5d23c3f65a298d85ce7424d0e76023b]{
 -- Page 11, Offset 29503.
 -- あの寂しげな笑顔が、頭から離れない。
-No puedo sacar de mi cabeza esa sonrisa solitaria.
+No me puedo sacar de la cabeza esa sonrisa solitaria.
 }
 [sha:340348f3cf59b7351b7176168f4f114af4ce5cc8]{
 -- Page 11, Offset 29504.
@@ -164,7 +164,7 @@ Ya es demasiado tarde.
 [sha:2ee3e59e1fb94d16ebdf155bf422f1042c3ab84f]{
 -- Page 11, Offset 29505.
 -- もっと早くに気づいていれば―――あいつに、あんな顔をさせる事はなかったのに。
-Si solo me hubiera dado cuenta antes――nunca la habría dado razones para poner esa cara.
+Si tan solo me hubiera dado cuenta antes――nunca la habría dado razones para poner esa cara.
 }
 [sha:1f2e35ac400cfe3889e795c8d1c0b7edab3325d7]{
 -- Page 12, Offset 29506.
@@ -228,7 +228,7 @@ Todo el mundo el mundo está entusiasmado por el hecho de que mañana sea día l
 [sha:2109caf7d5ced7332aeb9bf776003c17801d4add]{
 -- Page 15, Offset 29517.
 -- ここ数日間、あいつに振りまわされていた事もあり、曜日の感覚が薄れていた。
-He estado tan ocupado siguiéndole el ritmo a Arcueid este último par de días que he perdido la noción del día que es.
+Este último par de días he estado tan ocupado siguiéndole el ritmo a Arcueid que he perdido la noción de a que día de la semana estamos.
 }
 [sha:b993f1439faf8f0c96ea912b876e7609f15af36e]{
 -- Page 16, Offset 29518.
@@ -243,7 +243,7 @@ Me estaba esperando aquí, en la intersección frente a la escuela.
 [sha:dc078ef40bd94bf5183f1180a0bbddd4aab91d83]{
 -- Page 16, Offset 29520.
 -- 「……あいつ、笑ってたんだよな、たしか」
-"Estaba sonriendo, ¿no?"
+"Creo que... estaba sonriendo, ¿no?"
 }
 [sha:c3c6546f0abcb5484e9a451364f413b9f026ba26]{
 -- Page 17, Offset 29521.
@@ -253,12 +253,12 @@ Ella era así desde el principio.
 [sha:e7551ee469bd0af291f9d48daf8250589240b967]{
 -- Page 17, Offset 29522.
 -- 自分を殺した相手を待ち伏せしていたのに、楽しそうに目を輝かせて、見も知らぬ殺人鬼を待っていた。
-Ya fuera emboscar al extraño sanguinario que la mató, ya fuera otra cosa, sus ojos siempre brillaban de entusiasmo.
+Fuera emboscar al extraño sanguinario que la mató, o fuera otra cosa, sus ojos siempre brillaban de entusiasmo.
 }
 [sha:7bcffc686a98fd8a9e80638fa798490c43a5d889]{
 -- Page 18, Offset 29523.
 -- 「……なんでだろうな。理由ぐらいは訊いてみたい」
-"Me pregunto por qué... ojalá pudiera preguntarla."
+"Me pregunto por qué... ojalá pudiera preguntarle."
 }
 [sha:7b950eb30a0a63f9bfeca555395426547b718905]{
 -- Page 18, Offset 29524.
@@ -313,14 +313,14 @@ Suspiro profundamente.
 [sha:36c2370b00b3d89540120865c8a73889dc82e2a9]{
 -- Page 20, Offset 29534.
 -- いつもなら憎まれ口を投げ合うところだが、今朝はその元気さえない。
-Ahora normalmente nos echaríamos pestes el uno al otro, pero esta mañana no tengo ganas.
+Ahora vendría la parte donde nos echamos pestes el uno al otro, pero esta mañana no tengo ganas.
 }
 [sha:6c4d745ab24d53d89ae80efb4848a95dc650a5a3]{
 -- Page 21, Offset 29535.
 -- 「なんだよ、またえらく元気がないな。昨日は学校に来ない、来たら来たでヌケガラとはね。やだやだ、遠野がそんなんだと学校に来ても面白くもなんともない」
 "¿Qué te pasa? No te veo muy bien.
- Ayer ni siquiera vienes a la escuela, y cuando decides venir te presentas como la sombra de lo que eras.
- No es divertido venir a la escuela si vas a estar así, no señor."
+ Ayer ni siquiera viniste a la escuela, y cuando decides venir te presentas como la sombra de lo que eras.
+ Si vas a estar así, no es divertido venir a la escuela."
 }
 [sha:089806369126bb8c708afe27bc32fc59055c7155]{
 -- Page 21, Offset 29536.
@@ -331,7 +331,7 @@ Arihiko encoge los hombros exageradamente.
 -- Page 22, Offset 29537.
 -- 「悪いけど、今日は一人にしてくれ。いいだろ、俺なんかいなくても、おまえには先輩がいるんだから。いや、むしろ俺がいないほうがラッキーなんじゃないか？」
 "Lo siento pero, ¿puedes dejarme hoy en paz?
- Aunque no me tengas a mi, aún tienes a Senpai.
+ Aunque no me tengas a mí, aún tienes a Senpai.
  En realidad, ¿no es una suerte que no esté durante el almuerzo?"
 }
 [sha:a83ac82d23b78b3a008df841c7a49358e00da90d]{
@@ -362,7 +362,7 @@ Mi boca no puede seguir con la frase.
 [sha:b6431b66aac085234a43766365c51e9a56c3b5c7]{
 -- Page 24, Offset 29543.
 -- 有彦と同じく、俺も上級生の知り合いはいない。
-Como Arihiko, no conozco a nadie de tercero.
+Al igual que Arihiko, no conozco a nadie de tercero.
 }
 [sha:184027a83fb5cd3fd542d7d0eec55673b982190e]{
 -- Page 25, Offset 29544. Mods: @k, @e.
@@ -372,7 +372,7 @@ Como Arihiko, no conozco a nadie de tercero.
 [sha:1f5ac20d30353cbc090b8ac4b4e863280e72f372]{
 -- Page 25, Offset 29545. Glued. Mods: @x.
 -- そいじゃまた、昼飯時に」
-Nos vemos a la hora de comer."
+ Nos vemos a la hora de comer."
 }
 [sha:0f58df297a8182714cb329b05f5b2871dc508e32]{
 -- Page 25, Offset 29546.
@@ -399,7 +399,7 @@ Mientras sale, entra Noel-sensei... ¿o no?
 [sha:9bb362f0d6565cb3e09de3f485888d83acc51f35]{
 -- Page 26, Offset 29550. Glued.
 -- 学校をお辞めになられたというかー」
-renunció esta mañana, por lo que, bueno, aquí estamos."
+ renunció esta mañana, por lo que, bueno, aquí estamos."
 }
 [sha:23144c7640543b8094b7d2a9dd851bf8e1cff4b2]{
 -- Page 26, Offset 29551.

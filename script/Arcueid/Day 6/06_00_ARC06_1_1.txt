@@ -11,13 +11,13 @@ No puedo mencionar a Arcueid o a Vlov.
 [sha:3c70b27b258a8f8f0286ff8958e25bb01b661f7a]{
 -- Page 52, Offset 14043.
 -- 通じる筈がないし、アレは関わってはいけないものだ。
-// Aunque bajo ningun concepto puedo decirla la verdad, al menos puedo disculparme por mis faltas.
+//Aunque bajo ningun concepto puedo decirla la verdad, al menos puedo disculparme por mis faltas.
 No es vaya a entenderlo, y no quiero involucrarla.
 }
 [sha:446d91e66b9de31fabaf7fcb25689db4620f2940]{
 -- Page 52, Offset 14044.
 -- どうあっても真実は話せない以上、せめて、こちらの落ち度を素直に謝ろう。
-Aunque bajo ningún concepto puedo decirla la verdad, al menos puedo disculparme por mis faltas.
+Aunque bajo ningún concepto puedo contar la verdad, al menos puedo disculparme por mis faltas.
 }
 [sha:a08fad88c7e939b55e7c0584146ede879e48f446]{
 -- Page 53, Offset 14045.
@@ -67,7 +67,7 @@ Eh, ¿soy yo, o Akiha es increíblemente intimidante?
 [sha:3d71527e93e74f3b6116a51907d9220ed1a20ffa]{
 -- Page 55, Offset 14054.
 -- ええ、色々と長くなる筈ですものねぇ？」
-Si... tenemos mucho que hablar, ¿no crees?"
+Sí... tenemos mucho que hablar, ¿no crees?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 56, Offset 14055.
@@ -82,7 +82,7 @@ Es mi imaginación, ¿o parece que se está divirtiendo?
 [sha:9698e2b7450d0bb7f323bec44ee06ddf3d59d214]{
 -- Page 56, Offset 14057.
 -- アレか。カエルを前にした蛇とか、そういうヤツか。
-// De la tl oficial.
+//De la tl oficial.
 Es como si ella fuera el gato y yo el ratón.
 }
 [sha:9a3f3b9ab5defb58ba9260111dde892a605ef35c]{
@@ -103,12 +103,12 @@ Quizá sea mejor decir hola y hacer una retirada táctica.
 [sha:6a69fffcea9af62a92df679db6528d59a073b8c0]{
 -- Page 58, Offset 14061.
 -- 逃げよう、なんて甘い考えは秋葉のひと睨みで霧散した。
-Una sola mirada de Akiha es suficiente fulmina cualquier pensamiento de escapar.
+Una sola mirada de Akiha es suficiente para fulminar cualquier pensamiento de escapar.
 }
 [sha:05002abc0c1e0d82a0da41484c0cfd3735164737]{
 -- Page 58, Offset 14062.
 -- 左脚の痛みを我慢しつつ、しずしずとソファーに腰を下ろす。
-Me siento lentamente en el sofá, aguantándome el dolor de mi pierna izquierda.
+Me siento lentamente en el sofá, aguantando el dolor de mi pierna izquierda.
 }
 [sha:373c5ecd44290218da13910f2c801358b556696e]{
 -- Page 59, Offset 14063.
@@ -118,20 +118,20 @@ Me siento lentamente en el sofá, aguantándome el dolor de mi pierna izquierda.
 [sha:fed8f13e40a1db49cfd7c302e600b6b498452d9f]{
 -- Page 59, Offset 14064.
 -- 「言わずとも分かります。……妙な態度でこちらの気勢を殺がないでください。卑怯です」
-// De la tl oficial.
+//De la tl oficial.
 "Sí, puedo verlo...
  Por favor no le quites seriedad a la conversación con esa extraña actitud. No es justo."
 }
 [sha:45bf036b03eebb2e5d250fbfc8202d2e56746199]{
 -- Page 60, Offset 14065.
 -- 「？　なんで卑怯なんだ？」
-// De la tl oficial.
+//De la tl oficial.
 "¿Injusto? ¿Cómo?"
 }
 [sha:e65c04107a6509ee1312380c2a8180fe7eab5e75]{
 -- Page 60, Offset 14066. Mods: @k, @e.
 -- 「卑怯でしょう。そんな顔をされたら気が緩―――
-"¡Cómo %{i}no%{/i} lo es!
+"¡Cómo %{i}no%{/i} va a serlo!
  Si pones esa cara, no puedo evitar――
 }
 [sha:747723da481d261e0475d2588fe3e83ac82bb003]{
@@ -142,7 +142,7 @@ Me siento lentamente en el sofá, aguantándome el dolor de mi pierna izquierda.
 [sha:139afc700fd881ccb02bf9a1d0da6c307d16fab9]{
 -- Page 61, Offset 14068.
 -- ううん、と咳払いをして<言|げん>を止めると、秋葉はいっそう鋭い視線で俺を睨んだ。
-// De la tl oficial.
+//De la tl oficial.
 Akiha para a mitad de frase con un tosido, y entonces afila aún más su mirada.
 }
 [sha:87439d2a77c6227a9bd907a57f75a2bff5373a08]{
@@ -170,10 +170,10 @@ Pero, como hermano mayor, no puedo dejar que escuche lo que ocurrió. Prefiero q
 -- 「それなんだけど、秋葉」
 "Sobre eso, Akiha."
 }
-[sha:d5b5d8d5ebd38195c37bc4d77f34049fe926228e]{
+[offset:14074]{
 -- Page 64, Offset 14074.
 -- 「はい、なんでしょう」
-"Si, ¿qué quiere?
+"Sí, ¿qué ocurre?
 }
 [sha:be310cb3f1d3773317c2a8d871afd3e148f32519]{
 -- Page 64, Offset 14075.
@@ -276,12 +276,12 @@ No hay forma de que la deje oír tal historia.
 -- 秋葉には余計な心配をさせて悪かったと思ってる。連絡を入れなかった事も謝る。だけど、話せない事は話せない」
 Estuvo mal hacer que te preocupases sin motivo.
  Y también me disculpo por no deciros nada.
- Pero me temo que aún así no te puedo decir lo que ocurrió.
+ Pero aún así me temo que no te puedo decir lo que ocurrió.
 }
 [sha:dd2ec178c011f0925723cebf6eaaf6935a3b1614]{
 -- Page 72, Offset 14095.
 -- 「私に悪い、と思っているのに話せないんですね、兄さんは。
-"Osea que afirmas sentirte mal, y aún así no lo explicas, Nii-san.
+"Osea que afirmas sentirte mal, pero aún así no lo explicas, Nii-san.
 }
 [sha:cff15985a9a4bd7e011b00a5e83537908cb24cc6]{
 -- Page 72, Offset 14096.
@@ -352,25 +352,25 @@ Akiha me mira fijamente a los ojos.
 [sha:3e10a32208e5e268f384da29415337ec0bdd4428]{
 -- Page 77, Offset 14109.
 -- しばらく、そんな息苦しい時間が続いた。
-// De la tl oficial.
+//De la tl oficial.
 Un silencio incómodo llena la sala.
 }
 [sha:bfe99f3deca821b7a911507042b275f8891093ed]{
 -- Page 78, Offset 14110.
 -- 「そうですね。
-// De la tl oficial.
+//De la tl oficial.
 "Lo entiendo.
 }
 [sha:79a26022e7efd330528344b7c4062e5d82370773]{
 -- Page 78, Offset 14111.
 -- 考えてみれば兄さんにも事情があるのでしょうし、私がそれに深く干渉する事はできませんものね」
-// De la tl oficial.
-Es natural que haya asuntos que prefieras mantener privados, y no me corresponde interferir.
+//De la tl oficial.
+Es natural que haya asuntos que prefieras mantener privados, y no me corresponde interferir. "
 }
 [sha:fddc666f51a3a170f7b569353dca359262a836f3]{
 -- Page 78, Offset 14112.
 -- 「……悪い。そう言ってもらえると、助かる」
-// De la tl oficial.
+//De la tl oficial.
 "Lo siento... Pero me alivia oírte decir eso."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

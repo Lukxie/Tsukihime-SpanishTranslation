@@ -8,7 +8,7 @@
 -- 貴女の本命は私でしょう、ノエル」
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:36098]{
 -- Page 10011, Offset 36098.
 -- 「……！」
 ¡Ah!
@@ -118,7 +118,7 @@
 -- 「え？
 -- TRANSLATION HERE
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:36120]{
 -- Page 287, Offset 36120. Glued. Mods: @k, @e.
 -- ……
 ...
@@ -151,7 +151,7 @@
 [sha:e647bdc902b660ab925ec73c2e2b701206ec260d]{
 -- Page 290, Offset 36126.
 -- ……？
-¿Hmm...?
+-- TRANSLATION HERE
 }
 [sha:701bd2c134a5d0f27e6338e25fc48434a2b93115]{
 -- Page 290, Offset 36127.
@@ -701,7 +701,7 @@
 [sha:a893c6b845f40c2c7c29758ee6ea388114d9044d]{
 -- Page 331, Offset 36236.
 -- 勝敗は決した。
-Se ha decidido el ganador.
+-- TRANSLATION HERE
 }
 [sha:4605bcbf76acbf8acb8f62e67bab000485cb7a38]{
 -- Page 331, Offset 36237.

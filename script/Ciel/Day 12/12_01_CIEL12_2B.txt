@@ -28,7 +28,7 @@
 -- ……情けない話だけど、どんなに自分を鼓舞したところで先輩がいないという事実が、重く肩にのしかかって――――
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:30937]{
 -- Page 29, Offset 30937.
 -- 「―――え？」
 "―――¿Huh?"
@@ -306,7 +306,7 @@
 [sha:b1c0d017df5cb11a5a3ed130c4c5da65df5c4d6c]{
 -- Page 50, Offset 30992.
 -- 「よし」
-"Vale."
+-- TRANSLATION HERE
 }
 [sha:04520996065cb467d28d91f6359362d831cf0bab]{
 -- Page 51, Offset 30993.

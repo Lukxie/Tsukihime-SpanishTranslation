@@ -26,7 +26,7 @@ Me pregunto cuál fue la última vez que me desperté en medio de la noche.
 [sha:d3103093d70efe1b81dc253e582973c3003f20eb]{
 -- Page 550, Offset 2567.
 -- 忘れ物をした気がして、落ち着かなくて体を起こした。
-Tengo el presentimiento de que he perdido algo en algún lado, así que me incorporo ansiosamente.
+Tengo el presentimiento de haber perdido algo en algún lado, así que me incorporo ansiosamente.
 }
 [sha:2f58ec8109b8495cf6edb9098a1d5d693cd68e87]{
 -- Page 551, Offset 2568.
@@ -46,7 +46,7 @@ Un largo pasillo, iluminado por la luna.
 [sha:ef86988470d4cfa566f24a0d92f703c4f7344d7a]{
 -- Page 553, Offset 2571.
 -- 住人たちが寝静まった夜の音。
-El sonido de la noche después de que sus residentes se hayan quedado dormidos.
+El sonido de la noche una vez sus residentes se han quedado dormidos.
 }
 [sha:3b4e0d9a1736e5e73da7c3b489408383905ce2c1]{
 -- Page 553, Offset 2572.
@@ -86,7 +86,7 @@ El ático de la mansión, que solía ser un almacén, no ha sido accedido en añ
 [sha:1db9c67a0a18a59ca85eec31ab10d62ea2bb97d8]{
 -- Page 556, Offset 2579.
 -- 十月だというのに、今夜は真冬のように寒い。
-A pesar de que sólo es Octubre, esta noche es tan fría como las invernales.
+A pesar de que sólo ser octubre, esta noche es tan fría como las invernales.
 }
 [sha:759aa804c564cffad3d333fa2d4b23e8b3428dcf]{
 -- Page 556, Offset 2580.
@@ -116,12 +116,12 @@ El cajón no tiene casi nada en él.
 [sha:cf59946633c9f66820c7d99c4845aaec3471b324]{
 -- Page 558, Offset 2585.
 -- 期待して開けた宝箱の中に、小石が数個、散乱しているような失望感。
-Me siento decepcionado, como si hubiese abierto un cofre del tesoro para sólo encontrar unas piedras en él.
+Me siento decepcionado, como si hubiese abierto un cofre del tesoro para sólo encontrar en él unas piedras.
 }
 [sha:8cd9060d53f1aa9c1e688d4251223813dc3fdb7f]{
 -- Page 558, Offset 2586.
 -- ワッペンだのアクセサリーだの双眼鏡だの、子供が集めた雑貨が転がっている。
-Estas son insignias, accesorios, binoculares, y otros objetos varios que estaban tirados por ahí y recogieron unos niños
+Estas son insignias, accesorios, binoculares, y otros objetos varios que estaban tirados por ahí y que unos niños recogieron.
 }
 [sha:d472e300236f96aa4d044b11705121b863002b98]{
 -- Page 558, Offset 2587.
@@ -156,7 +156,7 @@ Cuando iba a dejar el ático―――
 [sha:ad2da0e5efc270d0193efaa11ed7abdbfb5b6616]{
 -- Page 560, Offset 2593.
 -- 何の理由もなく、頬が濡れている事に気がついた。
-Me doy cuenta que por alguna razón mis mejillas están húmedas.
+Me doy cuenta de que por alguna razón mis mejillas están húmedas.
 }
 [sha:cc9f15eca5a01bf698f8c431906558aca0bcdddd]{
 -- Page 560, Offset 2594.

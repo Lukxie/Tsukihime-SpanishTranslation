@@ -443,10 +443,10 @@
 -- 俺はもう何層か下の階に来ているはずだ。
 -- TRANSLATION HERE
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:11195]{
 -- Page 117, Offset 11195.
 -- 「―――！」
-"%{i}Hnh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:968ca74d23b8452959c27bfc666d1243011fbe85]{
 -- Page 117, Offset 11196.
@@ -511,7 +511,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 120, Offset 11208.
 -- 「！」
-"¡%{i}Agh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:d78d1b822003d7e9ee00c4f4354c8668769cce39]{
 -- Page 121, Offset 11209.
@@ -798,10 +798,10 @@
 -- 俺だっていっそ楽になってしまえればと何度も思った。
 -- TRANSLATION HERE
 }
-[sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
+[offset:11266]{
 -- Page 141, Offset 11266.
 -- それでも―――
-Y aún así―――
+-- TRANSLATION HERE
 }
 [sha:f889174f485d1f01017e1dd59cd8b556caad7f0a]{
 -- Page 142, Offset 11267.
@@ -848,17 +848,17 @@ Y aún así―――
 -- 「……！
 -- TRANSLATION HERE
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:11276]{
 -- Page 145, Offset 11276. Glued. Mods: @x, @n.
 -- ……
 ...
 }
-[sha:76f476cda4fe3e481152fd88146308864a5e076a]{
+[offset:11277]{
 -- Page 145, Offset 11277. Glued. Mods: @k, @e.
 -- 、
 ,
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:11278]{
 -- Page 145, Offset 11278. Glued. Mods: @x, @n.
 -- ……
 ...

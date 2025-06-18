@@ -2,7 +2,7 @@
 -- Page 10017, Offset 25564.
 -- ……結局、あの後も放送室やら美術室やらを案内させられ、学校から出る頃には日は沈みきっていた。
 Al final, Arcueid me hace enseñarla la sala de comunicaciones, la sala de artes, y otras muchas zonas de la escuela.
- El sol ya se había puesto cuando salimos.
+ Cuando salimos el sol ya se había puesto.
 }
 [sha:788ff5af98ada052b561e9c2976d36f36c5beb30]{
 -- Page 10017, Offset 25565.
@@ -23,7 +23,7 @@ Un poco pronto, pero deberíamos empezar a buscar vampiros.
 [sha:527187f8d6d0b6e8407e1f6e235d96d1ed4242f4]{
 -- Page 503, Offset 25568. Glued. Mods: @n.
 -- アルクェイド
-Arcueid?
+ Arcueid?
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 503, Offset 25569. Glued.
@@ -44,7 +44,7 @@ Arcueid?
 [sha:1c1acbd1a59da74677f05268b546f1cc9e5b7b5b]{
 -- Page 505, Offset 25572.
 -- 「志貴ってヘンに生真面目よね。そんなに真面目なのに、どうして昨日は約束を破ったりしたのかしら」
-"Parece que tienes muchas ganas. Si tanto quieres hacerlo, ¿por qué ayer rompiste tu promesa?"
+"Parece que tienes muchas ganas. Si tanto quieres hacerlo, ¿por qué rompiste ayer tu promesa?"
 }
 [sha:1d1772e5df0483ba0be1732f8c814b1160fcfb70]{
 -- Page 505, Offset 25573.
@@ -92,7 +92,7 @@ Arcueid empieza a trotar, sus pasos hacen un ligero eco.
 [sha:0023ae5dc7593ef10e75d9f87e4b7e73289b4215]{
 -- Page 509, Offset 25581.
 -- 本気で公園に向かっているようだった。
-Parece que va al parque de verdad.
+Parece que de verdad está yendo al parque.
 }
 [sha:a534a06bb0e9e5078e8aee95c4e47c1ac15425fe]{
 -- Page 509, Offset 25582.
@@ -112,7 +112,7 @@ Empiezo a correr para no perderla de vista.
 [sha:1ec62670f5b335556237cd95d49a187503eff40c]{
 -- Page 510, Offset 25585. Glued.
 -- 言ってちゃんと付いてくるんだよね、志貴って」
-Diga lo que diga, siempre me sigues."
+ Diga lo que diga, siempre me sigues."
 }
 [sha:7f4933bf54387402715bf6e3c13d91dfed261e54]{
 -- Page 511, Offset 25586.
@@ -139,7 +139,7 @@ He tenido que abrirme paso entre varias multitudes para seguirla el ritmo.
 [sha:6826a5b160bdcd824198d6a9823880891187d860]{
 -- Page 512, Offset 25590. Glued.
 -- 人が多いのね。
-a esta hora de la noche, ¿no?
+ a esta hora de la noche, ¿no?
 }
 [sha:83cd6444cc6da15e3a861ac88a435f82d7341cc3]{
 -- Page 512, Offset 25591.
@@ -154,7 +154,6 @@ Puedo sentir su presencia a nuestro alrededor. Hace que me cueste un poco relaja
 [sha:dcde7e9379932125d43617df2f48a57b6e772f74]{
 -- Page 513, Offset 25593.
 -- 「そう？　わたし、志貴の声はちゃんと聞いているつもりだけど？」
-// Tl oficial
 "¿Eh? Diría que te he escuchado perfectamente."
 }
 [sha:4361acc45a18c4107da218839b4f6eecca90cf1d]{
@@ -196,9 +195,9 @@ Arcueid ni siquiera corría tan deprisa...
 [sha:02806be003cc21f4b50737d4d50172cb3ea1feb5]{
 -- Page 516, Offset 25601.
 -- どっちかというと、アルクェイドにしては遅かったと思う。昨日の貧血の後遺症なのか、俺の体が本調子でなかっただけだ。
-De hecho, en todo caso diría que ha corrido más despacio de lo normal.
+De hecho, diría que en todo caso ha corrido más despacio de lo normal.
  Es solo que no estoy en plena forma,
- no hay duda de que son los efectos residuales de la anemia de ayer.
+ sin duda son los efectos residuales de la anemia de ayer.
 }
 [sha:5b0b597545b81233f50d26a156c26c1df420ea38]{
 -- Page 517, Offset 25602.
@@ -214,7 +213,7 @@ De hecho, en todo caso diría que ha corrido más despacio de lo normal.
 [sha:5ec86ae7eeb65411ba7a8876947f61b8954e4165]{
 -- Page 517, Offset 25604.
 -- 「もう。志貴がやる気になってるのは嬉しいけど、まだ時間が早すぎるのよ」
-"Joe. Me alegro de que seas tan entusiasta, pero aún es muy pronto."
+"Jo. Me alegro de que seas tan entusiasta, pero aún es muy pronto."
 }
 [sha:3dcf331a2dbd78caa82f03f725fad28b0d50bd07]{
 -- Page 518, Offset 25605.
@@ -225,7 +224,7 @@ De hecho, en todo caso diría que ha corrido más despacio de lo normal.
 [sha:7358f9ba39d4621134756078cd87f2dd6eb84fe8]{
 -- Page 518, Offset 25606.
 -- 彼らはもっと夜の気配が濃くならないと活動しないから、しばらくは時間を潰さないとね」
-Hasta que oscurezca un poco más no serán activos, así que aún tenemos un rato."
+No se volverán activos hasta que no oscurezca un poco más, así que aún tenemos un rato."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 519, Offset 25607.
@@ -257,7 +256,7 @@ Cada vez hay menos gente alrededor,
 -- Page 521, Offset 25612.
 -- アルクェイドはどうしてかベンチに座らず、退屈そうにそこいらを歩きまわっていた。
 Por alguna razón Arcueid no se sienta conmigo,
- en su lugar, anda paseándose por la fuente.
+ en vez, anda paseándose por la fuente.
 }
 [sha:111375aa080aa048d2ec38c6126a9d204e093aa0]{
 -- Page 521, Offset 25613. Mods: @n.
@@ -277,7 +276,7 @@ Todo está muy en silencio.
 [sha:acc35024d90f3389c3284c6d5e1d775964d749a6]{
 -- Page 521, Offset 25616.
 -- <晧晧|こうこう>とした月光が、夜の公園とアルクェイドを照らしている。
-El brillo de la luna ilumina a Arcueid, al parque, y a mi.
+El brillo de la luna ilumina a Arcueid, al parque, y a mí.
 }
 [sha:6233f045324950ba94ecc8735ce585f18c45e12f]{
 -- Page 523, Offset 25617.
@@ -292,7 +291,7 @@ Recuerdo cuando me atacaron en la mansión Tohno hace dos noches.
 [sha:0419003bfc3a219b72b44e5b784b8813a870f053]{
 -- Page 523, Offset 25619.
 -- あの時もこれだけ明るければ、あの黒い影もはっきり見えたかもしれない……って、
-Si hubiera estado tan brillante, quizá podría haber visto bien a esa sombra negra...
+Si hubiera brillado tanto, quizá podría haber visto bien a esa sombra negra...
 }
 [sha:f080fd42e891f7b0810b81647324daed8bf5a7f6]{
 -- Page 523, Offset 25620.
@@ -312,7 +311,7 @@ Me levanto del banco de golpe.
 [sha:78015993af65da125e2f514b5076e08b78b49367]{
 -- Page 524, Offset 25623. Glued.
 -- 見つけちゃった！？」
-a uno de los Muertos?!"
+ a uno de los Muertos?!"
 }
 [sha:98c9a1f3c82032abc5405492f5a1dfdbe2deab44]{
 -- Page 524, Offset 25624. Mods: @n.
@@ -419,14 +418,14 @@ Ahora que lo pienso, ¿no dijo que los Ejecutores trabajaban en parejas?
 [sha:dd45842b888d3708023c723ca1a9ce9ad0caa743]{
 -- Page 269, Offset 25644.
 -- 「そう。そいつの独断か、あるいは動けない理由があるのか。……もうひとりが<あ|・><の|・><女|・>だとしたら目障りね。
-"Ya veo. Quizá actuó por su cuenta, o quizá hay una razón por la que el otro estaba con ella...
- Si la otra persona es quien creo que es... esto se puede poner feo.
+"Ya veo. Quizá actuó por su cuenta, o quizá hay una razón por la que el otro no estuviera con ella...
+ Si la otra persona es quién creo que es... esto se puede poner feo.
 }
 [sha:f291fb63480e313ab3734bcdb1e8af6bdbb36365]{
 -- Page 269, Offset 25645.
 -- アイツならわたしより先に“棺”を見つけ出せるでしょうし…………先に、そっちを潰しておくか」
 Si es ella de verdad, será capaz de localizar el ataúd antes que yo...
- Quizá debería deshacerme de ella primero."
+ Quizá deba deshacerme de ella primero."
 }
 [sha:9ad4fdac09d3fa807829b13f8d9b33142c95aa81]{
 -- Page 270, Offset 25646.
@@ -441,14 +440,14 @@ No sabría decir por qué, pero parece que no aguanta
 [sha:72011c4b8d0b62737eef37f48fa639d71c1acf0c]{
 -- Page 270, Offset 25648. Glued.
 -- 気にくわないらしい。
-a la 'compañera' de Noel-sensei.
+ a la 'compañera' de Noel-sensei.
 }
 [sha:17f5650b05743c842d85028d35198d5fce7b84f9]{
 -- Page 270, Offset 25649.
 -- 今まで敵意や殺気、威圧感を感じさせる事はあったが、ここまで露骨に嫌悪を表すのは珍しい。アルクェイドと“あの女”とやらはよほど相性が悪いのか。
 Ya he experimentado de cerca su hostilidad, sed de sangre, y aura intimidante,
  pero es raro que exprese su odio tan abiertamente.
- Me pregunto si Arcueid y esta persona de verdad son tan incompatibles.
+ Me pregunto si Arcueid y esta persona son de verdad tan incompatibles.
 }
 [sha:7d754e004cdfd5c94b7f5cea23f55cabc43796be]{
 -- Page 535, Offset 25650.
@@ -470,7 +469,7 @@ Pero si tenéis un objetivo en común, ¿no sería mejor cooperar?"
 -- でも今回は絶対に無理。人間には譲らないし、もし代行者があの女なら、まずそっちを始末してる」
 Pero esta vez no es una opción.
  No puedo entregárselo a un humano, y si %{i}ella%{/i} es la Ejecutora,
- tengo que lidiar primero con ella."
+ es con quién tendré que lidiar primero."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 537, Offset 25654.
@@ -511,7 +510,7 @@ Gracias.
 [sha:06e37e81f607f84b057c69a6d04972f1d70eef61]{
 -- Page 539, Offset 25662.
 -- ……なんか志貴、優しくない？　いつもなら、もっとしつこく食い下がってくるのに」
-Shiki, ¿no estás siendo demasiado bueno?
+Oye Shiki, ¿no estás siendo demasiado bueno?
  Normalmente ya me estarías exigiendo respuestas."
 }
 [sha:d84872aef4d0979108cd78f5feac6defbdddb870]{
@@ -585,7 +584,7 @@ La razón por la que los vampiros se ocultan al aprovecharse de los humanos es p
 [sha:cc3f2061460de051455b13d35dbf0932e44e5e3d]{
 -- Page 546, Offset 25675.
 -- 「……それがノエル……先生みたいな連中か。
-"Osea que ese es el tipo de grupo del que Noel... sensei forma parte.
+"Osea que ese es el tipo de grupo del que forma parte Noel... sensei.
 }
 [sha:c9bad3a9c047991ff1f2386915394288d97dfa00]{
 -- Page 546, Offset 25676.
@@ -608,7 +607,7 @@ Como persona normal,
 [sha:d8b769c67665884bf9391fd89f1153802ef04c8f]{
 -- Page 547, Offset 25679.
 -- 吸血鬼……死徒の天敵というのは、あなたたち人間そのものなんだから」
-El enemigo natural de los vampiros... de los Apóstoles Muertos, soy vosotros simplemente, los humanos."
+El enemigo natural de los vampiros... de los Apóstoles Muertos, simplemente sois vosotros , los humanos."
 }
 [sha:ce722aa850c9f690dd07c6c6d4d7ce095d97878c]{
 -- Page 547, Offset 25680.
@@ -667,7 +666,7 @@ Si no, no habría usado las palabras 'a ser posible'.
 [sha:8686478471de72ace3ae3a0210fc5236018a6b71]{
 -- Page 551, Offset 25690.
 -- 「で。志貴を助けたのはその中でも異端狩りを専門としている連中よ。主の教えを代行する、という役割から<代行者|エクスキューター>って呼ばれてる。
-"Así pues, quién te salvó es miembro de un grupo que se especializa en cazar herejes.
+"Y pues, quién te salvó es miembro de un grupo que se especializa en cazar herejes.
  Como son gente que ejecuta las enseñanzas del señor, se les llama Ejecutores.
 }
 [sha:efeba49bf796440ddad8816d033538e0571fbbbd]{
@@ -718,13 +717,13 @@ Si los ejecutores desplegados aquí son de esa agencia,
 -- 「ええ。連中は相手が吸血鬼であるのなら、何をしても許される権限を持っている。それは死徒に狙われた街も同じ。まだ人間が生活していようが、すでに穢れた土地ならもろともに焼き尽くす」
 "Sí. Si se enfrentan a un vampiro, tienen autoridad para hacer lo que quieran.
  Si una ciudad es objetivo de un Apóstol Muerto tampoco es distinto.
- Aunque esté o no habitada por humanos, si ya está corrompida,
-la quemarán hasta los cimientos igualmente."
+ Independientemente de si está o no habitada por humanos, si ya está corrompida,
+ la quemarán hasta los cimientos."
 }
 [sha:5813c3eea310090bdb92e2bcea4a3156d0eac586]{
 -- Page 555, Offset 25700.
 -- 「そのノエルって代行者が今まで何もしなかったのは、わたしと死徒を同時に始末する機会を窺っていたんでしょうね。埋葬機関にとって、人間ではない霊長はそれだけで“悪”だから」
-"La razón por la que Noel, esa Ejecutora, no ha hecho nada hasta ahora es porque está esperando a la oportunidad para encargarse de ese Apóstol Muerto y de mi al mismo tiempo.
+"La razón por la que Noel, esa Ejecutora, no ha hecho nada hasta ahora es porque está esperando a la oportunidad para encargarse de ese Apóstol Muerto y de mí al mismo tiempo.
  Ya que, para la Agencia de Entierros cualquier no-humano es 'el mal' en sí mismo."
 }
 [sha:64be3c91fe3f55e4409fcd6391316a537fa954ea]{
@@ -748,10 +747,10 @@ Parece que las cosas empiezan a complicarse.
 -- アルクェイドは仲間である吸血鬼に狙われて、吸血鬼を敵視する連中にも狙われている。
 Arcueid no solo es objetivo de otros vampiros, sino que también de un grupo que es hostil a los vampiros.
 }
-[sha:8a431e9804deb4eaf8d1b9c2340009a9eab84d91]{
+[offset:25705]{
 -- Page 557, Offset 25705. Mods: @n.
 -- 「……なんだよ。
-"¿Qué quieres...?
+"Qué demonios...
 }
 [sha:accbc47de7fa5cabec384b939d028bf7eb4855ad]{
 -- Page 557, Offset 25706. Glued.

@@ -23,17 +23,19 @@
 [sha:febc2b968a9c9f2005a3c344ee846612044bdb6c]{
 -- Page 67, Offset 5728.
 -- 「あっちの家にいた頃もさ、そんな風に叱られた事なんてなかったから驚いた。おかげで、これから朝飯を抜く事はできなさそうだ」
-Solo pensé que no haría daño saber a qué tipo de escuela mi hermana iba.
+"Me sorprendió;
+ Creo que nunca me habían así hechado la bronca――ni siquiera cuando estaba con los Arima.
+ Parece que no podré volver a saltarme el desayuno."
 }
 [sha:ba41c113aee33183820cd371035b597314fad63d]{
 -- Page 68, Offset 5729.
 -- 「そうですね。兄さんはただでさえ貧血気味なんですから、朝食を抜くなんてもってのほかです」
 "Supongo.
  Parece absurdo que te saltes el desayuno,
- especialmente considerando también que sufres de anemia."
+ especialmente considerando que sufres de anemia."
 }
 [sha:32888aceb48353295d00b752496a100da8d7ced0]{
 -- Page 68, Offset 5730.
 -- 俺の場合、食事と目眩はあまり関係ないのだが、ここは素直にうなずいておこう。
-En mi caso, mi dieta tiene poco efecto en mis mareos, pero seré obediente y asentiré con la cabeza.
+En mi caso, la dieta tiene poco efecto en mis mareos, pero seré obediente y asentiré con la cabeza.
 }

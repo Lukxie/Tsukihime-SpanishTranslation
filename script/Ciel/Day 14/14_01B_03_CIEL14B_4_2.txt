@@ -46,7 +46,7 @@
 [sha:d2811f2b615163177c3b261b1e2a360d641ee4af]{
 -- Page 342, Offset 41241.
 -- 「―――よし」
-"Bien."
+-- TRANSLATION HERE
 }
 [sha:230e95f08b76b47a1558edb892eb5ca0bf99a0d6]{
 -- Page 342, Offset 41242.
@@ -171,7 +171,7 @@
 [sha:150de3ce4c072425c860ca4b9681c5e488cbc73d]{
 -- Page 351, Offset 41266.
 -- 「あ――――――」
-"Ah―――"
+-- TRANSLATION HERE
 }
 [sha:6975e4727f7b6055d5b3c6cd11a028eccd284a9a]{
 -- Page 351, Offset 41267.

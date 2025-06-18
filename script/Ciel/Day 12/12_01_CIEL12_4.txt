@@ -6,7 +6,7 @@
 [sha:319da5a7257a884fdac2aada1e3dfb68a29c8cd1]{
 -- Page 12010, Offset 31425.
 -- 頭痛はやまない。
-Mi dolor de cabeza no da respiro.
+-- TRANSLATION HERE
 }
 [sha:732a300cbf44d8250a341044488231a40bc07c1d]{
 -- Page 12010, Offset 31426.
@@ -88,10 +88,10 @@ Mi dolor de cabeza no da respiro.
 -- 「―――翡翠、悪いけど」
 -- TRANSLATION HERE
 }
-[sha:d5b5d8d5ebd38195c37bc4d77f34049fe926228e]{
+[offset:31442]{
 -- Page 209, Offset 31442.
 -- 「はい、なんでしょう」
-"Si, ¿qué quiere?
+"Sí, ¿qué quiere?
 }
 [sha:825bbec3b8aa5c91c67563abcd8fe725d03503b7]{
 -- Page 209, Offset 31443.

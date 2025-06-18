@@ -526,7 +526,7 @@
 [sha:ead0a2909d02eb55c6d07df306c56d01a45b085d]{
 -- Page 140, Offset 22490.
 -- ……だめだ。
-Mierda.
+-- TRANSLATION HERE
 }
 [sha:67715565e2aa07d64f998ddca711785e81a0e56a]{
 -- Page 140, Offset 22491.
@@ -568,7 +568,7 @@ Mierda.
 -- 先輩はそう批難するものの、声には冗談がまじっている。
 -- TRANSLATION HERE
 }
-[sha:8875480dbcce5111eaca56e52d5b61a7eca464af]{
+[offset:22499]{
 -- Page 145, Offset 22499.
 -- ……良かった。
 Que alivio...
@@ -606,7 +606,7 @@ Que alivio...
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 148, Offset 22506.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:2949f533c50f5e04bb13a536d031e8181a29203f]{
 -- Page 148, Offset 22507.

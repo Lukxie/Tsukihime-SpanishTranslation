@@ -119,20 +119,20 @@ En esa oscuridad, donde siquiera la luz lunar alcanza,
 [sha:f4477d25eba51b82a170f77131b69010f89b24ce]{
 -- Page 780, Offset 26408.
 -- 走り疲れと、頭の痛みで吐き気がする。
-El cansancio de correr tanto junto al dolor de cabeza me da ganas de vomitar.
+El cansancio de correr tanto, junto al dolor de cabeza, me da ganas de vomitar.
 }
 [sha:f335af5452afa0cdf5dcb3436c29997b267de0f5]{
 -- Page 780, Offset 26409.
 -- 額に手をやると異常な熱を帯びていた。
 Cuando me pongo la mano en la frente,
- de inmediato me es claro que tengo mucha fiebre.
+ me es claro de inmediato que tengo mucha fiebre.
 }
 [sha:97dedccb83632692b1d042454fc4daad5ae90f7b]{
 -- Page 780, Offset 26410.
 -- 手のひらでも判る高温。ひどい風邪に罹って、四十度近い熱をだした時でもここまでは熱くなかった。
 No necesito un termómetro para saber que mi temperatura está por las nubes.
- No recuerdo nunca haber tenido una temperatura tan elevada;
- ni cuando pillé ese resfriado y tenía una fiebre de casi cuarenta grados.
+ No recuerdo haber tenido nunca una temperatura tan elevada;
+ ni siquiera cuando pillé ese resfriado y tenía una fiebre de casi cuarenta grados.
 }
 [sha:a1fd090917f1652321c2d719adef86f1147835d9]{
 -- Page 781, Offset 26411.
@@ -212,7 +212,7 @@ Que estén desapareciendo solo puede significar que...
 [sha:161fb0de58f1aad62d9e005e2ec1b7ea7fdd9652]{
 -- Page 785, Offset 26426.
 -- 疲れも頭痛も、愚かにも、先ほどの寒気も忘れて進む。
-Fatiga, dolor de cabeza, mi estupidez, incluso el frío de antes pasan a ser parte del pasado.
+Fatiga, dolor de cabeza, mi estupidez, incluso el frío de antes, pasan a ser parte del pasado.
 }
 [sha:8ecec6104a29864ecdac5e574fe99a502bf8fedd]{
 -- Page 785, Offset 26427.
@@ -263,7 +263,7 @@ debe ser un único cuerpo descuartizado en docenas de partes.
 [sha:4b3973150bfa121b911fbadd7ca0261f6e09f5b7]{
 -- Page 787, Offset 26436.
 -- 知らない。その意味は考えない。
-No se. No se lo que significa esto.
+ No lo sé. No voy a pensar en lo que esto significa.
 }
 [sha:10082be447b0fbf3ee44db1a08fd875c42ab1d53]{
 -- Page 787, Offset 26437.
@@ -278,7 +278,7 @@ es el sonido de mi columna rechinando a cada paso que doy.
 [sha:36655b729429f21673e7a6174126906a63a518b2]{
 -- Page 788, Offset 26439.
 -- 「は―――――あ」
-"%{i}Hah――hah%{/i}."
+"%{i}Ha――ah%{/i}."
 }
 [sha:c647e552f9408cf4baa1449cbb43b4f6036de64f]{
 -- Page 788, Offset 26440.
@@ -295,10 +295,10 @@ Mis instintos gritan, chirrían contra mi bulbo raquídeo como si fueran una sie
 -- この先は、おまえが夢見ているようなモノではない、と。
 %{i}Lo que halla más adelante no es lo que viste en sueños.%{/i}
 }
-[sha:e6ea1cfcd14c246590b9ba114331956e808be4e8]{
+[offset:26443]{
 -- Page 789, Offset 26443.
 -- 「うる―――さい」
-"Calla. Te."
+"Calla――te."
 }
 [sha:5ce47101b258c6fca159e45491f4923ceae437fc]{
 -- Page 789, Offset 26444.
@@ -324,7 +324,7 @@ No abandonaré a Arcueid.
 -- Page 790, Offset 26448.
 -- そんな予感がどうしても消えてくれず、俺は自分から、死が充満する死角に足を踏み入れ―――
 Incapaz de deshacerme de tal premonición,
-paso a paso me adentro hacia ese punto ciego colmado de muerte―――
+ paso a paso me adentro hacia ese punto ciego colmado de muerte―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 791, Offset 26449.
@@ -341,10 +341,10 @@ Dentro―――
 -- 死者の<肉|かげ>など、どこにも存在しなかった。
 Ni un Muerto sigue de una pieza.
 }
-[sha:a6e8f41c9d301efc02f996bd505e5ca4e7341247]{
+[offset:26452]{
 -- Page 792, Offset 26452.
 -- 意識が凍りつく。
-Mi conciencia se frena en seco.
+Mi consciencia se congela.
 }
 [sha:9d29bd5080d6ebbf8322d5b77b5592408cae4e16]{
 -- Page 792, Offset 26453.
@@ -359,7 +359,7 @@ El suelo inundado en un rojo que cubre cada superficie.
 [sha:06ef175477afabccf8c192c6354c04ef514401e1]{
 -- Page 792, Offset 26455.
 -- 顔がなく、腕も潰され、はらわたを引き裂かれ、必要以上に蹂躙された死者の痕跡。
-Solo quedando trozos de Muertos;
+Solo quedan trozos de Muertos;
  sin cara, brazos aplastados, tripas salidas,
  profanados sin razón e irreconocibles.
 }
@@ -372,7 +372,7 @@ El sofocante olor a sangre y el frío aire de muerte
 [sha:bab4ee3e578398e6b181fe1213c10b11bc43bfa0]{
 -- Page 793, Offset 26457.
 -- 壁も、床も、ともすれば頭上の月さえも。
-Las paredes, el suelo, y sin duda, la luna sobre mi―――
+Las paredes, el suelo, y sin duda, la luna sobre mí―――
 }
 [sha:244628c4bde47664ece8e5feb6f4b3dc1e96e9be]{
 -- Page 793, Offset 26458.
@@ -449,7 +449,6 @@ Como si la sierra ya hubiera cortado mi bulbo raquídeo.
 [sha:c4f80af69be008298a119931885bd6577ce91af9]{
 -- Page 799, Offset 26472.
 -- ――――ギ、ギッ。
-// Ayuda
 ―――%{i}Creak%{/i}. %{i}Creak%{/i}.
 }
 [sha:30855f08b471d7a04e0d67d8bf8b09b672818dc4]{
@@ -485,7 +484,7 @@ La figura blanca se da la vuelta.
 [sha:e0e48de74ff38a92ea5c2b7539b9fa34973ab761]{
 -- Page 800, Offset 26479.
 -- 単眼の鬼のように、ぎょろりと眼球がこちらを見る。
-Un singular ojo, una mirada endemoniada dirigida a mi.
+Un singular ojo, una mirada endemoniada dirigida a mí.
 }
 [sha:5f03f6f54c992be648dedbd699970fdcd390ad4b]{
 -- Page 800, Offset 26480.
@@ -561,7 +560,7 @@ SALVARTE.
 [sha:cf523d92ae49725d630c7512bd19ca85f994c7be]{
 -- Page 803, Offset 26494.
 -- そうだ。あの生き物は<数値|レベル>が違う。
-Esa criatura esta a otro nivel.
+Esa criatura está a otro nivel.
 }
 [sha:4a65c8dd48bc888856ec5789147c0c1aa66406f8]{
 -- Page 803, Offset 26495.
@@ -602,7 +601,6 @@ Mis células se regocijan ante la llegada de una iluminación a la par con la de
 [sha:d65744b41aed8d65a13a1e359c7c8d4029414adc]{
 -- Page 805, Offset 26502.
 -- なぜなら、アレはいてはいけないものだ。
-// Discrepo
 %{i}¿Por qué? Simple, esta cosa es algo que no debería existir.%{/i}
 }
 [sha:02ee22ff744583e9d3f50317dee4635a6c817acf]{
@@ -695,18 +693,18 @@ Sin embargo, hay algo intentando irrumpir en lo que queda de mi razón.
 [sha:70c9ee4183eb305aa7fb49f006bcc2f9e8bd3820]{
 -- Page 808, Offset 26520.
 -- 殺したいのは何のためだ？
-¿Por que quiero matarla?
+¿Por qué quiero matarla?
 }
 [sha:cb4aedb9eda46a3a01b654964f82bc8328c95868]{
 -- Page 808, Offset 26521.
 -- 死にたくないから、殺される前に殺すのか？
 ¿Es porque no quiero morir?
- ¿Por lo que voy a matarla antes de que me mate?
+ ¿Porque voy a matarla antes de que me mate?
 }
 [sha:59ea89af25bc005b15b9e5e643daa182015fbe21]{
 -- Page 808, Offset 26522.
 -- 笑い死ぬ。まったくもって阿呆の極み。
-Es tan graciosos que igual muero de la risa. Tremenda estupidez.
+Es tan gracioso que igual muero de la risa. Tremenda estupidez.
 }
 [sha:5c518258ff10df68289045ddb9bc75ab1bed1af6]{
 -- Page 808, Offset 26523.
@@ -731,7 +729,7 @@ Es tan graciosos que igual muero de la risa. Tremenda estupidez.
 [sha:dccd3053a596286c68fd102de451ffe006b8a3ef]{
 -- Page 809, Offset 26527.
 -- いや、黙るのはこの<理性|おまえ>の方だ。
-%{i}No, tu――tu raciocinio――es lo que tiene que callarse.%{/i}
+%{i}No, tú――tu raciocinio――es lo que tiene que callarse.%{/i}
 }
 [sha:c0c4e9b5e69c07d44cd5a5b40e3db2cea9c89926]{
 -- Page 809, Offset 26528.
@@ -787,12 +785,12 @@ Su ojo dorado resplandece en la oscuridad.
 [sha:c2ec642803ef04e60b2d882d92f90d6082995928]{
 -- Page 810, Offset 26538.
 -- それは、
-Esto es,
+Matarla,
 }
 [sha:8dd6b7d6cb687c5af9b8ef38b5720e4b79c121d1]{
 -- Page 810, Offset 26539. Glued. Mods: @x.
 -- 殺しても殺したりないほどの。
-algo que no bastará con matar.
+ no será suficiente.
 }
 [sha:304f6ef44546fd78522d7c89a020d0b344c1bd45]{
 -- Page 811, Offset 26540.
@@ -814,10 +812,10 @@ Pero ya es―――
 -- そんな事は、遅すぎた。
 Demasiado tarde.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:26544]{
 -- Page 812, Offset 26544.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Hn%{/i}!"
 }
 [sha:1f7d7baa979b4b779e19456d5fdf51c1ab34fc92]{
 -- Page 812, Offset 26545.
@@ -832,7 +830,7 @@ No me importa. Sujeto mi cuchillo en mano y empujo a la mujer al suelo.
 [sha:8bac8abcc0f9d00db82bab350b487a1d8a6a863c]{
 -- Page 812, Offset 26547.
 -- 女の体には力がない。押さえつけるのはたやすい。
-No ya no tiene fuerza. Inmovilizarla es simple.
+Ya no tiene fuerza. Inmovilizarla es simple.
 }
 [sha:147ea4a43876a9b2175cf09572262107d46f94ae]{
 -- Page 812, Offset 26548.
@@ -873,7 +871,7 @@ Escucho la voz de la mujer.
 [sha:2f6b89b07d7458a80cff1ac8ce56830e0e6702e5]{
 -- Page 816, Offset 26555.
 -- “だまれ……！”
-¡Cállate!'
+ '¡Cállate!'
 }
 [sha:330025fe745acbb5319801dcf885e487a801afa0]{
 -- Page 816, Offset 26556.
@@ -885,10 +883,10 @@ Mis dedos aprietan su cuello.
 -- 女は苦しげにアゴをあげる。
 La mujer aprieta la mandíbula, dolorida.
 }
-[sha:45c5f6b1228cb3b13552935208d2b100759048ef]{
+[offset:26558]{
 -- Page 816, Offset 26558.
 -- ……信じられない。
-No me lo puedo creer...
+No puedo creerlo...
 }
 [sha:cef2d7bba66f4c0b2e772bcaff304963c7c88a59]{
 -- Page 816, Offset 26559.
@@ -907,7 +905,7 @@ Aún siendo una forma de vida tan poderosa,
 A pesar de estar sufriendo por encontrar aire,
  la mujer jadea esas palabras.
 }
-[sha:621b6aae64858d609eaade7715f31f611cd3cc81]{
+[offset:26562]{
 -- Page 817, Offset 26562.
 -- どくん、と。
 %{i}Badum%{/i}.
@@ -920,9 +918,9 @@ El frenesí de mi sangre hace que me lata el corazón.
 [sha:6b4c2f5aca2a48346d0da9b0a0704c09b0a0521b]{
 -- Page 818, Offset 26564.
 -- “はあ―――はあ――――はあ――――！”
-'%{i}Ha――ha――ha%{/i}―――!'
+¡%{i}Ha――ha――ha%{/i}―――!'
 }
-[sha:9179982c03ed3215c71fcfec80b02744d5621f1c]{
+[offset:26565]{
 -- Page 818, Offset 26565.
 -- 呼吸が乱れる。
 Mi respiración se vuelve loca.
@@ -945,7 +943,7 @@ Tan abrasador, tan caliente que necesito soltarlo ahora mismo.
 [sha:f1f96658143dbab418553bc24fd10a679720ec15]{
 -- Page 819, Offset 26569.
 -- “はあ―――はあ――――はあ―――――”
-%{i}Ha――ha――ha%{/i}―――'
+ '%{i}Ha――ha――ha%{/i}―――'
 }
 [sha:ff007290f6f221984c33f33a8b75063d635d7a89]{
 -- Page 819, Offset 26570.
@@ -980,7 +978,7 @@ Su mirada solo hace que mi cerebro ebulla con más fuerza.
 [sha:9ba87dcf1fa4fadab312f5c0a29b492935e0e2de]{
 -- Page 821, Offset 26576.
 -- “はあ――――はあ――――はあ――――”
-%{i}Ha――ha――ha%{/i}―――'
+ '%{i}Ha――ha――ha%{/i}―――'
 }
 [sha:c578347031e83e0236e652a02c65dd7fc6a88e97]{
 -- Page 821, Offset 26577.
@@ -1010,12 +1008,12 @@ Su suave cuello.
 [sha:384eea94076a3716c6aeb84958dce8941b175bf8]{
 -- Page 822, Offset 26582.
 -- オレの下になった、これ以上はない、女の躯。
-Bajo mi, se encuentra el cuerpo de una mujer, nada más, nada menos.
+Bajo mí, se encuentra el cuerpo de una mujer, nada más, nada menos.
 }
 [sha:d69f459f6b652a2c81ec0ba446cb803d50331904]{
 -- Page 823, Offset 26583.
 -- “はあ―――はあ―――はあ―――”
-'%{i}Ha――ha――ha%{/i}―――'
+-- TRANSLATION HERE
 }
 [sha:d59275be0b7757e3570240220e399082bbcca443]{
 -- Page 823, Offset 26584.
@@ -1060,7 +1058,7 @@ Paso mis dedos por su blanco vientre y siento la calidez de su carne.
 [sha:4effe3bc6b02bddc870292d04d784a6f855b1a61]{
 -- Page 826, Offset 26592.
 -- 「違うよ―――こんなの、志貴じゃない………！」
-"No está bien――¡Shiki, tu no eres así!"
+"No está bien――¡Shiki, tú no eres así!"
 }
 [sha:860c13728d0119c992a23b821a944185d859a3b3]{
 -- Page 826, Offset 26593.
@@ -1136,7 +1134,7 @@ Se me escapa una sonrisa bajo la presión.
 [sha:9dc00a7b5b6f4a90ed78443886f027c9da5e2694]{
 -- Page 828, Offset 26607.
 -- 犯すより殺しあう拮抗こそ、ケダモノには相応しい。
-Debo ser mas bestia que hombre. Mi ansia de violarla es superado por mi deseo de vernos matándonos entre nosotros.
+Debo ser más bestia que hombre. Mi ansia de violarla es superado por mi deseo de vernos matándonos entre nosotros.
 }
 [sha:a9d890298256fcf24cfb7d6b13646519bca25a4f]{
 -- Page 829, Offset 26608.
@@ -1293,10 +1291,10 @@ La mujer deja escapar un grito.
 -- びくりと体が弓反りになって跳ねる。
 Se contrae, arqueando su cuerpo.
 }
-[sha:10ded20c50d604ad45e86df0809c87281cea763e]{
+[offset:26638]{
 -- Page 835, Offset 26638.
 -- かまわない。
-Pero no me importa.
+No le presto atención.
 }
 [sha:39173d6fd97e4d6ea08b30fc339f1c2a2a46ab4d]{
 -- Page 835, Offset 26639.
@@ -1308,7 +1306,7 @@ Hundo aún más los dientes,
 [sha:dbab49ba91f08497d46da083ceb069836c4e4fd6]{
 -- Page 836, Offset 26640.
 -- 「志……貴………、やめ………！」
-"¡Shi...ki... stop―――!"
+"¡Shi...ki... para―――!"
 }
 [sha:0d06c5c2e5bda88baf5d2d767cb6eef517340a32]{
 -- Page 836, Offset 26641.
@@ -1341,7 +1339,7 @@ La mujer contiene desesperadamente su voz,
 -- 憐れむような声。
 En su voz hay pena.
 }
-[sha:cbb7f6633093d4a5b7ea71ed6470658834fee723]{
+[offset:26647]{
 -- Page 837, Offset 26647.
 -- 意識が眩む。
 Mi mente se nubla.
@@ -1399,17 +1397,17 @@ Lágrimas brotando de sus ojos―――
 [sha:e32c1ba8125c65e7b518c42b4b55cc81e6805aca]{
 -- Page 839, Offset 26658.
 -- 「ちがうよ……しき……は、わたしのコト、すき、じゃ、ない……のに……！」
-"No está bien... Shiki... yo... ni siquiera... te... gusto!"
+"Esto no está bien... ¡Shiki... yo... ni siquiera... te... gusto!"
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
 -- Page 840, Offset 26659.
 -- 「―――――」
 "―――――"
 }
-[sha:24f46a0482ba923b601f8dae125d9c0799b01e10]{
+[offset:26660]{
 -- Page 840, Offset 26660.
 -- 頭痛が走る。
-Me duele la cabeza.
+-- TRANSLATION HERE
 }
 [sha:fc1821db7fe159c45ede511a63c2772ed76f68c2]{
 -- Page 840, Offset 26661.
@@ -1451,7 +1449,7 @@ No puedo creerlo. No puedo permitirlo.
 -- 俺だったら―――おまえを、決して、泣かせたりしないのに。
 Si fuera yo――nunca la habría hecho llorar.
 }
-[sha:24f46a0482ba923b601f8dae125d9c0799b01e10]{
+[offset:26669]{
 -- Page 842, Offset 26669.
 -- 頭痛が走る。
 Me duele la cabeza.

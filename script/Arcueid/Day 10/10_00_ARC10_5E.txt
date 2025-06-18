@@ -6,7 +6,7 @@ Tampoco tengo oportunidad de comprobarlo.
 [sha:f3c0071b9c0001bead33054bb53fb021e29c365f]{
 -- Page 10019, Offset 25936.
 -- 目の前で激しい炸裂音が響いて、突風に<煽|あお>られるように、アルクェイドの体は吹っ飛ばされた。
-Un ruidoso crack rasga el aire frente a mi,
+Un ruidoso crack rasga el aire frente a mí,
  mandando a Arcueid por los aires.
 }
 [sha:e676279c8f6e9f4e7ed2be8b025f1c54ecb48c4f]{
@@ -75,15 +75,15 @@ Mientras tanto...
 En cuanto acabe con ella vas tú.
  Lo siento, aguanta un segundo, vale ♡"
 }
-[sha:70a544ce909034266812004d9aca986952265be1]{
+[offset:25950]{
 -- Page 631, Offset 25950.
 -- 「!?」
-"¡¿%{i}Uwah%{/i}?!"
+"¡¿%{i}Hnh%{/i}?!"
 }
 [sha:37c979662d381f50050912144602ae5a8b2878a1]{
 -- Page 631, Offset 25951.
 -- 目の前に白い壁が立ち上がる。
-Una barrera blanca se erige frente a mi.
+Una barrera blanca se erige frente a mí.
 }
 [sha:3788732279f092d636a68475f18fd28941f55424]{
 -- Page 631, Offset 25952.
@@ -93,7 +93,7 @@ En un instante, tres espadas han perforado el suelo a mi alrededor.
 [sha:2035fbd0719080715e3ac223996798303a991cba]{
 -- Page 631, Offset 25953.
 -- 剣はそれぞれを支点にして三角形をかたちづくり、その中にいる俺を、光の壁で閉じこめている―――
-Juntas forman un triángulo, conmigo en el centro, atrapado en la barrera de luz.
+Juntas forman un triángulo conmigo en el centro, atrapado en la barrera de luz.
 }
 [sha:bee31338bc835f93d99af1c5261eb87c1644234b]{
 -- Page 632, Offset 25954.
@@ -182,7 +182,7 @@ Se retuercen con hostilidad,
 [sha:49318889ec83d5cd119a59969d98b3b5e2064851]{
 -- Page 636, Offset 25970.
 -- 怪物相手に体を張るのがテメエらの仕事だろうが”」
-Se supone que luchar contra monstruo es vuestro puto trabajo, ¿no?"
+Se supone que luchar contra monstruos es vuestro puto trabajo, ¿no?"
 }
 [sha:7c168ecf191decd5ee00a6da17fa1e080c37d878]{
 -- Page 636, Offset 25971. Mods: @k, @e.
@@ -254,17 +254,17 @@ Justo a mi lado, escucho un Japonés fluido y malsonante.
 [sha:8b61480e3406358384da81a8cb5f11f8de41cfb6]{
 -- Page 642, Offset 25984.
 -- 身動きがとれない状態で視線を向ける。
-Incapaz de moverme de donde estoy, me giro hacia el orígen.
+Incapaz de moverme de donde estoy, me giro hacia el origen.
 }
-[sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
+[offset:25985]{
 -- Page 642, Offset 25985.
 -- そこには、
-Allí―――
+Y ahí―――
 }
 [sha:0b08a1b711cc0d8feb11d9e735a22cb4dfd85f2e]{
 -- Page 642, Offset 25986.
 -- 以前、遠野邸の前で見た外国人の子供の姿があった。
-Está ese chico extranjero que vi frente a la mansión Tohno hace poco.
+Está ese chico extranjero que vi hace poco frente a la mansión Tohno.
 }
 [sha:a26eefd729676c614e37ff9e1432364a777c8370]{
 -- Page 643, Offset 25987.
@@ -274,7 +274,6 @@ Lleva puesto en sus manos algo parecido a un guantelete.
 [sha:a3d2048a8f7e84e133ea8d8f584705424333d0f6]{
 -- Page 643, Offset 25988.
 -- カタカタと音をたてながら、波打つように上下する五指。
-// Mix de tls
 Sus dedos se mueven violentamente de arriba a abajo,
  haciendo un click mecánico a cada movimiento.
 }
@@ -312,10 +311,10 @@ Pensaba que eran una de esas muñecas de madera articuladas con hilos;
 "%{i}Tsk%{/i}, esta inútil no aguanta ni dos minutos...
  Ya sabía yo, joder. Supongo que toca hablarlo.
 }
-[sha:0819415b8baa31d472380275168d825499a8ea42]{
+[offset:25995]{
 -- Page 646, Offset 25995. Glued. Mods: @k, @e.
 -- ―――
-――
+%{n}
 }
 [sha:4a84c0d437fd80a5ae1a30b0da010258ea4d225d]{
 -- Page 646, Offset 25996. Glued. Mods: @x.
@@ -331,7 +330,7 @@ Tras un feroz enfrentamiento, la monja se retira rápidamente.
 -- Page 647, Offset 25998.
 -- 修道服の女は逃げるように後退し、アルクェイドは肩で息をしながら光の壁―――俺のいる方へと向き直る。
 Arcueid, exhausta y jadeando,
- se gira a la barrera de luz――hacia mi.
+ se gira a la barrera de luz――hacia mí.
 }
 [sha:6d38d691e3ab533025faa83608c4dfb21ff28798]{
 -- Page 648, Offset 25999.
@@ -352,7 +351,7 @@ Respiración irregular, espalda arqueada, como si fuera un depredador listo para
 [sha:f7514b9e2d2658b91100f1d773e028b16015b3c3]{
 -- Page 649, Offset 26002.
 -- 「あーあ、ひでえもんだ。そこいらのグールと大差ねえじゃねえか。それでも最後の真祖かよ、姫様。ラウレンティスのジジイが見たらさぞ失望するだろうぜ」
-"Vaya jodido desastre. A este paso, no eres muy distinta a un Ghoul de mierda, Princesa.
+"Vaya jodido desastre. No eres muy distinta a un Ghoul de mierda, Princesa.
  ¿Y se supone que eres el último Verdadero Ancestro?
  Si el viejo Laurentis te viera estaría decepcionado."
 }
@@ -396,9 +395,8 @@ Y no empieces a darme la chapa sobre lo alto que es mi rango.
 [sha:119aa26eb0024aeeb352826d4d4990a56d293508]{
 -- Page 652, Offset 26010.
 -- 親の七光りだろうと役職は役職だ。オレのシマで勝手はさせねえ。―――特に、真祖が魔堕ちする不始末なんざ、クソを食うよりご免でね」
-// Mix de tls
 Nepotismo o no, aún tengo que hacer mi trabajo, supongo.
- No voy a dejar nadie campar a sus anchas en %{i}mi%{/i} isla――En especial si es un jodido Verdadero Ancestro sucumbe al mal.
+ No voy a dejar nadie campar a sus anchas en %{i}mi%{/i} isla――En especial si es un jodido Verdadero Ancestro que ha sucumbido al mal.
  Antes me como una mierda que lidiar con eso."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -458,9 +456,9 @@ Los Verdaderos Ancestros os creeis jodidamente especiales, pero no sois distinto
 -- Page 656, Offset 26020.
 -- ……まあいい。その眼。その凶眼をアンタはそこのガキに向けたんだよ。ゼイゼイとみっともなく、男に媚びる娼婦みてえにな。その時の感想を本人に聞いてやろうか？」
 Bueno, como sea.
- Esos eran ojos――que dirigiste a ese chico, eran ojos llenos de mal.
+ Esos ojos――los que dirigiste a ese chico, eran ojos llenos de mal.
  Junto a esos resoplidos indecentes... como si fueras una fulana ligando con un hombre.
-¿Que tal si le preguntamos sobre la experiencia, eh?"
+ ¿Qué tal si le preguntamos sobre la experiencia, eh?"
 }
 [sha:9196272e3bff1488c028a9048803f46a87795a49]{
 -- Page 657, Offset 26021.
@@ -485,7 +483,7 @@ A pesar de lo mal hablado que es, este chico... como decirlo――rebosa de just
 [sha:67bb4b5761b30b58439f6f44bcd38823cb914209]{
 -- Page 658, Offset 26025.
 -- ボク、あやうく一口で食べられるところでした、ちびりそうなぐらい怖かったですぅ、てな！」
-¡Casi me devoran entero!' '¡Tenía tanto miedo que casi me meo encima!' ¿Algo así?"
+ '¡Casi me devoran entero!' '¡Tenía tanto miedo que casi me meo encima!' ¿Algo así?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 658, Offset 26026.
@@ -521,7 +519,7 @@ Arcueid aparta la mirada como si estuviera dolorida.
 -- Page 661, Offset 26032.
 -- 「司祭代行の言う通りです。下がりなさい吸血鬼。あなたのような怪物が人間と共にいるなんて、許されるとでも思っていたのですか」
 "Ya has escuchado al Sacerdote en funciones. Atrás, vampiro.
- ¿Pensabas que dejaríamos a un monstruo como tu andar por ahí con humanos?"
+ ¿Pensabas que dejaríamos que un monstruo como tú ande por ahí con humanos?"
 }
 [sha:174132ce230a3545527099c3cbe9ccb39b3bcca2]{
 -- Page 662, Offset 26033.
@@ -531,7 +529,7 @@ Arcueid aparta la mirada como si estuviera dolorida.
 [sha:8752d83ebb651cc764c717abcf2150f6b0e11d7b]{
 -- Page 662, Offset 26034.
 -- 吸血鬼らしい下卑た考えだけど、そうはさせないわ。
-Una idea despreciable típica de un vampiro,
+Una idea despreciable típica de un vampiro, 
  pero no te vas a salir con la tuya.
 }
 [sha:be46b2c54207d5236d42fa488ecf4e3f2ad25768]{
@@ -565,7 +563,7 @@ Siempre ha respetado mis decisiones.
 [sha:aefe449981c9a0796a80e8725b9c922c2a88236f]{
 -- Page 664, Offset 26040.
 -- 力任せなんて、一度もなかったんだ。
-Nunca me he visto forzado a hacer nada, ni una vez.
+Nunca me he visto forzado a hacer nada, ni una sola vez.
 }
 [sha:32d4f26942777345f952d20ddf0c27d7065ccb34]{
 -- Page 664, Offset 26041.
@@ -576,7 +574,7 @@ Nunca me he visto forzado a hacer nada, ni una vez.
 [sha:1af38d69b736411ee78c09f12cad6c2762564ccd]{
 -- Page 665, Offset 26042.
 -- 「違う……！　なんだよアンタら、いきなり出てきて、全部わかってるようなコトを言って……！　アルクェイドは血を吸った事なんて一度もない！　さっきのはただの冗談だ……！」
-!Os equivocáis! ¡¿Quién os creéis que sois, saliendo de la nada y actuando como si supierais todo?!
+"!Os equivocáis! ¡¿Quién os creéis que sois, saliendo de la nada y actuando como si supierais todo?!
  ¡Arcueid nunca ha chupado sangre, nunca! ¡Lo de antes era solo una broma!"
 }
 [sha:43104bd79f51b589d87c1295ee301a99240b1dc8]{
@@ -626,7 +624,7 @@ La voz de Noel tiene cierto filo.
 [sha:4cc513ca9e186ccd1aa98e84699e9033dba74e5d]{
 -- Page 668, Offset 26051.
 -- アルクェイドに向けていたモノの一部が、そのまま俺にシフトする。
-Ahora dirige a mi una parte de la malicia que dirigía a Arcueid.
+Ahora dirige hacia mí una parte de la malicia que dirigía a Arcueid.
 }
 [sha:eef8241484f0f692b60bd7608e902d357e194dd0]{
 -- Page 668, Offset 26052.
@@ -636,7 +634,6 @@ Hoja en mano, empieza a avanzar lentamente―――
 [sha:eb27180b6dfa4eb9a3ae7976f60caa200e0f2c9c]{
 -- Page 669, Offset 26053.
 -- 「おい、ブタノエル」
-// Esto definitivamente se puede hacer mejor
 "Oye, Cerdanoel."
 }
 [sha:818284a19f17d326f5bf1c6308a5714ab1d6efd0]{
@@ -680,7 +677,7 @@ Creo que empiezo a entender en qué lugar de la jerarquía se encuentra Noel-sen
 -- 「うちの脳筋がチャチャいれてマジすまん。チキンのクセに沸点低いんだコイツ。後でヤキいれとくから大目に見てやってくれ。
 "Siento de veras las molestias causadas por esa idiota de remate.
  Para ser una gallina, pierde los estribos en menos que canta un gallo.
- La daré unos azotes más tarde, espero que podaís olvidar esto.
+ Más tarde la daré unos azotes, espero que podaís olvidar esto.
 }
 [sha:bb906a2bb2eb22b53fabfc4f2339289d049b2a3e]{
 -- Page 671, Offset 26062.
@@ -690,28 +687,28 @@ Pero... imbécil o no, plantea buenos argumentos.
 [sha:9acd46f038fb2f392e49f0d2d4fed2129ddef856]{
 -- Page 671, Offset 26063.
 -- 一度も血を吸っていない、とは泣かせるじゃねえかトオノ。なあ、そうだろアルクェイド・ブリュンスタッド？」
-Nunca ha chupado sangre'... que buena historia, ¿no Tohno?
-¿Verdad que sí, Arcueid Brunestud?"
+ 'Nunca ha chupado sangre'... que buena historia, ¿no Tohno?
+ ¿Verdad que sí, Arcueid Brunestud?"
 }
 [sha:1a49c5aa2a8c2ab026e970b93e0eff80ea1d04a8]{
 -- Page 672, Offset 26064.
 -- 「アルクェイド……？」
 "¿Arcueid...?"
 }
-[sha:7ef6dc156f74976249afea1d52ca7a5bb0c79955]{
+[offset:26065]{
 -- Page 672, Offset 26065.
 -- アルクェイドは答えない。
-Arcueid no responde.
+No responde.
 }
 [sha:05d15d39f5d130316d0e9d8fdcac037c52a83de2]{
 -- Page 672, Offset 26066.
 -- ただ俯いて、悔しげに唇を噛んでいる。
 Simplemente baja la mirada y se muerde el labio frustrada.
 }
-[sha:d839c3c39cb37783437230675ff504dc37ec2253]{
+[offset:26067]{
 -- Page 672, Offset 26067.
 -- ……それは。
-Sería si―――
+Es...
 }
 [sha:c1237ae94a0c535a16c8292c1b2810606eb16694]{
 -- Page 672, Offset 26068.
@@ -743,7 +740,7 @@ Arcueid levanta la cabeza.
 [sha:28f6b7105afe8c41c46a6ab28d93f36ecc3ed175]{
 -- Page 674, Offset 26073.
 -- ごめんなさい、と。
-%{i}Lo siento%{/i}
+%{i}Lo siento%{/i}.
 }
 [sha:b67eb0f8e190e9810a4c2097a10ef922d607fa5f]{
 -- Page 674, Offset 26074.

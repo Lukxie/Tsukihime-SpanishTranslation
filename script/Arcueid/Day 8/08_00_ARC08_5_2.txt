@@ -6,7 +6,6 @@ Me sienta mal hacerle esto a Hisui, pero no la puedo decir la verdad.
 [sha:79786b23fc0fa57cf897df5652f01d121df25052]{
 -- Page 10019, Offset 20376.
 -- アルクェイドとの事は秘密にしておくべきだし、
-// Tl oficial
 Lo que hacemos Arcueid y yo tiene que quedar en secreto.
 }
 [sha:fef46dcb67dec69fbdbe0e9a9ebfdbdbda257dc6]{
@@ -69,6 +68,5 @@ Son casi las diez.
 [sha:ce8628c3fb4edead62123569e340dce2a55767a0]{
 -- Page 286, Offset 20388.
 -- 今日こそは見付からないように、細心の注意をもって外に出よう。
-// Tl oficial
 Debería escabullirme con cuidado y asegurarme de que no me pillen.
 }

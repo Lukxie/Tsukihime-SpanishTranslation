@@ -22,7 +22,7 @@ Bueno, ya he cumplido con mis obligaciones estudiantiles.
 [sha:e45f1a35e901ff6f6b02e9f250782032b8f6e074]{
 -- Page 32, Offset 29569.
 -- ここから夜までは自分の時間だ。
-Tengo el resto del día para mi.
+Tengo el resto del día para mí.
 }
 [sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
 -- Page 32, Offset 29570.
@@ -37,7 +37,7 @@ Yo―――
 [sha:45696566add44442e05d3dd036e80d8032fe2e9d]{
 -- Page 34, Offset 29572.
 -- ……俺は、何をすれば、いいのだろう。
-No se que hacer.
+No sé que hacer.
 }
 [sha:d83325cb197a57994a7e783edb5ba7b2bff930a1]{
 -- Page 34, Offset 29573. Mods: @n.
@@ -62,7 +62,7 @@ Por derrotar al vampiro――se ha desvanecido.
 [sha:38a2550bc8d5f97f17231bc457d858a5aede17dc]{
 -- Page 34, Offset 29577.
 -- 所詮、俺の行動原理はその程度だった。
-Si al final esto es todo para lo que han valido mis principios―――
+Si esto es todo para lo que han valido mis principios―――
 }
 [sha:7ed42a7afdee61886b941e7156b3126a9662a490]{
 -- Page 34, Offset 29578.
@@ -102,7 +102,7 @@ Esa Ejecutor dijo que no hay tal cosa como un vampiro bueno.
 [sha:15ba75cde3cbc583619271a8a94d27637b5b73fe]{
 -- Page 35, Offset 29585.
 -- あの姿を見て、まだ俺は信じるというのか。
-¿Puedo seguir creyéndolo? ¿incluso tras ver a Arcueid así?
+¿Puedo seguir creyendo que sí? ¿Incluso tras ver a Arcueid en ese estado?
 }
 [sha:e0aa0c176c78c03843d8a36ee3aa4cd557b3162f]{
 -- Page 36, Offset 29586.
@@ -112,7 +112,7 @@ Sería bastante humano si te fueras a casa mientras puedas. Sabio, incluso...
 [sha:5da0fad18134266ad0a68ba9be65eff0786d202a]{
 -- Page 36, Offset 29587.
 -- 何もかも無かったコトにできるのは、これが最後のチャンスかもな？”
-Esta puede ser tu última oportunidad de hacer como si nada de esto hubiera pasado.'
+ 'Esta puede ser tu última oportunidad de hacer como si nada de esto hubiera pasado.'
 }
 [sha:c1d2e1edfce9b6e6884fbba38ffe2a70da7f380f]{
 -- Page 37, Offset 29588.
@@ -130,7 +130,7 @@ Sí... Es una buena oportunidad, Tohno Shiki.
 Una oportunidad para lavarte las manos de todo este asunto violento,
  y seguir adelante con tu vida.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:29591]{
 -- Page 37, Offset 29591. Mods: @k, @e.
 -- 俺は―――
 Yo―――

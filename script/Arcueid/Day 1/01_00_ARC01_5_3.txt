@@ -46,18 +46,17 @@ Aunque sea el hijo mayor, no tiene permitido usar esas salas sin su permiso."
 [sha:540e8ea5217921bfd88e1cdc9732573ff1f69584]{
 -- Page 287, Offset 1886.
 -- ぴしゃりと断られて、立つ瀬がなく視線を泳がす。
-// Revisar
-Se niega rotundamente. Habiendo quedado mal, aparto la mirada.
+Se niega rotundamente. Tras haber quedado mal, aparto la mirada.
 }
 [sha:549803d744af7c33a2db43427c272cb9131a2322]{
 -- Page 288, Offset 1887.
 -- 「やっぱり、そう自由には使わせてもらえないですよね」
-"No puedo usar la casa libremente después de todo, ¿no?"
+"Despues de todo no puedo usar la casa libremente, ¿no?"
 }
 [sha:d1263e3716b6d6e4cd52d84bb7068e77ea7bfbe1]{
 -- Page 288, Offset 1888.
 -- 「いいえ。ご挨拶がお済みになれば、すぐにお許しいただけますよ、きっと。
-"No, estoy seguro que se te permitirá tan pronto como la saludes.
+"No, estoy segura que se te permitirá tan pronto como la saludes.
 }
 [sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
 -- Page 288, Offset 1889.
@@ -72,7 +71,7 @@ Ah, pero―――"
 [sha:667349edb969094f34e3c47813ae0fdf491dfded]{
 -- Page 289, Offset 1891.
 -- 遠野邸は外だけでなく、内のセキュリティも厳しいので。許可されていない部屋に入ってしまった場合、身の安全は保証できません」
-La mansión Tohno no solo tiene medidas de seguridad en las afueras, sino que también las tiene por dentro.
+La mansión Tohno no solo tiene medidas de seguridad en el exterior, sino que también las tiene en su interior.
  Si entrase en dichas habitaciones sin aprobación, no podría garantizar su seguridad."
 }
 [sha:b45399fb035f0c899cacd2d5b6afc1bae799e1c7]{

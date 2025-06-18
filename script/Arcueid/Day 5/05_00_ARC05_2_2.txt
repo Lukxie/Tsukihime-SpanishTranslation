@@ -36,7 +36,7 @@ No, esto no va con Arcueid, va sobre mi.
 [sha:0f60d306c7e49caea67651bff91ff35f803dde4e]{
 -- Page 205, Offset 9097.
 -- ここにいたら―――アルクェイドに関わっていたら、間違いなくアイツと出会う。
-Si me quedo――si me involucro con ella―――estoy destinado a encontrarme con el.
+Si me quedo――si me involucro con ella―――estoy destinado a encontrarme con él.
 }
 [sha:d06500279599ffd5d4d6bc53ace3fd9917a0b951]{
 -- Page 206, Offset 9098.
@@ -86,7 +86,7 @@ Me negaré.
 [sha:ff3024fbe4fa6f0b62e26af8104d21e7a2ac2834]{
 -- Page 208, Offset 9107.
 -- どう考えたって、俺にどうにかできる相手じゃない。
-No se me ocurre ninguna forma con la que pueda lidiar con un oponente como el.
+No se me ocurre ninguna forma con la que pueda lidiar con un oponente como él.
 }
 [sha:e9672450c963e7e36f71dd9fd98f43811a0b2173]{
 -- Page 209, Offset 9108.
@@ -107,8 +107,8 @@ Pero... ¿es esta %{i}realmente%{/i} la decisión correcta?
 -- Page 209, Offset 9111.
 -- 自分のせいで。遠野志貴のせいで、満足に動けないこの女を見捨てるのか。
 Es mi culpa.
- Soy la razón por la que ella ni siquiera se puede mover correctamente.
- ¿De verdad la voy dar la espalda?
+ Soy la razón por la que ni siquiera puede moverse correctamente.
+ ¿De verdad voy a darle la espalda?
 }
 [sha:e0acbb3a88b742985b7f9ce991a6208960302948]{
 -- Page 210, Offset 9112.
@@ -143,7 +143,7 @@ Estas líneas de muerte son algo que solo yo puedo ver.
 [sha:e5232a3a77cfe256c4b3120435702133d4a85365]{
 -- Page 211, Offset 9118.
 -- この両眼は、本当に必要になる時があるから備わったと、大切な人に教えられた。
-Alguien que aprecio me dijo que se me concedieron estos ojos para tiempos de gran necesidad.
+Alguien que aprecio me dijo que estos ojos se me concedieron para tiempos de gran necesidad.
 }
 [sha:4f93fb1abc2872233cfb4179d602a75ef78ea0ba]{
 -- Page 212, Offset 9119.
@@ -158,7 +158,7 @@ No puedo deshacerme de mis miedos y dudas, y tampoco sé hasta qué punto podré
 [sha:5ea73e91e24c073cdd985d75c5e80f980c138e6d]{
 -- Page 212, Offset 9121.
 -- それでも―――<何|・><を|・><し|・><た|・><く|・><な|・><い|・><か|・>だけは、こんな俺にだって言える筈だ。
-Pero aún así――incluso una persona como yo puede decir lo que %{i}no%{/i} quiere hacer.
+Pero aún así――incluso alguien como yo puede decir, al menos, que es lo que %{i}no%{/i} quiere hacer.
 }
 [sha:47de32074d3b8c4d51d32fb8a962502ff9e57d95]{
 -- Page 213, Offset 9122.
@@ -173,14 +173,14 @@ Pero aún así――incluso una persona como yo puede decir lo que %{i}no%{/i} q
 [sha:17b851d0690052eb46aaf68ed7d47c5d7e404ebd]{
 -- Page 213, Offset 9124.
 -- どんなに相手が違う生き物だとしても、どんなに俺が無力だとしても、責任は同じなんだ。俺はやっぱり、多くの人を見殺しにしたし、多くの人を見殺しにするのはイヤなんだ。
-No importa lo monstruoso que sea, o lo impotente que sea yo――mi responsabilidad no cambia.
+No importa lo monstruoso que sea, o lo impotente que yo sea――mi responsabilidad no cambia.
  Al fin y al cabo, dejé morir a todas esas personas.
  No quiero que nadie más comparta ese destino.
 }
 [sha:2f85658703034afae8526a25634e850bf67a10fe]{
 -- Page 213, Offset 9125.
 -- ……だからいまさら、自分だけ逃げるなんて、できない」
-Así que... no puedo huir por mi cuenta. No trás todo esto."
+Así que... no puedo huir por mi cuenta. No tras todo esto."
 }
 [sha:0f5e2a85185e13d39f5fc9b19dcd645e1c1f265f]{
 -- Page 214, Offset 9126.
@@ -190,7 +190,7 @@ Miro al techo y respiro hondo.
 [sha:a2d498623c936f7cfdaa9c96731778e2789816ca]{
 -- Page 214, Offset 9127.
 -- 幸い、覚悟はそれで固まってくれた。
-Mi determinación se fortalece como resultado.
+Mi determinación se fortalece en consecuencia.
 }
 [sha:1233c972e12c356c39f7a6a0f44f93d3defd65a5]{
 -- Page 215, Offset 9128. Mods: @n.
@@ -200,15 +200,15 @@ Mi determinación se fortalece como resultado.
 [sha:e9f08a3949642f8396d24b0558a474fa1abf7cbf]{
 -- Page 215, Offset 9129. Glued.
 -- それがあのホテルにいて自分だけ生き残った、俺が取るべき責任なんだと思う」
-Creo que esta es mi responsabilidad como único superviviente de la masacre en el hotel."
+ Creo que esta es mi responsabilidad como único superviviente de la masacre en el hotel."
 }
 [sha:68f73bdd3ae19d1b02c5d21fe8cc1e65d4f38d4f]{
 -- Page 216, Offset 9130.
 -- 自分に言い聞かせるように返答する。
-Aunque la esté respondiendo a ella, es como si intentase convencerme a mí mismo de lo que acabo de decir.
+Aunque le esté respondiendo a ella, es como si intentase convencerme a mí mismo de lo que acabo de decir.
 }
 [sha:e0d38b1fbb00afca69ee5807084f8efa5b27dc79]{
 -- Page 216, Offset 9131.
 -- アルクェイドは一度だけ、まるで自分を責めるように、重苦しく嘆息した。
-Arcueid suelta un único, profundo suspiro, en aparente auto recriminación.
+Arcueid suelta un profundo y singular suspiro, en aparente auto-recriminación.
 }

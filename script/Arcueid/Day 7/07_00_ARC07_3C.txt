@@ -2,31 +2,31 @@
 -- Page 10010, Offset 17078.
 -- 「いったいなあ。いきなり外に連れ出すなんて、志貴って常識ないんじゃない？」
 "Au, eso duele.
- ¿Por qué me arrastras a fuera de la nada?"
+ ¿Por qué me arrastras fuera de la nada?"
  ¿Te has vuelto loco?"
 }
 [sha:00d0a7e9b7cee21d0e6f06f472f7d26e3929d059]{
 -- Page 10010, Offset 17079.
 -- この世でいちばんどの<顔|ツラ>な台詞だった。
-// Tl oficial
+//Tl oficial
 No he escuchado una pregunta más estúpida en mi vida.
 }
 [sha:cb56d96da03bc53c9a035cb98acb38c3cc4d7743]{
 -- Page 208, Offset 17080.
 -- 「おまえこそ何のつもりだよ!?　真正面からうちの屋敷に来るなんて正気じゃないぞ、もしかして俺の生活をぶっ壊すつもりなのか、このばか女っ！」
-"¡¿%{i}Te%{/i} has vuelto loco?! ¡¿Qué intentas hacer?!
+"¡¿%{i}Te%{/i} has vuelto loca?! ¡¿Qué intentas hacer?!
  ¡Escabullirse en la mansión no es exactamente algo muy cuerdo!
- ¡No me digas que intentas arruinarme la vida a propósito, imbécil!"
+ ¡No me digas que intentas arruinarme la vida a propósito, idiota!"
 }
 [sha:2efd1870f2647e2da2bea2ab56d761d35b360170]{
 -- Page 209, Offset 17081.
 -- 「ばっ……ばか女って、あなたわたしを莫迦にしてるの!?」
-"¿I-Imbécil? ¡¿Por quién me tomas?!"
+"¿I-Idiota? ¡¿Por quién me tomas?!"
 }
 [sha:86acf9ba0973124af24ab47d322d50a2d40c82d4]{
 -- Page 209, Offset 17082.
 -- 「ばかをばかって言ってんだから、それ以外なにがあるっていうんだばか！　反論があるなら聞いてやるから言ってみろ！」
-// Creo que así queda bien aunque se repita mucho
+//Creo que así queda bien aunque se repita mucho
 "¡Solo estoy llamando idiota a una idiota, eso es todo, idiota!
  ¡Si tienes alguna objección habla, soy todo oídos!"
 }
@@ -134,7 +134,7 @@ Me mira como un gato enfurruñado.
 [sha:68ee8471ebfc16bc4017c9bcb41444323f7539eb]{
 -- Page 217, Offset 17102.
 -- 「―――なによ、勝手なことばっかり言って。
-// Tl oficial
+//Tl oficial
 "¿Por qué decides tu todo? No es justo.
 }
 [sha:2c9ad6f8e9302576913911df06dba4a91d4beb9a]{
@@ -157,8 +157,8 @@ La respondo claramente.
 [sha:94859afa23d8c2583811770f39ab193a0825913a]{
 -- Page 218, Offset 17106.
 -- 無駄のない返答だったからか、アルクェイドもそっか、とあっさり納得したようだ。
-Quizá sea porque mi respuesta no deje mucho margen para discutir,
- pero Arcueid parece ha aceptado mi respuesta sin rechistar.
+Quizá sea porque mi respuesta no deja mucho margen para discutir,
+ pero Arcueid parece la ha aceptado sin rechistar.
 }
 [sha:df998d43850342ccf7d389b753397e117f0d1136]{
 -- Page 219, Offset 17107.
@@ -210,7 +210,7 @@ En realidad, tenía algo que preguntarte,
 "Ya veo. Osea que tenías curiosidad.
  La próxima vez, escóndete detrás de un árbol cuando vayas a espiarme.
  Y esfuerzate para que nadie te vea.
- Y si yo no te veo, mejor."
+ Y si incluso yo no te veo, mejor."
 }
 [sha:db4d8526f42d484940a2c4035c7a8328b7d43c9f]{
 -- Page 223, Offset 17116.
@@ -220,7 +220,7 @@ De repente me siento cansado.
 [sha:108193da54d47c178a515923a007285eaf092a08]{
 -- Page 223, Offset 17117.
 -- でもまあ、こいつの気まぐれに振り回されるのもこれが初めてじゃない。
-Aunque no es la primera vez que me veo involucrado en sus caprichos.
+Aunque no es la primera vez que me veo involucrado en uno de sus caprichos.
 }
 [sha:4c92814cb6e8df5a28ffedbd906eb60cd4b700cb]{
 -- Page 223, Offset 17118.

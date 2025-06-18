@@ -21,7 +21,7 @@
 [sha:88f563dc2141a176347ba046e3c8137c7ff736ae]{
 -- Page 288, Offset 11625.
 -- 間に合わない。
-No puedo reaccionar a tiempo.
+-- TRANSLATION HERE
 }
 [sha:dfda62bcac41c6be468035844ac2208fed9f0ce3]{
 -- Page 288, Offset 11626.

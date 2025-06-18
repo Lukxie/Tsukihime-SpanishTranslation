@@ -6,7 +6,7 @@
 [sha:855e36f6d6a4a835fb5f1d9cd3d5d70e3426ec86]{
 -- Page 10017, Offset 6726.
 -- そう。もう約束したんだ。
-Cierto. Ya he hice una promesa.
+Cierto. Ya lo he prometido.
 }
 [sha:6f4de472a49e4606a32f87c843ec1560f809b7a7]{
 -- Page 10017, Offset 6727.
@@ -36,13 +36,13 @@ El ambiente se ha calmado completamente.
 [sha:f8ece545d19291b55cd0c929878c0377404a37d9]{
 -- Page 423, Offset 6732.
 -- この部屋はおろか、このフロアにいる人間は俺とこいつの二人だけだ。……自称吸血鬼を人にカウントするのは失礼ではないのか、という疑問は保留する。
-Ella y yo no somos los únicos en la habitación, sino en la planta entera...
- Dejo a un lado la pregunta de si es de mala educación o no contar como persona a una vampiro autoproclamada.
+Ella y yo no solo somos los únicos en la habitación, sino en la planta entera...
+ Dejando a un lado si es de mala educación o no contar como persona a una vampiro autoproclamada.
 }
 [sha:84a2f38ef50f65d88e01c3fa20a71b82b26680f7]{
 -- Page 424, Offset 6733.
 -- 「……なんだそりゃ。失礼ってどっちに対して言ってんだ、阿呆」
-"Qué estoy diciendo... idiota, ella es la maleducada."
+"Qué estoy diciendo... es ella la maleducada, idiota."
 }
 [sha:c2eaf3c8dbbcbb5e55885552cb8fe13deb84ca08]{
 -- Page 424, Offset 6734.
@@ -52,7 +52,7 @@ Me estoy complicando la vida.
 [sha:41dd86ee4dc63d83f781d046eb3d0836837f154d]{
 -- Page 424, Offset 6735.
 -- 朝の追いかけっこからここまで、心も体も疲れ切ってマトモに働こうとしていないようだ。
-Después de todo lo que ha pasado entre el pilla pilla de esta mañana y ahora,
+Después de todo lo que ha pasado entre el pilla-pilla de esta mañana y ahora,
  mi cuerpo y mente están tan cansados que ni siquiera funcionan correctamente.
 }
 [sha:9655a08893b76d3380588429b67c58cd37ceca69]{
@@ -89,7 +89,7 @@ Mi humor ha mejorado gracias al agua fría.
 -- Page 426, Offset 6742.
 -- 朝からありえない出来事ばかりで<常識|あたま>が麻痺しているが、ここは冷静に、よくものを考えてこれからの身の振り方を―――
 Mi cabeza sigue dando vueltas a las cosas inimaginables que han pasado desde esta mañana,
- pero me voy a relajar, pensar las cosas, y decidir lo que voy a hacer de aquí en adelante―――
+ pero me voy a relajar, pensar detenidamente, y decidir lo que voy a hacer de aquí en adelante―――
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
 -- Page 427, Offset 6743.
@@ -104,22 +104,22 @@ Mi cabeza sigue dando vueltas a las cosas inimaginables que han pasado desde est
 [sha:e514d2232ebadc9a8ec0d8a3c0591dff3e582567]{
 -- Page 427, Offset 6745.
 -- 本日二度目のつぶやきだった。
-Es la segunda vez que digo eso hoy.
+Hoy es la segunda vez que digo eso.
 }
 [sha:5b0f7ba1c714417989bda9e0860a966d9f40e7a0]{
 -- Page 427, Offset 6746.
 -- さっきのはアルクェイドに向けたものだったが、今度のは自分に向けられた評価である。
-La primera vez fue a Arcueid, pero esta vez a mi mismo.
+La primera fue dirigida a Arcueid, pero esta vez a mi mismo.
 }
 [sha:d73fd5025e28e42bd889e141f36e28a021633c02]{
 -- Page 427, Offset 6747.
 -- <寝|ね><入|い>った女の呼吸音が耳について、集中できない。
-No me puedo concentrar porque puedo escuchar la respiración de la mujer durmiendo.
+Escuchar el respirar de la mujer mientras duerme no me deja concentrarme.
 }
 [sha:c740f6053738994a0e21f4d8d31f19bcdd7d70d2]{
 -- Page 427, Offset 6748.
 -- 節操がないにもほどがある。この期に及んで、あの女に何を興奮しているんだ俺は……!?
-¿Cuan depravado puedo ser? De todas las cosas, ¡¿por qué me estoy emocionando ahora por ella?!
+¿Cuán depravado puedo ser? De todas las cosas, ¡¿ahora por qué me estoy emocionando por ella?! 
 }
 [sha:304139b45dc0de1fd58ffb085dc1ae94af3f884a]{
 -- Page 428, Offset 6749.
@@ -129,17 +129,17 @@ Tengo que salir un rato de aquí.
 [sha:cfc65cd781f834031c3ac1dbc314756bef019755]{
 -- Page 428, Offset 6750.
 -- きっと路地裏での恐怖が抜けていないせいだ。
-Esto seguramente es porque no he superado el miedo que sentí en el callejón.
+Seguramente esto sea porque no he superado el miedo que sentí en el callejón.
 }
 [sha:95f9a72c157e0bf674f8a97cec1373615f39a735]{
 -- Page 428, Offset 6751.
 -- 廊下で深呼吸でもしていれば、この妙な熱も冷めてくれる。
-Estoy seguro de que si voy al callejón a relajarme, podré deshacerme de esta fiebre extraña.
+Estoy seguro de que si voy al pasillo a relajarme, podré deshacerme de esta extraña fiebre.
 }
 [sha:6e0c93df1d9b9a446f2f26a911957ada5b72a977]{
 -- Page 429, Offset 6752.
 -- 「……本当に貸し切ってる……」
-"Lo hemos reservado todo de verdad..."
+"De verdad lo hemos reservado todo..."
 }
 [sha:39e105848a45a9bcbe3857b98c835d12f38f8fea]{
 -- Page 429, Offset 6753.
@@ -186,7 +186,7 @@ Ya puedo escuchar a Akiha dandome la lata sobre esto...
 [sha:53be16b43728bd393b80384bb15f339677a7a435]{
 -- Page 434, Offset 6761. Mods: @n.
 -- 『本日　体調不良につき　さぼり。
-Me encuentro mal. No voy.
+ 'Hoy me encuentro mal. No voy.
 }
 [sha:83bee96cd74b2ab182409309d34835e9f5d6bb33]{
 -- Page 434, Offset 6762.
@@ -196,7 +196,7 @@ Ayúdame si puedes.'
 [sha:2f724583e6aa96d106c6bf1ebef548e327e6ed32]{
 -- Page 435, Offset 6763.
 -- 悪友に大雑把な事情説明と要望を投げておく。
-// Sorry xd
+//Sorry xd
 Me saco de la manga una breve explicación y le hago una petición a mi colega.
 }
 [sha:ddd70b165bc33add018af628a7c64b3f600e2dd2]{
@@ -212,12 +212,12 @@ Me gustaría contarle más sobre mi situación, pero...
 [sha:20c8146e32d6fef8e5105a4af64e055cd68e9b67]{
 -- Page 436, Offset 6766.
 -- 「いやいや。それこそ救急車案件でしょ」
-"No, olvídalo. Solo me llamaría una ambulancia."
+"No, olvídalo. Solo me llamaría a una ambulancia."
 }
 [sha:05f6c1dae19ed6ad9f8f455bf228ab0f18f477ed]{
 -- Page 436, Offset 6767.
 -- ついに狂ったか、なんて言われても反論できないし。
-Si me preguntas si me vuelto loco finalmente, no sería completamente incapaz de negarlo.
+Si fuera a preguntarme si finalmente me vuelto loco, no sería completamente incapaz de negarlo.
 }
 [sha:9efc1ecbd072f29398687798399e520e720a0e4c]{
 -- Page 436, Offset 6768.
@@ -237,13 +237,13 @@ Pensar en su cara conocida me ha calmado.
 [sha:3cf9d818993469680f795bc499f2d33e187b0a95]{
 -- Page 437, Offset 6771.
 -- 観念して、自称・吸血鬼の眠る部屋に戻るとしよう。
-Rindiéndome a mi destino, vuelvo a la habitación donde la vampiro autoproclamada duerme.
+Rindiéndome a mi destino, vuelvo a la habitación donde duerme la vampiro autoproclamada.
 }
 [sha:a50b58c95d852205fbe47058d7cc1a558b281845]{
 -- Page 438, Offset 6772.
 -- 「……失礼しまーす……」
-// Inspirenme
-"Buenas, se puede..."
+//Inspirenme
+"Con permiso..."
 }
 [sha:0ae073b77d6d7c392785042fb361dd6e244c325e]{
 -- Page 438, Offset 6773.
@@ -254,23 +254,23 @@ Sé que no me van a responder, pero es un hábito.
 -- Page 438, Offset 6774.
 -- ベッドには先ほどと何一つ変わらない姿で、白い女が眠っていた。
 La mujer de blanco sigue durmiendo en la cama,
- su apariencia sigue completamente igual a antes.
+ su apariencia permanece completamente igual a la de antes.
 }
 [sha:ad03c7522bbd4cad2ebfcfb763c87e365cf05ee0]{
 -- Page 438, Offset 6775.
 -- 危機感なんてまるでない。事情を知らなければ、どこかの国のお姫様にしか見えない寝顔だ。
-No da la impresión de que se alguien en peligro.
- Si no tuviera contexto, diría que es una princesa de un país extrangero.
+No da la impresión de que sea alguien en peligro.
+ Si no tuviera contexto, diría que es una princesa de un país extranjero.
 }
 [sha:9c35aa2d2d624f3b244ccbeb6b424eb0b880a9d2]{
 -- Page 439, Offset 6776.
 -- 座れば戻ってこられなくなりそうで敬遠していたソファーに腰を下ろす。
-Me siento en el sofá, el cual he estado evitando por miedo a no ser capaz de levantarme de él de nuevo.
+Me siento en el sofá, el cual he estado evitando por miedo a no ser capaz de volver a levantarme de él.
 }
 [sha:ab33c4af3fc68cd6f19bc5ebece272df2b1be129]{
 -- Page 439, Offset 6777.
 -- ベッドとドア、どちらも同時に見渡せるのはソファーしかなかったからだ。
-Sin embargo, el sofa es el único sitio en el que puedo vigilar la cama y la puerta al mismo tiempo.
+Sin embargo, el sofá es el único sitio en el que puedo vigilar la cama y la puerta al mismo tiempo.
 }
 [sha:95692ea150c4920b29b274192a4e78291ebc98c7]{
 -- Page 440, Offset 6778.
@@ -302,7 +302,7 @@ Su piel suave y blanca, cada uno de sus dedos es una obra de arte, y las suaves 
 -- なに一つ非のない全体像と、他に類を見ない細部のカタチ。ここまで完璧な造形というものを、俺は今まで見たことがない。
 El marco general es impecable, la forma de cada detalle no tiene igual. Nunca había visto una figura tan perfectamente tallada.
 }
-[sha:7d336c68eb9d86aae86d2d4b2ea61ac1ebc97ce5]{
+[offset:6784]{
 -- Page 442, Offset 6784.
 -- いや、正しくは。
 No, para ser preciso―――
@@ -312,7 +312,7 @@ No, para ser preciso―――
 -- たぶん一生、見る事はないと思っていた。
 En mi vida pensé que vería algo así.
 }
-[sha:6b0c313d7f3ac0d7fa52f04b9c1603c56c49dc01]{
+[offset:6786]{
 -- Page 443, Offset 6786.
 -- 「…………はあ」
 "%{i}Haa%{/i}..."
@@ -325,15 +325,15 @@ Miro hacia arriba contemplando el techo.
 [sha:3beed8987100a2d8fcefdfe9a90090f6431dcbc9]{
 -- Page 443, Offset 6788.
 -- 殺したのに生き返ったとか、わたしは吸血鬼です、とかはともかく、アルクェイドは人の言葉を話して、人のカタチをしている命だった。
-Si dejas a un lado el hecho de que volvió a la vida tras haberla matado,
- y que dice ser un vampiro,
- al fin y al cabo,
+Dejando de lado que resucitó después de que la matara
+ y eso de que “soy un vampiro”,
+ la realidad es que,
  Arcueid es un ser que se ve y habla como un humano.
 }
 [sha:3cd296cdbe87bdd17b644854a50a18347a76b481]{
 -- Page 444, Offset 6789.
 -- それがひとりでは起きられないぐらい弱っていて、その責任が俺にあるのなら。
-Si está tan débil como para encargarse de sus asuntos por su cuenta, entonces la responsabilidad recae en mi.
+Si está tan débil como para encargarse de sus asuntos por su cuenta, entonces la responsabilidad recae sobre mi.
 }
 [sha:5e9eaee99aedf5e452a043a9e1df0f31e23eb179]{
 -- Page 444, Offset 6790.

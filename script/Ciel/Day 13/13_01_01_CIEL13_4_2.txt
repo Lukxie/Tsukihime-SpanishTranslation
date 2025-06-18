@@ -76,7 +76,7 @@
 [sha:252473a8b86cf5f57ec2966edaa34e0e4acaca43]{
 -- Page 390, Offset 34398.
 -- ……どうしてだろう。
-Me pregunto por qué...
+-- TRANSLATION HERE
 }
 [sha:f8153c2e21df7a0fb094deb2690dbbf6cc84d55b]{
 -- Page 390, Offset 34399.
@@ -163,10 +163,10 @@ Me pregunto por qué...
 -- 俺は、すごく楽しかった。先輩と過ごした時間は、先輩にとってはどうでもいい時間だったかもしれないけど、俺にとっては大切だった」
 -- TRANSLATION HERE
 }
-[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
+[offset:34416]{
 -- Page 397, Offset 34416.
 -- ……そうだ。
-Eso es verdad...
+-- TRANSLATION HERE
 }
 [sha:e49f758b5079be250104615da13c7d5f3ebc17a1]{
 -- Page 397, Offset 34417.
@@ -281,7 +281,7 @@ Eso es verdad...
 [sha:252473a8b86cf5f57ec2966edaa34e0e4acaca43]{
 -- Page 403, Offset 34439.
 -- ……どうしてだろう。
-Me pregunto por qué...
+-- TRANSLATION HERE
 }
 [sha:c3cb3be02371cc2f96d651a68af7457f29837201]{
 -- Page 403, Offset 34440.
@@ -546,7 +546,7 @@ Me pregunto por qué...
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
 -- Page 423, Offset 34492.
 -- 「―――――――――」
-"―――――――――"
+-- TRANSLATION HERE
 }
 [sha:47ba57a44da62fae54f8dd5dc78485ea63de7e4a]{
 -- Page 423, Offset 34493.
@@ -601,7 +601,7 @@ Me pregunto por qué...
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 427, Offset 34503.
 -- 「――――――――」
-"――――――――"
+-- TRANSLATION HERE
 }
 [sha:19c7fcb856dab55095e7da37c013d0ffcd991d08]{
 -- Page 427, Offset 34504.
@@ -701,7 +701,7 @@ Me pregunto por qué...
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 432, Offset 34523.
 -- 「――――――――」
-"――――――――"
+-- TRANSLATION HERE
 }
 [sha:2b50c720ce5b6174a66b0b6477e1ecccdf92ee5a]{
 -- Page 432, Offset 34524.
@@ -751,7 +751,7 @@ Me pregunto por qué...
 [sha:7681e1cde97a02affdc16442862bb6628a642580]{
 -- Page 434, Offset 34533.
 -- かつん、と。
-%{i}Tap%{/i}.
+-- TRANSLATION HERE
 }
 [sha:050a317b0980e715260cbbd947fc55e181dbc5ae]{
 -- Page 434, Offset 34534.
@@ -1276,7 +1276,7 @@ La llamo.
 [sha:2e36113b43f672e7f862e270d514940fa3ab020d]{
 -- Page 467, Offset 34638.
 -- 「あ――――――――」
-"Ah―――"
+-- TRANSLATION HERE
 }
 [sha:b68b242a90281e54c969793820c8e2b7acbcf8b9]{
 -- Page 467, Offset 34639.
@@ -1443,10 +1443,10 @@ La llamo.
 -- 「俺はやっぱり死にたくない。ぎりぎりまで生きて、こうして先輩と一緒にいたい。
 -- TRANSLATION HERE
 }
-[sha:8bff0d75936c49222070ad8695c2e6b6d88a1a33]{
+[offset:34672]{
 -- Page 477, Offset 34672.
 -- だから―――」
-Es por eso que―――"
+-- TRANSLATION HERE
 }
 [sha:85d54c9276e77225d353c478e0baa8adcc9084f1]{
 -- Page 478, Offset 34673.
@@ -1653,7 +1653,7 @@ Es por eso que―――"
 -- 「ええ。本国は無理でも、この国にはいくつかの支部がありますから。
 -- TRANSLATION HERE
 }
-[sha:296153b5ac049cb48510eacb5052856468765762]{
+[offset:34714]{
 -- Page 496, Offset 34714. Glued. Mods: @x, @k, @e.
 -- ……
 ...
@@ -1841,7 +1841,7 @@ Es por eso que―――"
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 511, Offset 34751.
 -- そこには、
-Allí―――
+-- TRANSLATION HERE
 }
 [sha:5a1e51f081ee1493b101b9c94ae8899d24675dee]{
 -- Page 511, Offset 34752.

@@ -1,77 +1,78 @@
 [sha:0231a16bfad0598120e538c7a25b75267c3f99b2]{
 -- Page 141, Offset 8530.
 -- ―――自分の迷いを、捨てきれない。
--- TRANSLATION HERE
+―――No puedo deshacerme de mis dudas.
 }
 [sha:388b18494161dd900f2c5a612319e5c916065e01]{
 -- Page 141, Offset 8531.
 -- 先生は言っていた。
--- TRANSLATION HERE
+Sensei una vez me dijo.
 }
 [sha:4ef74b5874174ae8ad5ad017c23111f7dfc4ea95]{
 -- Page 141, Offset 8532.
 -- ……聖人になれ、なんて事は言わない。
--- TRANSLATION HERE
+No te pido que te conviertas en santo.
 }
 [sha:ca1c3ba175ac5ceb61349987e5688dfc0de1d060]{
 -- Page 141, Offset 8533.
 -- 君は君が正しいと思う大人になればいい、と。
--- TRANSLATION HERE
+Puedes ser la persona que creas correcta.'
 }
 [sha:22043edef71c3052e214b121cad4bd106289e760]{
 -- Page 142, Offset 8534.
 -- 俺は、自分でもどうかしていると思うけど、あいつの信用を裏切れない。
--- TRANSLATION HERE
+Sé que ahora mismo no estoy pensando con claridad, pero no puedo traicionar su confianza.
 }
 [sha:bd42b2c95621a01e67c66b61389e8c2f4b31f855]{
 -- Page 143, Offset 8535.
 -- アルクェイドが人間じゃないとしても、こんな俺を信用してくれた。
--- TRANSLATION HERE
+Puede que Arcueid no sea humana, pero ha confiado en mi igualmente.
 }
 [sha:a5eaea0248d834e9f87daec1059f64eed969d08d]{
 -- Page 143, Offset 8536.
 -- 決して許されない遠野志貴の罪を、笑顔で許すと言ってくれたんだ。
--- TRANSLATION HERE
+Ha perdonado el imperdonable pecado de Tohno Shiki con una sonrisa.
 }
 [sha:4abae63caa299c818bd3f5ec65f3dc7a8ecf9d33]{
 -- Page 143, Offset 8537.
 -- なら―――自分の命ぐらい笑って差し出すぐらいはしなくちゃ人間として恥ずかしい。
--- TRANSLATION HERE
+Si ella es capaz de hacer eso, me tendría que dar vergüenza como ser humano no jugarme la vida por esa sonrisa. 
 }
 [sha:ba69e8ef9c6b9226a085f568dc5c131b54de4a20]{
 -- Page 144, Offset 8538.
 -- 「……馬鹿だな。
--- TRANSLATION HERE
+"Soy un idiota...
 }
 [sha:80668cf7cfcc04f4be13115db1ef22b2f472af63]{
 -- Page 144, Offset 8539.
 -- 本当に、俺は馬鹿だった……！」
--- TRANSLATION HERE
+¡Soy increíblemente idiota, de verdad!"
 }
 [sha:09ba46137fc46c3e83148f650a43e1b74a7b940c]{
 -- Page 145, Offset 8540.
 -- バチン、と両頬を叩いて反省する。
--- TRANSLATION HERE
+Me abofeteo con firmeza considero mi siguiente movimiento.
 }
 [sha:76e6fe1aa054127669787e69b11116cc43c9b347]{
 -- Page 145, Offset 8541.
 -- ベンチから立ちあがる。
--- TRANSLATION HERE
+Me levanto del banco.
 }
 [sha:daa3ccd97a6a08df69f9cd214ef23c9d84fe3986]{
 -- Page 145, Offset 8542.
 -- 学校にも屋敷にも戻らない。
--- TRANSLATION HERE
+No me dirijo ni a la escuela ni a la mansión.
 }
 [sha:532eb33d544cd3880ad8e65ee9ecf6b72dca9260]{
 -- Page 145, Offset 8543.
 -- 俺は振り返らず、もう一度ホテルへと走り出した。
--- TRANSLATION HERE
+Con toda duda despejada,
+ empiezo a trotar hacia el hotel.
 }
 [sha:21a26ae63ac1d9629890f9d17dda0e3d338f6718]{
 -- Page 146, Offset 8544.
 -- 日没前、もうじき日が沈むというギリギリのタイミングでホテルの部屋に帰ってきた。
--- TRANSLATION HERE
+Vuelvo al hotel llegando justo a tiempo antes de que se ponga el sol.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 147, Offset 8545.
@@ -81,102 +82,106 @@
 [sha:10a4d32bc2f58d01849d344bdd6a1d92ce6cee86]{
 -- Page 147, Offset 8546.
 -- そーっと足音を忍ばせて中に入る。
--- TRANSLATION HERE
+Entro a hurtadillas, andando con cuidado para no hacer ruido.
 }
 [sha:1690b441f03dfa8d18c66564641a0ea3ad758680]{
 -- Page 147, Offset 8547.
 -- アルクェイドがまだ眠っていれば、とりあえず問題はない……ん……だけ、ど……。
--- TRANSLATION HERE
+Si Arcueid sigue dormida, no debería de tener ningún... problema...
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
 -- Page 148, Offset 8548.
 -- 「―――」
 "―――"
 }
-[sha:c5fd4e6209d5031524fbe742f3ed33a0410956ac]{
+[offset:8549]{
 -- Page 148, Offset 8549.
 -- 「…………う、ぐ」
-"%{i}Ugh%{/i}..."
+"%{i}Mmgh%{/i}..."
 }
 [sha:664736a6be9705c091d262053b4a7aa1cda75749]{
 -- Page 148, Offset 8550.
 -- この通り、彼女はすでに目を覚まして、ぷんぷんに怒っていらっしゃるのだった。
--- TRANSLATION HERE
+Como puedes ver, ya está despierta y echando humo.
 }
 [sha:de6aa6fe68f6523708b5310e7cfd2b40307871e6]{
 -- Page 149, Offset 8551.
 -- 「志ぃ～～～～貴ぃ～～～～………！」
--- TRANSLATION HERE
+"¡Shiiikiiii!"
 }
 [sha:0deed5fcf698b7eed202a77c9d8b64a4e6781ac2]{
 -- Page 149, Offset 8552.
 -- 「あわ、あわわ……！」
--- TRANSLATION HERE
+"¡%{i}Uh%{/i}, %{i}uhhh%{/i}!"
 }
 [sha:d9b92fcdf95ad6332312348618750b9179f2d163]{
 -- Page 150, Offset 8553.
 -- まずい。コレほんとまずい。
--- TRANSLATION HERE
+Esto es malo. %{i}Muy%{/i} malo.
 }
 [sha:286cfe385134f987a482c479e17ed92dd736591b]{
 -- Page 150, Offset 8554.
 -- 誰がどう見ても怒り狂っています、あちらの<お嬢さま|マドモアゼル>！
--- TRANSLATION HERE
+Cualquier espectador tendría claro que aquí la madmoiselle está furiosa.
 }
 [sha:334350cea8691a2af65c39e7171e83efa13094f0]{
 -- Page 151, Offset 8555.
 -- 路地裏であれだけのコトをしたアルクェイドである。
--- TRANSLATION HERE
+En estos momentos la Arcueid ante mi es la misma que montó la terrorífica escena de antes en el callejón.
 }
 [sha:100a0e733ac59588493f82eca790ec121a7c9d2c]{
 -- Page 151, Offset 8556.
 -- こっそり逃げ出した俺……ちゃんと戻ってきたけどネ！……に対して、どんな鉄槌を下すかもう考えるだに恐ろしい。下手するとホテルごと真っ二つだ。
--- TRANSLATION HERE
+Puede que haya huido a escondidas... pero he vuelto, ¡¿no?!
+ Me aterroriza saber que tipo de castigo me espera...
+ Si no tiene cuidado, puede que parta el hotel en dos.
 }
 [sha:c614390eede311e87ba765f666bd1f0c538fc31b]{
 -- Page 152, Offset 8557.
 -- 「い、いや、その、これはだな！？」
--- TRANSLATION HERE
+"¡¿N-No, verás, la cosa es?!"
 }
 [sha:fffa9980ef659a598528097bbb893ebd75cd0618]{
 -- Page 152, Offset 8558.
 -- いまさら弁明しても後の祭りだが、しないで殺されるのは逃げ出すよりみっともないので全力で言い訳する。
--- TRANSLATION HERE
+Ya es tarde para intentar justificarme,
+ pero si acabo muerto sin siquiera  %{i}intentar%{/i} hacerlo sería más lamentable que el haber huido en primer lugar,
+ así que me esforzaré por poner excusas.
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:8559]{
 -- Page 152, Offset 8559.
 -- ……と。
-Sin embargo...
+Excepto que―――
 }
 [sha:06039666d699f2c3e8152ebcb88325e693f9e139]{
 -- Page 153, Offset 8560.
 -- 「もう、何処に行ってたのよ！
--- TRANSLATION HERE
+"Joe, ¿dónde has estado?
 }
 [sha:eb13ccab217b29d294a26247a6440c4825b4192d]{
 -- Page 153, Offset 8561.
 -- 外に出る時はちゃんと声をかけてから行ってよね！」
--- TRANSLATION HERE
+¡Me tienes que avisar antes de salir!"
 }
 [sha:8e7a38b2d02737e8a7b1c3bf3c8ce0ad9fe8b4ff]{
 -- Page 154, Offset 8562.
 -- 「……あれ？……」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:603a5cd134be6517aa6d440546d4b34d18e89858]{
 -- Page 154, Offset 8563.
 -- なんか……想像と違う、ような？
--- TRANSLATION HERE
+Esto... no es lo que me esperaba.
 }
 [sha:1722f6f045ad1727b4a25d6cb301cf37231003d2]{
 -- Page 155, Offset 8564.
 -- 「日が落ちたから目を覚ましてみれば、志貴ったらいないんだもの。トイレにはいないし、ロビーで食事を摂っているのかなって様子を見にいっても姿がないし。
--- TRANSLATION HERE
+"Cuando me levanté al anochecer no estabas. No estabas en el baño así que pensé que te habías ido al vestíbulo a comer, pero cuando fui a mirar no te vi por ninguna parte.
 }
 [sha:534f96505c67d27758aa3a4a727bdf119e4ec5c7]{
 -- Page 155, Offset 8565.
 -- いったい何処に行ってたのよ、あなたは」
--- TRANSLATION HERE
+¿Dónde has estado todo este tiempo?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 156, Offset 8566.
@@ -186,42 +191,45 @@ Sin embargo...
 [sha:a7a14744e7f706ecb7d752dfbd477c541520d9f3]{
 -- Page 156, Offset 8567.
 -- たしかに、アルクェイドは怒っている。
--- TRANSLATION HERE
+Definitivamente, Arcueid está enfadada.
 }
 [sha:bc5870670c5da9da073648e1f0527d33d9c861a4]{
 -- Page 156, Offset 8568.
 -- けど、それは俺に裏切られたと思ってのコトではないみたいだ。
--- TRANSLATION HERE
+Pero no parece que su enfado provenga del pensar que la he traicionado.
 }
 [sha:8b3e734a703e51d2c9b49c3661db53782f6a3d9c]{
 -- Page 157, Offset 8569.
 -- 「……いや、ちょっとホテルの外に出てたというか……」
--- TRANSLATION HERE
+"Bueno... me había ido del hotel un momento, sabes..."
 }
 [sha:0efe7ce985ab6e7aa23158e1422c581115e3d3e7]{
 -- Page 157, Offset 8570.
 -- 「本気……？　使い魔に見つかった以上、志貴だって安全じゃないのよ。無闇に外に出ていって、またあの黒豹に襲われたらどうするつもりだったの？」
--- TRANSLATION HERE
+"¿Lo dices en serio?
+ Ahora que nos han visto los familiares, tu tampoco estás a salvo.
+ Si vas por ahí y te ataca esa pantera negra de nuevo,
+ ¿cómo piensas lidiar con ella?"
 }
 [sha:ddbe4df7a6e8a4bc07582cb54e6e3e7be3f0d5e9]{
 -- Page 158, Offset 8571.
 -- ……なんてコト、だろう。
--- TRANSLATION HERE
+No me lo creo...
 }
 [sha:e23a171a23390c3ef998cedbcff01d97d0899269]{
 -- Page 158, Offset 8572.
 -- アルクェイドが怒っているのは俺がいなかったからじゃない。
--- TRANSLATION HERE
+Arcueid no está enfadada porque no estuviera aquí.
 }
 [sha:73d3580d7fb86b7379b86e0d047b70843179bfdd]{
 -- Page 158, Offset 8573.
 -- こいつは、俺が裏切って逃げ出す、なんて事を微塵も考えていないんだ。
--- TRANSLATION HERE
+Ni se le ha pasado por la cabeza la noción de que la haya podido traicionar y huir.
 }
 [sha:f4b6ffeb0ce8a9e2431392c99f2cae5446c0783e]{
 -- Page 159, Offset 8574.
 -- アルクェイドはただ、勝手に出歩いた俺が危険な目に遭わないかと心配して、こうして腹を立てていた。
--- TRANSLATION HERE
+Está enfadada porque estaba preocupada por si me ponía en peligro al ir por ahí solo.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 160, Offset 8575.
@@ -231,52 +239,54 @@ Sin embargo...
 [sha:aab035bd6042c83ea6685c1c9c870c276589e959]{
 -- Page 160, Offset 8576.
 -- ……恥ずかしい。俺はあと少しで、こいつの心を踏みにじってしまうところだった。
--- TRANSLATION HERE
+Me avergüenzo... he estado a nada de despreciar sus buenas intenciones.
 }
 [sha:f0df21db7500f15dcfda48666a68c4e9061f29af]{
 -- Page 161, Offset 8577.
 -- 「ちょっと志貴、わたしの話聞いてる？」
--- TRANSLATION HERE
+"Ey, Shiki, ¿me escuchas siquiera?"
 }
 [sha:ddd0b4a4bc15e3c687c71c20b6afc181164d69f1]{
 -- Page 161, Offset 8578.
 -- 「……ああ、聞いてる。そうだな、俺が悪かった。
--- TRANSLATION HERE
+"Sí... te escucho. Tienes razón, culpa mía.
 }
 [sha:9c9afbabcbbfeef88594e2a7d33e56778892180e]{
 -- Page 161, Offset 8579.
 -- 勝手に出ていって、ごめん」
--- TRANSLATION HERE
+Siento haberme ido sin permiso."
 }
 [sha:f5541037f8fbb5bc4fbe468ee49bd0baa412fcc1]{
 -- Page 161, Offset 8580.
 -- 心から頭をさげる。
--- TRANSLATION HERE
+Agacho la cabeza con sinceridad.
 }
 [sha:317a23d84a4d039535aca7ae8f50f2f438ca925d]{
 -- Page 162, Offset 8581. Mods: @k, @e.
 -- 「えっ……？
--- TRANSLATION HERE
+"¿Eh...?
 }
 [sha:f7f9e4c39937cb42c114b23da2b2f1bccb68eea0]{
 -- Page 162, Offset 8582. Glued. Mods: @x.
 -- そ、そんなに、真剣に謝ってもらうコトじゃ、ないけど……」
--- TRANSLATION HERE
+E-Ey, no tienes que disculparte de forma tan seria..."
 }
 [sha:061493205e68de8ac295442dca3404837ece8763]{
 -- Page 163, Offset 8583.
 -- 「と、とにかく志貴は無防備すぎるわ。相手は吸血鬼なんだから、もっと気を引き締めるべきよ」
--- TRANSLATION HERE
+"S-Sea como sea, eres demasiado vulnerable.
+ El enemigo es un vampiro, así que tienes que tener más cuidado."
 }
 [sha:c9f49990e9088c67511020347dc2153b21a149de]{
 -- Page 164, Offset 8584.
 -- 「それともなに、もしかして破滅願望でもあるの？　自分から殺されにいくとか、わたしを怒らせるとか。
--- TRANSLATION HERE
+"O qué, ¿quieres morir o algo? ¿Intentas que te maten o lo haces solo para molestarme?
 }
 [sha:9f000e670a0e0ea78bc174242e26d760a69b1338]{
 -- Page 164, Offset 8585.
 -- そういうコトなら基底状態と励起状態をコンマで繰り返す、人間の言葉じゃ表現できないぐらいの極限空間にたたき込んであげましょうか？」
--- TRANSLATION HERE
+Si es así, ¿quieres que te lleve a un espacio tan extremo que ni el habla humana puede describir?
+ Del tipo en el que te zarandearás como un átomo oscilando entre estado fundamental y escitado."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 165, Offset 8586.
@@ -286,20 +296,22 @@ Sin embargo...
 [sha:e09671d0acd41b351d9cb4523b0ddb220235b825]{
 -- Page 165, Offset 8587.
 -- この女、おそろしいコトに善意で言っている。
--- TRANSLATION HERE
+Dice algo terrorífico con tal benevolencia.
 }
 [sha:689cf1697a68254a1d94354a969bce43131706cb]{
 -- Page 166, Offset 8588.
 -- 「んなワケあるか。あとな、それただの地獄だから。人間の言語表現舐めるなバカ」
--- TRANSLATION HERE
+"Ni de broma. Y además, a eso se le llama infierno. No subestimes las capacidades del léxico humano, idiota."
 }
 [sha:7abbece4e23e04d07addbf82f46532aaa69a7422]{
 -- Page 167, Offset 8589.
 -- 「だいたい無防備なのはそっちだって同じだろ。……その、俺は一度はおまえを殺してるんだぞ？　そんな俺を見張り番にして眠るなんて、どうかしてる。
--- TRANSLATION HERE
+"Además, tu eres tan vulnerable como yo, ¿no?
+ Quiero decir... ya te he matado una vez, ¿recuerdas?
+ Tienes que estar loca para dormir y tenerme a %{i}mi%{/i} montando guarida.
 }
 [sha:7b34fda9ad8c5b4e6004ce482190d405721e223d]{
 -- Page 167, Offset 8590.
 -- 今回だって、そうしなかったとはかぎらないじゃないか」
--- TRANSLATION HERE
+¿Quién te dice que no lo vaya a volver a hacer?"
 }

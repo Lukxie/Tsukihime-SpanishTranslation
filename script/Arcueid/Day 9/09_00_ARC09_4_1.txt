@@ -3,10 +3,10 @@
 -- 「………………」
 "........."
 }
-[sha:710ff592deee686ff519ceafb73ddb56a38c986c]{
+[offset:21908]{
 -- Page 10016, Offset 21908.
 -- ……仕方ない。
-Parece que no tengo mucha elección.
+Parece que no tengo mucha elección...
 }
 [sha:300e2ba469af3ae6c4f10d1c0c9d77f76ace1ed5]{
 -- Page 10016, Offset 21909.
@@ -17,7 +17,7 @@ Me da la sensación de que Akiha va a llorar si la desobedezco más de lo que ya
 -- Page 222, Offset 21910.
 -- 「……わかった、今日はおとなしく眠ることにするよ」
 "Vale, me comportaré.
- Esta noche me toca solo descansar."
+ Esta noche solo me toca descansar."
 }
 [sha:10c6124cd427aae4e89a5574a5abfd43381d710f]{
 -- Page 222, Offset 21911.
@@ -32,7 +32,7 @@ Dicho esto, me vuelvo a tumbar en la cama.
 [sha:28e07c018f896a08a5db6b51cae3af1da7b71be0]{
 -- Page 223, Offset 21913.
 -- 後になって部屋を抜け出したりするのもナシですよ？」
-No te vas a escapar después de tu habitación, ¿verdad?"
+No te vas a escapar de tu habitación después, ¿verdad?"
 }
 [sha:aab567ffd5b06ab645a5bd4606f014beb294e1f5]{
 -- Page 224, Offset 21914. Mods: @k, @e.
@@ -76,10 +76,10 @@ Nii-san, ¿qué quieres hacer con la cena?"
 -- 「……わかりました。翡翠、琥珀にそう伝えてきて」
 "Entendido. Hisui, por favor informa a Kohaku de lo que ha dicho."
 }
-[sha:11ea1ebdad61867797537439434201effb9d2ecd]{
+[offset:21922]{
 -- Page 227, Offset 21922.
 -- ……さて。
-Ahora pues...
+Bueno entonces...
 }
 [sha:3e20feef1306bad228f96ae1c4633deac3fc1b88]{
 -- Page 227, Offset 21923.
@@ -99,7 +99,7 @@ Pero antes de eso―――
 [sha:ba814a1dcfa7e7efdd544688dedf23a46b2d2c4a]{
 -- Page 228, Offset 21926.
 -- 「秋葉。うちの庭に、あんな場所あったっけ？」
-"Akiha. ¿Siempre hubo un lugar así en los jardines?"
+"Akiha. ¿En los jardines siempre hubo un lugar así?"
 }
 [sha:bd4d32c30cf3696598c25c12269ca6d5a205af9e]{
 -- Page 228, Offset 21927.
@@ -114,7 +114,7 @@ Pero antes de eso―――
 [sha:d6f1ce9ecc623bbd42350751f666a79d4702d69f]{
 -- Page 228, Offset 21929.
 -- ……ああ。本当に、忘れてしまってた。
-Maldición... realmente me olvidé por completo de ello.
+Maldición... realmente me olvidé de ello por completo.
 }
 [sha:3acfaaa011ac6572d6aea7b9d45a566fc7b1cb8d]{
 -- Page 229, Offset 21930.
@@ -127,7 +127,7 @@ Maldición... realmente me olvidé por completo de ello.
 Bueno... cuando éramos niños――
 ¿te acuerdas de si había un tercer niño con el que solíamos jugar?"
 }
-[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+[offset:21932]{
 -- Page 230, Offset 21932.
 -- 「は？」
 "¿Qué?"
@@ -189,7 +189,7 @@ Duerme bien."
 [sha:68a4914f656615f91a9c0bf60e71cea492297eef]{
 -- Page 233, Offset 21943.
 -- 「ああ、そうする」
-"Sí, lo haré,"
+"Sí, lo haré."
 }
 [sha:fded2da0f2440e94e2897eda51574b59bfd43166]{
 -- Page 234, Offset 21944.
@@ -199,7 +199,7 @@ En cuanto respondo a Akiha me apago como una luz.
 [sha:8a44daa6213b0c9ac013f4b641f5a1a8f451b02f]{
 -- Page 234, Offset 21945.
 -- 眠りに落ちる際、<恒|つね>、胸にわだかまる感情も、今夜はない。
-Esta noche no siento como se me encoge el pecho como suele ocurrir cuando me voy a dormir.
+Esta noche no siento como se me encoge el pecho, como suele ocurrir cuando me voy a dormir.
 }
 [sha:4487c469c4fffc13d5984262aedeaafde34e1b0d]{
 -- Page 234, Offset 21946.

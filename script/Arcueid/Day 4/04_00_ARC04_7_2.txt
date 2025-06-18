@@ -11,12 +11,12 @@ Que especifique que no las va a romper es %{i}extremadamente%{/i} sospechoso.
 [sha:5a4dbcc2ce0e363e418bbe0acd20b260e2a45cd3]{
 -- Page 651, Offset 7305.
 -- 「―――見るだけでもダメ。
-"Incluso si solo vas a mirar, no.
+"No. Incluso si solo las vas a mirar.
 }
 [sha:451f3ca58d82185c629964d61cc302a54fbe964b]{
 -- Page 651, Offset 7306.
 -- 路地裏の時におまえのバカ力は思い知らされたからな。何かのはずみで握り潰されたらどうしようもない」
-Antes vi una pequeña demostración de tremenda fuerza bruta en el callejón.
+Antes en el callejón vi una pequeña demostración de tu tremenda fuerza bruta.
  No puedo arriesgarme a que las aplastes con tus manos."
 }
 [sha:10e88775afe1084a4db187a2945ee260e33255c9]{
@@ -88,5 +88,5 @@ Parece que tiene curiosidad por las cosas que la gente aprecia. ¿Es un crío?
 -- Page 657, Offset 7319.
 -- ……だいたい、この眼鏡がなくなったら俺はおまえに協力するどころの話じゃなくなる。四六時中線が見えてたら、頭痛で頭がどうにかなりそうだし」
 Además, si pierdo estas gafas, básicamente puedes decir adiós a nuestra colaboración.
- Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo."
+ Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo." 
 }

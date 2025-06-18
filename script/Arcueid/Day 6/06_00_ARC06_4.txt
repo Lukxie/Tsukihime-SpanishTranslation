@@ -6,7 +6,7 @@ El resto de la tarde pasa sin incidentes.
 [sha:9c3492e614e5baddc1d2eff35ff6f97feadab98b]{
 -- Page 10016, Offset 14718.
 -- あれから部屋に戻ってぼんやりしていたら、いつのまにか夕食の時間になっていた。
-Vuelvo a mi habitación, hogazaneo un rato y lo siguiente que sé es que es hora de cenar.
+Vuelvo a mi habitación, holgazaneo un rato y lo siguiente que sé es que es hora de cenar.
 }
 [sha:8b1d37d739489f4a7ad74fd0818f9770d3a89377]{
 -- Page 324, Offset 14719.
@@ -32,7 +32,7 @@ Debo haber perdido la noción del tiempo pensando en todas estas estupideces...
 -- Page 325, Offset 14723.
 -- 食堂には俺と秋葉と、その後ろに控えた琥珀さんと、俺の後ろに控えた翡翠の姿がある。
 Akiha y yo nos sentamos en el comedor.
- Kohaku-san a su espalda la atiende atentamente, mientras que Hisui de la misma forma se encuentra detrás de mí.
+ A su espalda, Kohaku-san la atiende atentamente, mientras que Hisui de la misma forma se encuentra detrás de mí.
 }
 [sha:7c61862dd61d2ecc50c488bb723df37ac056f42d]{
 -- Page 326, Offset 14724.
@@ -45,7 +45,7 @@ La cena que Kohaku-san ha preparado consiste en una serie de platos,
 -- 遠野邸のマナーなのか、秋葉は一声も発さず、厳かな顔付きで主菜を口に運んでいる。
 Quizá es una de las costumbres de la mansión Tohno,
  pero Akiha pasa toda la comida en absoluto silencio,
- con una expresión remilgada en su rostro mientras lleva cada bocado de comida a sus labios".
+ con una expresión remilgada en su rostro mientras lleva cada bocado de comida a sus labios.
 }
 [sha:8d87a4baf56307beeb823da69d8c617f633dc15d]{
 -- Page 327, Offset 14726.
@@ -82,13 +82,13 @@ Susurro la pregunta a Hisui, intentando que Akiha no me oiga.
 -- Page 330, Offset 14732.
 -- 「……申し訳ありません。私には分かりかねます。……あくまで憶測ですが、秋葉さまはお疲れなのではないでしょうか」
 "Mis más sinceras disculpas. Es difícil estar segura...
- Esto es mera especulación, pero quizá el caso sea que Akiha-sama esté simplemente cansada."
+ Esto es mera especulación, pero quizá el caso sea que Akiha-sama simplemente esté cansada."
 }
 [sha:bb4629d224a45f278092ae96d6f5b452e4a47018]{
 -- Page 330, Offset 14733.
 -- 「……そっか。そりゃそうだよな。いつも不機嫌だけど、今はとくにご機嫌ななめだし。ほんと、ご苦労さまだこと」
 "Ya veo... supongo que tienes razón.
- No es la persona más animada, pero ahora mismo esto es un nuevo nivel de mala leche.
+ Siempre está algo de mal humor, pero esto es otro nivel.
  Lidiar con la crisis debe haberla desgastado mucho."
 }
 [sha:3ce362bc952e64f90a571bf6d525c6581d583c3a]{
@@ -99,9 +99,9 @@ Asiento para simpatizar con ella.
 [sha:1c174d79024e75c4a3a68df6660fe70da51ee6af]{
 -- Page 331, Offset 14735.
 -- 俺が言える事ではないけど、予定外の出来事で休日がポシャってしまった妹に出来る事といったら、ゆっくり休ませてやる事だけだ。あえて話題を振る愚はおかさない。さわらぬ秋葉になんとやら、である。
-// Creo que esto es un buen equivalente entre metáforas.
+//Creo que esto es un buen equivalente entre metáforas.
 No puedo decir esto en alto,
- pero lo mejor que puedo hacer por mi hermana tras un fin de semana interrumpido por una crisis es dejarla espacio para que se relaje.
+ pero lo mejor que puedo hacer por mi hermana tras un fin de semana interrumpido por una crisis es darle espacio para que se relaje.
  No hay razón para sacar el tema y hurgar en la herida.
  Es mejor no agitar el avispero.
 }
@@ -114,7 +114,7 @@ No puedo decir esto en alto,
 -- Page 332, Offset 14737.
 -- 別に午後の視察で疲れている訳ではありません。食事は静粛に、が当家のマナーですから」
 Has de saber que no estoy cansada por la inspección de esta tarde.
- Simplemente en esta casa, durante la cena el silencio es oro."
+ Es simplemente que en esta casa, durante la cena el silencio es oro."
 }
 [sha:09e9a12343cbc7da4c745f255cd103d1a8644b54]{
 -- Page 333, Offset 14738.
@@ -131,7 +131,7 @@ Es normal que me viese hablando con Hisui,
 [sha:ec57cdfcb26a1b085ae902b1847d28c55027b090]{
 -- Page 334, Offset 14740.
 -- 「……もっとも、それも過去の話ですが。
-// Tl oficial
+//Tl oficial
 "Aunque supongo que dichas formalidades forman parte del pasado.
 }
 [sha:f74e467cf0e1f0f5b191a1cd92965948b33f35af]{
@@ -149,20 +149,20 @@ Asiento con la cabeza en señal de comprensión y sigo comiendo.
 [sha:8743b20797717f6430f00a7f6cd0d32df4f91a65]{
 -- Page 335, Offset 14743.
 -- 朝食と昼食を少なめにしていたおかげか、夜になって食欲が戻ってきた。
-Quizá sea por comer tan poco en desayuno y comida,
+Quizá sea por haber comido tan poco durante desayuno y comida,
  pero esta noche tengo bastante hambre.
 }
 [sha:d47919b516ce7b6992ea0233941e363a5e1fdaf2]{
 -- Page 335, Offset 14744.
 -- ……それでも、今夜の<献立|メニュー>はやや目に痛い。
-Pero esta cena de esta noche es difícil a la vista.
+Y aún así, la cena de esta noche me resulta un poco difícil a la vista.
 }
 [sha:dbf45b03b93a75bdc5ccb7f057db36dfb3042630]{
 -- Page 335, Offset 14745.
 -- 牛のヒレ肉やフォアグラだけでなく、真っ赤なソースが血液を連想させて、否応にも昨日までの出来事を思い返してしまう。
 No solo por el solomillo de ternera o el foie gras,
  sino también por la salsa roja carmesí que me recuerda a la sangre,
- y por ende, a los eventos que ocurrieron hasta ayer.
+ y por ende, a los eventos que hasta ayer ocurrieron.
 }
 [sha:fb7862f81594d6d80ddede52bbe998bcbf21f6eb]{
 -- Page 336, Offset 14746.
@@ -172,13 +172,13 @@ Un asesinato inesperado. Una reunión improbable. Y un monstruo imposible.
 [sha:7ed0fcc21c54df4a379806f95d9ef00b78a77334]{
 -- Page 336, Offset 14747.
 -- 多くの死に背中を押されて伸ばした指と、死の手触り。
-// Tl oficial
-Y tal como la muerte se aferraba sobre mi, yo también toqué a la muerte.
+//Tl oficial
+Tal como la muerte se aferraba sobre mi, yo también toqué a la muerte.
 }
 [sha:43f8a8faeb87a4f9fecf2ce2ef2e070077a4f8f2]{
 -- Page 336, Offset 14748.
 -- それと―――吸血鬼を倒せば、そうなると判りきっていた、当然の別れ。
-// Tl oficial. Igual crashea por esta línea.
+//Tl oficial. Igual crashea por esta línea.
 Sin mencionar――
 la muy anticipada despedida tras derrotar al vampiro.
 }
@@ -190,13 +190,13 @@ la muy anticipada despedida tras derrotar al vampiro.
 [sha:49a51e852448b924d12df3e580fc0b97a96389a7]{
 -- Page 336, Offset 14750.
 -- ……まったく情けない。あれだけ物思いに耽っておいて、まだ熱が冷めていないのか、俺は。
-// Tl oficial.
+//Tl oficial.
 Qué patético... he tenido todo el día para darle vueltas y aún no lo he superado.
 }
 [sha:7743dbda861c93f32b962d46ecc0789cb084b679]{
 -- Page 337, Offset 14751.
 -- 「―――それで。
-"¿―――Y?
+"¿―――Y bien?
 }
 [sha:52bfd8c2efcc39c5fdc909d4c547e6ac6d27626c]{
 -- Page 337, Offset 14752.
@@ -208,7 +208,7 @@ Como ha pasado mi querido Nii-san,
 [sha:85e8460240778575443bc164886a02572334c29e]{
 -- Page 337, Offset 14753.
 -- 「へ？　あ、ああ、俺の事か。午後は散歩に出て、部屋に戻ってからはずっとベッドで横になってた」
-"¿Eh? O-oh, te refieres a mi.
+"¿Eh? O-oh, te refieres a mí.
  Esta tarde he dado una vuelta,
  y luego he vuelto a mi habitación y me he pasado el resto del día tumbado en la cama."
 }
@@ -220,7 +220,7 @@ Como ha pasado mi querido Nii-san,
 [sha:1443e50f181254985aa274ef77d04de591096fa2]{
 -- Page 338, Offset 14755.
 -- 「いや、考え事をしていたらいつのまにか夜になってたというか。体の調子は悪くないし、脚の方も問題ないよ」
-// Tl oficial
+//Tl oficial
 "No, mi cuerpo está bien. Y mi pierna también. Simplemente me puse a pensar en cosas, y cuando quise darme cuenta era de noche."
 }
 [sha:16f337ab9e8333bb55b38152f2974931eb3968c7]{
@@ -241,7 +241,7 @@ Como ha pasado mi querido Nii-san,
 -- 容赦のない、そして反論のしようのない秋葉の感想だった。
 La reacción de Akiha es despiadada y no deja lugar para rebatir.
 }
-[sha:e3dcf7b832ae171b17bbb26aa4cdddbb10499379]{
+[offset:14759]{
 -- Page 340, Offset 14759.
 -- それはともかくとして、
 Pero sea como sea―――
@@ -275,7 +275,7 @@ Pero, ¿a qué te refieres cuando dices que a ti no te importa?"
 [sha:f4e6049442ac1af055f4b063cd36fd1447cda7b0]{
 -- Page 342, Offset 14765.
 -- 私は遠野志貴に何も期待はしていませんから。
-Es porque no espero nada de ti en primer lugar.
+Es porque en primer lugar no espero nada de ti.
 }
 [sha:70e8cf0ec927aa28b429e471d3518d3fe3b0d525]{
 -- Page 342, Offset 14766.
@@ -295,7 +295,7 @@ Ya veo. Qué perspectiva más sapiente.
 [sha:3b128495f45a611596a317d268c5682cfca15aaa]{
 -- Page 343, Offset 14769.
 -- 期待していなければ失望もしないという理屈。
-No puedes decepcionarte si no esperas nada.
+Si no esperas nada no puedes decepcionarte.
 }
 [sha:0bb7b1517e599389c8372283899e9944435f271f]{
 -- Page 343, Offset 14770.
@@ -305,7 +305,7 @@ Supongo que es así como uno se siente cuando se queda sin palabras.
 [sha:233d4698d00b5b79f46aff43684ce91976dca979]{
 -- Page 344, Offset 14771.
 -- 「いや、ごちそうさまでした」
-// Tl oficial
+//Tl oficial
 "Ahh, estuvo delicioso. Gracias."
 }
 [sha:b0868b514cf6eaef5732a376c20a76aeb50e3275]{
@@ -316,7 +316,7 @@ Supongo que es así como uno se siente cuando se queda sin palabras.
 [sha:42795f3141d95ef86da278b54d4cc09f60ef38b7]{
 -- Page 344, Offset 14773. Glued. Mods: @x.
 -- 兄さん？　反省なされたのでしたら、今夜は早めに部屋に戻って勉学に励んでくださいね？」
-¿Nii-san? Si de verdad te arrepientes por tu comportamiento, te sugiero que esta noche vuelvas pronto a tu habitación y te centres en tus estudios."
+ ¿Nii-san? Si de verdad te arrepientes por tu comportamiento, te sugiero que esta noche vuelvas pronto a tu habitación y te centres en tus estudios."
 }
 [sha:6ea06fa1e08a6a5815788513a26909a88851d81a]{
 -- Page 345, Offset 14774.
@@ -359,7 +359,7 @@ Pensando en lo que Akiha ha dicho,
 [sha:7a3d1e7749b491e96c6ecbf75b56e02f2787a535]{
 -- Page 348, Offset 14781.
 -- どれだけ現実離れした事件をくぐり抜けたところで、遠野志貴は高校二年の学生である。やるべき事は山積みだ。
-Sin importar las locuras que hayan ocurrido estos dos últimos días,
+Sin importar las locuras que hayan ocurrido estos últimos dos días,
  sigo siendo un alumno de instituto de segundo.
  Y tengo una montaña de trabajo que hacer.
 }
@@ -371,7 +371,7 @@ Sin importar las locuras que hayan ocurrido estos dos últimos días,
 [sha:7af4f31e734790591c6c19ea2131c64a6f1f2c27]{
 -- Page 349, Offset 14783.
 -- しかし、どうやっても集中できない。
-No puedo concentrarme sin importar cuánto lo intente
+No puedo concentrarme sin importar cuánto lo intente.
 }
 [sha:c899c097ce54eece74c96d07af908506bee97a15]{
 -- Page 349, Offset 14784.
@@ -407,7 +407,7 @@ Fueron dos días intensos, para bien o para mal.
 [sha:81299a049db3a734e98286c7a45001a6eb9cdad9]{
 -- Page 351, Offset 14790.
 -- あれを簡単に忘れる方がどうかしている。
-Tienes que estar loco para olvidarte de algo así.
+Tienes que estar loco para olvidarte de algo así tan fácilmente.
 }
 [sha:aeb76de3f510de84b11137acd2ebd8e2ddec1c63]{
 -- Page 351, Offset 14791.
@@ -422,15 +422,15 @@ Me quedaré aquí tumbado, sin hacer nada, y dejaré que mi consciencia divague.
 [sha:e735060de6ceb41de1a907d1b34ec561caa3bd2a]{
 -- Page 352, Offset 14793.
 -- 記憶を遠ざけるように、印象を薄めるように、茫漠と時間を浪費する。
-// Tl oficial
+//Tl oficial
 Paso el tiempo adormecido,
- esperando distanciarme de esas memorias,
+ esperando distanciarme de esas memorias, 
  y dejando ir las impresiones que dejaron marcadas en mi.
 }
 [sha:f2108f451ef149219d0b0c1f863dfbb30a5a3491]{
 -- Page 352, Offset 14794.
 -- ……そうすれば、たいていの出来事は過去のものになる。
-Si hago eso,
+Si hago eso, 
  todos los eventos que ocurrieron no serán más que parte del pasado.
 }
 [sha:27a5a816b5091bb5ac36b7ae399849b36d89dd79]{

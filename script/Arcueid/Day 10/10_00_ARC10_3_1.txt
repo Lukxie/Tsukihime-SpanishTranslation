@@ -1,7 +1,7 @@
 [sha:21e100498a989cd819617e928eaffffb95981710]{
 -- Page 10007, Offset 24567.
 -- 別にデートという訳ではないが、定番として映画はどうか。
-Ir al cine es algo típico en una cita. Pero no es que esto lo sea, ni nada.
+Ir al cine es algo típico en una cita. No es que esto lo sea, ni nada.
 }
 [sha:cf651ece528f94df4d6c7b7cd94d750f15df7215]{
 -- Page 10007, Offset 24568.
@@ -28,7 +28,7 @@ En momentos como este, no hay nada mejor que el cine. Pero para reiterar, esto n
 [sha:1828c4bc99fcd845cd21aa0259bb350d6b55533a]{
 -- Page 123, Offset 24572.
 -- アルクェイドと並んで日中の街を歩く。
-Por la ciudad soleada, camino al lado de Arcueid.
+Camino junto a Arcueid por la ciudad a plena luz del día.
 }
 [sha:14a4851db7da59ad24d5519fccef6ff88852f8fb]{
 -- Page 123, Offset 24573.
@@ -38,13 +38,12 @@ Y mientras, otros transeúntes nos miraban――o más bien, miran―― furtiva
 [sha:5ad505a2abcf0d9101b9b12da7c5ccb4a6011786]{
 -- Page 123, Offset 24574.
 -- 言うまでもなく、アルクェイドがそう簡単にはお目にかかれない美人だからだ。
-// Mix de tls
 Tampoco tiene mucho misterio, Arcueid es el tipo de belleza que no te encuentras todos los días.
 }
 [sha:e01b1e768923ed9d1ba91c653dfba3f1502f1b63]{
 -- Page 124, Offset 24575.
 -- 周りからそういう反応をされると余計に意識してしまい、さっきからアルクェイドが投げてくる質問にまったく返答できていない。
-Y todas esas miradas puestas en mi
+Y todas esas miradas puestas en mí
  me han cohibido tanto que soy incapaz de responder todas las preguntas que me ha estado haciendo.
 }
 [sha:dab2cf9293d47861b13f4b3bc443e9fb16f589c1]{
@@ -75,7 +74,6 @@ Te pregunto que a donde vamos."
 [sha:b867fdfefc65f712a6a6848e61fc96526c4560d9]{
 -- Page 127, Offset 24581.
 -- ……やはり安易すぎたか。
-// Tl oficial
 Ya decía yo que todo iba demasiado bien.
 }
 [sha:bf289cd72b2398b0293be3985383dafc86385761]{
@@ -92,7 +90,6 @@ Pero ya hemos venido hasta aquí,
 [sha:076f7c8376d35056c9f343c7624bc9e36e5705f9]{
 -- Page 128, Offset 24584.
 -- だいたい俺に吸血鬼の女の子が喜ぶような場所なんて分かるはずがないのだ。
-// Mix de tls
 Además, como si supiera el tipo de sitio que haría feliz a una chica vampiro.
 }
 [sha:d775de0e1c0139d5bdce703394b0f0bfa58d2e1e]{
@@ -123,13 +120,12 @@ Tras un profundo suspiro, Arcueid me sigue a rastras.
 [sha:4c4cd03f1fe5d4722d9355b82bc605947b5dc575]{
 -- Page 130, Offset 24590.
 -- しょぼん、と落ちた肩が『この甲斐性なし』と訴えてきているようで、背中が痛い。
-// Tl oficial adaptada
 Enfurruñada, desinteresada y con los hombros caídos, como si me estuviera regañando por mi incompetencia.
 }
 [sha:9389772b9c091142050ff954dcfa1fc98b9d3212]{
 -- Page 131, Offset 24591.
 -- 「チケットを買ってくるけど、なにを観る？
-"Voy a comprar las entradas, ¿que quieres ver?
+"Voy a comprar las entradas, ¿qué quieres ver?
 }
 [sha:110c794654ab8c9216a43510b8584181ad001309]{
 -- Page 131, Offset 24592. Mods: @n.
@@ -144,7 +140,7 @@ Ahora mismo hay, ehh... romance, romance, y más romance.
 [sha:ae3abf5e9a1b80b351ac42a4867716d647cfa9e5]{
 -- Page 131, Offset 24594.
 -- 頭の先からつま先まで砂糖でできているのか、この映画館。
-¿Que clase de cine empalagoso es este?
+¿Qué clase de cine empalagoso es este?
 }
 [sha:28bf472b7144f1f5b7a25fb14c6d1e1a221af77b]{
 -- Page 132, Offset 24595.
@@ -162,12 +158,11 @@ Ahora mismo hay, ehh... romance, romance, y más romance.
 -- Page 133, Offset 24597.
 -- どこかで聞いたフレーズを返された……ネットで事前調査していなかった俺のミスだ。
 Creo que he escuchado esa frase antes...
- Esto es mi culpa por no mirar antes en internet la cartelera.
+ Esto es mi culpa por no mirar antes la cartelera en internet.
 }
 [sha:2fd0d982bb1ddb3b071d84a2f652ca4faee44f54]{
 -- Page 134, Offset 24598.
 -- 「……面目ない。できるだけ面白そうなの、選んでくる」
-// Tl oficial
 "Lo siento... Al menos intentaré escoger la que sea más interesante."
 }
 [sha:de3d87d4b7e9e0119ae72e5de57a3802b4b5409f]{
@@ -178,7 +173,6 @@ Me pongo a la cola, no es muy larga así que no tardo en comprar las entradas.
 [sha:0d0068a3613a9e7be8c517f1aaa2d7b729718815]{
 -- Page 135, Offset 24600.
 -- アルクェイドは……吸血鬼と言えど……外国人なんだし、邦画より洋画だろう、という事でフランス製の映画に決める。
-// ugh
 Arcueid... además de vampiro es extranjera, así que igual prefiere una película occidental a una japonesa.
  Me decido por la peli francesa.
 }
@@ -197,7 +191,7 @@ Empieza en diez minutos.
 [sha:3db07c6a3090907b50fc39e9870fd8b4d4721017]{
 -- Page 137, Offset 24603.
 -- 「もう、昼間だから辛いとか眠いとか、そういうの関係ないって言ってるでしょう。
-"Joe, ¿no te he dicho que la hora del día no tiene que ver con que tenga sueño o me duela algo?
+"Jo, ¿no te he dicho que la hora del día no tiene que ver con que tenga sueño o me duela algo?
 }
 [sha:b7ee44548b86ba91983edefe2926959c9f3d756c]{
 -- Page 137, Offset 24604.
@@ -217,8 +211,7 @@ Pero tiene razón. Me he extralimitado.
 [sha:89484131275619fef7acf4ee3f63810d546dd0b6]{
 -- Page 138, Offset 24607.
 -- アルクェイドは俺より何倍も頑丈なんだから、あんまり過保護に扱われるのも鬱陶しいのだろう。
-// Adaptado
-Arcueid es mucho más fuerte que yo, tiene sentido que ser sobreprotector la moleste.
+Arcueid es mucho más fuerte que yo, tiene sentido que la moleste que sea sobreprotector.
 }
 [sha:3ea7decc6bd40e62097db7e1d0ea34a662df205b]{
 -- Page 139, Offset 24608.
@@ -255,7 +248,7 @@ Si hubiera sabido que se iba a poner así nunca la habría llevado al cine...
 [sha:abd625cb9770281e7e3766513e37e9d85bea5767]{
 -- Page 141, Offset 24614. Glued. Mods: @x.
 -- わたし退屈。何かやって」
-Me aburro. Haz algo."
+ Me aburro. Haz algo."
 }
 [sha:7071dce87090431163467697c9e7c17215772712]{
 -- Page 141, Offset 24615.
@@ -265,8 +258,7 @@ Que rapidez...
 [sha:cb8a5538256b5222160f4394bde907964b449032]{
 -- Page 141, Offset 24616.
 -- “退屈だ。その方、ちと芸をせよ”ときましたか。
-// Tl oficial
-Baila, plebeyo.' Que soy, ¿un bufón?
+ 'Baila, plebeyo.' Qué soy, ¿un bufón?
 }
 [sha:4f62042e95288c63a0eded94a49bf9b6068258bf]{
 -- Page 142, Offset 24617.
@@ -338,7 +330,7 @@ Miro tras ella. Un poco más allá hay una pareja absorta en un juego de shirito
 [sha:ae3cc0bbcffa08750e1cb7679cc51b4778da41b9]{
 -- Page 146, Offset 24629.
 -- そもそもしりとりは苦手なんだ。やってると悲しくなる。それだけは何があっても却下だからな」
-Además, el shiritori no es para mi. Me pongo triste cuando lo juego. Es algo que me niego completamente a jugar."
+Además, el shiritori no es para mí. Me pongo triste cuando lo juego. Es algo que me niego completamente a jugar."
 }
 [sha:7de2ead59fc425720294f96b2dbf223b38d700f3]{
 -- Page 146, Offset 24630.
@@ -348,7 +340,7 @@ Además, el shiritori no es para mi. Me pongo triste cuando lo juego. Es algo qu
 [sha:a2b3aa4798ea91316c257db28dfade434ab6e92b]{
 -- Page 147, Offset 24631.
 -- 「弱いんじゃなくて苦手なんだよ。っていうかつまんないだろ、言葉を繋げても。
-"No soy malo, es solo que no es para mi.
+"No soy malo, es solo que no es para mí.
  Y además, es aburrido, ¿no? Todo lo que haces es encadenar palabras.
 }
 [sha:9b32945836432deafd2436ce8d551d0b0b9b9569]{
@@ -370,12 +362,11 @@ Como sea. La peli empieza en cinco minutos, podemos ir yendo. Aquí tienes tu en
 [sha:731985351fead533b7d1d25d500e99c2281ad40c]{
 -- Page 149, Offset 24635.
 -- 「知識だけならきちんと蓄えているって言わなかったかしら。わたし、映画館の事ぐらい知ってるわ」
-"¿No te dije que había hecho mis deberes? Incluso se lo que es un cine."
+"¿No te dije que había hecho mis deberes? Incluso sé lo que es un cine."
 }
 [sha:375d8f98c78ba4a9b18d86c10b4331de1e8c4d95]{
 -- Page 150, Offset 24636.
 -- アルクェイドはぷい、と顔を逸らして映画館に入っていく。
-// Tl oficial
 Arcueid se da la vuelta con un %{i}hmph%{/i} y se dirige al cine.
 }
 [sha:c8682a9ca51ff28254ccb23776a18112bba6d2c9]{
@@ -386,7 +377,7 @@ Si que me he equivocado eligiendo...
 [sha:f0429f8c5b5ada34ff85ad1991b564df19eb67b2]{
 -- Page 150, Offset 24638.
 -- お姫様を映画館に連れてきても、退屈に思われるだけだったみたいだ……。
-Aunque haya traído a esta princesa hasta aquí,
+A pesar de haber traído a la princesa hasta aquí,
  parece que no lo encuentra nada interesante...
 }
 [sha:86dbf02a67e9ecf45c1e28c670c968d297578f93]{
@@ -422,12 +413,12 @@ Este silencio es incómodo...
 [sha:fe51bc24c47fe7164c2609b666fe5ccbf8aeaf7e]{
 -- Page 152, Offset 24645.
 -- せめてアクションものとかホラーものだったら、もうちょっとはこう、アルクェイドも喜んだかもしれないのに。
-Quizá hubiera salido más contenta de una de acción o terror.
+Quizá hubiera salido más contenta de una de acción o de terror.
 }
 [sha:615e8cd915ea7d8f11b004efd0c26e0e8ab1b8a0]{
 -- Page 153, Offset 24646.
 -- 「あのさ、アルクェイド。今日のはたまたま、向いてな―――」
-"Ey, Arcueid. Sé que la que hemos visto hoy no era―――"
+"Oye, Arcueid. Sé que la que hemos visto hoy no era―――"
 }
 [sha:1b89d9380d44d7b14165f3cff736df5035c91617]{
 -- Page 154, Offset 24647.
@@ -437,8 +428,7 @@ Quizá hubiera salido más contenta de una de acción o terror.
 [sha:0600015916930ff7254a2528d8c8939b7e548101]{
 -- Page 154, Offset 24648.
 -- ―――ぜ、全アルクェイドが泣いたとでも!?
-// Muchas libertades ya que es un juego de palabras en japonés
-Espera, ¡¿Éxito rotundo?! ¡¿Diez de diez?! ¡¿ Arcueid aprueba?!
+Espera, ¡¿Éxito rotundo?! ¡¿Diez de diez?! ¡¿Arcueid aprueba?!
 }
 [sha:fe1e3bc83e211004c7666e7a0e2c04858df8204e]{
 -- Page 155, Offset 24649.
@@ -464,7 +454,7 @@ Tenía una idea sobre que esperarme,
 [sha:2c073cc6c3eac695af58a12a5522128afc91c329]{
 -- Page 157, Offset 24653.
 -- 「暗がりっていうのがいいのかな。大きい音なのにうるさくなかったし、志貴がとなりにいるのも楽しかったし。
-"Quizá estar a oscuras lo ha hecho tan especial.
+"Quizá el estar a oscuras lo ha hecho tan especial.
  El sonido estaba alto, pero solo lo justo, y sentarme a tu lado también ha sido divertido.
 }
 [sha:05cfe1b7f0827e17590cc3379879f6777558daea]{
@@ -475,7 +465,7 @@ Pero sobre todo, ¡la historia era espectacular!
 [sha:32ba013cf29b8a8cb88a2b8332d945d521bbe2ba]{
 -- Page 157, Offset 24655.
 -- よくもまあ、架空の話をあそこまで作り上げられるものだなって驚いたわ。あの情景の細かさに比べたら、わたしの創るイメージなんて子供だましみたいなものだし、ほんとに感心しちゃった」
-¡Qué historia! ¡Me sorprende a lo que puede llegar una historia ficticia! Mi imaginación no tiene comparación con el detalle en esas escenas. ¡Estoy completamente impresionada!"
+¡Menuda historia! ¡Me sorprende hasta donde puede llegar una historia ficticia! Mi imaginación no tiene comparación con el detalle en esas escenas. ¡Estoy completamente impresionada!"
 }
 [sha:c577444db7e01ccff7e0355f9374025007445451]{
 -- Page 158, Offset 24656.
@@ -505,7 +495,7 @@ Pero, en serio, ¿no es básicamente una imitación barata del Tokyo Skytree?
 [sha:de1887ddbead30770b89fab67817b1c6d932469b]{
 -- Page 160, Offset 24661.
 -- もしかしてつまんなかった？」
-¿No me digas que te has aburrido?"
+No me digas que te has aburrido."
 }
 [sha:c3aaf4aa7c4e67394f9ff3a1ea294516886aa1bb]{
 -- Page 160, Offset 24662.
@@ -547,7 +537,6 @@ Ahora mismo no hay porque no es temporada,
 [sha:74ebc7b6dcd95b612e054de7b0b79fe0ec83d0e6]{
 -- Page 164, Offset 24669.
 -- 驚いたというより、呆れた。
-// Mix de tls
 Si soy sincero, estoy tan fascinado como ella sorprendida.
 }
 [sha:daac8f5abfc8e352fba693bf2d8cbcc9fc4b98b3]{
@@ -565,29 +554,28 @@ Llevaba siendo distante desde que entramos a la película y había asumido que s
 [sha:5ebddcf1a43d2d2926cd149a654a73eabcd6e2ea]{
 -- Page 166, Offset 24672.
 -- ……なんというか。ありがとうと感謝される為じゃなく、そうなったらこいつがどんな笑顔を見せてくれるのか、純粋に気になってしまった。
-// Mix de tls
 No es que quiera mostrarla mi agradecimiento ni nada de eso.
  Más bien, me gustaría ver la sonrisa que pone tras ver una película así.
 }
 [sha:f3fa5df417a9024b85bbae4e8e5d3dd4a5fc4120]{
 -- Page 167, Offset 24673.
 -- 「そっかあ。間が悪いんだね、わたしと志貴って」
-"¿Sí? Qué mala suerte tenemos."
+"¿Sí? Que mala suerte tenemos."
 }
 [sha:1939a7e2597983e288af415e7342a4239a65a0c2]{
 -- Page 167, Offset 24674.
 -- がっかりと肩を落とすアルクェイド。
-Arcueid baja los hombros decepcionada.
+Arcueid deja caer los hombros decepcionada.
 }
 [sha:131be96387f3af7a51e7c8f594f7d818d39a809f]{
 -- Page 167, Offset 24675.
 -- 「ほんとだな。なんだかカラぶってばっかりだ」
-"¿Verdad? No dejamos de fallar.
+"¿Verdad? No dejamos de fallar."
 }
 [sha:15ac15383fe23a19dfcdd38434ac4cc853e4b15c]{
 -- Page 167, Offset 24676.
 -- 同じく肩を落とす俺。
-De la misma forma, yo también bajo los hombros.
+De la misma forma, yo también dejo caer los hombros.
 }
 [sha:9ce68b947709df386b6d7fb1b99f099ea0418a75]{
 -- Page 168, Offset 24677.
@@ -597,5 +585,5 @@ Sí... es una pena.
 [sha:25bd79f0092543fa8fbbf48b5e2354320add4376]{
 -- Page 168, Offset 24678.
 -- もうちょっとぐらいアルクェイドがはしゃぐ姿を、見ていても良かったのに。
-Me hubiera gustado ver su lado alegre un poco más tiempo.
+Me hubiera gustado ver su lado alegre un poco más.
 }

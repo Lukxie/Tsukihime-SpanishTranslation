@@ -51,7 +51,7 @@ Me las pongo en piloto automático, y miro a mi alrededor.
 [sha:2c0000873622e6aaaaa64c9e7b1b1905d63a928c]{
 -- Page 4, Offset 13932.
 -- さあ、という音が聞こえてきそうなほど、窓からの陽射しは鮮やかだ。
-El sol que atraviesa la ventana es tan vivo que casi puedo escuchar como me llama a salir.
+La luz que atraviesa la ventana es tan viva que casi puedo sintir como me invita a salir.
 }
 [sha:f4e31a48126e12343a0e703a8aea51334a7be7ae]{
 -- Page 5, Offset 13933. Mods: @n.
@@ -61,17 +61,17 @@ Respiro profundamente
 [sha:6074b61588eb85f1467133c7b9df56e2dc378d17]{
 -- Page 5, Offset 13934. Glued.
 -- とりこむ。
-y saboreo el aire fresco.
+ y saboreo el aire fresco.
 }
 [sha:6a84640f23bed1fcd526364bf70e9209de7e3870]{
 -- Page 5, Offset 13935.
 -- ……そうか。日曜日、学校は休みだ。
-Oh, cierto, es Domingo――no hay clases.
+Oh, cierto, es domingo――no hay clases.
 }
 [sha:ef6564413970bc05d0559a9bebf80b2217459a46]{
 -- Page 6, Offset 13936.
 -- 時計の針はカッチコッチと音をたてて、
-%{i}Tictac%{/i}, se escuchan las manecillas del reloj .
+%{i}Tictac%{/i}, se escuchan las manecillas del reloj.
 }
 [sha:3072881d5d4dc02049bc51af67b26fac194fae5b]{
 -- Page 6, Offset 13937.
@@ -91,7 +91,7 @@ Es una mañana como cualquier otra, pero ahora se siente excepcionalmente pura.
 [sha:3e7ea958c895c5b14a0a03c38a9adcd76c2aaab7]{
 -- Page 7, Offset 13940.
 -- 「―――良かった」
-"Gracias a dios."
+"Menos mal."
 }
 [sha:8525dfbb00303270d1412e1e4bfc970740e54dee]{
 -- Page 7, Offset 13941.
@@ -127,7 +127,7 @@ No hay mayor recompensa para una persona tan insignificante como yo―――
 [sha:921d7ad03ca3d02ca063fdb60aef17885b4a4c52]{
 -- Page 9, Offset 13947.
 -- 思わず上半身が跳ねあがる。
-Por reflejo me pongo derecho de golpe.
+Me pongo derecho de golpe por reflejo.
 }
 [sha:e7161f491b87a040ab59f316dd7750e9f127e9b4]{
 -- Page 9, Offset 13948.
@@ -137,7 +137,7 @@ Al mirar hacia arriba, veo a Hisui de pie, firme frente a la puerta.
 [sha:6ec2bd9cd5db367c89049073e0ca7fea84298bcd]{
 -- Page 10, Offset 13949.
 -- 「ひ、翡翠―――」
-"H-Hisui―――"
+"Hi-Hisui―――"
 }
 [sha:07be82f2edb2fd8a61738098c86dae8ec0cce1df]{
 -- Page 11, Offset 13950.
@@ -157,12 +157,12 @@ Parece que no estaba al tanto de mi presencia, por lo que decidí llamarle, pero
 [sha:539e3cf0129db387b00028645db64c19fb87b74e]{
 -- Page 12, Offset 13953.
 -- びっくりした。
-Me sorprendió.
+Me he llevado buen susto.
 }
 [sha:fe2f120c540fc4c6517a8676b671daccddc81e02]{
 -- Page 12, Offset 13954.
 -- 起き抜けの心臓がバクバクしている……。
-Me acabo de levantar, y ya tengo el corazón a mil...
+Acabo de levantarme, y ya tengo el corazón a mil...
 }
 [sha:e5fe1321ef27b5547273d6849a12be9deed5e4c3]{
 -- Page 13, Offset 13955.
@@ -197,7 +197,7 @@ Akiha-sama desea que explique lo que ha estado haciendo los últimos dos días, 
 [sha:5b7d8d05db2e49d0375c26a05edc662947ecd5ea]{
 -- Page 15, Offset 13961.
 -- “秋葉”“ここ二日間”“説明”。
-Akiha', 'últimos dos días'. 'explique'.
+ 'Akiha', 'últimos dos días', 'explique'.
 }
 [sha:5a5c502f60e4456c1737282f2fbffbb3c6c28a8e]{
 -- Page 15, Offset 13962.
@@ -222,12 +222,12 @@ Ausencia sin permiso oficial. Violación del toque de queda. Y para colmo, compl
 [sha:fd15df4d87827f0b3bd0467eb9f60b32cebde3af]{
 -- Page 17, Offset 13966.
 -- 夕暮れ前に帰らなかっただけでアレな秋葉である。アイツがいまどんな顔をしているのか、恐ろしくて想像もできない。
-Akiha ya da miedo cuando no vengo antes del anochecer. Me da miedo pensar la cara que está poniendo ahora mismo.
+Si Akiha ya da miedo cuando no vengo antes del anochecer. No quiero ni pensar en la cara que estará poniendo ahora mismo.
 }
 [sha:5f7adfa0bdec0a3fb3ac5fa8eef949a78d496b7e]{
 -- Page 18, Offset 13967.
 -- 「……あのさ、翡翠。
-"Ey, Hisui...
+"Oye, Hisui...
 }
 [sha:dbf5964430e1983711d998c5bec4b96fbeb2d322]{
 -- Page 18, Offset 13968.
@@ -252,7 +252,7 @@ Vale. Al parecer el tono de Hisui también es frío .
 [sha:048e200e8654731e958326c7a035f99dcf389d29]{
 -- Page 20, Offset 13972.
 -- こんな事なら這ってでも屋敷に戻っていれば―――
-Si iba a ser así, debería haber vuelto a la mansión aunque fuera gateando―――
+Si hubiera sabido que iba a acabar así, habría vuelto a la mansión aunque fuera gateando―――
 }
 [sha:224eaf11e8a6f666c672726cffd8fa000947367b]{
 -- Page 20, Offset 13973.
@@ -277,14 +277,14 @@ Antes de eso, ¿por qué estaba dormido en mi habitación...?"
 [sha:9d82c4252d01c68f021332113c62abbc02143877]{
 -- Page 21, Offset 13977.
 -- 玄関口で眠っていたのを姉さんが気づいて、お部屋にお連れした、とのことです」
-Me dijeron que Nee-san le descubrió durmiendo en la puerta de la entrada, y te llevó a tu habitación."
+Me dijeron que Nee-san le descubrió durmiendo en la puerta de la entrada, y le llevó a su habitación."
 }
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 22, Offset 13978.
 -- 「――――――――」
 "――――――――"
 }
-[sha:8f8b03c93fefdaf3a61e9f14423ff03db35d0069]{
+[offset:13979]{
 -- Page 22, Offset 13979.
 -- ……開いた口が塞がらない。
 Mi boca se abre de par en par.
@@ -297,8 +297,8 @@ Venir tarde de noche tras no dar señales de vida. Quedarme dormido en la entrad
 [sha:19360c6608b33fd22dadd0e096e09ee9b96c1ce7]{
 -- Page 23, Offset 13981.
 -- 「あいつ、人を猫かなにかと一緒にしやがって……」
-"En qué está pensando,
- tratando a la gente como si fueran un gato..."
+"Qué se cree,
+ tratando a la gente como si fuera un gato o algo así..."
 }
 [sha:1fc3e63266e036727e8f4049a2a033dda2821488]{
 -- Page 23, Offset 13982.
@@ -318,7 +318,7 @@ En cualquier caso, ahora entiendo la situación.
 [sha:a27e7c8c90b762022e79a85741cf9c8badd94fb5]{
 -- Page 24, Offset 13985.
 -- 「すぐに行くから、秋葉には、その……できるだけ落ち着くように言っておいてくれると、嬉しいんだけど……」
-"Me dirigiré abajo de inmediato, así que si pudieras, bueno... pedirle a Akiha que se calme lo más amablemente posible, lo apreciaría mucho..."
+"Me dirigiré abajo de inmediato, así que si pudieras, bueno... pedirle a Akiha que se calme lo más amablemente posible, lo apreciaría mucho..." 
 }
 [sha:d0241d94c2fa3416966c8323d6f4a565cf0017ea]{
 -- Page 25, Offset 13986.
@@ -333,8 +333,8 @@ Hisui responde firmemente.
 [sha:0cd3f5ccebe31d7916f087afdc5301d2908f208a]{
 -- Page 26, Offset 13988.
 -- 現在の遠野邸において遠野志貴の身分は最下層に転落したと見て間違いはない。
-// Quizá demasiado coloquial
-Está claro que en este momento en la mansión Tohno soy la última mierda.
+//Quizá demasiado coloquial
+Está claro que en este momento, en la mansión Tohno estoy al nivel del betún.
 }
 [sha:ed1f4f01b7add8a7190b238d6dd8e55a9207cc1b]{
 -- Page 26, Offset 13989.
@@ -359,7 +359,7 @@ No tiene sentido quedarme en la cama para siempre.
 [sha:6a3b2fd162648bd0928c82a9c58df4d4167830d3]{
 -- Page 28, Offset 13993.
 -- い―――たい。
-Ay...
+Au...
 }
 [sha:3f4196c8b14deff50db2240386f424ad51332ba7]{
 -- Page 28, Offset 13994.
@@ -369,13 +369,13 @@ En cuanto me levanto, un dolor desgarrador recorre mis piernas.
 [sha:c7c4d69b99d4e96525ed9bf7762c87e5e7476414]{
 -- Page 29, Offset 13995.
 -- ……そうか。何に驚くべきかと言ったら、俺は自分が生きている事を驚くべきだった。
-Así son las cosas...
- Si me preguntasen que me sorprende, diría que es el hecho de que siga vivo.
+Con que así están las cosas...
+ Si me preguntasen que me sorprende, diría el hecho de que siga vivo.
 }
 [sha:506e102ee879cf2b8572dc95f1f0af4051aee2d2]{
 -- Page 29, Offset 13996.
 -- あれだけの無茶をしておいて、こうして朝を迎えられる事自体が不自然だというのに。
-Tras hacer todas esas locuras, por supuesto que se siente antinatural el levantarse una mañana como esta.
+Tras hacer todas esas locuras, por supuesto que se siente antinatural el levantarse una mañana como esta. 
 }
 [sha:e899830468d9fcb498154e139a0e1b45e069493c]{
 -- Page 30, Offset 13997.
@@ -448,10 +448,10 @@ Lo siento, pero ahora mismo no tengo más opción que recurrir a esta obvia excu
 -- すぐに済ませるから、廊下で待っていてくれ」
 No tardaré mucho, así que espérame en el pasillo."
 }
-[sha:68dd3a89ec85af657d9eb01735d997df77ebcd21]{
+[offset:14011]{
 -- Page 36, Offset 14011.
 -- 「……かしこまりました。
-"Entendido.
+"Como desee.
 }
 [sha:ca9969240f99c42fc7ef6e24c92383fd954ffb87]{
 -- Page 36, Offset 14012.

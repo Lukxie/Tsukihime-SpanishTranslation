@@ -1,4 +1,4 @@
-[sha:aae437e53ec0f6bcbe703a56219f31691218593a]{
+[offset:7501]{
 -- Page 10027, Offset 7501.
 -- 「…………よし」
 "Vale..."
@@ -36,7 +36,7 @@ No dejes la habitación hasta que vuelva."
 [sha:3f188077f6c5e22324d72b81778c27c42f7e3a4f]{
 -- Page 724, Offset 7508.
 -- 何か言いたげなアルクェイドの視線を振りきって、廊下へ出た。
-Parece que Arcueid quiere decir algo, pero ignoró su mirada y me dirijo al pasillo.
+Parece que Arcueid quiere decir algo, pero ignoro su mirada y me dirijo al pasillo.
 }
 [sha:604b0e4ab81d9b25807df2e0095d520cf26b6ae8]{
 -- Page 725, Offset 7509.
@@ -52,8 +52,8 @@ Lo único que sigue encendido es el ascensor al final del pasillo.
 [sha:fdc77549170accf84115e45ccc2cb96fbb28bcac]{
 -- Page 725, Offset 7511.
 -- 部屋にいた時より喉が痛む。俺を包む空気はやすりのようにざらついて、熱かった。
-Me duele la garganta aún más que cuando estaba en la habitación.
- El aire a mi alrededor es cálido, y áspero como el papel de lija.
+Me duele aún más la garganta que cuando estaba en la habitación.
+ El aire a mi alrededor es cálido y áspero, como el papel de lija.
 }
 [sha:ba0c765493d224979cfa812d7f498b2f14564552]{
 -- Page 726, Offset 7512.
@@ -83,12 +83,12 @@ No hay ■■■■ calcinandose.
 [sha:53cc1a33e6da594d0adfea515416c97af77e1cac]{
 -- Page 726, Offset 7517.
 -- それは。モニターで見た光景は嘘だったと思いたくなる程の、張り詰めた無音空間。
-El lugar está tan tenso y callado que casi quiero creer que la escena que vi en el monitor no era real.
+El lugar está tan tenso y callado que casi quiero creer que la escena que ví en el monitor no era real.
 }
 [sha:3eb6e6be9767bf6897ac497d7e5e431a191059a3]{
 -- Page 727, Offset 7518.
 -- 「…………異常は、ないよな」
-"Aquí no hay nada fuera de lugar... ¿verdad?"
+"No hay nada fuera de lugar... ¿verdad?"
 }
 [sha:9c1a969d5ea61e482d82182e996ec296136b1153]{
 -- Page 727, Offset 7519.
@@ -123,7 +123,7 @@ Es costumbre que se aplaste a la chusma que perturba el ambiente de un lugar.
 [sha:948c93e828fa4f46e7fe2035f635ba4cd1fa32c4]{
 -- Page 728, Offset 7525.
 -- もう一度、落ち着くために深呼吸をする。
-Respiro profundamente de nuevo para calmarme.
+De nuevo, respiro profundamente para calmarme.
 }
 [sha:1383c77491056ad8589bcfe8f533db262c5ce8a7]{
 -- Page 728, Offset 7526.
@@ -154,12 +154,12 @@ Es como si los nervios de mis ojos estuvieran intentando llegar al cerebro.
 [sha:f1f79987554f08d677c381e7f9ecbb860c65e9b3]{
 -- Page 729, Offset 7531.
 -- 脳が眼球を呑み込もうとしているのか。
-¿O mi cerebro intenta absorber mis ojos?
+¿O el cerebro intenta engullir mis ojos?
 }
 [sha:066e4b87e313d416ed984fcd613a9b934e1c0b3d]{
 -- Page 729, Offset 7532.
 -- 鈍重な痛みをかみ殺しながら、猛暑の<路|みち>を歩いて行く。
-Aguanto el ligero dolor, continúo caminando por el camino abrasador.
+Aguanto el ligero dolor y continúo caminando por el camino abrasador.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 730, Offset 7533.
@@ -291,10 +291,10 @@ No, es más como―――
 -- 濃密すぎて、もう<斑|まだら>の壁に見えるほど。
 Un montón de líneas juntas que parecen una pared con puntos.
 }
-[sha:64fc865c8f1cad6e504f92a4f1a2fe9bd9e65f04]{
+[offset:7559]{
 -- Page 736, Offset 7559.
 -- 扉が開く。
-La puerta se abre.
+Se abre la puerta.
 }
 [sha:9c598ab165f5f439b79e34ce2ef308b6865be888]{
 -- Page 736, Offset 7560.
@@ -344,7 +344,7 @@ Montones de carne roja compactados con firmeza.
 [sha:523775242c753b588cd2b95124521bee76a17a01]{
 -- Page 739, Offset 7569.
 -- その中で、ガツガツと<貪|むさぼ>り食う二匹の犬。
-Y en medio de todo dos perros, engullendo vorazmente la carne.
+Y en medio de todo, dos perros, engullendo vorazmente la carne.
 }
 [sha:d450d906b38840ca909c150607d0ab929bc8d76f]{
 -- Page 740, Offset 7570.
@@ -379,7 +379,7 @@ Mi mente se niega a aceptar la realidad de esta escena.
 [sha:43368dc57000a2ef0df5d9d0773b1d08e0fd207b]{
 -- Page 741, Offset 7576.
 -- 廊下の先、エレベーターの中では犬たちが人の体をあさっている。
-Al final del pasillo, dentro del ascensor, los perros revuelven cuerpos humanos.
+Al final del pasillo, dentro del ascensor, los perros revuelven los cuerpos humanos.
 }
 [sha:5917ca72d289c871b0d209973a76ba123cc4ca84]{
 -- Page 741, Offset 7577.
@@ -404,7 +404,7 @@ El sonido de rasgado de la carne siendo masticada.
 [sha:eaec33f583723d18cd2f31a7050151542e8048e7]{
 -- Page 742, Offset 7581.
 -- たすけてといった悲鳴とか、もう人語でさえない人間の断末魔の声とかだったりした。
-Los gritos pidiendo ayuda, los sonidos de la muerte y la agonía que siquiera parecen lenguaje humano.
+Los gritos pidiendo ayuda, los sonidos de la muerte y la agonía que siquiera parecen lenguaje humano. 
 }
 [sha:b35790f897dbe44b8dd1f6a1fe135d4081dea360]{
 -- Page 743, Offset 7582.
@@ -429,21 +429,21 @@ Imágenes de gente siendo comida viva.
 [sha:8a9c9d2b00cb1cada9f4a3d8d2316ca15dae37bc]{
 -- Page 744, Offset 7586.
 -- 異常な気温に気づいた男がいた。外に出ようと扉を開けた瞬間、満ちていた劫火に包まれて絶命した。
-Hay un hombre que se dió cuenta de la temperatura inusual.
- En el momento que abrió la puerta para huir, fue tragado por el incendio y murió,
+Hubo un hombre que se dió cuenta de la temperatura inusual.
+ En el momento que abrió la puerta para huir, fue tragado por el incendio y murió.
 }
 [sha:4ea5f41d6d0d7d2eef85cf0bbf8cc902635f8def]{
 -- Page 744, Offset 7587.
 -- 部屋に閉じこもって泣き崩れる少女がいた。ロビーからあがってきた炎はフロアを埋め尽くし、少女はバスタブの中で、蒸し魚のように体の中から灰になった。
-Había una chica que se había encerrado en su habitación, sentado en el baño, y llorado.
- Las llamas que provenían del vestíbulo habían cubierto el suelo, y su cuerpo se convirtió en ceniza de dentro a fuera, como un pez al vapor.
+Hubo una chica que se encerró en su habitación, sentado en el baño, y llorado.
+ Las llamas que provenían del vestíbulo cubrieron el suelo, y su cuerpo se convirtió en ceniza de dentro a fuera, como un pez al vapor.
 }
 [sha:58be8734c1722b105e50227d9f8a09ba6aae77aa]{
 -- Page 744, Offset 7588.
 -- 我先にとエレベーターに駆け寄った大人たちがいた。エレベーターの中には何十という<先|・><客|・>がいた。既ににんげんではなくなっていた先客たちは、やってきた大人たちを思う存分に平らげた。
-Había adultos que salieron disparados al ascensor tan rápido como pudieron.
+Hubo adultos que salieron disparados al ascensor tan rápido como pudieron.
  Pero el ascensor estaba lleno de %{i}antiguos huéspedes%{/i}.
- Estos huéspedes, que ya no eran humanos, se abalanzaron vorazmente sobre los adultos que acababan de llegar.
+ Estos huéspedes, que ya no eran humanos, se abalanzaron vorazmente sobre ellos.
 }
 [sha:7301e1d5e369116ffde1e927c0f2585171ad0cff]{
 -- Page 745, Offset 7589.
@@ -494,7 +494,7 @@ Porque si lo hiciera――me volvería uno con el mar de rojo.
 [sha:6119045b4b4278360cf7330d24aee9ba95e8c50d]{
 -- Page 747, Offset 7598.
 -- 止まっていた呼吸を再開させる。
-Fuerzo mi respiración para que prosiga.
+Fuerzo a que mi respiración prosiga.
 }
 [sha:a8ec6e3e72a6f278c51d06817181d4defaedcaed]{
 -- Page 747, Offset 7599.
@@ -539,7 +539,7 @@ En este coto de caza, soy la presa final.
 [sha:be2b33d8dde9142efccd6627d1121aaad1f7a076]{
 -- Page 751, Offset 7607.
 -- 黒犬が向かってくる。
-Los perros lanzan contra mí.
+Los perros se lanzan contra mí.
 }
 [sha:ea3b095ea58805e006136078233f26ef16c9729c]{
 -- Page 751, Offset 7608.
@@ -630,12 +630,12 @@ Fue hace mucho tiempo. O quizá hace siete años.
 [sha:988ef56f7e49f07ff86036a1e5c5deb74f33eeac]{
 -- Page 756, Offset 7625.
 -- オレは、これよりもっと鮮烈な惨状を、<目|ま>の当たりにしていた筈で――――
-Estoy seguro entonces ví una escena mucho más horripilante que esta―――
+En aquel entonces estoy seguro de haber sido testigo una escena mucho más horripilante que esta―――
 }
 [sha:52e72d5612666e7a83cdce29f89f38019994c896]{
 -- Page 757, Offset 7626.
 -- ざく。
-// inventadísimo
+//inventadísimo
 %{i}Chaf%{/i}.
 }
 [sha:f43e6851368fb69f9c8af1dbdbc77fb6f3eb7fb6]{
@@ -667,7 +667,7 @@ Porque ahí es donde estaba la 'línea' del primer perro.
 -- Page 759, Offset 7632.
 -- 通常、動物は脳が破損したところで、その運動は即座に停止はしない。
 En circunstancias normales,
- un animal no pararía de moverse en el instante que su cerebro sea destruido.
+ un animal no pararía de moverse en el instante que su cerebro fuera destruido.
 }
 [sha:5ee4e90ecdaf7c840372256fd8f07cbd6046de60]{
 -- Page 759, Offset 7633.
@@ -677,7 +677,6 @@ Los músculos que ya han recibido señales del cerebro ejecutarán dicho comando
 [sha:196b22345cb4949d9d6882dda46f39a63a652114]{
 -- Page 760, Offset 7634.
 -- なので、ここで頭を多少裂いたところで黒犬の牙は俺の首を噛み切るだろう。
-// Revisar
 Osea que incluso si más o menos le desgarro la cabeza, los colmillos del perro aún me arrancarían el pescuezo.
 }
 [sha:b34fb0febf81556bdc67c448b93b559178763656]{
@@ -693,7 +692,7 @@ Sin embargo, el perro está 'muerto'.
 [sha:6215738bc9766780793428535a9f6160f2e1984b]{
 -- Page 761, Offset 7637.
 -- 死は停止だ。こいつは俺に殺された時点で、あらゆる効力を失った。
-Morir es ser detenido. En el momento que estaba a punto de matarme, perdió toda validez.
+Morir es ser detenido. En el momento que lo maté, perdió toda validez.
 }
 [sha:c64a742781a256d114ffc9455cc1e187814af2dc]{
 -- Page 762, Offset 7638.
@@ -767,7 +766,7 @@ Y aún es capaz de apretar con sus mandíbulas.
 -- ナイフを持った手と腕の間、軟骨という柔らかいジョイント部分が、そのまま噛み千切られようとする。
 A este paso, el cartílago――
 el tejido blando que conecta la mano agarrando el cuchillo con mi brazo――
-será mordido por la mitad.
+será mordido a la mitad.
 }
 [sha:7d9992f61cb6eba6638d89f51565994a33f5bd2e]{
 -- Page 766, Offset 7652.
@@ -777,7 +776,7 @@ El dolor me devuelve a la realidad.
 [sha:5ed4d5a041f9bdfdc2d0f76e429707baa41ba314]{
 -- Page 767, Offset 7653.
 -- 「あ、あ―――！」
-"%{i}Ah, ah%{/i}―――!"
+"¡%{i}Ah, ah%{/i}―――!"
 }
 [sha:e3050cd99970c75e618f4b1d43ceace7b944a19a]{
 -- Page 767, Offset 7654.
@@ -812,17 +811,17 @@ Los colmillos del perro no presentan ningún indicio de ir a soltarse.
 [sha:9f350a4655b3e87954844ce430daa87e305fb62b]{
 -- Page 769, Offset 7660.
 -- いや、そんなコトより――――黒犬は、頭を貫かれていながら、エネルギーに満ち満ちていた。
-No solo eso――incluso tras haberlo ensartado a través de la cabeza, el perro sigue lleno de energías.
+No solo eso――incluso tras haberlo ensartado a través de la cabeza, el perro sigue lleno de energías. 
 }
 [sha:0580b2dfa6e8102b0b448f3fc504540e363aa854]{
 -- Page 770, Offset 7661.
 -- 黒犬は体をゆらして強引に俺の上にのしかかってくる。
-El perro agita su cuerpo si se posiciona forzosamente sobre mí.
+El perro agita su cuerpo y se posiciona forzosamente sobre mí.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:7662]{
 -- Page 771, Offset 7662.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:1170dba77d68b073430f733595a79030556bd815]{
 -- Page 771, Offset 7663.
@@ -842,7 +841,7 @@ Incluso tras haber atravesado al perro con el cuchillo, continúa apretando sus 
 [sha:b6ba7632eb0f7ff1b9e3ed866c69eb7190358d57]{
 -- Page 772, Offset 7666.
 -- 「ひ、ぎ……！」
-"%{i}Hee, gh%{/i}!"
+"¡%{i}Hee, gh%{/i}!"
 }
 [sha:7dc00cf17195ce73e44961e834560e17c417e8cd]{
 -- Page 772, Offset 7667.
@@ -914,7 +913,7 @@ No tengo elección.
 [sha:e43f6d88c7c7e74ed58818ee700f33cc8f09292b]{
 -- Page 775, Offset 7680. Glued. Mods: @x.
 -- 俺は生き延びたいだけだ。生き延びたいならやる事は一つだけだ。
-Solo quiero sobrevivir.
+ Solo quiero sobrevivir.
  Y si quiero sobrevivir, solo hay una cosa que pueda hacer.
 }
 [sha:cf37c62849ba1b2ab41b3eda5cb9da7c17c319bd]{
@@ -930,17 +929,17 @@ Realmente, todo lo que tengo que hacer――es matar esta cosa.
 [sha:13cb780ebab280a26444e2d3679f1629b15dd7a1]{
 -- Page 776, Offset 7683.
 -- ではどうする？
-¿Así que qué debería hacer?
+Entonces, ¿qué debería hacer?
 }
 [sha:efa30582cad27e31c35e0f2f0fbb405306ddf9c7]{
 -- Page 776, Offset 7684.
 -- 片腕はあと数秒で食い千切られる。
-Me arrancarán uno de mis brazos en cuestión de segundos.
+En cuestión de segundos me arrancarán uno de mis brazos.
 }
 [sha:6b78e12e8f760822a8765a4ed099f4f1a169df59]{
 -- Page 776, Offset 7685.
 -- ナイフはその腕が握ってる。
-Mi cuchillo está empuñado por el mismo brazo.
+El mismo brazo empuña mi cuchillo.
 }
 [sha:6b59735af1f3ed110f5fbcbd16cad1583f980030]{
 -- Page 776, Offset 7686.
@@ -951,9 +950,9 @@ Me están empujando hacia abajo.
 -- Page 776, Offset 7687.
 -- このまま腕を引きぬけたとしても、次の瞬間には自由になった黒犬がこっちの首を噛み砕く。
 Incluso si consigo sacar el brazo,
- el perro negro me morderá el cuello en el momento que se libere.
+ en el momento que se libere, el perro negro me morderá el cuello.
 }
-[sha:d4fa0c6d4f990342d751a0c1bbdc24447960163d]{
+[offset:7688]{
 -- Page 777, Offset 7688.
 -- 「―――、は」
 "―――%{i}Je%{/i}."
@@ -961,7 +960,7 @@ Incluso si consigo sacar el brazo,
 [sha:0b3a8caded3a213ab94ad54207ec312c06783988]{
 -- Page 777, Offset 7689.
 -- その絶望的な状況で、<諧謔|かいぎゃく>の笑みが浮かんだ。
-Se me escapa una risa, en medio de esta situación desesperada.
+En medio de esta situación desesperada, se me escapa una risa.
 }
 [sha:49169951e47af7a68b7076c306e3a843acb73479]{
 -- Page 777, Offset 7690.
@@ -977,7 +976,7 @@ Esas son las enseñanzas que te han llevado tan lejos, ¿verdad?
 [sha:8ba3042e59fd2ad9b260c7c027da138f80882c74]{
 -- Page 778, Offset 7692.
 -- ほら。例えば、犬の頭のうしろには十分すぎるほど『線』が見えている。
-Mira. Incluso hay unas cuantas 'líneas' ahí en la parte trasera de la cabeza del perro.
+Mira. Incluso hay unas cuantas 'líneas', ahí, en la parte trasera de la cabeza del perro.
 }
 [sha:49b980bba659afc9c3b6bffd6d6fecf5b5035964]{
 -- Page 778, Offset 7693.
@@ -987,7 +986,7 @@ Mira. Incluso hay unas cuantas 'líneas' ahí en la parte trasera de la cabeza d
 [sha:fa08b1044900b8268cd279df0730b708430394f2]{
 -- Page 779, Offset 7694.
 -- 「ぐっ――――！」
-"%{i}Ghh%{/i}―――!"
+"¡%{i}Ghh%{/i}―――!"
 }
 [sha:9ff810b63287e8f24e5c95ff3bf49f5d491bfd7e]{
 -- Page 779, Offset 7695.
@@ -1007,7 +1006,7 @@ Pero aún así, justo a mi lado――extremadamente cerca――hay otro ser vivo
 [sha:4b0fecc37b6de9a66faed71434071452dad4a388]{
 -- Page 780, Offset 7698.
 -- 「は、ぐ―――！」
-"%{i}Haaaargh, gh, ghhh%{/i}―――!"
+"¡%{i}Haaaargh, gh, ghhh%{/i}―――!"
 }
 [sha:91e4d53acaccc1f73f1bdf645760317490a8285b]{
 -- Page 780, Offset 7699.
@@ -1047,7 +1046,7 @@ Se desliza desde la frente a mis ojos.
 [sha:356b267639b43671c19c8c5962569156723ef182]{
 -- Page 781, Offset 7706.
 -- 眼球の奥に、朱色の闇が、染みこんでくる。
-Un oscuro bermellón se infiltra en la parte trasera de mis ojos.
+El oscuro bermellón se infiltra en la parte trasera de mis globos oculares.
 }
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 782, Offset 7707.
@@ -1057,7 +1056,7 @@ Un oscuro bermellón se infiltra en la parte trasera de mis ojos.
 [sha:4416a4bbdd5909f7522247b81175761dcc6ca464]{
 -- Page 782, Offset 7708.
 -- 視界を焦がすような朱色。
-Un bermellón que abrasa mi visión
+Un bermellón que abrasa mi visión.
 }
 [sha:15f930a7c2b226fe27dbc4205f2e78936dfafd16]{
 -- Page 782, Offset 7709.
@@ -1072,7 +1071,7 @@ Me siento mareado y aturdido.
 [sha:e4936f54434ac1d50db14f62d8c532df4654688c]{
 -- Page 783, Offset 7711.
 -- “……それでも俺は、
-Aún así, yo...
+ 'Aún así, yo...
 }
 [sha:35169bba6fb7846257dbd7b28165b005e4cc2d1f]{
 -- Page 783, Offset 7712.
@@ -1082,17 +1081,17 @@ No puedo matar algo que está vivo'
 [sha:8e6622b3534a1bc35368fdc96404bfafbeeb1ac2]{
 -- Page 783, Offset 7713.
 -- ―――なんて偽善。
-―――Que hipócrita.
+―――Qué hipócrita.
 }
 [sha:2a5b07032a3a193ad49746c6308c0fdbf3230ab4]{
 -- Page 783, Offset 7714.
 -- そういうおまえは、そんな犬畜生なんぞよりよっぽど大きな動物を殺している。
 Ya has matado a un animal mucho más grande que esa humilde bestia.
 }
-[sha:07a952ee73f73210c7ae0c0cf23d9ef19f4d4ac7]{
+[offset:7715]{
 -- Page 784, Offset 7715.
 -- ……ああ、そうだった。
-Ah...cierto.
+Sí... tienes razón.
 }
 [sha:9ef730234a851539af5e7c22faac2533b26365fa]{
 -- Page 784, Offset 7716.
@@ -1102,7 +1101,7 @@ Pero esa vez era distinto.
 [sha:cef8d6ab22e571e5a59dc8637a4665225360cdf1]{
 -- Page 784, Offset 7717.
 -- アルクェイドの時の遠野志貴は正気じゃなかった。
-Tohno Shiki no estaba en sus cabales cuando mató a Arcueid.
+Cuando mató a Arcueid, Tohno Shiki no estaba en sus cabales.
 }
 [sha:f2bfa7765babe183b75ad73ab3afdafeb2d3205b]{
 -- Page 784, Offset 7718.
@@ -1124,7 +1123,7 @@ Pero esta vez, la decisión la tomo yo.
 -- この力は、他の誰でもない、己の意思で行使しろと。
 Que este poder solo te pertenece a ti. Y que tu decides lo que haces con esos ojos.
 }
-[sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
+[offset:7722]{
 -- Page 786, Offset 7722.
 -- だから。
 Es por eso que―――
@@ -1132,7 +1131,7 @@ Es por eso que―――
 [sha:d427481d077eed08bf31f4e9786355062fce63ff]{
 -- Page 786, Offset 7723.
 -- 自分が自分としてあるかぎり、マトモな人間でいるかぎり、俺は決して、命を粗末にしてはいけない筈だ。
-Mientras siga siendo quien soy, mientras siga siendo un ser humano decente, debo respetar la vida y no tratarla a la ligera.
+Mientras siga siendo quién soy, mientras siga siendo un ser humano decente, debo respetar la vida y no tratarla a la ligera.
 }
 [sha:224b66cc36c5e07199657a5f61ac9a7a230bdc26]{
 -- Page 787, Offset 7724.
@@ -1142,7 +1141,7 @@ Mientras siga siendo quien soy, mientras siga siendo un ser humano decente, debo
 [sha:7150551f692fff662427324c50cd6fa1eb02f807]{
 -- Page 787, Offset 7725.
 -- なぜなら、おまえはとうのむかしに。
-Porque hace mucho tiempo, tu ya―――
+Porque tú, hace mucho tiempo, ya―――
 }
 [sha:2e36113b43f672e7f862e270d514940fa3ab020d]{
 -- Page 788, Offset 7726.
@@ -1167,17 +1166,17 @@ Era un cálido día de verano...
 [sha:d0fd2c844d9245047f9d3cbf7e5031187ce2c2bc]{
 -- Page 791, Offset 7730.
 -- ―――殺さなければ殺されるのだし。
-―――Si no lo hubieras matado, te habría matado el.
+―――Si no lo hubieras matado, él te habría matado a ti.
 }
 [sha:ecfb1e81d2557d5d1238fef3bb475d6a6c27ec72]{
 -- Page 792, Offset 7731.
 -- ……目の前には、血にまみれた少年の影。
-Frente a mí la figura de un chico cubierta de sangre...
+Frente a mí, la figura de un chico cubierta de sangre...
 }
 [sha:ddadc138353052ed99b4cc3734d22defd2798159]{
 -- Page 793, Offset 7732.
 -- ―――おまえは、すでに
-―――Tu ya
+―――Tú ya
 }
 [sha:c7287ecd1a84a00a8b68d95b37a8b7f7e65a8232]{
 -- Page 794, Offset 7733.
@@ -1192,7 +1191,7 @@ Habías matado a alguien antes, ¿no?
 [sha:c2799c524bf4d4b4c6220a31389c74abf88e0834]{
 -- Page 796, Offset 7735.
 -- 「ああああああああああ！」
-"%{i}AAAAAAAAAAHH%{/i}!"
+"¡%{i}AAAAAAAAAAHH%{/i}!"
 }
 [sha:a3199cdd0966ea02c744454ff099b42a797575a6]{
 -- Page 796, Offset 7736.
@@ -1213,14 +1212,14 @@ Un llanto de dolor hace eco en mis tímpanos.
 -- Page 797, Offset 7739.
 -- 黒犬の悶絶は、甲高い女の叫びに似ていた。口の中に腕をつっこまれて、まともに哭けないくせに泣いている。
 El llanto de agonía del perro es como el grito agudo de una mujer,
- no puede aullar de verdad porque mi brazo está pillado en su boca, pero aulla igualmente.
+ no puede aullar de verdad porque mi brazo está atrapado en su boca, pero igualmente aulla.
 }
 [sha:33f970993af7fab2ae49ecd982caa1328742785d]{
 -- Page 798, Offset 7740.
 -- きっとそれぐらい痛いんだろう。
 Apuesto a que debe doler mucho.
 }
-[sha:10ded20c50d604ad45e86df0809c87281cea763e]{
+[offset:7741]{
 -- Page 798, Offset 7741.
 -- かまわない。
 Pero no me importa.
@@ -1238,7 +1237,7 @@ El cuchillo emerge de la parte trasera de la cabeza del perro.
 [sha:70e0049db50108582758a0cc3f4b2c0d637b0228]{
 -- Page 799, Offset 7744.
 -- 頭蓋を割り、皮をたやすく切断し、
-Divide su calavera y corta fácilmente a través de la piel.
+Divide su cráneo y corta fácilmente a través de la piel.
 }
 [sha:440455953b68c5797fe6f867ffe6fcbd4efbe149]{
 -- Page 799, Offset 7745.
@@ -1283,5 +1282,5 @@ Como si me importara.
 [sha:629e68dd28ffaf7a9758d71a55bc12e230a96038]{
 -- Page 800, Offset 7753. Glued.
 -- 俺は簡潔に、その『線』通り黒犬を解体した。
-Simplemente lo descuartizo a lo largo de su 'línea'.
+ Simplemente lo descuartizo a lo largo de su 'línea'.
 }

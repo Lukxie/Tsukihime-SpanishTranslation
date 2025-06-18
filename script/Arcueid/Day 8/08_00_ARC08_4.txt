@@ -6,8 +6,8 @@ Me encuentro con Arihiko tras acabar de comer.
 [sha:ae4e296307341a32611114a7e0fb399756b60d30]{
 -- Page 10014, Offset 20245.
 -- 午前中はいなかったので、単に昼食を食べにきたと見える。
-No dió señales en toda la mañana,
- así que parece que solo vino a la escuela a comer.
+No dió señales de vida en toda la mañana,
+ así que parece que solo ha venido a la escuela a comer.
 }
 [sha:fc5ce1e11261bb090531a963f13714ea861e17fa]{
 -- Page 232, Offset 20246.
@@ -49,7 +49,7 @@ Me alegro que se haya ido a casa sin liarla.
 -- Page 234, Offset 20253.
 -- 「そうか、悪かった。ちょっと一悶着あって疲れててさ、つい本音を隠しきれなかった。次から気をつけるよ」
 "Sí, sí, lo siento.
- Estoy un poco cansado tras una trifulca antes, así que no pude ocultar mis sentimientos.
+ Estoy un poco cansado tras una trifulca de antes, así que no pude ocultar mis sentimientos.
  Tendré más cuidado la próxima."
 }
 [sha:61381bf9ee51c2be40a40ca9b918738f63053daa]{
@@ -83,7 +83,6 @@ Parece que ahora que ha comido va a darse el piro.
 [sha:255d19051cbe9d6ed4a83510e02d8b9e36a17ea0]{
 -- Page 236, Offset 20259.
 -- いそいそと教室を後にする有彦。
-// Tl oficial
 Arihiko se dirige a la puerta con una sonrisa.
 }
 [sha:2b4ea5f170dddaa2b902679c31e3853326cf4d09]{
@@ -94,7 +93,7 @@ Pero antes de irse―――
 [sha:c01df2beb3172fd7aab8df6a2f9b331679790571]{
 -- Page 237, Offset 20261.
 -- 「なあ。北口駅前が物騒だって前に言ってたけど、それ以外にヤバめな所って言えばどこだ？」
-"Ey. Dijiste que el norte de la estación era peligroso, ¿pero algún otro sitio como ese?"
+"Ey. Dijiste que el norte de la estación era peligroso, ¿pero hay algún otro sitio como ese?"
 }
 [sha:63f7d9149af669fbb937f931567a31457242b19b]{
 -- Page 237, Offset 20262.
@@ -109,7 +108,7 @@ Le lanzo una pregunta por impulso.
 [sha:88cfc862302769db5dfcde1eb25dd404e0307d0c]{
 -- Page 238, Offset 20264. Glued. Mods: @x.
 -- 北口デパート並みにヤバめなスポットなんてそうそうねえぞ。……しいていうならアレか。<櫛塚|くしづか>の廃病院じゃねえか？　二年前まで<珍走団|ヤンキーども>の集会場になってたものの、今じゃ誰もよりつかなくなったっていう」
-No hay muchos sitios tan sospechosos como el centro comercial al norte de la estación...
+ No hay muchos sitios tan sospechosos como el centro comercial al norte de la estación...
  Si tuviera que decir, ¿supongo que hay uno?
  El hospital abandonado en Kushizuka podría contar, supongo.
  Una banda de moteros lo usaba como base hace dos años,
@@ -119,7 +118,7 @@ No hay muchos sitios tan sospechosos como el centro comercial al norte de la est
 -- Page 239, Offset 20265.
 -- 「櫛塚って二駅となりのか？　でも、廃墟が物騒なのは当然というか、普通、誰もよりつかないだろ」
 "Kushizuka es la ciudad a dos paradas, ¿verdad?
- Todo sabe que los edificios abandonados son peligrosos,
+ Todo el mundo sabe que los edificios abandonados son peligrosos,
  así que es de sentido común no acercarse a ellos."
 }
 [sha:7c8b14270671ee09865e33b30cad2f72538294f6]{
@@ -151,13 +150,11 @@ Lanzaron al aire varias opciones,
 [sha:93d3c2b759d1bb10c30413ed0040692e0be610ee]{
 -- Page 242, Offset 20270.
 -- 放課後の部活動は禁止されている。
-// Tl oficial
 Las actividades tras la escuela se han cancelado.
 }
 [sha:16661c14e5886fdd781989a77268db85289ff56c]{
 -- Page 242, Offset 20271.
 -- 生徒はみな速やかに下校していく。
-// Tl oficial
 Y todos los estudiantes salen antes.
 }
 [sha:ed7d2de3a3e0ed5fc0ee0598d09ffb217121f54b]{

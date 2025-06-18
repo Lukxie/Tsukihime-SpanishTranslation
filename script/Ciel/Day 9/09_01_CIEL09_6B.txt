@@ -201,12 +201,12 @@
 [sha:0819415b8baa31d472380275168d825499a8ea42]{
 -- Page 625, Offset 23743. Glued. Mods: @x, @k, @e.
 -- ―――
-――
+-- TRANSLATION HERE
 }
 [sha:ff5bf3d85c7f86dd4e36c746539ce6c8039e36fb]{
 -- Page 625, Offset 23744. Glued. Mods: @x.
 -- きゃっ!?」
-¡¿%{i}Kya%{/i}?!"
+-- TRANSLATION HERE
 }
 [sha:911ec7ed119a6d1c9d14b51bfd5b8e94467c0237]{
 -- Page 626, Offset 23745.
@@ -461,7 +461,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 641, Offset 23795.
 -- 「！」
-"¡%{i}Agh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:9b187c2b506b2da031259e96b6799973ae00ce4f]{
 -- Page 642, Offset 23796.

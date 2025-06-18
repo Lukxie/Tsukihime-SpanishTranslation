@@ -1,7 +1,7 @@
-[sha:33e04eebd2591bbb4d3fef62fb2d955fb9930d89]{
+[offset:32499]{
 -- Page 10005, Offset 32499.
 -- 「……なんだ、これ」
-"¿Qúe narices...?"
+"¿Qué narices ha pasado aquí...?"
 }
 [sha:aaf54a765570b42ae865be7d61424cb247b69270]{
 -- Page 10005, Offset 32500.
@@ -14,10 +14,10 @@ El interior de la escuela está destrozado y cubierto de arañazos.
 Como si un pequeño tifón hubiera pasado por los pasillos,
  empezando por abajo y abriéndose paso hasta arriba.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:32502]{
 -- Page 301, Offset 32502.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:ba341954b32c5a12a8735d1bda0899bee2a2dc18]{
 -- Page 301, Offset 32503.
@@ -149,7 +149,7 @@ Dos figuras, manteniendo la distancia.
 [sha:5deb74fdef7d40333af72742d6d176a87cb82466]{
 -- Page 311, Offset 32527.
 -- 渡り廊下の奥、向こう側の校舎の手前には、余裕ありげに佇むロア。
-En un lado del paso está Roa, alardeando de un aire de seguridad.
+En un lado del paso está Roa, alardeando con un aire de seguridad.
 }
 [sha:83170bc994d0244ade23bbe50f102524f2a7cb31]{
 -- Page 312, Offset 32528.
@@ -190,7 +190,7 @@ Ahora solo es la sombra de la preciosa flor que vi aquella noche en el hotel―�
 [sha:f2447c56106aaa2816b2f84c89163c64354d0605]{
 -- Page 315, Offset 32535.
 -- 「アルクェイド――――！」
-"¡Arcueid―――!"
+-- TRANSLATION HERE
 }
 [sha:7d5d1d7a430f340e9b0f247d5ae9a48e2f13bf30]{
 -- Page 315, Offset 32536.
@@ -266,7 +266,7 @@ Su sonrisa no se dirige a mí, sino a la figura arrodillada de Arcueid.
 [sha:0e15066f9dec4baf392320e6b405a833d36b1d8e]{
 -- Page 320, Offset 32550.
 -- なんで、アルクェイドがそんなモノを俺に向ける。
-¿Por qué Arcueid usa algo así contra mi?
+¿Por qué Arcueid usa algo así contra mí?
 }
 [sha:d9d1d0f2a7a0a2411ec9e16ec1dbd7de2b64bd5f]{
 -- Page 320, Offset 32551.
@@ -413,7 +413,7 @@ La voz de Arcueid suena por todo el paso.
 -- 「一時的な物理現象の書き換え。自然現象、空間に在る熱量の自由操作。真祖が持つ、星の触覚としての当然の権利。
 "La habilidad de reescribir temporalmente la realidad.
  De manipular los fenómenos naturales y la entalpía a tu placer.
- El derecho de nacimiento de un Verdadero Ancestro como conciencia del planeta.
+ El derecho de nacimiento de un Verdadero Ancestro como consciencia del planeta.
 }
 [sha:9d0396a14b12571e967015ba119155f68d54d5fc]{
 -- Page 330, Offset 32578.
@@ -443,7 +443,7 @@ Porque los monos que una vez fuimos han evolucionado hasta poseer prosperidad, c
 -- だがこれでは足りない。加えて、今の私はおまえより優れている。私にあって、おまえには無いものがあるからだ」
 Pero eso ya no es suficiente para detenerme.
  Y además, te he superado.
- Verás, tengo algo de lo que tu careces."
+ Verás, tengo algo de lo que tú careces."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 333, Offset 32583.
@@ -469,14 +469,14 @@ Da un aire de extremo peligro,
 [sha:a307c8f4899094d595c55a5538988178795a1362]{
 -- Page 334, Offset 32587.
 -- 私は<そ|・><れ|・>を知っているが、おまえは知らない。
-Yo comprendo ese sentimiento, mientras que tu no.
+Yo comprendo ese sentimiento, mientras que tú no.
 }
 [sha:aa508fec924a48f5641f36ca82196226d9d5ba38]{
 -- Page 334, Offset 32588.
 -- それが私たちの決定的な差だ。生きているかぎり生物は死を体験し得ない。それを知り得るのは、転生者たるこの私だけの特権だ」
 Es la diferencia crucial que nos separa.
  Es imposible que una criatura viviente haya experimentado la muerte.
- Es un conocimiento exclusivamente reservado para mi, el Reencarnador."
+ Es un conocimiento exclusivamente reservado para mí, el Reencarnador."
 }
 [sha:2923f4068ecb4c65b47cd6d4bde0e51b3adef78d]{
 -- Page 335, Offset 32589.
@@ -531,7 +531,7 @@ Mientras tu evitabas la muerte, yo la he aceptado.
 [sha:9620e82f694963479e026e5caf48f8ba13654591]{
 -- Page 337, Offset 32598.
 -- それがアルクェイド・ブリュンスタッドと、ミハイル・ロア・バルダムヨォンの質の違いだ。
-%{i}Eso%{/i} es lo que diferencia a Michael Roa Valdamjong de Arcueid Brunestud.
+%{i}Eso%{/i} es lo que diferencia a Arcueid Brunestud de Michael Roa Valdamjong.
 }
 [sha:e254839fca793d5d5ed8a5362c61953dca1208f3]{
 -- Page 337, Offset 32599.
@@ -572,7 +572,6 @@ Una ola de energía tan potente que ni la muerte puede traspasar.
 [sha:38c66ac6a9f8e6baddbbd1ffebc753651be40418]{
 -- Page 339, Offset 32606.
 -- 身をもって千年の代償を受けるがいい。
-// Rarete.
 Sufrirás en tus carnes lo que te debía por el último milenio.
 }
 [sha:769e0e8258559105ac262d2c97578b166a939bcc]{
@@ -595,7 +594,7 @@ Sus labios torciéndose hacia arriba,
 [sha:3f895ed4ef41a98f2808561be211cff17d246725]{
 -- Page 340, Offset 32610.
 -- ロアの視線はようやく俺に向けられた。
-Roa postra su mirada en mi.
+Roa postra su mirada en mí.
 }
 [sha:0b71fcf0f72bcd0b287fad35f3cdabb44cdfd8b3]{
 -- Page 340, Offset 32611.
@@ -606,7 +605,6 @@ Ha dicho que saborearía mi muerte.
 [sha:fed239ac4221949b210508e73dc508786161f80f]{
 -- Page 341, Offset 32612.
 -- 「……つまらない。口上はそれで終わりか、下郎」
-// Hm lacayo igual?
 "%{g}Qué insípido. ¿Has acabado ya, lacayo?%{/g}"
 }
 [sha:94d2e9848339c6724a8a6c56feadec339a7da740]{
@@ -622,8 +620,8 @@ Los alrededores de Arcueid se transforman.
 [sha:8536cd82327d954b6616634c5841d9cd42dd4132]{
 -- Page 342, Offset 32615.
 -- 星の大気。星の記憶に刻まれた<原|あ><子|り><構|か><造|た>を、彼女が懐かしむように。
-Es como si sus deseos hubieran alterado los mismos cimientos del planeta,
- reordenando los átomos que la constituyen, su atmósfera.
+Es como si sus deseos hubieran alterado los mismos cimientos del planeta, 
+ reordenando los átomos que lo constituyen, su atmósfera.
 }
 [sha:f0c8fc1acc40be96db98a33b11bb496e71deaf0e]{
 -- Page 343, Offset 32616.
@@ -633,17 +631,11 @@ Es como si sus deseos hubieran alterado los mismos cimientos del planeta,
 [sha:37f7bf406f708727ef17bff514e84089e5f5beb8]{
 -- Page 343, Offset 32617.
 -- でも、それでいいと。
-// Tl oficial
-// Joder con el dia 13 xd
-// esto es bastante liberal.
-%{i}Pero eso no importa%{/i}
+%{i}Pero eso no importa%{/i}.
 }
 [sha:e1f7a9627734edbcb4fb0567ea1648afa8501a0e]{
 -- Page 343, Offset 32618.
 -- それは後悔のないものだったと、あいつは、噛みしめるように息を呑んで、
-// Tl oficial
-// Joder con el dia 13 xd
-// esto es bastante liberal.
 %{i}No es algo merecedor de mi remordimiento%{/i}. Respira profundamente, como si quisiera devorar el aire.
 }
 [sha:a1274e0dede2a156dd3b6acd862c677078179bcb]{
@@ -665,7 +657,7 @@ Reemplazado por un paisaje desconocido.
 -- Page 344, Offset 32622.
 -- その外側、彼女の宇宙の外にいる俺ですら、見えない圧力で全身が締め付けられる。
 Incluso desde fuera del universo que ha creado,
- puedo sentir la presión invisible ciñéndose sobre mi.
+ puedo sentir la presión invisible ciñéndose sobre mí.
 }
 [sha:a30a561a948b4484ccab4be7bd1de5cb9ff0217c]{
 -- Page 344, Offset 32623.
@@ -676,12 +668,11 @@ No puedo ni empezar a imaginarme el 'miedo' que Roa debe sentir,
 [sha:62f65daa5f73f259028e84e1a5406ad25df772b2]{
 -- Page 345, Offset 32624.
 -- 「魔術基盤が―――エーテルが―――存在しない……!?
-"No hay――fundación para hechicería――¡¿ni Éter?!
+"No hay――bases para hechicería――¡¿ni Éter?!
 }
 [sha:f4a10084478c1150c2b25cc94b09fc6bd7616100]{
 -- Page 345, Offset 32625.
 -- 待て、これでは魔術が成立しない、魔力枯渇どころではない、秩序そのものが未完成だ！　これでは、まさに―――！」
-// Revisar por loremasters
 Espera un momento, ¡en estas condiciones no se puede ejercer hechicería!
  No es solo que no haya energía mágica, ¡el orden en sí está incompleto!
  ¡Casi como si―――!"
@@ -722,7 +713,7 @@ Sus últimos vestigios,
 -- Page 347, Offset 32632.
 -- それが分かっているのに、俺は声すらあげられない。
 Y a pesar de saberlo,
- no soy incapaz de llamarla.
+ soy incapaz de llamarla.
 }
 [sha:b75427233e82bc193680a8b2614edb19f8400e6d]{
 -- Page 348, Offset 32633.
@@ -743,9 +734,8 @@ Estaba en lo cierto――¡mi teoría era correcta!"
 [sha:cf486d997ff5099968cde6ffaf741ee469c80fd7]{
 -- Page 349, Offset 32636.
 -- 絶望に苦しみながら、歓喜の声をあげる吸血鬼。
-// Its 8 de la mañana y no he dormido nada
-Aun siendo aplastado por la desesperación,
- el vampiro ruge en extasis.
+Aún siendo aplastado por la desesperación,
+ el vampiro ruge en éxtasis.
 }
 [sha:d17ad8aa1aa84e4753a440b54f32e62d835a68db]{
 -- Page 349, Offset 32637.
@@ -859,12 +849,12 @@ Arcueid sigue de rodillas, ya incapaz de siquiera levantar la cabeza.
 [sha:025b25b518165b9c03e5ead6cd54099e6e634653]{
 -- Page 357, Offset 32658.
 -- あなたの<航|た><海|び>は、八百年前から無意味だった。
-"%{g}Tu travesía por la vida ha carecido de sentido desde aquel día hace 800 años.%{/g}
+%{g}Tu travesía por la vida ha carecido de sentido desde aquel día hace 800 años.%{/g}
 }
 [sha:77ec969ddd78167ca59e14affe7d41f1d8edddaf]{
 -- Page 357, Offset 32659.
 -- 何故なら、私にとって肉体の死など通過儀礼にすぎず、
-%{g}¿Por qué? Porque para mi, la muerte de la carne es más que un mero rito de iniciación.%{/g}
+%{g}¿Por qué? Porque para mí, la muerte de la carne es más que un mero rito de iniciación.%{/g}
 }
 [sha:7dd6e3c478779dbadaa9212835d883f9e69e3aac]{
 -- Page 357, Offset 32660.
@@ -946,7 +936,7 @@ Es irónico, pero no fui yo el que descubrió cómo usar este poder.
 [sha:f9330338f680171bf44fe2f47d9c07a1642c1756]{
 -- Page 363, Offset 32674.
 -- サンプルとして教授してくれたのは彼でね。なに、コツさえ掴めばどうという事はない。幾たび死を見てきた私にとって、モノの死を読む事はそう難しくはない事だ」
-Fue %{i}el%{/i} quién me enseñó como utilizarlo.
+Fue %{i}él%{/i} quién me enseñó como utilizarlo.
  Por supuesto, una vez lo entiendes no es gran cosa.
  Al ser alguien que ha visto la muerte incontables veces, leer la muerte no me resulta difícil."
 }
@@ -958,7 +948,7 @@ Con voz triunfante Roa aparta el cuerpo de Arcueid de una patada.
 [sha:51aa2fb3cf4dc619f58329e1bf78092e2a4117a3]{
 -- Page 364, Offset 32676.
 -- ざざ、とこちらに向かって弾き飛ばされる。
-La manda volando hacia mi.
+La manda volando hacia mí.
 }
 [sha:9e36f17e2755dd352f4e3e0cc86b2b1760bd791b]{
 -- Page 365, Offset 32677.
@@ -1008,7 +998,7 @@ El miedo hace que me ponga las gafas por reflejo.
 [sha:99d8b16017de6602d74eb222fe3b845a71009029]{
 -- Page 367, Offset 32686.
 -- 目の前にはまだロアがいる。
-Roa sigue frente a mi.
+Roa sigue frente a mí.
 }
 [sha:3f629f640484f0db7e8acfbf895b68ed854f8c73]{
 -- Page 367, Offset 32687.
@@ -1058,7 +1048,7 @@ Y aún así, su sonrisa es encantadora.
 [sha:34d4164f3c1d28fd75c8b6056c9fdf78f5757512]{
 -- Page 370, Offset 32696.
 -- どうして―――どうして、こんな―――」
-Por qué――por qué has―――!
+Por qué――por qué has―――"
 }
 [sha:0db6dd89254a5a874776da1d8a2525b99c6eab16]{
 -- Page 371, Offset 32697.
@@ -1068,7 +1058,7 @@ Se me corta la voz.
 [sha:b10a3f11a1db99ef64cafc48b2d6d89884434a7c]{
 -- Page 371, Offset 32698.
 -- もっと、もっといい言葉を言ってやりたいのに、頭がどうかしてしまっている。
-Quisiera decir algo más, algo mejor, pero mi mente está hecha un lío.
+Quiero decir algo más, algo mejor, pero mi mente está hecha un lío.
 }
 [sha:06b7b7a47c84e203585854915a195d283223c09d]{
 -- Page 372, Offset 32699.
@@ -1083,7 +1073,6 @@ La tengo en brazos pero, el calor que siento es tan tenue.
 [sha:34a8e6bf4f607c654912bc543a7f71a536994554]{
 -- Page 372, Offset 32701.
 -- もし眼鏡をつけていなければ―――もっと絶望的なモノが、視えてしまったに違いない。
-// Rigido.
 Si no me hubiera puesto las gafas, ahora mismo estaría viendo algo que me habría hecho desesperar aún más.
 }
 [sha:a3ae62444cb0c921acb7adbc67e21a47d46c28ae]{
@@ -1149,7 +1138,6 @@ Sí. Esto no puede ser verdad.
 [sha:ae567835192cc25cbf41853db0e22d4a4d8e9ecb]{
 -- Page 376, Offset 32714.
 -- 俺たちは仲間だろ、協力するって―――最後まで助けてやるって、ちゃんと言ったのに……！」
-// Hmm cambio un poco el significado para que no haya tanta rigidez
 Somos compañeros, ¿no?
  Dije que te ayudaría――¡que estaría contigo hasta el final!"
 }
@@ -1281,7 +1269,7 @@ Creo que voy a perder la cabeza.
 [sha:6dfa020a2a7925e8437237c82766303cfbdc43ad]{
 -- Page 383, Offset 32740.
 -- そんな嘘さえ、俺は、うまく言えない。
-Ni siquiera he podido mentirla bien.
+Ni siquiera la he podido mentir bien.
 }
 [sha:fbda456571de7c19e8f56371fe1886536e3e7e6c]{
 -- Page 384, Offset 32741.
@@ -1333,10 +1321,10 @@ Sin pensarlo dos veces, grito mi deseo.
 -- 「…………」
 "......"
 }
-[sha:7ef6dc156f74976249afea1d52ca7a5bb0c79955]{
+[offset:32751]{
 -- Page 386, Offset 32751.
 -- アルクェイドは答えない。
-Arcueid no responde.
+Arcueid no dice nada.
 }
 [sha:a6f71711381251cbfb8a786a5d559d3d525b2a12]{
 -- Page 386, Offset 32752.
@@ -1396,10 +1384,10 @@ Negando con la cabeza, sus ojos teñidos de tristeza.
 -- 拒絶の台詞。
 Palabras que rechazan.
 }
-[sha:6d45ff7c26bf5a6a107816c8edb2b31d3cae79ba]{
+[offset:32763]{
 -- Page 389, Offset 32763. Mods: @n.
 -- それは―――
-Eso es―――
+Palabras――
 }
 [sha:2e4213a81e4503b4204ef5517e810dd27fcff827]{
 -- Page 389, Offset 32764. Glued.
@@ -1420,7 +1408,7 @@ Me dijo que la gustaban los y-sis.
 [sha:deb358eda581e48306cd0f275e5d78d68f1fb5e1]{
 -- Page 390, Offset 32767.
 -- 「そ―――そう、か？　おれ、俺は好きだぞ。
-"De――¿de veras? Pero... pero a mi me gustan.
+"De――¿de veras? Pero... pero a mí me gustan.
 }
 [sha:9341248019dcabf979f7a885af270dabdbbda9f2]{
 -- Page 390, Offset 32768.
@@ -1598,12 +1586,12 @@ Quería que fuera feliz...
 [sha:ac5a13ad65fde94fb2fc877766bba74aa137baae]{
 -- Page 399, Offset 32802.
 -- 色々なことを教えてやりたかったのに。
-Quería enseñarla todo tipo de cosas.
+Quería enseñarle todo tipo de cosas.
 }
 [sha:f45a0a344aba3f49e5661230684db5518b94371c]{
 -- Page 399, Offset 32803.
 -- 色々な場所に連れまわしたかったのに。
-Quería enseñarla todo tipo de sitios.
+Quería enseñarle todo tipo de sitios.
 }
 [sha:1bac719f09dba2cbb3f81e7b344d2375b54ed6e2]{
 -- Page 399, Offset 32804.
@@ -1620,10 +1608,10 @@ Pero ahora, nada de eso se cumplirá.
 -- 「―――――――――」
 "―――――――――"
 }
-[sha:832b5615ca82cc650889d81bbb05b927927f1c7e]{
+[offset:32807]{
 -- Page 400, Offset 32807.
 -- やられた。
-Estoy acabado.
+Se acabó.
 }
 [sha:7323ea8265e31d99d930c75d90a7be4e4a94a5f8]{
 -- Page 400, Offset 32808.

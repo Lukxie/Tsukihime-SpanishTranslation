@@ -3,36 +3,36 @@
 -- 「なあ秋葉。
 "Ey, Akiha.
 }
-[sha:e7220c7fe8ad5be510fc7477d04b0169653a8631]{
+[offset:4047]{
 -- Page 10004, Offset 4047.
 -- 昨日の夜のことだけど、ここって毎晩ああなのか？」
-Sobre anoche, ¿aquí es siempre así?"
+En cuanto a anoche, ¿por aquí es siempre así?"
 }
 [sha:e6e955327da69388f21bcdeba70c42ff320dcfaa]{
 -- Page 10004, Offset 4048.
 -- 「―――はい？」
 "―――¿Perdona?"
 }
-[sha:2ca3ca68fb23eb1d6de60ac564ba2f9f34a50ec2]{
+[offset:4049]{
 -- Page 10004, Offset 4049.
 -- 「だから、昨日の夜の話だよ。
-"Como he dicho, estoy hablando de la noche anterior.
+"Como decía, me refiero a anoche.
 }
-[sha:12d46645e80619e1cdbd4a154235a233e6538fdc]{
+[offset:4050]{
 -- Page 10004, Offset 4050.
 -- アレじゃ秋葉たちだって眠れなかっただろ？」
-El resto y tu tampoco podiais dormir, ¿verdad?"
+Vosotros tampoco podíais dormir, ¿verdad?"
 }
 [sha:0fa5db02408775619348175f74480b150f50821d]{
 -- Page 10004, Offset 4051.
 -- 「昨夜はきちんと熟睡できましたけど……なんの話でしょう？」
 "Yo he dormido bien... ¿a qué te refieres?"
 }
-[sha:5c94794c7817d26193a928fb8a8beed9d311f58f]{
+[offset:4052]{
 -- Page 10004, Offset 4052.
 -- 「なんの話かって、犬の話に決まってるだろ。
 "¿Como que a qué me refiero?
- Estoy hablando del perro, ¿de que más podría ser?
+ Estoy hablando del perro, ¿que más podría ser?
 }
 [sha:2711f8b4659bf48da68d0458ffb486e70f7f581c]{
 -- Page 10004, Offset 4053.
@@ -52,7 +52,7 @@ No me lo puedo creer, actúan como si fuera una especie de sonámbulo.
 [sha:3e8ef8da0806aaf0241a738d7958e3fe20ee01c7]{
 -- Page 71, Offset 4138.
 -- 「いい、秋葉には聞かない。
-"Bien, no os preguntaré.
+"Vale, no te voy a preguntar.
 }
 [sha:783e55fa3ccaf147a995ba29e48b5f92fcdb01c0]{
 -- Page 71, Offset 4139.
@@ -67,27 +67,27 @@ Kohaku-san, anoche había mucho ruido fuera, ¿no?"
 [sha:64993931d9a3f896762714939550d544a1e6c028]{
 -- Page 72, Offset 4141.
 -- たしかに昨夜は風が強かったとは思いますけど……深夜の見まわりで発見した異常は、志貴さんが制服のままベッドの上で眠っていらした事ぐらいですよ」
-Es cierto que anoche hacía mucho viento, pero lo único fuera de lo común que encontramos durante nuestra patrulla nocturna fue a ti dormido en uniforme encima de tu cama."
+Es cierto que anoche hubo mucho viento, pero durante nuestra patrulla nocturna lo único fuera de lo común que encontramos fue a ti dormido encima de tu cama con el uniforme."
 }
 [sha:082fae21a29553e1ab1f7494c777a0f20a2ec700]{
 -- Page 72, Offset 4142.
 -- 「……ああ、ソレですか。これからは、その、気をつけます」
-"Ah, si, sobre eso. Tendré más cuidado a partir de ahora."
+"Ah, sí, en cuanto a eso. Tendré más cuidado a partir de ahora."
 }
 [sha:ac80e5c6553e247cadbfe5f6ceb8204978f680c0]{
 -- Page 73, Offset 4143.
 -- 「なに？　なにかあったの、琥珀？」
-"¿Qué? ¿Pasó algo, Kohaku?"
+"¿Qué? ¿Ha pasado algo, Kohaku?"
 }
 [sha:3c68c1d1d57a71d29644ce7682531835d5a7fad9]{
 -- Page 73, Offset 4144.
 -- 「いえ、別になにもありませんでしたよー。
-"Oh, no, nada importante.
+"Ah, no, nada importante.
 }
 [sha:39a0fafa60d6535032967185fcc8fa0bad907804]{
 -- Page 73, Offset 4145.
 -- ちょっと志貴さんの寝相が悪かった、というだけですから」
-Shiki-san solo dió vueltas en la cama, nada más."
+Tan solo Shiki-san dando vueltas en la cama, nada más."
 }
 [sha:d4c2a5708a18fe7128c923b926edaf5023548d3b]{
 -- Page 74, Offset 4146.
@@ -97,7 +97,7 @@ Con una sonrisa en su rostro, Kohaku-san esquiva la pregunta de Akiha.
 [sha:422d16fc7d74d8b93e09863d5bec2886ab692a98]{
 -- Page 75, Offset 4147.
 -- 「……ホントに二人とも気がつかなかったのか？
-"¿Ninguna de vosotras noto nada?
+"¿Ninguna de vosotras notó nada?
 }
 [sha:afee3a001e5522a22f5f70b2b7f0dc76a41dbb85]{
 -- Page 75, Offset 4148.
@@ -108,13 +108,13 @@ Anoche algún perro callejero estuvo ladrando casi media hora.
 [sha:d0f7c84843e6ce16fc9cbe0dbec871d04e0b18e6]{
 -- Page 76, Offset 4149.
 -- 「ははあ。それはワンワンパニックですねぇ」
-// Juego de la NES, como se nota que a Kohaku le molan los juegos xd
+//Juego de la NES, como se nota que a Kohaku le molan los juegos xd
 "Ajá, te refieres como los que salen en %{i}Chubby Cherub%{/i}, ¿verdad?"
 }
 [sha:c5e80fe7b10cadb4d76507a3ab5656a254d8d908]{
 -- Page 76, Offset 4150.
 -- 信じてくれているのかいないのか、いまいち読み取れない反応だった。
-Por su reacción no se si me cree o no.
+Por su reacción no sé si me cree o no.
 }
 [sha:0e71fc1854f453e846baaac5f9b4fa4339038178]{
 -- Page 77, Offset 4151.
@@ -134,14 +134,14 @@ Tu tampoco, ¿verdad, Kohaku?"
 [sha:713de8e9a1b3fcde7defdc272518a8ce6be811ff]{
 -- Page 78, Offset 4154.
 -- 「そうですねー。志貴さんには申し訳ないのですが、そのような事はなかったと思います」
-"Supongo que no... lo siento, Shiki-san, pero creo que nada de eso pasó."
+"Supongo que no... lo siento, Shiki-san, pero no creo que pasara nada de eso."
 }
 [sha:76e735406850ffe54f63a34a57f8613dbf61b729]{
 -- Page 79, Offset 4155.
 -- 「決まりね。あと考えられるケースといったら、兄さんは犬に吠えられる夢でも見ていた、というところかしら？」
-"Eso lo confirma, entonces. ¿No crees que también es posible que Nii-san estuviera soñando simplemente que un perro le ladraba?"
+"Eso lo confirma entonces. ¿No crees que también es posible que Nii-san tan solo estuviera soñando que un perro le ladraba?"
 }
-[sha:c5fd4e6209d5031524fbe742f3ed33a0410956ac]{
+[offset:4156]{
 -- Page 79, Offset 4156.
 -- 「…………う、ぐ」
 "%{i}Ugh%{/i}..."
@@ -165,7 +165,7 @@ Estoy bastante seguro que no había nadie en la calle.
 [sha:4d8cdc3aa3048e0629a92ee46208fb4ec8b63d4d]{
 -- Page 81, Offset 4160.
 -- 夢だったのではと言われると、ますますそんな気がしてくる。
-Estoy empezando a creer que lo que dicen es cierto. Quizá realmente %{i}fue%{/i} un sueño.
+Estoy empezando a creer que lo que dicen es cierto. Quizá %{i}fuera%{/i} un sueño de verdad.
 }
 [sha:771833c9624ecf7125a650e552773cda911b8da6]{
 -- Page 82, Offset 4161.
@@ -175,7 +175,7 @@ Estoy empezando a creer que lo que dicen es cierto. Quizá realmente %{i}fue%{/i
 [sha:74846ae0910ec70c8d0221e156c93309f9d98c82]{
 -- Page 82, Offset 4162.
 -- そうですね、今夜も野犬に吠えられるようでしたら、とびっきり獰猛な番犬でも飼う事にしましょうか」
-Bueno, si los perros callejeros siguen ladrando esta noche, quizá deberíamos conseguir un propio perro guardián."
+Bueno, si los perros callejeros siguen ladrando esta noche, quizá deberíamos hacernos con un perro guardián."
 }
 [sha:50d65155426d1bec7aa056b5e3b59b65072a6efd]{
 -- Page 82, Offset 4163.

@@ -6,7 +6,7 @@ Me pregunto si alguien ha dejado la ventana abierta...
 [sha:d4ab7057e7ee9aeed1128316932011cf7ff12a7d]{
 -- Page 1, Offset 24260.
 -- 外から小鳥の鳴き声が聞こえてきている。
-Puedo escuchar el canto de los pajaritos de fuera.
+Puedo escuchar el canto de los pajaritos viniendo de fuera.
 }
 [sha:c7557d3a0a6bdfa33534cbf808d8a79bbbc38867]{
 -- Page 2, Offset 24261.
@@ -31,8 +31,8 @@ Recibido por una mañana pacífica―――
 [sha:6cbbd7b766f75ada376a8dfb0bfea9c54ddc9de8]{
 -- Page 2, Offset 24265.
 -- 無意識のうちに枕元の眼鏡を手に取る。
-Mis manos en piloto automático,
- cojo las gafas de la mesilla de noche y me las pongo.
+Mis manos se mueven en piloto automático,
+ tomo las gafas de la mesilla de noche, y me las pongo.
 }
 [sha:d1c6b7f916227480889a3df9d70443103f26547f]{
 -- Page 3, Offset 24266.
@@ -47,7 +47,7 @@ Parece que me quedé dormido justo tras hablar con Akiha.
 [sha:a7047679aebd01ad70684c0cb8e939482678589b]{
 -- Page 3, Offset 24268.
 -- 体のふしぶしが微かに重いけれど、それでも昨夜よりは回復している。
-Mis articulaciones aún se sienten un poco pesadas, pero me siento mucho mejor que anoche.
+Mis articulaciones aún se sienten un poco pesadas, pero me encuentro mucho mejor que anoche.
 }
 [sha:d2811f2b615163177c3b261b1e2a360d641ee4af]{
 -- Page 4, Offset 24269.
@@ -69,15 +69,15 @@ Abro los ojos, y empiezo mi mañana.
 -- 「あ。やっと起きたな、こいつめ」
 "Ah. Al fin te despiertas, pequeño granuja."
 }
-[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+[offset:24273]{
 -- Page 5, Offset 24273.
 -- しかし。
-En vez, esto es lo que me toca.
+Sin embargo...
 }
 [sha:c320f1703fe2d1c25afc32ef3e14c53a96b676a0]{
 -- Page 5, Offset 24274.
 -- 目を開けると、そこにはアルクェイドの顔があった。
-Cuando abro los ojos, veo la cara de Arcueid justo frente a mi.
+Cuando abro los ojos, lo primero que veo es la cara de Arcueid.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 6, Offset 24275.
@@ -92,7 +92,7 @@ Todo pensamiento abandona mi cabeza.
 [sha:bc196e99dfd03b131a1d1f51c80d79a4876fd8e6]{
 -- Page 6, Offset 24277.
 -- 脳が豆腐になったかのような真っ白さ。
-Mi mente tan en blanco que creo que mi cerebro se ha vuelto tofu.
+Me he quedado tan en blanco que creo que mi cerebro se ha vuelto tofu.
 }
 [sha:932c1ea514240741390bb70b22bbde61b4fe0fc5]{
 -- Page 6, Offset 24278.
@@ -107,7 +107,7 @@ En serio, no tengo ni idea de lo que está pasando.
 [sha:e1fc9b43d19291b4f2dcefebe1444431686eba29]{
 -- Page 7, Offset 24280.
 -- 目前にはアルクェイドがいて、
-Todo lo que sé es que Arcueid está frente a mi,
+Todo lo que sé es que Arcueid está frente a mí,
 }
 [sha:f030e7f8ce457b40de699a150bab0f856cea3c55]{
 -- Page 7, Offset 24281.
@@ -127,7 +127,7 @@ y que para colmo, ni siquiera se ha quitado las botas antes de subirse a mi cama
 [sha:c5ba20a8f781dc57e37458cfca651e1e0232003e]{
 -- Page 8, Offset 24284.
 -- 「お、お、お、ま、え」
-"T-T-Tu..."
+"T-T-Tú..."
 }
 [sha:4af1471bfd3e9ce3f6da7f48a20e482514fd959b]{
 -- Page 8, Offset 24285.
@@ -199,7 +199,7 @@ La grito mientras intento bajar la voz todo lo posible.
 [sha:b75b2fbb32cb2fb217b17205547bbe9a4b1f80ef]{
 -- Page 13, Offset 24298.
 -- ここで大声を出して翡翠が部屋にやってきたら、それこそ終わりだ。
-Si levanto la voz y Hisui entra a la habitación, se acabó todo para mi.
+Si levanto la voz y Hisui entra a la habitación, será mi fin.
 }
 [sha:35347cecab4fe72573165bc2b062715a41b1fab9]{
 -- Page 13, Offset 24299.
@@ -214,13 +214,13 @@ Aunque no entienda la situación del todo, al menos, puedo deducir eso.
 [sha:e8f222a00a7f18f390d0fa687f6a5fbbc07e0d63]{
 -- Page 14, Offset 24301.
 -- 人の部屋に勝手にあがって眠ってる隙に馬乗りとか、人権無視にも程があるっ！　<侵略者|インベーダー>か、おまえは！」
-¡Invadir una habitación ajena y subirte horcajadas en dicha persona mientras duerme es una violación de derechos humanos!
+¡Invadir una habitación ajena y montarte en dicha persona mientras duerme es una violación de derechos humanos!
  ¡¿Qué eres, una ladrona?!"
 }
 [sha:9dd4a1bfe9f6506cc7de8d4a7ffc073f0107a5a7]{
 -- Page 15, Offset 24302.
 -- 「なによ、その態度。わたしがこんなところにやってきたのは、志貴が約束を破ったからでしょ。
-"¿De qué vas? La única razón por la que estoy aquí es porque %{i}tú%{/i} rompiste %{i}tu%{/i} promesa.
+"¿De qué vas? La única razón por la que estoy aquí es porque %{i}tú%{/i} rompiste %{i}tu%{/i} promesa. 
 }
 [sha:8636506e61a97ce9b587252888fb651a82420a46]{
 -- Page 15, Offset 24303.
@@ -322,7 +322,7 @@ Me dije que no iba a quedarme de brazos cruzados.
 -- 自分でも冷静になろうって思うんだけど、思えば思うほど頭にきちゃって、どんどん熱があがっていくの。
 Intenté calmarme,
  pero cuanto más lo pensaba, más molesta estaba,
- y cada vez me ardía más y más.
+ y el enfado solo iba en aumento.
 }
 [sha:dbc5df3b7cfdf86a4bb0f0115ecc78136816f39d]{
 -- Page 21, Offset 24321.
@@ -330,13 +330,14 @@ Intenté calmarme,
 ¿Entiendes lo que es estar sumida en un pantano de quejas sin fondo?
  Del tipo que hace que te hundas cuanto más te quieres quejar.
  Me aterrorizaba pensar en lo que me podía convertir."
+ 
 }
 [sha:123f5b51a22022746926dc642f2d3df350b515f7]{
 -- Page 22, Offset 24322.
 -- 今でもそういう気分なのか、アルクェイドの赤い瞳は俺への不満・抗議・怒り・文句に満ちていた。
 Me pregunto si aún se siente así,
  porque sus ojos rojos rebosan de una mezcla de indignación, frustración y furia――
-todo ello dirigido directamente a mi.
+todo ello dirigido directamente a mí.
 }
 [sha:23f631ce6942a3eac6ff62e88353595ce74a33f4]{
 -- Page 22, Offset 24323.
@@ -352,7 +353,7 @@ Asintiendo para distraerla,
 [sha:3da29fc4782840a0ef709c2e97e168fe96ca72a4]{
 -- Page 23, Offset 24325.
 -- 「でしょ？　それで、もう我慢できなくなって忍びこんだんだけど、志貴が眠ってるから待ってあげる事にしたのよ。言い訳ぐらいは聞いてみたかったから。
-"¿Verdad? Y no pude aguantarme más y me colé,
+"¿Verdad? Entonces no pude aguantarme más y me colé,
  pero estabas dormido así que decidí esperar a que te levantases.
  Quería escuchar lo que tenías que decir.
 }
@@ -400,8 +401,8 @@ No sé cómo me veo cuando duermo,
 [sha:82a726e050cd484a374a7c91c231f8ba16c88643]{
 -- Page 26, Offset 24333.
 -- そうしていたらね、あれだけ湧き上がっていた気持ちも収まって、その後に志貴が目を覚ましたの」
-Me di cuenta que hacerlo era lo único que podía calmarme.
- Y cuando me calmé te levantaste."
+Al hacerlo, me di cuenta que era lo único que podía calmarme.
+ Y para cuando ya me había calmado, te levantaste."
 }
 [sha:42e7865426b6de70b28572127c23f80011828a0f]{
 -- Page 27, Offset 24334.
@@ -428,7 +429,7 @@ Arcueid se ríe despreocupadamente.
 [sha:4640fd80566e8a32e31423298d0eaa5f79c37ee6]{
 -- Page 29, Offset 24338.
 -- 「待て、追い返したってなにを―――」
-"Un momento, que quieres decir con echarla―――"
+"Un momento, qué quieres decir con echarla―――"
 }
 [sha:16625b2201d096806963cec5d9b733fdbcd14e5a]{
 -- Page 29, Offset 24339.
@@ -502,8 +503,7 @@ No estoy seguro de a dónde a ido su descontento,
 [sha:bf92e6c84cc15db3f77938169fa8dbafa6fd0fe6]{
 -- Page 35, Offset 24352.
 -- ようやくアルクェイドはベッドから離れてくれた。
-// NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Arcueid se baja de la cama, al fin.
+Arcueid por fin se baja de la cama.
 }
 [sha:0f5a43094c06b6fb9773dddb0c05d58c1e5e3825]{
 -- Page 36, Offset 24353. Mods: @k, @e.
@@ -578,7 +578,7 @@ Todo el día... en otras palabras, ¡¿quiere que me salte la escuela para estar
 [sha:95fa0d31fe328799d3a4e6a27d82a8551eaff6dd]{
 -- Page 42, Offset 24367.
 -- 「なによ。反省してるって言ったのに、わたしより学校をとるの、あなたは」
-"¿Eh? ¿Dices que te arrepientes, pero prefieres la escuela a mi?"
+"¿Eh? ¿Dices que te arrepientes, pero prefieres la escuela a mí?"
 }
 [sha:68ab799eb4dac1ab5e97f7e8b43b1cb5a1a80ab6]{
 -- Page 43, Offset 24368.
@@ -688,10 +688,10 @@ Me voy a pasar todo el día con ella,
 -- あわてて顔を手で隠し、アルクェイドから視線を逸らす。
 Sonrojado, escondo la cara entre mis manos y aparto la mirada.
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:24388]{
 -- Page 50, Offset 24388.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:b7afa2aea35be1698fac9972df3a86928bb08ed1]{
 -- Page 51, Offset 24389.
@@ -725,14 +725,14 @@ Si paso tiempo con ella sin ningún tipo de peligro inminente u objetivo,
 [sha:0bbb1273943c615bd7868bf373ca703bee315dc4]{
 -- Page 53, Offset 24394.
 -- 「志貴？　ね、やっぱり学校に行くの……？」
-"¿Shiki? Ey, ¿después de todo vas a ir a la escuela...?"
+"¿Shiki? Oye, ¿después de todo vas a ir a la escuela...?"
 }
 [sha:8f542bb8cec292630b7a1fd10225c855ee99b632]{
 -- Page 53, Offset 24395.
 -- 「……わけないだろ。うんと言ったんだから付き合うよ。約束は破らないって言っただろ。どんな気まぐれか知らないけど、街を散歩するぐらいなら問題ないだろうし」
 "Claro que no. Dije que iba a ir contigo, ¿no?
  No voy a volver a romper mi promesa.
- No sé lo que me tienes reservado,
+ No sé qué me tienes reservado,
  pero no me imagino que caminar por la ciudad pueda ser mucho problema."
 }
 [sha:fe0ffade3bdf5ece3a826d3aeedf7ff4d8aa0289]{
@@ -774,19 +774,19 @@ Arcueid salta a la ventana por la que sospecho que ha entrado.
 -- Page 56, Offset 24403.
 -- 「あー、呼んだけど呼んでない！　止めて悪かった、外に出ていてくれ。すぐに追いつくから」
 "¡Sí, pero no!
- Siento marear la perdiz, espera fuera.
+ Perdon por confundirte, espera fuera.
  Ahora salgo."
 }
 [sha:11d078ed146376671ddc89275ee7cdb32a0058b1]{
 -- Page 56, Offset 24404.
 -- 「うん、屋敷の正門で待ってるわ。今までさんざん待ったんだから、これ以上待たせないでね、志貴」
-"Vale, te esperaré en frente de la verja. Ya he esperado mucho, no me hagas esperar más, Shiki."
+"Vale, te esperaré frente a la verja. Ya he esperado mucho, no me hagas esperar más, Shiki."
 }
 [sha:71205cb17e1d2b1be6469e333b5946585f139447]{
 -- Page 57, Offset 24405.
 -- タン、と猫みたいな身軽さでアルクェイドは窓から出て行った。
-Arcueid hace un pequeño sonido al salir por la ventana,
- su movimiento es provisto de gracia felina y fluidez.
+Con un movimiento provisto de gracia felina y fluidez,
+ Arcueid hace un pequeño sonido al salir por la ventana.
 }
 [sha:bf1684381c43656557c83636388010de5861d897]{
 -- Page 57, Offset 24406.
@@ -797,12 +797,12 @@ Escucho los árboles del jardín agitarse mientras salta de rama en rama.
 -- Page 58, Offset 24407.
 -- 地面ではなく庭の木の枝を足場にして、身軽な猫のように消えていく。
 Moviéndose por las copas de los árboles en vez del suelo,
- desaparece ágilmente, como lo haría un gato.
+ desaparece tan ágilmente como haría un gato.
 }
 [sha:e70d302a7457dc5fb8c1f5fae4b9377af290f0bd]{
 -- Page 58, Offset 24408.
 -- あの身のこなしなら俺の部屋に忍びこむのなんて造作もない事だろう。
-Si se puede mover así colarse en mi habitación ha tenido que ser pan comido.
+Si puede moverse así, colarse en mi habitación ha tenido que ser pan comido.
 }
 [sha:bddaf350f8b484920c66ceafd90eaea9989660d2]{
 -- Page 59, Offset 24409.
@@ -812,7 +812,7 @@ Si se puede mover así colarse en mi habitación ha tenido que ser pan comido.
 [sha:3f4cd8974e39eae672baff3f343d2ee07b19bfd8]{
 -- Page 59, Offset 24410.
 -- 俺も翡翠に見つからないよう、外に出ないと」
-Tengo que salir de aquí , y de alguna forma sin que Hisui se de cuenta."
+Tengo que salir de aquí, y de alguna forma sin que Hisui se de cuenta."
 }
 [sha:126d84d9e61e856b94b6b816a99f647dfe35843e]{
 -- Page 60, Offset 24411.
@@ -823,7 +823,7 @@ Me cambio de mi pijama a una ropa casual.
 -- Page 60, Offset 24412.
 -- なにしろ平日の昼間だ。街を学生服で歩いていては補導されてしまう。
 Es entre semana.
- Si ando por la ciudad en uniforme cuando se supone que estoy en la escuela me pondrán bajo custodia preventiva.
+ Si ando por la ciudad en uniforme cuando se supone que tengo que estar en la escuela, me pondrán bajo custodia preventiva.
 }
 [sha:11a6995ae96fda14669fff2db4504da292d64ebe]{
 -- Page 61, Offset 24413.

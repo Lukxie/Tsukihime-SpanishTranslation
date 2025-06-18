@@ -1,13 +1,13 @@
 [sha:cc509395dec627bbbd6ed7e85c207214be94bbec]{
 -- Page 10003, Offset 5731.
 -- 「そういえば。思い出したんだけど、秋葉は今も浅女の生徒なんだよな……？」
-"Oh, es cierto――
+"Ah, cierto――
  si no recuerdo mal, aún vas a Asagami, ¿no?"
 }
 [sha:c0d04fc1fefe4401a20d2d81925ab3d02495edbd]{
 -- Page 10003, Offset 5732.
 -- 「はい。浅上女学院は中学校から大学までのエスカレーターですから」
-"Sí. Después de todo, la Academia Privada Femenina Asagami ofrece un vía directa de escuela secundaria a universidad."
+"Sí. Ya que, la Academia Privada Femenina Asagami ofrece un vía directa de escuela secundaria a universidad."
 }
 [sha:239bf7e3b8e83ab945f0b0883bf00a3122200845]{
 -- Page 70, Offset 5733.
@@ -23,7 +23,7 @@ La escuela era originalmente una escuela de misionarios fundada en la era Meiji,
 [sha:9c700dab95e437682697bfa93ae04e20cdf41821]{
 -- Page 70, Offset 5735.
 -- 昭和になった頃、資金難から閉校寸前になったものの、新しい支援者に恵まれ、今に至っている。
-En la era Showa, la escuela estaba al borde de cerrar debido a dificultades financieras, pero fue bendecida con nuevos beneficiarios y sigue en funcionamiento.
+En la era Showa, la escuela estuvo al borde de cerrar debido a dificultades financieras, pero fue bendecida con nuevos beneficiarios y sigue en funcionamiento.
 }
 [sha:320a8bb6b8baa4afe344539f211ea0ced27ac2a4]{
 -- Page 71, Offset 5736. Mods: @n.
@@ -38,7 +38,7 @@ Me preguntaba por qué vas desde aquí."
 [sha:98ec56d9a0df5f3ec93f415cab06efe72216f78b]{
 -- Page 71, Offset 5738.
 -- 「浅上のおじさまとお父様は懇意の間柄でしたから、多少の我が侭は聞いていただけます。
-"El director de Asagami y Padre eran amigos cercanos, así que admitió mi petición egoísta.
+"El director de Asagami y Padre eran amigos cercanos, por lo que concedió mi petición egoísta.
 }
 [sha:3b7deac8199dcacb3ea6aa5384e091434321bbb3]{
 -- Page 71, Offset 5739.
@@ -71,18 +71,18 @@ Con voz entrecortada, Akiha aparta la mirada.
 [sha:9a1ac0901dda11039dca3cffaebf9ba97ec15a17]{
 -- Page 74, Offset 5744. Mods: @n.
 -- 「志貴さま。
-"Shiki-sama
+"Shiki-sama.
 }
 [sha:a58b67218a441c92ff464bdb16b0e24c5b1d3e30]{
 -- Page 74, Offset 5745. Glued.
 -- 秋葉さまは以前から週の半分をお屋敷でお過ごしになられていました。ですので、学園に通うのはそう特別なことではありません」
-Akiha-sama desde hace mucho está acostumbrada a pasar la mitad de la semana en la mansión.
+ Akiha-sama lleva mucho tiempo acostumbrada a pasar la mitad de la semana en la mansión.
  Como tal, no es particularmente inusual que se desplace a la escuela desde aquí."
 }
 [sha:24021787c1d6290a08fda8f5d654c24e5186233e]{
 -- Page 74, Offset 5746.
 -- 「そうだったのか。けど、なんだってそんな事に？」
-"No sabía eso. Aun así, ¿por qué dividir tu tiempo?"
+"No sabía eso. Aún así, ¿por qué dividir tu tiempo?"
 }
 [sha:a71c04685d476825c88c755c0f5444470c89c461]{
 -- Page 75, Offset 5747.
@@ -102,12 +102,12 @@ Tohno Makihisa no permitía que Akiha tuviera tiempo libre incluso tras comenzar
 [sha:6ea2dfbba3e9f9592cc68cd15811f3b6d41e1f17]{
 -- Page 76, Offset 5750.
 -- 「………そっか。でも、親父はもういないんだ。秋葉も無理することないんじゃないか？
-"Ya veo... Aún así, el ya no está. No hay razón para que tengas que esforzarte tanto, ¿verdad?
+"Ya veo... Pero, ahora ya no está. No hay razón para que tengas que esforzarte tanto, ¿verdad?
 }
 [sha:192a98c7e3946c45aa955d653c893dda2e468aaa]{
 -- Page 76, Offset 5751.
 -- ただでさえ忙しいのに、往復二時間もかけるなんて馬鹿らしい。その分、寄宿舎で友達と過ごした方が楽しいだろ？」
-Ya estás lo suficientemente ocupada, me parece una locura pasarte dos horas yendo y viniendo de la escuela.
+Ya estás ocupada de por sí, pasarte dos horas yendo y viniendo de la escuela me parece una locura.
  Además, ¿no te lo pasarías mejor si vivieses en el dormitorio con tus amigas?"
 }
 [sha:65f187af135d3b43559089988dca0c6e38baa18d]{
@@ -118,7 +118,7 @@ Ya estás lo suficientemente ocupada, me parece una locura pasarte dos horas yen
 [sha:d100ce90aef2e3ecfc8fbdfecfb06e8e3b246d09]{
 -- Page 77, Offset 5753.
 -- ですが、私には責任がありますから。昨日のような事があるかぎり、当分は屋敷から学校に通います」
-Desafortunadamente, tengo responsabilidades que debo atender.
+Por desgracia, tengo responsabilidades que debo atender.
  Mientras accidentes como el de ayer sigan ocurriendo,
  continuaré yendo a la escuela desde la mansión."
 }
@@ -151,10 +151,10 @@ Pensaba que es un mundo al que los hombres no tienen conexión."
 [sha:30e07b2ffddbb6fdefec78ffbe88da3cb11cc30a]{
 -- Page 80, Offset 5759.
 -- 「うん。そりゃあちょっとは知ってるよ。だって、秋葉の通ってる学校なんだから」
-"Sí. Aunque se ciertas cosas sobre ella.
+"Sí. Aunque sé ciertas cosas sobre ella.
  Después de todo, es la escuela a la que asistes."
 }
-[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+[offset:5760]{
 -- Page 80, Offset 5760.
 -- 「は？」
 "¿Qué?"

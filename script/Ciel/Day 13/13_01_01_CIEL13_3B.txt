@@ -106,7 +106,7 @@
 [sha:06dc4718504d374227c69f1cd3cba520883d18e3]{
 -- Page 137, Offset 33570.
 -- 「は…………あ」
-"%{i}Ha%{/i}...%{i}ah%{/i}."
+-- TRANSLATION HERE
 }
 [sha:0d98b51c4c68de9e37bd3411c442864ab077b5d0]{
 -- Page 137, Offset 33571.
@@ -163,7 +163,7 @@
 -- 「――――ぐ」
 -- TRANSLATION HERE
 }
-[sha:8492584c3a9dd05ba5799ab2d53f28a534997a34]{
+[offset:33582]{
 -- Page 140, Offset 33582.
 -- 胃液が逆流する。
 Jugos gástricos brotan de mi garganta.
@@ -226,7 +226,7 @@ Jugos gástricos brotan de mi garganta.
 [sha:e882e9a6e7f85482567785f420ce79024aff0641]{
 -- Page 144, Offset 33594.
 -- 「……………？」
-"¿Eh...?"
+-- TRANSLATION HERE
 }
 [sha:1803f8769f6966eb3ec9b3419bcda6b3901d3035]{
 -- Page 144, Offset 33595.
@@ -261,7 +261,7 @@ Jugos gástricos brotan de mi garganta.
 [sha:615f5ac620e8f5c9621715a670da7a4d04b9534c]{
 -- Page 145, Offset 33601.
 -- 「―――先輩」
-"¿―――Senpai?"
+-- TRANSLATION HERE
 }
 [sha:e3f3211917d998ebe29cb4b1cea411ca8a61ea2d]{
 -- Page 145, Offset 33602.
@@ -281,7 +281,7 @@ Jugos gástricos brotan de mi garganta.
 [sha:b5aebdfd0e3011454a5d67f01141e43803f7a9d5]{
 -- Page 146, Offset 33605.
 -- 「――――え？」
-"¿―――Eh?"
+-- TRANSLATION HERE
 }
 [sha:bfc9e8ba7d537481f0de4bf31834f0518e14cf54]{
 -- Page 146, Offset 33606.
@@ -701,7 +701,7 @@ Jugos gástricos brotan de mi garganta.
 [sha:522d46a97e04704e8cac129773aa7115a85d9499]{
 -- Page 177, Offset 33689.
 -- 声が出ない。
-No me sale la voz.
+-- TRANSLATION HERE
 }
 [sha:f83ce99afe79432356000058989bfa83f286e890]{
 -- Page 177, Offset 33690.
@@ -791,7 +791,7 @@ No me sale la voz.
 [sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
 -- Page 182, Offset 33707.
 -- ―――だが。
-―――Sin embargo.
+-- TRANSLATION HERE
 }
 [sha:0eb4a3f5a67aadbade17ae827c595ef5b908ac85]{
 -- Page 182, Offset 33708.
@@ -943,7 +943,7 @@ No me sale la voz.
 -- そこを貫く、と冷酷な目が告げている。
 -- TRANSLATION HERE
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:33738]{
 -- Page 194, Offset 33738.
 -- 俺は、
 Yo...
@@ -1268,10 +1268,10 @@ Yo...
 -- おかしいですよね。―――ちゃんと、自分の意識はあるっていうのに」
 -- TRANSLATION HERE
 }
-[sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
+[offset:33803]{
 -- Page 216, Offset 33803.
 -- それは。
-Eso es...
+-- TRANSLATION HERE
 }
 [sha:a76eac50a87f61707008ef53e221d23ea68f30cb]{
 -- Page 216, Offset 33804.
@@ -1311,7 +1311,7 @@ Eso es...
 [sha:cda1030ed7098c0e5785af6c23980e3a8c06594b]{
 -- Page 219, Offset 33811.
 -- ぽつりと。
-Sólo tres palabras.
+-- TRANSLATION HERE
 }
 [sha:f12532fa1514f332315e003eea1b703d2185f142]{
 -- Page 219, Offset 33812.

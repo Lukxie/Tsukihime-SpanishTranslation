@@ -38,7 +38,7 @@ Pero la promesa con esa belleza rubia es más importante,%{n}¿verdad?
 [sha:844f8f16b24abcdd563165a8a734f88795b375b0]{
 -- Page 182, Offset 43098.
 -- これこそ正解ルートの筈にゃんだけど、なぜ……？
-Yo también estoy bastante segura de que esta era la%{n}ruta correcta, ¿cómo ha podido...?
+ Yo también estoy bastante segura de que esta era%{n}la ruta correcta, ¿cómo ha podido...?
 }
 [sha:15d7f99070b120ede3fac3819901e55b9f6cdf59]{
 -- Page 183, Offset 43099.
@@ -54,29 +54,29 @@ estaba tan preocupada por ti.
 [sha:cf8ce052c915999aa3cfd6cc2ee3c0c6eaf7dd26]{
 -- Page 184, Offset 43101.
 -- 出かけてしまうなんて、お兄さん失格です。
-Es simple,%{n}fracasaste como hermano mayor.
+ Es simple,%{n}fracasaste como hermano mayor.
 }
 [sha:7094467a5ae1b23c3ecda811a85def3423ca21d0]{
 -- Page 185, Offset 43102. Mods: @n.
 -- 今まで何度も倒れてきた遠野くんですが、
-Puede que hayas estado pachucho en otras%{n}ocasiones y seguido adelante,
+Puede que en otras ocasiones hayas estado%{n}pachucho y seguido adelante,
 }
 [sha:b5e7c1caf270bf0fcd603352eec765d4c422e959]{
 -- Page 185, Offset 43103.
 -- この日の『体調不良』は特別なものです。
-pero hoy estás%{n}experimentando una enfermedad más peculiar.
+ pero hoy estás%{n}experimentando una enfermedad más peculiar.
 }
 [sha:1295ef601daa5383374678cf5b62e0a1a50db654]{
 -- Page 186, Offset 43104. Mods: @n.
 -- 半日は休んでいないと回復しない不調ですから、
 Para recuperarse tipo de aflicción necesitas%{n}al menos medio día
-de descanso
+ de descanso
 }
 [sha:2e740edfa65a2227575e2df765ceebea26e76e5b]{
 -- Page 186, Offset 43105.
 -- しっかり休んでくださいね？
-por lo que%{n}asegurate
-de dormir bien, ¿vale?
+ por lo que%{n}asegurate
+ de dormir bien, ¿vale?
 }
 [sha:5148ec0e866d111ad190b1bb18f8abbb90dcbd11]{
 -- Page 187, Offset 43106. Mods: @n.
@@ -116,8 +116,7 @@ Pero, si esto hace que se echen de menos,%{n}
 [sha:3a6643088f64d115ee5a88315ced0ddd5f7da8a5]{
 -- Page 190, Offset 43113.
 -- 次のロマンスを生み出すのよね……ウフフ……
-// Hmm interpretativo
-pero sabes lo que dicen, la distancia hace que el amor%{n}florezca... ejeje...
+ sabes lo que dicen, la distancia hace que el amor%{n}florezca... ejeje...
 }
 [sha:7836a955647a8cffad963e6f01881ee9a27ecea0]{
 -- Page 191, Offset 43114. Mods: @n.
@@ -137,7 +136,7 @@ Ah cierto. Ciel no tiene un evento de cita, ¿verdad?%{n}
 [sha:b5e50e453063d7eb5d5c92e51cabc39cedecc9cc]{
 -- Page 192, Offset 43117.
 -- ソーリー。恵まれすぎてソーリー。
-Sorry... el privilegio es solo mio.
+Sorry... el privilegio es solo mío.
 }
 [sha:5bf8f0072171c6e0f7fcebfe54533e2527fb2b44]{
 -- Page 193, Offset 43118. Mods: @n.
@@ -147,7 +146,7 @@ Oh no, te equivocas. De hecho, estamos juntos%{n}en la escuela todo el tiempo.
 [sha:e2777f8c2009c762f3c50c007ecd4cedccd6aee0]{
 -- Page 193, Offset 43119.
 -- 長時間過ごさせていただいているのでお気になさらず。
-No solo estamos juntos de noche%{n}no tienes que preocuparte.
+ No nos juntamos solo de noche,%{n}no tienes que preocuparte.
 }
 [sha:91c74b68a8c32da1f71c85d1b815bc79d7a6f711]{
 -- Page 194, Offset 43120. Mods: @n.
@@ -157,7 +156,7 @@ Si comparas el ratio de tiempo que%{n}hablo con Tohno-kun,
 [sha:75466bed57e309051fee824e7708a9c73c269576]{
 -- Page 194, Offset 43121.
 -- わたしの方が上ですので。
-verás que salgo ganando%{n}
+ verás que salgo ganando%{n}
 6:4.
 }
 [sha:b6dbaef4b643196040c13bac9ab07edf1fd273cf]{
@@ -168,7 +167,7 @@ verás que salgo ganando%{n}
 [sha:51ce0c304d80c3ce4cd0c4f8052eca36d76f2b5e]{
 -- Page 195, Offset 43123.
 -- どうせ長ったらしい教会の設定語りでしょ？
-¿La mayoría de eso no eres tu dando la chapa%{n}sobre cosas de la iglesia?
+¿La mayoría de eso no eres tú dando la chapa%{n}sobre cosas de la iglesia?
 }
 [sha:719e5b23b46774758b4e387854d0c5d4b9aac623]{
 -- Page 196, Offset 43124.
@@ -183,7 +182,7 @@ En nuestro caso, es simplemente, una%{n}conversación pura y platónica
 [sha:4d9019bb07c8396d980d7d9198cfa4ae139a532a]{
 -- Page 197, Offset 43126.
 -- 清らかな男女交際トークです。
-entre un%{n}kouhai perdido y una senpai confiable.
+ entre un%{n}kouhai perdido y una senpai confiable.
 }
 [sha:ceb4ede87e45ce551a0cbf9f4b4002f991df605d]{
 -- Page 198, Offset 43127.
@@ -193,7 +192,7 @@ Ey, que yo también fui a la escuela.
 [sha:06ab8a64dfe7f8f3b834561c53dc3a7a0fcd50a3]{
 -- Page 199, Offset 43128.
 -- 不法侵入とかアナタらしいですけどね。
-Bueno, más bien allanaste supongo,%{n} ¿no?
+Bueno, más bien allanaste, ¿no?
 }
 [sha:4e0fa222e711187e04e5e1801d7f1b3bfa357468]{
 -- Page 200, Offset 43129.

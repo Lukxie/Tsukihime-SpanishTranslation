@@ -3,10 +3,10 @@
 -- 午前の授業が終わって、昼休みになった。
 Las clases de la mañana han terminado, y ahora toca comer.
 }
-[sha:30b91a89d31f72d3161c255a215bcae06cd7e874]{
+[offset:4378]{
 -- Page 10007, Offset 4378. Mods: @k, @e.
 -- さて、どこで昼食をとろうか。
-Ahora, ¿dónde debería comer?
+Y bien, ¿dónde debería comer?
 }
 [sha:47e1e71eb9fe2f54c0d573048c704db97e3ea877]{
 -- Page 167, Offset 42596. Choice.

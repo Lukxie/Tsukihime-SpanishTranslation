@@ -23,7 +23,7 @@ Llega otro ascensor justo al lado del de antes.
 -- 疲労しきった脳は、それが何を意味するのか考察しない。
 Mi cerebro, exhausto, no puede procesar lo que esto significa.
 }
-[sha:64fc865c8f1cad6e504f92a4f1a2fe9bd9e65f04]{
+[offset:7783]{
 -- Page 809, Offset 7783.
 -- 扉が開く。
 La puerta se abre.
@@ -82,7 +82,7 @@ Como no hay razón para quedarme aquí, me doy la vuelta para volver cuando―�
 [sha:0b1c574335ca4d0d2f3b200b6fa48fe50057bfb9]{
 -- Page 813, Offset 7794.
 -- 「あ、はあ、だれ、か、だれか、誰か、だれか、誰かぁ！」
-"%{i}Ah, hah%{/i} ¡quien, sea, quien sea, quien sea, quien sea, quien sea!"
+"%{i}Ah, hah%{/i} ¡quién, sea, quién sea, quién sea, quién sea, quién sea!"
 }
 [sha:b66340a3e97ea738ef6be6c6f81ce83f117eed7d]{
 -- Page 813, Offset 7795.
@@ -128,7 +128,7 @@ El origen la voz se cae al suelo frente a los elevadores.
 [sha:643997b4bd6d2e9cc096d18a172bc2c0bf2bb192]{
 -- Page 816, Offset 7803.
 -- 「君！　ねえ、そこの君！」
-"¡Tú! ¡Eh, tú el de ahí!
+"¡Tú! ¡Eh, tú el de ahí!"
 }
 [sha:0328a174b6f168a5c2ee543cb67632986b06e69a]{
 -- Page 816, Offset 7804.
@@ -178,8 +178,8 @@ La mujer es apresada con facilidad.
 [sha:5b636e162800d011979ffb1dac3f70800116c7f8]{
 -- Page 819, Offset 7813.
 -- その手に掴まれた時点で、夢から覚めるように、彼女の意識は喪失していた。
-En el momento que el la agarra con su mano,
- pierde toda la consciencia como si de golpe se hubiera despertado de un sueño.
+En el momento que él la agarra con su mano,
+ pierde toda la consciencia, como si de golpe se hubiera despertado de un sueño.
 }
 [sha:6fe81baf51c22a7149feabd4ca4fe5aa14f29127]{
 -- Page 820, Offset 7814.
@@ -204,7 +204,7 @@ En el momento que el la agarra con su mano,
 [sha:ad48423e48514bdcd3697ab3890685475bc03daa]{
 -- Page 820, Offset 7818. Glued.
 -- ひたすらに善良だった彼女を、
-solo es una mujer inocente.
+ sólo es una mujer inocente.
 }
 [sha:169cdd6daafc0cd05e6493af85ce998137ba3f56]{
 -- Page 820, Offset 7819.
@@ -269,13 +269,13 @@ Nunca antes había visto algo así.
 [sha:588a945e0d521ca13fa0d68024230374817c6241]{
 -- Page 824, Offset 7831.
 -- 初めてでありながら、アレがどのような行為なのか、教わるまでもない光景だった。
-Y aunque mi primera vez viéndolo,
+Y aunque es mi primera vez viéndolo,
  no necesito que me expliquen lo que está pasando.
 }
 [sha:5a28ae567ffeaa9d6c1e85aa84da16306dd6036d]{
 -- Page 825, Offset 7832.
 -- ごくごくと<嚥下|えんげ>する<艶|おと>さえ聞こえる。
-Puedo incluso escuchar el sonido de el tragando.
+Puedo incluso escuchar el sonido de él tragando.
 }
 [sha:7279f92fe2619ef0a6b6d5437628ca7d5b4de2a4]{
 -- Page 825, Offset 7833.
@@ -285,7 +285,7 @@ Tras un buen rato deleitándose, el hombre descarta el cuerpo como si nada.
 [sha:ca296f18cb091e947b4a5c41abee300dd3468b87]{
 -- Page 825, Offset 7834.
 -- 枯れ木のようにゆらめく女。
-La mujer es apresada con facilidad se tambalea como un árbol marchito.
+La mujer se tambalea como un árbol marchito.
 }
 [sha:1fd8a3d61ba1c62150175a5aff52a62d46ec038f]{
 -- Page 825, Offset 7835.
@@ -295,7 +295,7 @@ Una bailarina danzando al borde del abismo de la muerte.
 [sha:b96e17496febba6b050cc36fa95fb1a91ae884a8]{
 -- Page 825, Offset 7836.
 -- その哀れな背中に、
-A su espalda miserable―――
+A su miserable espalda―――
 }
 [sha:0918cf70360395037245ed41cbbfe335d358bbcb]{
 -- Page 826, Offset 7837.
@@ -372,10 +372,10 @@ Pero aún así, el %{i}edificio%{/i} no se quema.
 -- この炎を感じているのは、生き物である俺だけだ。
 El único afectado por las llamas soy yo――una criatura viviente.
 }
-[sha:e397b69c8447f0e7e48018c01817075d20e67a27]{
+[offset:7852]{
 -- Page 830, Offset 7852.
 -- 頭痛がする。
-Siento como el dolor de cabeza se aproxima .
+Puedo sentir el dolor de cabeza aproximándose.
 }
 [sha:317f21b700450b8d06c01faad43cb39e4e25c69f]{
 -- Page 830, Offset 7853.
@@ -405,7 +405,7 @@ Ni siquiera está tan cerca, pero ya no soy capaz de respirar.
 [sha:f1086fb46704618e6a42c64956ce0d7ccf9e20fe]{
 -- Page 831, Offset 7858.
 -- つまり生き物は、ヤツに近づくだけで絶命する。
-En otras palabras, cualquier ser vivo sería aniquilado si se acercaran lo más mínimo a este hombre.
+En otras palabras, cualquier ser vivo que se acercara lo más mínimo a este hombre sería aniquilado.
 }
 [sha:d6b108b9dcd91059111fcf7c14939f4e436b9f6a]{
 -- Page 832, Offset 7859.
@@ -495,7 +495,7 @@ Notablemente brillante en su núcleo, como una joya―――
 [sha:472f95ee67d3190d7a80f7503ebd15d7fc8e77a9]{
 -- Page 836, Offset 7876.
 -- 「っづ……！」
-"%{i}Gh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:22610d021e2aa29c7c73cd867c054be51ca3bf5a]{
 -- Page 836, Offset 7877.
@@ -546,7 +546,7 @@ El hombre se detiene.
 -- Page 838, Offset 7886.
 -- 視線の焦点が俺に合う。ここまで近づいてようやく、男は俺に気がついた。
 Su mirada se centra en mi.
- Estando tan cerca, finalmente el hombre se da cuenta de mi.
+ Estando tan cerca, el hombre finalmente se da cuenta de que estoy aquí.
 }
 [sha:385dab085a36c80fc59288ee6518ac10f3f49c0a]{
 -- Page 839, Offset 7887.
@@ -556,7 +556,7 @@ Su mirada se centra en mi.
 [sha:c1435bb6df10580e0d04e9b9cdb53a72cd868e2a]{
 -- Page 839, Offset 7888.
 -- <ソ|・><レ|・><と|・><眼|・><を|・><合|・><わ|・><せ|・><て|・><は|・><い|・><け|・><な|・><い|・>。
-%{i}no debería hacer contacto visual con él%{/i}.
+%{i}No debería hacer contacto visual con él%{/i}.
 }
 [sha:1556342a7d8918537bc44c00616fb3bf7754e5fb]{
 -- Page 839, Offset 7889.
@@ -579,15 +579,15 @@ No puedo ignorar los vacíos sin fondo frente a mi.
 Sus ojos son distintos.
  Deben ser fundamentalmente diferentes de los Ojos Místicos que mencionó la mujer de blanco.
  Sus ojos no tienen el poder paralizar.
- Porque son ojos de la locura.
- Los ojos de un loco.
+ Porque son ojos de locura.
+ Son los ojos de un loco.
  Un ser feo y desairado impulsado por nada más que sus deseos, arrastrado por las olas de su propia anormalidad.
-%{n}Un psicópata como yo―――
+%{n}Un psicópata, como yo―――
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:7893]{
 -- Page 841, Offset 7893.
 -- 「……！」
-¡Ah!
+Esto es malo.
 }
 [sha:b70a870809166b783021eb3de40c34f21c6c3d37]{
 -- Page 841, Offset 7894.
@@ -647,7 +647,7 @@ Después de todo, estas llamas son auténticas.
 [sha:60a46b0fdbe8aa84fe5ee81b3e523b4a91255f89]{
 -- Page 844, Offset 7905.
 -- 廊下を濡らす青い炎は現実の上に張られた<効果|エフェクト>だ。
-Las llamas azules que empapan el pasillo no son más un que efecto que se manifiesta fuera de la realidad.
+Las llamas azules que empapan el pasillo no son más un que efecto que se manifiesta fuera de la realidad. 
 }
 [sha:27fc7c757b49a794d90e2f9e287d7ee9a029cd75]{
 -- Page 844, Offset 7906.
@@ -685,12 +685,12 @@ Un resultado incluso más obvio que el fuego mismo.
 [sha:260f60ba4227dce5460d1718457dabe6542c66fb]{
 -- Page 846, Offset 7912.
 -- なのに、その直前、
-Y aún así, antes de que las llamas conecten―――
+Y aún así, antes de que las llamas hagan contacto―――
 }
 [sha:ae25bc1d05c4843655386cca9641c8608f826a2d]{
 -- Page 847, Offset 7913.
 -- ざくん、という音とともに、俺の体は後ろに引っ張られていた。
-Un golpe reverbera por el pasillo, y tiran de mi cuerpo hacia atrás.
+Un golpe reverbera por el pasillo, y tira hacia atrás de mi cuerpo.
 }
 [sha:3a2f05bd451fa7ae227bdf0664199a7067bf3658]{
 -- Page 848, Offset 7914.
@@ -725,12 +725,12 @@ Pero sus acciones no tienen ningún sentido.
 [sha:426dac87c9e6730315e7cd9fa6e4ac372334802d]{
 -- Page 850, Offset 7920.
 -- だって、盾になるのは俺の役目だったはずだ。
-Se supone que tiene hacer de escudo %{i}soy yo%{/i} .
+Se supone que %{i}soy yo%{/i} el tiene que hacer de escudo .
 }
 [sha:07bd9993a5644710f8be540e0fd15d19be1a4c23]{
 -- Page 850, Offset 7921.
 -- それがどうして、コイツが、俺を<庇|かば>って傷ついている……？
-Entonces ¿por qué se está haciendo daño para protegerme?
+Entonces ¿por qué se está haciendo daño por protegerme?
 }
 [sha:e1a088c46fc025b0407cfcdd026797068e1546af]{
 -- Page 851, Offset 7922.
@@ -785,12 +785,12 @@ Todo pasó en menos de cinco segundos.
 [sha:ffcc1d3869f658e88da0bc23d34bfbe3d324015b]{
 -- Page 855, Offset 7932.
 -- 繰り出され、迎撃した数はおよそ十合。
-Diez disparos, y diez disparos fueron interceptados.
+Diez disparos lanzados, y diez disparos interceptados.
 }
 [sha:d65bdb4e5c4aa9d255f5a327496641c4a9d44c33]{
 -- Page 855, Offset 7933.
 -- いかなる理由からか、男は<厳|おごそ>かに腕を下げた。
-Por cualquier razón, el hombre baja el brazo solemnemente,
+Por cualquier razón, el hombre baja el brazo solemnemente.
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 856, Offset 7934.
@@ -805,7 +805,7 @@ Mira a Arcueid en silencio.
 [sha:92d002958944636cb1bb766476b39aff2c54c879]{
 -- Page 856, Offset 7936.
 -- アルクェイドは腹を真っ赤に染めたまま、苦しげに男を睨み返していた。
-Ella a su vez mira al hombre dolorida, su estómago teñido de un rojo profundo.
+Ella a su vez mira al hombre, dolorida, su estómago teñido de un rojo profundo.
 }
 [sha:64c2f8d019c20f359c303f0316a399439fb7e00a]{
 -- Page 857, Offset 7937.
@@ -815,7 +815,7 @@ El hombre solo presta atención a Arcueid.
 [sha:0cf71b582379e7f24b49439deefa495fad4a2335]{
 -- Page 857, Offset 7938.
 -- 彼女に守られ、その後ろでナイフを握っている俺を完全に“無い”ものと扱っている。
-Está actuando como si el hombre que lleva el cuchillo detrás de ella ni siquiera estuviera ahí.
+Actuando como si el hombre que lleva el cuchillo detrás de ella ni siquiera estuviera ahí.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 858, Offset 7939.
@@ -861,14 +861,14 @@ Con la hoja aún oculta bajo su manto, empieza a caminar hacia Arcueid.
 [sha:0b7e306dda0e1ace0aa9dde9b8911345b3ec13c4]{
 -- Page 861, Offset 7947.
 -- 「“無礼者。豚でなければ<銘|な>を名乗れ。
-// Ayuda
-"%{g}Insolente. Si porco no eres, fabla vuestra nombre.%{/g}
+//Ayuda
+"%{g}Insolente. Si porco no eres, fabla vueso nombre.%{/g}
 }
 [sha:02bc565b73d08094d15250c1beb9efc8bf02ae41]{
 -- Page 861, Offset 7948.
 -- それとも貴様の<親|・>は、最低限の<礼儀|ことば>も教えぬ形なしだったのか？”」
-// Ayudaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-%{g}¿O acaso vuesa progenie cumplió ha deberes tan mal que descuidó enseñar los modales más fundamentales?%{/g}"
+//Ayudaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+%{g}¿O acaso vuesa progenie fue tan negligente que descuidó enseñar los modales más fundamentales?%{/g}"
 }
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 861, Offset 7949.
@@ -999,7 +999,7 @@ Esto es un poco exagerado."
 [sha:91d2ef35ebf8b2a79238b7e4f832db41877323a8]{
 -- Page 869, Offset 7974.
 -- 焼き尽くさなければ、おれの信条に<悖|もと>る”」
-No quemarla hasta sus cimientos, iría en contra de todo lo que creo."
+El no quemarla hasta sus cimientos, iría en contra de todo lo que creo."
 }
 [sha:2a26bf696a9b3f843b24e856c18b51052032ab8e]{
 -- Page 869, Offset 7975.
@@ -1016,15 +1016,15 @@ No quemarla hasta sus cimientos, iría en contra de todo lo que creo."
 -- 真祖の姫。その心臓を、おれに<呉|よ>こせ”」
 Princesa de los Verdaderos Ancestros... ¡Tu corazón será mío!"
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:7978]{
 -- Page 871, Offset 7978.
 -- 「……！」
-¡Ah!
+Esto es malo.
 }
 [sha:8cce493ebdadd950eb14171833493a3d23d98f4a]{
 -- Page 871, Offset 7979.
 -- ヴローヴ。そう名乗った吸血鬼の周囲が歪む。
-El espacio alrededor del vampiro autodenominado Vlov se deforma.
+El espacio alrededor del vampiro autodenominado Vlov, se deforma.
 }
 [sha:55fac72405fb948204f815f606abbf2b89e3ffa5]{
 -- Page 871, Offset 7980.
@@ -1093,10 +1093,10 @@ Justo cuando Vlov iba a desatar la hoja bajo su capa―――
 -- 「……は？」
 "¿Eh...?"
 }
-[sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
+[offset:7993]{
 -- Page 876, Offset 7993.
 -- ―――が。
-―――Pero.
+―――Esto ocurre.
 }
 [sha:49539e653f946af7f5816cdc73eb24df8e1e7c62]{
 -- Page 876, Offset 7994.
@@ -1136,12 +1136,12 @@ El cuerpo de Arcueid colapsa contra el mío.
 [sha:258cb1f37c4238a7811dc036d59e5662ecdd2f7c]{
 -- Page 879, Offset 8001.
 -- ……ひどい傷だ。腹からの出血は止まっているものの、彼女の顔は苦痛にゆがんでいる。
-Que herida más fea... El sangrado de su estómago ha parado, pero su cara se retuerce de dolor.
+Que herida más fea... El sangrado de su estómago ha parado, pero su cara se retuerce de dolor. 
 }
 [sha:964b6b34d0dd1ba860e4d1e702da2ffdd006e3f8]{
 -- Page 880, Offset 8002.
 -- ―――それは、たった数秒前。
-―――Fue hace unos segundos.
+―――Hace unos segundos.
 }
 [sha:38537da3b79180b883a733ac0da02c0ddc014bdd]{
 -- Page 880, Offset 8003.
@@ -1181,7 +1181,7 @@ Las heridas que me hiciste eran mucho peor de lo que pensaba."
 [sha:a84630a5d73677a380b9e2f993030530f1c1b6d4]{
 -- Page 883, Offset 8010.
 -- アルクェイドは苦痛に歪んだ顔で、にこりと、冗談みたいに微笑んだ。
-Con la cara aún retorciéndose de dolor, Arcueid fuerza una sonrisa ante su propio broma.
+Con la cara aún retorciéndose de dolor, Arcueid fuerza una sonrisa ante su propia broma.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 884, Offset 8011.
@@ -1196,7 +1196,7 @@ No puedo mirarla.
 [sha:205c6dcea3061156296cff5393d1ff28fb7bb396]{
 -- Page 884, Offset 8013.
 -- 俺を庇って出来た傷で、加えて、その原因も俺にあるっていうのに―――そんな馬鹿な笑顔を向けられたら、なんて返せばいいのか分からない。
-La han herido protegiéndome. Y encima de eso, nunca habría estado en peligro si no fuera por mi――No se como responder cuando su rostro me mira con esa sonrisa tan estúpida.
+La han herido protegiéndome. Y además, si no fuera por mi, nunca habría estado en peligro――No sé como responder cuando me mira con esa sonrisa tan estúpida. 
 }
 [sha:1db64ff43751a81a982a4441644eef43b4d9e993]{
 -- Page 885, Offset 8014.
@@ -1258,7 +1258,7 @@ Si te me mueres ahora, ¡%{i}realmente%{/i} no sabré cómo responder!
 -- 静かに目を閉じたアルクェイドに呼びかける。
 La llamo pero permanece tumbada con los ojos suavemente cerrados.
 }
-[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
+[offset:8026]{
 -- Page 889, Offset 8026.
 -- と。
 Y entonces―――
@@ -1301,7 +1301,7 @@ Pero dadas las circunstancias, lo dejaré pasar.
 [sha:d21b20d3ff387cc776f056414f37fc5556ff0477]{
 -- Page 891, Offset 8034.
 -- そもそも、これ以上ホテルに居続けるのはまずい。
-Y además, no es buena idea quedarse en el hotel por más tiempo.
+Y además, no es buena idea quedarse más tiempo en el hotel.
 }
 [sha:429547f878c0e8ce50f57104882858b3482f088b]{
 -- Page 892, Offset 8035.
@@ -1352,27 +1352,27 @@ No tiene sentido quedarse aquí.
 [sha:e0a1e4d7a6315b4ff7990d73066ff97340be12b1]{
 -- Page 895, Offset 8044.
 -- 俺はロイヤルスイートルームから荷物を回収し、アルクェイドを抱きかかえ、もう誰もいなくなったホテルを、慚愧の念と共に後にした。
-Recupero mi equipaje de la suite presidencial, y con Arcueid en mis brazos, dejo vergonzosamente el ahora vacío hotel.
+Recupero mi equipaje de la suite presidencial, y con Arcueid en mis brazos, dejo vergonzosamente el ahora vacío hotel. 
 }
 [sha:51a4fa02a40fe10f45f9214d5d75db427d284681]{
 -- Page 896, Offset 8045.
 -- 空は明るくなっていた。
-Afuera el cielo brilla.
+Fuera, el cielo brilla.
 }
 [sha:ee6d9006e395e4520dbbf35b19ca422819e3ef55]{
 -- Page 896, Offset 8046.
 -- 「……そうか、そういうコトか」
-"Ya veo... así que fue por esto."
+"Ya veo... osea que por esto fue."
 }
 [sha:7b97e8caee6fcab803ab9884e35b7f34810a9243]{
 -- Page 897, Offset 8047.
 -- あの男が立ち去った理由はこんな単純な事だった。
-La razón por la que el hombre se fue era muy simple.
+La razón por la que el hombre se marchó era muy simple.
 }
 [sha:125c0b03b377b07a2f2a01b6eec4249f7ed69331]{
 -- Page 897, Offset 8048.
 -- 街はもう完全に日が昇っている。
-El sol ya había salido completamente.
+El sol ya había salido por completo.
 }
 [sha:98b7525fcb9dc19993db77d23aeb05397f06ec83]{
 -- Page 897, Offset 8049.
@@ -1392,13 +1392,13 @@ Decido no coger un taxi.
 [sha:f067e877d132fd64d8c5fa4f6d0e132e4193017d]{
 -- Page 898, Offset 8052.
 -- こんな怪しい二人組、顔を覚えられるに決まっている。
-Una pareja tan sospechosa la nuestra está destinada a ser recordada.
+Una pareja tan sospechosa como la nuestra está destinada a ser recordada.
 }
 [sha:00579241620b037aa6b9648ad830dfa23fbcf897]{
 -- Page 899, Offset 8053.
 -- ホテルからできるだけ離れ、総耶駅行きのバスに乗りこむ。
 Intentando alejarme del hotel tanto como puedo,
- abordo un autobús dirigido a la Estación de Souya.
+ abordo un autobús dirigido a la estación de Souya.
 }
 [sha:2188d668e61f4d7f874f8af1b352e00ad8876d1a]{
 -- Page 899, Offset 8054.
@@ -1413,7 +1413,7 @@ La salida de emergencia del edificio está igual que antes de ayer.
 [sha:d56e4d1bd5a4de2571c18938741a9afa4ff52e43]{
 -- Page 900, Offset 8056.
 -- 住人も管理人もここの鍵が“切れている”事に気づいていないのだろう。
-Los residentes y los managers no deben haberse dado cuenta de que la cerradura está 'cortada'.
+Ni los residentes y ni los caseros deben haberse dado cuenta de que la cerradura está 'cortada'.
 }
 [sha:aea0e1d7ae0e12649dae81fd1c377b6601351aae]{
 -- Page 901, Offset 8057.
@@ -1423,5 +1423,5 @@ Los residentes y los managers no deben haberse dado cuenta de que la cerradura e
 [sha:d6b63435e4541b02fe8e821d928f7a8cf5b81d37]{
 -- Page 901, Offset 8058.
 -- 俺はあの時と同じように、自称吸血鬼の女の部屋に忍び込んで、ようやく、長い一日が終わった事を実感した。
-De nuevo, me adentro en la habitación de la mujer autoproclamada vampiro. Tengo la sensación de que finalmente este largo día ha llegado a su fin.
+De nuevo, me adentro en la habitación de la autoproclamada vampiro. Tengo la sensación de que este largo día finalmente ha llegado a su fin.
 }

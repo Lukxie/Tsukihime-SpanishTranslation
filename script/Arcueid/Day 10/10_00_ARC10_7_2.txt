@@ -22,7 +22,7 @@ Algo me dice que se irá a un sitio donde no vaya a cruzarse con nadie,
 [sha:8c1b3c18d1fb9e19b261925973d0d58625b95c24]{
 -- Page 771, Offset 26378.
 -- 部屋とは思えない。本当に逃げたくなった時、“自分の場所”に戻るのは何もかもが終わった後だと思う。
-Su habitación no es. Si quiere huir de verdad, no volverá a su habitación hasta que todo acabe.
+No es su habitación. Si quiere huir de verdad, no volverá allí hasta que todo acabe. 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 772, Offset 26379.

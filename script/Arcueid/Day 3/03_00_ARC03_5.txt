@@ -6,7 +6,7 @@ Quinta hora.
 [sha:763e589abf309bab5811d69baa74e6b6da71a4ec]{
 -- Page 10009, Offset 4390.
 -- 古文の授業に眠気を誘われつつ、ノートにペンを走らせる。
-La clase de literatura clásica me esta durmiendo,
+La clase de literatura clásica me está durmiendo,
  pero sigo escribiendo en mi cuaderno.
 }
 [sha:f8eea2f7ff015d7f2c32892611e2fe06748aed3f]{
@@ -29,7 +29,7 @@ Incluso ahora, hay unos cuantos estudiantes usando sus móviles para leer diccio
 [sha:9ca6887e66d0700b22e1ad5177e8d107181b3d60]{
 -- Page 171, Offset 4394.
 -- 自分はアナログの方が性に合っているので、昔ながらの学生らしく手書きで授業の内容を―――
-Yo soy una persona más bien analógica, así que tomo apuntes a la vieja usanza a ma―――
+Yo soy una persona más bien analógica, por lo que tomo apuntes a la vieja usanza, a ma―――
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 172, Offset 4395.
@@ -54,7 +54,7 @@ Mi campo de visión se enrolla, tuerce, y dobla sobre sí mismo hasta ser solo u
 [sha:235ac2c24eb534f4dcf1f49c84b2973caa1e6772]{
 -- Page 172, Offset 4399.
 -- ぐるぐると脳そのものが回るような平衡感覚。
-Esta sensación de desequilibrio es como si mi cerebro estuviera dando vueltas en círculos.
+La sensación de desequilibrio es como si mi cerebro estuviera dando vueltas en círculos.
 }
 [sha:376380ee7a972053d0cb65fed913b8b34f8e0be2]{
 -- Page 173, Offset 4400.
@@ -117,7 +117,7 @@ Todo lo que queda es que colapse en el suelo―――
 -- 「先生、ちょっといいっすか」
 "Sensei, ¿tiene un segundo?"
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:4412]{
 -- Page 177, Offset 4412.
 -- ―――と。
 ―――Pero entonces
@@ -135,7 +135,7 @@ Todo lo que queda es que colapse en el suelo―――
 [sha:394f8251cb995bbc132419404c93aa15f357672e]{
 -- Page 178, Offset 4415.
 -- いつのまにか有彦がやってきている。
-Arihiko ha aparecido sin que me de cuenta.
+Arihiko aparece sin que me de cuenta.
 }
 [sha:80d7017c391a86d0cbfe7daa2b1c9ee09d3f481f]{
 -- Page 178, Offset 4416.
@@ -150,7 +150,7 @@ Escucho la voz del profesor desde el podio.
 [sha:9536cd59e163c6e91e5e72992c252537170b3ff2]{
 -- Page 179, Offset 4418.
 -- 「いえ、これぐらい平気で―――」
-"No, no es nada en real―――"
+"No, no es nada, de ver―――"
 }
 [sha:11d18bfd66b50f86b48bdf95224d0ea17c5d93bc]{
 -- Page 179, Offset 4419.
@@ -170,8 +170,8 @@ Arihiko habla por encima mí.
 [sha:a610dfcc8260b1479ea75d40674f46b4734300de]{
 -- Page 180, Offset 4422.
 -- 「そうか。先生も遠野の体のことは聞いている。遠野。体調が優れないなら保健室で休むか、早退して帰っていいんだぞ」
-"¿Es así? Había escuchado de su enfermedad.
- Tohno, si no te encuentras bien, eres libre de descansar en la enfermería o irte a casa pronto."
+"¿Sí? Me han hablado de su enfermedad.
+ Tohno, si no te encuentras bien, eres libre de descansar en la enfermería o irte pronto a casa."
 }
 [sha:eff95f1129fe17c17a799501d4bb3c7dbd1cefbc]{
 -- Page 180, Offset 4423.
@@ -181,12 +181,12 @@ Supongo que el profe de literatura clásica es bastante blando.
 [sha:a37d320a3633c683bde60b2d7bac843003a8df24]{
 -- Page 180, Offset 4424.
 -- 古文の教師は有彦の言い分を全面的に信じているみたいだ。
-Ha aceptado todo lo que Arihiko dijo sin discutir.
+Ha aceptado sin discutir todo lo que Arihiko dijo.
 }
 [sha:be808aa35fded70b82d1aeab226a67d835e2c1d9]{
 -- Page 181, Offset 4425.
 -- 「ほら、帰っていいとよ。そんな青い顔しやがって、まずいと思ったらすぐに言わねえとわからねえだろうが」
-"Venga, ahora puedes irte a casa. Tío, estás tan pálido. Nadie sabrá que te encuentras mal si no lo dices, sabes."
+"Venga, ahora puedes irte a casa. En serio, estás muy pálido. Si no lo dices, nadie sabrá que te encuentras mal, sabes."
 }
 [sha:e4e7570507d090c5af469be9dc591c89e508d129]{
 -- Page 181, Offset 4426.
@@ -196,7 +196,7 @@ Arihiko me da una palmadita en la espalda en desaprobación.
 [sha:c66a7f039a754cafef23036ad67a0fd736cafe81]{
 -- Page 181, Offset 4427.
 -- 「……それじゃあ早退させてもらいます、先生」
-"En ese caso, me iré pronto pues, Sensei."
+"En ese caso, me voy pronto, Sensei."
 }
 [sha:4d589d44da86d887c3ed6134e5a51bd30dd01749]{
 -- Page 181, Offset 4428.
@@ -211,7 +211,7 @@ El profesor asiente solemnemente en respuesta.
 [sha:8f78c17d719a976c3ba3014e6ede2ed68e9e627d]{
 -- Page 182, Offset 4430.
 -- 「気にすんな。中学からの腐れ縁だからな、おまえが貧血でぶっ倒れそうな雰囲気ってのはすぐにわかんだよ」
-"No te preocupes por ello. Hemos sido inseparables desde secundaria. Se de inmediato cuando vas a colapsar por la anemia."
+"No te preocupes por ello. Hemos sido inseparables desde secundaria. Sé de inmediato cuando vas a colapsar por la anemia."
 }
 [sha:9f4e2b51d199733aa94d2256d8d20ca802922741]{
 -- Page 183, Offset 4431.
@@ -232,7 +232,7 @@ Dejo el edificio.
 -- Page 184, Offset 4434.
 -- 保健室で休むことも考えたが、この時間からだと夜まで寝こんでしまう可能性が高い。
 Pensé en ir a la enfermería a descansar,
- pero si fuera a esta hora hay una gran posibilidad de que me quedase dormido hasta la noche.
+ pero si fuera a esta hora hay una gran posibilidad de que me quede dormido hasta la noche.
 }
 [sha:6823994b34c20240e9000121db3a11a6c36a29da]{
 -- Page 184, Offset 4435.
@@ -247,7 +247,7 @@ Por esa razón, he decidido que es mejor si vuelvo a la mansión, aunque tenga q
 [sha:563b6d060125f8fe36e42c93fce9c978b0c31474]{
 -- Page 185, Offset 4437.
 -- 外の空気を吸っているうちに気分も持ち直してきた。
-Mientras respiro el aire exterior, empiezo a sentirme rejuvenecido.
+Al respirar el aire exterior, empiezo a sentirme rejuvenecido.
 }
 [sha:613e092ab3a1669e6cc912444ca1ee843b027880]{
 -- Page 186, Offset 4438.
@@ -258,23 +258,23 @@ Ya han pasado siete años...
 -- Page 186, Offset 4439.
 -- <生命|いのち>に関わる重症から回復した代償なのか、あれ以降、遠野志貴は慢性的な貧血を起こす体質になっていた。
 Desde aquel accidente, he sufrido de anemia crónica.
- Quizá es el precio que tengo que pagar a cambio de sobrevivir a algo que debería haberme matado.
+ Quizá sea el precio a pagar a cambio de sobrevivir a algo que debería haberme matado.
 }
 [sha:88ab3ff3aa27ff8ea73c1894d56a4abb6014beae]{
 -- Page 187, Offset 4440.
 -- 病院から退院したばかりの頃は毎日のように貧血で倒れてしまっていたほどだ。
-Cuando me dieron el alta en el hospital, sufría de un ataque al menos cada día.
+Cuando me dieron el alta en el hospital, sufría al menos de un ataque al día.
 }
 [sha:908e0aa6d82a9b74b430c9ca03dbeb8b73b7d300]{
 -- Page 187, Offset 4441.
 -- そんな体質のせいで多くの出来事を取りこぼしてきたものの、まわりの人たちのおかげで大事にいたる事はなかった。
-Me perdí muchas cosas a causa de mi enfermedad,
+A causa de mi enfermedad me perdí muchas cosas,
  pero gracias a las personas a mi alrededor, nunca fue algo importante.
 }
 [sha:8c59d491e79a367fdd2d5f8c7e95cef7fdf4ba58]{
 -- Page 188, Offset 4442.
 -- 今は身体も成長しきり、無茶な運動さえしなければ眩暈や貧血は起きなくなった。
-Ahora que he crecido un poco, los síntomas son menos frecuentes――teniendo en cuenta que evite el ejercicio físico excesivo.
+Ahora que he crecido un poco, los síntomas son menos frecuentes――siempre que evite el ejercicio físico excesivo.
 }
 [sha:2a5b8bb295344d4c266018d3ee45245c2ce3c9d9]{
 -- Page 188, Offset 4443.
@@ -285,7 +285,7 @@ Aún así, no puedo evitar sentirme mareado y desmayarme de vez en cuando.
 -- Page 188, Offset 4444.
 -- 今日は有彦が途中で声をかけてくれたから良かったものの、いつもならあのまま気を失っていたところだ。
 Tengo suerte de que Arihiko me haya llamado la atención en su momento.
- Bajo esas circunstancias normalmente me hubiera desmayado.
+ Normalmente bajo esas circunstancias me hubiera desmayado.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 189, Offset 4445.
@@ -321,7 +321,7 @@ Casi voy a la taquilla por costumbre.
 [sha:b6f6a0d67cc1925daa393fe6a1b000a99e4b46e7]{
 -- Page 191, Offset 4451.
 -- 俺の帰る場所は有間の家じゃない。遠野の屋敷だ。ここから電車に乗る必要は、もうない筈だ。
-El hogar de los Arima ya no es mi casa. La mansión Tohno lo es.
+El hogar de los Arima ya no es mi casa, es la mansión Tohno.
  Ya no tengo razón para coger el tren desde aquí.
 }
 [sha:5b1a8fa3a258adad2b470db728b9e44f7518b3e8]{
@@ -337,17 +337,17 @@ Aún no me encuentro bien.
 [sha:b748b217bb53f1388f80c446506016376d97fe73]{
 -- Page 192, Offset 4454.
 -- 額に手を当ててみれば、普段より熱をもっている。
-Pongo la mano en mi frente y veo que está más caliente de lo normal.
+Me pongo la mano en la frente y veo que está más caliente de lo normal.
 }
 [sha:b54a9ad8f200c7b6abb7996f8d904af0e7ac1287]{
 -- Page 193, Offset 4455.
 -- このまま無理をして道端に倒れこんでは元も子もない。
-No tiene sentido esforzarme así si voy a terminar colapsando en la acera de algún lado.
+No tiene sentido esforzarme de esta forma si voy a terminar colapsando en la acera de algún lado.
 }
 [sha:b1c88a0888db7f554292fc8820cbc62ef28d7407]{
 -- Page 193, Offset 4456.
 -- 「……しょうがないな、ほんと」
-"Supongo que no tengo elección, ¿no?"
+"No tengo elección, ¿verdad?"
 }
 [sha:21b9c8e50983358cbcbad67c7240bd30f2a58c5a]{
 -- Page 193, Offset 4457.
@@ -357,5 +357,5 @@ Me siento en un banco, asqueado conmigo mismo.
 [sha:f8529c4f652d572d2299d141edb63003be17b6ff]{
 -- Page 193, Offset 4458.
 -- 気分が落ち着くまで少し休む事にしよう。
-Descansaré un rato aquí hasta que me sienta mejor.
+Descansaré aquí un rato hasta que me sienta mejor.
 }

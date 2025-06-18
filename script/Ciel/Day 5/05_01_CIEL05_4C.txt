@@ -11,7 +11,7 @@
 [sha:eab7c89dcebdf5103504217b41272dd8a6eb0628]{
 -- Page 10025, Offset 12937.
 -- 心肺機能が喜びの悲鳴をあげる。
-Mi corazón y pulmones gritan aliviados.
+-- TRANSLATION HERE
 }
 [sha:08d5adc313866e2b4bbccc3e667304c4c46b1424]{
 -- Page 10025, Offset 12938.
@@ -26,7 +26,7 @@ Mi corazón y pulmones gritan aliviados.
 [sha:1b06c3653ef2721ccc6496108b9cd62f2b5fc6c2]{
 -- Page 767, Offset 12940.
 -- ナイフを握っているかどうかも曖昧だ。
-No estoy seguro de si sigo agarrando el cuchillo.
+-- TRANSLATION HERE
 }
 [sha:41435476a538bf8d700b52d2a7616640d0d1fdd4]{
 -- Page 767, Offset 12941.
@@ -78,7 +78,7 @@ No estoy seguro de si sigo agarrando el cuchillo.
 -- 「いや、あの。その言い方は、あんまりな気がします」
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:12951]{
 -- Page 771, Offset 12951.
 -- 「……！」
 ¡Ah!
@@ -168,10 +168,10 @@ No estoy seguro de si sigo agarrando el cuchillo.
 -- なんて、ころころと笑っていた。
 -- TRANSLATION HERE
 }
-[sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
+[offset:12969]{
 -- Page 779, Offset 12969.
 -- 「っ―――」
-"%{i}Ugh%{/i}―――"
+-- TRANSLATION HERE
 }
 [sha:761f3c3340280854ffa02fcf5020fdf74d1a7a41]{
 -- Page 779, Offset 12970.

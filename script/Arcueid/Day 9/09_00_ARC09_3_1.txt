@@ -1,7 +1,7 @@
 [sha:3088463f080ccaf75428688cc2a2ce9f3f47e77d]{
 -- Page 10009, Offset 21548.
 -- 何をしようとしばらく考えこんだあげく、七年ぶりに屋敷の中を散歩する事にした。
-Tras sopesar un rato qué hacer
+Tras sopesar un rato qué hacer,
  decido dar mi primera vuelta de verdad por la mansión en siete años.
 }
 [sha:9471c6bbe2e92565111bff97d4a7202db75395b9]{
@@ -27,7 +27,7 @@ De pequeño me solía meter en problemas por explorar la mansión.
 [sha:e0e84cfff559809af33a9ed2323f99096d079636]{
 -- Page 99, Offset 21553. Glued. Mods: @x.
 -- あの頃はこの屋敷は城みたいなもので、きっと何処かに隠し扉があり、見た事もない世界に続いているのだと信じていた。
-En aquel entonces para mi la mansión era como un castillo.
+ En aquel entonces para mí la mansión era como un castillo.
  Y estaba convencido de que había una puerta oculta en algún lado que me llevaría a un mundo lleno de maravillas nunca vistas.
 }
 [sha:1e98e54b2c31e1ee34f7bf4d134a3f35eb16aa13]{
@@ -60,10 +60,10 @@ Empiezo a recordar fragmentos de como solía andar a hurtadillas por el vestíbu
 -- そんな思い出に誘われるように、のんびりと屋敷の中を歩き始めた。
 Comienzo a caminar por la mansión, incentivado por esas memorias.
 }
-[sha:4658195e2fafe9877288f974816939d58c317faf]{
+[offset:21560]{
 -- Page 103, Offset 21560.
 -- テラスに出る。
-Salgo a la terraza.
+Me dirijo a la terraza.
 }
 [sha:c18438f04947642a86df5ac2d5b323efd664f9ce]{
 -- Page 103, Offset 21561.
@@ -85,7 +85,7 @@ La mansión misma es diez veces más grande que la casa promedio,
 [sha:d9868f3dfc82b9c8588865207a0e9722127714bf]{
 -- Page 104, Offset 21564.
 -- 七年前……まだ十歳だった自分にとって、それがどれほど冒険しがいのある世界だった事か。
-Hace siete años... tendría diez años en aquel entonces.
+Hace siete años... en aquel entonces tendría diez años.
  Debía parecer un mundo a rebosar de aventuras que tener.
 }
 [sha:7139f034aee7bcecb8fae0d146016644bd70dd2a]{
@@ -143,7 +143,7 @@ Frente a nuestro padre debe haber escondido
 -- Page 109, Offset 21574.
 -- ま、それにしたって今の秋葉は変わりすぎだ。七年間という歳月は、こっちが思っている以上に長いものだった。
 Bueno, incluso con todo eso, Akiha ha cambiado mucho desde entonces.
- No pude predecir lo mucho que puede pasar en siete años.
+ No fui capaz de predecir lo mucho que puede pasar en siete años.
 }
 [sha:c76577b237da40083f9e6343b49f00faf22e1129]{
 -- Page 109, Offset 21575.
@@ -153,7 +153,7 @@ El tiempo pasa, y ella creció y se convirtió en una adulta hecha y derecha.
 [sha:93da9806abb6982b3d4d02d28a0a229a1270b85e]{
 -- Page 109, Offset 21576.
 -- 俺と秋葉は、幼かった頃の遠野志貴と遠野秋葉ではなくなってきている。
-Akiha y yo ya no somos los niños de tiempo ha.
+Akiha y yo ya no somos los niños que una vez fuimos.
 }
 [sha:1edbb56258bfb66fa4a5b2535c355e7c63d13988]{
 -- Page 110, Offset 21577. Mods: @n.
@@ -168,7 +168,6 @@ Akiha y yo ya no somos los niños de tiempo ha.
 [sha:2653049a463db6371b6939c4dcdc3cc6828993a0]{
 -- Page 110, Offset 21579.
 -- 中庭に造られた<建物|ガゼボ>の外側。
-// Tl oficial
 Hay una glorieta en el jardín.
 }
 [sha:3dd84df21bfb598938f72c8d8e1c867f10afaf2f]{
@@ -197,7 +196,6 @@ Al igual que en otros lugares, parece que el ratio victoria-pérdida me favorece
 [sha:7b82042e04892f74e43a11de329e2d13263e196c]{
 -- Page 112, Offset 21584.
 -- なんだかんだと秋葉は女の子で、男の子であるこっちの行動範囲の広さには及ばなかったのだろう。
-// Cancelado en 216 paises.
 Lo achacaré al hecho de que como chica
  Akiha no tenía la misma libertad para deambular que se le daba a los chicos.
 }
@@ -248,10 +246,10 @@ Ha sido divertido revivir estas memorias,
 -- 「……ん？」
 "¿Hmm...?"
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:21594]{
 -- Page 115, Offset 21594. Mods: @n.
 -- ……と。
-Sin embargo...
+Pero cuando miro hacia arriba―――
 }
 [sha:6c684d0c3566d1612a6dd0be13451d324b13a7ac]{
 -- Page 115, Offset 21595.
@@ -267,13 +265,13 @@ Veo otro conjunto de letras
 [sha:0efbee2a0cd59d4cc1adf74058fc06440441e9ea]{
 -- Page 116, Offset 21597.
 -- どうやって刻んだのだろう？
-¿Cómo ha podido alguien cavar algo ahí?
+¿Cómo ha podido alguien carvar algo ahí?
 }
 [sha:90c0edb273850014ba36edb107f7ea4a3032ea65]{
 -- Page 116, Offset 21598.
 -- 子供の背では届かない。大人だって届くかどうか。
 No hay forma de que un niño llegue ahí.
- Ni siquiera se si un adulto podría.
+ Ni siquiera sé si un adulto podría.
 }
 [sha:72a3450e527f58d599526e5935f8d692a2c05256]{
 -- Page 117, Offset 21599.
@@ -308,10 +306,10 @@ Oculto en un rincón oscuro del techo, en letras pequeñas...
 -- 「……………？」
 "¿Eh...?"
 }
-[sha:70c02219efd6acbf5cb83360e6e1f47681ba654c]{
+[offset:21605]{
 -- Page 119, Offset 21605.
 -- 意味が分からない。
-No se a que se refiere.
+No entiendo.
 }
 [sha:8a90b9b07545e677653b3b5bce90a350f625bb52]{
 -- Page 119, Offset 21606.

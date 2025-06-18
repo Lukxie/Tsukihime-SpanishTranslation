@@ -23,7 +23,7 @@
 -- それを俺はホテルで一度味わっている……！
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:11671]{
 -- Page 302, Offset 11671.
 -- 「……！」
 ¡Ah!
@@ -176,7 +176,7 @@
 [sha:bc7db91891550b2366d4ed700f18d38030bb75b7]{
 -- Page 313, Offset 11701.
 -- 「―――な」
-"Qu―――"
+-- TRANSLATION HERE
 }
 [sha:c16c3f88f13610df2520b5bfec1db0f87914ec84]{
 -- Page 313, Offset 11702.

@@ -66,12 +66,12 @@
 [sha:0d4898c497e1af6b4e2ecfcf7c11a1d1126b20e4]{
 -- Page 3, Offset 37615. Mods: @k, @e.
 -- 「――――――、
-"
+-- TRANSLATION HERE
 }
 [sha:579251ec90a817b49ef70d7a9542948dd69e9463]{
 -- Page 3, Offset 37616. Glued. Mods: @x.
 -- はあ」
-%{i}Hah%{/i}."
+-- TRANSLATION HERE
 }
 [sha:0f5467ee7608b698584df0902e6fc002ebd96c6b]{
 -- Page 3, Offset 37617.
@@ -208,10 +208,10 @@
 -- 黄金の月の下のコイツが、そんなものを持ってしまうほど、今の言葉は残酷な罵倒だったと思い知る。
 -- TRANSLATION HERE
 }
-[sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
+[offset:37644]{
 -- Page 11, Offset 37644.
 -- それでも―――
-Y aún así―――
+-- TRANSLATION HERE
 }
 [sha:c617429a1f5ffc086e7d3b1201a648fc02d5b0bd]{
 -- Page 12, Offset 37645.

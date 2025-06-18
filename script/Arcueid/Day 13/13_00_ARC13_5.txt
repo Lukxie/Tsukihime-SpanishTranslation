@@ -32,12 +32,12 @@ Roa me habla como si nada hubiera pasado.
 -- Page 406, Offset 32825.
 -- 「死が視える人間というものは、死から逃れる術に長けているという事か。生命力の強い弱いの問題ではなく。
 "Me pregunto si los humanos que pueden ver la muerte también tienen capacidad de evitarla,
- sin importar si su fuerza vital.
+ sin importar su fuerza vital.
 }
 [sha:b2ba842a459841d622ba32d82a335b3e399cc219]{
 -- Page 406, Offset 32826.
 -- まあ、往生際が悪い、とも言うがね」
-Bueno, tambien puede ser que no sepas cuándo rendirte."
+Bueno, también puede ser que no sepas cuándo rendirte."
 }
 [sha:a0e57690a6fe02fb2b7a2883bd5273dfd02d6cc4]{
 -- Page 407, Offset 32827.
@@ -58,7 +58,7 @@ Tanto él como yo estamos medio vivos,
 [sha:5d6fc1708b7c8c21bcbea930dff0cccb84b4dccc]{
 -- Page 408, Offset 32830.
 -- 私と君は、その中でもさらに特別な能力があったケースだ。
-Una fracción de esas personas, como tu y como yo, poseemos habilidades especiales.
+Una fracción de esas personas, como tú y como yo, poseemos habilidades especiales.
 }
 [sha:492dda4d771735e11b44feffcc54e1dc017eec71]{
 -- Page 408, Offset 32831.
@@ -120,12 +120,11 @@ Lo agradezco.
 [sha:a1aadcbb8c25454cf4b27d2ef2fd75bb291867ae]{
 -- Page 411, Offset 32842. Glued. Mods: @x.
 -- ヤツが<知|ヒ><性|ト>らしくあろうとするほど、俺はそれらに怒りを覚える。
-Cuanto más actúe como un humano, más me puedo enfadar con él.
+ Cuanto más actúe como un humano, más me puedo enfadar con él.
 }
 [sha:32d150871b144fdb19b34059bb508b86988192de]{
 -- Page 411, Offset 32843.
 -- もう、そこに固執しなくていいのだと、<嗤|わら>い至る。
-// No se a cual de las 2 tls adherirme de momento lo dejo así
 De hecho, estoy tan enfadado que el hecho de que se parezca a un humano ya no es algo que me detenga.
  Es casi cómico.
 }
@@ -147,7 +146,7 @@ De hecho, estoy tan enfadado que el hecho de que se parezca a un humano ya no es
 [sha:a4c3bb81e5f47830def79b6b1c137362ba0e815e]{
 -- Page 413, Offset 32847. Glued.
 -- 自分の命が狙われているんだ。殺し返すのは当然だろう？
-Iba tras mi vida. ¿No es normal querer matarla por ello?
+ Iba tras mi vida. ¿No es normal querer matarla por ello?
 }
 [sha:f0460a7b08b7610c74a7cbfc1a7c7a983d8a07cc]{
 -- Page 413, Offset 32848.
@@ -159,7 +158,7 @@ Aunque tengo que decir que――esa vergüenza de Princesa averiada, difícilmen
 [sha:4517f9cb0714b743912c248daab9af3d253a28f9]{
 -- Page 414, Offset 32849.
 -- 「一介の吸血鬼と変わらぬ真祖で手に入れても意味はない。
-"No hay que ganar de una Verdadero Ancestro que no es distinta de cualquier otro vampiro.
+"No hay nada que ganar de una Verdadero Ancestro que no es distinta de cualquier otro vampiro.
 }
 [sha:d18aeffe6f6d8f85b44402eb91e2ec1ed4bf1771]{
 -- Page 414, Offset 32850.
@@ -195,12 +194,12 @@ No puedo soportar que 'exista' ni un segundo más.
 [sha:cb07e6234ce59de902a050e63a66dc9a1f3eef0c]{
 -- Page 416, Offset 32856.
 -- 「さて。それで、この後はどうする？
-"Ahora que. ¿Que quieres hacer ahora?
+"Ahora pues. ¿Qué quieres hacer?
 }
 [sha:8620bac62396edeea2cf1a5642460e64e09ab2b4]{
 -- Page 416, Offset 32857.
 -- まさか、その体で私とやりあおうというハラでもあるまい。
-Seguro que no planeas enfrentarte a mi en esas condiciones.
+Seguro que no planeas enfrentarte a mí en esas condiciones.
 }
 [sha:9e76edae9982ed48370b19702beff1a7ea56499e]{
 -- Page 416, Offset 32858.
@@ -226,10 +225,9 @@ Sin embargo――aunque no tenga la fuerza para ponerme en pie,
 [sha:dccef6c5c7164b0f9b667556a5979c3e20020dbd]{
 -- Page 418, Offset 32862.
 -- 「よせよせ。いくら私の死を視たところで触れられなければ意味はないし、その戦意は間違えている」
-// Hmm equivocada no suena bien en el español
 "Déjalo ya.
- Puedes mirar mi muerte todo lo que quieras, pero si de nada sirve si no puedes tocarme.
- Tu hostilidad está mal dirigida.
+ Puedes mirar mi muerte todo lo que quieras, pero de nada sirve si no puedes tocarme.
+ Tu hostilidad está mal dirigida."
 }
 [sha:6dd2bda09623454f046772d6fbffd75ff3a41153]{
 -- Page 418, Offset 32863.
@@ -283,7 +281,7 @@ Hmm... parece que la personalidad de SHIKI se está desvaneciendo.
 [sha:f36e04e4cdd4404dd72223f38081841817b1b82d]{
 -- Page 422, Offset 32872.
 -- ヤツが近づいてくる。
-Se acerca a mi.
+Se acerca a mí.
 }
 [sha:8becebc040cb05c7485a0707b66ec4ea8fe4e530]{
 -- Page 422, Offset 32873.
@@ -298,8 +296,8 @@ Con el eco de cada paso, la silueta de su cuerpo empieza a disolverse.
 [sha:62b219ef3b1eac51ca41e982ead075177121d353]{
 -- Page 422, Offset 32875.
 -- ヤツへの怒り。憎しみ。己への怒り。憎しみ。
-Ira dirigida a el. Odio dirigido a él.%{n}
- Ira dirigida a mi. Odio dirigido a mi.
+Ira dirigida a él. Odio dirigido a él.%{n}
+ Ira dirigida a mí. Odio dirigido a mí.
 }
 [sha:aa1d3a3582a85ba1358750ad10ad410707d1e785]{
 -- Page 422, Offset 32876.
@@ -315,7 +313,6 @@ Emociones que se mezclan y ebullen,
 [sha:b14eec15739550bd3afc687fc876485894043e21]{
 -- Page 423, Offset 32878. Mods: @n.
 -- 己という孔から。ごぼり、
-// Tomandome muchas libertades
 Algo hierve en el interior de mi abismo
 }
 [sha:c88a8885bad9130c8a1db417ce5a1e47d79888fc]{
@@ -331,12 +328,12 @@ En otras palabras,
 [sha:2d9f03b4a5badd484c4c1abbe35197fc3e86822e]{
 -- Page 423, Offset 32881. Glued. Mods: @n.
 -- いけないモノ
-algo terrible
+ algo terrible
 }
 [sha:019b06c234ca8aff7d075148dad9357c5f51cae6]{
 -- Page 423, Offset 32882. Glued.
 -- が、
-va...
+ va...
 }
 [sha:2464807e40785353aef979c8af860cfc7e64cd24]{
 -- Page 424, Offset 32883.
@@ -348,7 +345,7 @@ va...
 -- 喜んでいい、直死の魔眼を所持できる者は私たちぐらいのものだ。その稀少能力を無くしてしまうのは惜しく、なにより我々は同じもの。誰よりも互いを理解できるだろう。
 Deberías estar encantado.
  Somos los únicos que poseemos los Ojos Místicos de Percepción Mortal.
- Sería una lástima desperdiciar una habilidad tan rara, y más cuando tu y yo somos iguales.
+ Sería una lástima desperdiciar una habilidad tan rara, y más cuando tú y yo somos iguales.
  Podemos entendernos mejor que nadie.
 }
 [sha:23b18f00520ca8be07b1bf795975f4afda12f3ac]{
@@ -384,7 +381,7 @@ Ya no importa la distancia entre nosotros.
 [sha:9213a3084dd23661223dff8bc436f852c34e6cb3]{
 -- Page 426, Offset 32890.
 -- 俺より前にいればそれでいい。
-Todo lo que importa es que esté frente a mi.
+Todo lo que importa es que esté frente a mí.
 }
 [sha:61432f1c51c319cd8b6fc2dbfa9b2ad95758739e]{
 -- Page 426, Offset 32891.
@@ -467,7 +464,7 @@ Ah, qué provocación tan conmovedora. Como desees, te seguiré el juego.
 [sha:752931bad94e968d0470465498c4811d9013b5e4]{
 -- Page 432, Offset 32906.
 -- 倫理／常識は残っていない。
-Moralidad o sentido común. En mi ya no queda.
+Moralidad o sentido común. En mí ya no queda.
 }
 [sha:87240584a88b811ec5fe87d2faacbd3d47035093]{
 -- Page 432, Offset 32907.
@@ -477,7 +474,6 @@ Mis opiniones, mis modales. No los recuerdo.
 [sha:e8597e2c254b22efc47423697a0a1b2c45aeed44]{
 -- Page 432, Offset 32908.
 -- 我を構成する<肉|もの>は腐れ落ちた。
-// Pensé en encierra pero no se.
 Podrida se encuentra la carne que me constituye.
 }
 [sha:b572589cb5488e53ba14c020c242f463cdee5a7b]{
@@ -495,10 +491,10 @@ Ya... he...
 -- 人間でいる意味が、分からない。
 Olvidado lo que significa ser humano.
 }
-[sha:70a544ce909034266812004d9aca986952265be1]{
+[offset:32912]{
 -- Page 434, Offset 32912.
 -- 「!?」
-"¡¿%{i}Uwah%{/i}?!"
+"?!"
 }
 [sha:4f3d5750bb8b5c2796409be5798ec191b057bfdc]{
 -- Page 434, Offset 32913.
@@ -534,12 +530,12 @@ Es incapaz de ver nada que pueda amenazarlo.
 [sha:6174580c9ce4f2a8ee4574f9d55d5893d472af94]{
 -- Page 436, Offset 32919.
 -- だからこそ、ヤツの目は恐怖だけを映していた。
-Por eso lo único que se ve sus ojos es el miedo.
+Por eso, lo único que se ve sus ojos es el miedo.
 }
 [sha:6638b624528ac436b5a740ed1c34e9a46928aa7f]{
 -- Page 437, Offset 32920.
 -- 「俺とおまえが視ているものは違うよ、吸血鬼」
-"Lo que tu y yo vemos son cosas distintas, vampiro."
+"Lo que tú y yo vemos son cosas distintas, vampiro."
 }
 [sha:a7a7c2003c0bae2ffb2f69ac095dc7dfd9667ebd]{
 -- Page 437, Offset 32921. Mods: @n.
@@ -575,7 +571,7 @@ Por eso pudiste matar a una mujer debilitada.
 [sha:e2b7105d3f1c2394b93cfb15008b828484ce7e57]{
 -- Page 438, Offset 32927. Glued.
 -- 正気でなんかいられない。おまえに分かるのは物を生かしている部分だけだ。
-no serías capaz de mantener la cordura.
+ no serías capaz de mantener la cordura.
  Lo que entiendes no es más que aquello que da vida.
 }
 [sha:ddbc08f94e409ab5d792d0a6c674e85c1a39b74e]{
@@ -632,7 +628,6 @@ Se resume en esto:
 [sha:2bc7a4584b903aa5e70aa9174f63400a0dd48716]{
 -- Page 440, Offset 32938.
 -- 「―――やめろ。その目で、その目で私を見るな」
-// :sabergasm:
 "―――Detente. No... ¡no me mires con esos ojos!"
 }
 [sha:1b975f2026f14765a8cf060197719dcfc4b185b9]{
@@ -740,7 +735,7 @@ Incluso el grito de Roa es ahogado entre los escombros.
 [sha:f3ee5c707f5c2f431949231d9aed3e6e9b687c05]{
 -- Page 446, Offset 32959.
 -- 渡り廊下は文字通り殺された。
-El paso ha muerto literalmente.
+El paso ha muerto, literalmente.
 }
 [sha:20fca9335db9567650c31f60f676a9f6e8799ec5]{
 -- Page 446, Offset 32960.

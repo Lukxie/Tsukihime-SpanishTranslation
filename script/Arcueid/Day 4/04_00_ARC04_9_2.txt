@@ -43,7 +43,7 @@ Ha pasado más de medio día desde el incidente en el callejón.
 -- 彼女の『力』とやらも、少しは戻っている筈だ。
 Tiene que haber recuperado algo de su fuerza.
 }
-[sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
+[offset:8158]{
 -- Page 939, Offset 8158.
 -- ……。
 ...
@@ -105,7 +105,7 @@ Se van las luces.
 -- 異常だった謎の高温現象も途絶えた。
 La temperatura absurdamente alta vuelve a la normalidad.
 }
-[sha:05323e9aafc28fa71cd331892acdc91dd9a00b9d]{
+[offset:8170]{
 -- Page 942, Offset 8170.
 -- 同時に、
 Al mismo tiempo―――
@@ -159,7 +159,7 @@ Escucho el sonido de la puerta rompiéndose,
 [sha:78a458b3e699d1c89aa7f0d671f6c706a2d2b869]{
 -- Page 946, Offset 8180.
 -- 「――――！」
-"%{i}Gah%{/i}!"
+"¡%{i}Gah%{/i}!"
 }
 [sha:50ddcfe09a0de229fbaf1d9b929ffc85071f3576]{
 -- Page 946, Offset 8181.
@@ -174,7 +174,7 @@ Sumado al hecho de que me he apartado de la puerta como medida de precaución―
 [sha:7e78a932eb780797d824ff032f3f6b6b2d9cba5e]{
 -- Page 946, Offset 8183.
 -- 決定的な“理由”となった。
-Finalmente han conducido a este 'resultado'.
+Conducen finalmente a este 'resultado'.
 }
 [sha:e4d2e4ec6cfa4c98f1a1aa89fe999af7ab505c50]{
 -- Page 947, Offset 8184.
@@ -199,8 +199,8 @@ Una cantidad inescapable de fuego inunda la habitación, llenándola de pies a c
 [sha:6adc8ecf7ed0fe252cedf40af66cee10cb218caf]{
 -- Page 948, Offset 8188.
 -- よほどの高温でないかぎり、人間は火に触れても即死はしない。だがこれは一撃で人体を灰にする、鈍器のような炎だった。
-El fuego no mata a una persona instantáneamente si no está excepcionalmente caliente.
- Pero esta llama es como un instrumento contundente que puede reducir a un humano a cenizas con un simple golpe.
+Si no está excepcionalmente caliente, el fuego no mata a una persona instantáneamente.
+ Pero esta llama es como un instrumento contundente que puede reducir a un humano a cenizas de un simple golpe.
 }
 [sha:53cb024e5b11a223a378cb3229827525bdc86405]{
 -- Page 949, Offset 8189.
@@ -210,7 +210,7 @@ Me recuerda a un lanzallamas.
 [sha:7242f6c073c91ee2a00b876d5aec5b652bc1baae]{
 -- Page 949, Offset 8190.
 -- あれは炎を浴びせているように見えるが、その実、燃料を飛ばして対象にかけ、文字通り“火をつけている”のだ。
-Aunque parezca que lanza llamas, en realidad, está lanzando combustible a su objetivo, así que es más bien un 'encendedor'.
+Aunque parezca que lanza llamas, en realidad, está lanzando combustible a su objetivo y, literalmente, le prende fuego.
 }
 [sha:bae398e1aace51b96ce77a2d4a93ee7ece6ac43d]{
 -- Page 950, Offset 8191.
@@ -230,6 +230,6 @@ No hay forma de que un cuerpo humano aguante algo que ha incinerado paredes y me
 [sha:060f25d4fee88c40b3d91860b8de42fece24d4cc]{
 -- Page 951, Offset 8194.
 -- 良かった点があるとすれば、その威力のおかげで上半身は一瞬で吹き飛び、炎に焼かれて死ぬ苦しみだけは、避けられたという事だ。
-Lo único bueno de esto es que es tan potente que la parte superior de mi cuerpo sale volando al instante,
+Lo único bueno de esto es, que es tan potente que la parte superior de mi cuerpo sale volando al instante, 
  ahorrandome el dolor de morir quemado por las llamas.
 }

@@ -33,7 +33,7 @@ Ah ya veo, tienes tanto miedo que te has quedado congelado ♥
 [sha:60f28a7e01b746fb32af034f54cecfbd12c2d17b]{
 -- Page 583, Offset 21247.
 -- うんうん、やっぱり文系の美少年はそうでなくっちゃ！
-Mmmmm, ¡así es %{i}justo%{/i}  como un chico guapo tiene que comportarse!
+Mmmmm, ¡así es %{i}justo%{/i} como tiene que comportarse un chico guapo!
 }
 [sha:c556a720467b8d0691a188dc04f54c588d9f998a]{
 -- Page 583, Offset 21248.
@@ -71,7 +71,7 @@ Ella, por otro lado, está tan relajada como para hablar.
 -- 「やっぱり―――無抵抗な人間しか、相手にしてこなかったのかしら、ねっ！」
 "Como pensaba――debes haber ido solo tras gente que no se ha resistido, ¡¿eh?!"
 }
-[sha:82569ce7130b2317adc0fe17c311418237f176aa]{
+[offset:21255]{
 -- Page 585, Offset 21255.
 -- このように。
 Aquí viene.
@@ -95,7 +95,7 @@ La masa de hierro casi me vuela la cabeza.
 -- Page 586, Offset 21259.
 -- 前のめりに地面に倒れ込んで、地上80センチのなぎ払いを躱す。
 Me tiro al suelo,
- evadiendo su lanza que atraviesa el aire a ochenta centímetros del suelo.
+ evadiendo su lanza que atraviesa el aire a ochenta centímetros sobre el suelo.
 }
 [sha:fb44600351a22a620bd1529a71e0ec91ffa6a017]{
 -- Page 587, Offset 21260.
@@ -168,7 +168,7 @@ Es completamente distinta a mi caída anterior.
 [sha:fba2f401bf8593e956a66bcacfe8a8b70cae77ad]{
 -- Page 592, Offset 21273.
 -- 地面に倒れるだけでも、確かな腕力で地面に<落|・><と|・><さ|・><れ|・><る|・>と人体は容易に破壊される。
-Sigo golpeando el suelo
+Es golpear el suelo igualmente,
  pero que te %{i}lancen%{/i} con tal precisa aplicación de fuerza física puede destruir el cuerpo fácilmente.
 }
 [sha:925223eef67642a660e8204ec94f10a7a1bbf5da]{
@@ -190,13 +190,13 @@ Noel recoge su lanza y continua motivándose a ella misma.
 -- Page 594, Offset 21277.
 -- そのまま、コホン、とわざとらしく咳払いをすると、背中から地面に倒された俺の胸を、そのブーツで踏みつけた。
 Mientras sigo de espaldas donde me caí.
- Ella garraspea nerviosa
+ Ella garraspea nerviosa,
  y después me pisa el pecho con su bota.
 }
-[sha:34209719ca290c596bcd97cad96fca8c9353cf33]{
+[offset:21278]{
 -- Page 595, Offset 21278.
 -- 「っ……」
-"%{i}Ngh%{/i}..."
+"%{i}Guh%{/i}..."
 }
 [sha:b195ec8f938392afe5c038e6d5321d80ca1001fa]{
 -- Page 595, Offset 21279.
@@ -206,7 +206,7 @@ Mientras sigo de espaldas donde me caí.
 [sha:733f1088bf435f3b3528869cf85302e1fda50adc]{
 -- Page 595, Offset 21280.
 -- 逃げようとして転んじゃったのはカッコ悪かったけどね」
-Aunque, caerse mientras intentas huir es tan patético que puede uno hacer."
+Aunque, caerse mientras intentas huir es tan patético que qué puede uno hacer."
 }
 [sha:78e3e4b9321cc112159bf0b7b34793d5b066500b]{
 -- Page 596, Offset 21281.
@@ -223,7 +223,7 @@ No parece que esté haciendo mucha fuerza,
 [sha:50b0e852f792301076161c284fd863a377c0d2cc]{
 -- Page 597, Offset 21283.
 -- 「……もしかして。アンタも吸血鬼だったのか」
-"No me digas que... ¿Tu tambien eres un vampiro?"
+"No me digas que... ¿Tú tambien eres un vampiro?"
 }
 [sha:de2fb4f11a66e9f45a3e598242f3e86d2f14a8cf]{
 -- Page 597, Offset 21284.
@@ -233,13 +233,11 @@ La pregunto para estar seguro.
 [sha:3b3fbf69ee76bf4d887793d6325a6390f04c69fe]{
 -- Page 598, Offset 21285.
 -- 「踏み潰される５秒前なのに余裕じゃない。
-// Tl oficial
 "Considerando que estás a cinco segundos de ser aplastado, que pregunta tan atrevida.
 }
 [sha:a310b346008875e620051f33fb9d633c44b0df89]{
 -- Page 598, Offset 21286.
 -- 今の質問もぜんぜん本気じゃないし。
-// Tl oficial
 Además de estúpida.
 }
 [sha:6fdfb403ceb9f85866603e5ce884daada1fe977c]{
@@ -250,14 +248,14 @@ Además de estúpida.
 [sha:71aa51cb48a4efa189822b5fbe8ec3fea89d1ade]{
 -- Page 599, Offset 21288.
 -- 「った……！」
-"¡%{i}Ow%{/i}!"
+"¡%{i}Au%{/i}!"
 }
 [sha:d73750c86bdd70962ab5b98aa675a48332bfb7cc]{
 -- Page 599, Offset 21289.
 -- 大げさな動作で踏み込まれたが、派手なだけで胸にかかる圧力は強くはなかった。
 Me vuelve a pisar exageradamente,
  pero como sus movimientos son mayormente para aparentar,
-  en realidad no me da tan fuerte.
+ en realidad no me da tan fuerte.
 }
 [sha:9e58fa7d4fbf8ebe80d6ac24eb517ff3e1fa799f]{
 -- Page 600, Offset 21290.

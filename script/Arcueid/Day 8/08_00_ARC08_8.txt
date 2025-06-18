@@ -17,7 +17,7 @@ Me cuesta mantener los ojos abiertos.
 [sha:0a9a038276922a6f4cfac3a33f28228999685fba]{
 -- Page 490, Offset 20957.
 -- 「……あいつ、あんなんで大丈夫なのかな」
-"Me pregunto si estará bien de verdad..."
+"Me pregunto si de verdad estará bien..."
 }
 [sha:fb90bf9a900b350ce8b133d9d8fbe6af5be2546f]{
 -- Page 490, Offset 20958.
@@ -35,21 +35,21 @@ Me da la sensación que no era solo por su herida,
 -- 「ん？」
 "¿Hmm?"
 }
-[sha:7b4f8e4d5b7066a2a808765dd27abbb39802aab3]{
+[offset:20961]{
 -- Page 491, Offset 20961.
 -- なんだろう。
-¿Qué %{i}era%{/i} eso?
+¿Qué %{i}es%{/i} eso?
 }
 [sha:a859aaec946e028e36c6aff8f4cce913cdefccc3]{
 -- Page 491, Offset 20962.
 -- 街灯と街灯の中間。明かりの届かない暗がりに、何かが立っているような―――
-Ahí, en el espacio entre dos farolas.
- En esa oscuridad que la luz no puede alcanzar, se alza una figura―――
+Allí, en el espacio entre las dos farolas.
+ En aquella oscuridad que la luz es incapaz de alcanzar, se alza una figura―――
 }
 [sha:23611c72556ac02b3487f3d884fd1cd8a9fba2f5]{
 -- Page 492, Offset 20963.
 -- ――――――どくん。
-―――%{i}Bum-bum%{/i}.
+-- TRANSLATION HERE
 }
 [sha:2529c272d965ea7a6311dc1596ebd7c9fa2e04e2]{
 -- Page 492, Offset 20964.
@@ -64,7 +64,7 @@ Es algo tan surrealista que hace que se me encoja el corazón en el pecho.
 [sha:938a6b1e35bd9d859551ea88e105ff84820ffe44]{
 -- Page 492, Offset 20966.
 -- だがあいにく、この<肝|むね>には既にソレらへの耐性があり。
-Pero por desgracia para ello
+Pero por desgracia para esa cosa,
  recientemente he formado bastante tolerancia ante lo sobrenatural.
 }
 [sha:655a745fb0de575718b216ca48e720287bac8a04]{
@@ -76,7 +76,7 @@ Mi corazón poco a poco comienza a latir de nuevo,
 [sha:23611c72556ac02b3487f3d884fd1cd8a9fba2f5]{
 -- Page 493, Offset 20968.
 -- ――――――どくん。
-―――%{i}Bum-bum%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:c6b2b34691513c0e2e6141474a43c08529c42c8a]{
 -- Page 493, Offset 20969.
@@ -108,17 +108,17 @@ Cada vez se acerca más.
 [sha:165d816c203d65acc4e017171ad00966c6521b57]{
 -- Page 494, Offset 20974.
 -- 乾いた足音が聞こえてくる。
-Escucho sus chirriantes pasos.
+El sonido de sus pasos huecos.
 }
 [sha:873f35553ab76c0947f2984e2403f1eab519a5f0]{
 -- Page 494, Offset 20975.
 -- その、<唯一|ゆいいつ>剥き出しの眼球が、血走りながら俺を凝視する。
 Me mira fijamente con un solo y sangriento ojo.
 }
-[sha:d82319ae49d8581f4f759d24e24ba5649b736610]{
+[offset:20976]{
 -- Page 495, Offset 20976.
 -- ――――どく、ん。
-―――%{i}Bum-bum%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:237e507957bd226c6e3a9d8f63d56e4de2fe3c07]{
 -- Page 495, Offset 20977.
@@ -149,17 +149,17 @@ De repente――con un click,
 [sha:76338e76ae5aa287bb57e7c67b8a44f6bfe1cdc9]{
 -- Page 496, Offset 20982.
 -- 月は確かに出ているというのに。
-A pesar de que haya salido la luna―――
+A pesar de que hoy haya salido la luna―――
 }
-[sha:46fa8b21d2c9202512da33db26c2e9dd2baadb44]{
+[offset:20983]{
 -- Page 496, Offset 20983.
 -- 世界は、唐突に闇になった。
-El mundo es sumergido en la oscuridad.
+El mundo se sumerge repentinamente en la oscuridad.
 }
 [sha:10a8286789028a513f4da35c569c448786ec17a5]{
 -- Page 496, Offset 20984.
 -- ドクン。
-―――%{i}Bum-bum%{/i}.
+―――%{i}Ba-dump%{/i}.
 }
 [sha:4b5755f734fa4d6e2af902ec2ec0bf4ae79655c6]{
 -- Page 496, Offset 20985.
@@ -169,18 +169,18 @@ Siento el corazón reverberando en el pecho, como si fueran los tambores de mi f
 [sha:5fbef8abb757f5a56690399642f01323e6f8cf46]{
 -- Page 496, Offset 20986.
 -- 左手上腕部の線に迫る刃鉄。
-Una hoja de acero se lanza contra la línea en la parte superior de mi brazo izquierdo.
+Una hoja de acero se lanza contra la línea de la parte superior de mi brazo izquierdo.
 }
 [sha:22544f4db4c542e7f357b305bd0d33bd9afd844c]{
 -- Page 496, Offset 20987.
 -- <意識|りせい>が追いつくのは、もうしばらく後の話だ。
-El pensamiento lógico tendrá que esperar a otro momento.
+El pensar con lógica tendrá que esperar a otro momento.
 }
 [sha:da6a50c63391bc92b7cb94a0cd65fd7d386563a4]{
 -- Page 497, Offset 20988.
 -- 闇に走る刃物が伸びきる前に、その切っ先を下から弾きあげ、逸らして<凌|しの>ぐ。
-El filo atraviesa la oscuridad y antes de que pueda conectar
- lo intercepto con mi cuchillo desde abajo y desvío la punta de la hoja,
+El filo atraviesa la oscuridad pero antes de que pueda conectar
+ lo intercepto desde abajo con mi cuchillo y desvío la punta de la hoja,
  previniendo el ataque.
 }
 [sha:cdf1f80f97eb73eb9177f6e74bd6c3bfaca8cbab]{
@@ -204,18 +204,18 @@ Pero antes―――
 -- この凶器を、片っ端から迎撃する……！
 Debo parar cada golpe de ese arma.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:20993]{
 -- Page 498, Offset 20993.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Kuh%{/i}!"
 }
 [sha:4e1584d860e4b8882906cbe15778a7aa377d5eda]{
 -- Page 498, Offset 20994.
 -- 驚きはある。しかし思考は冷静だ。この人影を視た瞬間から一秒だって進んでいない。停止した思考。凍り付いた時間。自分が襲われているという事実さえ、今は驚きに値しない。
-Me sorprende. Estoy totalmente calmado.
+Me sorprende. Estoy totalmente en calma.
  No ha pasado más de un segundo desde que vi a esta cosa.
- Mis pensamientos detenidos.
- El tiempo congelado.
+ Mis pensamientos se han detenido.
+ El tiempo se ha congelado.
  Ni siquiera considero el hecho de que me estén atacando en este momento.
 }
 [sha:9a83d45a7f5693aa549d821da681243cb7a56623]{
@@ -231,12 +231,12 @@ Una oscuridad tan profunda que no podemos distinguir la apariencia del otro.
 [sha:b455bdf5c23fcfd8c0f9e7ab023ab0ffe260ce89]{
 -- Page 499, Offset 20997.
 -- その中において、なお、
-Y a pesar de ello, en medio de ella―――
+Y a pesar de esto, en ella―――
 }
 [sha:4b6e82517bda2b1859cb55c186eea297404d5325]{
 -- Page 499, Offset 20998.
 -- 明瞭に輝く<生命|いのち>の<接続|つなぎ>。
-las uniones que conectan la vida brillan claramente.
+las uniones que conectan la vida brillan con claridad.
 }
 [sha:6754efc9ce73eb87fb5d3e319bf58fff1ddd4785]{
 -- Page 500, Offset 20999.
@@ -246,7 +246,7 @@ Predigo y bloqueo con precisión cada uno de los tajos.
 [sha:7dcab9a79eef66b954fde7d52675176f9dea8f40]{
 -- Page 500, Offset 21000.
 -- ―――驚くべきは。
-Si hay algo que %{i}si és%{/i} considerable.
+Si hay algo que %{i}es%{/i} considerable.
 }
 [sha:473b44caf7c78d165534db030ee9cc9fa227561a]{
 -- Page 500, Offset 21001.
@@ -303,7 +303,7 @@ Me duele la cabeza. La cicatriz de mi pecho quema.
 [sha:886bc50727ddbf7c9f8d660ba9a5227b9dc3b5cd]{
 -- Page 502, Offset 21011.
 -- 目が、眼孔からこぼれそうだ。
-Siento que mis ojos se van a salir de las cuencas.
+Siento se me van a salir los ojos de las cuencas.
 }
 [sha:ebecdf0920e2fe68b35c3b85441e7af4c69acef2]{
 -- Page 503, Offset 21012.
@@ -328,7 +328,7 @@ El cuerpo ensangrentado de un niño.
 [sha:a782b48a0a10c0ca93328d2d9d25030e0b31ebe3]{
 -- Page 503, Offset 21016.
 -- 血にまみれた秋葉の泣き顔と、
-Akiha, ensangrentada y llorando.
+La cara sollozante y ensangrentada de Akiha.
 }
 [sha:28c80fa83357d8a682c68f1826f0872f10cbe46f]{
 -- Page 503, Offset 21017.
@@ -348,7 +348,7 @@ Mis instintos toman el control y desvío la hoja.
 [sha:6cdc5585a68b0e488395c36b8999de4310cb4458]{
 -- Page 504, Offset 21020.
 -- 危ない。いま、一瞬意識が消えていた。
-Estuvo cerca. Por un momento me había quedado en blanco.
+Ha faltado poco. Por un momento me había quedado en blanco.
 }
 [sha:4c809b0719003a9220f1a4f649795670e9fe04b2]{
 -- Page 504, Offset 21021.
@@ -358,7 +358,7 @@ Pero no cometeré el mismo error dos veces.
 [sha:eb158776582d654e0e4392b5308b1c37f39d877d]{
 -- Page 504, Offset 21022.
 -- 何故なら狙われている個所が判る。判る以上、理性より先に本能がこれを切り流す。
-Porque ahora que sé a dónde apunta.
+Porque ahora que sé a donde apunta.
  No tengo ni que pensar――puedo bloquear por instinto.
 }
 [sha:a3328ad8ef99282841d73f2bef92d594b44ad301]{
@@ -374,18 +374,17 @@ Cada uno de sus ataques iba dirigido a una de las 'líneas' de mi cuerpo.
 [sha:34cea8693407a85776e629a1aadb71fd872c8e69]{
 -- Page 505, Offset 21025.
 -- 故に、どこを狙っているかを読むまでもない。
-Por tanto, no tengo que preocuparme por predecir donde va a golpear.
+Por tanto, no tengo que preocuparme por predecir dónde va a golpear.
 }
 [sha:9f98fb5b88b104ad3c7db76985aff16d070d8273]{
 -- Page 505, Offset 21026.
 -- この姿勢、この間合いで狙うに最も適した“線”を、俺は防ぎに回ればいいだけ。
 Solo tengo que mantener la guardia alta, la distancia entre nosotros,
- y prevenir que apunte mis 'líneas' más vulnerables.
+ y prevenir que apunte a mis 'líneas' más vulnerables.
 }
 [sha:69be8d5e9ddfaf3f0b1be9406edb326fbbd90026]{
 -- Page 506, Offset 21027.
 -- その事実を戦略として意識した時、俺はようやく、
-// Tl oficial
 Al darme cuenta de la estrategia del enemigo, hablo.
 }
 [sha:786d3f95693ec2720e63e3fd893ce7177aa9f0e1]{
@@ -411,13 +410,13 @@ La risa de la figura hace eco en la oscuridad.
 [sha:cbaa2812af46ab71fd90d7a208de668b6eb0aee1]{
 -- Page 507, Offset 21032.
 -- ぎょろりと血走ったその瞳が“ようやく気が付いたのか”と嘲笑している。
-// Tl oficial
-Sus ojos ensangrentados parecen burlase de mí, como si dijeran, 'al fin te das cuenta'.
+Sus ojos ensangrentados parecen burlase de mí, como si dijeran, 'por fin te das cuenta'.
+ 
 }
-[sha:d4fa0c6d4f990342d751a0c1bbdc24447960163d]{
+[offset:21033]{
 -- Page 508, Offset 21033.
 -- 「―――、は」
-"―――%{i}Je%{/i}."
+"―――%{i}Hah%{/i}."
 }
 [sha:53fea1aa381ee9582817c1d0145ebf615628d346]{
 -- Page 508, Offset 21034.
@@ -444,7 +443,7 @@ Ya veo. En ese caso, estamos igualados.
 -- Page 509, Offset 21038.
 -- どうでもいい。何を今更。俺はどこを切られても死に至る。その程度で引ける腰なら今ここに生きてはいない。あの寒波を思い出せ。ヴローヴは素晴らしかった。コイツはあの吸血鬼に比べるべくもない。そうだ。たとえ貴様がアルクェイドの目的であろうと。
 No es que me importe.
- ¿Por qué me pongo a pensar eso ahora?
+ ¿Por qué me pongo a pensar ahora en eso?
  Moriré sin importar donde me corten.
  Si me asustara algo así no estaría aquí de pie.
  Recuerda la ola de frío.
@@ -456,12 +455,12 @@ No es que me importe.
 [sha:8ca57e31854081c38ee39da47ecec2b7d09032e1]{
 -- Page 509, Offset 21039.
 -- この条件なら間違いなく、俺の方が優れている―――！
-¡Bajo estas condiciones, soy claramente mejor que tu―――!
+¡Bajo estas condiciones, soy claramente mejor que tú―――!
 }
 [sha:1b2996f418a0352f602b2948efd9dc0522784c98]{
 -- Page 510, Offset 21040.
 -- 攻めている。
-Ataca.
+-- TRANSLATION HERE
 }
 [sha:1b2996f418a0352f602b2948efd9dc0522784c98]{
 -- Page 510, Offset 21041.
@@ -488,8 +487,8 @@ La victoria será mía.
 [sha:af6cd50321d949e3fb5c2018ed761dc01707858a]{
 -- Page 511, Offset 21045.
 -- ドコの誰だか知らないが、間違いない。
-No se quíen es. No se de donde viene.
- Pero sí que se una cosa―――
+No sé quíen es. No sé de donde viene.
+ Pero una cosa sí que sé―――
 }
 [sha:0ddc1ed47c679a9389ad722cee701dde631e8bd6]{
 -- Page 511, Offset 21046.
@@ -510,14 +509,13 @@ Puedo ganar. Soy más fuerte que esta persona.
 [sha:3e9afcb8a37e9f83c27a5da372f847b6ee466ac5]{
 -- Page 511, Offset 21049.
 -- こいつより強いから。
-// Tl oficial
 Soy %{i}más fuerte%{/i}.
 }
 [sha:8f28cae25c17ebfe05d2c5c793fdad5d9fa43681]{
 -- Page 511, Offset 21050.
 -- 殺されかけたら、殺し返すだけの話。
 Si está cosa me va a matar,
- lo mataré antes.
+ yo lo mataré antes.
 }
 [sha:8671257679ac65d4f48f322a0e981a4905697eba]{
 -- Page 512, Offset 21051.
@@ -540,7 +538,7 @@ Pero que extraño.
 -- Page 512, Offset 21054.
 -- 俺はこの状況で、なぜ、凶器を振るう手に<淀|よど>みというものがないのだろう―――？
 En una situación como esta,
- ¿por qué no me tiembla la mano al usar esta herramienta de asesinato?
+ ¿por qué no me tiembla la mano al blandir este arma homicida?
 }
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
 -- Page 513, Offset 21055.
@@ -550,7 +548,7 @@ En una situación como esta,
 [sha:27aadaa661246a33cf4b9432a3e9db1420adb1aa]{
 -- Page 513, Offset 21056.
 -- 街灯の明かりが戻るのに合わせて、白熱していた思考が正常なものに切り替わった。
-Junto a las farolas
+Junto a las farolas,
  mis fervientes pensamientos vuelven a la normalidad.
 }
 [sha:708e950689b496822e8b20625cc1f00695ea0b74]{
@@ -588,7 +586,7 @@ El impacto debe haberlo estampado contra la pared.
 [sha:531b69d0e5e996194b0feda6fbbacbc74e799e48]{
 -- Page 516, Offset 21063.
 -- 人間であれば致命傷。
-Si era humano, tiene que haber sido fatal.
+Si era humano, tiene que haber sido mortal.
 }
 [sha:b7261ce989716ba4b2006e602914f9f34a44e9b1]{
 -- Page 516, Offset 21064.
@@ -624,7 +622,7 @@ Y ahí―――
 [sha:0b5f4e715379409d25de398dadc9b266e2ba3d03]{
 -- Page 518, Offset 21070.
 -- 見覚えのある人影が、街灯の上に立っていた。
-Una figura conocida se alza encima de una farola.
+Una figura conocida se alza sobre una farola.
 }
 [sha:5f254eebb9e891bd9d2f3c589d3a22321b686687]{
 -- Page 519, Offset 21071.
@@ -659,7 +657,7 @@ O más bien, juraría que la he visto antes.
 [sha:cd2ac1c2b88c3cd215da94dfb96c0700f0fe17cf]{
 -- Page 520, Offset 21077.
 -- ヴローヴとの戦いのおり、あの剣が遠野志貴を氷塊から救った事を、意識していなくとも事実として認識している。
-Subconscientemente sé que durante la mi lucha contra Vlov
+Subconscientemente sé que durante mi lucha contra Vlov
  una de esas espadas me salvó de sus lanzas de hielo.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -680,12 +678,12 @@ La mujer sobre la farola me sonríe, y luego―――
 [sha:c5571c7b115de34d12640b3caba0770294ffc8e3]{
 -- Page 521, Offset 21081.
 -- 手に持った細い剣を、黒い影へと放っていた。
-Lanza varias de esas espadas a la sombra.
+Lanza varias de esas espadas contra la sombra.
 }
 [sha:96b34959b99df661a4a7d3bc4b56e5f0bcb0129a]{
 -- Page 522, Offset 21082.
 -- 「“聖堂よ、あれ”」
-"Oh Templo, manifiestate."
+"Oh Templo, manifiéstate."
 }
 [sha:ccc51bbecfe3a40cd47e22f1ed2dbf50f5308248]{
 -- Page 522, Offset 21083.
@@ -770,19 +768,19 @@ No queda ni rastro.
 -- 虫の声と風の音。まっとうな夜の音が戻ってくる。
 El canto de los insectos.
  El susurro del viento.
- Retornan los verdaderos sonidos de la noche.
+ Los verdaderos sonidos de la noche regresan.
 }
 [sha:0326134fafffa17281de672c6acb7aaf6e2c5a60]{
 -- Page 527, Offset 21099.
 -- あんなに禍禍しい叫び声があがったというのに、周囲は何事もなかったかのように夜の闇に沈んでいる。
-Tras ese grito siniestro,
-los alrededores se sumergen de nuevo en la oscuridad nocturna,
+Incluso tras ese grito siniestro,
+ los alrededores se sumergen de nuevo en la oscuridad nocturna,
  como si nunca hubiera pasado.
 }
 [sha:c6ac61d523ae24514962b6d2ac94b20316912b7a]{
 -- Page 528, Offset 21100.
 -- ……そして、俺の前には明らかに異質な人間が立っている。
-Excepto por la persona fuera de lugar que se encuentra frente a mi.
+Excepto por la persona fuera de lugar ante mí.
 }
 [sha:ccfa3fe26eb11627806303a06a64ba8e10aba1d1]{
 -- Page 529, Offset 21101.
@@ -798,7 +796,7 @@ Excepto por la persona fuera de lugar que se encuentra frente a mi.
 -- Page 529, Offset 21102.
 -- それとも―――貴方の周りが特別なのかしら、遠野志貴クン？」
 O quizá――
-¿cosas como estas tienden a pasar simplemente cuando estás cerca, Tohno Shiki-kun?
+¿cosas como estas simplemente tienden a pasar cuando estás cerca, Tohno Shiki-kun?
 }
 [sha:6142eeaba5153d0fe50312933b3429e91ef4cccc]{
 -- Page 530, Offset 21103.
@@ -810,6 +808,7 @@ La mujer en atuendo de monja se da la vuelta.
 -- 彼女はあふれ出る憎悪、明確な殺意を隠しもせずに、俺に微笑みかける。
 Me sonríe,
  sin ocultar su abundante odio y claras ganas de verme muerto.
+ 
 }
 [sha:3be5b76d2fb8a38247c756976d2cc53eda45940c]{
 -- Page 530, Offset 21105.
@@ -842,7 +841,7 @@ Escucho el agudo eco de sus pasos.
 [sha:6352511ccaeda9ac9c93073b82008a005daf2b91]{
 -- Page 532, Offset 21110.
 -- ノエルが足を進ませる。
-Noel avanza hacia mi.
+Noel avanza hacia mí.
 }
 [sha:5fa868b6a6ba8beb3363f7ed94f8694c32aded68]{
 -- Page 532, Offset 21111.
@@ -851,10 +850,10 @@ Con una sonrisa aún en su rostro,
  pero con la terrorífica lanza en mano,
  comienza a acortar la distancia entre nosotros.
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:21112]{
 -- Page 532, Offset 21112.
 -- 俺は―――
-Yo―――
+Voy a―――
 }
 [sha:5f9f538d8c6d5ae5308fd8db8f721fcc9ae70959]{
 -- Page 534, Offset 42657. Choice.

@@ -838,7 +838,7 @@
 -- ですから、トドメを刺すのは貴女の仕事です」
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:39323]{
 -- Page 331, Offset 39323.
 -- 「―――え？」
 "―――¿Huh?"
@@ -873,10 +873,10 @@
 -- 好きに暴れたかったのでしょうが、この街を自分と同じ<階|モ><梯|ノ>に変えた時は笑ってしまいました。馬鹿すぎて」
 -- TRANSLATION HERE
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:39330]{
 -- Page 333, Offset 39330.
 -- 「―――！」
-"%{i}Hnh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:9702bf6f2ebf0cb4e26f0b88ba5a3fe0101d5647]{
 -- Page 334, Offset 39331.

@@ -34,7 +34,7 @@ Es una hazaña de fuerza que aniquila todo a su paso.
 [sha:afef4e00d09328d323a22a176d37427de0f746d6]{
 -- Page 661, Offset 10427.
 -- 飛翔する氷の槍など、この壁の如き土砂の前では飛沫にすぎない。
-// Un mix entre las dos tls
+//Un mix entre las dos tls
 Incluso las lanzas heladas de Vlov no son más que gotas de lluvia ante el maremoto de tierra y arena.
 }
 [sha:c73702798442718915e7264a11a3280ca85d4e3a]{
@@ -42,6 +42,7 @@ Incluso las lanzas heladas de Vlov no son más que gotas de lluvia ante el marem
 -- 高さ50メートル、7000トンに相当する質量が、ヴローヴを飲み込まんと押し寄せる。
 El muro, de cincuenta metros de alto y 7000 toneladas de peso,
  se abalanza sobre Vlov para tragárselo entero.
+ 
 }
 [sha:9dd9d12d247e76a4030a2d9b9b1d05a8285ea39c]{
 -- Page 662, Offset 10429.
@@ -64,12 +65,12 @@ Con los escombros esparcidos por el golpe, debe ser capaz de ver lo que ha pasad
 -- Page 663, Offset 10432.
 -- 最後の力で岩盤を両手でひっくり返し、その消耗から膝をついたアルクェイドと、おそらく、この土砂を目くらましにして接近する“脅威”が、どこにも見当たらない事を。
 Ambas cosas, que Arcueid está de rodillas tras usar sus fuerzas restantes para levantar las rocas,
- y que la amenaza――quien asume que está acercándose usando los escombros como pantalla de humo――no está por ningún lado.
+ y que la amenaza――quién asume que está acercándose usando los escombros como pantalla de humo――no está por ningún lado.
 }
 [sha:f80ab1991bb3b2ad95818f4ff954cd3c6ab7c235]{
 -- Page 664, Offset 10433.
 -- <聳|そび>える大波を前にして、ソレは、かつての思考を取り戻した。
-// Tl oficial
+//Tl oficial
 Frente a la enorme ola, los instintos del hombre regresan.
 }
 [sha:839c9e5128a6b6b6535cd92c4b1928f700fe0392]{
@@ -80,7 +81,7 @@ En realidad, regresaron dos minutos antes.
 [sha:e47fc39eb406a0747647ec50cab6374fbf065c09]{
 -- Page 664, Offset 10435.
 -- 常に寒波に<侵|おか>され正気を無くした筈の脳が、あの一瞬―――目前に迫る人間から飛び退いた時から、正常に稼働しようと努めていた。
-// Mix de entre las dos tls
+//Mix de entre las dos tls
 Aún afligido por la ola de hielo,
  desde que el humano le forzó a retirarse,
  su mente delirante ha estado trabajando duro para funcionar con normalidad.
@@ -88,17 +89,17 @@ Aún afligido por la ola de hielo,
 [sha:b3844f900627f429dfc32eed40cee279372ad559]{
 -- Page 665, Offset 10436.
 -- “あの人間には自分を殺す用意がある。”
-%{i}Ese humano tiene una forma de matarme%{/i}.'
+ '%{i}Ese humano tiene una forma de matarme%{/i}.'
 }
 [sha:8e98bc68528e891d0b30c02491dc610881d81809]{
 -- Page 665, Offset 10437.
 -- “理屈は不明だが、それは間違いない。”
-%{i}No se como pero estoy seguro de ello%{/i}.'
+ '%{i}No sé como pero estoy seguro de ello%{/i}.'
 }
 [sha:c84e6ed2fd6a4bb8de0d874d2a1d0d5f10d766df]{
 -- Page 665, Offset 10438.
 -- かつて、彼が正常だった頃の残滓。
-En el aún permanecen los vestigios de cuando era un hombre común.
+En él aún permanecen los vestigios de cuando aún era un hombre común.
 }
 [sha:e7307f7f73537b5f3349684e6089d128f3bf44fc]{
 -- Page 665, Offset 10439.
@@ -111,7 +112,7 @@ Su experiencia en batalla como caballero,
 -- Page 665, Offset 10440.
 -- たった二十年程度の矜持が、千年を超える狂気に勝ったのだ。
 El orgullo y la dignidad de esos meros veinte años,
- triunfantes sobre la locura que trasciende los miles.
+ que triunfan sobre la locura que trasciende los miles.
 }
 [sha:3e0a372963bb9d733231bbb905fd8570a6b75282]{
 -- Page 666, Offset 10441.
@@ -138,7 +139,7 @@ Deleitarse en batalla es un placer humano――el que se congelará en unos poco
 [sha:2bc900fdb7edb167bee2b58ed51f57f68aed6bab]{
 -- Page 667, Offset 10445.
 -- だからこそ、この展開に燃え上がらずにはいられない。
-// Me baso mas en la tl oficial y en el jp
+//Me baso mas en la tl oficial y en el jp
 Siendo así, pretende degustar el desarrollo de los acontecimientos.
 }
 [sha:e014c1cd2ae6fb7f167a7c954daac4d1e256a8c0]{
@@ -188,7 +189,7 @@ Aún le queda poder.
 -- 極上の血液は量にして10人分ものストックがある。
 Tiene en reserva la mejor sangre por valor de diez personas.
 }
-[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+[offset:10455]{
 -- Page 669, Offset 10455.
 -- だが―――
 Sin embargo―――
@@ -237,7 +238,7 @@ Empuña la mitad de su fuerza en su lanza,
 [sha:7cadefd600a2c01246ae25177beece0b54261bb8]{
 -- Page 673, Offset 10464.
 -- 衝突し、四散する瓦礫の大波。
-Al colisionar, una gran ola de escombros de esparce.
+Al colisionar, una gran ola de escombros se esparce.
 }
 [sha:008ad5759a0ad9826cf48734425b366e6738e6f5]{
 -- Page 673, Offset 10465.
@@ -296,7 +297,7 @@ Mientras pueda rastrearlo,
 [sha:c86caf5a9f5755a96a08cb6877cf83c394725384]{
 -- Page 676, Offset 10475.
 -- 千里先を知覚する両目が見開かれる。
-// Un mix entre la tl y el jp
+//Un mix entre la tl y el jp
 Sus ojos se abren de par en par para percibir el amplio espacio ante él.
 }
 [sha:a9459e0d71a892021171532ecccca56135d03c85]{
@@ -319,19 +320,19 @@ Ni siquiera un atisbo de su sombra escabulléndose.
 [sha:65b39b3c300b12269e7a3ab09b23805cc83315f7]{
 -- Page 677, Offset 10479.
 -- なにより背筋には、より強い死の悪寒が走っている。
-// Mix entre tl y la oficial
+//Mix entre tl y la oficial
 De hecho, un escalofrío mortal recorre su espalda.
 }
 [sha:c35490e2e908ceeac40d1634f9bdaacbd476c2d7]{
 -- Page 678, Offset 10480.
 -- わずか１秒、彼の思考は“敵”から離れた。
-// Tl oficial
+//Tl oficial
 Por un segundo, sus pensamientos se distrajeron del enemigo.
 }
 [sha:f7998a56b8c82544d4b0552b8a8134705625e95e]{
 -- Page 678, Offset 10481.
 -- 接近してくるのは明白だ。
-// Tl oficial
+//Tl oficial
 Sabe que el enemigo vendrá.
 }
 [sha:034fe00cc0ee4511ec4d7d316e9a299ae28649ee]{
@@ -367,13 +368,13 @@ Y ahí, iluminados de un azul fantasma, los Ojos Místicos de Percepción Mortal
 [sha:5bf1406ee8b8a51298b6ed992315389b9a7304a6]{
 -- Page 680, Offset 10488.
 -- アルクェイドが飛ばしたものは、ヴローヴを飲み込む瓦礫だけじゃない。
-// Tl oficial
-Sepultar a Vlov en escombros era el objetivo de Arcueid.
+//Tl oficial
+El verdadero objetivo de Arcueid no era sepultar a Vlov en escombros.
 }
 [sha:f8da567034535ecd17a9ac4ae7062e9068a9014b]{
 -- Page 680, Offset 10489.
 -- 本命はこの岩盤。
-// Tl oficial
+//Tl oficial
 Era lanzar esta roca al aire.
 }
 [sha:6c00d220196cb605f57f47829cd01f4a8ac1929b]{
@@ -385,14 +386,14 @@ Me ha atado y lanzado fuera de su área de visión,
 [sha:1948c6a45d63a40d55dd0443ed9803d2fdc38fe6]{
 -- Page 681, Offset 10491.
 -- 30メートル下の地上で、土砂の津波が突き砕かれる。
-// Tl oficial
+//Tl oficial
 En el suelo, treinta metros por debajo, el tsunami de tierra y arena ha sido aplastado.
 }
 [sha:0a4292ebbd7e66c52a8f4bf1d883ece2ae1b5943]{
 -- Page 681, Offset 10492.
 -- 彼と我。互いに最後の空白。
-// Tl oficial
-Lo que queda somos el, yo y el vasto espacio aéreo entre nosotros.
+//Tl oficial
+Todo lo que queda es el, yo y el vasto espacio aéreo entre nosotros.
 }
 [sha:593e0696ec631bbad44d7b62675b3f696407bfee]{
 -- Page 681, Offset 10493.
@@ -432,7 +433,7 @@ Su percepción es admirable, pero un segundo y ya es demasiado tarde.
 [sha:7b2cbb0855dab6953bb65b35e4be6811fe4605e2]{
 -- Page 684, Offset 10500.
 -- 『あれ？　でもそれって、志貴は途中で落っこちない？
-"%{i}Um pero... ¿no caerás a mitad de camino?%{/i}
+"%{i}Um pero... ¿no te caerás a mitad de camino?%{/i}
 }
 [sha:6cdbb03092f0bec9004f0636ee27a110d4675253]{
 -- Page 684, Offset 10501.
@@ -442,7 +443,7 @@ Su percepción es admirable, pero un segundo y ya es demasiado tarde.
 [sha:dfc4c28e12f22dc83a6bc84bc8f68eb034b42508]{
 -- Page 684, Offset 10502.
 -- 『そりゃあ落ちるに決まってるだろ！　だから―――』
-"%{/i}¡Por supuesto que me voy a caer! Es por eso que―――%{/i}"
+"%{i}¡Por supuesto que me voy a caer! Es por eso que―――%{/i}"
 }
 [sha:3683043ca53b0eda73343fd579dd5e183b9486e0]{
 -- Page 685, Offset 10503.
@@ -457,7 +458,7 @@ Las rocas voladoras se juntan como si fueran un puzle.
 [sha:fc15f60203e09ca2623e886946d2f1eb880224bb]{
 -- Page 686, Offset 10505.
 -- 蔦でつながれ、固定された急造の滑空路。
-Una rampa improvisada unido por la hiedra.
+Una rampa improvisada unida por la hiedra.
 }
 [sha:0a9705fad10ac9bfdb1627e594160b8e7602636f]{
 -- Page 686, Offset 10506.
@@ -492,7 +493,7 @@ Un sendero de sentido único: treinta metros en dos segundos.
 [sha:c9c218fd18c3b4a169d52075ef47ffccae99a4da]{
 -- Page 687, Offset 10512.
 -- 「ショウタイムだ、吸血鬼」
-"―――Que empiece el show, vampiro."
+"―――Qué empiece el show, vampiro."
 }
 [sha:6a1cdbd15eee095b8295f007b7b4fcbf24016c8c]{
 -- Page 688, Offset 10513.
@@ -518,7 +519,7 @@ A la velocidad a la que opera mi cerebro,
 [sha:30960f1b447709dbe89ca21e38612d4208b26e3f]{
 -- Page 689, Offset 10517.
 -- 落下までの２秒、全能力を二点にのみ集中する。
-Dos segundos antes de que caer,
+Dos segundos antes de caer,
  concentro todas mis habilidades en dos cosas.
 }
 [sha:0f420374fe129e25e4f707e71a071eb63bccc274]{
@@ -545,7 +546,7 @@ Solo existen dos.
 -- Page 691, Offset 10522.
 -- そこ以外の生存率は一割ほどだろう。それについては考慮しない。一割あるのなら問題ない。
 Excluyéndolos, mis probabilidades de sobrevivir son alrededor de 10%,
- no hace falta preocuparme por ellos. Diez por ciento es más que suficiente.
+ no hace falta preocuparme por ello. Diez por ciento es más que suficiente.
 }
 [sha:94c576dfc6f4d99b454de5460b2202ae57c65751]{
 -- Page 692, Offset 10523.
@@ -636,12 +637,12 @@ Aunque debería ser imposible cambiar mi trayectoria de descenso,
 [sha:10ebf3883815768d5447579b886dadc38eae117e]{
 -- Page 697, Offset 10539.
 -- 真横を過ぎていく鉄塊。
-El objeto metálico me pasa a milímetros por el lado.
+El objeto metálico me pasa por el lado a milímetros.
 }
 [sha:0f07182c5ca4e3ceb35a1ae85972bfede2a17ccd]{
 -- Page 697, Offset 10540.
 -- ０パーセントの賭けを越えた。
-Superado las probabilidades del '0%', evitando la muerte segura.
+Superando las probabilidades del '0%', evitando la muerte segura.
 }
 [sha:3baa29fcfa55296607c413064142144b1e3bfa4a]{
 -- Page 697, Offset 10541.
@@ -664,10 +665,10 @@ El momento será durante el segundo punto crítico.
 No me importa lo que suceda tras eso.
  Me centraré únicamente en cortar sus líneas.
 }
-[sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
+[offset:10545]{
 -- Page 699, Offset 10545.
 -- だから。
-Es por eso que―――
+Es por lo que―――
 }
 [sha:c3d968f89754249ddf0dfe392c984ff12f7c968c]{
 -- Page 699, Offset 10546.
@@ -690,7 +691,7 @@ Ni siquiera pensaré en ello.
 [sha:41dcc27291b361e03d4885d814ea5752a428a7f0]{
 -- Page 700, Offset 10549.
 -- その為に思考を放棄した。
-// Tl oficial
+//Tl oficial
 Ya no es momento de pensar.
 }
 [sha:e1afcb30aea356fbeeca4831e880af642c941e46]{
@@ -716,7 +717,7 @@ Si me ensarta el cerebro, lo más seguro es que ni me de cuenta.
 [sha:d95c8a03bac7384afab1a75dd91a6b99327c37bc]{
 -- Page 701, Offset 10554.
 -- 摂氏マイナス100℃の非常法則が全身を停止させる。
-// Tl oficial.
+//Tl oficial.
 Las temperaturas de  -100℃ que desafían las leyes de la naturaleza y detienen el cuerpo en seco.
 }
 [sha:b4e5150c5558ca7fb00de7ba18876e65b4be4794]{
@@ -761,7 +762,7 @@ En el centro de todo, veo una luz.
 [sha:6da9846454cbfff274a467e972ef5971dbedc70a]{
 -- Page 703, Offset 10562.
 -- 渦を巻く原子の意思。定められた物質の寿命。
-// Tl oficial
+//Tl oficial
 Un vórtice de átomos. La certeza del final de la vida.
 }
 [sha:ebb47f3edccbd9fd47ed92abcd7a8f2c6f0a4c50]{
@@ -772,7 +773,7 @@ Un lugar de muerte pura que atrae todo como un agujero negro.
 [sha:a88f8bc5fdb9db70580a432836ef26da53c5c36b]{
 -- Page 704, Offset 10564.
 -- 思考を棄てた脳が、本能で理解する。
-Mi cerebro puede haber abandonado el pensamiento racional, pero entiende lo que por mero instinto.
+Mi cerebro puede haber abandonado el pensamiento racional, pero entiende lo que es por mero instinto.
 }
 [sha:04d230e003f52a531fecf54f3f5200a449dcbed7]{
 -- Page 704, Offset 10565.
@@ -783,9 +784,9 @@ Si las líneas representan la muerte de la vida,
 [sha:df8c498b97cf72836e228c3f1dfc166cd82e0a56]{
 -- Page 704, Offset 10566.
 -- どのような不死身、どのような怪物であれ一刺しで“殺す”、この世でもっともおぞましい、宇宙の終わりに他ならない。
-El fin del universo,
+El fin del universo, 
  donde cualquier criatura――inmortal o monstruosa
- ――puede morir simplemente apuñalada.
+ ――puede morir siendo simplemente apuñalada.
 }
 [sha:fc4e8bebf9e835e52a6ff35be384391e4eb413e0]{
 -- Page 705, Offset 10567.
@@ -818,11 +819,11 @@ Es su movimiento final en este juego contra un adversario ladino como yo.
 [sha:19bb0eedee6e04977f40726e9987ce1ba3bb4279]{
 -- Page 707, Offset 10572.
 -- コイツは本物だ。吸血鬼としての基準は知らない。そんなものは興味がない。シンプルに人殺しとして卓越している。
-Este tipo es real.
+Este tipo está hecho de otra pasta.
  Alguien ejemplar en su especie.
- No se cual es el estándar para los vampiros.
-¿Pero como asesino?
-Es simplemente extraordinario.
+ No sé cuál es el estándar para los vampiros.
+ ¿Pero como asesino?
+ Es simplemente extraordinario.
 }
 [sha:38cf26c67706a17d8d45e2809883eada7ac7338a]{
 -- Page 708, Offset 10573.
@@ -865,10 +866,10 @@ En un instante, la atmósfera vuelve a su temperatura original.
 -- 自然現象とはかけ離れた寒波は、ヤツの命と共に消失する。
 La ola de frío, desaparece junto a la fuerza de vital de su amo.
 }
-[sha:dad68dc0d57ba4fe53a4ebc71004f2cdb270f5ab]{
+[offset:10581]{
 -- Page 710, Offset 10581.
 -- その中で、
-Y en ella―――
+Y al hacerlo―――
 }
 [sha:a669233dbfffaf9a946f525435b18fcda1e0b581]{
 -- Page 710, Offset 10582.
@@ -883,13 +884,13 @@ Apabullado, el vampiro habla consigo mismo.
 [sha:4c5346adff8f8c3139a3e221711fe60d0b3beaf6]{
 -- Page 711, Offset 10584.
 -- 「“……この傷は知らない。この喪失は思い出せない。
-// Tl oficial
+//Tl oficial
 "No tengo conocimiento de una herida así... ni recuerdo una pérdida como esta.
 }
 [sha:505c740e7a8408848b96a465167c053debc73047]{
 -- Page 711, Offset 10585.
 -- この―――言語化できない大気の肌触りは、いつか失った何物かだ”」
-// Tl oficial
+//Tl oficial
 Solo sé que esta gentil e indescriptible caricia del aire es algo que perdí hace mucho."
 }
 [sha:b83a9b5c6f1d97c446abb7657176e51abac4ee1f]{
@@ -910,7 +911,7 @@ Pero su voz es gentil, como la de un poeta elogiando la primavera.
 [sha:69a97d8f5e9484360f6aa09be52052768358fd6b]{
 -- Page 713, Offset 10589.
 -- 「“ああ―――痛みも、寒波も感じない。
-// Tl oficial
+//Tl oficial
 "%{i}Ahh%{/i}... No siento ni el dolor ni el frío.
 }
 [sha:a55a4dd1a3e4b5e062f0906848eaf9520c7322fb]{

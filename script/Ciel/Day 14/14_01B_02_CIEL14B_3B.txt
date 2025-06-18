@@ -223,7 +223,7 @@
 -- 我々に気がついていない』
 -- TRANSLATION HERE
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:39834]{
 -- Page 146, Offset 39834.
 -- 「―――え？」
 "―――¿Huh?"
@@ -441,7 +441,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 161, Offset 39877.
 -- 「！」
-"¡%{i}Agh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:506aeeacbc593f2d649f255a44e02f6a2ba39dc9]{
 -- Page 161, Offset 39878.
@@ -463,10 +463,10 @@
 -- それが光体の足元から上空まで、竜巻のように吹き上がっている。
 -- TRANSLATION HERE
 }
-[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+[offset:39882]{
 -- Page 163, Offset 39882. Mods: @k, @e.
 -- 「っ―――！」
-"%{i}Kh%{/i}―――!"
+-- TRANSLATION HERE
 }
 [sha:f4b56cf0aab3bef9bda8a57edf6701b762233b9e]{
 -- Page 163, Offset 39883.

@@ -6,7 +6,7 @@
 [sha:e4cf98e854505b6976128ac020788fb715d9f0bc]{
 -- Page 10013, Offset 6456.
 -- できない、と、どうしても言いきれない。
-De ninguna manera la voy a decir que no puedo hacerlo.
+No me veo capaz de decir que no puedo hacerlo.
 }
 [sha:84cbfdc70ab8da82dac5d372e7d09cdb835a3fca]{
 -- Page 326, Offset 6457.
@@ -16,13 +16,13 @@ He matado a esta persona.
 [sha:86caeb7936cddb3bed70652bafa939921b450166]{
 -- Page 326, Offset 6458.
 -- その結果こいつは弱って、誰かの助けを求めている。
-Como resultado, está débil y está pidiendo ayuda.
+En consecuencia, está débil y pidiendo ayuda.
 }
 [sha:26647a296f5a74da720ed1f4b43399a3d7a805b5]{
 -- Page 326, Offset 6459.
 -- ……それにまだ少ししか話していないけど、こいつはそう悪いヤツじゃない気がして―――
-Además... Solo he hablado un poco con ella,
- pero tengo la sensación de que no es una mala persona―――
+Además... solo he hablado un poco con ella,
+ pero tengo la sensación de que no es mala persona―――
 }
 [sha:36d3d76067cf88ab5998551a50b4c19b88f7ac16]{
 -- Page 327, Offset 6460.
@@ -32,12 +32,12 @@ Además... Solo he hablado un poco con ella,
 [sha:b872738240371616d9acdd5973e847044bff9549]{
 -- Page 327, Offset 6461.
 -- 人間のあなたとしては、やっぱり吸血鬼であるわたしには協力できない？」
-¿O es realmente imposible para un humano como tú colaborar con un vampiro como yo?"
+¿O de verdad es imposible para un humano como tú colaborar con un vampiro como yo?"
 }
 [sha:262428a2a0ce071d69926588f469558833d4b4f3]{
 -- Page 328, Offset 6462.
 -- 「そりゃそうだろ。分かってるじゃないか、おまえ」
-"Por supuesto que lo es. Osea que si que lo entiendes."
+"Por supuesto. Veo que lo entiendes."
 }
 [sha:70f42007195476f6cc3d4c55369dbf8f10183e5c]{
 -- Page 329, Offset 6463.
@@ -57,7 +57,7 @@ Si me miras así no puedo decir que no.
 [sha:4fc9e64bd1b65ceebddbf58cf754ddd92d411446]{
 -- Page 330, Offset 6466.
 -- 「……けど、乗りかかった船だしな。
-"Pero... a hecho pecho.
+"Pero... a lo hecho pecho.
 }
 [sha:8ad2500c66bda6982a1051e797d1e7a6486d850c]{
 -- Page 330, Offset 6467.
@@ -67,7 +67,7 @@ Mi conciencia no me dejaría tranquilo si fingiera no saber nada de lo que acaba
 [sha:0bbb10ac969c5ff41e1f8efcc09a80156e810a80]{
 -- Page 330, Offset 6468.
 -- ……あとで後悔するのは目に見えている。
-Es obvio de que me arrepentiré de esto más tarde...
+Es obvio que más tarde me arrepentiré de esto...
 }
 [sha:b2ed01a54a478e213645fd0bbd4e391de98776f5]{
 -- Page 330, Offset 6469.
@@ -82,12 +82,12 @@ Pero aún así―――
 [sha:485404b632ccc97ee0bfe6b27609a8b4558fbdfc]{
 -- Page 331, Offset 6471.
 -- なら、この街に住んでる人間として、おまえの手助けぐらいしないとバチがあたりそうだ」
-En cuyo caso, como habitante de esta ciudad, sería negligente no ayudarte lo mejor que pueda."
+En cuyo caso, como habitante de esta ciudad, sería negligente no ayudarte en todo lo que pueda."
 }
 [sha:5cc3e0acd79f6095f96e415f9b86ed31670574f5]{
 -- Page 332, Offset 6472.
 -- この、馬鹿みたいにまっすぐな視線から目を逸らすよりは、いくぶんマシだ。
-Aceptar ayudarla al menos es un poco mejor que apartar la vista de su mirada penetrante
+Aceptar ayudarla es, al menos, un poco mejor que apartar la vista de esa mirada tan absurdamente directa.
 }
 [sha:ebcf325acae590db7d3625947a18a9956a77e227]{
 -- Page 333, Offset 6473.
@@ -147,7 +147,7 @@ Soy un vampiro del linaje de los Verdaderos Ancestros, ¿qué tipo de humano ere
 [sha:b8e8fdf7176df253199fed2594ec4823b7cd0a94]{
 -- Page 337, Offset 6484.
 -- 今までお目にかかった事もない自己紹介をされて、重苦しいため息をついた。
-Suspiro mientras me hacen introducirme como nunca antes había me había introducido.
+Suspiro profundamente tras recibir una introducción inédita.
 }
 [sha:27a6e5b05a2400fab79eb9b3338eb07b03729fce]{
 -- Page 337, Offset 6485.
@@ -163,7 +163,7 @@ No estoy completamente seguro si es un suspiro de resignación,
 [sha:08e5604bd2c7d6214b04cba5de2e35133fd340d6]{
 -- Page 338, Offset 6487.
 -- ……前もって言っておくけど、本当に何の役にも立たないからな」
-Como ya he mencionado, de verdad que no te soy de utilidad."
+Te lo advierto de antemano, de verdad que no te soy de utilidad."
 }
 [sha:e7dd8ccbca98ad251510d4a0f4b30b43c57172ba]{
 -- Page 339, Offset 6488.
@@ -178,12 +178,12 @@ Me mira larga y detenidamente, y entonces―――
 [sha:1f29066fda92e7d04c2c160ab777db4b902c05cb]{
 -- Page 339, Offset 6490.
 -- 改めて握手を求めてきた。
-Me pide que la de la mano.
+Me pide que le de la mano.
 }
 [sha:6aabc02091c1b5b3a325dc46a54dae569d71ba61]{
 -- Page 340, Offset 6491.
 -- 「それじゃあよろしくね、志貴。
-"Espero con ansias trabajar contigo, Shiki.
+"Cuento contigo, Shiki.
 }
 [sha:5062200aa6da6c26cc83d9d2d1b478d9425f19d2]{
 -- Page 340, Offset 6492.
@@ -204,13 +204,13 @@ Estoy seguro de que hay muchas formas de hacer las paces en este mundo...
 [sha:a9b9d23f5b9ecc41d74ab6f6c77b9ca58fa8422c]{
 -- Page 342, Offset 6495.
 -- 「……ああ、ほんと、どうかしてる」
-// No más thio please
+//No más thio please
 "De verdad... esto es de locos."
 }
 [sha:e26f7831bb95f32838a87b92c365b3be9a6f0e8b]{
 -- Page 342, Offset 6496.
 -- けど、今は他にどうしようもない。
-Aún así, no hay nada más que pueda hacer ahora mismo
+Aún así, ahora mismo no puedo hacer otra cosa.
 }
 [sha:e03bca3d63302d606c991b4fe8b86719cb702b19]{
 -- Page 342, Offset 6497.

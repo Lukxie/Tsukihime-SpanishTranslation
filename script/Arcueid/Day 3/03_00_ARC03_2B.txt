@@ -1,7 +1,7 @@
 [sha:bfcd9d3b361ecf4775d41a17e009fbc0fd325681]{
 -- Page 10005, Offset 4167.
 -- 食堂で朝食をいただいて、ロビーに出る。
-Tras tomar el desayuno en el comedor, voy al vestíbulo.
+Tras desayunar en el comedor, voy al vestíbulo.
 }
 [sha:f543ca5618ebab486754e7989884987ee8afd71c]{
 -- Page 10005, Offset 4168.
@@ -29,7 +29,7 @@ Hmm, pensándolo de nuevo,
 -- Page 87, Offset 4172.
 -- 秋葉の場合、単純にあいつの言い分が正しいのでこっちは正当性で負けてしまう。遠野秋葉の立場は、事実として遠野志貴より上にある、というのもある。
 Pierdo contra Akiha porque todo lo que dice es correcto,
- así que no puedo pensar en ningún contraargumento.
+ por lo que no puedo pensar en ningún contraargumento.
  Tampoco ayuda que simplemente Tohno Akiha esté en una posición superior a Tohno Shiki.
 }
 [sha:216eea44ffea4c6d65f193cf747d153ebc5b946e]{
@@ -41,7 +41,7 @@ Pero con Hisui es completamente lo opuesto.
 -- Page 88, Offset 4174.
 -- 俺は翡翠に強くでられる立場だが、その強権を振り回そうとは思えない。
 Técnicamente tengo la posición de poder sobre ella,
- pero no creo que de verdad pueda usar ese poder a mi favor.
+ pero en realidad no creo poder usar ese poder a mi favor.
 }
 [sha:4c93d6d8ff2f6e160a3d5b0becf11f2e76483601]{
 -- Page 88, Offset 4175.
@@ -96,7 +96,7 @@ Se me ha permitido quedarme en la mansión ya que hoy había una entrega para ti
 [sha:37258a54758b4b85af4e6b783bb746e5f6d1b4bc]{
 -- Page 91, Offset 4185.
 -- 「はい。昨日、有間家のほうから荷物が届いたんですよ」
-"Si. Ayer recibí un paquete de la familia Arima."
+"Sí. Ayer recibí un paquete de la familia Arima."
 }
 [sha:261b45b21a0960b23622597dc3776ed49ee6af21]{
 -- Page 91, Offset 4186.
@@ -106,13 +106,13 @@ Kohaku-san me sonríe de oreja a oreja.
 [sha:147ba958fb58910803b96ea7b8ee94e7861bf4ad]{
 -- Page 92, Offset 4187.
 -- 「……？　いや、俺は自分の荷物は全部持ってきたよ。
-"¿Hmm? Aunque me llevé todas mis cosas.
+"¿Hmm? Pero, si me llevé todas mis cosas.
 }
 [sha:81a7bcc22d7504b88e98eed6905f22a788a40d3a]{
 -- Page 92, Offset 4188.
 -- もともとむこうで使ってたのは有間の家のものだったから、自分の物なんて着てる服ぐらいで……」
-Todo lo que usaba allí pertenecía a la familia Arima originalmente.
- Prácticamente todo lo que tengo es la ropa a mi espalda..."
+Lo que usaba allí pertenecía originalmente a la familia Arima.
+ Todo lo que tengo prácticamente es la ropa que llevo..."
 }
 [sha:3da07b7a614b34715abfee780c7e027786597a2c]{
 -- Page 93, Offset 4189.
@@ -122,7 +122,7 @@ Todo lo que usaba allí pertenecía a la familia Arima originalmente.
 [sha:0e84401ac471ec2100aae606b40f7e3edc60cab4]{
 -- Page 93, Offset 4190.
 -- 琥珀さんは20センチほどの、細い木箱を手渡してくる。
-Kohaku-san me entrega una caja de madera fina, de unos veinte centímetros de largo.
+Kohaku-san me entrega una fina caja de madera, de unos veinte centímetros de largo.
 }
 [sha:b0c61a35730e4a1d4bae43d14c0fd30a561fd0fe]{
 -- Page 93, Offset 4191.
@@ -138,7 +138,7 @@ No pesa mucho.
 -- Page 94, Offset 4193.
 -- 「志貴さんのお父さまの遺品との事ですけど。志貴さんに譲られるように、と遺言があったとか」
 "Creo que esta era una de las posesiones de tu padre.
- Aparentemente te la dejó en su testamento."
+ Al parecer te la dejó en su testamento."
 }
 [sha:e04068315326086a0721f8a188a9711923d37af8]{
 -- Page 95, Offset 4194.
@@ -148,7 +148,7 @@ No pesa mucho.
 [sha:e5e64bb577c000b8d8c10642d9bc5fb319e122e8]{
 -- Page 95, Offset 4195.
 -- ……それこそ実感が湧かない。
-Bueno eso es difícil de creer...
+Eso es difícil de creer...
 }
 [sha:1ce4024b5b508433d2f4aa905be606885681d89d]{
 -- Page 95, Offset 4196.
@@ -168,23 +168,23 @@ Bueno eso es difícil de creer...
 [sha:39217861af7967e752c20b81839a81f5b568ab7a]{
 -- Page 96, Offset 4199.
 -- 琥珀さんはじーっ、と興味深そうに木箱を見つめている。
-Kohaku-san mira intensamente la caja de madera.
+Kohaku-san mira la caja de madera con intensidad.
 }
 [sha:5f66233aff9368f4ffc4478ab9f4c0df53aa5dee]{
 -- Page 96, Offset 4200.
 -- なんだか玩具をほしがる子供みたいな仕草だ。
-Se está comportando como un crío obsesionado con un juguete.
+Se comportar como un crío obsesionado con un juguete.
 }
 [sha:0a65e8514264d41440be5658797d335c97144f03]{
 -- Page 97, Offset 4201.
 -- 「じーーーーっ」
-// Típico chiiiiiiiiiiiiiiiiiiiiiiiiii pero no se cual sería el sfx en español please help.
+//Típico chiiiiiiiiiiiiiiiiiiiiiiiiii pero no se cual sería el sfx en español please help.
 "%{i}Miraaada%{/i}."
 }
 [sha:083a575852a2ec0f9ff0d59a72447d3c8e2ac5e3]{
 -- Page 97, Offset 4202.
 -- 子供そのものだった。
-No, ella %{i}es%{/i} un crío.
+No, %{i}es%{/i} un crío.
 }
 [sha:46456410414c55719f1a819fdfc8203ee8f5757e]{
 -- Page 98, Offset 4203.
@@ -199,12 +199,12 @@ No, ella %{i}es%{/i} un crío.
 [sha:984ad8a678c2787bfa2edb4130e57c0116add64a]{
 -- Page 98, Offset 4205.
 -- ただ、どんな贈り物なのか興味があるだけで」
-Solo tengo un poco de curiosidad por saber el tipo de regalo que es,"
+Solo tengo un poco de curiosidad por saber el tipo de regalo que es."
 }
 [sha:a3a83ec91f4855a4a24c4aba8270d5a0027a6a70]{
 -- Page 98, Offset 4206.
 -- ……いや、十分気になってますよ、家政婦さん。
-No, tienes algo más que %{i}un poco%{/i} de curiosidad, sirvienta traviesa.
+No, eso es más que %{i}un poco%{/i} de curiosidad, sirvienta traviesa.
 }
 [sha:15fcb822c358189be3f971ff08bd59c324a91165]{
 -- Page 99, Offset 4207.
@@ -240,7 +240,7 @@ Mi padre debía odiarme mucho para dejarme esta antigualla como recuerdo...
 [sha:cd8be107067c6e82ddd65a95570da9acf5784fee]{
 -- Page 101, Offset 4213.
 -- それに、親父が使っていた鉄の棒は、もう少し太くて、無骨だった気が―――
-Además, estoy bastante seguro de que las varas de hierro con las que trabajaba mi padre eran más gruesas y robustas―――
+Además, estoy bastante seguro de que las varas de hierro con las que mi padre trabajaba eran más gruesas y robustas―――
 }
 [sha:0de236300fc8293dad61ab6721301a9165c49a57]{
 -- Page 102, Offset 4214.
@@ -265,25 +265,25 @@ Kohaku saca la vara de hierro de la caja.
 [sha:7edebc1bd67a852f133f2e3e806f37273296b746]{
 -- Page 103, Offset 4218.
 -- あれと同じみたいです。せーの、はいっ」
-Esta se parece mucho a una de esos.
+Este se parece mucho a uno de esos.
  Vale, vamos allá."
 }
 [sha:38b27ebe287f76392641a5d7f5a225ecf91dd58d]{
 -- Page 104, Offset 4219.
 -- パチン、と音がして10センチほどの刃が飛び出した。
 Con un click metálico,
- la hoja de unos diez centímetros de largo sale de la vara.
+ una hoja de unos diez centímetros de largo sale de la vara.
 }
 [sha:d279ea6d09481d01b9c71b5aa85a2bc7fad41726]{
 -- Page 104, Offset 4220.
 -- ……なるほど、たしかにこれはナイフだ。
-Ja, es un cuchillo de verdad.
+Ajá, es un cuchillo de verdad.
 }
 [sha:7bb5286d6f76cffa393f8322e4cdcac284df8f26]{
 -- Page 105, Offset 4221.
 -- 「中の構造は今風のようですが、外側はずいぶんと古いものみたいですね。ほら、裏に年号も書かれています」
 "El mecanismo interno es moderno, pero el exterior es bastante antiguo.
- Ves, tiene el año y la era grabados en la parte inferior aquí."
+ Ves, tiene el año y la era aquí grabados, en la parte inferior."
 }
 [sha:d917d1c0e34641cdafbe2230ce65883740629505]{
 -- Page 106, Offset 4222.
@@ -308,22 +308,22 @@ El kanji para 'siete', y a su lado, el kanji para 'noche'.
 [sha:8df53e05f46e2fd6299855ad086d0cd70f130e9f]{
 -- Page 107, Offset 4226.
 -- 七つ夜、と書かれているだけよ」
-Simplemente dice %{i}Nanatsu-yoru%{/i}."
+Tan solo dice %{i}Nanatsu-yoru%{/i}."
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:4227]{
 -- Page 107, Offset 4227.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Ghuh%{/i}!"
 }
 [sha:4229a1ae9d49fcd6c2c92aec4a9f01dfc63b2143]{
 -- Page 107, Offset 4228.
 -- 振り返ると、今まで黙っていた翡翠が後ろからナイフを覗きこんでいた。
-Al darme la vuelta, veo que Hisui ha estado todo este tiempo mirando desde atrás al cuchillo silenciosamente.
+Al darme la vuelta, veo que Hisui lleva todo este tiempo mirando silenciosamente el cuchillo desde atrás.
 }
 [sha:d0cc51841589a9022c6debd8403b3421b23ca689]{
 -- Page 108, Offset 4229.
 -- 「び、びっくりしたあ……おどかさないでくれ翡翠。
-"M-Me sorprendiste... no me asustes así, Hisui.
+"M-Me has sorprendido... no me asustes así, Hisui.
 }
 [sha:49a3be332f55b9a22b4b54955e7dc220787ee956]{
 -- Page 108, Offset 4230.
@@ -363,18 +363,18 @@ En todo caso, su diseño me parece más bien soso y anticuado."
 [sha:6527f3a71c6514c522e75df4172f744bdce29704]{
 -- Page 111, Offset 4237.
 -- 「……そうなの？　俺にはガラクタにしか見えないけど……」
-"¿De verdad? A mi me parece un trozo de chatarra..."
+"¿De veras? A mi me parece un trozo de chatarra..."
 }
 [sha:68bbcb20d8f2c17c167b14c8ece93d328194246e]{
 -- Page 112, Offset 4238.
 -- 翡翠があんまりにも強く断言するもんだから、こっちもその気になってきた。
-Aún así, tras oír a Hisui decirlo tan convencida,
+Aún así, tras oír a Hisui decirlo con tanta convicción,
  empiezo a sentirme como ella.
 }
-[sha:1c19755fcd1578ac9c4afe079a31995d28340a2e]{
+[offset:4239]{
 -- Page 112, Offset 4239.
 -- ……うん。
-Si...
+Sí...
 }
 [sha:917e382ef4bb28423ee94acf4e22d84d5763aaac]{
 -- Page 112, Offset 4240.
@@ -389,7 +389,7 @@ Quizá este no sea un mal recuerdo después de todo.
 [sha:e12ef59bb7df26f788ecf4cb2ddcec4ba8171a21]{
 -- Page 113, Offset 4242.
 -- ナイフに名前を付ける人はそうはいないと思うけど……なんにせよ年代物なのは確かだろう。
-No creo que mucha gente nombre sus cuchillos... lo que sea que es, definitivamente es una antigüedad.
+No creo que mucha gente nombre sus cuchillos... sea lo que sea, definitivamente es una antigüedad.
 }
 [sha:2c6bd553ff23131dc1ca7e4c43d1047989b02f89]{
 -- Page 114, Offset 4243.
@@ -473,7 +473,7 @@ Parece que ocurrió mientras estaba durmiendo, la policía vino a preguntar lo q
 [sha:57fb7e8c7472d5f2945ad3cb2c0a6bf81859e41a]{
 -- Page 120, Offset 4258.
 -- 屋敷の東側の国道―――それは昨夜、俺が様子を見に行ったあたりだ。
-La carretera que va alrededor de la propiedad――es el área que fui a revisar anoche.
+La carretera que rodea el este de la propiedad――es el área que fuí a revisar anoche.
 }
 [sha:5f0b859f108bfe222251f5e0025f6b466c7b9345]{
 -- Page 120, Offset 4259.
@@ -483,12 +483,12 @@ Manchas de sangre... viscosas salpicaduras carmesí.
 [sha:a9326e972049b149930a34a4e5b06c2963283a46]{
 -- Page 120, Offset 4260.
 -- 少なくともあの時、そんな目立つ色彩はどこにも無かった。
-Puedo decir con seguridad que, en ningún caso hubo anoche señales de ese color llamativo.
+Puedo decir con seguridad que anoche, en ningún caso hubo señales de ese color llamativo.
 }
 [sha:f6b19c081b4155ef90568d1673195f106aa980d0]{
 -- Page 120, Offset 4261.
 -- あったのは黒色だけだ。かじかむような寒さだけだ。血の温かさなんて、あの場には微塵も存在しなかった。
-Solo había negro. Solo el frío polar. Ni siquiera existía el más minimo indicio de calidez de la sangre.
+Solo hubo negro. Solo un frío polar. Ni siquiera existió el más minimo indicio de la calidez de la sangre.
 }
 [sha:37eb96ccce9f93741f8d6b4f076d3500ed549dca]{
 -- Page 121, Offset 4262.
@@ -529,5 +529,5 @@ Sólo voy a la escuela, no creo que haya mucho de lo que preocuparse.
 [sha:02ed6b28fc443e92cbc742a36cd0bf521372a2e4]{
 -- Page 124, Offset 4269.
 -- 軽く手をあげて、翡翠にお礼を言って屋敷の門を後にした。
-Con un gesto rápido con mi mano, doy las gracias a Hisui y dejo la puerta principal atrás.
+Con un gesto rápido de mi mano, doy las gracias a Hisui y dejo atrás la puerta principal.
 }

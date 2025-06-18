@@ -94,12 +94,12 @@ Sus hombros expuestos son glamurosos, pero a la vez reservados.
 [sha:e38ed9c03bae1856501f6beb5ef9e3b55a4da93d]{
 -- Page 629, Offset 18160.
 -- ……言葉がない、とはこの事だ。
-Así que así se siente uno cuando se queda sin palabras...
+Osea que así se siente uno cuando se queda sin palabras...
 }
 [sha:b276c74dfa95a0c8048c60421999b9c410a1e712]{
 -- Page 629, Offset 18161.
 -- 可憐としか言いようのない、純白の美女がそこにいた。
-Ante mi una pura belleza blanca que solo puede describirse como encantadora.
+Ante mi, una pura belleza blanca que solo puede describirse como encantadora.
 }
 [sha:ea83d2a358bf5cfa85a1c0275f95ccf0bd5cfc1f]{
 -- Page 630, Offset 18162.
@@ -125,7 +125,7 @@ Debería volver a la mansión ahora que tiene ese vestido puesto.
 [sha:aaf196313f817569c6c0ec67098f6cce1be0677e]{
 -- Page 631, Offset 18166.
 -- 「これ、わたしの選択ミスだから、あんまり好きじゃないんだけど。
-"Escogía este vestido por error,
+"Escogí este vestido por error,
  no es que sea muy fan de él.
 }
 [sha:b1cbdd9239d6900fe2a9c6b633c75415ea3c2e9a]{
@@ -160,7 +160,7 @@ Creo que puedo ver los cristales de hielo brillando mientras bailan en el aire.
 -- Page 634, Offset 18172.
 -- これはわたし自身の護りじゃなくて、ヴローヴに組み付いた時、炎を消すために創ったものよ」
 Aunque no hice esto para protegerme directamente,
- lo hice para apagar las llamas de Vlov al chocar con el."
+ lo hice para apagar las llamas de Vlov al chocar con él."
 }
 [sha:382370af1da8b67b3e231e22c9e63570b79824db]{
 -- Page 635, Offset 18173.
@@ -170,7 +170,7 @@ La mejor defensa es una buena ofensiva, ¿eh?
 [sha:36347bb0f1ffa8db0cab0fd55697412d4e96fbf9]{
 -- Page 635, Offset 18174.
 -- いかにもアルクェイドらしい。
-Algo muy Arcueid.
+Algo muy típico de Arcueid.
 }
 [sha:d26a03d1d129abfd9820edd3a6d20dc38c45b23d]{
 -- Page 635, Offset 18175.
@@ -207,14 +207,14 @@ Espera, Shiki――¿te estás riendo de mis errores?"
 [sha:fd1d66326974b9c7072746df04a3c709ee78295c]{
 -- Page 637, Offset 18181.
 -- だいいち他のヤツに見せるなんてとんでもない。これは俺だけの特権だ」
-Además, no hay forma de que deje ver esto a nadie más.
+Además, no hay forma de que le deje ver esto a nadie más.
  Esto es algo solo para mis ojos."
 }
 [sha:41dc5520d8f804c289a426ae3f7238334ae1e3bb]{
 -- Page 638, Offset 18182.
 -- 「そ、そう？　じゃあ気に入った、ってコト？」
-// AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-¿E-En serio? ¿Entonces te gusta?"
+//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+"¿E-En serio? ¿Entonces te gusta?"
 }
 [sha:3c11092e4d45d276eabf3b493bea6268cc927cb0]{
 -- Page 638, Offset 18183.
@@ -224,13 +224,14 @@ De repente recupero la compostura.
 [sha:d10c1b9dda4ec682daa70a54bfe897b9f18f9ca5]{
 -- Page 638, Offset 18184.
 -- あまりの衝撃で迂闊な発言をしてしまった。
-No puedo creer que un ataque tan simple haya sacado tanto de mi.
+No puedo creer que un ataque tan simple haya sacado tanto de mí.
 }
 [sha:829a7086424f5700ab781caa1b49645e2c8380d5]{
 -- Page 639, Offset 18185.
 -- 「ま、まあ、それなりに。一緒に戦う時、おまえが色々できると頼りになるだろ」
 "B-Bueno en cierto sentido.
  Cuando luchemos juntos será de gran ayuda tener cosas así."
+ 
 }
 [sha:649b881802ad54d4eb5639214ec32bdbdd36f7b9]{
 -- Page 639, Offset 18186.
@@ -240,7 +241,7 @@ Intento salvarme de alguna forma.
 [sha:c260d1afafd3f3686383a58dab25a18f95978e4e]{
 -- Page 639, Offset 18187.
 -- “頼りになる”という言葉が嬉しかったのか、
-Parece que está contenta por 'ser de gran ayuda' .
+Parece que está contenta por 'ser de gran ayuda'.
 }
 [sha:0876f194b3af56e7f9e9f0b4b830bc9cfab7420b]{
 -- Page 640, Offset 18188.
@@ -250,7 +251,7 @@ Parece que está contenta por 'ser de gran ayuda' .
 [sha:484a105a61a9af04f6a87838407c77d560eb0554]{
 -- Page 640, Offset 18189.
 -- 殺す事しか能の無い志貴を最大限にサポートするね！」
-// Tl oficial
+//Tl oficial
 Todo lo que puedes hacer es matar, ¡así que te apoyaré de todas las maneras que pueda!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -286,7 +287,7 @@ Sinceramente, es mi culpa por pensar en un plan tan descabellado al enfrentarnos
 [sha:25b0c5fedb3a3ffac4f1e57a686a19c5fc4764f4]{
 -- Page 643, Offset 18196.
 -- ドレスコードは、そうね……『氷河をまとう』かな？
-// otra vez con dress code me quiero MORIRRRRRRRRRRRRRRRR
+//otra vez con dress code me quiero MORIRRRRRRRRRRRRRRRR
 Creo que llamaría a este atavío de combate, hmm... ¿algo como 'Glaciar Envolvente'?
 }
 [sha:69cb492839899f6d1da4711e0ea889b39b844b06]{
@@ -302,7 +303,7 @@ Esa es la imagen que tenía en mente al crearlo."
 [sha:19d69a5dbbd18001e26156ce93cb9cea34fcc3c9]{
 -- Page 644, Offset 18199.
 -- 「キラウエアをイメージしていたでしょうね。あそこは今も活動している火山だから」
-// Mix de tls
+//Mix de tls
 "Entonces me hubiera basado en Kilauea.
  Ya que es un volcán activo."
 }
@@ -331,20 +332,20 @@ Me da pena dejarlo ir, pero no tengo razones para detenerla.
 -- できるだけ冷静に、どうぞ、と返答する。
 La digo que está bien, intentando mantener la compostura mientras lo hago.
 }
-[sha:e3dcf7b832ae171b17bbb26aa4cdddbb10499379]{
+[offset:18205]{
 -- Page 645, Offset 18205.
 -- それはともかくとして、
-Pero sea como sea―――
+En realidad, hay algo más que me he estado preguntando.
 }
 [sha:6d61654bc559aa7dddc017bf28b2fdb5474de389]{
 -- Page 646, Offset 18206.
 -- 「なあ。ヴローヴとの戦闘服が、なんでドレスなんだ？
-"Ey, ¿por qué escogiste ese vestido como uniforme de combate contra Vlov?
+"Oye, ¿por qué escogiste ese vestido como uniforme de combate contra Vlov?
 }
 [sha:edfb2e1e849490dc115c227e940ad5fba9ddc574]{
 -- Page 646, Offset 18207.
 -- 社交界に行くワケでもあるまいし」
-// Tl oficial
+//Tl oficial
 Parece más apropiado para la alta sociedad que para una pelea."
 }
 [sha:38245af12822ca9bc4f6903ceefc560a5ffc6922]{
@@ -357,10 +358,10 @@ Parece más apropiado para la alta sociedad que para una pelea."
 -- 「―――
 "―――
 }
-[sha:b328ba224751be6c026073ab7c95cec68ea40864]{
+[offset:18210]{
 -- Page 647, Offset 18210. Glued. Mods: @x.
 -- なるほど」
-Por supuesto."
+Ya veo."
 }
 [sha:c18bce6b5512827d3eec9fff9e79dd4cf75b4ba9]{
 -- Page 647, Offset 18211.

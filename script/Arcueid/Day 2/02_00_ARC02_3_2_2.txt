@@ -7,15 +7,15 @@ Me pasaré por algún sitio de camino a casa.
 -- Page 179, Offset 3062.
 -- 帰りたくない……という程ではないが、あの豪勢な屋敷に慣れるまで、あと幾ばくかの時間が必要だ。
 No es que no quiera volver...
- Solo que va a llevar algo de tiempo acostumbrarme a esa lujosa mansión.
+ Solo que me va a llevar algo de tiempo el acostumbrarme a esa lujosa mansión.
 }
 [sha:d11b2af25ec997a9cb964c5863586be2727cccd4]{
 -- Page 179, Offset 3063.
 -- 有彦の家にお邪魔するか、駅ビルの書店にでも立ち寄るか。
-Quizá visite la casa de Arihiko, o me pase por la tienda de libros en la estación.
+Quizá vaya a casa de Arihiko, o me pase por la tienda de libros en la estación.
 }
 [sha:82e8bb49465c8803834a346540f6eb458a4a7604]{
 -- Page 179, Offset 3064.
 -- どうあれ、１時間くらいの寄り道なら、余裕で屋敷の門限に間に合う筈だ。
-Donde quiera que acabe yendo, mientras sea menos de una hora, debería poder llegar a la mansión antes del toque de queda.
+Donde quiera que sea, si tardo menos de una hora, debería poder llegar a la mansión antes del toque de queda.
 }

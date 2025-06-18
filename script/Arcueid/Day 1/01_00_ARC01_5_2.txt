@@ -11,12 +11,13 @@ Me sentiría mal llamándola de 'eh tú'.
 [sha:4f609d38e39efd6914892402c658221eaed686b0]{
 -- Page 280, Offset 1870.
 -- 「すみません、名前を訊いていいですか？
-Acabo de llegar, y aún no conozco a nadie."
+"Perdona, ¿puedo preguntar por tu nombre?
 }
 [sha:5d33e85767fcf84ceb1957e156606e0ace162316]{
 -- Page 280, Offset 1871.
 -- 来たばかりで、今のうちの事情がよく掴めなくて」
-La chica en kimono me mira con sorpresa.
+Acabo de llegar,
+ por lo que aún no conozco a nadie."
 }
 [sha:113b24e7dc8d78b753aa624426686fa45b0a18be]{
 -- Page 280, Offset 1872.
@@ -41,5 +42,5 @@ Sonriendo, la chica hace una reverencia tras tu introducción.
 [sha:97005e3cff6e5340b59af1bb380aa2f2166083d2]{
 -- Page 282, Offset 1876.
 -- 蕾から開く花のように、しっとりした仕草だった。
-Es un movimiento elegante, como el de una flor floreciendo.
+Es un movimiento elegante, como el de una flor abríendose.
 }

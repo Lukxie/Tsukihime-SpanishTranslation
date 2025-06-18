@@ -187,7 +187,7 @@ En su ojos no se ve enfado sino exasperación.
 [sha:e8fbd4907177e1a37852fba464bb4313dbfaa864]{
 -- Page 95, Offset 14154.
 -- ん？　……ってコトは、今の概要だけの話を、ちゃんと“実際にそうした事”として信じてくれている、という事か？
-Espera... ¿Quiere decir que se lo ha creído? ¿Qué ha aceptado mi escasa explicación como si fuera la verdad?
+Espera... ¿Entonces se lo ha creído? ¿Ha aceptado esa pobre excusa como si fuera la verdad? 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 96, Offset 14155.
@@ -217,7 +217,7 @@ Akiha, mientras tanto, está pensando la mejor forma de desacreditar mi explicac
 [sha:c3d34cef5c129806012f526066f5509975a9b874]{
 -- Page 97, Offset 14160.
 -- 「それで、誰なんですか」
-"¿Y de quién es dicho conocido?"
+"¿Y quién es dicho conocido?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 97, Offset 14161.
@@ -272,7 +272,7 @@ Mirándola bien, me doy cuenta de lo mucho que ha cambiado Akiha.
 [sha:091f89142b62907cba4cb695056a08f1c1790781]{
 -- Page 101, Offset 14171.
 -- 妹に見蕩れる、というのも兄馬鹿なんだろうか。
-Me pregunto si es estupidez hermanil estar tan fascinado por tu hermana.
+Me pregunto si estar tan fascinado por tu hermana es estupidez hermanil.
 }
 [sha:27f71b2540893366835097133937d2452b0567f7]{
 -- Page 102, Offset 14172.
@@ -287,7 +287,7 @@ Akiha tiene una postura solemne, un claro tono de voz, y unos ojos que nunca dud
 [sha:7115de45c60011c057d18fef94814f4d9a0be6aa]{
 -- Page 103, Offset 14174.
 -- 「……？　はい、なんでしょう兄さん」
-"¿Sí? ¿Qué pasa, Nii-san?"
+"¿Sí? ¿Qué ocurre, Nii-san?"
 }
 [sha:093e4f06e2342834572865ec1a1f9bedb8da5ce0]{
 -- Page 103, Offset 14175.

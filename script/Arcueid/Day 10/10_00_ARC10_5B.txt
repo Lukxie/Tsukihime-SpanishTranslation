@@ -28,7 +28,7 @@ Creo que es hora de irse.
 [sha:ee77b94b5d1910c4e7df36f115c8e1ede87c189f]{
 -- Page 474, Offset 25477.
 -- ん？　と視線を投げる。
-¿%{i}Si%{/i}? Digo mientras la miro.
+¿%{i}Sí%{/i}? Digo mientras la miro.
 }
 [sha:be40426f60a2795f4efeadbfe0564dc4eee60ffa]{
 -- Page 474, Offset 25478.
@@ -48,7 +48,7 @@ Arcueid pausa un momento antes de preguntarme algo peculiar.
 [sha:89b55fcd743226f622ce3d679adbd5889150ac38]{
 -- Page 476, Offset 25481.
 -- 「茶化さないで。わたし、少しはあなたの体の事を知っているわ。志貴だって分かっているんでしょう？
-"No te rías de mí. Se alguna que otra cosa sobre tu cuerpo. Entiendes lo que digo, ¿verdad?
+"No te rías de mí. Sé alguna que otra cosa sobre tu cuerpo. Entiendes lo que digo, ¿verdad?
 }
 [sha:87a9148252ffb6c535d3456cf6e6b2680d406dca]{
 -- Page 476, Offset 25482.
@@ -93,7 +93,6 @@ Una expresión completamente seria en sus ojos.
 [sha:f254b1b2fd210e6945e0786fca9523594075cb76]{
 -- Page 479, Offset 25490.
 -- けど、誰にだって死の線はあるんだから、死に<易|やす>い部分は沢山ある。
-// Tl oficial
 Aunque, no es que sea el único que puede morir fácilmente. He visto las líneas de muerte que cubren el mundo.
 }
 [sha:3839855bdb3c73579f00479293f243290ee51626]{
@@ -104,13 +103,13 @@ No soy la única persona cuyo cuerpo puede desmoronarse con facilidad.
 [sha:7022240ce7112160cabe0d2bbcc183a0d3628270]{
 -- Page 480, Offset 25492.
 -- 「どうしてかしらね。あなたを見ていると、時々、訳もなく怖くなる。……だから聞かせて。
-"No se muy bien por qué, pero a veces... cuando te miro... tengo miedo.
+"No sé muy bien por qué, pero a veces... cuando te miro... tengo miedo.
  Así que... por favor respondeme.
 }
 [sha:95fab5898663bd24e3bf2e1ac98d8b513e2fd6e7]{
 -- Page 480, Offset 25493.
 -- そんな不安定な命で、楽しいと思える時があるの、志貴？」
-A pesar de tu existencia es tan precaria,
+A pesar de que tu existencia es tan precaria,
  ¿sigue habiendo momentos en los que seas feliz, Shiki?"
 }
 [sha:05a59ee2860b6c43e4b955a94fdbb7b45b1098c4]{
@@ -131,7 +130,7 @@ De verdad, esta chica es―――
 [sha:1de8d16e2d014ddc661dfdd87849e6334bd06452]{
 -- Page 480, Offset 25497.
 -- そんなの、俺に分かる筈がないじゃないか」
-Cómo se supone que voy a saberlo."
+Cómo voy a saberlo."
 }
 [sha:cf6110328b1eb1cc37b8ce860563ca851733fc7c]{
 -- Page 481, Offset 25498. Mods: @n.
@@ -141,7 +140,7 @@ No hay forma
 [sha:06f70fbd1cf2686e9b40410a81b024473b130526]{
 -- Page 481, Offset 25499. Glued.
 -- 楽しいかどうかなんて、俺に分かる筈がない。
-de que sepa si mi vida es divertida o no.
+ de que sepa si mi vida es divertida o no.
 }
 [sha:260d5f0822d2a117a9a897239914931a8a254bee]{
 -- Page 481, Offset 25500.
@@ -207,7 +206,7 @@ Hasta que morí no me di cuenta―――
 [sha:5fe3eb28fc30750e6e58cf022c92b437768b72d7]{
 -- Page 484, Offset 25511.
 -- 世界はこんなにも平和で、こんなにも美しいものだった。
-De que el mundo es un lugar tan pacífico y tan bonito.
+De que el mundo es un lugar tan pacífico y bonito.
 }
 [sha:2748e500c2e88709063d53f043e9aa6133332d32]{
 -- Page 484, Offset 25512.
@@ -299,7 +298,6 @@ Bueno, si tuviera que responder a tu pregunta, creo que diría algo así."
 [sha:bcad066d7dfaeab6d4316e6d6c02de8ae619b851]{
 -- Page 490, Offset 25529.
 -- そう返したものの、少しばかり面はゆい。
-// Tl oficial
 A pesar de mis aires de confianza, la verdad es que me da bastante vergüenza abrirme de esta forma.
 }
 [sha:ea392383174a38a6f0af2a9fd5c2cbf6d4b16a59]{
@@ -384,7 +382,6 @@ Este es el tipo de relación que tenemos."
 [sha:6e9540e845fb40785c942fa56da7bcebdb631fa7]{
 -- Page 494, Offset 25545.
 -- 今日一日があんまりにも普通だったから。
-// Tl oficial
 Lo de hoy ha sido un caso aislado.
 }
 [sha:dcfaad85a5ebbfdb85a9ffa4e6ad7d4f5261acda]{
@@ -421,7 +418,7 @@ Antes de despedirnos, ¿podemos pasar el rato así una vez más?"
 -- Page 496, Offset 25552.
 -- 結局、俺とおまえは協力しあっているから一緒にいるだけだろ。だから本当に、何の義務もなくなった後、何の意味もなく会えたらどうなるかなって、そう思っただけ」
 Al fin y al cabo, ahora solo estamos juntos porque estamos cooperando.
- Me preguntaba si una vez acabemos lo que tenemos que hacer, pudiéramos vernos de nuevo,
+ Me preguntaba si una vez acabemos lo que tenemos que hacer, podríamos vernos de nuevo,
  sin una razón de por medio."
 }
 [sha:9a5ac2389410482685a29d13ba99925ad5287c28]{
@@ -432,13 +429,13 @@ Más que eso―――
 [sha:2d7e99b32c910aaecdd2f0a78acdd377d05bdbbf]{
 -- Page 497, Offset 25554.
 -- 気が合う友人同士として、本当になにげなく、吸血鬼のことなんか考えずに。
-Quiero que nos veamos de manera informal, como amigos que disfrutan de la compañía del otro,
+Quiero que nos veamos de manera informal, como amigos que disfrutan de la compañía del otro, 
  sin tener que pensar en cosas como vampiros y eso.
 }
 [sha:d8b8d021e4b6ee95d32769781f6050e31bd4ce0e]{
 -- Page 497, Offset 25555.
 -- ただ当たり前の思い出を作ってやったら、きっとアルクェイドは喜ぶだろうと、そう思えてしまっただけ。
-Solo pienso que, si pudiéramos crear memorias juntos, entonces ella sería feliz, definitivamente. Tan solo eso.
+Solo pienso que, si pudiéramos crear recuerdos juntos, ella definitivamente sería feliz. Tan solo eso.
 }
 [sha:5bfe9ae1bed5825c25a954ae51f570bd8133b5ac]{
 -- Page 498, Offset 25556.
@@ -468,13 +465,12 @@ Tras quedarse ojiabierta por la sorpresa―――
 [sha:ae7a806521ee8f25b8cade3d6a2ed6c61f9cdf26]{
 -- Page 500, Offset 25561.
 -- 輝くような笑顔で、弾むような仕草で、確かにそう約束した。
-// Mix de tls
 Con una sonrisa radiante, Arcueid transforma mi sugerencia en promesa.
 }
-[sha:8bae21113428e11133de724a7676b7a04108bfbb]{
+[offset:25562]{
 -- Page 501, Offset 25562.
 -- 夕焼けの教室。
-La clase embebida en la puesta del sol.
+La puesta de sol impregna la clase.
 }
 [sha:50119c496f8b821866817cc901bd4a5bc8a2c884]{
 -- Page 501, Offset 25563.

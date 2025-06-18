@@ -22,7 +22,7 @@ El profesor de física me llama desde el podio.
 [sha:c13440c4056df35a1fd8c2e8c3210642ad35c8d5]{
 -- Page 17, Offset 30525.
 -- 「はい、なんですか」
-"Sí, ¿que ocurre?"
+"Sí, ¿qué ocurre?"
 }
 [sha:dc54c15fb54ce0472367d67f00d7205c37f5ac81]{
 -- Page 17, Offset 30526.
@@ -85,14 +85,12 @@ Nuestra escuela no tiene una sala dedicada a orientación.
 [sha:d17c53bce5c9949ade1c87858ca95de85f7a227c]{
 -- Page 21, Offset 30537.
 -- たいていは空き教室か職員室で行われるが、今日のように使われていない部室を使う事もある。
-// Igual un poco forzado
-Sesiones como esta suelen llevarse a cabo en clases vacías o en la sala de profesores,
+Sesiones como esta suelen llevarse a cabo en clases vacías o en la sala de profesores, 
  pero a veces también se realizan en la sala de algún club en desuso, como hoy.
 }
 [sha:2d16379b3488360c1e16984d4f17cc9cda9cb671]{
 -- Page 21, Offset 30538.
 -- ……どうやら、茶道部はずいぶん昔に廃部になっていたようだ。たしかに今どき、茶道部は流行らない。
-// Joder que dolor
 Parece que hace un tiempo disolvieron el club de ceremonia del té.
  Ciertamente, es el tipo de cosa que no es popular a día de hoy.
 }
@@ -129,7 +127,7 @@ Pero, no hay nada que pueda hacer.
 [sha:1d0ade79ef5e133124471596c8a002a316800e06]{
 -- Page 23, Offset 30545.
 -- 部活動が禁止され、下校時間も早まった校舎は、刻一刻と静まりかえっていく。
-Con las actividades del club canceladas y el fin de clases adelantado,
+Con las actividades de club canceladas y el fin de clases adelantado, 
  cada minuto que pasa la escuela se vuelve más silenciosa.
 }
 [sha:ce1ae946e795d60844f4e47e11064870d2d06d39]{
@@ -219,12 +217,12 @@ Extiendo las piernas y me levanto.
 [sha:6409b214cc099f36008efce7ff464fae86fec15f]{
 -- Page 28, Offset 30562.
 -- ……茶道室も悪くない。
-Esta sala de ceremonia del té no esta mal...
+Esta sala de ceremonia del té no está mal...
 }
 [sha:47385186bee7527db3cbcba039c5896f81cf0aaf]{
 -- Page 28, Offset 30563. Glued. Mods: @x.
 -- こうして、ひとりで思案し続けたおかげで、少しはマトモな頭に戻ってくれたみたいだ。
-El silencio me ha ayudado a poner mis pensamientos en orden y a despejar mi mente.
+ El silencio me ha ayudado a poner mis pensamientos en orden y a despejar mi mente.
 }
 [sha:319ce601fac7a8a8a045241be9e0f189715ebaea]{
 -- Page 29, Offset 30564.
@@ -234,7 +232,7 @@ Me ha dado tiempo de sobra para reflexionar.
 [sha:50cd2e57763f01af961bf7e646b05e8d1a35311e]{
 -- Page 29, Offset 30565.
 -- 自分はどうするべきか、何を優先すべきかを。
-Sobre lo que debo hacer, y sobre lo que es importante para mi.
+Sobre lo que debo hacer, y sobre lo que es importante para mí.
 }
 [sha:90f186c64b3c2670889530aab3e73c61f93c0c57]{
 -- Page 29, Offset 30566.

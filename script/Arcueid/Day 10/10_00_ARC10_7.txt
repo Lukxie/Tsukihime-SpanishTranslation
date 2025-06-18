@@ -22,7 +22,7 @@ Y además, no tienes la habilidad para matarlo.
 [sha:18bb001e9a851881dbffee9484c939ede6bf3767]{
 -- Page 756, Offset 26325. Mods: @n.
 -- オマエね、あの姫様と打ち合ったんだぞ？　一ヶ月は手足に力が入らねえから、まだ動けるうちに教会に帰っとけ
-Acabas de luchar contra esa princesa, ¿recuerdas?  Te va a llevar un mes poder mover las extremidades de nuevo. Mejor que vuelvas a la Iglesia mientras aún puedas.
+Acabas de luchar contra esa princesa, ¿recuerdas? Te va a llevar un mes poder mover las extremidades de nuevo. Mejor que vuelvas a la Iglesia mientras aún puedas.
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 756, Offset 26326. Glued.
@@ -55,7 +55,7 @@ Esta vez, se retuerce por el suelo.
 "El resto es cosa tuya.
  No me importa una mierda lo que ha dicho Noel
 }
-[sha:0819415b8baa31d472380275168d825499a8ea42]{
+[offset:26332]{
 -- Page 758, Offset 26332. Glued. Mods: @k, @e.
 -- ―――
 ――

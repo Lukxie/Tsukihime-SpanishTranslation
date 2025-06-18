@@ -54,6 +54,6 @@ Lo único que me preocupa es esa reacción.
 [sha:1cf6cb3cadf66fbc02cfe87050dd25ecbad57f13]{
 -- Page 17, Offset 21359.
 -- 傷が治りきっていないのに暴れた反動だろう。今夜あたり、ちゃんと完治しているか確かめてやる。
-Estoy seguro que está pagando el precio por no parar quieta aunque no se hayan cerrado sus heridas.
+Estoy seguro que está pagando el precio por no parar quieta a pesar de que no se hayan cerrado sus heridas.
  Esta noche en cuento tenga la oportunidad intentaré confirmar si se ha recuperado del todo o no.
 }

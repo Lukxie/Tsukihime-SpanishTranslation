@@ -36,7 +36,7 @@ No siento ningún movimiento tras la puerta.
 [sha:5995a4aa1a6adf3b61d63927ddda978f0f3e4d3e]{
 -- Page 764, Offset 26351.
 -- 「――――――ふう」
-"―――%{i}Hah%{/i}."
+"―――%{i}Haa%{/i}."
 }
 [sha:0bb9df8a4dd9d89c35a544bc1325079a26ee1ac7]{
 -- Page 764, Offset 26352.
@@ -63,10 +63,10 @@ Ya me disculparé con Arcueid más tarde.
 -- その前に、一応ノブに手をかけてみた。
 Pero antes, para asegurarme pongo la mano sobre el pomo.
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:26357]{
 -- Page 766, Offset 26357.
 -- 「……？」
-¿Eh...?
+"¿Hm...?"
 }
 [sha:7f383cc9047eb332009cf0a7962eb90e7805f1aa]{
 -- Page 766, Offset 26358.
@@ -103,10 +103,10 @@ Me esperó toda la noche en el parque, y luego por la mañana fue a mi habitaci�
 -- だからたぶん、丸一日、ここに帰ってきていない。
 Lo que significa que no ha estado aquí en 24 horas.
 }
-[sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
+[offset:26365]{
 -- Page 768, Offset 26365.
 -- 「っ……！」
-"%{i}Ghuh%{/i}!"
+"¡%{i}Gh%{/i}!"
 }
 [sha:cbcea86fffd2fc6696b771355b9c463ebfedac22]{
 -- Page 768, Offset 26366.

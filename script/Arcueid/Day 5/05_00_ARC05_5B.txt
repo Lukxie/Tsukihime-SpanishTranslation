@@ -1,7 +1,7 @@
 [sha:696b17ef2189d6c53b0b4e302331fc04b85a8a9c]{
 -- Page 10012, Offset 9702.
 -- まさに人間ミサイルだ。
-Era como un misil humano.
+Como un misil humano.
 }
 [sha:ce0b0c3c254756451e2770b7eb2001f1c43bcb27]{
 -- Page 10012, Offset 9703.
@@ -11,7 +11,7 @@ Arcueid cayó encima de Vlov desde una altura de ochenta metros.
 [sha:10522421d58370bdef6a91ba9dc1c001ff944929]{
 -- Page 423, Offset 9704.
 -- いや、正確には飛行した。
-Más bien, en realidad voló.
+En realidad, más bien voló.
 }
 [sha:81c7cfd6d02216b031428a86aceb450de6094e26]{
 -- Page 423, Offset 9705.
@@ -47,13 +47,13 @@ No puedo culparlos.
 [sha:e1f58841a838db1a935de5df93e1eb9994fa2387]{
 -- Page 426, Offset 9711.
 -- 「す、す、―――」
-// Ayuda xd
-"Wh-Whoa..."
+//Ayuda xd
+"I-In..."
 }
 [sha:850e47652933f93948055c93dd7d8f922d4257c1]{
 -- Page 426, Offset 9712.
 -- なにしろ、<砂埃|すなぼこり>が晴れたらこれである。
-Sobre todo cuando se haya disipado el polvo y pueda ver el alcance de la destrucción.
+Sobre todo tras haberse disipado el polvo y ver el alcance de la destrucción.
 }
 [sha:fceb87c8296f9488bb2e900ddcb28ad3abd38c8c]{
 -- Page 426, Offset 9713.
@@ -74,7 +74,7 @@ El suelo se ha hundido más de cuarenta metros.
 [sha:1cdc98b538cace1716e3874c0e76f06411ef0704]{
 -- Page 428, Offset 9716.
 -- 壮大な自然の営みを見た気分だ。アマゾンの密林とか、ナイアガラの滝とか、そのレベルの雄大さ。
-Se sintió como ver la espectacular fuerza de la naturaleza. Su grandiosidad está al mismo nivel que la jungla del Amazonas o las Cataratas del Niágara.
+Fue como ver la espectacular fuerza de la naturaleza. Su grandiosidad está al mismo nivel que la jungla del Amazonas o las Cataratas del Niágara.
 }
 [sha:61c97a82f1e37aca2f51885c108a73c08a20183a]{
 -- Page 428, Offset 9717.
@@ -104,7 +104,7 @@ Los policías que estaban fuera del radio de la explosión están atendiendo y s
 [sha:072d92a7ce9421d157b4218c86983518c4484a56]{
 -- Page 430, Offset 9722.
 -- 結果的にここ一帯は完全に無人になった。
-Resultando en que, todo el area este completamente desierta.
+Resultando en que, todo el área este completamente desierta.
 }
 [sha:8ee567c8cdf97f2fdfdf1159a5511b6a33514b30]{
 -- Page 430, Offset 9723.
@@ -114,7 +114,7 @@ Este――¡este método para desalojar gente es demasiado excesivo!
 [sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
 -- Page 431, Offset 9724.
 -- 「…………！」
-"%{i}Ugh%{/i}!"
+"¡%{i}Ugh%{/i}!"
 }
 [sha:e5acf3376afbc2414d89170d26ecb2f8600e518b]{
 -- Page 431, Offset 9725.
@@ -124,7 +124,7 @@ Este――¡este método para desalojar gente es demasiado excesivo!
 [sha:a38a2353a3b2dcba35f45532f862313539886cfe]{
 -- Page 431, Offset 9726.
 -- アルクェイドが外したのか、ヤツが躱したのか、どちらにせよ<吸血鬼|ヴローヴ>は生きている。
-No se si Arcueid ha fallado o si Vlov lo ha conseguido esquivar de alguna forma, sea como sea, sigue vivo.
+No sé si Arcueid ha fallado o si Vlov lo ha conseguido esquivar de alguna forma, sea como sea, sigue vivo. 
 }
 [sha:06963e2dad3284d14de34a223b82bea5d917ea7b]{
 -- Page 432, Offset 9727.
@@ -144,7 +144,7 @@ Una sombra blanca desafía al orígen de las llamas en la nube de polvo.
 [sha:5f3456f970902cc2d0953dafbf8bb180b468bd1b]{
 -- Page 433, Offset 9730.
 -- “ちゃんと後からついてきてね―――”
-Más te vale alcanzarme después.'
+ 'Más te vale alcanzarme después.'
 }
 [sha:3653ec76193c7314a544a2f7654d6822aeb19b67]{
 -- Page 433, Offset 9731.
@@ -154,7 +154,7 @@ Las palabras de Arcueid resuenan en mi mente.
 [sha:46ad9064a55790f88c6a27094bbd811256082c14]{
 -- Page 433, Offset 9732.
 -- ……あれこれ考えるのは後だ。
-Ya tendré más tarde tiempo para pensar.
+Ya tendré tiempo para pensar más tarde.
 }
 [sha:041c895c57a7a236d02c21bad109bbb748436238]{
 -- Page 433, Offset 9733.
@@ -164,7 +164,7 @@ Ahora mismo, ¡tengo que darme prisa y llegar al nivel del suelo!
 [sha:be0a2d1a5850ef96cb5431a0b2508cedfdaf4607]{
 -- Page 434, Offset 9734.
 -- 「はっ、はっ、はっ、は―――！」
-"%{i}Hah, hah, hah, ha%{/i}―――!"
+"¡%{i}Hah, hah, hah, ha%{/i}―――!"
 }
 [sha:2565a2e71c4bb657571622d8d58c4d4ffdbd216b]{
 -- Page 434, Offset 9735.
@@ -174,7 +174,7 @@ Corro hacia las escaleras.
 [sha:40fdba053658094ebacb3a7e256356c072c20168]{
 -- Page 434, Offset 9736.
 -- 屋上を施錠していた扉の鍵はナイフで切断した。
-Con el cuchillo corto la cerradura de la puerta al tejado.
+Con el cuchillo corto la cerradura de la puerta que lleva al tejado.
 }
 [sha:5e065870522ab83bf8d8ae09571858f3cc0bc3e6]{
 -- Page 435, Offset 9737.
@@ -189,7 +189,7 @@ Bajo las escaleras a toda velocidad, dependiendo de las luces de emergencia.
 [sha:142dab3ea6b60e18d70487c288b138d6324addea]{
 -- Page 435, Offset 9739.
 -- ……覚悟していた筈の気持ちは、荒れる息づかいと共に乱れていく。
-A medida que avanzo mi determinación, como mi respiración, se vuelve más inestable.
+A medida que avanzo mi determinación, como mi respiración, se vuelve más inestable. 
 }
 [sha:1494333e91aee488008e15239dfdcd9123873496]{
 -- Page 436, Offset 9740.
@@ -209,7 +209,7 @@ Entonces, será mi turno.
 [sha:f04fd31a1e0a8e28f917dee3b0ad6339474ef0cd]{
 -- Page 436, Offset 9743.
 -- ヤツに走り寄って、線という線を切断し、解体すればいい。
-Correré hacia el, cortaré sus líneas, y descuartizaré su cuerpo.
+Correré hacia él, cortaré sus líneas, y descuartizaré su cuerpo.
 }
 [sha:1b1c96be6b1adff388125eee7abb53f033ca5585]{
 -- Page 437, Offset 9744.
@@ -221,7 +221,7 @@ El descenso de Arcueid fue extraordinario.
 -- ヴローヴを抑えられる、と言い切っただけはある。
 Supongo que justifica la confianza que tenía cuando dijo que podía sujetar a Vlov.
 }
-[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+[offset:9746]{
 -- Page 437, Offset 9746.
 -- だが―――
 Sin embargo―――
@@ -229,12 +229,12 @@ Sin embargo―――
 [sha:3b50026d8663e63729d89d36d644b1a5b9e098ad]{
 -- Page 438, Offset 9747.
 -- 「―――だけど、それでも―――」
-"Pero, incluso así―――"
+"Aún así―――"
 }
 [sha:2237bf25e1ba0a39a0f94072c9f2e27d601d9a25]{
 -- Page 438, Offset 9748.
 -- ……それでもヴローヴは健在だった。
-Incluso así, Vlov se mantiene firme.
+Aún así, Vlov se mantiene firme.
 }
 [sha:295757698369018dbd30c49d9a20e4c833dc6827]{
 -- Page 438, Offset 9749.
@@ -267,7 +267,7 @@ No hemos hecho planes para el peor de los casos.
 -- なぜなら、アルクェイドがヴローヴに敗れた場合、俺に残された選択は逃げ出す事しかないのだから。
 Si Vlov derrota a Arcueid, huir sería la única opción.
 }
-[sha:36655b729429f21673e7a6174126906a63a518b2]{
+[offset:9755]{
 -- Page 441, Offset 9755.
 -- 「は―――――あ」
 "%{i}Hah――hah%{/i}."
@@ -285,12 +285,12 @@ Me meto corriendo y pulso el botón de la primera planta.
 [sha:920e0fa145dbe6d4c35e0fde251a13f8503417d2]{
 -- Page 441, Offset 9758.
 -- もう迷っている時間はない。
-No hay tiempo para dudar.
+Ya no hay tiempo para dudar.
 }
 [sha:1edb1b6b87efaa786dee63a2c393e68e9f043f9f]{
 -- Page 441, Offset 9759.
 -- そもそも迷っている場合じゃない。
-Nunca hubo una en primer lugar.
+Nunca lo hubo en primer lugar.
 }
 [sha:5f6c412fa367572bb07df6a383e95d10edb1af8c]{
 -- Page 441, Offset 9760.
@@ -329,7 +329,7 @@ Si es eso, entonces no hay problema.
 -- アレを恐れるのは人間として正常だ。近寄るだけで殺される相手と向き合う。恐怖がなくてまともな人間でいられるものか。
 Es normal que a un ser humano le asuste esa %{i}cosa%{/i}. Que le asuste confrontar a un ser al que no puedes acercarte sin encarar a la muerte. ¿Podrías llamarte humano si eso no te asusta?
 }
-[sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
+[offset:9767]{
 -- Page 444, Offset 9767.
 -- だから。
 Es por eso que―――
@@ -337,14 +337,14 @@ Es por eso que―――
 [sha:2f821a02bdc5ec3f0aa3b69a0eb9e3e8dbaea2d9]{
 -- Page 444, Offset 9768.
 -- 問題があるとしたら、それは、
-Si %{i}hubiera%{/i} un problema―――
+El problema %{i}sería%{/i} si―――
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 445, Offset 9769.
 -- 「――――――」
 "――――――"
 }
-[sha:d839c3c39cb37783437230675ff504dc37ec2253]{
+[offset:9770]{
 -- Page 445, Offset 9770.
 -- ……それは。
 Sería si―――
@@ -367,7 +367,7 @@ Mi respiración se acelera.
 [sha:37ce7dc54ba67272182139dc20f747e67c07cc7e]{
 -- Page 446, Offset 9774.
 -- 心臓が、この体とは違うパーツみたいに、どくんどくんと浮き足立っている。
-Mi corazón late sin descanso, como si estuviera completamente separado de mi cuerpo.
+Mi corazón late sin descanso, como si estuviera completamente separado de mi cuerpo. 
 }
 [sha:7a2fcb0ff2fd54f2c37ca82dc5fee13a7299a72e]{
 -- Page 447, Offset 9775.

@@ -541,7 +541,7 @@
 [sha:105bc8391295195043ccf3c4ee85046e2d7c7c9d]{
 -- Page 735, Offset 24046.
 -- 「―――それは」
-"―――Eso..."
+-- TRANSLATION HERE
 }
 [sha:f15aa6645621e7d4f3f1df73016a72c11e67e577]{
 -- Page 735, Offset 24047.
@@ -836,7 +836,7 @@ No tengo palabras.
 [sha:708b624ecb453b05f34cc66630d10d2c4ed01a80]{
 -- Page 757, Offset 24105.
 -- 俺は。
-Yo.
+-- TRANSLATION HERE
 }
 [sha:badead0fa88527da78c3595643cb8135f94d3415]{
 -- Page 757, Offset 24106.
@@ -1036,7 +1036,7 @@ Yo.
 [sha:2dd0fc85b776d8ed44c0915a68cd99eef1c6a47b]{
 -- Page 772, Offset 24145.
 -- ……吐き気がする。
-Siento náuseas.
+-- TRANSLATION HERE
 }
 [sha:c73ecca30621e0463c14f114f635ebfe6aa8de23]{
 -- Page 772, Offset 24146.

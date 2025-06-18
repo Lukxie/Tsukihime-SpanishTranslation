@@ -11,7 +11,7 @@ Como aún falta algo de tiempo antes de la quinta hora, las únicas personas en 
 [sha:a3060b4dee894660ccac0f5f603960ac39e4bb0f]{
 -- Page 168, Offset 4381. Mods: @n.
 -- 「………あれ？
-"¿Huh...?
+"¿Eh...?
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
 -- Page 168, Offset 4382. Glued.
@@ -31,13 +31,13 @@ No veo a Yumizuka Satsuki entre las chicas.
 [sha:dff357bf7df4e16c67e91fb3772b589e2f196112]{
 -- Page 168, Offset 4385.
 -- 彼女は一番……といわずとも三番目ぐらいには目立つので、いなければそれだけで違和感になる。
-Ella es la chica más... bueno, quizá la tercera chica más llamativa de la clase.
+Es la chica más... bueno, quizá la tercera chica más llamativa de la clase.
  Que no esté aquí me hace sentir un poco incómodo.
 }
 [sha:f78e8407e8ded12861491d6d773bd7f0e76073d9]{
 -- Page 169, Offset 4386.
 -- 「……欠席だったのかな」
-"Me pregunto si hoy estará enferma..."
+"Me pregunto si estará enferma..."
 }
 [sha:cbf09c2eba7f6ca480ff5ece27c2393b5d0d1f4a]{
 -- Page 169, Offset 4387.

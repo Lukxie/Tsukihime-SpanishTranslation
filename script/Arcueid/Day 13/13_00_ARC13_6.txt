@@ -12,7 +12,7 @@ Un colapso antinatural.
 -- Page 10007, Offset 32964.
 -- 渡り廊下は俺の前から校舎まで、そこだけが違う素材で作られた異物のように崩れている。
 La parte del paso entre el edificio contrario y yo se ha desplomado,
- como si hubiera estado hecho de un material completamente distinto.
+ como si estuviera hecho de un material completamente distinto.
 }
 [sha:9d3c5076db0a4cdeb0a2c74933daa5234423423e]{
 -- Page 10007, Offset 32965.
@@ -93,10 +93,10 @@ Se retuerce, empapado en un charco de su propia sangre.
 [sha:35afcc83a5b75bd214fe12cb1fea7e00a21302b7]{
 -- Page 452, Offset 32980.
 -- なるほど、切り替えが早い。蘇生も再生も適わないのなら、新しい部位を作ってこれを補えばいい。吸血鬼らしい発想だ。数分も経てば、とりあえず下半身の代わりになる<部|あ><位|し>は作られるのだろう。
-Ya veo, aún no es capaz de volver a hacerlo.
+Ya veo, aún no es capaz de volver a hacer eso.
  Si no puede resucitar o regenerarse, entonces creará algo de repuesto.
- Muy apropiado de un vampiro.
-Estoy seguro que en unos minutos será capaz de construir algo prostético que reemplace temporalmente su tren inferior.
+ Muy apropiado para un vampiro.
+ Estoy seguro que en unos minutos será capaz de construir algo prostético que reemplace temporalmente su tren inferior.
 }
 [sha:56ba9c94e3e8e30ab10e76ecb82c4599a3effb7f]{
 -- Page 453, Offset 32981.
@@ -217,15 +217,15 @@ Una muerte rápida y sencilla. Más que cerrar los ojos incluso.
 -- 「は…………あ」
 "%{i}Ha%{/i}...%{i}ah%{/i}."
 }
-[sha:cbb7f6633093d4a5b7ea71ed6470658834fee723]{
+[offset:33004]{
 -- Page 461, Offset 33004.
 -- 意識が眩む。
-Mi mente se nubla.
+Mi consciencia empieza a desvanecerse.
 }
 [sha:7d5f5f1c0d378ad22c0fcc8d9b8d2bcfafb47676]{
 -- Page 461, Offset 33005.
 -- 体も限界なら、頭はもっと限界だ。
-Mi cuerpo ha llegado a su límite, y mi mente hace mucho que lo superó,
+Mi cuerpo ha llegado a su límite, y mi mente hace mucho que lo superó.
 }
 [sha:ec84801177e4635d4f89832cd0272cca470d4f3e]{
 -- Page 462, Offset 33006.
@@ -266,7 +266,7 @@ De esa forma...
 [sha:dfdc3b6caa6256a1fe575c9fe8118ac8aed46dca]{
 -- Page 463, Offset 33013.
 -- あんなコトには、ならないまま――――
-Ella estaría viva ahora―――
+Ella ahora estaría viva―――
 }
 [sha:df852f2b858b429aa14d3cc4091cb0a688aa46a8]{
 -- Page 464, Offset 33014.
@@ -316,8 +316,7 @@ Envuelve su sangrienta mano alrededor de mi cuello.
 [sha:f52339799de95974ab70f9c69d7aef8b7411137f]{
 -- Page 467, Offset 33023.
 -- 「ナにヲ、ナニヲ、シタ―――キエル、ナゼ、ドウ、ヤッ、テ、ワタ死を、殺シ、シシ死死し死し死、たた、たた、たたたたタたたタたた――――」
-// Joder que dolor
-"Qu... hAs... hEcHo...eStoy, dEsapareCiendo, cOmo, me, hAs, Ma, mamAmaMma, maTA,d-d-d-d-d-d-do―――"
+"Qu... hAs... hEcHo...eStoy, dEsapareCiendo, cÓmo, me, hAs, Ma, mamAmaMma, maTA,d-d-d-d-d-d-do―――"
 }
 [sha:262be395c25d18bd8813731d332f3935e0dad354]{
 -- Page 467, Offset 33024.
@@ -327,7 +326,7 @@ Abre su afilada boca, listo para morder mi cuello.
 [sha:fe5e10d97c86ceeebae890524eecda8e3cd860d0]{
 -- Page 468, Offset 33025.
 -- 「消エ、ナイ、ワタしとオマエは、繋ガッて、いい、ル。オマ、エニ、移レバ、マ、ダ、存在ノ鎖ハ、切れナイ………！」
-"No, vOY, a MOrir, estAmos, cOnnecTad, os. sI, me, inTroDuzco, eN, ti, la cAdeNa de mI exisTencia, no será DESTRUIDA!"
+"¡No, vOY, a MOrir, estAmos, cOnnecTad, os. sI, me, inTroDuzco, eN, ti, la cAdeNa de mI exisTencia, no será DESTRUIDA!"
 }
 [sha:8d20d73560ee8a681bd2a7053bbcb26d237b1060]{
 -- Page 468, Offset 33026.
@@ -344,10 +343,10 @@ Se hunden en mi cuello.
 -- 「あ―――――」
 "Ah―――"
 }
-[sha:aa97ea5701f6f59551ed11fc009eeccd4cf11d02]{
+[offset:33029]{
 -- Page 469, Offset 33029.
 -- 消えた。
-Ya no está.
+Y desaparece.
 }
 [sha:0e6aad6cfe4ee15550e1b912c8cf49517b008efd]{
 -- Page 469, Offset 33030.
@@ -362,7 +361,7 @@ El cuerpo de Roa es despedazado instantáneamente.
 [sha:871b80ba69d4b31fceb0a13c762b7e7269034fad]{
 -- Page 470, Offset 33032.
 -- 俺の前には、
-Frente a mi―――
+Frente a mí―――
 }
 [sha:9884dae366c88def0ff8f9e7a1dd17ce14ac54e0]{
 -- Page 470, Offset 33033.
@@ -372,7 +371,7 @@ Se encuentra Senpai, con una ligera falta de aliento, y una serie de hojas en su
 [sha:325ef13b275da83603b343fc003b3c4d48b42a7b]{
 -- Page 471, Offset 33034.
 -- 「とまあ。これで、この人を殺したのはわたしですね」
-"Ahora pues. Con eso, soy yo quien lo ha matado."
+"Bueno. Con eso, soy yo quién lo ha matado."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 471, Offset 33035.
@@ -382,7 +381,7 @@ Se encuentra Senpai, con una ligera falta de aliento, y una serie de hojas en su
 [sha:78d488e295c681f5e7031a82a12d1e1834b12bbd]{
 -- Page 471, Offset 33036.
 -- ちょっと、よく、先輩の意図がわからない。
-No... entiendo muy bien lo que intenta hacer Senpai.
+No... entiendo muy bien lo que Senpai intenta hacer.
 }
 [sha:d42e7a03177b2f7f0f26f57b6c9770c35f7df69e]{
 -- Page 472, Offset 33037.
@@ -398,7 +397,7 @@ Ese logro, esa responsabilidad, y todo lo demás, me pertenece.
 [sha:6335a1357e7b9466c8efe144430acf43a3dc778a]{
 -- Page 472, Offset 33039.
 -- なので、遠野くんは手ぶらで、何もできなかったといじけて帰っちゃってください」
-Así que venga. Vuelve a casa con las manos vacías, y avergonzado de no ser capaz de lograr nada de nada."
+Así que ale. Vuelve a casa con las manos vacías, y avergonzado de no ser capaz de lograr nada de nada."
 }
 [sha:a61a12df7da04c0e9610b2e8fba7349eba874f01]{
 -- Page 473, Offset 33040.
@@ -414,7 +413,7 @@ Que injusto...
 -- Page 473, Offset 33042.
 -- もう笑う事なんてないと思った矢先に、苦笑い、させられるなんて。
 Justo cuando pensaba que no volvería a sonreír,
- me saca una sonrisa.
+ va y me saca una sonrisa.
 }
 [sha:c83af51bccd6730f6c05cc4cf1ff3d43dec69947]{
 -- Page 474, Offset 33043.
@@ -487,7 +486,7 @@ Mi cerebro me indica que no puede más, que necesita descansar.
 [sha:9b2357ebc6b0f61794930b8561a87a661ce9eb9d]{
 -- Page 479, Offset 33056.
 -- 「……くん……遠野…………ってば……！」
-"¡Tohno-kun... Tohno-kun...... ey!"
+"¡Tohno-kun... Tohno-kun...... oye!"
 }
 [sha:6a6465dd02b3f2f9070a142699dfe263a3409b44]{
 -- Page 479, Offset 33057.
@@ -517,7 +516,7 @@ Se esfuma como una fiebre pasajera.
 [sha:d9da4fdbf167bd7cd74c3bb5d29089d1e769c3c3]{
 -- Page 480, Offset 33062.
 -- ……こんな月を、いつか、見上げ続けた記憶がある。
-Recuerdo haber visto una luna como esta, hace mucho ya...
+Recuerdo haber visto una luna como esta, hace ya mucho tiempo...
 }
 [sha:875d08bd8bf6f8daccb0019aa93d78af42488752]{
 -- Page 480, Offset 33063.

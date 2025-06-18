@@ -48,7 +48,7 @@ Arcueid pestañea sorprendida.
 [sha:ec397a9552da4fbb32080b37cd91fa5198ed545c]{
 -- Page 171, Offset 24688.
 -- どんな素敵なところか、期待してるね志貴！」
-¡No puedo esperar a ver que tipo de lugar maravilloso que tienes en mente, Shiki!"
+¡No puedo esperar a ver que tipo de lugar maravilloso tienes en mente, Shiki!"
 }
 [sha:562534b1eb359d33db1771262eb05f2e3f56f050]{
 -- Page 171, Offset 24689.
@@ -63,7 +63,6 @@ Dicho eso...
 [sha:f2f783a20529644510aabdfebde4b7b450b638af]{
 -- Page 172, Offset 24691.
 -- 別に手を握ったまま、ここまで移動した訳ではない。
-// Handholding :flushed:
 No esperaba ir de la mano todo el camino.
 }
 [sha:1ad02d0ef53fb47bfb8867b11c0564d9dc284557]{
@@ -111,7 +110,7 @@ Ahora mismo mi camuflaje natural está debilitado.
 [sha:0a9afc9d0198f01b3b5e1d8e8f2a4cbbf18cdc89]{
 -- Page 175, Offset 24700.
 -- あ。もしかして問題ある？」
-Ah. ¿Te supone algún problema por casualidad?"
+Ah. ¿Por casualidad te supone algún problema?"
 }
 [sha:6ae652e68e0f2c0feec3e11578a2aac32ad048b1]{
 -- Page 176, Offset 24701.
@@ -126,13 +125,13 @@ Ah. ¿Te supone algún problema por casualidad?"
 [sha:940110449f0b35c6d6faddfabbf27374566cf87a]{
 -- Page 176, Offset 24703.
 -- 「そのままでいい。これは俺の心の狭さの問題だった」
-"Entonces quédate como esta.
+"Entonces quédate como estas.
  El problema es más que estoy siendo cerrado de mente."
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:24704]{
 -- Page 176, Offset 24704.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:c41debea933fcd9b285eb8331c3d8a635cd8aba3]{
 -- Page 177, Offset 24705.
@@ -162,7 +161,7 @@ Tengo que admitir que es algo satisfactorio que todos los transeúntes la miren 
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 178, Offset 24710.
 -- だが。
-Sin embargo―――"
+Sin embargo―――
 }
 [sha:789484890196e319e94b698bcb6495668fb6ae7e]{
 -- Page 179, Offset 24711.
@@ -177,7 +176,7 @@ Esta vez no controlo mis tendencias acaparadoras, digo, mi curiosidad.
 [sha:fdd3a705b8e8894f1c3db48fe2ef6063a192509a]{
 -- Page 179, Offset 24713.
 -- 俺は戸惑うアルクェイドの手を引いて目的地へ急ぐのだった。
-Me apresuro a nuestro destino, llevando a Arcueid perpleja de la mano.
+Me apresuro a nuestro destino, llevando a una Arcueid perpleja de la mano.
 }
 [sha:21af18ef9a620021c2f6e510514f40615ad16aa5]{
 -- Page 180, Offset 24714.
@@ -187,7 +186,7 @@ Me apresuro a nuestro destino, llevando a Arcueid perpleja de la mano.
 [sha:5f3c281661c011fbf6846dee7a16fbb1de0b0909]{
 -- Page 180, Offset 24715.
 -- 「さすがに特殊性癖すぎない！？」
-"¡¿Esto es una especie de fetiche raro?!"
+"¡¿Es esto una especie de fetiche raro?!"
 }
 [sha:b14aa365fc2b72bfb1267f6ffe752b3ae6db94d6]{
 -- Page 181, Offset 24716.
@@ -197,7 +196,7 @@ Me apresuro a nuestro destino, llevando a Arcueid perpleja de la mano.
 [sha:75aa587a2b1bab43eea78e99f4f9025ccc4053e1]{
 -- Page 181, Offset 24717.
 -- まだろくに説明もしていないのに一足飛びでとんでもない罵倒を受けてしまった。
-Ni me ha dejado explicarme y ya está insultándome de manera ridícula.
+No he tenido oportunidad de explicarme y ya me está insultando de manera ridícula.
 }
 [sha:b81742de0fe08a3b0cdc8ca13a91fbbc42dd5dc3]{
 -- Page 182, Offset 24718.
@@ -291,7 +290,7 @@ Vaya.
 [sha:d8a78a9e7212823a3c0e11374d5a17bb416972c7]{
 -- Page 188, Offset 24735.
 -- いま、当たればミンチになりそうなモノが壁にドーンってぶつかったぞ、ドーンって。
-Algo que me habría hecho picadillo acaba de estamparse contra la pared detrás de mi.
+Algo que me habría hecho picadillo acaba de estamparse contra la pared a mis espaldas.
  Reitero, %{i}estamparse%{/i}.
 }
 [sha:bd7683448f2623eac55f7bdb9562c466b2e0995d]{
@@ -307,7 +306,6 @@ Algo que me habría hecho picadillo acaba de estamparse contra la pared detrás 
 [sha:3dde14ffd65ada4de477e040a664a2f6cbd1df79]{
 -- Page 189, Offset 24738.
 -- 「いえ何も」
-// D O M A D O
 "No, nada."
 }
 [sha:bb0a966154c99d772355d1b239701d2f41bc4944]{
@@ -343,7 +341,7 @@ La he cagado.
 [sha:d9b4138941ce77ebc3605cee9593665223d9415f]{
 -- Page 191, Offset 24745.
 -- そういう事なら素直にお願いするべきだった。
-Si lo hubiera sabido lo que iba a pasar
+Si hubiera sabido lo que iba a pasar
  habría sido mucho más directo.
 }
 [sha:9c5635164debff65967e35798074d78e2dd97a7e]{
@@ -360,7 +358,7 @@ Si lo hubiera sabido lo que iba a pasar
 [sha:455f273cc3e7cc29833f14ce23149bed8478e126]{
 -- Page 10010, Offset 24748.
 -- なので、正直に白状した。
-Y pues,  confieso mis verdaderas intenciones.
+Y así pues, confieso mis verdaderas intenciones.
 }
 [sha:acedcf4193d9582beb1985867ad9682dbdfb29d9]{
 -- Page 193, Offset 24749.
@@ -375,7 +373,7 @@ Preferiría que lo hubieses dicho desde el principio.
 [sha:432efc6b23cd76bf451e86298deba70393ed9e4a]{
 -- Page 193, Offset 24751.
 -- あやうく<路地裏|ここ>でリベンジしかけるところだったわ」
-He estado %{i}así%{/i} de cerca de vengarme aquí y ahora."
+He estado %{i}a esto%{/i} de vengarme aquí y ahora."
 }
 [sha:06f25e45c5c3fe0ac6eed1a3b224f828bcdc6396]{
 -- Page 193, Offset 24752.
@@ -423,6 +421,7 @@ Hago lo que dice inmediatamente.
 -- どっちであれ今のしおらしい顔を見せられて、異論を挟める筈がなかった。
 Sea como sea,
  no voy a sacar el tema tras verla poner una cara tan dulce.
+ 
 }
 [sha:145a23073c37a1f2b9f4c74fae87799ad3012ab2]{
 -- Page 196, Offset 24761.
@@ -495,13 +494,12 @@ Quiero decir, ¿no te han dicho que los vampiros no tienen reflejo?"
 [sha:103d22971b37a3aa017fe8be5e20213ce05f2c6d]{
 -- Page 202, Offset 24774.
 -- 「人の認知出力を通さない点で言うと、写真の方がより鏡に近いんじゃない？
-// Mix de tls
 "Una foto no difiere de un espejo en el sentido de que muestran el mundo fuera de la percepción humana.
 }
 [sha:e4993d96a5084b06e64336f25455dbb081054da2]{
 -- Page 202, Offset 24775.
 -- 肖像画なら“その時”の姿のまま、ちゃんと残るんでしょうけど」
-Un %{i}retrato%{/i}, por otro lado, me habría captado mi apariencia tal y como es."
+Un %{i}retrato%{/i}, por otro lado, habría captado mi apariencia tal y como es."
 }
 [sha:cca06c292b6284edba3e820b081df7d4ce4fc2a5]{
 -- Page 203, Offset 24776.
@@ -511,7 +509,6 @@ Habla de un cuadro, verdad...
 [sha:580f5cc5cda954452f8b462c0f5b466764fd5183]{
 -- Page 203, Offset 24777.
 -- それはハードル高いな。
-// Tl oficial
 No creo que tenga lo que hace falta.
 }
 [sha:e6ec4e07a4e8900b2187bdfe71c66945802cecea]{
@@ -582,6 +579,8 @@ Aterrizamos en el tejado de un edificio a plena luz del día.
 Afortunadamente, o más bien, no me sorprende,
  no hay nadie en el tejado,
  por lo que nuestra llegada no causa ninguna conmoción, pero...
+ 
+ 
 }
 [sha:d4bb96c75a271c9f17a1decdc74bfc87101667a1]{
 -- Page 209, Offset 24791.
@@ -662,12 +661,12 @@ Dios, ¿que ha sido eso?
 [sha:ee1b4f2f620f079cbaf2648b6e2d5363f24801c9]{
 -- Page 214, Offset 24806.
 -- 本当に自分のことを分かっていない。
-No se lo que me pasa, de verdad.
+No sé que me pasa, de verdad.
 }
 [sha:3b024c4594ceedbb76154452f7e2eb9acca44686]{
 -- Page 214, Offset 24807.
 -- やり返す必要はない。その何気ない笑顔だけで、たいていのヤツは捕まるだろう。
-No hacía falta la respuesta.
+La respuesta era innecesaria.
  Cualquier hombre caería ante esa sonrisa despreocupada.
 }
 [sha:726bda02ee72331c2dc7aaccb7745ea8a8f14bce]{
@@ -704,8 +703,7 @@ Además, parece que te gustan los sitios donde no hay mucha gente.
 [sha:594032f359aa97ee880a45fb1783eecc152e6a66]{
 -- Page 217, Offset 24814.
 -- それは、問答無用の不意打ちだった。
-// Interpretativo, por lo que voy con esto
-Una emboscada a mi corazón sin precedentes.
+Una emboscada sin precedentes.
 }
 [sha:9d983027c787aac777bda256e5a22de3086203f2]{
 -- Page 217, Offset 24815.
@@ -716,12 +714,12 @@ Mi corazón late con rapidez,
 [sha:c8978ac130f8053b3aded17829da1c475b8c3221]{
 -- Page 217, Offset 24816. Mods: @n.
 -- 吸い寄せられるように、白い体に手を
-Mis manos se ven atraídas a ella, a tocar su
+Mis manos se ven atraídas a ella, a su
 }
 [sha:9a2070614514f9d396602fcbd530cd2a2ece32c6]{
 -- Page 217, Offset 24817. Glued.
 -- 伸ばす。
-cuerpo blanco.
+ cuerpo blanco.
 }
 [sha:fe240dbc971d7c14445f88c0eb501ef233a06dd3]{
 -- Page 217, Offset 24818.
@@ -757,7 +755,7 @@ Un desconocido aparece de la nada.
 [sha:c1e543b0eac32ffe473dc8368704ed7f9d6c9413]{
 -- Page 219, Offset 24824.
 -- 先輩、やっぱり頭悪いんですね」
-Senpai, eres tan lento como siempre."
+Senpai, la verdad que eres más corto de lo que aparentas."
 }
 [sha:65448d0931938fea7c719e6ce600b3ac5edd2762]{
 -- Page 219, Offset 24825.
@@ -784,7 +782,7 @@ Echo un vistazo al tejado.
 -- Page 221, Offset 24829.
 -- ……確かに。ビルの給水塔の近くに、風を避けるようにテントらしきものが張られていた。
 Bueno, ahora que lo dice...
- Hay una pequeña tienda de campaña al lado de la torre de agua, probablemente para resguardarse del viento.
+ Hay una pequeña tienda de campaña junto a la torre de agua, probablemente para resguardarse del viento.
 }
 [sha:6f6185ed30e743776878582bca7a8e8dd98aa8af]{
 -- Page 221, Offset 24830.
@@ -840,7 +838,7 @@ No tengo ni idea de porque esta niña que ni conozco me llama de 'Senpai'.
 [sha:c5ffcc64d455a1cae4383be51477403b7b4b0b68]{
 -- Page 225, Offset 24840.
 -- 先輩は三年生で、あたしは一年生でしたけど。
-Aunque tu eras de tercero y yo de primero.
+Aunque tú eras de tercero y yo de primero.
 }
 [sha:345fc13e30c23be81ab012bcdb5946d6d77675d8]{
 -- Page 225, Offset 24841.
@@ -855,7 +853,7 @@ Parece que dice la verdad...
 [sha:c8d64020ebfbe6fbfcf1cccec7f32097aac86f13]{
 -- Page 226, Offset 24843.
 -- カグ中、というのは俺が通っていた<神楽岡|かぐらおか>中学校の略称である。
-Kagu'. Una abreviación de Escuela Secundaria Kaguraoka: la escuela a la que fuí.
+ 'Kagu'. Una abreviación de Escuela Secundaria Kaguraoka: la escuela a la que fuí.
 }
 [sha:1c9a84e3c1cd0fe8f0a47502f7a27eea1b9a9d01]{
 -- Page 227, Offset 24844.
@@ -870,7 +868,6 @@ Kagu'. Una abreviación de Escuela Secundaria Kaguraoka: la escuela a la que fu�
 [sha:ccbb20e7fe091625f274f988ffdbe5ba7686ec5a]{
 -- Page 227, Offset 24846.
 -- せっかく俗世を忘れていたのに、ドレス服の美女を連れた情けない先輩がやってきて、うんざりしています」
-// Mix de tls
 Justo cuando me estaba olvidando de lo tedioso que es el mundo
  tuviste que aparecer con tu preciosa amiguita
  y romper la ilusión."
@@ -888,14 +885,12 @@ Es una de esos %{i}Hikikomori%{/i} de los que la gente habla.
 [sha:982e5f714e6d98cb8e1471fb3c81b4d2296e4899]{
 -- Page 228, Offset 24849.
 -- それにしては中々豪気なこもり方だ。これ、山ごもりみたいなものでは？
-// interpretación
 Aunque tengo que decir que 'Hikikomori' no es la palabra que usaría.
  ¿Es esto el equivalente a un ermitaño moderno?
 }
 [sha:d0f86f625255ab097c2f424930c402fa49ddbe19]{
 -- Page 229, Offset 24850.
 -- 「あと、なんでこんなところに、と言う権利があるのはこっちです。ここ、うちのビルですから。通報しますね」
-// Mix de tls
 "Y soy yo la que tendría que hacer preguntas. Este edificio es nuestro. Voy a llamar a la policía."
 }
 [sha:c5d2a1bed10575d0a0b28c4140b3ae980d3cb1bf]{

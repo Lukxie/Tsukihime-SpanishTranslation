@@ -6,12 +6,12 @@ Me levanto poco a poco.
 [sha:3c0103015fc452676a779db657539130eb2bcec6]{
 -- Page 1, Offset 16566.
 -- 眼鏡に伸ばした腕がかすかに重い。
-Mi brazo se siente un poco pesado al ir a coger las gafas.
+Al ir a coger las gafas, mi brazo se siente un tanto pesado.
 }
 [sha:01a4dc8776eae4101c088541ad958aeb201c83b9]{
 -- Page 1, Offset 16567.
 -- ああ、これは微熱があるな、と他人事のように思いながら、眼鏡をかける。
-%{i}Ah, debo tener un poco de fiebre%{/i}. Mientras ese pensamiento me ronda por la cabeza, me pongo las gafas.
+%{i}Ah, debo tener un poco de fiebre%{/i}. Mientras ese pensamiento me ronda por la cabeza, me las pongo.
 }
 [sha:3c5980078df57aa43ca3d2d84073fe50006526d1]{
 -- Page 2, Offset 16568.
@@ -68,9 +68,9 @@ Con una reverencia, Hisui entra en la habitación.
 [sha:311c08f94f0b45acf899feeffbe2a7b0eade89a4]{
 -- Page 6, Offset 16578.
 -- ……琥珀さんにはちょっと熱があるから、量は少なめだって伝えてほしい」
-¿Puedes decirle a Kohaku-san que como tengo un poco de fiebre,  hoy querré una porción más pequeña?"
+¿Puedes decirle a Kohaku-san que como tengo un poco de fiebre, hoy querré una porción más pequeña?"
 }
-[sha:570afbfb68a775177c0dc699e78357d337fb0542]{
+[offset:16579]{
 -- Page 7, Offset 16579.
 -- 「かしこまりました。
 "Entendido.
@@ -83,7 +83,7 @@ Em... ¿requiere de un termómetro?"
 [sha:5b6f1ac5c3d2a6e2671a3aa6f326b148bddd9c36]{
 -- Page 7, Offset 16581.
 -- 「いらないよ。どうせいつもの微熱だし」
-"Nah, estoy bien. Son solo unas décimas."
+"Estoy bien. Son solo unas décimas."
 }
 [sha:f6c02411444c7dae5b3a0c4f8df4affd7fb1bfda]{
 -- Page 8, Offset 16582.
@@ -103,14 +103,14 @@ Soy yo, o su reverencia no era tan elegante como de costumbre.
 [sha:d9d87b05a97c7d9663f0883432eff078167c1005]{
 -- Page 9, Offset 16585.
 -- 「……心配してくれてるのかな。でもこんなの、ほんとにいつもの事なんだけど」
-"Me pregunto si está preocupada por mi...
+"Me pregunto si está preocupada por mí...
  Aunque no tiene por qué.
  Estas cosas pasan todo el tiempo."
 }
 [sha:ea6c3118fe76b0b29672e2e53cdf59c52bb21be0]{
 -- Page 10, Offset 16586.
 -- 気持ちはありがたいけど、もう騒ぎ立てる事でもない。
-Agradezco su preocupación, pero no nada de lo que alarmarse.
+Agradezco su preocupación, pero no es nada de lo que alarmarse.
 }
 [sha:1e65b044af6ab0ba86476b2b539dace53ace9d4b]{
 -- Page 10, Offset 16587.
@@ -120,7 +120,7 @@ Estaría más preocupado por una herida así―――
 [sha:a02003ac3a8104120eff57f51b17f984dc64343c]{
 -- Page 10, Offset 16588.
 -- ああいう、どこから見ても重傷なものを言うのだし。
-Que puedes ver que es grave a primera vista.
+Que a primera vista es evidente que es grave.
 }
 [sha:2b943afb6e34822b3daff8797eb248f2b9fd0238]{
 -- Page 11, Offset 16589.
@@ -142,15 +142,16 @@ No hay 'próxima vez'.
 [sha:4bb65fd13cf3fbeb30f597b469d115ad60bea6c3]{
 -- Page 12, Offset 16592.
 -- 俺たちはもう出遭わない。
-// Que si Nasu que si,
+//Que si Nasu que si, 
 // fuerza la ansiedad dale daleeeeee
-Nunca nos veremos de nuevo.
+Nunca nos volveremos a ver.
 }
 [sha:27ea4102e4d190c4ef5faeace0e257941e56c8ef]{
 -- Page 12, Offset 16593.
 -- あんな物騒な女と関わるなんて、金輪際あってはいけない。
-Ni por todo el dinero del mundo,
+Ni por todo el dinero del mundo, 
  volvería involucrarme con ese desastre andante con forma de mujer.
+ 
 }
 [sha:d6415c892131a7f1aed5f7defbb4301e21ee96b4]{
 -- Page 13, Offset 16594.
@@ -205,7 +206,7 @@ Parece que Akiha está de buen humor,
 -- 「おはよう。秋葉の方こそいつも早―――」
 "Buenos días. Parece que tu también has madrugado, como siem―――"
 }
-[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+[offset:16604]{
 -- Page 16, Offset 16604.
 -- ……と。
 Sin embargo...
@@ -269,31 +270,31 @@ Por alguna razón, cuando la miro, mi mareo se intensifica aún más.
 -- Page 20, Offset 16616.
 -- 昨夜はきちんと毛布を使いましたか？　環境が変わったから調子を崩しただけでしょうけど、念には念よね。
 ¿Has dormido tapado?
- Estoy seguro de que es por el cambio de ambiente,
+ Estoy segura de que es por el cambio de ambiente,
  pero no me la quiero jugar.
 }
 [sha:95f96f1b7c5e43b94acfe35aa5dbb00eb35aa02d]{
 -- Page 20, Offset 16617.
 -- そこで待っていてください兄さん。いま琥珀を呼びつけますから、朝食の前に熱を測りましょう」
-Espera aquí por favor, Nii-san.
+Nii-san, espera aquí por favor.
  Llamaré a Kohaku de inmediato,
  y te tomaremos la temperatura antes de que desayunes."
 }
 [sha:a5f5cbd8c734ec80b95a1da42cb9283305907cfe]{
 -- Page 21, Offset 16618.
 -- 秋葉はロビーに視線を向けた。厨房で朝食の支度をしている琥珀さんを呼びに行く気なのだろう。
-Akiha mira hacia el vestíbulo,
+Akiha mira hacia el vestíbulo.
  Debe estar pensando en llamar a Kohaku-san, que se encuentra haciendo el desayuno en la cocina.
 }
 [sha:de3115c5cee4c1aa999aa62eb058fdeba4994f4d]{
 -- Page 21, Offset 16619.
 -- その隙に秋葉から視線を逸らす。
-Aprovecho esta oportunidad para apartar mi mirada de Akiha.
+Aprovecho esta oportunidad para apartar la mirada de Akiha.
 }
 [sha:419b543dd61cab65286556a2a198380ee136aaee]{
 -- Page 21, Offset 16620.
 -- ……やっぱり、それだけで目眩は治まってくれた。
-Como sospechaba, con eso mi mareo se alivia.
+Como sospechaba, mi mareo se alivia con eso.
 }
 [sha:68c80ffb83ecbbaa3a5f1bb336f1c9761e2e393c]{
 -- Page 22, Offset 16621.
@@ -316,7 +317,7 @@ Simplemente no me siento bien porque me acabo de levantar, no tienes que preocup
 [sha:7eb06d6f203abc540edc01836873dd88962045c5]{
 -- Page 24, Offset 16624.
 -- 秋葉は呆れながら、スッ、と俺のひたいに手を当てた。
-Exasperada, Akiha pone su mano y mi frente.
+Exasperada, Akiha pone su mano sobre mi frente.
 }
 [sha:881685b2482d90d887bf8e3ad05c82e0cb0f88ff]{
 -- Page 24, Offset 16625.
@@ -341,7 +342,7 @@ Akiha tiene razón, esta mañana %{i}algo%{/i} anda mal conmigo.
 [sha:405b4db124de241434d34972549f425213b7a91c]{
 -- Page 25, Offset 16629.
 -- どうしてかは不明だが、秋葉の一挙一動が気にかかる。
-// Mix de tls
+//Mix de tls
 No entiendo por qué,
  pero cada movimiento que hace me pone tenso.
 }
@@ -359,7 +360,7 @@ Si la tocase directamente,
 [sha:8f3aa7966406bbbc6289c5a55a4855fbd167cb43]{
 -- Page 26, Offset 16632.
 -- 「……兄さん？　あの、ずいぶんと熱くないですか……？」
-"¿Nii-san? Em, parece que estás ardiendo...
+"¿Nii-san? Em, parece que estás ardiendo..."
 }
 [sha:c0b640ae2f71ae6adeeae71b2f9ecf3082486985]{
 -- Page 26, Offset 16633.
@@ -372,7 +373,7 @@ Siento la voz de Akiha haciendo eco, no en mis oídos, sino directamente en mi c
 Es como si su precioso pelo negro y su pálida piel de porcelana se hubieran convertido en calor,
  y estuviera fluyendo directamente a mi cabeza.
 }
-[sha:34209719ca290c596bcd97cad96fca8c9353cf33]{
+[offset:16635]{
 -- Page 27, Offset 16635.
 -- 「っ……」
 "%{i}Ngh%{/i}..."
@@ -395,14 +396,14 @@ Mi cuerpo solo está un poco inestable por la fatiga acumulada.
 [sha:938fd09f79d219b893cdb5a7ee6959d2f9536bc4]{
 -- Page 28, Offset 16639.
 -- だから今は、とにかく、秋葉の前でとんでもない失敗をする前に、
-Lo que tengo que hacer ahora,
+Ahora lo que tengo que hacer
  antes de que haga algo impensable frente a Akiha,
  es―――
 }
 [sha:cc931b1e133100066042cbf8c449793664bf83bc]{
 -- Page 28, Offset 16640.
 -- 「よし、急用を思い出した！」
-"Ah, acabo de recordar algo urgente!"
+"Ah, ¡acabo de recordar algo urgente!"
 }
 [sha:c24af6ace10b6849951a176d81ba1afbf4a3dcc4]{
 -- Page 28, Offset 16641.
@@ -412,7 +413,7 @@ Aparto su mano y corro como el viento.
 [sha:d4713f58051295e3772724326451e2323c6c242f]{
 -- Page 29, Offset 16642.
 -- 「志貴さま？　朝食まであと５分ほどかかりますが……」
-"¿Shiki-sama? Aún le quedan cinco minutos al desayuno..."
+"¿Shiki-sama? Al desayuno aún le quedan cinco minutos..."
 }
 [sha:424b47098fcc11a6a84ef3703ee5ed1c0e0b1f2c]{
 -- Page 29, Offset 16643.
@@ -427,7 +428,7 @@ Aparto su mano y corro como el viento.
 [sha:d1eea685a494c6444167ce28dbccb9019a053584]{
 -- Page 30, Offset 16645.
 -- さすが翡翠、準備は万全だ。
-Una preparación impecable. Esa es Hisui.
+Una preparación impecable. Como espararías de Hisui.
 }
 [sha:58a3936701c33d875f866d145dc608f99719cad3]{
 -- Page 30, Offset 16646.
@@ -447,7 +448,7 @@ La agradezco y cojo la bolsa.
 [sha:93123575cc231874e42d4e9d76515d9d895b2ca3]{
 -- Page 31, Offset 16649. Glued. Mods: @x.
 -- だいいち廊下は走らない、妹の言う事はきちんと聞くが我が家のルールです！　おとなしく居間で熱を測ってください！」
-¡Primero de todo, escuchar a tu hermana pequeña y no correr por los pasillos son reglas de esta casa!
+ ¡Primero de todo, escuchar a tu hermana pequeña y no correr por los pasillos son reglas de esta casa!
  ¡Tranquilizate y deja que te tomen la temperatura en este instante!"
 }
 [sha:95458daa02ef55617393aa74f91db7be7e3b1b5d]{
@@ -458,7 +459,7 @@ Akiha ha venido al vestíbulo para detenerme.
 [sha:da47ffd2d8c5385450ba9adf43fb74cd06cc552b]{
 -- Page 32, Offset 16651.
 -- しかし本人の言い分通り廊下は走らない分、ロビーにやってきたばかりのようだ。
-// Mix de tls
+//Mix de tls
 Por suerte para mi,
  que siga su propia norma de no correr por los pasillos solo la ralentiza.
 }
@@ -471,8 +472,8 @@ Por suerte para mi,
 -- Page 33, Offset 16653.
 -- 熱も下がったしこのまま学校に行ってくる！　朝飯は勝手になんとかするから、今朝は大目に見てくれ！」
 ¡Me ha bajado la fiebre, así que me voy a la escuela!
- ¡Ya me apañaré con el desayuno,
- así que si no me lo tienes en cuenta, sería genial!"
+ ¡Ya me las apañaré con el desayuno,
+ así que sería genial si no me lo tienes en cuenta!"
 }
 [sha:ed7e194c73e20800e64be8f72520468d4593da6d]{
 -- Page 34, Offset 16654.
@@ -483,13 +484,13 @@ Por suerte para mi,
 -- Page 34, Offset 16655.
 -- 待ちなさい、なんですかその言い分は……！　後で守るルールなんて、それじゃあ規則とは呼べませんっ！」
 Un momento, ¡¿qué acabas de decir?!
- ¡Una norma que cumplas la próxima vez difícilmente puede llamarse una norma!
+ ¡Una norma que cumplirás la próxima vez difícilmente puede llamarse norma!
 }
 [sha:bf217d6a3eef38993b3d8188a8ce843b2eccb489]{
 -- Page 35, Offset 16656.
 -- 秋葉のお小言から逃げるように、玄関から外に向かって走り抜けた。
 Salgo pitando por la entrada hacia la puerta principal,
- como si intentase escapar por reproches de Akiha.
+ como si intentase escapar los reproches de Akiha.
 }
 [sha:621b993a08b3e98648d460143624bfd2c3682bde]{
 -- Page 35, Offset 16657.
@@ -505,12 +506,12 @@ Aprecio que se preocupe por mi salud.
 -- Page 36, Offset 16659.
 -- “いや。実は、秋葉を見ていると目眩で倒れそうになる”
 ¿Pero que la podía decir?
- 'La verdad es que, con solo mirarte creo que me voy a desmayar'
+ 'La verdad es que, con solo mirarte creo que me voy a desmayar.'
 }
 [sha:be9a25499cc7e0a73b8bb5c0608e93202af117c3]{
 -- Page 36, Offset 16660.
 -- なんて言えるはずもなし、言ったところでどんな反撃が待っているコトか。
-No me puedo ni imaginar las represalias que me hubieran esperado si lo hubiera dicho.
+No me puedo ni imaginar que represalias me hubieran esperado si lo hubiera dicho.
 }
 [sha:557cbf4f5cc513da5501a884ae31303ab3cf30d5]{
 -- Page 37, Offset 16661.
@@ -535,7 +536,7 @@ Akiha no es tan infantil como para decir '¡Yo también me voy a la escuela!' y 
 [sha:8f78ce07403bedb91d17909c991fb4c508c98225]{
 -- Page 38, Offset 16665.
 -- 「けど、怒る理由がルールについてなのが秋葉らしいな」
-"Es muy típico de Akiha molestarse conmigo por incumplir las normas."
+"Pero, es muy típico de Akiha molestarse conmigo por incumplir las normas."
 }
 [sha:c8ccf7256eaf8bf932c6752239fc84f02b700673]{
 -- Page 38, Offset 16666.
@@ -567,7 +568,7 @@ Me da rabia que de todos los días, hoy tenga apetito.
 -- Page 40, Offset 16671.
 -- いつもなら朝食を抜いても気にならないのに、今朝はとにかく腹が減って仕方がない。
 Normalmente, no me importaría saltarme el desayuno,
- pero esta mañana tengo bastante grande, así que tengo que aguantarme.
+ pero esta mañana tengo bastante hambre, así que tengo que aguantarme.
 }
 [sha:f4b0b3840ab67fb3dd297f46bd3740473cb1ad1c]{
 -- Page 40, Offset 16672.

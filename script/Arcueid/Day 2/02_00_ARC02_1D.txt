@@ -33,17 +33,17 @@ Levanto la mirada ociosamente y veo que la mayoría de estudiantes en clase pasa
 [sha:568e1e802db60afcae8513ed434516e3a6f6c54c]{
 -- Page 115, Offset 2901.
 -- 三十を過ぎた教師に言わせると今の学生は“リアルに友人がいない”ように見えるらしい。
-Los profesores mayores de treinta dice que los estudiantes de hoy en día parecen no tener amigos en la vida real.
+Los profesores mayores de treinta dicen que los estudiantes de hoy en día parecen no tener amigos en la vida real.
 }
 [sha:31cc2445364b483492a740fc655026181fb33231]{
 -- Page 115, Offset 2902.
 -- もちろんそれは前時代らしい誤解だし、前時代だけの誤認だ。
-Por supuesto, es una idea errónea anticuada; una que es única a personas de la generación anterior.
+Por supuesto, es una idea errónea y anticuada; una que es única a personas de la generación anterior.
 }
 [sha:92def91672aadce8bc9c4f2413344488726c3bca]{
 -- Page 115, Offset 2903.
 -- ネットへの依存と目の前にいる友人への依存が等価になっただけで、うちのクラスは誰も仲違いはしていない。
-Es solo que la dependencia en internet y la dependencia en los amigos que tienes en frente se ha vuelto equivalente.
+Es solo que la dependencia de internet y la dependencia en los amigos que tienes en frente se ha vuelto equivalente.
  No es que la gente de nuestra clase no se lleve bien.
 }
 [sha:4dd05e4fdafcda705136ab8041f4ad9b19e51c88]{
@@ -54,7 +54,7 @@ La escuela solía ser un sitio en donde solo podías hacer amigos dentro de clas
 [sha:4bee25fa3e758b1052d7dd7b381aa7194bbb5461]{
 -- Page 116, Offset 2905.
 -- 今は違う。自分に合う友人はいくらでも見つける事ができる。教室の空気はアットホームである必要はない。不快でなければいいだけになった。
-Ahora es distinto. Puedes hacer tantos amigos como quieras. El ambiente en clase no tiene que ser hogareño. Mientras no sea desagradable, está bien.
+Ahora es distinto. Puedes hacer tantos amigos como quieras. El ambiente en clase no tiene que ser hogareño. Mientras no sea desagradable está bien.
 }
 [sha:88bb35878dab8fc7736ed92cdc3a6db9898ea5db]{
 -- Page 117, Offset 2906.
@@ -81,7 +81,7 @@ Hoy en día el mundo es mucho más pequeño.
 [sha:e58c10d2867afa87be8240d491c4e952d54de782]{
 -- Page 118, Offset 2910.
 -- だからおいそれと未来を夢見る事が、世界を自分のフィルタ越しに受け入れる事が、難しくなっている。
-Eso es por lo que cada vez es más y más difícil soñar con el futuro, a aceptar el mundo a través de un filtro propio.
+Eso es por lo que cada vez es más y más difícil el soñar con el futuro, el aceptar el mundo a través de un filtro propio.
 }
 [sha:945c90eaf6f39851612a94100379f15b58113748]{
 -- Page 119, Offset 2911.
@@ -111,8 +111,8 @@ Las personas son tan libres como pueden ser, pero tampoco tienen razones para sa
 [sha:b016e5cc366611a141a2306096263f76352b07f3]{
 -- Page 120, Offset 2916.
 -- 教室や学校、街にあるうつろな閉塞感はそういう事だと思う。
-// Suena raro
-Creo que eso es la sensación de estar atrapado en clases, escuelas, y ciudades.
+//Suena raro
+Creo que de ahí viene la sensación de estar atrapado en clases, escuelas, y ciudades.
 }
 [sha:eaca45c895a4d623a74ee542afaafe414a1a02ad]{
 -- Page 121, Offset 2917.
@@ -129,7 +129,7 @@ No siento que esté atrapado.
 [sha:b540c2789c2dd52c5c147e721858106c4c64e5cc]{
 -- Page 121, Offset 2919.
 -- 行き詰まりも倦怠感も、社会への不満もまるでない。
-Ni tampoco siento que soy cercano, esté fatigado, o insatisfecho con la sociedad. Para nada.
+Ni tampoco siento que esté encerrado, fatigado, o insatisfecho con la sociedad. Para nada.
 }
 [sha:389f494efc9efe268107ab6b7805e763c2f43b05]{
 -- Page 122, Offset 2920.
@@ -154,7 +154,7 @@ Los estudiantes que estaban paseando y hablando vuelven a sus sitios.
 [sha:64539306c71ae897fcf6f575960be9a432e3be7c]{
 -- Page 123, Offset 2924.
 -- 携帯端末を仕舞って気持ちを切り替える。
-Guardo mi móvil y me concentro.
+Guardo mi móvil y me centro.
 }
 [sha:724ac7b755c1eb812b122bac4a981b113a75ac7f]{
 -- Page 123, Offset 2925.

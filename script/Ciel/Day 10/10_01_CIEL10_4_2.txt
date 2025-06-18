@@ -158,10 +158,10 @@
 -- 先輩の心配は杞憂というものだろう。
 -- TRANSLATION HERE
 }
-[sha:11ea1ebdad61867797537439434201effb9d2ecd]{
+[offset:27593]{
 -- Page 199, Offset 27593.
 -- ……さて。
-Ahora pues...
+-- TRANSLATION HERE
 }
 [sha:cde754dc9030c8804adab5c5203d79c5845f1f6d]{
 -- Page 199, Offset 27594.
@@ -171,5 +171,5 @@ Ahora pues...
 [sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
 -- Page 199, Offset 27595. Mods: @k, @e.
 -- ここは―――
-Me parece que―――
+-- TRANSLATION HERE
 }

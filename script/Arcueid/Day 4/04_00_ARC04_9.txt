@@ -36,7 +36,7 @@ Arcueid suelta una risilla extraña.
 [sha:12d87672c6b6293b868617889118085e78889e18]{
 -- Page 688, Offset 7402.
 -- ……腹はまったく立たないのに、ものすごく悔しいのはなぜだろう。
-No es que esté enfadado ni nada... ¿entonces por qué estoy tan frustrado?
+No es que esté enfadado ni nada... ¿pero entonces por qué estoy tan frustrado?
 }
 [sha:869d4ca3a972ff0a60e5eb257c59c1472f219acb]{
 -- Page 689, Offset 7403.
@@ -58,14 +58,14 @@ No es que esté enfadado ni nada... ¿entonces por qué estoy tan frustrado?
 [sha:78331b5f15a896f7ae8bcf8ba45fd12e1490a727]{
 -- Page 690, Offset 7406.
 -- 人間だって生きてるだけで腹が減るんだ。おまえたちだって生きていくために血を吸うんなら、際限はないんじゃないのか」
-// Rarillo again
+//Rarillo again
 Quiero decir, los humanos tienen hambre simplemente por existir.
- Si los vampiros tienen que beber sangre para sobrevivir, entonces ¿no hay límite para cuanta necesitáis?"
+ Si los vampiros tienen que beber sangre para sobrevivir, ¿significa entonces que no hay límite para cuanta necesitáis?"
 }
 [sha:807d9394fc9addf1e33d74f1898e376ac84801a3]{
 -- Page 690, Offset 7407.
 -- 「そうね。それはそうなんだけど」
-"Es cierto. Lo que dices es correcto, pero..."
+"Cierto. Lo que dices es correcto, pero..."
 }
 [sha:bb7a36200562d8969ee7e53dade016b6be0cb504]{
 -- Page 691, Offset 7408.
@@ -81,7 +81,7 @@ Quiero decir, los humanos tienen hambre simplemente por existir.
 [sha:c70d10f47bac1bca54c03a94f6a09fadd2e51335]{
 -- Page 692, Offset 7410.
 -- それが吸血鬼としておかしな発言である事ぐらいは、俺にも理解できた。
-Incluso yo diría que es bastante raro que un vampiro diga eso.
+Incluso a mi me parece raro que un vampiro diga eso.
 }
 [sha:c343495b11b201385bbe3d55f15542cd9f6cd9fa]{
 -- Page 692, Offset 7411.
@@ -91,12 +91,12 @@ Pero, más importante―――
 [sha:6da7dfdc075893d0178bcb0ebef60abef9a58e98]{
 -- Page 693, Offset 7412.
 -- 「それ、本当の話か？」
-"Un momento, es broma, ¿verdad?"
+"Un momento, es broma, ¿no?"
 }
 [sha:9ceeaed67647a615ce8656715f43a15e68eccd5a]{
 -- Page 693, Offset 7413.
 -- 「本当よ。だってわたし、血を吸うのが恐いんだもの」
-"Es en serio. Veras, el hecho de pensar en beber sangre me asusta mucho."
+"Es en serio. Verás, el hecho de pensar en beber sangre me asusta mucho."
 }
 [sha:f94bc5563958851f81213566cf7cbca1fe7c94a3]{
 -- Page 694, Offset 7414.
@@ -116,7 +116,7 @@ Por eso sin importar qué, siempre seré un fracaso como chupasangre."
 [sha:b95c5a0a213d0896da1668c53772986f4b4f1ade]{
 -- Page 695, Offset 7417.
 -- 窓から夜空を見上げながら、アルクェイドはぼやく。
-Mientras murmura esas palabras, Arcueid mira al cielo nocturno por la ventana.
+Arcueid murmura esas palabras, mirando por la ventana al cielo nocturno.
 }
 [sha:bacd34a0281a20e6a966580e70757a83b91870c5]{
 -- Page 695, Offset 7418.
@@ -136,7 +136,7 @@ Visto desde atrás, su figura es tenue y borrosa como la de un fantasma.
 [sha:b909623a968d8736811f81815aa58adcdb8d03ce]{
 -- Page 696, Offset 7421.
 -- 呟いて、胸を撫で下ろす。
-Con una mano en el pecho murmullo esas palabras.
+Con una mano en el pecho murmuro esas palabras.
 }
 [sha:fd5f5d788a9eb3584aee640ae594eb96778e4355]{
 -- Page 696, Offset 7422.
@@ -171,18 +171,18 @@ Arcueid inclina la cabeza confusa.
 [sha:b178aac67086704b7ad11480440a85ed4e077e1e]{
 -- Page 698, Offset 7428.
 -- その姿はとても吸血鬼とは思えない。
-Por sus apariencias nunca pensarías que es un vampiro.
+Por su apariencia nunca pensarías que es un vampiro.
 }
 [sha:c39bfc6b01ceb620d80cd384749eb9a990d0f60e]{
 -- Page 698, Offset 7429.
 -- ……そうだ。今のは当然の反応だ。
-Por supuesto... tiene todo el sentido que me sienta aliviado.
+Claro... tiene todo el sentido que me sienta aliviado.
 }
 [sha:f78b6b8cb5e7f22d9fdea470470a75e8bae14c46]{
 -- Page 698, Offset 7430.
 -- だって目の前の相手がそう凶悪なヤツじゃないと判明したんだ。安心しないワケがない。
 Después de todo, acaba de quedar claro que la mujer frente a mi no es mala persona.
- ¿Por qué %{i}no estaria%{/i} aliviado?
+ ¿Por qué %{i}no estaría%{/i} aliviado?
 }
 [sha:7eeeffeb43c767bde5ea6f6b2422b735def807f1]{
 -- Page 699, Offset 7431.
@@ -214,13 +214,13 @@ No me puedo creer que mis sentimientos estén tan desfasados como para sentirme 
 [sha:1275e2ce8878a6f14ed403c8e2bcd4af4dd78a90]{
 -- Page 701, Offset 7436.
 -- アルクェイドとの会話で気が緩んだのか、くらりと、目眩じみた頭痛がした。
-De repente me da un mareo y dolor de cabeza.
+De repente siento un mareo seguido de un dolor de cabeza.
  Quizá me haya relajado demasiado mientras hablaba con Arcueid.
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:7437]{
 -- Page 702, Offset 7437.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:b12c412aae87380d8cf0a5e738bcf2335134d4c8]{
 -- Page 702, Offset 7438.
@@ -235,12 +235,12 @@ Esto... no es la anemia crónica de siempre.
 [sha:fdec7a0415a704df1102a298b413144cd5b97b3e]{
 -- Page 702, Offset 7440.
 -- 意識はしっかりしたままだ。
-Aun puedo pensar con claridad.
+Aún puedo pensar con claridad.
 }
 [sha:3bb268c1518fbee30d66fa3febbb1f7b4e6e4a0a]{
 -- Page 702, Offset 7441.
 -- かすかな頭痛と妙な寒気がするだけで―――
-Solo tengo un leve dolor de cabeza y un extraño escalofrío―――
+Solo me ha dado un leve dolor de cabeza y un extraño escalofrío―――
 }
 [sha:bda263b7b36ccc17c7317e35e89af46554e01547]{
 -- Page 703, Offset 7442.
@@ -250,7 +250,7 @@ Solo tengo un leve dolor de cabeza y un extraño escalofrío―――
 [sha:35068b3657751f012a6be12e1e9419932796d4e9]{
 -- Page 703, Offset 7443.
 -- そんなに額に汗をうかべちゃって」
-Te chorrea el sudor de la frente."
+Te chorrea sudor de la frente."
 }
 [sha:e91f72961f454d9d35a9fa84376c4bb0e08b6e4e]{
 -- Page 703, Offset 7444.
@@ -281,7 +281,7 @@ El reloj marca las 4:32 AM.
 [sha:8f3081f776c3b87066193fd4757e827236e7733e]{
 -- Page 705, Offset 7449.
 -- 気温は朝方の冷えこみで11℃まで下がっている。
-La temperatura ha bajado a 11℃ con el frío matutino.
+Con el frío matutino, la temperatura ha bajado a 11℃.
 }
 [sha:94e824d3ac09098a7e7b15bdadf25c62415ecbf5]{
 -- Page 705, Offset 7450.
@@ -296,7 +296,7 @@ No, en realidad―――
 [sha:c46f90903081ed15775e218a71d9d87df9e13f24]{
 -- Page 706, Offset 7452.
 -- この部屋、真夏なみに暑い気がする……！
-¡Hace tanto calor en esta habitación como en una ola de calor de verano!
+¡En esta habitación hace un calor como si estuvieramos en medio del verano!
 }
 [sha:d1d853f26bd5c83b2dea4b990af40ed5624a2525]{
 -- Page 707, Offset 7453.
@@ -307,13 +307,13 @@ No, en realidad―――
 -- Page 707, Offset 7454.
 -- 「？　別に、活動に異常をきたすほどの温度じゃないでしょう。まだたったの38℃だし。弱っているとは言え、今のわたしでも3000℃ぐらいまでならフツーだよ？」
 "¿Hm? No, no hace calor suficiente como para limitar mi movilidad.
- ¿Aquí solo hay, que 38℃ grados?
- Estaré más débil de lo normal, pero aún debo poder soportar temperaturas de hasta 3000℃."
+ ¿Aquí solo hay, que, 38℃ grados?
+ Estaré más débil de lo normal, pero aún debo poder soportar temperaturas de hasta 3000℃." 
 }
 [sha:c7b05bd36ef533ae79c9db65e0225ba50487d164]{
 -- Page 708, Offset 7455.
 -- コイツに聞いた俺が馬鹿だった。
-No se ni para qué pregunto.
+No sé ni para qué pregunto.
 }
 [sha:847119145c41a04c697682a328b26a65a85f6405]{
 -- Page 708, Offset 7456.
@@ -356,7 +356,7 @@ Mis ojos se quedan pegados al monitor instalado en la habitación;
 -- 「燃え、てる……？」
 "¿Está... ardiendo?"
 }
-[sha:94a977d70bcba8c9e4661c67b14bd59f1dbb8596]{
+[offset:7464]{
 -- Page 710, Offset 7464.
 -- 我が目を疑う。
 No me creo lo que veo.
@@ -409,7 +409,7 @@ Está mirando al monitor, sus emociones son totalmente distintas a las mías.
 [sha:51de60a62dae198b758296c388e07db1beeb84d0]{
 -- Page 713, Offset 7474.
 -- ロビーは１分とたたず炎の海に沈んだ。
-En menos de un minuto el vestíbulo está inundado en un mar de llamas.
+En menos de un minuto el vestíbulo se inunda en un mar de llamas.
 }
 [sha:62285d92eb96728d6b33394d88f7dfcea2665a6f]{
 -- Page 713, Offset 7475.
@@ -424,7 +424,7 @@ El termómetro no sube.
 [sha:edf244a53272c0ce73d8a1745e421b52d54a2443]{
 -- Page 713, Offset 7477.
 -- 発汗は止まらず、息をするだけで喉がカラカラに渇ききる。
-Estoy sudando a chorro,  y se la garganta se me reseca con tan solo respirar.
+Estoy sudando a chorro y mi garganta se me reseca con tan solo respirar.
 }
 [sha:b3b8efad2fc3a994d5db4c08c878aec7e9ae16e2]{
 -- Page 714, Offset 7478.
@@ -434,7 +434,7 @@ No hace falta ser un genio para saber lo que pasa.
 [sha:08cbeadbdaf2c2d960fc2f043be3fcdf91f4b004]{
 -- Page 714, Offset 7479.
 -- 敵だ。昼間の燃える死体―――アレが、このホテルにやってきてしまった……！
-Es el enemigo. ¡Aquellos cadáveres ardientes de esta tarde han llegado al hotel!
+Es el enemigo. ¡Los cadáveres ardientes de esta tarde han llegado al hotel!
 }
 [sha:9e3d6e75fb996e98962cf4afd3bcf724f4cd5d0d]{
 -- Page 715, Offset 7480.
@@ -496,7 +496,7 @@ La temperatura en la habitación sigue subiendo.
 [sha:66b4071783ed3413e2977f1e229d455e93e6f41b]{
 -- Page 720, Offset 7491.
 -- 廊下の外の様子は判らない。
-No se lo que está pasando en el pasillo.
+No sé lo que está pasando en el pasillo.
 }
 [sha:47b3037801ccc0b99489594e24f00ca4cae3d0f4]{
 -- Page 720, Offset 7492.
@@ -531,7 +531,7 @@ Dijo algo como que no iba a dejar esta habitación.
 [sha:21e4be566177ae1921b82b6654a668f64b89c3ef]{
 -- Page 722, Offset 7498.
 -- 今の自分には大した力はないから、とも。
-Estoy bastante segura de que es su forma de decir que ahora no es lo suficientemente fuerte como para hacer algo.
+Estoy bastante seguro de que es su forma de decir que ahora no es lo suficientemente fuerte como para hacer algo.
 }
 [sha:87d0f0ce44db0e50413ec43062d8064499b4526a]{
 -- Page 722, Offset 7499.

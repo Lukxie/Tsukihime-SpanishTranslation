@@ -6,7 +6,7 @@ La localización del enemigo está clara.
 [sha:f068f3719ebc324587c1cfaedcf7c23d4c96672c]{
 -- Page 10014, Offset 9787.
 -- この下に倒すべきヴローヴが、
-Vlov se encuentra en ese agujero, a quién hemos venido a derrotar―――
+En ese agujero se encuentra Vlov, quién hemos venido a derrotar―――
 }
 [sha:a8bdbd2c7c4fa3cfceb8f51377bf043dda0584be]{
 -- Page 10014, Offset 9788.
@@ -67,7 +67,7 @@ No puedo respirar.
 -- Page 453, Offset 9799.
 -- 酸素はある。この青い炎は呪いのようなもの、実際に物質を燃やしているのではない事は、ホテルの戦いで判明している。
 Aquí aún queda oxígeno――estas llamas azules son como una maldición; no queman materia real.
- Eso establecimos en el hotel.
+ Eso lo establecimos en el hotel.
 }
 [sha:b65ea0f1af7f76e2548e165c8cf22afe49c2af49]{
 -- Page 454, Offset 9800.
@@ -123,7 +123,7 @@ Mi cuerpo está empezando a
 [sha:40d8a53214340299737cfd9ad274e5fcbd1b86c7]{
 -- Page 457, Offset 9810. Glued. Mods: @c, @n.
 -- 既に燃えている、
-quemarse
+ quemarse
 }
 [sha:f1071bdbc2d851143ca31d57e4b83df7946b6d40]{
 -- Page 457, Offset 9811. Glued. Mods: @r.
@@ -183,5 +183,5 @@ El momento que nunca llegará.
 [sha:4541f25ee9de27a2563006ab87b8dd9a9dd23637]{
 -- Page 459, Offset 9822.
 -- 自分が焼き付いたフィルムにすぎない事に、気がつく事もないように。
-Igual que tampoco me daré cuenta de que me he convertido en algo parecido a película quemada.
+Al igual que tampoco me daré cuenta de que me he convertido en algo parecido a película quemada.
 }

@@ -6,18 +6,18 @@ Tiene que ser lanzandome.
 [sha:8b569b57de813cc207767034c082f856b5680814]{
 -- Page 10026, Offset 10751.
 -- いや、正しくは弾丸か。
-Bueno, más precisamente, disparándome como una bala.
+Bueno, más precisamente, disparado como una bala.
 }
 [sha:c34fe1648568996ee49ed0eab9dfdd47ecbbb090]{
 -- Page 10026, Offset 10752.
 -- 警戒されたとはいえ、俺がヤツにとって死の凶器である事に変わりは無い。
-// Me baso mas en el japones
+//Me baso mas en el japones
 Incluso si tiene la guardia alta, no cambia el hecho de que yo sea un arma mortal.
 }
 [sha:7430193771db62b29780690b42c7ad83ad2b92ea]{
 -- Page 773, Offset 10753.
 -- あとはこれをどう撃ち込むかという話。
-El único problema ahora es %{i}como%{/i} dispararme.
+El único problema ahora es %{i}cómo%{/i} dispararme.
 }
 [sha:9b04f27b1cdcf222137de40e6bf07a649ae9b15c]{
 -- Page 773, Offset 10754.
@@ -40,10 +40,11 @@ Corro hacia Arcueid.
 -- 背中で氷の砕ける音がする。
 Escucho el sonido del hielo rompiéndose detrás de mí.
 }
-[sha:272d90cda65a68017925f53eaa34662bd111d2ea]{
+[offset:10758]{
 -- Page 774, Offset 10758.
 -- アルクェイドが起こす爪の形をした風圧は、彼女の手が届く範囲だけでなく、この距離でも正確に発生するようだ。
-Supongo que las ondas con forma de garra de Arcueid no están limitadas al combate cuerpo a cuerpo――
+//Garras de viento proviene de la tl oficial
+Supongo que sus garras de viento no están limitadas al combate cuerpo a cuerpo――
 también son precisas a distancia.
 }
 [sha:a4dc502f49c13ab58224cdd39d471ce4cbbf2bb5]{
@@ -65,7 +66,7 @@ Soy muy consciente de ello.
 [sha:a53e95c83b1d4b74b2377a80e5002c5cc197ab41]{
 -- Page 777, Offset 10762.
 -- 「分かってる、でもこれしかない！
-"¡Lo sé, no hay otra manera!"
+"¡Lo sé, pero no hay otra manera!"
 }
 [sha:3f301539d0b4fd59f9318dfd3334b4f1938a418c]{
 -- Page 777, Offset 10763.
@@ -75,19 +76,19 @@ Soy muy consciente de ello.
 [sha:33b1288a959be2de233e33e83cc7984c6d0ac083]{
 -- Page 777, Offset 10764.
 -- それ、俺にもやってくれ！」
-// Tl oficial
+//Tl oficial
 ¡Necesito que me lances de la misma forma!"
 }
 [sha:179623ba72b77c977b2c76299e1ab1ff59bfde20]{
 -- Page 777, Offset 10765.
 -- 「はあ！？」
-// Tl oficial
+//Tl oficial
 "¡¿Qué?!"
 }
 [sha:a0669d9de75b98a12c415f5f508d7f8dc2b97371]{
 -- Page 778, Offset 10766.
 -- 正確には『俺でやってくれ』だ。
-// Tl oficial
+//Tl oficial
 Para ser preciso, quiero que me lance con %{i}eso%{/i} .
 }
 [sha:b08940796ad9241300a23cf9ba3a84f5e36c4b74]{
@@ -178,7 +179,7 @@ Justo antes de que golpee el suelo,
 [sha:0ece463a3817c3783e0aa5bc1ca9df61c009e141]{
 -- Page 783, Offset 10783.
 -- タイミング逃したら衝突死体よ？」
-// De la tl oficial
+//De la tl oficial
 Si no te coordinas bien, morirás del impacto."
 }
 [sha:7f033c0e11020f783c1e2875ed91a27c331c0071]{
@@ -202,7 +203,7 @@ No puedo perder más tiempo.
 -- Page 785, Offset 10787.
 -- 「―――わかった。ヴローヴを狙いながら、志貴の乗った瓦礫だけ外すのね？」
 "Muy bien pues.
- Así que tengo que apuntar a Vlov, pero fallar a propósito en la que vas tu, ¿cierto?"
+ Así que tengo que apuntar a Vlov, pero fallar a propósito en la que vas tú, ¿cierto?"
 }
 [sha:9c373c39d226b451aa874e736d4bb295299fbf8b]{
 -- Page 785, Offset 10788.
@@ -240,7 +241,7 @@ Ambas piernas y mi mano izquierda están atadas a él.
 -- Page 788, Offset 10794.
 -- さっきのがあんな感じだったから―――」
 %{force_glue}
- cincuenta metros.
+ cincuenta metros."
 }
 [sha:77d41ec40ee7e8fd4a5bd9ec26c1fe9307e5ab84]{
 -- Page 789, Offset 10795.
@@ -265,7 +266,7 @@ Han pasado tres segundos.
 [sha:a7cf29f7217ee3899225d7d0581a6d7d53beb1d4]{
 -- Page 790, Offset 10799.
 -- 空気抵抗による失速を力でねじ伏せるように、一投目はヴローヴの頭部に飛来し、
-// Tl oficial
+//Tl oficial
 Desafiando la resistencia del aire, la primera roca se dirige directamente a la cabeza de Vlov―――
 }
 [sha:2925c503211429c60b0e6b1d523155d92a516e5f]{
@@ -287,7 +288,7 @@ Aunque el escombro se fracturara,
 [sha:190416e7f3cc9c01f96163fcdfde4c0649b1a7fb]{
 -- Page 791, Offset 10803.
 -- ダメージは無くとも意識を削ぐ事はできている。
-// Tl oficial
+//Tl oficial
 Puede que no lo hayan dañado, pero al menos han conseguido distraerlo brevemente.
 }
 [sha:6ce7b4c781091fe01c451b9a1b4cd504b85aea8e]{
@@ -353,7 +354,7 @@ Dos pasos más y seré capaz de alcanzar su 'línea' y cortar su vida.
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 796, Offset 10816.
 -- だが。
-Sin embargo―――"
+Sin embargo―――
 }
 [sha:b67413bda7bfb4d229ffb04d632a5c957b27b4f2]{
 -- Page 796, Offset 10817.
@@ -388,7 +389,7 @@ Incontables pinchos de hielo brotan alrededor de Vlov para recibir a su potencia
 [sha:cdd7b1c954e50138e887a698ca5559354d2e0582]{
 -- Page 798, Offset 10823.
 -- 「“―――愚かにも、安全を拾ったな”」
-// Tl oficial.
+//Tl oficial.
 "Fuiste un necio al buscar la opción más segura."
 }
 [sha:6a6ae38ffccba0042dd24854c56d44f5079b85b5]{

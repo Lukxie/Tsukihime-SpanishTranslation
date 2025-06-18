@@ -471,7 +471,7 @@
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 458, Offset 19413.
 -- 「はい？」
-"¿Perdon?"
+"¿Perdón?"
 }
 [sha:348cdc8586e13c759e56272c773565bd2e9bf969]{
 -- Page 459, Offset 19414.
@@ -586,7 +586,7 @@
 [sha:70a544ce909034266812004d9aca986952265be1]{
 -- Page 467, Offset 19436.
 -- 「!?」
-"¡¿%{i}Uwah%{/i}?!"
+-- TRANSLATION HERE
 }
 [sha:305cad417a37b3adc9f331bb94893226d23e63f9]{
 -- Page 468, Offset 19437.

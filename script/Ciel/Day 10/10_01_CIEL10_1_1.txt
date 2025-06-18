@@ -96,7 +96,7 @@ Sin embargo...
 [sha:374d5c86c7e5ce3500ce9d156a6a8ac4408d15e8]{
 -- Page 43, Offset 27178.
 -- 「お待ちなさい兄さん。
-"Espera, Nii-san.
+-- TRANSLATION HERE
 }
 [sha:8e7215279e490ce04081056654fb16fd2ee6977f]{
 -- Page 43, Offset 27179.
@@ -281,7 +281,7 @@ Sin embargo...
 [sha:c9455eb28deb72ec442c46376f24705898eb2884]{
 -- Page 56, Offset 27215.
 -- 「………っ」
-"......"
+-- TRANSLATION HERE
 }
 [sha:55f7f071c55f53934bb04bd4bbc522564b8eca82]{
 -- Page 56, Offset 27216.

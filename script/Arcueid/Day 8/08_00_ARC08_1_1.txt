@@ -12,13 +12,13 @@ Creo que abordarlo como siempre no va a ser suficiente,
 [sha:b211ca59827af99ac43e18b574aa7729156fc45c]{
 -- Page 35, Offset 19761.
 -- 「グモニー。いい朝だね、秋葉」
-"%{i}Good morning%{/i}. Preciosa mañana ¿no crees, Akiha?"
+"%{i}Good morning%{/i}. Bonita mañana ¿no crees, Akiha?"
 }
 [sha:cf06b3748a4f0d8d15f910ffb1810218c3a6d881]{
 -- Page 35, Offset 19762.
 -- ははは、と軽快な笑いを添えながら、フランクに挨拶をしてみた。
 Añado una risa informal para darle un toque,
-optando por una franqueza radical.
+ optando por una franqueza radical.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 36, Offset 19763.
@@ -33,7 +33,7 @@ optando por una franqueza radical.
 [sha:639b6408cac49509e372025f5bf3d327de64ca8e]{
 -- Page 36, Offset 19765.
 -- 秋葉の視線はよけいきつくなったようだ。
-La mirada de Akiha solo se ha afilado más.
+La mirada de Akiha se ha vueto aún más afilada.
 }
 [sha:a7f6007faac8f2a39a28d654cfa224196fce5458]{
 -- Page 36, Offset 19766.
@@ -49,12 +49,12 @@ Si sigue con esta presión silenciosa
 [sha:064212691815fa43749855eb5c872128b4e00ba8]{
 -- Page 37, Offset 19768.
 -- 「では、おじいさんは朝食を食べに食堂へ」
-"Bueno pues, este anciano se va a por su desayuno..."
+"Bueno pues, este vejete se va a por su desayuno..."
 }
 [sha:dab25bb41ab4b1ebb0d2c3646dd723b7a229c9e0]{
 -- Page 37, Offset 19769.
 -- さりげなく居間から撤退を開始する。しかし。
-Me doy la vuelta para irme a la puerta. Sin embargo―――
+Me doy la vuelta para dirigirme a la puerta. Sin embargo―――
 }
 [sha:23e7a4f887ee0078e94e38ddc0038c23b96cc54b]{
 -- Page 37, Offset 19770.

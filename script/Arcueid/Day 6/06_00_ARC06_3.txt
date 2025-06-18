@@ -11,7 +11,7 @@ Gracias al reconocimiento de esta mañana, al menos puedo caminar sin problemas.
 [sha:43988053423215648242e95b9283e48b80ed9e78]{
 -- Page 10010, Offset 14538.
 -- あまり遠出はできないが、午後はどう過ごそうか？
-Dicho eso no puedo irme muy lejos, ¿dónde debería pasar la tarde?
+Dicho eso no puedo ir muy lejos, ¿dónde debería pasar la tarde?
 }
 [sha:e2640c119f2ac9b99e880872a13842eb26b62c87]{
 -- Page 261, Offset 42632. Choice.

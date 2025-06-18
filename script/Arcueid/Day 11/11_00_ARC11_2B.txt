@@ -22,12 +22,12 @@ Iré tras ella después.
 [sha:83c8e4863eb63d03b8a7e2a46d56cf75da20d848]{
 -- Page 149, Offset 29928. Mods: @n.
 -- 「お帰りなさいませ、
-"Bienvenido de vuelta,
+"Bienvenido,
 }
 [sha:0ce1e08a4a5cc58dcc3a9fafd9d81305206a4686]{
 -- Page 149, Offset 29929. Glued.
 -- 志貴さま」
-Shiki-sama."
+ Shiki-sama."
 }
 [sha:4a093d08d4bd36d32ba3deae3e48ea3352241b33]{
 -- Page 149, Offset 29930.
@@ -42,7 +42,7 @@ Hisui me da la bienvenida en cuanto entro por la puerta.
 [sha:f7ed27224321528af4965e04dd828621803a78f1]{
 -- Page 149, Offset 29932. Glued.
 -- いつもありがとう翡翠」
-Gracias como siempre, Hisui."
+ Gracias, como siempre, Hisui."
 }
 [sha:3f1aa538f54b933b657bec0bb21c756f8d052780]{
 -- Page 149, Offset 29933.
@@ -66,8 +66,8 @@ Tras cenar con Akiha, dejo el comedor.
 -- Page 149, Offset 29936.
 -- 今夜はわりと兄らしい振る舞いができたと思う。秋葉とも、琥珀さんとも何ら飾ることなく話が弾んだ。……や、今までに比べたら、の話だけど。
 Creo que he podido interpretar mi rol de hermano mayor suficientemente bien.
- La conversación entre Akiha, Kohaku-san y yo ha sido decente y animada.
- ...Bueno, al menos si lo comparas con como solían ser las cosas.
+ La conversación entre Akiha, Kohaku-san y yo ha sido decente y animada...
+ Bueno, al menos si lo comparas con como solían ser las cosas.
 }
 [sha:494ca460833b12a4679645c59f198e976dd65601]{
 -- Page 153, Offset 29937.
@@ -82,13 +82,13 @@ Bueno, digo 'cosas', pero solo son mis libros de texto.
 [sha:1a21fd4730c9ff1b0fe17c31fc57ec7c90393bad]{
 -- Page 153, Offset 29939.
 -- すっかり愛用品になってしまった<短刀|ナイフ>は懐にしまってあるので、あとは携帯端末と、白いリボンをポケットにしまうだけだ。
-El cuchillo acabó por ser algo que llevo siempre por lo que ya está en el bolsillo de mi pecho,
- las otras cosas que me quedan por coger son mi teléfono y el lazo blanco.
+El cuchillo al final es algo que siempre llevo, por lo que ya está en el bolsillo de mi pecho,
+ el resto de cosas que me quedan por coger son mi teléfono y el lazo blanco.
 }
 [sha:480752e30f0b02c9306331ba238474bdd299ada6]{
 -- Page 154, Offset 29940.
 -- 「――――――さて」
-"―――Bien."
+"―――Bueno."
 }
 [sha:9541a9543fea53d5d5ad7cfcf952a8fb9626495a]{
 -- Page 154, Offset 29941.
@@ -98,7 +98,7 @@ Recojo mi habitación y respiro hondo.
 [sha:5e3a8360034acedcb3f5c8a5152eac725a570c01]{
 -- Page 154, Offset 29942.
 -- こんな短期間に二度も、自分の部屋に別れの挨拶をするとは思わなかった。
-Nunca habría imaginado que me despediría de mi propia habitación tan pronto.
+Nunca habría imaginado que me despediría tan pronto de mi propia habitación.
 }
 [sha:e41ae87ee8fec5b9927f0eec6bb676a64ebc7d52]{
 -- Page 155, Offset 29943.

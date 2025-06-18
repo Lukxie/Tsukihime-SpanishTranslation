@@ -11,7 +11,7 @@ Buenas tardes.
 [sha:d88d6157e0b5230bac1b479101ddd4a32c68126a]{
 -- Page 3, Offset 42768. Mods: @n.
 -- 迷える遠野くんを正しいエンディングまで
-Este es un segmento de ayuda para guiar al perdido%{n}
+ Este es un segmento de ayuda para guiar%{n}al perdido
 }
 [sha:b0f8243c4cefa4fb3583d3940206db551d193c9d]{
 -- Page 3, Offset 42769.
@@ -51,22 +51,22 @@ Lo entenderás cuando me veas en acción.
 [sha:011f138f00d88dbc71eec7ceb457b422b2d709ca]{
 -- Page 7, Offset 42776. Mods: @n.
 -- こんにちは、バッドエンド界のソムリエクイーン、
-Buenas tardes, Reina Sommelier del mundo del mal final%{n}aquí Neco-Arc.%{n}
+Buenas tardes, Reina Sommelier del mundo del final malo%{n}aquí Neco-Arc.
 }
 [sha:8072f9a8ce04aaa65fe7702497414f8162105249]{
 -- Page 7, Offset 42777.
 -- セクシーすぎて本編出禁になった、ネコアルクです。
-Se me ha prohibido en la historia principal por ser demasiado sexy.
+ Se me ha prohibido en la historia%{n}principal por ser demasiado sexy.
 }
 [sha:5158c83eb3445911313d890f0db3a63ed78ef72a]{
 -- Page 8, Offset 42778. Mods: @n.
 -- you、こういう大人のコーナーは初めてかい？
-¿Por casualidad TU no serás nuevo a este tipo de segmento adulto?%{n}
+Por casualidad no serás nuevo a este tipo de segmento%{n}adulto
 }
 [sha:bc8a44e4d78fb4920e9b46136baff2ffce6bb183]{
 -- Page 8, Offset 42779.
 -- まあ第１回だから初めてだろうけど落ち着けよ。
-Bueno, es la primera lección, así que vamos{n}a calmarnos. ¿vale?
+ Bueno, es la primera lección, así que vamos a%{n}calmarnos. ¿vale?
 }
 [sha:7d28db44798d939ce07f3a45a631b0a8f418a1bb]{
 -- Page 9, Offset 42780. Mods: @n.
@@ -76,12 +76,12 @@ No pasa nada si ignoras a la criatura a mi lado.%{n}
 [sha:75676daa976e86760a22fdceb7dd0541f9f6b2c8]{
 -- Page 9, Offset 42781.
 -- 基本、わたしの発言だけ教訓としていただければ。
-Solo tienes que prestar atención a lo que diga en%{n}estas lecciones.
+Solo tienes que prestar atención a lo que yo diga en%{n}estas lecciones.
 }
 [sha:938e4edeb50939618c509a76ee6c30a1d1e6a9b9]{
 -- Page 10, Offset 42782.
 -- では、今回の死因の検証ですが……
-Ahora, sobre la causa de muerte en esta ocasión...
+Ahora, sobre la causa de muerte en esta%{n}ocasión...
 }
 [sha:07b034426cd633a35bde769eca18fde8c8b97820]{
 -- Page 11, Offset 42783. Mods: @n.
@@ -91,7 +91,6 @@ Ya ibas ardiendo, cuatro ojos.%{n}
 [sha:688db06d425bd219d47f6cff258805ed147e8277]{
 -- Page 11, Offset 42784.
 -- 道ばたでヒューマントーチはロックすぎにゃい？
-// Creo que lo voy a dejar así
 ¿Lo de volverse una antorcha humana no es un poco hardcore?
 }
 [sha:704b4ba8d9c49effcdc9ccd922541d32e303b87b]{
@@ -117,7 +116,7 @@ fuiste solo a pesar de haber sido%{n}visto.
 [sha:072e67a338a85f488f0fb39757a831e73279bdb4]{
 -- Page 14, Offset 42789. Mods: @n.
 -- 「あんな脳天気な吸血鬼と一緒の部屋にいられるか、
-¡De ninguna manera me quedo en una habitación con este%{n}
+ '¡De ninguna manera me quedo en una habitación con este%{n}
 }
 [sha:7a8e53276229044217cb37ae24640ef60774f41a]{
 -- Page 14, Offset 42790.
@@ -167,17 +166,17 @@ tienes una última oportunidad, ¿verdad?
 [sha:69ccbe9d6276f64023a4148ea0996ba05e341214]{
 -- Page 19, Offset 42799. Mods: @n.
 -- そのあたりでホテルに
-En ese momento,%{n}
+En ese momento,
 }
 [sha:85f15cffc7248887a9614a1184549a1be9086e20]{
 -- Page 19, Offset 42800.
 -- 戻ってしまうのがよろしいかと。
-todo lo que tienes que hacer es volver al hotel.
+ todo lo que tienes que hacer%{n}es volver al hotel.
 }
 [sha:b750514c3aa8829004c38e59bc872871f7296aee]{
 -- Page 20, Offset 42801. Mods: @n.
 -- でも……途中で逃げたのに戻るとか、
-Pero... si vuelves con el rabo entre las%{n}piernas, quizá pierdas el afecto de la heroína.
+Pero... si vuelves con el rabo entre las%{n}piernas, quizá pierdas el afecto de la heroína.%{n}
 }
 [sha:784600a2f8bab3d2b6b43551d5da603a19ac4cdc]{
 -- Page 20, Offset 42802.
@@ -187,7 +186,7 @@ Eso sería vergonzoso.
 [sha:814cbe99293475fc5cea83bc729f2e62e053cd08]{
 -- Page 21, Offset 42803. Mods: @n.
 -- ばんばん下げましょう。
-Así que, perdamos todo su afecto.%{n}
+Perdamos todo su afecto entonces.%{n}
 }
 [sha:2143a4d57885287994efe0166f8a212ad1443b22]{
 -- Page 21, Offset 42804.
@@ -232,7 +231,7 @@ cuando se enfada conmigo, la verdad.
 [sha:4d44d76442fadea493b2d3ff5a2f785b9e2038d7]{
 -- Page 25, Offset 42812.
 -- 恋愛脳の自覚、ないんですか？
-¿De verdad no eres consciente de que%{n}del amor que hay en tu cerebro?
+¿De verdad no eres consciente del amor%{n}que hay en tu cerebro?
 }
 [sha:12636a86a56ffdd74dc0cdfee428d671b2e24a44]{
 -- Page 26, Offset 42813. Mods: @n.
@@ -247,7 +246,7 @@ Ojalá pudieses seguir el ejemplo de tu coheroína,
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 27, Offset 42815. Mods: @n.
 -- え。
-¿Eh?
+-- TRANSLATION HERE
 }
 [sha:6379f852f958e0989de1688ea9afea95bf5e2caf]{
 -- Page 27, Offset 42816.
@@ -257,7 +256,7 @@ Ojalá pudieses seguir el ejemplo de tu coheroína,
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 28, Offset 42817. Mods: @n.
 -- え。
-¿Eh?
+-- TRANSLATION HERE
 }
 [sha:9981b9a1ea4d1152d019208df8ce212e221f6331]{
 -- Page 28, Offset 42818.

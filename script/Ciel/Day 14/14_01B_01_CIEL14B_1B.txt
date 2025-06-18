@@ -146,7 +146,7 @@
 [sha:9e36f17e2755dd352f4e3e0cc86b2b1760bd791b]{
 -- Page 50, Offset 38471.
 -- 「アルクェイド……！」
-"¡Arcueid!"
+-- TRANSLATION HERE
 }
 [sha:b09c7fcaa81dd14fda672f878dbdc4882d24b0d1]{
 -- Page 50, Offset 38472.
@@ -356,7 +356,7 @@
 [sha:90fd714f7d010aef683042a5e455aa482d3f0e3d]{
 -- Page 63, Offset 38513.
 -- 「アル―――クェイド」
-"Ar――cueid."
+-- TRANSLATION HERE
 }
 [sha:04d1535208e1f2bf29b305082ed88649b90379f2]{
 -- Page 63, Offset 38514.
@@ -591,7 +591,7 @@
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 73, Offset 38560.
 -- 「あ――――」
-"Ah―――"
+-- TRANSLATION HERE
 }
 [sha:b63e81c41b08a13f4d38119f27908a3c750fd159]{
 -- Page 74, Offset 38561.

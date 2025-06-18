@@ -11,7 +11,7 @@
 [sha:219c7fc760c8833eaf048d457d50625ae6e7c7b8]{
 -- Page 10005, Offset 5802.
 -- 元気いっぱいにワゴンを押して琥珀さんがやってくる。
-// serving cart = carro de servicio? queda raro
+//serving cart = carro de servicio? queda raro
 Kohaku-san entra, empujando un carrito vigorosamente.
 }
 [sha:32d37d81274fff67d3904cb83ea46596a6dda64e]{
@@ -27,7 +27,7 @@ No tengo mucho tiempo, así que mejor que engulla esto rápido."
 [sha:bc82379a7fc428805c732d6837cfd0caa76dc8f8]{
 -- Page 97, Offset 5805.
 -- 「兄さん。その乱暴な言葉<遣|づか>いはやめてください」
-"Nii-san, deja de usar lenguaje tan vulgar por favor."
+"Nii-san, por favor deja de usar lenguaje tan vulgar."
 }
 [sha:f9f15492d2faeecae0b37dd1af09582ebd6ae36a]{
 -- Page 97, Offset 5806.

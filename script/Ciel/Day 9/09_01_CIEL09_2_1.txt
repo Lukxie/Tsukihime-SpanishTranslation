@@ -73,7 +73,7 @@
 -- 恐る恐る階段を踏みしめる。
 -- TRANSLATION HERE
 }
-[sha:3c5e2867f00d02dec72b47aadeebd8e9e14f78c6]{
+[offset:22864]{
 -- Page 285, Offset 22864.
 -- と……
 Sin embargo...
@@ -196,12 +196,12 @@ Sin embargo...
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 292, Offset 22888.
 -- そこには、
-Allí―――
+-- TRANSLATION HERE
 }
 [sha:9cad8e47a16eef093ba66059da49762c5e2334a5]{
 -- Page 293, Offset 22889.
 -- そこには。
-Dentro―――
+-- TRANSLATION HERE
 }
 [sha:d0e77d9d878858febcea771f9975a1c52c7e9b7e]{
 -- Page 293, Offset 22890.

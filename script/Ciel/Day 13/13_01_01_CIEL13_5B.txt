@@ -668,10 +668,10 @@
 -- わたしはクラクラした頭で従った。
 -- TRANSLATION HERE
 }
-[sha:a2799ad269f186bf3d3294e4fbd75795c39685d4]{
+[offset:35030]{
 -- Page 613, Offset 35030.
 -- ところで。
-No viene a cuento, pero...
+-- TRANSLATION HERE
 }
 [sha:9ef905c968a33ad8ae3f37c3e9f81b29c5d8d23b]{
 -- Page 613, Offset 35031.
@@ -886,7 +886,7 @@ No viene a cuento, pero...
 [sha:5321136b901acd10e75e4306155179c44f10663f]{
 -- Page 627, Offset 35073.
 -- でも、
-Pero―――
+-- TRANSLATION HERE
 }
 [sha:cda62f7d1e491b8c940da0751674adebd809b523]{
 -- Page 628, Offset 35074.
@@ -1238,7 +1238,7 @@ Pero―――
 -- 「―――おい見ろよ、ここにうまそうな女がいるぜ！」
 -- TRANSLATION HERE
 }
-[sha:1c19755fcd1578ac9c4afe079a31995d28340a2e]{
+[offset:35144]{
 -- Page 653, Offset 35144.
 -- ……うん。
 Si...

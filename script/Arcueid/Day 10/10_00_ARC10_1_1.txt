@@ -29,7 +29,7 @@ Arcueid... ah, ahí está.
 [sha:10be42ede98340bfa28712f11dc205dd9808883a]{
 -- Page 63, Offset 24420.
 -- さっきまでのはっきりした様子と違って、アルクェイドの返事には元気がない。
-La respuesta carece de su entusiasmo de antes.
+La respuesta carece del entusiasmo de antes.
 }
 [sha:b7c652fe03632d6758816b9a62efeec2a7734b7e]{
 -- Page 64, Offset 24421.
@@ -80,13 +80,12 @@ Arcueid asiente, confirmándolo.
 [sha:6a1f662e6330d255357dc8ea3a788fef78275767]{
 -- Page 68, Offset 24430.
 -- 「昨日の夜はここを全力で飛び越えて、そのまま志貴の部屋に忍びこんだんだけど……今にして思うと不思議だなって。
-"Anoche vine molestas hasta aquí a toda velocidad y me colé a tu habitación...
+"Anoche vine aquí a toda velocidad estando molesta y me colé a tu habitación...
  Cuesta creérmelo ahora que lo pienso.
 }
 [sha:d23f59f71dc79fb7ab95676bd633e9f966a16e30]{
 -- Page 68, Offset 24431.
 -- どうしてわたし、あの時あんなに怒ってたんだろ。約束のひとつぐらい、今まで何度も果たせなかったのに」
-// Tl oficial
 ¿Por qué estaba tan enfadada? Solo era una promesa... no es la primera vez que incumples tu palabra."
 }
 [sha:0edfa8ac526c83fa33372ca3c93c54e11ce611b3]{
@@ -97,7 +96,7 @@ Incapaz de hallar una respuesta, Arcueid se cruza de brazos, pensativa.
 [sha:6cf0f35b9f445ca1a4e9cb37fe581e0244e6a879]{
 -- Page 69, Offset 24433.
 -- 「あ、そうだ。志貴なら分かるかな？
-"Ajá, claro――tu tienes idea ¿verdad?
+"Ajá, claro――tú tienes idea ¿verdad?
 }
 [sha:8b640ecd5083250ec0a86f1d1d8c7417c36bf8af]{
 -- Page 69, Offset 24434.
@@ -114,7 +113,7 @@ Como siempre me llamas idiota y me hablas por encima del hombro,
 -- Page 70, Offset 24436.
 -- アルクェイド本人に分からないものが、他人である俺に分かる筈もない。
 Si Arcueid misma no lo sabe,
- como voy a saberlo yo,
+ como lo voy a saber yo,
  a saber lo que hay en esa cabeza.
 }
 [sha:956cdb9eddd40841f0d5eb2dfa37c1a7e5627adf]{

@@ -421,7 +421,7 @@
 [sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
 -- Page 275, Offset 5553.
 -- 返事はない。
-No hay respuesta.
+-- TRANSLATION HERE
 }
 [sha:67b8c2baaa573de68ca68c7863c1758b5e99e50d]{
 -- Page 275, Offset 5554.
@@ -473,7 +473,7 @@ No hay respuesta.
 -- それが少しでも、俺が殺してしまった彼女を知っていた人たちの気持ちを和らげる事になるのなら―――償えるものは、たしかに、どこかにあるのかもしれない。
 -- TRANSLATION HERE
 }
-[sha:3eeedb2d5b3e3194e641ff4141dc8d9ba9b1c82f]{
+[offset:5564]{
 -- Page 279, Offset 5564.
 -- 「は――――あ」
 "%{i}Ha――h%{/i}."

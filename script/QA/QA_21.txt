@@ -106,27 +106,27 @@
 [sha:fe52b1a0ae748cbb9657c25fd41ebd6112fcad07]{
 -- Page 209, Offset 43703. Mods: @n.
 -- ――――――。
-......
+-- TRANSLATION HERE
 }
 [sha:fe52b1a0ae748cbb9657c25fd41ebd6112fcad07]{
 -- Page 209, Offset 43704.
 -- ――――――。
-......
+-- TRANSLATION HERE
 }
 [sha:fe52b1a0ae748cbb9657c25fd41ebd6112fcad07]{
 -- Page 210, Offset 43705. Mods: @n.
 -- ――――――。
-......
+-- TRANSLATION HERE
 }
 [sha:fe52b1a0ae748cbb9657c25fd41ebd6112fcad07]{
 -- Page 210, Offset 43706.
 -- ――――――。
-......
+-- TRANSLATION HERE
 }
 [sha:e2d65fcc963f228d45180c6a8dafc0494e929d3a]{
 -- Page 211, Offset 43707. Mods: @n.
 -- え。
-¿Eh?
+-- TRANSLATION HERE
 }
 [sha:9a2b258cb18816e2206016a243207cfcfb69a371]{
 -- Page 211, Offset 43708.

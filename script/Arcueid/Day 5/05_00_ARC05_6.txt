@@ -1,7 +1,7 @@
 [sha:c5ff37ce2f849f3c421a59389203938b512db7f0]{
 -- Page 10013, Offset 9777.
 -- 「はっ、は―――！」
-"%{i}Haa――haa%{/i}―――!"
+"¡%{i}Haa――haa%{/i}―――!"
 }
 [sha:30376c647412b8f914fccb601c571e6b9a46eee8]{
 -- Page 10013, Offset 9778.
@@ -39,10 +39,10 @@ Los escombros forman una rampa que llega al fondo del agujero.
 Aunque sería imposible escalar desde el fondo,
  descender sería posible incluso con piernas como las mías.
 }
-[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+[offset:9785]{
 -- Page 449, Offset 9785.
 -- だが―――
-Sin embargo―――
+Dicho eso―――
 }
 [sha:2088cf598915647e9f272eff7c2dabc25c9a1c2d]{
 -- Page 450, Offset 42617. Choice.

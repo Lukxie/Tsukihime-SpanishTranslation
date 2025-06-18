@@ -311,7 +311,7 @@
 [sha:0b4e32574a95fbaf56e63e3ac6164ae2a63c6549]{
 -- Page 358, Offset 19152. Mods: @n.
 -- 「……アルクェイド。
-"Arcueid...
+-- TRANSLATION HERE
 }
 [sha:78e6c609cadcb4f03ff7aba14f87178b7ea2742b]{
 -- Page 358, Offset 19153. Glued.
@@ -408,7 +408,7 @@
 -- 「先輩ってあの女のこと？」
 -- TRANSLATION HERE
 }
-[sha:31f1939154f5b591d791c6f339f950e243351da8]{
+[offset:19172]{
 -- Page 367, Offset 19172.
 -- 「うぇ!?」
 "%{i}Bwuah%{/i}?"
@@ -593,10 +593,10 @@
 -- 「……………」
 "........."
 }
-[sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
+[offset:19209]{
 -- Page 383, Offset 19209.
 -- それは。
-Eso es...
+-- TRANSLATION HERE
 }
 [sha:e5643d2b249f32f5f40113d6b99b31d01b34beb1]{
 -- Page 383, Offset 19210.
@@ -688,7 +688,7 @@ Eso es...
 -- 言葉が詰まる。
 -- TRANSLATION HERE
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:19228]{
 -- Page 390, Offset 19228. Mods: @k, @e.
 -- 俺は、
 Yo...

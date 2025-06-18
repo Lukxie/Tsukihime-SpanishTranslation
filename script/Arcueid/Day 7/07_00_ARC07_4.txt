@@ -27,7 +27,7 @@ Es una pena, pero tengo que descansar pronto."
 [sha:463ea30de9c25eb9be683cbcbe3c978fc6d8f586]{
 -- Page 650, Offset 18217.
 -- 「それは志貴がそう思ってるだけよ。今夜はここでお別れにしましょう。
-"Eso es lo que tu crees. Dejémoslo aquí esta noche.
+"Eso es lo que tu crees. Dejémoslo aquí por esta noche.
 }
 [sha:364f348ecc56c2d705ea8c264bc5b47eb7a41710]{
 -- Page 650, Offset 18218.
@@ -43,7 +43,7 @@ Arcueid comienza a alejarse dando saltitos mientras me sigue mirando.
 -- Page 652, Offset 18220.
 -- 「明日って……ちょっと待て、待ち合わせ場所とかどうするんだよ、おい！」
 "¿Mañana? Eso es... Un momento, no hemos decidido donde vamos a quedar.
- ¡Ey!"
+ ¡Oye!"
 }
 [sha:a31f99217f6a232b13538a098b7fbc9ed6bed90f]{
 -- Page 653, Offset 18221.
@@ -73,7 +73,7 @@ Tras saludar con la mano en el aire, se despide.
 [sha:db0dc14532e1dd608f6f864e6cb546d14891bdd8]{
 -- Page 654, Offset 18226.
 -- なんて勝手なヤツ、と文句を言いたいのに言葉が続かない。
-Qué mujer más egoísta' quería soltar, pero no me salen las palabras.
+ 'Qué mujer más egoísta' quería soltar, pero no me salen las palabras.
 }
 [sha:c66be101b90f2acfb7f4687b9cd8a98678057a6d]{
 -- Page 654, Offset 18227.
@@ -83,7 +83,7 @@ Estaría mal llamarla algo así.
 [sha:500b7a4e634ab858443f689dab52e11484d4e7b8]{
 -- Page 654, Offset 18228.
 -- アレは勝手なヤツなんて、そんな可愛いものじゃない。
-Mujer egoísta' es demasiado mono para alguien como ella.
+ 'Mujer egoísta' es demasiado mono para alguien como ella.
 }
 [sha:fb518827e895b1413e7391035d9c1eabaa15e7bc]{
 -- Page 655, Offset 18229.

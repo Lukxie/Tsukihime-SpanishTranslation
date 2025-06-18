@@ -71,7 +71,7 @@
 [sha:0ae9bf0550177a5f3b4ae4e185ee7fb359482b12]{
 -- Page 361, Offset 34283.
 -- 「っ――――」
-"――――"
+-- TRANSLATION HERE
 }
 [sha:8af6ec2ec97e9e04125246d280d6036cffb738e4]{
 -- Page 361, Offset 34284.
@@ -251,7 +251,7 @@
 [sha:4dd615e0f2a8c599d06fd1814490d5f43e04ec24]{
 -- Page 370, Offset 34319.
 -- 「――――――――」
-"――――――――"
+-- TRANSLATION HERE
 }
 [sha:93ddf9b55ac4fe7efe806ec6ef4b7df09ab0b85c]{
 -- Page 370, Offset 34320.
@@ -291,7 +291,7 @@
 [sha:6d45ff7c26bf5a6a107816c8edb2b31d3cae79ba]{
 -- Page 371, Offset 34327.
 -- それは―――
-Eso es―――
+-- TRANSLATION HERE
 }
 [sha:ae0dcadb8dc3c19ebbe5637c85f7334948f14a0f]{
 -- Page 372, Offset 34328.

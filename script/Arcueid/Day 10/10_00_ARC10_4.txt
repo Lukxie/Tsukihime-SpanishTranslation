@@ -22,7 +22,7 @@ Eso dijo la señorita,
 [sha:a9ace6d25d3d5833c5f5ed60c829bf2e92dd5a5e]{
 -- Page 295, Offset 25007. Glued.
 -- 仕方なくフードコートにやってきた。
-así que... al área de restaurantes pues.
+ así que... al área de restaurantes pues.
 }
 [sha:62e55306e5f00f7528ddb669e69220ef70badca8]{
 -- Page 296, Offset 25008.
@@ -64,20 +64,18 @@ Estaba seguro de que esta era tu primera vez en un sitio así."
 [sha:47dcd33a0e01928d89498b93aa7744133c5daa7e]{
 -- Page 299, Offset 25015.
 -- 「ええ、こういう所は初めてよ。前からどういった施設かは知っていたけど、それは知識だけのものだしね」
-// Mix de tls
 "Bueno, esta %{i}es%{/i}  mi primera vez. Sabía de antemano el tipo de establecimiento que era, pero solo en teoría no en práctica."
 }
 [sha:978649c7806a72be84b5c3755cb195614d53dc23]{
 -- Page 300, Offset 25016.
 -- 「知識だけって……そっか、ニュースを見るんだから、雑誌だって目を通しているのか。服も普通だし、わりと<人間|こっち>の事情に適応してるんだよな……」
-// mix de tls
-"Teoría... ya veo. Ves las noticias, así que también debes leer revistas. Vistes normal y pareces estar sorprendentemente bien adaptada a la sociedad moderna..."
+"Teoría... ya veo. Ves las noticias, así que también debes leer revistas. Vistes normal y pareces estar sorprendentemente bien adaptada a la sociedad moderna..." 
 }
 [sha:956936902c5513fda9e448fb010ed8c981cf25c5]{
 -- Page 301, Offset 25017.
 -- 西洋の吸血鬼のイメージと、ヴローヴの服装があまりにも時代がかっていたので、勝手にゴシックな印象を抱いていた。吸血鬼社会とやらもしっかり近代化が進んでいるのかもしれない。
 La imagen clásica de un vampiro Occidental, combinado con el look anticuado de Vlov,
- me habían dejado la impresión de que los vampiros eran criaturas Goticas.
+ me habían dejado la impresión de que los vampiros eran criaturas Góticas.
  Supongo que es posible que la sociedad vampírica se haya modernizado junto al resto del mundo.
 }
 [sha:3e5fb5930b34a2ebf4d69cf47332c924179bdbc3]{
@@ -89,14 +87,13 @@ La imagen clásica de un vampiro Occidental, combinado con el look anticuado de 
 [sha:b90a19e8e36defd7157d4ce6e2efe235aac0a053]{
 -- Page 302, Offset 25019.
 -- だから起きた時は、その時代の情報を覚えてから行動するの。ま、たいていは一日や二日で決着がつくから無駄になるんだけどね」
-// Mix de tls
 Por eso cada vez que me despierto, antes de hacer nada absorbo información sobre el periodo actual.
  Pero, suele ser una pérdida de tiempo, ya que suelo terminar las cosas en un día o dos."
 }
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 303, Offset 25020.
 -- 「……？」
-¿Eh...?
+-- TRANSLATION HERE
 }
 [sha:98edeccfa6e4b38291b79ae4c265f9de2fec1e81]{
 -- Page 303, Offset 25021.
@@ -116,7 +113,7 @@ De vez en cuando Arcueid dice cosas que me cuestan entender.
 [sha:d4a30130db9db910ac25ca7d0e0575cdbc9d7633]{
 -- Page 304, Offset 25024.
 -- 次の目覚めが何年先になるか判らないんだし、覚えた知識はすべて棄てて、次の目覚めに備えていたの」
-No se cuantos años van a pasar hasta que me despierte de nuevo,
+No sé cuantos años van a pasar hasta que me despierte de nuevo,
  así que tengo que descartar todo lo que aprendo y prepararme para mi siguiente despertar."
 }
 [sha:b3743e9f3d3870f109af874253ab358308d54f27]{
@@ -127,7 +124,7 @@ No se cuantos años van a pasar hasta que me despierte de nuevo,
 [sha:84e0d4ddb9d4f7f9ddfc6a4e2bba0e11d327fd2b]{
 -- Page 305, Offset 25026. Glued.
 -- でもそれって損をしてたみたい。
-Pero parece que al hacerlo me estoy perdiendo cosas.
+ Pero parece que al hacerlo me estoy perdiendo cosas.
 }
 [sha:5287509f059d3f90b15d653f3f5c572ed3d4c05b]{
 -- Page 305, Offset 25027. Mods: @n.
@@ -154,7 +151,6 @@ Aunque supiera que la gente se reúne en sitios como estos, nunca lo he experime
 [sha:85e4f3d1fff97c7ef0fc88a21fdcdbd0d58a5583]{
 -- Page 306, Offset 25031.
 -- 「当然よ。そういうふうに対応できるよう、知識を得ているんだから」
-// Mix de tls
 "Por supuesto. Para algo he aprendido todas esas cosas."
 }
 [sha:e3bcbaa1d40844a96d0d0d63f5cc0e88b945e258]{
@@ -168,6 +164,7 @@ Aunque supiera que la gente se reúne en sitios como estos, nunca lo he experime
 Ver el mundo como pura información es 'real' en sí mismo,
  pero la 'realidad' tangible de una experiencia vivida tiene una esencia que supera cualquier teoría,
  sin importar lo correcta que sea sobre el papel.
+ 
 }
 [sha:0e782a95c7967cf2a68b553ba0f7b862dcdb6d23]{
 -- Page 307, Offset 25034.
@@ -188,7 +185,7 @@ Arcueid suspira abatida.
 [sha:ffb7319564544537da4773fb20484e70d053bf4b]{
 -- Page 309, Offset 25037.
 -- 「どうだろう。理論は経験を補う、っていう逆説もあるとは思うけど？」
-"No se yo.
+"No sé yo.
  También se dice que 'la teoría complementa a la experiencia', ¿no?"
 }
 [sha:4ed1d1201cd51cf75c4279056e8f384ab776c675]{
@@ -206,10 +203,10 @@ Bueno... esa podría haber sido yo hasta hace poco."
 -- ますますアルクェイドの顔は暗くなっていく。
 El rostro de Arcueid cada vez es más sombrío.
 }
-[sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
+[offset:25041]{
 -- Page 310, Offset 25041.
 -- ……。
-...
+%{nothing}
 }
 [sha:58b71adc544e3d3bdfae244d9408713072ba453e]{
 -- Page 310, Offset 25042. Glued. Mods: @x.
@@ -239,12 +236,12 @@ Solo mira a tu alrededor.
 [sha:6aee881a8e65402b455876a4e0627bdbb5166290]{
 -- Page 312, Offset 25046. Glued.
 -- 志貴がマジメなコト喋ってる」
-por una vez dices algo serio."
+ por una vez dices algo serio."
 }
 [sha:1096e3ccfe7f99dc56a9e79e3a3ee23c29e1e032]{
 -- Page 312, Offset 25047.
 -- 「そっちがマジメな話をしたから、こっちもそれに付き合ってるんですよ。話の腰を折らないでくれ」
-"Eres tu la que empezó con el tema serio, solo te estoy siguiendo la corriente.
+"Eres tú la que empezó con el tema serio, solo te estoy siguiendo la corriente.
  No te salgas del tema."
 }
 [sha:d346597600a4b300b4de4104ba3f673f9cfad6c2]{
@@ -266,7 +263,7 @@ Aunque me grites todo el tiempo, cuando las cosas se ponen serias siempre escuch
 [sha:2aa59549385e40154c71a5aa95af58dd12e6abaa]{
 -- Page 314, Offset 25051.
 -- あはは、とアルクェイドは陽気に笑う。
-Arcueid suelta una risa alegre.
+Arcueid deja escapar una risa alegre.
 }
 [sha:241a8071984b2f2408096bee093d7b2a375fc687]{
 -- Page 314, Offset 25052.
@@ -276,7 +273,7 @@ No lo voy a decir en alto, pero esa sonrisa no es muy de vampiro.
 [sha:360576089921dcaa81eb0a76e139a3282e9ce29a]{
 -- Page 314, Offset 25053.
 -- ……それはそれとして、今までそんなに怒鳴り散らしてたかな、俺……。
-Dicho eso... ¿tan a menudo la he gritado?
+Dicho eso... ¿tan a menudo la grito?
 }
 [sha:9cf5204c9c3009a382ad8c448765c24d6f8a4cba]{
 -- Page 315, Offset 25054. Mods: @n.
@@ -286,12 +283,12 @@ Dicho eso... ¿tan a menudo la he gritado?
 [sha:ef72be970d312961f92163d35cb96b42e9fc0d97]{
 -- Page 315, Offset 25055. Glued.
 -- それ以外のものは見えなくなるんだもの。
-me cierro al resto de opciones.
+ me cierro al resto de opciones.
 }
 [sha:842134609fbfd05e698032687784a1dfd9d14c8f]{
 -- Page 315, Offset 25056.
 -- わたしには自分しかいらない。自分だけが正しくあればいいって、そんなふうにしか考えられない」
-No necesito a nadie salvo a mi misma'. 'Mientras tenga razón está bien'.
+ 'No necesito a nadie salvo a mi misma'. 'Mientras tenga razón está bien'.
  Solo pensaba de esa forma."
 }
 [sha:4c3fac20ea2a5d4ff5221a5e9669fa225ad04b89]{
@@ -304,7 +301,7 @@ No necesito a nadie salvo a mi misma'. 'Mientras tenga razón está bien'.
 [sha:0d5b76820bd59456e799021c2efa6588c7ad887c]{
 -- Page 316, Offset 25058.
 -- なんでか、優しい口調でアルクェイドは自省する。
-Mientras reflexiona el tono de Arcueid es gentil,
+Su reflexión va acompañada de un tono gentil,
  supongo que se siente un poco introspectiva.
 }
 [sha:74616e210ccea8825d579e275345f4830e3b3868]{
@@ -315,7 +312,6 @@ Mientras reflexiona el tono de Arcueid es gentil,
 [sha:55b7bb864ae8b1fc18d87bbc4581a66463fcd897]{
 -- Page 317, Offset 25060.
 -- わたし、いまの自分が一番好きだし。やっぱり正しいんだって信じてるから」
-// mix de tls
 Además, prefiero a mi 'yo' de ahora.
  Sigo creyendo que es mi manera correcta de ser."
 }
@@ -343,13 +339,13 @@ Se zampa la comida basura, y a cada bocado borra un poco más mis prejuicios sob
 [sha:38ccf5d570eb054fd76320891fb16ed35d63816a]{
 -- Page 319, Offset 25065.
 -- なぜだろう。
-No se como lo hace.
+No sé como lo hace.
 }
 [sha:11227b269141ca0b486673a909ff3e668ca56760]{
 -- Page 319, Offset 25066. Glued. Mods: @x.
 -- ハンバーガーの食べ方なんて、どう取り<繕|つくろ>おうと上品には見えないのに、アルクェイドの<食|ソ><事|レ>は、場違いなまでに美しく見えるのは。
-Es imposible comerse una hamburguesa de manera elegante,
- que se vea tan preciosa al hacerlo solo consigue que Arcueid se vea aún más insólita.
+ Es imposible comerse una hamburguesa de manera elegante.
+ Que se vea tan preciosa al hacerlo solo consigue que Arcueid se vea aún más insólita.
 }
 [sha:eb628e2a1311cded1b85ac21642e7d61cf42f862]{
 -- Page 320, Offset 25067.
@@ -376,7 +372,7 @@ Se limpia los labios con una servilleta.
 -- Page 322, Offset 25071.
 -- 「いや、それで合ってる。合ってるけど、なんかヘンだ、おまえの場合。似合わないから食べるな」
 "No, para nada.
- Lo estas haces bien, pero es raro verte %{i}a ti%{/i} hacerlo.
+ Lo haces bien, pero es raro verte hacerlo.
  No te pega, no deberías comerlas."
 }
 [sha:b0bdedcba8d8d8157b34746aae9269d47a2a16a4]{
@@ -453,8 +449,7 @@ Y Arcueid ha dicho antes que no bebe sangre.
 [sha:4ecbcb904506102ea5903304be773082a19e137a]{
 -- Page 329, Offset 25085.
 -- 「なによ、いじわる」
-// O malo
-"¿Qué quieres? Malo"
+"¿Qué quieres? Malo."
 }
 [sha:574dd2276d3fa3c0eccbbc65b7728317f4fa1a7f]{
 -- Page 330, Offset 25086.
@@ -485,7 +480,6 @@ Los ojos de Arcueid se abren de par en par.
 [sha:a93afc722edbc0d1adf877d952a15d723a8224ac]{
 -- Page 332, Offset 25091.
 -- ……やっぱり、これは<不躾|ぶしつけ>な質問だったみたいだ。
-// Tl oficial
 Lo sabía. Era una pregunta inapropiada.
 }
 [sha:79fffa9d9b6cc81bdd53b4fc251096beb7b7130e]{
@@ -496,7 +490,7 @@ Mírala,
 [sha:be554070ab8cd28c4ab38472db368241b80a77b9]{
 -- Page 332, Offset 25093. Glued. Mods: @n.
 -- アルクェイドだって表情を強ばらせて……
-se ha quedado de piedra...
+ se ha quedado de piedra...
 }
 [sha:c6c511e7615f45e330662f2bde25423885e2a2f0]{
 -- Page 332, Offset 25094. Glued.
@@ -511,7 +505,6 @@ se ha quedado de piedra...
 [sha:6f651c917bfb75e50bd8012a975e6732d481cf8b]{
 -- Page 333, Offset 25096.
 -- 確かに、こういうふうに栄養素を口にすれば自分の力だけで動けるけど、それは気分の問題なの」
-// Tl oficial
 Es cierto que puedo obtener energía de las cosas que consumo,
  pero eso es solo si yo quiero."
 }
@@ -550,17 +543,17 @@ Gracias a Dios. Me alegro que no sea como los otros vampiros que matan humanos p
 [sha:fc742972a105ed492f9c5b64d6059a7d1606909f]{
 -- Page 337, Offset 25103.
 -- ……まったく。アルクェイドも、
-En serio... Si Arcueid hubiera dicho:
+En serio... Si desde el principio Arcueid hubiera dicho:
 }
 [sha:b3ab29cc9b9853896de72f86d63618a0f1c687a6]{
 -- Page 337, Offset 25104.
 -- 『わたしは血を吸う必要のない吸血鬼だよ』
-Soy un vampiro que no necesita chupar sangre.'
+ 'Soy un vampiro que no necesita chupar sangre.'
 }
 [sha:0589fecb240e536194964576001b18bfda3ea106]{
 -- Page 337, Offset 25105.
 -- と、はじめから言ってくれたのなら俺だって素直に協力してたの……に………
-Desde el principio, habría estado más que encantado de ayudar... la...
+Habría estado más que encantado de ayudar... la...
 }
 [sha:23a01b7865fec06f3df3a1d80726bdb9a0d3330f]{
 -- Page 338, Offset 25106. Mods: @k, @e.
@@ -575,7 +568,7 @@ Desde el principio, habría estado más que encantado de ayudar... la...
 [sha:4bdcb847aa6ba8c3813a28534b643ff88d72b8c1]{
 -- Page 339, Offset 25108.
 -- 「言うわよ。志貴だって食事が“味のないもの”ばかりだったら耐えられなくなるでしょう？
-"No, aún lo soy.  Si tuvieras que comer algo insípido todo el tiempo, sería insoportable, ¿verdad?
+"No, aún lo soy. Si tuvieras que comer algo insípido todo el tiempo, sería insoportable, ¿verdad?
 }
 [sha:fa6e3ce98800d7a2f1ab2ef6ef1af3a7c42c80f8]{
 -- Page 339, Offset 25109.
@@ -601,12 +594,11 @@ O quizá――¿se te había antojado este trozo de carne procesada de baja cali
 [sha:27b83eff0bba16d201d5d3915e467f4f2567b40b]{
 -- Page 340, Offset 25113.
 -- 「う……恥ずかしながら、そういうジャンクなハンバーガーを食べたいと思ったからです……」
-%{i}Gh%{/i}... me duele admitirlo, pero es porque quería una hamburguesa..."
+"%{i}Gh%{/i}... me duele admitirlo, pero es porque quería una hamburguesa..."
 }
 [sha:218c94cf278b0662b31e6a1b99356298daa8671c]{
 -- Page 341, Offset 25114.
 -- 「うん、それでいい。別に恥ずかしがる事はないんだよ？
-// Tl oficial
 "¿Ves? Está bien. No hay nada de lo que avergonzarse.
 }
 [sha:39a9f16c8f45c5b04c36d844ad7fe6e100a6a703]{
@@ -648,7 +640,6 @@ Os apareáis porque se siente bien.
 [sha:cb932b5ce576a02e0d534b7c99d37d3d462a9792]{
 -- Page 343, Offset 25122.
 -- その究極があなたたち人間なんでしょうね。なんであれ快楽に繋げる事がより強い繁栄方法だと知っている。比較的弱い生命体がもっとも強い生存力を示した、この宇宙でも希有な例なんだから」
-// Mix de tls
 Los humanos sois el ejemplo por excelencia de esto.
  Sabéis que conectar el placer a una actividad es una herramienta para prosperar mejor que cualquier otra.
  Sois una especie relativamente débil que ha descubierto su manera óptima de sobrevivir en este universo, y la ha usado para volverse dominante. Es algo bastante raro en este universo."
@@ -688,7 +679,7 @@ Me cuesta aceptar que me digan que los humanos no podemos vivir sin buscar el pl
 -- 「いいのよ、それで。だからこそあなたたちはこの星で一番の高等動物になった。生存する事に意味を見いだそうとする生命なんて、星からしたらとんでもない進化だもの。
 "No hay nada de malo en ello.
  Es lo que os ha convertido en la especie dominante a día de hoy.
- Desde el punto de vista del planeta, una forma de vida que busca el significado a su propia existencia es un resultado extraordinario de la evolución
+ Desde el punto de vista del planeta, una forma de vida que busca el significado a su propia existencia es un resultado extraordinario de la evolución.
 }
 [sha:d945e178ecf0be834d0889ced4b3b37c8fa62372]{
 -- Page 346, Offset 25130.
@@ -725,7 +716,7 @@ Sin embargo, si mi objetivo es solo 'mantenerme activa',
 [sha:0be71673f4d3f4b8f9281f63b7896cf36c118fa7]{
 -- Page 348, Offset 25136. Glued.
 -- 精神的空腹を満たすのに一番適したものが血液だと……。
-la sangre se usa para saciar vuestro hambre %{i}psicológico%{/i} más que nada...
+ la sangre se usa para saciar vuestro hambre %{i}psicológico%{/i} más que nada...
 }
 [sha:139773e461050fc24e9b319c401c5b02d602f4ae]{
 -- Page 348, Offset 25137.
@@ -758,12 +749,12 @@ Sin embargo, Arcueid frunce el ceño como si algo la pesara.
 [sha:efa0b575d1f603109767091dfd16cedd66c4dc99]{
 -- Page 350, Offset 25142. Glued.
 -- わたし知らないもの」
-Que realmente no sé a lo que sabe la sangre."
+Que realmente no sé qué sabe la sangre."
 }
-[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+[offset:25143]{
 -- Page 350, Offset 25143.
 -- 「……？」
-¿Eh...?
+"¿Hm...?"
 }
 [sha:cd2463d9d6ab682606a757589e06d0483e4526b5]{
 -- Page 350, Offset 25144.
@@ -796,7 +787,7 @@ Arcueid aparta la mirada mientras murmura.
 [sha:b8bc34a41127332faf60585063cfc1bffcb1cb9a]{
 -- Page 352, Offset 25149.
 -- 「ねえ志貴。もしもよ。もしも鳥や魚にあなたと同じぐらいの知性と寿命があったら、あなたは食べられる？
-"Ey, Shiki. Hablando hipotéticamente, si los pájaros y los peces tuvieran la misma inteligencia y esperanza de vida que tu, ¿te los seguirías comiendo?
+"Ey, Shiki. Hablando hipotéticamente, si los pájaros y los peces tuvieran la misma inteligencia y esperanza de vida que tú, ¿te los seguirías comiendo?
 }
 [sha:41ec3da5fad84e7dfb99f9dba399f5736cd696fd]{
 -- Page 352, Offset 25150.
@@ -826,7 +817,7 @@ No lo sé. Pero... si hubiera animales de menor inteligencia, probablemente me l
 [sha:d20be04f33a47bdfe6d0f56a169a42a35cec3028]{
 -- Page 354, Offset 25155. Glued.
 -- わたしが血を嫌っているのはそういう理由なんだ。……まあ、志貴の言う通り好き嫌いはあるのかもしれない。わたし、できることなら血は見たくないもの。
-Es la misma razón por la que odio la sangre...
+ Es la misma razón por la que odio la sangre...
  Bueno, quizá tengas razón, quizá simplemente no me gusta.
  Si es posible, prefiero evitar ver sangre.
 }
@@ -854,7 +845,7 @@ Me levanto del shock.
 [sha:beb0864cc2c6b02b821d1ddd8b90d7165e104e89]{
 -- Page 355, Offset 25160.
 -- 『生きる為の殺害は罪ではない』
-Matar para vivir no es un pecado'
+ 'Matar para vivir no es un pecado'
 }
 [sha:c12a17b5ca5af44d6718ad68a4069b516b64beb1]{
 -- Page 355, Offset 25161.
@@ -894,7 +885,7 @@ No me gustan los y-sis.
 -- 」
 "
 }
-[sha:1a8787d67102ddd4ef9aa243721e209691ab649e]{
+[offset:25168]{
 -- Page 357, Offset 25168.
 -- 「そう？　わたしはイフって好きよ。
 "¿De veras? A mi me gustan bastante.
@@ -902,7 +893,6 @@ No me gustan los y-sis.
 [sha:e2e7d23a162cb0375e3adf2945f3a23d1c9f98b4]{
 -- Page 357, Offset 25169.
 -- どんな結果になるか分からないけど、とりあえずその時は、どこかに救いがあるような気がするでしょう？」
-// Tl oficial
 Puede que no sepas como van a salir las cosas,
  ¿pero imaginarse lo que puede pasar no da una cierta sensación de amparo?"
 }
@@ -920,18 +910,18 @@ En ese caso, ¿y si Arcueid no es un vampiro?
 [sha:5b86845bb814946437de2046803de0e42b6617a1]{
 -- Page 358, Offset 25172.
 -- あるいはこいつが他の吸血鬼のように血を吸う怪物だったとしたら、こんなふうに苛立つ事もなかったのか。
-¿O y si fuera un monstruo que bebe sangre como los otros vampiros?
- ¿No me sentiría tan irritado como ahora?
+O, ¿y si fuera un monstruo que bebe sangre como los otros vampiros?
+ ¿No me sentiría tan irritado?
 }
 [sha:6584bb786571bf44a8b0107ef6884b5ee4bfc91b]{
 -- Page 359, Offset 25173. Mods: @n.
 -- 「どうしたの志貴、
-"¿Qué pasa, Shiki?
+"¿Qué ocurre, Shiki?
 }
 [sha:6e40bc633394c11bbb364f42f62c523614907c60]{
 -- Page 359, Offset 25174. Glued.
 -- いきなり暗い顔しちゃって。
-Tienes la cara sombría de repente.
+ ¿Y esa cara tan larga de repente?
 }
 [sha:50412f9f77cf673fdcfc519f328a2ee6dc87231f]{
 -- Page 359, Offset 25175.
@@ -941,7 +931,7 @@ Ah, ¿tienes que ir al baño?"
 [sha:50b28450afc71ef641da61b8a23919ff2c681694]{
 -- Page 359, Offset 25176.
 -- 「……あのな。人が真面目に悩んでるっていうのに、よりにもよってソレか、おまえは」
-"En serio... yo aquí teniendo una crisis existencial ¿ y tu pensando en %{i}eso%{/i}?"
+"En serio... yo aquí teniendo una crisis existencial ¿y tú pensando en %{i}eso%{/i}?"
 }
 [sha:f11e0128cd3ad6435f30319692dbe2227c71d78f]{
 -- Page 360, Offset 25177.
@@ -967,7 +957,7 @@ Da igual lo mucho que lo piense,
 [sha:1e3d67c134eb304aeefb594662a5b0643c566863]{
 -- Page 362, Offset 25181.
 -- 「もう、さっきからひとりでぶつぶつ言っちゃって。
-"Oye, ¿que andas murmurando?
+"Oye, ¿qué andas murmurando?
 }
 [sha:44d6998d6b1c0e2ba997aa7e7a30cb253c795a15]{
 -- Page 362, Offset 25182.
@@ -987,7 +977,7 @@ Arcueid me gruñe como si fuera un gatito enfadado.
 [sha:fe4871fedf6de037277797483615b01fb12d6476]{
 -- Page 363, Offset 25185.
 -- そもそも隠し事だらけなのはそっちのほうだろ。いつも俺には分からない話をして面白がってるんだから」
-En todo caso, %{i}tu%{/i} eres la que me esconde cosas a %{i}mi%{/i}.
+En todo caso, eres %{i}tú%{/i} la que me esconde cosas a %{i}mí%{/i}.
  O al menos, parece que todo el tiempo te diviertes hablando de cosas que no entiendo."
 }
 [sha:235c53f082b4d8767fb9e78d87376984cfb15062]{
@@ -1018,7 +1008,6 @@ Bueno, no es que me importe. Somos organismos completamente distintos."
 [sha:7f856f080494ca0e121c1d2359e176502ba9e7b6]{
 -- Page 365, Offset 25191.
 -- わたし、ちゃんと志貴には話してあげてるよ。
-// Tl oficial
 ¡Te intento decir las cosas, sabes!
 }
 [sha:7942536b1a702dcb420d0ae63ceb02a29854c5f7]{
@@ -1103,7 +1092,7 @@ Arcueid, ¿qué tipo de vampiro es tu enemigo?
 [sha:463fe19a6e9e3450bf6cf97c26ae2fa18e38fb25]{
 -- Page 373, Offset 25207.
 -- 「なんだよ。俺に隠し事はしないって、さっき言ったばかりじゃないか」
-"¿Qué? ¿No%{i}acabamos%{/i} de acordar no ocultarnos nada?"
+"¿Qué? ¿No %{i}acabamos%{/i} de acordar no ocultarnos nada?"
 }
 [sha:4a22f3baddf1b44bad9bf63438410709589d34fd]{
 -- Page 374, Offset 25208.
@@ -1181,7 +1170,7 @@ Por ejemplo―――
 [sha:1dda0bd6cad6ede3d25dbdfcc189958eaf35a31f]{
 -- Page 379, Offset 25222. Glued.
 -- うん、それはいい。当然の話だ。
-Vale, me lo creo.
+ Vale, me lo creo.
  Tiene todo el sentido.
 }
 [sha:e9d86e1194cffc1cec888f57145d1643b8496458]{
@@ -1248,7 +1237,7 @@ No parece que esté ocultando la verdad.
 [sha:07f65b1647ba906dbb1ac325ec8874c2373c99c5]{
 -- Page 383, Offset 25235.
 -- 俯いたまま、美しい唇が動く。
-Sus preciosos labios moviéndose, pero ella no levanta la mirada.
+Sus preciosos labios se mueven, pero ella no levanta la mirada.
 }
 [sha:9ad34c4a36cf04ad00a26c3812ae30dafa4bd0d8]{
 -- Page 383, Offset 25236.
@@ -1299,7 +1288,7 @@ Como si dijera que no puede dejar el tema tan fácilmente.
 [sha:b6bff8d6c282bd0613a72a8a243a9bc4b001fedd]{
 -- Page 387, Offset 25245.
 -- しばらく、無言のまま時間が経った。
-Pasa un rato, ninguno de nosotros ha dicho una palabra.
+Pasa un rato, ninguno de los dos ha dicho una palabra.
 }
 [sha:cc1e926f8f78a4e303aef80c100a9db7f632cc24]{
 -- Page 388, Offset 25246.
@@ -1385,7 +1374,6 @@ Aunque, desde un principio no sabía muy bien, ¿diría?
 [sha:759d8b9cd01b461c59088bf3248caa471e8bace2]{
 -- Page 394, Offset 25261.
 -- 低俗よね、と言いづらそうに視線を逸らすお姫様。
-// Mix de tls
 La princesa aparta la mirada,
  como si quisiera evitar decir que tengo gustos de plebeyo.
 }

@@ -51,7 +51,7 @@
 [sha:6839b8ff8a632fe5fceac6d97eaa2a68c6723321]{
 -- Page 90, Offset 15020. Glued.
 -- ！
-%{nothing}
+-- TRANSLATION HERE
 }
 [sha:02174398bd962d4d56c634c675b9bb5c5a3e58ee]{
 -- Page 90, Offset 15021.

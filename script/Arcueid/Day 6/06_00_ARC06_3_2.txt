@@ -6,11 +6,12 @@ Recorreré la mansión.
 [sha:ab1377c90fee4c21801e43720bac20001a0b08be]{
 -- Page 10014, Offset 14589.
 -- 七年前からそう変化はないと思うが、成長した今の視点ならではの発見があるかもしれない。
-// Tl oficial
+//Tl oficial
 Dudo que haya cambiado mucho en estos últimos siete años,
- pero quizá ahora puedo descubrir algo nuevo ahora que he crecido.
+ pero ahora que he crecido quizá pueda descubrir algo nuevo.
+ 
 }
-[sha:c09f3877d5a9f201580d69b929cbe917e305a990]{
+[offset:14590]{
 -- Page 279, Offset 14590.
 -- ―――さて。
 ―――Bien pues.
@@ -34,35 +35,35 @@ Lo digo en alto, aunque no haya nadie alrededor.
 -- Page 281, Offset 14594.
 -- 遠野邸本館はホテルのように広く、また、ホテルのように『関係者以外立ち入り禁止』な部屋が多かった。
 La mansión es tan grande como un hotel,
- y tal como un hotel, hay múltiples habitaciones a las que no se pueden acceder.
+ y como en un hotel, hay múltiples habitaciones a las que no se pueden acceder.
 }
 [sha:ac6ec28f2b6660cec841e2c42eaf7b468ff6dc55]{
 -- Page 282, Offset 14595.
 -- とくに東館の二階は凄かった。
-// Tl oficial
+//Tl oficial
 La segunda planta del ala oeste es especialmente increíble.
 }
 [sha:8efddff88a26a0f97838984abc859fd28fbf48c5]{
 -- Page 282, Offset 14596.
 -- 『酷い』のではなく『凄い』。
-// Tl oficial
+//Tl oficial
 Y no lo digo de mala manera.
 }
 [sha:45846c9927a4bcf8926428a1b31e91d021ff6a82]{
 -- Page 282, Offset 14597.
 -- なんていうか、圧、があるのだ。
-Es como decirlo... abrumadora.
+Es, como decirlo... abrumadora.
 }
 [sha:0438499c3f7a7946383f981580a60d6250735d4f]{
 -- Page 282, Offset 14598.
 -- 他の部屋は鍵がかかっているので入れなかったが、東館の二階は鍵や扉で塞がれている訳ではない。
 No puedo entrar a muchas de las habitaciones porque están cerradas,
- este no es el caso de la segunda planta del ala este.
+ pero no es el caso de la segunda planta del ala este.
 }
 [sha:c4e426483be255ad7ae93986821f198ccc945e65]{
 -- Page 282, Offset 14599.
 -- なのに、こう、踏み入ろうとすると眩暈がするというか、廊下が揺らいで見えるというか、
-Pero cuando fui a echar un vistazo,
+Sin embargo, cuando fui a echar un vistazo,
  me empecé a marear...
  casi como si el pasillo se estuviera moviendo detrás de mí.
 }
@@ -86,7 +87,7 @@ La responsable de esto es, por supuesto, Akiha.
 -- 単なる被害妄想、否、俺が気を遣いすぎているだけなのだが、それはそれとして社会的な生命の危機を感じるので、東館の二階には入らなかった。
 Quizá sea paranoia――no, solo estaba dándole demasiadas vueltas.
  De todas formas, si entro me temo que mi vida social estaría en grave peligro,
- así que opto por no entrar en la segunda planta del ala este.
+ por lo que opto por no entrar en la segunda planta del ala este.
 }
 [sha:6ca04b400d4b97729ef63ee32f8762db633bacc2]{
 -- Page 285, Offset 14604.
@@ -102,12 +103,12 @@ Uno no debe colarse en el territorio del cabeza de familia.
 [sha:1d65868f5475b7d3b7f805adcaa98406e80ea8fb]{
 -- Page 285, Offset 14606.
 -- 昔からここではそうだっただろう、志貴君」
-Siempre ha sido así, ¿verdad, Shiki-kun?"
+Así ha sido siempre, ¿verdad, Shiki-kun?"
 }
-[sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
+[offset:14607]{
 -- Page 286, Offset 14607.
 -- 「―――」
-"―――"
+"Ah―――"
 }
 [sha:8a3967b953bd88251ddaf6f4999e7cc65c47d987]{
 -- Page 286, Offset 14608.
@@ -134,7 +135,7 @@ Y cuando me giro, me encuentro con―――
 [sha:04c47f8fe04577e83e19a5c54c33f8b22a27e054]{
 -- Page 288, Offset 14612.
 -- 「私を知らないのは君だけなんだが、まあ、そこは流そう。お互い深く関わり合う立場じゃない。痛し痒しだ。
-Eres el único que no me conoce, pero bueno...
+"Eres el único que no me conoce, pero bueno...
 Dejémoslo pasar.
  Ninguno de nosotros está en posición de involucrarse en los asuntos del otro.
  Es una situación delicada.
@@ -147,7 +148,7 @@ Hoy es――cierto.
 [sha:de57bbc7ee5dd986ee6743abc3cb07501e9a93f7]{
 -- Page 288, Offset 14614.
 -- 私も気が緩んでいたらしい。君の後ろ姿から昔を思い出してね。声をかけてしまったんだよ」
-// mix de tls
+//mix de tls
 He bajado la guardia.
  Verte me recordó tanto al pasado que,
  sentí la necesidad de decirte algo."
@@ -165,16 +166,16 @@ Se refiere a...
 [sha:c7f6d36f2001cb7cabf96778e5a9457e6eca7e09]{
 -- Page 290, Offset 14617.
 -- 「ああ。槙久さんがまだ万全だった頃だ。
-// Tl oficial
+//Tl oficial
 "Sí. Me recordaste a Makihisa, cuando aún estaba saludable.
 }
 [sha:5d1a4ebba85bf34ec0eb22af0dca73c285e0660c]{
 -- Page 290, Offset 14618.
 -- ここ数年は部屋に籠もりがちだったが、もともとは植物を愛する人でね。こうして屋敷のまわりを歩いていた」
-// Tl oficial
+//Tl oficial
 Aunque pasó sus últimos años encerrado en su habitación,
  antes se solía dar paseos por la mansión.
- Le encantaban las plantas, sabes."
+ Le encantaban las horticultura, sabes."
 }
 [sha:bf06fbd41367afb5aa9d4f2557aaa5933a03dde9]{
 -- Page 291, Offset 14619.
@@ -196,14 +197,14 @@ Yo también solía trastear con ellas.
 [sha:52ffa83374e9ba396214360d18ea76f87a565aed]{
 -- Page 292, Offset 14622.
 -- 「入り口はね。裏口は簡単な鍵で開けられる。
-// Tl oficial
+//Tl oficial
 "La entrada delantera lo está, sí.
  Pero la trasera se abre con facilidad.
 }
 [sha:52b5655a2f3b53b5bab20732eef4d343b893b723]{
 -- Page 292, Offset 14623.
 -- 持っているのは琥珀嬢かな？　ありがたい事に、今でも最低限の世話をしてくれているようだ」
-// Tl oficial
+//Tl oficial
 Creo que la señorita Kohaku tiene la llave. Afortunadamente, se encarga del jardín, aunque solo sea lo básico."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -224,12 +225,12 @@ Saiki se acaba de referir a Kohaku somo 'señorita'.
 [sha:10fd9404da851ac82a80f2d04f3a7c297d044c56]{
 -- Page 293, Offset 14627.
 -- 使用人だからといって過度に下に見る……という人柄ではない……？
-Me esperaba que fuera el tipo de persona que mira por encima del hombre a la gente por ser sirvientes.
+Me esperaba que fuera el tipo de persona que mira por encima del hombro a la gente por ser sirvientes.
 }
 [sha:15c95d6c4f778c56089ec460b20877b6510dc5b5]{
 -- Page 294, Offset 14628.
 -- 「貴方は、琥珀さんと親しいんですか？」
-"¿Te llevas con Kohaku por casualidad?"
+"¿Por casualidad te llevas con Kohaku?"
 }
 [sha:50443da8531dd7479d3ded3098ee3f26975626f4]{
 -- Page 294, Offset 14629.
@@ -249,18 +250,18 @@ Me esperaba que fuera el tipo de persona que mira por encima del hombre a la gen
 [sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
 -- Page 295, Offset 14632.
 -- 男は皮肉そうに苦笑した後、本格的に笑いだした。
-// Tl oficial
+//Tl oficial
 Su burla sarcástica se convierte en carcajadas.
 }
 [sha:28279097501e74154d1a8b52af24020a2f8fd8e4]{
 -- Page 295, Offset 14633.
 -- 何が面白かったのか、聞くまでもない。
-No hace falta preguntarle lo que le hace gracia.
+No hace falta preguntar que le hace gracia.
 }
 [sha:f0e59183de30efb7a4205022a5eb8ef90a82e9a1]{
 -- Page 295, Offset 14634.
 -- ……斎木業人は、今、目の前の人間の滑稽さに笑っているのだ。
-// Tl oficial
+//Tl oficial
 Se está riendo de mi.
 }
 [sha:509246071f6550cbdc4d7e05c07bc6a9d5c58974]{
@@ -283,7 +284,7 @@ Sí, eso fue maleducado.
 [sha:87ca879b03a51ce1bbbd2fe5a4808be603551548]{
 -- Page 297, Offset 14638.
 -- 「私は琥珀嬢とはそう親しくはないよ。彼女と話すようになったのは秋葉が当主になってからだ。
-"No me llevo con la señorita Kohaku. Solo empecé a hablar con ella cuando Akiha se volvió cabeza de familia
+"No me llevo con la señorita Kohaku. Solo empecé a hablar con ella una vez Akiha se volvió cabeza de familia
 }
 [sha:94dda3bbdb93022e1e4282e6d93fc09cd486e739]{
 -- Page 297, Offset 14639.
@@ -317,8 +318,8 @@ Me estas diciendo que Saiki Gouto...
 [sha:614cc87c1eaf4369f6f4afa64fa6b6cc10b2e56c]{
 -- Page 299, Offset 14644.
 -- 「昔の話だよ、それも。
-// Tl oficial
-"Aunque, eso está todo en el pasado.
+//Tl oficial
+"Aunque, eso es todo parte del pasado.
 }
 [sha:ac5609077bfa48838b044aa78c182af7c31e5a9c]{
 -- Page 299, Offset 14645.
@@ -352,29 +353,29 @@ Supongo que eso significa que se ha acabado nuestra conversación.
 [sha:b3b0561bac1ecc9265329eed1b2305cb1e1f5a8a]{
 -- Page 301, Offset 14650.
 -- どうかな、七年ぶりに屋敷を見た感想は？」
-¿Cómo se siente ver la mansión por primera vez en siete años?
+¿Cómo se siente el ver la mansión por primera vez en siete años?"
 }
 [sha:53da602ac913648b5d2decc28f63b9bcfe0dd163]{
 -- Page 301, Offset 14651.
 -- 「特に驚きはないです。子供の頃の記憶合わせができたのは一階だけですし」
-"No había nada muy sorprendente.
+"Nada muy sorprendente.
  Solo podía recordar la primera planta, por lo que tampoco había mucho con lo que comparar."
 }
 [sha:af5702177d148afb1001dbf3df7310e12e741da1]{
 -- Page 302, Offset 14652.
 -- 包帯づくめの紳士、斎木業人に返答する。
-// Tl oficial
+//Tl oficial
 Respondo la pregunta de Saiki Gouto, la momia humana.
 }
 [sha:de480e24a2ccf3baaf485d1ef54ee854f89236eb]{
 -- Page 302, Offset 14653.
 -- 「なんだ、面白みのない。
-"Qué, ¿eso es todo? Qué soso.
+"Qué, ¿eso es todo? Que soso.
 }
 [sha:f332fce4ddc3cbfbdb6f369bf930c60d2c6b3d89]{
 -- Page 302, Offset 14654.
 -- ……しかし、そうだな。過去から戻ってきたとしても、見違えるような現実など、そうはないという事か」
-// Tl oficial
+//Tl oficial
 Aunque,
  supongo que alguien que viene del pasado tampoco vería la realidad de manera diferente."
 }
@@ -407,7 +408,7 @@ Si conoces al enemigo y te conoces a ti mismo, no tendrás que temer el resultad
 [sha:b9bb50958593d29fbfeea206c230170988e9cd05]{
 -- Page 304, Offset 14660.
 -- こちらも自衛手段として、彼の情報を少しは知っておかないと。
-Debería recopilar información  de él como seguro.
+Debería recopilar información de él como seguro.
 }
 [sha:b8820687d5561f13fa7372c4209a7acf524c8388]{
 -- Page 305, Offset 14661.

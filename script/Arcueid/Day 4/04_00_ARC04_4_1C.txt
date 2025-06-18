@@ -51,17 +51,17 @@ La pantera negra ya se ha escabullido.
 [sha:6dc0463d616f6ec42e97d04889327647fe252d50]{
 -- Page 304, Offset 6399.
 -- 今のアレを見て、あの女には敵わないと逃げ出したのかもしれない。
-Quizá vio lo que acababa de hacer, y decidió que no era rival para ella, y huyó.
+Quizá vió lo que acaba de hacer, y huyó tras decidir que no era rival para ella.
 }
 [sha:29a98f1012d71c02091f09959078acf50804c434]{
 -- Page 305, Offset 6400.
 -- 「―――おい。今の、なんだ」
-"Ey. ¿Que... acaba de pasar?"
+"Ey. ¿Qué... acaba de pasar?"
 }
 [sha:bb4d2490493dd102c08c116c60aaa110555f98c1]{
 -- Page 305, Offset 6401.
 -- ……眼球の真横から頭痛がする。
-// Tras mis,  detras de, bajo mis
+//Tras mis,  detras de, bajo mis
 El dolor de cabeza palpita tras mis ojos.
 }
 [sha:4a13f49ba3ce2d0310b9732ea7c823939bfc5adf]{
@@ -78,7 +78,7 @@ El dolor que atraviesa mi cabeza está afectando al área del lenguaje de mi cer
 -- Page 306, Offset 6404.
 -- 「？　なにって、ただの死者でしょ？
 "¿Hm? ¿Te refieres a esas cosas?
- Solo eran algunos de los Muertos, ¿cierto?
+ Solo eran algunos Muertos, ¿no?
 }
 [sha:107cc4b4983b2d4e204dae05e2c1f379991e3f1a]{
 -- Page 306, Offset 6405.
@@ -122,7 +122,7 @@ Ambos parecen creíbles en comparación a %{i}ella%{/i}.
 -- 腕を振るだけで竜巻を起こす？　馬鹿げている。そんなモノ、この脆弱な<肉体|にんげん>として、一秒だって共存できる筈がない。
 ¿Crear un tornado con un simple movimiento de brazos?
  Es ridículo.
- Un humano frágil como yo no puede quedarse con algo tan peligroso por un segundo siquiera.
+ Un humano frágil como yo no puede quedarse con algo tan peligroso ni por un segundo siquiera.
 }
 [sha:883e2fa833e2ca300bffb13ffd7d9224429a80c7]{
 -- Page 309, Offset 6413.
@@ -167,7 +167,7 @@ Respiro profundamente, y―――
 [sha:ef264c964964b9f9cf19a1baabbe1460afb341c8]{
 -- Page 311, Offset 6421.
 -- 「あ、れ……？」
-"Eh... que es..."
+"Eh... qué est..."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 311, Offset 6422.
@@ -192,12 +192,12 @@ Esta vez, me calmo de verdad.
 [sha:750736afe156cef290d1be3b2f84b3b90ccbd1cb]{
 -- Page 313, Offset 6426.
 -- 「ケガなんて、そんなのするワケないでしょう。あんな<鈍|のろ>いのにやられるなんて考えた事もないわ」
-"¿Me he hecho daño? No me puedo ni imaginar algo tan lento pudiendo golpearme."
+"¿Si me he hecho daño? No me puedo ni imaginar algo tan lento pudiendo golpearme."
 }
 [sha:87596d344912eca502d74610971623c6b046475d]{
 -- Page 314, Offset 6427.
 -- 「……でも、ちょっとまずい展開になってきた。
-"Aún así... las cosas acaban de volverse peores.
+"Aún así... las cosas acaban de empeorar.
 }
 [sha:ac7b55e9f58cfe82544591e00906f80cec186ac8]{
 -- Page 314, Offset 6428.
@@ -222,7 +222,7 @@ Pensaba que era una forma de hablar, pero ya no soy tan optimista.
 [sha:6cb03ab312764f2b25c31bfeeab5c7ecd74f58da]{
 -- Page 315, Offset 6432.
 -- こいつは本気で、あんな、黒豹だの燃えている死体だのの盾になれと言ってやがる……！
-¡Me está pidiendo en serio que sea su escudo contra cosas como esa pantera negra y esos cadáveres ardientes!
+¡Me está pidiendo de verdad que sea su escudo contra cosas como esa pantera negra y esos cadáveres ardientes!
 }
 [sha:6ece02ce0df512bbbd2bf4aee8fab4498fb4ffcb]{
 -- Page 316, Offset 6433.
@@ -238,7 +238,7 @@ Acabas de ver lo que ha pasado, ¿qué puedo hacer contra eso?
 [sha:baf2f2a6efc39a511fc16fe575a49885b2a16039]{
 -- Page 317, Offset 6435.
 -- 「そうでもないわ。今ので本当にカラッポになっちゃったから。
-"Eso no es para nada cierto. Ahora mismo, estoy de verdad completamente vacía.
+"Eso no es para nada cierto. Ahora mismo, estoy completamente vacía de verdad.
 }
 [sha:187966a77958f07a09e3863c1b45e8e79a9179b0]{
 -- Page 317, Offset 6436.
@@ -253,14 +253,14 @@ Usando un término humano, estoy aguantando como puedo, o algo así."
 [sha:9a410e3338cdd72d32cd258ed9175b05a7308305]{
 -- Page 318, Offset 6438.
 -- そ、そうなのか。とてもそうは見えないけど、そうなんだ。
-¿E-Es así?
- A mi de veras no me lo parece, pero supongo que tendré que tomar su palabra.
+¿S-Sí?
+ A mi de veras no me lo parece, pero supongo que tendré que fiarme.
 }
 [sha:7555cacf12593cb5b49e12d0ee8602111978050b]{
 -- Page 318, Offset 6439.
 -- さっきみたいな<暴力|デタラメ>が無尽蔵ではなく、きちんと底のある行為であった事に安心する。
 Me alivia saber que su poder ridículo de antes no es infinito,
- y que hay de hecho un límite en lo que puede hacer.
+ y que de hecho hay un límite a lo que ella puede hacer.
 }
 [sha:d9265d2c8db0e3039b4dfb7e23ecc4f6611b118a]{
 -- Page 318, Offset 6440.
@@ -270,16 +270,16 @@ Espera un momento, ¡ahora mismo no debería estar pensando en esto!
 [sha:41112af0aa75bbfab401af486fc60128aacb786c]{
 -- Page 319, Offset 6441.
 -- 「精一杯、とか言われても、困る。……そりゃあ、できる事なら何でもする。
-"Oírte decir que estás aguantando como puedes me molesta...
+"Me incomoda oírte decir que estás aguantando como puedes...
  supongo que si puedo hacer algo para ayudarte, lo haré.
 }
 [sha:e44a2cfe9e157f68240da8d346e0935d8a06ee51]{
 -- Page 319, Offset 6442.
 -- でも無理だ。無理だろ、どう考えても。俺にはあんなのを追い払う力はない。悪いけど、盾にだってなれはしない」
-¿Pero qué puedo hacer %{i}yo%{/i}?
- Me estoy estrujando el cerebro, pero estoy totalmente fuera de lugar.
- No soy lo suficientemente fuerte para ahuyentar algo así.
- Lo siento, pero no hay forma de que sea tu escudo."
+Pero es imposible.
+ Imposible, lo mires por donde lo mires.
+ No tengo la fuerza para ahuyentar algo así.
+ Lo siento, pero ni siquiera puedo servirte de escudo."
 }
 [sha:487c0693f07375b478610a6fc4814f7318cf353f]{
 -- Page 320, Offset 6443.
@@ -289,7 +289,7 @@ Espera un momento, ¡ahora mismo no debería estar pensando en esto!
 [sha:7b333c43ee54ad277403bcdcc0000b93e06730c0]{
 -- Page 320, Offset 6444.
 -- そのあなたが、どうしてそんな嘘を言うの？」
-¿Por qué sueltas esas mentiras siendo capaz de hacer algo así?"
+¿Por qué mientes de esa forma cuando eres capaz de hacer algo así?"
 }
 [sha:77a113a1d394e7003827d497e97be7c6a2c14b05]{
 -- Page 321, Offset 6445.
@@ -299,12 +299,12 @@ Espera un momento, ¡ahora mismo no debería estar pensando en esto!
 [sha:494f588fa7525c6c3e29070bc2bd66b2aa55cf36]{
 -- Page 321, Offset 6446.
 -- 自分でも、自分が分かっていなかった時の話じゃないか。
-En ese momento ni siquiera sabía lo que estaba haciendo.
+En ese momento ni siquiera sabía lo que hacía.
 }
 [sha:6bb47f5bf19b69510f06ccfaa1e8e1d75dc397ea]{
 -- Page 321, Offset 6447.
 -- 役に立てるなら俺だって役に立ちたい。
-Si puedo ser de utilidad, haré lo que pueda para ayudar.
+Si puedo ser de utilidad, haré lo que pueda por ayudar.
 }
 [sha:cb9131de8cf6e28b222ac04c8a7909c2d38f0392]{
 -- Page 321, Offset 6448.
@@ -324,19 +324,19 @@ Pero aquí el estándar de ser útil es mucho más alto de lo normal.
 [sha:6a69f2af7d967d5f0c56c79afad25782361692b4]{
 -- Page 322, Offset 6451. Glued.
 -- ならわたしが眠っているあいだ、まわりを見張ってくれるだけでいい。
-Bien entonces, ¿qué tal si me echas un vistazo mientras duermo?
+Bien entonces, ¿qué tal si vigilas mientras duermo?
 }
 [sha:a15369d71ffa772f5bad928e4c4264d6f1b7b749]{
 -- Page 322, Offset 6452.
 -- それくらいなら問題ないでしょう？」
-Deberías al menos ser capaz de lidiar con eso, ¿cierto?"
+Al menos deberías ser capaz de lidiar con eso, ¿verdad?"
 }
 [sha:4d57540ee9a766bad8ca0b99d528bcc4fe89e6f5]{
 -- Page 323, Offset 6453.
 -- ……その目をされると、なぜか弱い。
 No sé como podría decir que no a esa mirada...
 }
-[sha:0e3622bb01b88569f9bede81d1180000a3a276b2]{
+[offset:6454]{
 -- Page 323, Offset 6454. Mods: @k, @e.
 -- 俺は―――
 Yo―――

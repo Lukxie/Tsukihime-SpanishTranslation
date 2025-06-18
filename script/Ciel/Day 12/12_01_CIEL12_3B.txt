@@ -208,7 +208,7 @@
 -- 有彦は呆れたような目で俺と、さらにシエル先輩まで一瞥する。
 -- TRANSLATION HERE
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:31144]{
 -- Page 109, Offset 31144.
 -- 「？」
 "Hm?"
@@ -248,10 +248,10 @@
 -- シエル先輩の疑問に、自分なりに答えてみる。
 -- TRANSLATION HERE
 }
-[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
+[offset:31152]{
 -- Page 112, Offset 31152.
 -- と。
-Y entonces―――
+-- TRANSLATION HERE
 }
 [sha:b4fd56ea6f50d09cea213c926373db990e69f121]{
 -- Page 112, Offset 31153.
@@ -293,10 +293,10 @@ Y entonces―――
 -- 企みたいが、その―――
 -- TRANSLATION HERE
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:31161]{
 -- Page 115, Offset 31161.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:c0d6b0fb988383a07444ff5969f3e5d80c83041f]{
 -- Page 115, Offset 31162.

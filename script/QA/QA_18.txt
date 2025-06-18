@@ -1,7 +1,7 @@
 [sha:2e02695cc2a210a68c35dbb8c0544d9263a60129]{
 -- Page 10000, Offset 43521. Mods: @n.
 -- こんにちは。
-Buenas tardes.
+-- TRANSLATION HERE
 }
 [sha:6cbc8f9a307e7ea993447bfedd7fc2e97415c2b6]{
 -- Page 10000, Offset 43522.
@@ -21,7 +21,7 @@ Buenas tardes.
 [sha:5a1ae1fa6d39c9839073c3a252df90012fcd7d70]{
 -- Page 114, Offset 43525. Mods: @n.
 -- 『教えて！　シエル先生』の時間です。
-Es hora de, '¡Enséñame, Ciel-Sensei!'.%{n}
+-- TRANSLATION HERE
 }
 [sha:fd687a1c4260e7ef968d74c482e77a1ff225ed40]{
 -- Page 114, Offset 43526.

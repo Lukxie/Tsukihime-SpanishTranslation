@@ -26,8 +26,8 @@ Me preocupaba que te fuera incómodo pasar la noche en una mansión desconocida.
 [sha:33ccf3ba9fe0f694b2fb6923f4d2907177702ff1]{
 -- Page 47, Offset 4059.
 -- 「大丈夫、天井の高さに落ち着かなかったくらいで、あとはぜんぜん。昔はここに住んでいたんだし、今はちゃんと気を配ってくれる琥珀さんがいますしね」
-"Para nada, me ha costado un poco acostumbrarme a que el techo esté tan alto, pero todo bien despues de eso.
- Después de todo solía vivir aquí, y además ahora te tengo aquí para cuidarme."
+"Para nada, me ha costado un poco acostumbrarme a que el techo esté tan alto, pero a parte de eso todo bien.
+ Antes solía vivir aquí, y además ahora te tengo aquí para cuidarme."
 }
 [sha:76379e44f110dfc6ff7935784d27125c653b56a4]{
 -- Page 47, Offset 4060.
@@ -47,14 +47,14 @@ Kohaku-san y yo intercambiamos palabras amistosas.
 [sha:371a0163cc7e845cc826f5de50be1d03609942a0]{
 -- Page 48, Offset 4063.
 -- わずか数日で俺は琥珀さんと打ち解けてしまっている。
-Solo han sido unos pocos días, pero tengo la sensación de que he llegado a conocerla bastante bien.
+Solo han pasado unos pocos días, pero tengo la sensación de que he llegado a conocerla bastante bien.
 }
 [sha:befefc2abdd6cf3170073aaf81c41fb0e9ed6122]{
 -- Page 48, Offset 4064.
 -- 俺がコミュニケーション上手なのではなく、琥珀さんの笑顔の力だろう。
-No es que tenga don de gentes ni nada de eso. ¿Quizá es el poder de su sonrisa?
+No es que tenga don de gentes ni nada de eso. ¿Quizá sea el poder de su sonrisa?
 }
-[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+[offset:4065]{
 -- Page 48, Offset 4065.
 -- ―――と。
 ―――Pero entonces
@@ -62,7 +62,7 @@ No es que tenga don de gentes ni nada de eso. ¿Quizá es el poder de su sonrisa
 [sha:d22dde2428c0c29d6dbb4145119b8d606d5753ac]{
 -- Page 49, Offset 4066.
 -- さっきから無言でこっちを見つめている、もう一つの視線に気がついた。
-Me doy cuenta de que otro par de ojos me ha estado mirando fijamente todo este tiempo.
+Me doy cuenta de otro par de ojos que me ha estado mirando fijamente todo este tiempo.
 }
 [sha:01cf2ae95a484491b8c503851c85aaa46d6994a5]{
 -- Page 49, Offset 4067. Mods: @k, @e.
@@ -77,7 +77,7 @@ Hola."
 [sha:30b7379508207355078e056fb768074904ad40ed]{
 -- Page 49, Offset 4069.
 -- 軽く手をあげて挨拶をする。
-Saludo con la mano casualmente mientras digo hola.
+Digo hola mientras saludo casualmente con la mano.
 }
 [sha:55d355bfc93e587e16e8e0b78b70c84afba5bee2]{
 -- Page 49, Offset 4070.
@@ -113,7 +113,7 @@ Contesto inmediatamente, sin pestañear siquiera.
 [sha:1f4af1e549d556364e248009bbe7c29ddd866606]{
 -- Page 52, Offset 4076.
 -- 「あら、無理に挨拶をしてくれなくてもいいのに。
-"Oh, no tienes que forzarte a saludarme.
+"Oh, no te tienes que forzar a saludarme.
 }
 [sha:5e16555a147621ba4aaff7fd00045b4bb18c8047]{
 -- Page 52, Offset 4077.
@@ -129,17 +129,17 @@ Ah, como os lleváis tan bien, ¿te gustaría ser su ayudante? No me importaría
 [sha:56bc3bd6133ab372b3dd78323c11a901fb195031]{
 -- Page 53, Offset 4079.
 -- 「……朝から全開だなおまえ」
-"A tope a primera hora de la mañana, ¿eh?"
+"A tope desde primera hora de la mañana, ¿eh?"
 }
 [sha:1c79225e0fa222e8320b30c53d9ea6dbca35957f]{
 -- Page 53, Offset 4080.
 -- この妹の<棘|パワー>がすごい。
-Los comentarios mordaces de mi hermana son tremendos realmente.
+Mi hermana y sus comentarios mordaces son tremendos la verdad.
 }
 [sha:372d8be27f1dfec52f62d3d0ebc1daaea461ed0c]{
 -- Page 53, Offset 4081.
 -- 兄貴として、まずは妹に声をかけるのが筋だったか……。
-Supongo que como su hermano, debería haberla saludado a ella antes...
+Supongo que como hermano, debería haberle saludado primero a ella...
 }
 [sha:b6f2c7f8f9dfb6b96e5a2c4fafe9fdc09ed56424]{
 -- Page 54, Offset 4082.
@@ -176,13 +176,13 @@ Parece que llevaba todo este tiempo enfadada porque llegaba tarde.
 -- Page 57, Offset 4088.
 -- 「だめよ琥珀。もうこんな時間なんだから、兄さんに朝食を摂る時間はありません。学校に遅刻してしまいます」
 "Me temo que eso no puede ser, Kohaku.
- Mira que tarde es――Nii-san no tiene tiempo que perder en el desayuno.
+ Mira lo tarde que es――Nii-san no tiene tiempo que perder en el desayuno.
  Llegará tarde a la escuela."
 }
 [sha:dd4a86d27a45c6837381c3f1dfd6eb258de47ac4]{
 -- Page 58, Offset 4089.
 -- 「いやいやいや。まだ７時を過ぎたばかりなんだから、それぐらいの時間はあるだろ。
-"No, no, no. Acaban de ser las siete, tengo tiempo suficiente."
+"No, no, no. Son poco más de las siete, tengo tiempo suficiente.
 }
 [sha:4f853c41e112e84ddc27fe44bf4f6bfb449c100a]{
 -- Page 58, Offset 4090.
@@ -192,7 +192,7 @@ Desde aquí solo tardo media hora en llegar a la escuela."
 [sha:6b5e4b4ada77d130b063774ba64783b504dbbae4]{
 -- Page 58, Offset 4091.
 -- 「つまり朝食にかける時間は10分だけですか。おなかをすかせた犬じゃないんですから、朝食はゆっくり摂ってください」
-"En otras palabras, ¿poco menos de diez minutos para comerte el desayuno?
+"En otras palabras, ¿poco menos de diez minutos para desayunar?
  No eres un perro hambriento, deberías tomarte tu tiempo para comer."
 }
 [sha:0f31ad8df3861c54bf2764462e9c4cef2f6227c9]{
@@ -208,7 +208,7 @@ Señala mis errores con precisión quirúrgica... No tengo más remedio que reco
 [sha:920419fe3e8c3ef7fb5b28e84c669d20bfd083ea]{
 -- Page 59, Offset 4094.
 -- まるでテニスの練習でひたすらボールをはじき返す絶壁のようだ。なにが、とは言わないが。
-Es como una pared plana que devuelve la pelota durante la práctica de tenis. Aunque voy a decir que parte es la pared.
+Es como una pared plana que devuelve la pelota durante la práctica de tenis. Aunque no voy a decir que parte es la pared.
 }
 [sha:8c65cd76e7f5a297fa7716b634e6770d3adffa96]{
 -- Page 60, Offset 4095.
@@ -218,7 +218,7 @@ Es como una pared plana que devuelve la pelota durante la práctica de tenis. Au
 [sha:0672c14d8b297974a9008fa1b5cb2a1b63450663]{
 -- Page 60, Offset 4096.
 -- 何かいま、不審なことを言いかけましたか？」
-¿Estabas a punto de decir algo raro hace un momento?"
+¿Ibas a decir algo raro?"
 }
 [sha:0c026498790b21a3a5b761e629499ac363eb60a8]{
 -- Page 60, Offset 4097.
@@ -228,15 +228,15 @@ Es como una pared plana que devuelve la pelota durante la práctica de tenis. Au
 [sha:5e7f5011d7c3e594a7a76a1dcf0b6c73305696f1]{
 -- Page 60, Offset 4098.
 -- それより犬じゃないんですからって、秋葉―――」
-Además, a que te referías con 'perro hambriento', Akiha―――"
+Además, a que te refieres con 'perro hambriento', Akiha―――"
 }
 [sha:25b9819473d07f900de2b1106f4e8f46a5147572]{
 -- Page 61, Offset 4099.
 -- と、思い出した。
-En realidad, eso me recuerda.
+De hecho, eso me recuerda.
 }
-[sha:897e9721d3c330f416378ae69e197becb1f6b65b]{
+[offset:4100]{
 -- Page 61, Offset 4100.
 -- 犬と言えば昨夜の出来事について確認しないと。
-Que hablando de perros, tengo que preguntar sobre lo que pasó anoche.
+Hablando de perros, tengo que preguntar sobre lo que pasó anoche.
 }

@@ -42,7 +42,7 @@ Ya no puedo dar la vuelta. Todo este tiempo y distancia ahora me separan de la f
 [sha:d4999d240527f5777b2549cf8f28d37480f32577]{
 -- Page 3, Offset 1154.
 -- それをどう受け入れるのかで、人間としての情の深さが計れるのかもしれない。
-// Quizá suene mejor de otra forma
+//Quizá suene mejor de otra forma
 Cómo lo acepte puede servir como medida de mi compasión humana.
 }
 [sha:80e1d966ff7bc4d14edab054475826fd52d83f75]{
@@ -58,7 +58,7 @@ A pesar de la distancia física, ¿sigo pensando que están cerca?
 [sha:d7c3428e5e6085fbc475122257e551a74caca677]{
 -- Page 5, Offset 1157.
 -- 自分はどちらだろうと考える。
-Me pregunto cuál de estos sentimientos me corresponden.
+Me pregunto cuál de estos sentimientos me corresponde.
 }
 [sha:c1b24a9e3bfe0c02e568a8bdf576cc907fe26ae4]{
 -- Page 5, Offset 1158.
@@ -143,13 +143,13 @@ Quería quedarme el mayor tiempo posible en la casa en la que estuve viviendo ha
 -- それは本家の決定とはいえ、まったく繋がりのない自分を家族として迎え入れてくれた<有間|ありま>の人々への、自分なりの礼節だった。
 Esta era mi manera de demostrar mi respeto a los Arimas.
  Quizá solo fuera por orden de la de la casa principal,
- pero aunque no tuviera relación con ellos en absoluto,
+ pero aunque no tuviera en absoluto relación con ellos,
  me acogieron como uno de los suyos.
 }
 [sha:d70fc8d6a77f032b2c10b563de4a4a341197d5c6]{
 -- Page 12, Offset 1174.
 -- “ごちそうさまでした。今朝もおいしかったです”
-'Gracias por la comida. El desayuno de hoy estaba delicioso, como siempre.'
+Gracias por la comida. Como siempre, el desayuno de hoy estaba delicioso.'
 }
 [sha:003994811d67f296d8f505821a9c8d66af59f7dd]{
 -- Page 12, Offset 1175.
@@ -161,14 +161,14 @@ Antes de que saliese el sol había terminado mi desayuno,
 [sha:93a3ea8f7984c491207fd971d00768f35892dac9]{
 -- Page 13, Offset 1176.
 -- 長年の感謝にしては味気ないものだったが、気持ちを残してはそれこそ未練になる。
-Era una forma mínima de expresar mi gratitud por todos los años que pasé allí,
+Fue una pobre forma de expresar mi gratitud por todos los años que pasé allí,
  pero si no me desahogaba en ese momento,
  aquellos sentimientos habrían permanecido en mi corazón mucho después de haberme marchado.
 }
 [sha:46323c93081ce8900f15793cc1d8e067fec1a86a]{
 -- Page 13, Offset 1177.
 -- ここでの生活は明るい事ばかりだった。持っていく荷物はそれだけで十分だ。
-La vida con ellos no era sino alegre. Y eso es todo lo que necesito recordar.
+La vida con ellos no fue más que alegre. Y eso es todo lo que necesito recordar.
 }
 [sha:fac302c402fad404f17075a922bf7c5a28cd113c]{
 -- Page 14, Offset 1178. Mods: @n.
@@ -231,7 +231,7 @@ Quizá no lo parezca pero, mi cuerpo es bastante resistente sabes.'
 -- Page 17, Offset 1189.
 -- 遠野の人たちは特別な人ばかりだけど、物怖じしないのがあなたですものね。子供のころからずっと、こっちがびっくりするぐらい動じない子だったわ”
 La familia Tohno está llena de gente especial, pero tu falta de miedo es algo que es único en ti.
- Tu habilidad para tomarte las cosas con calma, incluso desde niño, siempre me ha impresionado.
+ Tu habilidad para tomarte las cosas con calma, incluso desde niño, siempre me ha impresionado.'
 }
 [sha:c733471d7c01522bca8816da35c833526c8d84eb]{
 -- Page 18, Offset 1190.
@@ -247,7 +247,7 @@ Me hacía feliz que en la mente de Keiko-san, aún fuera su hijo.
 [sha:525887f5a339434e2c8fb79848f834892c129c29]{
 -- Page 19, Offset 1192.
 -- “それは買いかぶりすぎです。
-'Me estás sobreestimando
+Me estás sobreestimando
 }
 [sha:5a72af7c1339b6647425347b1846e273e53ad7fa]{
 -- Page 19, Offset 1193.
@@ -282,7 +282,7 @@ Fue un punto de inflexión en mi vida.
 [sha:477f9b8e676201534885735fa8410e147b4dba27]{
 -- Page 20, Offset 1199.
 -- 遠野志貴という人間の、これまでの人生の終わりだった。
-Es el comienzo de una nueva vida, y el final de la antigua de Tohno Shiki.
+El comienzo de la nueva vida de Tohno Shiki, y el final de la antigua.
 }
 [sha:0d1a5eacc107d406f1d1db18cc5f707cb135931d]{
 -- Page 21, Offset 1200.
@@ -297,7 +297,7 @@ Debimos pasar por Yashirogi, un barrio al otro lado del río, y entrado en el á
 [sha:16804a1cca89d68de9ccf19feb62d20d8e4d49d6]{
 -- Page 22, Offset 1202.
 -- 路線は再び地上に向かっていく。
-El tren comienza a subir, hacia la superficie.
+El tren comienza a subir hacia la superficie.
 }
 [sha:fd9d45178910588d498a428406427a6a43994dc6]{
 -- Page 22, Offset 1203.
@@ -307,7 +307,7 @@ Siento como poco a poco asciende la cuesta.
 [sha:7afd98650c4b063213cde888cb2600fde0a28fee]{
 -- Page 22, Offset 1204.
 -- 人工の明かりに慣れきった眼に、覚めるような陽が差しこんだ。
-// No se si rejuvenecen es la palabra adecuada aquí
+//No se si rejuvenecen es la palabra adecuada aquí
 Mis ojos, que se habían acostumbrado a la luz artificial, se adaptan a la luz del sol.
 }
 [sha:aab045851fe48fe7b18b247ed5248543c9ad4849]{
@@ -328,7 +328,7 @@ Fuera, el aire se está volviendo frío.
 [sha:bbfbe22578bac6e540429d97af04da0ff0dd8160]{
 -- Page 23, Offset 1208.
 -- 夏の面影が消え去った十月の、秋の朝そのものだ。
-Es una mañana de otoño en Octubre, momento en el que todas los vestigios del verano han desaparecido.
+Es una mañana de otoño en octubre, momento en el que todas los vestigios del verano han desaparecido.
 }
 [sha:7d507700f7e1913f89effabe19145ff6251c4918]{
 -- Page 24, Offset 1209.
@@ -353,7 +353,7 @@ Cuando tenía diez años, me recuperé de un grave accidente que debería haberm
 [sha:c77aabc99bc6045ca8f28d6a371e1aa1c5a24404]{
 -- Page 25, Offset 1213.
 -- 先生に出会って、
-Conocí a Sensei
+Conocí a Sensei.
 }
 [sha:1dff8a538a73f6d0f9264b3335551ecfaec04b0e]{
 -- Page 25, Offset 1214.
@@ -412,7 +412,7 @@ Me impresiona las cosas que podía aguantar de niño.
 [sha:74ab9917d11f1904f8d09e6b1800e3561591281d]{
 -- Page 28, Offset 1224.
 -- あんな時代錯誤な生活に戻されるかと思うだけで、悩みはなくとも気後れしてしまうというものだ。
-Aunque no me me preocupa,
+Aunque no me preocupa,
  la mera idea de verme obligado a volver a un estilo de vida tan anacrónico me hace sentirme un poco abrumado.
 }
 [sha:00e4c16dd28c65fde5b1fcd9fca805c4250a4b30]{
@@ -453,12 +453,12 @@ Oigo un anuncio familiar.
 [sha:cb7a006726bd42d9e58714376385d72f61427aaa]{
 -- Page 31, Offset 1232.
 -- 空圧で閉まる自動ドア。
-Las puertas automáticas comienzan a cerrarse con un siseo
+Las puertas automáticas comienzan a cerrarse con un siseo.
 }
 [sha:e706674c916b39926293db1d8a1b4ebd1c5a4381]{
 -- Page 31, Offset 1233.
 -- 高校のある<総耶|そうや>駅まであと四駅と確認して、
-Solo quedan cuatro paradas hasta la estación de Souya, donde se encuentra mi instituto
+Solo quedan cuatro paradas hasta la estación de Souya, donde se encuentra mi instituto.
 }
 [sha:eef79e81ff455a3f45c74b6e039f09a5aaa4b93c]{
 -- Page 32, Offset 1234.
@@ -538,7 +538,7 @@ Siento que hayas tenido que ver así a tu senpai.
 [sha:b6427c01fa14beeabf2c10215fae6ddc043ca355]{
 -- Page 37, Offset 1249.
 -- でも、朝は弱いって話、ホントなんですね」
-Aun así, parece que tenían razón cuando decían que no eres una persona madrugadora."
+Aun así, parece que tenían razón cuando decían que no eres una persona mañanera."
 }
 [sha:b39990d4a0c0a6c8ceb1f4c9583edc95f4efed23]{
 -- Page 38, Offset 1250.
@@ -558,7 +558,7 @@ Mientras sigo sentado, sorprendido por su comportamiento, ella continúa:
 [sha:7a3e8a5f20502db69ac8a24a17060b82fd323d18]{
 -- Page 40, Offset 1253.
 -- 「あれ……シエル先輩……？」
-"Uh... Ciel-senpai...?"
+"Uh... ¿Ciel-senpai...?"
 }
 [sha:5ace112549391aa8adc2d6a8fc5f2d8ebc24fd8e]{
 -- Page 40, Offset 1254.
@@ -573,7 +573,7 @@ Por supuesto que me resulta familiar. La he visto varias veces en la escuela.
 [sha:04811f4944dd256035eb9e8a15216341ce882f4f]{
 -- Page 40, Offset 1256.
 -- というか、うちの生徒でシエル先輩を知らないヤツはいないだろう。
-Realmente, no hay nadie en la escuela que %{i}no%{/i} conozca a Ciel-senpai.
+En realidad, no hay nadie en la escuela que %{i}no%{/i} conozca a Ciel-senpai.
 }
 [sha:af66e0a0af0fe2e58ce1626b970ba11df6758046]{
 -- Page 41, Offset 1257.
@@ -593,13 +593,13 @@ Si hay alumnos de segundo perdidos, ella misma los guiará.
 [sha:f3b17e98561e568ce256613f46d8170835b68fd2]{
 -- Page 41, Offset 1260.
 -- 三年に困った生徒がいれば後輩いじめを止めさせる。
-// Uso kouhais porque underclassman y upperclassman son horribles de traducir me parece mejor usar kouhai y senpai
+//Uso kouhais porque underclassman y upperclassman son horribles de traducir me parece mejor usar kouhai y senpai
 Si hay estudiantes de tercer año molestando a otros, ella impedirá que acosen a sus kouhais.
 }
 [sha:6993f3fd6fb924601b05314974e6ce2c56018866]{
 -- Page 42, Offset 1261.
 -- 教師たちや生徒会より頼りになることから、真の生徒会長とまで呼ぶ生徒もいる。
-Ella es más fiable que los profesores y el consejo estudiantil.
+Es más fiable que los profesores y el consejo estudiantil.
  Tanto que, de hecho, algunos la llaman la %{i}verdadera%{/i} presidenta del consejo estudiantil.
 }
 [sha:509a1ebbb4df3fe5ee8f0ea1fc3d3e51f43c9801]{
@@ -615,9 +615,9 @@ Vaya... No me puedo creer que realmente haya olvidado todo eso.
 [sha:e7fa65f44f3e39f2d2dd39aa08472e9758cdb593]{
 -- Page 43, Offset 1264.
 -- 先輩の言う通り、朝に弱いことプラス、七年ぶりの帰宅で頭が曇っていたとしか思えない。
-Tiene razón sobre que no soy una persona madrugadora. No solo eso, pero es muy posible que mis pensamientos estén nublados por el hecho de volver a casa por primera vez en siete años.
+Tiene razón sobre que no soy una persona mañanera. No solo eso, pero es muy posible que mis pensamientos estén nublados por el hecho de volver a casa por primera vez en siete años.
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:1265]{
 -- Page 43, Offset 1265. Mods: @k, @e.
 -- 俺は、
 Yo...

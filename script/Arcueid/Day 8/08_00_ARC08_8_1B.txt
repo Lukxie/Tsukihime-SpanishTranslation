@@ -1,7 +1,6 @@
 [sha:ec0530b7dfc197f33324497c4a84cb2ab14154cb]{
 -- Page 10026, Offset 21140.
 -- 「……ふん。首筋に<唇痕|しんこん>なし。靴に染みこませた聖水にも拒絶反応なし。ついでに言うと、私好みのファニーフェイスにも変貌なし、か。
-// Funny face = careto? who knows, en la tl oficial dice que la cara no ha cambiado a una que le guste, lo que es completamente contradictorio a esta traducción.
 "%{i}Hmph%{/i}... No hay marcas de mordedura el cuello.
  Sin reacción ante el agua bendita en la que empapé estas botas.
  Y tampoco hay cambio en el careto que me gusta.
@@ -37,17 +36,17 @@ Me duele todo,
 -- Page 546, Offset 21146.
 -- 「……そうですか。そっちの横やりで落としたものですけど」
 "Ah sí.
- Aunque eres tu la que ha hecho que se caigan."
+ Aunque has sido tú la que ha hecho que se caigan."
 }
 [sha:514e4114d4443af814902d477bf49b1deb79b038]{
 -- Page 547, Offset 21147.
 -- ノエルから眼鏡を受け取って、かけ直す。
 Tomo las gafas de Noel y me las pongo.
 }
-[sha:11ea1ebdad61867797537439434201effb9d2ecd]{
+[offset:21148]{
 -- Page 547, Offset 21148.
 -- ……さて。
-Ahora pues...
+Bien, ahora...
 }
 [sha:f6aceed4faee7d6ddfa0bf48fd4882802314b62f]{
 -- Page 547, Offset 21149.
@@ -60,7 +59,7 @@ Ahora pues...
 "Bueno,
  estos son los tipos de peligros que acechan a los apuestos jóvenes que van solos por ahí.
  Solo intentaba darte una pequeña advertencia para asustarte,
- pero casi acabo haciendo lo que quería contigo."
+ pero casi acabo haciendo contigo lo que quería."
 }
 [sha:220fc4ff2308d5c641ea729be32c6910b333285c]{
 -- Page 548, Offset 21151.
@@ -107,7 +106,7 @@ Esto es mucho que asimilar.
 [sha:0e306b32bc5b6b0f0a21a888ea78bc3c47da259d]{
 -- Page 551, Offset 21159.
 -- 簡単に言うと、私は街を守る正義のお姉さん？　みたいな？
-En términos simples, ¿como un bombón que imparte justicia y protege la ciudad?
+En términos simples, soy como, ¿un bombón que imparte justicia y protege la ciudad?
  Algo así.
 }
 [sha:69a4a633eb50f663317c55f9de9097aca2d54362]{
@@ -139,7 +138,7 @@ Dejando a un lado la calidad de la explicación, lo que dice me suena de algo.
 [sha:2910cc7549526b9a3e0bf95f405450b33c03256d]{
 -- Page 553, Offset 21165.
 -- 志貴クンは無神論者でしょ？　だから実感は湧かないだろうけど、私たち教会は主の御名のもと、人の善き営みを守る意思がある。たとえそれが、こんな末法の国でもね」
-"Eres ateo, ¿verdad?
+Eres ateo, ¿verdad?
  Quizá no te des cuenta,
  pero los que pertenecemos a la Iglesia nos dedicamos a proteger a la humanidad en nombre de nuestro Señor.
  Incluso en un país en decadencia como este."
@@ -158,7 +157,7 @@ Una exorcista... ¿creo que eso significa alguien que expulsa demonios?
 [sha:8b0d2800c0fa8b02d83612efc19c356761d099a6]{
 -- Page 555, Offset 21168.
 -- 吸血鬼が悪魔なのかはさておき、この人の言葉に、今のところ嘘はないと思う。
-No se si los vampiros cuentan como demonios, pero no parece estar mintiendo.
+No sé si los vampiros cuentan como demonios, pero no parece estar mintiendo.
 }
 [sha:ee0729f00a90e93b3b1d5519c8445f282ab7ec67]{
 -- Page 556, Offset 21169.
@@ -170,7 +169,7 @@ No se si los vampiros cuentan como demonios, pero no parece estar mintiendo.
 [sha:3f0e3bb9cbd8c33ce1fdb8ad8d9644de79cdf35d]{
 -- Page 556, Offset 21170.
 -- 危ないところを助けてくれて、ありがとうございます」
-Gracias por rescatarme"
+Gracias por rescatarme."
 }
 [sha:c66926c1bede0dcdfa039e044d89cad933177e6f]{
 -- Page 557, Offset 21171.
@@ -198,7 +197,7 @@ Esta vez fue diferente.
 -- Page 558, Offset 21175.
 -- 私のお仕事は吸血鬼の殲滅だもの。その吸血鬼に従っている人間がいれば、監視するのが当たり前でしょ？」
 Mi trabajo es exterminar vampiros.
- Si hay un humano por ahí siguiendo sus órdenes de un vampiro
+ Si hay un humano por ahí siguiendo órdenes de un vampiro
  tiene sentido que quiera vigilarlo, ¿no?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -221,21 +220,20 @@ Pero se basa en una premisa defectuosa.
 -- 俺はアルクェイドに従っている訳じゃないし、そもそもあいつは善い吸血鬼だ。彼女と同じように、街を守るために吸血鬼を追っているのに―――
 No es como si siguiera sus órdenes a ciegas.
  Además, Arcueid es un vampiro bueno.
- Va trás otros vampiros para proteger la ciudad, como Noel―――
+ Va tras otros vampiros para proteger la ciudad, como Noel―――
 }
 [sha:7e6abc473580890d576a90594e96c4050a521788]{
 -- Page 560, Offset 21180.
 -- 「あの、それは」
-// Tl oficial
 "Em, sobre eso―――"
 }
 [sha:fb9c00666f954ae0169051058ea7eea32149201c]{
 -- Page 560, Offset 21181.
 -- 「ま、本当なら真っ先に吸血鬼の方から殺してるんだけど、相手はあの怪物でしょ？　私ひとりじゃ返り討ちだし、師匠は上司に飛ばされちゃったし。
-"Quiero decir, normalmente iría directamente a matar al vampiro,
+"A ver, normalmente iría directamente a matar al vampiro,
  pero estamos hablando de ese monstruo.
- Lamentablemente me destruiría si intentase enfrentarla sola,
- y mi jefe a echado a mi maestro.
+ Lamentablemente si intentase enfrentarla sola me destruiría,
+ y además mi jefe a echado a mi maestro.
 }
 [sha:0cb6279a0ef04fc585dbe0334317318cb6485967]{
 -- Page 560, Offset 21182.
@@ -245,7 +243,7 @@ Por tanto, me tuve que conformar con una presa más pequeña."
 [sha:ce13fb886b1431c25c08aa60ef383ae204e6230c]{
 -- Page 561, Offset 21183.
 -- 「……む。小さい獲物ってのは俺のコトですか？」
-"%{i}Mmph%{/i}... Cuando dices presa más pequeña, ¿te refieres a mi?"
+"%{i}Mmph%{/i}... Cuando dices presa más pequeña, ¿te refieres a mí?"
 }
 [sha:d585689edfc401b4a057b09289a5b9701f31ca9e]{
 -- Page 562, Offset 21184.
@@ -256,12 +254,12 @@ Por tanto, me tuve que conformar con una presa más pequeña."
 [sha:c54100486105b50e0445e41a653e68b32654eb7a]{
 -- Page 562, Offset 21185.
 -- ―――でも、なーんか様子がヘンだった。
-Aunque tengo que decir, estoy un poco confusa.
+Aunque tengo que decir, que estoy un poco confusa.
 }
 [sha:e194801bf29b1b44a504c62a66146d540455c495]{
 -- Page 562, Offset 21186.
 -- ここ数日キミを監視していたけど、むりやり従わされてる雰囲気じゃないし、血も吸われてないでしょう？　ねえ志貴クン？　あなた、なんであんな怪物と一緒にいるの？」
-Te llevo observando estos últimos dos días,
+Te llevo observando estos dos últimos días,
  no me da la sensación de que te estén forzando a obedecer,
  y tampoco te han chupado la sangre, ¿verdad?
  Ey, Shiki-kun.
@@ -281,7 +279,7 @@ Frunzo el ceño, y me muerdo la lengua.
 -- Page 563, Offset 21189.
 -- それはノエルの質問に気圧されてのものではなく、そんな質問をされること自体が、ひどく癪に障ったのだ。
 No es que la pregunta me intimide,
- mas bien es algo que me pone de mal humor.
+ más bien es algo que me pone de mal humor.
 }
 [sha:08c34c87f76cdf0d898bb2da7c18cba051f9aeea]{
 -- Page 564, Offset 21190.
@@ -353,14 +351,14 @@ No tengo intención de discutir con esta persona.
 -- Page 568, Offset 21202.
 -- それでも、俺とアルクェイドのコトをとやかく言われる気もない、と訴える。
 Pero aún así,
- dejo claro que no toleraré que nos siga difamando a Arcueid y a mi.
+ dejo claro que no toleraré que nos siga difamando a Arcueid y a mí.
 }
 [sha:8487a57d1a78aa3075c4f52a2af4b4d71a120498]{
 -- Page 569, Offset 21203.
 -- 「…………そ。キミが噛まれていたなら、そんな戯言と一緒に手足ブッた斬って置物にしてるところだけど。
 "Ya veo.
  Si te hubieran mordido,
- te habría arrancado miembro a miembro,
+ te habría arrancado uno por uno cada miembro,
  disecado, y colgado en la chimenea junto a las gilipolleces que acabas de decir.
 }
 [sha:4bea2e537bdcacdb3c22bc0fb3af44e3e6906205]{
@@ -382,7 +380,7 @@ Su actitud es implacable, pero parece que su hostilidad se ha desvanecido...
 [sha:fd487b1ebf8de7416364886e0e7a41ec18183256]{
 -- Page 571, Offset 21207.
 -- 「ああ、でも忠告。さっき、最初からキミを狙っていたと言ったけどね。あれ、もっと深い意味なの。
-"Ah, pero te advierto. He dicho antes que iba a por ti desde un principio. Y eso tiene un significado más profundo.
+"Ah, pero te advierto. Antes he dicho que iba a por ti desde un principio. Y eso tiene un significado más profundo.
 }
 [sha:5c3d5ae8bee13d3d8735f65d9d5869e2544b779c]{
 -- Page 571, Offset 21208.
@@ -404,7 +402,7 @@ De acuerdo a lo que dijo mi maestro,
 -- Page 572, Offset 21211.
 -- あんがい身近なところにいて、何十年も前から潜伏しているケースのが多いの。それも<街|・><で|・><い|・><ち|・><ば|・><ん|・><力|・><の|・><あ|・><る|・>、<権|・><力|・><者|・><の|・><家|・>にとかね」
 Hay múltiples casos en los que se estaban escondiendo inesperadamente cerca durante décadas.
- Sabes como %{i}en la casa de las familias con más poder en una ciudad%{/i}."
+ Sabes como %{i}en casa de las familias con más poder de una ciudad%{/i}."
 }
 [sha:d31ecf3be40943fde62dc6f88ee0c79938db10ba]{
 -- Page 573, Offset 21212.
@@ -430,7 +428,7 @@ Pero quizá sea mejor que abandones ese objetivo,
 [sha:a0c6c35e5b6d8bad9be95a8a1fdb236f09580515]{
 -- Page 574, Offset 21216.
 -- さっきの不死はキミを狙ってきたんですもの。吸血鬼を殺してまわる真祖じゃなくて、ただの人間であるキミをね」
-Ese Muerto Viviente de antes iba a por ti. No a por el Verdadero Ancestro que va por ahí matando vampiros, sino a por un humano normal como tú."
+El Muerto Viviente de antes iba a por ti. No a por el Verdadero Ancestro que va por ahí matando vampiros, sino a por un humano normal como tú."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 574, Offset 21217.
@@ -456,7 +454,7 @@ Mientras se va, mira hacia las farolas y dice―――
 [sha:ec83bec568ecb7177b38a99b106d7c1eef2af0ba]{
 -- Page 575, Offset 21221.
 -- “よし、格好よく跳んで帰ろう。あ、でも無理。
-Quedaría muy chulo salir volando. Ah, pero no puedo.
+ 'Quedaría muy chulo salir volando. Ah, pero no puedo.
 }
 [sha:3dc61d172d1e2504c8ed2602ad8b2302700ea872]{
 -- Page 575, Offset 21222.
@@ -467,8 +465,8 @@ No puedo saltar tan alto sin correr, ¿%{i}verdad%{/i}?
 [sha:6cc22d1501512ed4e925a80ac5c7d57f4d1815d7]{
 -- Page 575, Offset 21223.
 -- なんて気配をアリアリと見せて、大きな槍を携えたまま坂道を下っていった。
-Expresa sus pensamientos en alto para que los escuche,
- mientras desciende la cuesta con su enorme lanza en mano.
+Mientras desciende la cuesta con su enorme lanza en mano,
+ expresa sus pensamientos en alto para que los escuche.
 }
 [sha:bba53b2d653c0e798e826ae6d9eb7dd9368eb15b]{
 -- Page 576, Offset 21224.
@@ -516,7 +514,7 @@ No sé la razón,
 [sha:b565f5d839afe3c6210412ada82edcae7de3c1cc]{
 -- Page 578, Offset 21232.
 -- 緊張から解放されて、目眩がぶり返してきた。
-Al desaparecer la tensión el mareo vuelve vengativamente.
+Al desaparecer la tensión, el mareo vuelve vengativamente.
 }
 [sha:7dd6624273ee81003ed21c78937634569bd14f8f]{
 -- Page 578, Offset 21233.
@@ -547,18 +545,16 @@ Sin embargo, la puerta principal está sorprendentemente lejos.
 [sha:b6322d7446cf1f7e6d1f0976df4025853010500a]{
 -- Page 580, Offset 21238.
 -- 頭痛が薄れていく心地よさと、
-// Tl oficial
 Mientras mi dolor de cabeza comienza a desvanecerse―――
 }
 [sha:59f39dd9d378e8921ea06176a661a4106350b1de]{
 -- Page 580, Offset 21239.
 -- 全身が弛緩していくおぞましさ。
-// Tl oficial
 la tensión abandona el resto de mi cuerpo.
 }
 [sha:570cbe9f84f975ea96a93efa46605f91613f2b20]{
 -- Page 580, Offset 21240.
 -- 俺は塀に背中を預けたまま、うっすらと眠りに落ちていく自分自身を見つめていた―――
-Con mi espalda contra la pared,
- veo como lentamente me quedo dormido―――
+Con la espalda contra la pared,
+ veo lentamente como me quedo dormido―――
 }

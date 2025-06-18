@@ -68,10 +68,10 @@
 -- 出てきたヴローヴごと大聖堂をこの大きさまで圧縮して、中に飛びこんじゃったのよ！　それが一時間前の話！」
 -- TRANSLATION HERE
 }
-[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+[offset:12574]{
 -- Page 648, Offset 12574.
 -- 「―――！」
-"%{i}Hnh%{/i}!"
+-- TRANSLATION HERE
 }
 [sha:e919cbe6856b719a7098ca6c301fef01c9eeb8e5]{
 -- Page 648, Offset 12575.
@@ -248,7 +248,7 @@
 -- 極寒において人間は満足に活動できない。血液が凍る。細胞が壊死する。なにより脳が死滅する。人間は、吸血鬼と対峙するにはあまりにも弱すぎる。
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:12610]{
 -- Page 663, Offset 12610.
 -- 「……！」
 ¡Ah!

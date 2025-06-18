@@ -1,7 +1,7 @@
 [sha:096303238f638430e1c9bce935ec991784477d98]{
 -- Page 10010, Offset 9482.
 -- 「“ォ……ォオオオ……オオオオオ！”」
-"%{i}Aaagh%{/i}... %{i}AAAAAAAAGH%{/i}!"
+"¡%{i}Aaagh%{/i}... %{i}AAAAAAAAGH%{/i}!"
 }
 [sha:db022bd8b48ebcacbc14118d2bacbcf3c8cf1262]{
 -- Page 10010, Offset 9483.
@@ -16,7 +16,7 @@ Su agonía es ensordecedora.
 [sha:a7bfab1ffc0f7b6b77e4414b504d8228284a93c3]{
 -- Page 350, Offset 9485.
 -- 金属片をミキサーにいれたような衝突音。
-Es mismo sonido chirriante que el de trozos de metal pulverizandose en una licuadora.
+Es el mismo sonido chirriante que el de trozos de metal pulverizandose en una licuadora. 
 }
 [sha:6a6ad5eb8204d27c506095b1574327cf23fcf040]{
 -- Page 350, Offset 9486.
@@ -31,7 +31,7 @@ Incluso su progenie tiembla de miedo.
 [sha:a53fb8aabe3fb0a0316dd3b0dee875ca1ad22e89]{
 -- Page 351, Offset 9488.
 -- 「“アア―――アアァ、アアアアアア―――！”」
-"%{i}AaaaAAAaahhhgggghhhghghhhh%{/i}―――!"
+"¡%{i}AaaaAAAaahhhgggghhhghghhhh%{/i}―――!"
 }
 [sha:739ce32576281a8497e775ea14532a38b3b6e087]{
 -- Page 351, Offset 9489.
@@ -41,7 +41,7 @@ Se retuerce, sacude, y desahoga con sus alrededores, y aún así el dolor no des
 [sha:c468a9d542cde8ea1b23117bfb9a3b30df0eae92]{
 -- Page 352, Offset 9490.
 -- 指先からバリバリと皮膚が割れる。
-La piel de la punta de sus dedos está desgarrada.
+La piel en la punta de sus dedos se ha desgarrado.
 }
 [sha:635e98d51e75f4d3df1800a7d8fbf9247e284b02]{
 -- Page 352, Offset 9491.
@@ -54,12 +54,12 @@ Del núcleo de sus huesos rezuma ácido, derritiendo su cuerpo desde el interior
 Cada pocos minutos,
  su corazón se pudre,
  y cada vez que se regenera,
- el dolor reaparece con ello.
+ el dolor reaparece con ello .
 }
 [sha:5c50120b3adf10e7c32b16ea5f1926bddbc630b6]{
 -- Page 353, Offset 9493.
 -- 生きているかぎり終わらない拷問。
-Mientras siga viviendo, no puede escapar esta tortura
+Mientras siga viviendo, no puede escapar de esta tortura.
 }
 [sha:039750030f737b318645c976beb712fb4e167a92]{
 -- Page 353, Offset 9494.
@@ -79,22 +79,22 @@ Pero esa salvación se perdió hace mucho.
 [sha:21dae99291d01dd108efbdf18fb53273c5bb306a]{
 -- Page 354, Offset 9497.
 -- 死を手放したのは何の為か、覚えていない。
-Ya no recuerda por qué se separó de muerte.
+Ya no recuerda por qué renunció a la muerte.
 }
 [sha:e1d081d3b16ea6bbe375e3397260cda7e2823e38]{
 -- Page 354, Offset 9498.
 -- 死が遠のいたのは<何|い><時|つ>の頃か、覚えていない。
-Ni cuando la muerte se volvió tan distante.
+Ni cuando esta se volvió tan distante.
 }
 [sha:c0f43429a6ebe89fbc3e4ebcf679e85430e3d724]{
 -- Page 354, Offset 9499.
 -- ただ苦しい。寒い。痛い。熱い。怖い。
-Solo queda la agonía. Fría. Dolorosa. Caliente. Terrorífica.
+La agonía es lo único que queda. Fría. Dolorosa. Caliente. Terrorífica.
 }
 [sha:92a8a7276f32501c4eb9b61545fa83c81e4414a4]{
 -- Page 354, Offset 9500.
 -- 頭にあるのはケダモノじみた叫びだけだ。
-Su mente no está llena de otra cosa que esos rugidos bestiales.
+En su mente no hay más que esos rugidos bestiales.
 }
 [sha:a41665bb2047a3e702a69a033446a2a54830d197]{
 -- Page 355, Offset 9501.
@@ -104,7 +104,7 @@ Recuerda haber venido a esta tierra para perseguir algo, para matar.
 [sha:d4ba65db74685b2753fb2be03a29868352d8a4e6]{
 -- Page 355, Offset 9502.
 -- 己が領地に愛する<女|モノ>たちを残し、はるばる海を渡った。
-Dejó sus queridas <amantes|p e r t e n e n c i a s    > atrás en su territorio y cruzó el vasto océano.
+Dejó atrás en su territorio a sus queridas <amantes|p e r t e n e n c i a s    >  y cruzó el vasto océano.
 }
 [sha:692959d092a4ff05a446500afed3b220ca5e9f2a]{
 -- Page 355, Offset 9503.
@@ -114,12 +114,12 @@ Esta es su última oportunidad.
 [sha:314be29ba21d3c652a78a5479b3089bb74ca7f12]{
 -- Page 355, Offset 9504.
 -- すべてを取り戻す為の、最後の機会だと覚悟して。
-Está decidido a recuperar todo, sabiendo que este era el momento.
+Sabiendo que este era el momento, está decidido a recuperarlo todo.
 }
 [sha:205278afe9fc2a44bd1e7b79582d6e5c2b2854dc]{
 -- Page 356, Offset 9505.
 -- しかし、最後の機会とはどのような<刻限|リミット>だったか。
-Pero ¿qué exactamente ha hecho de esto su última oportunidad?
+Pero ¿qué fue exactamente lo que hizo de esto su última oportunidad?
 }
 [sha:36dcdce10d2cb2fb892f547e9ee152131f8d6e6b]{
 -- Page 356, Offset 9506.
@@ -141,7 +141,7 @@ Será su cuerpo,
 [sha:5b2b3c5099e835b06c47b84cd974e455a6c7fa81]{
 -- Page 357, Offset 9509.
 -- 思い出せない。既に多くを忘れてしまった。
-Ya no puede recordarlo. Ya ha olvidado mucho.
+No puede recordarlo. Ya ha olvidado demasiado.
 }
 [sha:beca648cedbbeb8c4b29384d066932be73e3fe2e]{
 -- Page 357, Offset 9510.
@@ -151,14 +151,14 @@ Pero si vino aquí con el objetivo de recuperar la cordura, entonces es demasiad
 [sha:6ea829cbc6481143ea7e6c37818d7ada38ae2703]{
 -- Page 357, Offset 9511.
 -- とうに正気は失った。いまさら<正|も><気|と>には戻れない。
-Perdió la cabeza hace mucho tiempo. Y ya no puede volver a ser lo que era.
+Hace mucho que perdió la cabeza. Ya no puede volver a ser lo que era.
 }
 [sha:d91ba70b2fb0c9fd5519b5dcd8e4016d99aa81a5]{
 -- Page 357, Offset 9512.
 -- 海を渡った時点で、溜め込んだ資産もその大半が流れ去った。もはや故郷には戻れない。この国を第二の領地にするしか生き続ける術はない。
 Cuando cruzó el océano, el agua se tragó la mayoría de su fortuna.
  Ya no puede volver a su tierra.
- Ya no tiene otra forma de sobrevivir más que reclamar esta tierra como suya.
+ No tiene otra forma de sobrevivir más que reclamar como suya esta tierra.
 }
 [sha:e1a28312113093210533ec4e0406107d0cb3ac1a]{
 -- Page 358, Offset 9513.
@@ -168,7 +168,7 @@ Cuando cruzó el océano, el agua se tragó la mayoría de su fortuna.
 [sha:6192c52d281c11a17f7e63da8d1eeac4758ab9dc]{
 -- Page 358, Offset 9514.
 -- どうでもいい。そんな経緯はどうでもいい。
-No importa. Nada que haya llevado a esto importa.
+No importa. Nada que le haya llevado a esto importa.
 }
 [sha:197ce2a63d20d677ad215c39e7ffc3fa46e95d8c]{
 -- Page 358, Offset 9515.
@@ -183,7 +183,7 @@ Su garganta congelada. Su piel seca. Y su alma famélica.
 [sha:757e81a5fafc437801517ac00d55c662e3ea98f6]{
 -- Page 359, Offset 9517.
 -- 一刻も早く温かい血が必要だった。
-Necesita sangre caliente lo antes posible.
+Necesita sangre caliente cuanto antes.
 }
 [sha:ef233ff52d880d004bf0f798af64e66acedeac82]{
 -- Page 359, Offset 9518.
@@ -234,7 +234,7 @@ Incluso cuando el hombre, cubierto en niebla azul, deambula por el cruce en rojo
 -- Page 361, Offset 9527.
 -- 引き連れてきた屍鬼たちが、これといった<諍|いさか>いもなく通行人たちの肩を掴み、押し倒し、グチャグチャと音を立てはじめた時も。
 Incluso cuando los Ghouls que le acompañaban agarran a los peatones del hombro,
- empujan al suelo,
+ los empujan al suelo,
  y el horrible sonido de su festín comienza a llenar el aire.
 }
 [sha:3a798d68e2634ebfdfb9c87c1f9f3ad9595eefde]{
@@ -245,7 +245,7 @@ Incluso cuando las personas levantan la voz en shock, nadie lo da todo por huir.
 [sha:086cd023df75a829d4624807a833dd22dd22b4f9]{
 -- Page 362, Offset 9529.
 -- それが他人事でなく自分にも降りかかっている異常だと、気が付いた時にはもう、彼等の退路は失われていた。
-Para cuando se dan cuenta de que esto no problema de otro――este espectáculo bizarro se les está viniendo encima――ya han perdido toda oportunidad de escapar.
+Para cuando se dan cuenta de que esto no es problema de otro――que este espectáculo bizarro se les está viniendo encima――ya han perdido toda oportunidad de escapar.
 }
 [sha:881de8ef524e8ce8d5d7799531a2bfc0b496b0b6]{
 -- Page 363, Offset 9530.
@@ -297,12 +297,12 @@ Empiezan a girar incómodamente.
 [sha:c82082b1c439123f41fa3fd271a5c543ea987dd4]{
 -- Page 365, Offset 9539.
 -- 「“なぜこの街は、これほどに明るい。
-"¿Por qué es esta ciudad... tan brillante?
+"¿Por qué esta ciudad es... tan brillante?
 }
 [sha:a1acf652920e6e0b381198bda8120aecb38115a7]{
 -- Page 365, Offset 9540.
 -- 汚物は<須|すべから>く隠すもの。
-La suciedad debe ser ocultada.
+La suciedad ha de ser ocultada.
 }
 [sha:e03479d6f6173efba0481853f132dcb3711e1b19]{
 -- Page 365, Offset 9541.
@@ -323,7 +323,7 @@ Normalmente los destriparía y absorbería con deleite, pero ese deseo no aparec
 -- Page 366, Offset 9544.
 -- たとえニンゲンで満ちていようと、これを肥沃な土地と言えるのか、と彼は吠えた。
 El hombre ruge.
- ¿Cómo se puede considerar esta una tierra fértil, incluso tan repleta de humanos como está?
+ ¿Cómo puede considerarse esta una tierra fértil, tan repleta de humanos como está?
 }
 [sha:d7691b5d93d11f6269b9be75a48c256671c98d6e]{
 -- Page 367, Offset 9545.
@@ -393,7 +393,7 @@ Maldice su mala suerte. Ni siquiera puede moverse sin bañarse en esta porquerí
 [sha:a689ba6f87192e70b2acf7f123badceb833f4e71]{
 -- Page 369, Offset 9558.
 -- 「“この輝きも、繁栄も、おれには無意味だ”」
-"Todo este brillo, esta prosperidad... no significa nada para mi."
+"Todo este brillo, esta prosperidad... no significa nada para mí."
 }
 [sha:c8a159f34aaeb5484b454df1a28df8c25c23cb5e]{
 -- Page 370, Offset 9559.
@@ -409,12 +409,12 @@ No puede recordar su objetivo final―――
 [sha:779d428683fb71c946f1eadf1b68b1a3bd216221]{
 -- Page 370, Offset 9561.
 -- 思い出すまでにやる事が一つできた。
-Pero hasta que pueda, solo hay una cosa que pueda hacer.
+Pero hasta que pueda, solo hay una cosa que puede hacer.
 }
 [sha:78bbfdc200859e3f4b33b8587094e633d3cb50b9]{
 -- Page 370, Offset 9562.
 -- こちらはこちらでやり甲斐のある仕事だと実感する。
-Se da cuenta después de todo su esfuerzo valió la pena.
+Se da cuenta que después de todo, su esfuerzo valió la pena.
 }
 [sha:92ee9e29463ac6d0af5d33aece103c278610452e]{
 -- Page 370, Offset 9563.
@@ -424,5 +424,5 @@ Pide sarcásticamente que los humanos mueran agonizando.
 [sha:688f68323bb05fef84352e745538bef898062e6f]{
 -- Page 370, Offset 9564.
 -- 肥え太った街には、無様な終わりが相応しい。
-Esta ciudad sebosa un final miserable.
+Esta ciudad sebosa merece un final miserable.
 }

@@ -51,7 +51,7 @@ Bienvenido a '¡Enséñame, Ciel-Sensei!'
 [sha:56cae7723494568cd797002ea242e9eeb2465d6f]{
 -- Page 73, Offset 42899. Mods: @n.
 -- プレイによってはここが初めての
-Dependiendo de como has jugado,%{n}
+Dependiendo de como hayas jugado,%{n}
 }
 [sha:07677610ff6b6b72710865ff4357577193a5fb5f]{
 -- Page 73, Offset 42900.
@@ -66,7 +66,7 @@ Esta, como decirlo, debía ser la%{n}la elección normal a tomar,
 [sha:e10ab1944502deeff2fc8eb3dc18d0a34df8e035]{
 -- Page 74, Offset 42902.
 -- 自然に選んでしまいますから、今回のは。
-o al menos, esta%{n}vez lo era.
+ o al menos, esta%{n}vez lo era.
 }
 [sha:9fffa4d28100a92efcbcb36da63e61a8a5644fad]{
 -- Page 75, Offset 42903. Mods: @n.
@@ -96,14 +96,12 @@ Piénsalo, frente a ti hay una mujer de belleza %{n}sin igual luchando.
 [sha:d182285082b34fdab61a1d33fcf4a3f6b14085a5]{
 -- Page 77, Offset 42908.
 -- いったい誰が冷静になれようか。ここで一句。
-// Frase o dicho no se xd
-¿Quién en su sano juicio podría%{n}mantener la calma? Hay una frase para esto.
+ ¿Quién en su sano juicio podría%{n}mantener la calma? Hay una frase para esto.
 }
 [sha:369b844b2c55baf482a87907747a5fb9590cfe2f]{
 -- Page 78, Offset 42909. Mods: @n.
 -- “火中の栗がピクニック。
-// Eh xd
-Sacar las castañas del fuego%{n}para el picnic de otro.%{n}
+ 'Sacar las castañas del fuego%{n}para el picnic de otro.%{n}
 }
 [sha:3217188f80fb5e42bcd02ed46084b3e7962932f4]{
 -- Page 78, Offset 42910.
@@ -123,7 +121,7 @@ Welcome, welcome, well-done.'
 [sha:5476eb2ea3644da3c7ec138a4b52ec061ae4954a]{
 -- Page 80, Offset 42913. Mods: @n.
 -- いえ、ぜんぜん意味が分からないので……
-No, no tengo ni idea de que hablas...%{n}
+No, no tengo ni idea de qué hablas...%{n}
 }
 [sha:22f24c1fc597d29d33abae3c1fde3cb201949ded]{
 -- Page 80, Offset 42914.
@@ -158,32 +156,32 @@ Gente a la que le gustaría poco hecho, o algo %{n}como el sashimi crudo,
 [sha:49fd64df9316896af07e71b3ee1c528a81e75abc]{
 -- Page 83, Offset 42920.
 -- たぶん秋葉さんではないでしょうか。
-sería alguien como Akiha-san,%{n}supongo.
+ sería alguien como%{n}Akiha-san, supongo.
 }
 [sha:6bcdb5332ce3534cba64c5f8143722a43cfecb28]{
 -- Page 84, Offset 42921. Mods: @n.
 -- ほら。日本の方って生きた魚を調理して
-Quiero decir, los japoneses son conocidos por preparar sashimi%{n}
+Quiero decir, los japoneses son conocidos por preparar%{n}sashimi
 }
 [sha:6ab25593bc7781b66a9fca885790687f4ee049b4]{
 -- Page 84, Offset 42922.
 -- 刺身にするんでしょう？　信じられないコトに。
-con pez crudo, ¿verdad? Es difícil de creer.
+ con pez crudo, ¿verdad? Es difícil de creer.
 }
 [sha:5cc919ae1b39cfa8765d6d19be07433ff496e6c1]{
 -- Page 85, Offset 42923.
 -- ばっか、魚は新鮮なほどうめぇつーの。
-Necia. El pescado es mejor cuanto más fresco es.
+Necia. El pescado cuanto más fresco mejor es.
 }
 [sha:3ea77624ebd07ed8856194a064fe3afd61cfb425]{
 -- Page 86, Offset 42924. Mods: @n.
 -- ウソだと思うニャら
-si no me crees,%{n}
+Si no me crees,%{n}
 }
 [sha:76f5afbc083cb1cc6cfd7333d9de237ef18d65ba]{
 -- Page 86, Offset 42925.
 -- 今度回らない寿司おごられてやんよ。
-Te invitaré a una ronda de sushi de primera%{n}la próxima vez.
+te invitaré a una ronda de sushi de primera%{n}la próxima vez.
 }
 [sha:2aea74fdea0c737e33d62aa8c34e9b46e4d4ca97]{
 -- Page 87, Offset 42926.
@@ -198,22 +196,22 @@ Bueno, tampoco es que lo coma
 [sha:84eb01e08feac5180a4e91b97e4f15f52d9955d2]{
 -- Page 88, Offset 42928.
 -- 食べているワケではありませんし……
-cada día...
+ cada día...
 }
 [sha:0b167a955c22faf7dfd17fd7f1633a09e5d6ec7d]{
 -- Page 89, Offset 42929.
 -- たまにはシーフードもアリですね……
-%{n}El marisco está bien a veces...
+%{n}El marisco a veces está bien...
 }
 [sha:9d4c703930264f9973c3d84e4cbff1523797d7b0]{
 -- Page 90, Offset 42930. Mods: @n.
 -- うむ、完全に食い違っている。
-Hmm. Parece que tenemos gustos completamente distintos.
+Hmm. Parece que tenemos gustos completamente distintos.%{n}
 }
 [sha:629c32dafc1302f54e3d453038726a5778c33e0f]{
 -- Page 90, Offset 42931.
 -- まあいいや、続けて続けて。夕食はその後にな。
-Bueno. Venga, espabila. Vamos a cenar tras%{n}esto.
+Bueno. Venga, espabila. Vamos a cenar tras esto.
 }
 [sha:337aaee317a2ad4fa3bfbde88d1562208134a05a]{
 -- Page 91, Offset 42932. Mods: @n.
@@ -223,17 +221,17 @@ C-Cierto, es verdad.
 [sha:1261a3060761d5e9a5e50dd23f676b298882f9b8]{
 -- Page 91, Offset 42933.
 -- 今は授業の最中でした。
-Seguimos%{n}en medio de la lección.
+ Seguimos%{n}en medio de la lección.
 }
 [sha:46670ef9e6d42c9cd99954ff795287d3b4e8c2a5]{
 -- Page 92, Offset 42934. Mods: @n.
 -- えー、とにかく、吸血鬼同士の戦いは
-Bueno, sobra decir que, una pelea entre%{n}
+Bueno, sobra decir que, una pelea entre
 }
 [sha:b07ab5bdd041a99e43855b34a1c0159a2cf98b24]{
 -- Page 92, Offset 42935.
 -- 危険ですので、遠くから冷静に見届けましょう。
-vampiros es extremadamente peligrosa, por lo que%{n}por favor mantén la calma e intenta observar desde una distancia segura.
+ vampiros es%{n}extremadamente peligrosa, por lo que por favor mantén%{n}la calma e intenta observar desde una distancia segura.
 }
 [sha:4780d350ea786615e61c58f8ca8eef7c9a4b6852]{
 -- Page 93, Offset 42936. Mods: @n.
@@ -243,7 +241,7 @@ No te preocupes. Estoy segura de que Tohno-kun tendrá su%{n}oportunidad de bril
 [sha:256fdc168e345c2e41974e552d3214300d903e42]{
 -- Page 93, Offset 42937.
 -- その時まで、体力を温存しておいてくださいね！
-¡Por lo que hasta entonces, asegurate de conservar tus%{n}energías!
+¡Por lo que hasta entonces, asegurate%{n}de conservar tus energías!
 }
 [sha:a7260f2ac914488f1415021c8d82dd8fa09660f7]{
 -- Page 94, Offset 42938. Mods: @n.

@@ -88,7 +88,7 @@
 -- 脇に抱えていた先輩を背負い直して、瓦礫の道を走る。
 -- TRANSLATION HERE
 }
-[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+[offset:35462]{
 -- Page 73, Offset 35462.
 -- 「……！」
 ¡Ah!
@@ -503,10 +503,10 @@
 -- こんな事で―――あの吸血鬼の魔眼なんかで倒れる訳がない。きっとすぐに目を覚まして、俺の前に現れてくれる。
 -- TRANSLATION HERE
 }
-[sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
+[offset:35545]{
 -- Page 100, Offset 35545. Mods: @n.
 -- だから。
-Es por eso que―――
+-- TRANSLATION HERE
 }
 [sha:2bf5c52362fe0ccb1b26da5ed2904f0ffb5d69b1]{
 -- Page 100, Offset 35546.

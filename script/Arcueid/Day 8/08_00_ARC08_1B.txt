@@ -27,7 +27,7 @@ Aunque, eso es solo si salgo de aquí con vida.
 [sha:edebc0d46be0a3335780c3bbecee04e7da23fcb8]{
 -- Page 25, Offset 19738.
 -- 俺は扉を開けたまま、中に一歩も踏み入れず、石像のように固まっている。
-Me quedo congelado como una estatua, con la mano aun en el pomo, incapaz de dar un paso más.
+Me quedo congelado como una estatua, con la mano aún en el pomo, incapaz de dar un paso más.
 }
 [sha:14d121abeb2c75734a684faa47a74e7aa23e08e7]{
 -- Page 26, Offset 19739.
@@ -43,7 +43,7 @@ Akiha está sentada en el sofá,
 [sha:59bdbd610c184096877da29ac72b31ef05d6483e]{
 -- Page 27, Offset 19741.
 -- 秋葉の後ろには琥珀さんが控えている。
-Kohaku-san está detrás suya como de costumbre.
+Kohaku-san está detrás de ella como de costumbre.
 }
 [sha:1562bee355dc268787b70e70f4dddea64ead665a]{
 -- Page 27, Offset 19742.
@@ -69,13 +69,13 @@ Pero hoy, es como si no estuviera aquí.
 -- Page 28, Offset 19746.
 -- 言うまでもなく、昨夜のアルクェイドについての説明義務を放棄しまくった結果だ。
 No hace falta decir que
- es por irme anoche sin explicar nada sobre Arcueid
- como me he ganado este trato.
+ la razón por la que me he ganado este trato
+ es por irme anoche sin explicar nada sobre Arcueid.
 }
 [sha:f29e77187b861f4df7be500d5a0e17b0b0354564]{
 -- Page 29, Offset 19747.
 -- 優雅に寛いでいるように見えるが、秋葉からにじみ出る圧力はハンパじゃない。
-Quizá parezca que Akiha esté relajada, pero la presión que emana no es ninguna broma.
+Quizá parezca que Akiha está relajada, pero la presión que emana no es ninguna broma.
 }
 [sha:a244b5620f8a3f673299cf23561e63f39b462a5d]{
 -- Page 29, Offset 19748.
@@ -100,13 +100,13 @@ La tensión en la sala es tan intensa que puedes palparla.
 [sha:6a7daf3ee9bd1e59948111a86adb8d5c496f2e12]{
 -- Page 30, Offset 19752.
 -- ……まあ、それもこの人だけには関係のない話っぽいけど。
-Bueno, al menos hay una persona a la que esto no le preocupa...
+Bueno, al menos hay una persona a la que el asunto ni le va ni le viene....
 }
 [sha:90ad057a3b3ccb7ed20a666da245659c78b8f9d9]{
 -- Page 31, Offset 19753.
 -- 「お、おはよう琥珀さん。お茶はまた、落ち着いた時に」
 "B-Buenos días, Kohaku-san.
- El té tendrá que esperar, a cuando se hayan calmado las cosas."
+ El té tendrá que esperar a cuando se hayan calmado las cosas."
 }
 [sha:d0c6833d20a80a2c643ced44b887dbbd98645eff]{
 -- Page 31, Offset 19754.
@@ -116,32 +116,32 @@ Le devuelvo el saludo a Kohaku-san y entro en la sala de estar.
 [sha:049107b713839aac1d346b1cc6820f51b1301a7b]{
 -- Page 31, Offset 19755.
 -- テムテムと足音を忍ばせて歩く俺に、秋葉はじろりと流し目を向けてきた。
-Akiha me mira de reojo mientras entro tímidamente.
+Mientras entro sigilosamente Akiha me mira de reojo.
 }
 [sha:9013542359fa875b5cd877ad3f92ab199ff79e92]{
 -- Page 31, Offset 19756.
 -- 無言の圧力になんか負けないぞ。
-No voy a vacilar ante su presión silenciosa.
+No voy a ceder ante su presión silenciosa.
 }
 [sha:22200b84fe9e7cf3ba132de02b85180cda9bb5ca]{
 -- Page 32, Offset 19757.
 -- こういう時こそ人間力の真価が問われる。
 Momentos como este ponen a prueba el coraje de uno.
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:19758]{
 -- Page 32, Offset 19758.
 -- 俺は、
-Yo...
+Voy a...
 }
 [sha:d6ffb5473910527a98da707236fd04eab00ad3e8]{
 -- Page 34, Offset 42644. Choice.
 -- ひたすら陽気に挨拶をする。
-Saludarla enérgicamente.
+Saludar enérgicamente.
 }
 [sha:2827ce41682068065f6c2ff9eae3199367703ce4]{
 -- Page 34, Offset 42645. Choice.
 -- そろそろと挨拶をする。
-Decir hola de una vez por todas.
+Saludar cautelosamente.
 }
 [sha:8644d8104825f56e890829934d3932b063a18abf]{
 -- Page 34, Offset 42646. Choice.

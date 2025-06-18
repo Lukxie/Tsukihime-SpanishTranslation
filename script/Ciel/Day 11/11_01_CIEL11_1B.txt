@@ -6,8 +6,7 @@
 [sha:23d954335aa4ef59374de431d9cdac19c273939b]{
 -- Page 10001, Offset 29099.
 -- 手足がまだ重く、他人の体を着ているような感覚で坂道を下りていく。
-Bajando la cuesta
- mis extremidades siguen sintiéndose pesadas, como si estuviera en el cuerpo de otro.
+-- TRANSLATION HERE
 }
 [sha:6ccc5035404eb48f35627947fcec2f55b368e026]{
 -- Page 38, Offset 29100.
@@ -59,7 +58,7 @@ Bajando la cuesta
 -- 「うん。いつまでも休めないし、事件も途絶えたでしょう？　それでお父さんもしぶしぶな顔で、学校に行きなさいって」
 -- TRANSLATION HERE
 }
-[sha:5455b9118f9cc30ede4788c53015e0955bc1d679]{
+[offset:29110]{
 -- Page 42, Offset 29110.
 -- それは良かった。
 Está bien oir eso.

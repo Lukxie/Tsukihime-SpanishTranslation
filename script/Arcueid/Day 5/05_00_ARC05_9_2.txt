@@ -1,7 +1,7 @@
 [sha:fc5b764110de57749cb8c0d45273ecfaf0cd4ebe]{
 -- Page 10021, Offset 10383.
 -- 滑走だ。
-Tiene que ser despegando.
+Tiene que ser deslizándome.
 }
 [sha:eefe338a71ab6b56ff5e167521f134a9cd7de89c]{
 -- Page 10021, Offset 10384.
@@ -74,10 +74,10 @@ No podría dar ni un paso más.
 -- 近づくべき敵は50メートル先の彼方だ。
 El enemigo debe estar a unos cincuenta metros de mi.
 }
-[sha:10ded20c50d604ad45e86df0809c87281cea763e]{
+[offset:10397]{
 -- Page 647, Offset 10397.
 -- かまわない。
-Pero no me importa.
+Pero eso no importa.
 }
 [sha:ea47099af2f0c56397f00c0a890b5e6b3824a6d3]{
 -- Page 647, Offset 10398.
@@ -92,7 +92,7 @@ Después de todo, la distancia %{i}horizontal%{/i} no tiene lugar en este plan.
 [sha:3c83d06d727013ebc50e3c78b2c68fc901b5442a]{
 -- Page 648, Offset 10400.
 -- 「アレって何!?」
-"¡¿'Eso' que es?!"
+"¡¿Qué es 'eso'?!"
 }
 [sha:20ce2893eb28ee52ae0017fde9940c2a0895bccc]{
 -- Page 649, Offset 10401.
@@ -118,9 +118,9 @@ Tras un breve momento de perplejidad,
 [sha:614d985e1094203171e9dfd21a50123727cef943]{
 -- Page 650, Offset 10405.
 -- それでもいいのね？　もう逃げる事もできないわよ？」
-// Primera línea de la tl oficial
+//Primera línea de la tl oficial
 ¿Aún así quieres hacerlo?
- Tras esto escapar ya no sera una opcion, ¿sabes?"
+ Tras esto escapar ya no será una opción, ¿sabes?"
 }
 [sha:57bd3d7e425ee291fbc0626a1ad3f70e57209cff]{
 -- Page 651, Offset 10406.
@@ -130,20 +130,20 @@ No importa. Asiento.
 [sha:7674dde39c2f7eb46c69df8e3783f4f0785e9da0]{
 -- Page 651, Offset 10407.
 -- 声をだす体力もない。というかこいつ、まだそんな機会を見計らってたのか!?
-// Tl oficial
+//Tl oficial
 No puedo malgastar fuerzas hablando.
  Y un momento, ¡¿ha estado esperando a una oportunidad para escapar todo este tiempo?!
 }
 [sha:cf421bd519aa9c43d7ae4e73a371e520f7d54556]{
 -- Page 652, Offset 10408.
 -- 「あれ？　でもそれって、志貴は途中で落っこちない？
-// Tl oficial
-"Um pero... ¿no caerás a mitad de camino?
+//Tl oficial
+"Um pero... ¿no te caerás a mitad de camino?
 }
 [sha:c031523c722bcc758571535b74ace017d9a21e5b]{
 -- Page 652, Offset 10409.
 -- わたし、そのあたり加減できないよ？」
-// Tl ofical
+//Tl ofical
 No soy muy buena conteniéndome, sabes."
 }
 [sha:2725081cb1a3b3bdbeab7948d71956683182a5ad]{
@@ -157,15 +157,15 @@ No soy muy buena conteniéndome, sabes."
 Acabo gritando para hacer que me entienda.
  Aunque debería estar intentando recuperar el aliento.
 }
-[sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
+[offset:10412]{
 -- Page 653, Offset 10412.
 -- そこへ、
-Y con esa puesta en escena―――
+Y entonces―――
 }
-[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+[offset:10413]{
 -- Page 654, Offset 10413.
 -- 「っ―――！」
-"%{i}Kh%{/i}―――!"
+"¡%{i}Tch%{/i}!"
 }
 [sha:e1201e09bcd131d9b607ac385ad6408a56ff237c]{
 -- Page 654, Offset 10414.
@@ -181,7 +181,7 @@ Un aluvión de lanzas de hielo se nos viene encima.
 [sha:b85b28b82c39f8122cf929f130d340d0f1287d4c]{
 -- Page 655, Offset 10416.
 -- 「いいから全力で、手を抜かずやってくれ！　やりすぎてもいい！　おまえに殺されるなら、それはそれで本望だ！」
-// Ultima línea de la tl oficial.
+//Ultima línea de la tl oficial.
 "¡Solo hazlo, y no te contengas!
  ¡No me importa si te pasas!
  ¡Si voy a morir al menos que sea por tu mano!"

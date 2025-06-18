@@ -201,7 +201,7 @@
 [sha:f975852e29dce417d0ebcf5e92752c7c06bd8952]{
 -- Page 164, Offset 43619.
 -- それでは、今回はこのへんで！
-Bueno, ¡eso es todo por ahora!
+-- TRANSLATION HERE
 }
 [sha:b6bac88c2d32c9aa70fb3fe3268432b0d8c1c6b6]{
 -- Page 165, Offset 43620. Mods: @n.

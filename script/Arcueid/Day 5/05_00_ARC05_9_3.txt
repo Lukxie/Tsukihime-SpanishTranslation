@@ -1,7 +1,7 @@
 [sha:0f4785cc8f4604876fc93f876467784e8ab2292d]{
 -- Page 10027, Offset 10832.
 -- 牽引だ。
-Tiene que ser remolcado.
+Tiene que ser arrastrándolo.
 }
 [sha:19963c84a7d1600e8ead689845c9d2bba6ffbd73]{
 -- Page 10027, Offset 10833.
@@ -35,10 +35,10 @@ Corro hacia Arcueid.
 -- 背中で氷の砕ける音がする。
 Escucho el sonido del hielo rompiéndose detrás de mí.
 }
-[sha:272d90cda65a68017925f53eaa34662bd111d2ea]{
+[offset:10839]{
 -- Page 802, Offset 10839.
 -- アルクェイドが起こす爪の形をした風圧は、彼女の手が届く範囲だけでなく、この距離でも正確に発生するようだ。
-Supongo que las ondas con forma de garra de Arcueid no están limitadas al combate cuerpo a cuerpo――
+Supongo que sus garras de viento no están limitadas al combate cuerpo a cuerpo――
 también son precisas a distancia.
 }
 [sha:dc33a6b51aec617ec94fadbdd52d2277a2160164]{
@@ -84,7 +84,7 @@ Uf, ¡qué cerca ha estado!"
 [sha:881ac9909ef01dd9442f26624825e071d99caf77]{
 -- Page 805, Offset 10848.
 -- 「投げ縄の要領でなんとか！」
-"¡Sí, ya sabes, como un lazo lo que sea!"
+"¡Sí, ya sabes, como un lazo o lo que sea!"
 }
 [sha:cb8914450c9ac4945ae1dc37b48857e86867a095]{
 -- Page 805, Offset 10849.
@@ -95,7 +95,7 @@ Uf, ¡qué cerca ha estado!"
 -- Page 806, Offset 10850.
 -- こちらの必死さが伝わったのか、アルクェイドは訳が分からないながらもヴローヴに向けてその手をかざし、
 Debo haber transmitido mi desesperación porque,
- aun aparentemente desconcertada,
+ aún aparentemente desconcertada,
  Arcueid levanta su mano hacia Vlov―――
 }
 [sha:edc7c9aaecfbace90c44c3e035b5e6f3d0a6091b]{
@@ -121,7 +121,7 @@ Debo haber transmitido mi desesperación porque,
 [sha:36c49e1ca4559debce2bd8d2acc155a93b9c2fc1]{
 -- Page 809, Offset 10855.
 -- 瓦礫をあの勢いで投げつけられるアルクェイドなら、ヴローヴを高速で引っ張れる筈だ。
-Teniendo en cuenta como ha lanzado forzosamente los escombros,
+Teniendo en cuenta como ha lanzado forzosamente los escombros, 
  debería ser capaz de pescar a Vlov a gran velocidad.
 }
 [sha:171c4c75f2943ef3c4eeea138deb9cf2c86d8793]{
@@ -150,10 +150,10 @@ Es un tira y afloja entre dos vampiros.
 -- 力を弱めた方が相手の陣地に引き込まれ―――
 El que sea más débil de los dos perderá su posi―――
 }
-[sha:5d631305fe85b050fba007113d99888b063f126c]{
+[offset:10861]{
 -- Page 812, Offset 10861.
 -- 「―――え？」
-"―――¿Huh?"
+"―――¿Eh?"
 }
 [sha:b24dec695dbd81cb1d50e84f2cf6fb1d20e59410]{
 -- Page 812, Offset 10862.
@@ -174,13 +174,13 @@ Hemos perdido nuestra distancia de seguridad.
 [sha:02e32cef3e03a0ba3f548ee6d5ecf94f4e82b44a]{
 -- Page 813, Offset 10865.
 -- ヴローヴは近づかないのではなく、俺同様、近づく余力が無かっただけだ。
-No es que Vlov no %{i}quisiera%{/i}  acercarse.
- El, como yo, no tenía las fuerzas para hacerlo.
+No es que Vlov no %{i}quisiera%{/i} acercarse.
+ Él, como yo, no tenía las fuerzas para hacerlo.
 }
 [sha:54bfa73523fa85dc6b44ace59002f8df421a35e7]{
 -- Page 813, Offset 10866.
 -- だというのに、俺はヤツに追い風を与えてしまった。
-// Darle viento de cola no se si es demasiado literal
+//Darle viento de cola no se si es demasiado literal
 Pero entonces... voy y le doy alas.
 }
 [sha:fb46cf4014202dbf9eca78c840b52d228c00f2fa]{

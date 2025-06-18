@@ -6,12 +6,12 @@ Intentaré averiguar lo que hacen...
 [sha:a69d7e8a802039d1c74b6fddbb42d16209ff3b27]{
 -- Page 10007, Offset 19958.
 -- 目的が分からない以上、こっちも対応のしようがない。
-Tengo que saber que quieren para lidiar con ellos como es debido.
+Tengo que saber qué quieren para lidiar con ellos como es debido.
 }
 [sha:4f910da7ca0cc0cbafe43cb8604290fbedfca3c7]{
 -- Page 117, Offset 19959.
 -- 「……俺でよければ話ぐらいは聞きますけど。
-"No se si seré de mucha ayuda, pero al menos puedo escucharos...
+"No sé si seré de mucha ayuda, pero al menos puedo escucharos...
 }
 [sha:053d5cc19eea425624705736e61608498db67d50]{
 -- Page 117, Offset 19960.
@@ -102,7 +102,7 @@ De eso quería preguntar.
 -- Page 123, Offset 19974.
 -- 「え？　いや、妹さんに取り次いでくれないの？　ちゃんと身分と目的、話したよね？」
 "¿Eh? Espera, ¿puedes ponerme en contacto con tu hermana?
- Te he dicho quien soy y lo que busco, ¿verdad?"
+ Te he dicho quién soy y lo que busco, ¿verdad?"
 }
 [sha:af69eae24b552085138be0e7f774d567b81aae1a]{
 -- Page 124, Offset 19975.
@@ -135,7 +135,7 @@ No entiendo la situación del todo,
 [sha:da8cd878c9b5907a7d61c556abd64866ea3ff33e]{
 -- Page 126, Offset 19980.
 -- 「おい」
-"Ey."
+"Oye."
 }
 [sha:2f0449725758f4d8f7b25cd24e4b0f334f9dba73]{
 -- Page 126, Offset 19981.
@@ -151,13 +151,13 @@ Si hubiese sido la del Detective Ando entonces simplemente la habría ignorado,
 [sha:9f334bc060ef2e224d543d3b209ddcece0a68ba5]{
 -- Page 127, Offset 19983.
 -- 「正義漢も結構だが分を<弁|わきま>えな。人間らしい死に方をしたいんなら、このあたりが引き際だぜ」
-"Jugar al heroe está bien y todo eso, pero aprende tu puto lugar.
+"Jugar al héroe está bien y todo eso, pero aprende tu puto lugar.
  Si quieres morir como humano, es hora de que lo dejes."
 }
-[sha:f6dae3824038024fd8c24225ac2fecb1b6b8ff47]{
+[offset:19984]{
 -- Page 127, Offset 19984.
 -- 「……なんだって？」
-"¿Qué acabas de decir...?"
+"¿Qué has dicho...?"
 }
 [sha:225a2de8e1dcfca165f8e85835b09c3b57e10f18]{
 -- Page 127, Offset 19985.
@@ -183,7 +183,7 @@ Me paro en seco y miro al niño.
 [sha:9d1361cc64e171c9c26e4b2692527f99ada4bcf4]{
 -- Page 128, Offset 19989.
 -- オラ、帰るぞアンドー。いいかげん食事時だ、ケーキ食わせろ、ケーキ。チーズと蜂蜜たっぷりなヤツな！」
-Ey Ando, nos vamos. Vamos a comer maldita sea.
+Enga Ando, nos vamos. Vamos a comer maldita sea.
  Quiero tarta, ¿vale? ¡Tarta que tenga montones de queso y miel!"
 }
 [sha:5e5ca9d7c6b5db343bb51ca47b8c22805b93be9c]{
@@ -202,7 +202,7 @@ El extraño dúo se se monta en un coche que estaba aparcado en el arcén,
 -- Page 130, Offset 19992.
 -- 風貌はどうあれ警察の人間がうちの屋敷を監視していた……しかも、駅前の事故現場が遠野家所有の土地だった……？
 Esos dos no me dieron la impresión de que fueran policías, pero aparentemente las autoridades tienen su ojo puesto en la mansión...
- No solo eso, ¿el terreno frente a la estación donde ocurrió el incidente pertenece a la familia Tohno...?
+ No solo eso, el terreno frente a la estación donde ocurrió el incidente... ¿pertenece a la familia Tohno?
 }
 [sha:6e5b3f39865422e0cc1703eae04a870dfa2a0186]{
 -- Page 130, Offset 19993.

@@ -7,7 +7,7 @@ Sí, probablemente sea lo mejor.
 -- Page 10006, Offset 21436.
 -- 琥珀さんは使用人の職務で忙しいだろうし、ここは阿良句博士にお願いしよう。
 Seguro que Kohaku-san está muy ocupada con sus tareas de sirvienta.
- Pediré a la Doctora Arach que se encargue de esto.
+ Le pediré a la Doctora Arach que se encargue de esto.
 }
 [sha:2258ef0fbeda749aa2386fbfc27d2c9bc23e41ff]{
 -- Page 49, Offset 21437.
@@ -24,12 +24,12 @@ Como se especializa en cirugía, haré que examine mis heridas.
 -- Page 49, Offset 21439.
 -- 昨夜、ノエル先生とのいざこざでどこか内出血しているかもしれないし、念のため診察してもらうのもいい。
 También cabe la posibilidad de que la reyerta de anoche con Noel-sensei me dejara algún hematoma grave,
- así que no estaría de menos comprobarlo para estar seguros.
+ así que no estaría de menos comprobarlo para estar seguros. 
 }
 [sha:5f478d054b2411b78b28fc9a3bd0e0b2f9fbaaba]{
 -- Page 50, Offset 21440.
 -- 「ご指名と聞いてやってきたけどぉ。
-"Vine porque escuché que pediste que viniera yo en concreto, pero...
+"Vine porque escuché que pediste específicamente que viniera yo, pero...
 }
 [sha:1ea5f576a8d6a61b1d5ee0042bfd70475f9c6203]{
 -- Page 50, Offset 21441.
@@ -55,7 +55,7 @@ A pesar de quejarse todo el rato
 -- Page 51, Offset 21444.
 -- 心音、脈拍を測ってもらった後、ヴローヴとの一件で不安のあった両脚の経過も診てもらう。
 Me preocupaba un poco que mis piernas no se recuperasen bien tras la batalla con Vlov,
- así que tras medirme el pulso y escuchar el sonido de mi corazón la pido que las examine de nuevo.
+ así que tras medirme el pulso y escuchar el sonido de mi corazón le pido que las examine de nuevo.
 }
 [sha:4224c5b1b3f386bad680d93e65838e5e3d6db285]{
 -- Page 52, Offset 21445.
@@ -66,7 +66,7 @@ Los resultados son normales. Sin problemas.
 -- Page 52, Offset 21446.
 -- 阿良句博士が“アタシったら無駄骨チャーン！”と唇をとがらせるのもやむなしだ。
 La Doctora no es capaz de contenerse,
- de morros y refunfuñando 'quién soy, ¿%{i}Madam Inútil%{/i}?'.
+ y refunfuña de morros 'quién soy, ¿%{i}Madam Inútil%{/i}?'.
 }
 [sha:af8a6f8d26053f6b5d293d1e90e63a1fa413b3f5]{
 -- Page 53, Offset 21447.
@@ -92,7 +92,7 @@ Supongo que habla de un extracto derivado de la placenta femenina...
 [sha:98fe7ecb4ea3077fffdbdb53445cf7e486e90e2c]{
 -- Page 54, Offset 21451.
 -- 肌をよくする美容効果が主とされるが、実際は疲労回復の促進剤でもあり、老化を抑える効果もあるという。
-La gente la usa mayormente para la piel como tratamiento de belleza,
+La gente la usa mayormente como tratamiento de belleza para la piel,
  pero también puede ayudar a recuperarte de la fatiga,
  e incluso combatir los efectos de la edad.
 }
@@ -108,8 +108,8 @@ La gente la usa mayormente para la piel como tratamiento de belleza,
 -- 「あらあら。話が早くて助かるわぁ。さっすが病弱少年、痛いのは慣れているのねぇ？」
 "Ay dios.
  Me alegro que te dejes convencer tan fácilmente.
- Debes estar acostumbrado al dolor , ¿eh?
- Lo que esperaría de un joven con constitución débil."
+ Debes estar acostumbrado al dolor, ¿eh?
+ Lo que esperarías de un joven con constitución débil."
 }
 [sha:c9002fc9c57a4d076bb5e60da21e2ffffdd9f183]{
 -- Page 56, Offset 21454.
@@ -131,7 +131,7 @@ Yyyy, %{i}zakyuun%{/i} ♡
 [sha:9d1d7ba6f3d54d1b42cefd8484e01c8d69861f28]{
 -- Page 57, Offset 21457. Glued.
 -- 患部ごと患者のハートをイチコロよぉ♡」
-me llevo a la vez el dolor y el corazón del paciente  ♡"
+ me llevo a la vez el dolor y el corazón del paciente ♡"
 }
 [sha:e71a1dc4165b0f632b20dfff4bee693c00042c93]{
 -- Page 57, Offset 21458.
@@ -146,13 +146,13 @@ Con la inyección puesta, el examen médico concluye.
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 58, Offset 21460.
 -- しかし。
-En vez, esto es lo que me toca.
+Sin embargo...
 }
 [sha:2acb60e2307a8d04258534502ef4c31b937eaf49]{
 -- Page 59, Offset 21461.
 -- 後は退室するだけの阿良句博士は、じーっと俺の体を見つめたまま、一向に動こうとしない。
 Esperaba que la Doctora Arach se marchara ahora que ha terminado,
- pero simplemente se queda ahí, mirando a intensamente a mi cuerpo.
+ pero simplemente se queda ahí, mirando mi cuerpo intensamente.
 }
 [sha:e38dc078c5fdd2dcd07b01024f1ea6fb9da7123e]{
 -- Page 60, Offset 21462.
@@ -207,8 +207,7 @@ Me quito la camisa y me siento encima de la cama.
 [sha:fa8af9bec78173f0132bf6323c023902641fef4b]{
 -- Page 63, Offset 21471.
 -- 「キャーーー！　いいじゃないいいじゃない、メープルでジューシーな感じ！　いい腕してるって思ったけど、こうして全体としてみるとソソるわぁ！　冬ごもって穴蔵ライフになっても志貴チャンひとりいれば食うに困らないわ、アタシ！」
-// Mix de tls
-"¡%{i}Kyaa%{/i}! ¡Espléndido, impresionante! ¡Que tipin tan jugoso!
+"¡%{i}Kyaa%{/i}! ¡Espléndido, impresionante! ¡Que tipín tan jugoso!
  ¡Pensé que tenías buenos brazos, pero verlo todo junto me tiene loca!
  ¡Aunque nos encerraran en un sótano todo el invierno
  no tendríamos hambre con toda esta %{i}carne%{/i}!"
@@ -238,14 +237,13 @@ Combinado con lo revelador de su ropa,
 [sha:88b7075b3b32febcfa325d577e5a7a6679735120]{
 -- Page 65, Offset 21476.
 -- ……ふーん。ほーう。なるほどぅ……なんか使ったにせよ、完全に塞がってるわー。貧弱なのに代謝機能は人並みというか、生き残りやすいというかぁ。あーあー、すっっっごく残念。志貴チャン、何も引くものがないんだもの。これじゃあアタシも足しようがないって感じぃ？」
-// Mix de tls
 Hmm... %{i}Ooooh%{/i}. Ya veo...
  No estoy seguro de que usaron, pero parece haber sanado bien.
  Quizá seas débil, pero igual tus funciones metabólicas eran extraordinarias.
  ¿O quizá seas mejor sobreviviendo?
  Aaaah, qué decepción.
  Tampoco hay nada mal con esto.
- ¿Que hago aquí siquiera?"
+ ¿Qué hago aquí siquiera?"
 }
 [sha:042aa0c2e842e98ac1b7ad0f2fff415fb5613706]{
 -- Page 66, Offset 21477.
@@ -258,12 +256,12 @@ Tras dos minutos examinando detenidamente,
 -- Page 67, Offset 21478.
 -- 「でも、すっごい傷よねぇ。フツーの人間どころか、映画に出てくる吸血鬼だって死んでるわよぅソレ。
 "Pero debo decir que vaya cicatriz.
- No solo en términos humanos, ambos――incluso los vampiros que ves en las películas morirían de algo así.
+ No solo en términos humanos――incluso los vampiros que ves en las películas morirían de algo así.
 }
 [sha:efd7013ef02947b90480ebc9047067600225fb31]{
 -- Page 67, Offset 21479.
 -- 事故にあった時はどのくらい痛かったのかしらぁ？
-¿Me pregunto cuanto llego a doler en ese momento?
+¿Me pregunto cuánto llego a doler en el momento?
 }
 [sha:6ba73470ba52f13d29dd454de0b8c771bac5d72f]{
 -- Page 67, Offset 21480.
@@ -273,7 +271,7 @@ Solo imaginarlo hace que se me acelere el corazón ♡"
 [sha:8ebe00523dcd513f78aa722f47be4fe64ed5f7aa]{
 -- Page 68, Offset 21481.
 -- 「そ、そうですか。なんでもガラス片が降ってきて、突き刺さったらしいです」
-"¿S-Si?
+"¿S-Sí?
  Me dijeron que fue un trozo de cristal."
 }
 [sha:6586651025fecc3e0d49d09cf3e90ab4d6b64f26]{
@@ -313,25 +311,23 @@ Espera un momento...
 [sha:88db0cb636de7b670c60b5702552f9d4381eaf59]{
 -- Page 70, Offset 21488.
 -- それじゃあアタシはこれにて退場。またいつか、ラブなタイミングがあった時に会えるといいわねぇ？」
-// Tl oficial
 Bueno, es hora de que me vaya.
- Espero que en el futuro podamos pasar juntos más tiempo %{i}de calidad%{/i} juntos.
+ Espero que en el futuro podamos pasar juntos más tiempo %{i}de calidad%{/i}.
 }
 [sha:1df1bbb859ed0ebbc2dbbbec78106959076d97e7]{
 -- Page 71, Offset 21489.
 -- ヒールの音をたてて阿良句博士は去って行った。
 La Doctora Arach deja la habitación,
- sus tacones se escuchan mientras se va.
+ escucho sus tacones mientras se va.
 }
-[sha:aaca1be5445368a25ffed966b27be71b336e8d5b]{
+[offset:21490]{
 -- Page 71, Offset 21490.
 -- ……なんだろう。
-Pero... algo no tiene sentido.
+¿De qué iba todo eso...?
 }
 [sha:dabd0674a1112493eba542dcbc9b5e1e703d375f]{
 -- Page 71, Offset 21491.
 -- 何の根拠もないが、その後ろ姿は<獲物|えもの>に向かって<滑|すべ>る蜘蛛を連想させた。
-// No entiendo porque usa esa palabra la verdad.
 No estoy seguro,
  pero algo en como camina me recuerda a una araña deslizándose hacia su presa.
 }

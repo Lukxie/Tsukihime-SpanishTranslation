@@ -16,10 +16,10 @@ Iré a ver lo que ha cambiado estos últimos siete años.
 [sha:184880d4ab8f794734f5de6fe06c995501d9eeb0]{
 -- Page 10011, Offset 14542.
 -- ここからなら大階段の後ろにある出入り口から中庭に出られるはずだ。
-// Tl oficial
+//Tl oficial
 De hecho es posible llegar al patio desde el vestíbulo. La salida está justo detrás de la escalera principal.
 }
-[sha:4658195e2fafe9877288f974816939d58c317faf]{
+[offset:14543]{
 -- Page 262, Offset 14543.
 -- テラスに出る。
 Salgo a la terraza.
@@ -37,13 +37,13 @@ Cuando éramos pequeños, esta era la zona favorita de Akiha si hacía buen tiem
 [sha:c04b652e8b0cd85513bbf90d1dd31bf15e2c188f]{
 -- Page 263, Offset 14546.
 -- いや、居場所というより活動範囲か。
-// Mix de ambas
+//Mix de ambas
 Aunque, también se podría decir que era el límite de su territorio.
 }
 [sha:3a3ad51a874d8e831887a34807a5b8baf1fd7eef]{
 -- Page 263, Offset 14547.
 -- 秋葉ひとりでは園まで出る事はなく、このテラスまでがあいつの移動範囲だった。
-// mix de ambas
+//mix de ambas
 Nunca se adentraba al jardín sola; esta terraza era lo más lejos que la dejaban ir.
 }
 [sha:01d4fddf7c5f92d42a48681d68d078e6eba40527]{
@@ -74,15 +74,15 @@ Me dirijo de la terraza al jardín.
 [sha:dcc38c70d3a328cdfb0e6714b8e4e5670219e087]{
 -- Page 266, Offset 14553.
 -- 子供の目には果てのない庭に見えたが、今は視点があがった事で全体像を把握できる。
-// Mix de ambas
+//Mix de ambas
 A los ojos de un niño el jardín parecía infinito,
- pero ahora tengo una mejor perspectiva,
+ pero ahora tengo una mejor perspectiva, 
  y puedo verlo en su totalidad.
 }
 [sha:4ddf90f9424c71f6c05988986d5297f3f1b5ac53]{
 -- Page 266, Offset 14554.
 -- 七年前に比べると花の数は減っているが、庭の雰囲気は変わっていなかった。
-// Mix de ambas
+//Mix de ambas
 Hay menos flores que hace siete años,
  pero aparte de eso, la atmósfera general del jardín no ha cambiado.
 }
@@ -104,7 +104,7 @@ De aquí en adelante, comienza el denso bosque, repleto de árboles.
 [sha:b0ce6650dffb2ad5ef4c44aa79b86c1e94655cd9]{
 -- Page 267, Offset 14558.
 -- 今日は脚の怪我もあるし、散歩はここまでにしよう。
-// tl oficial
+//tl oficial
 Siendo consciente de no forzar mi pierna, decido terminar aquí mi paseo.
 }
 [sha:a5dd557ed33a2604c8104879ce1450de56444482]{
@@ -115,13 +115,13 @@ Siendo consciente de no forzar mi pierna, decido terminar aquí mi paseo.
 [sha:ff8f5296a1b564f3305bac037fdd0d8fa315e5f4]{
 -- Page 268, Offset 14560.
 -- 岩に腰を下ろして、広大な秋の庭を眺める。
-// Mix de tls
+//Mix de tls
 Me siento en una roca y observo el jardín en su esplendor otoñal.
 }
 [sha:e2298125f973cc6db9b201fd9ea97f2e44a53b0d]{
 -- Page 269, Offset 14561.
 -- ここまでくると洋館というより城に近い。絶景には違いないが、俺には不釣り合いすぎて苦笑いするしかない。
-// Tl oficial.
+//Tl oficial.
 Desde aquí, la mansión se parece más a un castillo. Me siento tan fuera de lugar en este pintoresco paisaje que no puedo evitar forzar una sonrisa.
 }
 [sha:dcbb26c3544623d7cb2faaf40d7acf02136e35ff]{
@@ -139,10 +139,10 @@ Si me preguntas, este paisaje le pega mucho más a Akiha, o a―――
 -- あの、呆れるぐらい華やかだった女しか思いつかない。
 No puedo evitar pensar en esa preciosa mujer.
 }
-[sha:80da1e52171993fca18458b67a393eb28cac3a8a]{
+[offset:14565]{
 -- Page 271, Offset 14565.
 -- 「―――って、なんだそれ」
-"―――Santo cielo, ¿qué narices ha sido eso?"
+"―――Dios, ¿qué me pasa?"
 }
 [sha:2911ef07fc70a11700ce962d041eafacdf92cc0b]{
 -- Page 271, Offset 14566.
@@ -162,7 +162,7 @@ No es que la vaya a volver a ver.
 [sha:c971eb71f4cbbfb66e4127f0fae4a317c14b2d11]{
 -- Page 272, Offset 14569.
 -- 目的であった<吸血鬼|ヴローヴ>を退治した以上、この街に残っている理由がない。
-// Mix de tls
+//Mix de tls
 Ahora que su objetivo, Vlov, ha muerto, no hay razón para que se quede en esta ciudad.
 }
 [sha:277cd2c93a1978c2abca2a4478c233684ea0cf9d]{
@@ -178,14 +178,14 @@ Es por eso que... no tiene sentido pensar en todo lo que ha pasado.
 [sha:f30fc268c19bf71760fdd0be5c4252c431b68ed2]{
 -- Page 273, Offset 14572.
 -- もともとそういう関係だし、どうってコトない。本当、もうあんな無茶をしなくていいかと思うと、せいせい―――」
-// Tl oficial
-Ese era nuestro trato desde el principio.
+//Tl oficial
+Ese era nuestro acuerdo desde el principio. 
  En todo caso, me alegro no tener que lidiar más con―――"
 }
-[sha:6fe0980ad2806200d3c6fb91b2c8ee637207cfd4]{
+[offset:14573]{
 -- Page 274, Offset 14573.
 -- 言いかけて、口を閉じた。
-Cierro la boca antes de poder terminar la frase.
+Cierro la boca antes de terminar la frase.
 }
 [sha:8902108e2790d3fcb117f29e6a96a3a48181e641]{
 -- Page 274, Offset 14574.
@@ -196,7 +196,7 @@ No tiene sentido decir una mentira tan obvia.
 -- Page 274, Offset 14575.
 -- ……そりゃあ、あいつと手が切れてせいせいするけど、それがいい事かは別問題だ。
 Las cosas se han calmado bastante desde que no está por aquí,
- pero no significa que me sienta bien.
+ pero eso no significa que me sienta bien.
 }
 [sha:2bfdc86d9eb3ac63c4481990b87825197a3c6782]{
 -- Page 275, Offset 14576.
@@ -206,7 +206,7 @@ Después de todo, estos sentimientos permanecen en mi corazón.
 [sha:262e4fda77f46dc31d9605ab1418b7e4b8bbc60b]{
 -- Page 275, Offset 14577.
 -- 後悔とか、未練とか、そういったものが。
-Entre estos sentimientos hay lamento, e incluso un afecto persistente.
+Entre ellos hay lamento, e incluso un afecto persistente.
 }
 [sha:48a8515432980fb27a331072bf742ea91da7b8d6]{
 -- Page 275, Offset 14578.
@@ -218,15 +218,16 @@ No me dió más que problemas, pero aún así... fue divertido pasar tiempo con 
 -- 「……って、バカか俺は」
 "¿Soy tonto, o qué?"
 }
-[sha:da7e29a27b4dbf7077cae9615fd32b77877855b8]{
+[offset:14580]{
 -- Page 276, Offset 14580.
 -- 一度殺されかけたっていうのに、何が未練なんだか。
-Casi me matan, ¿por qué narices sigo obsesionado con ella?
+//Tl oficial
+Casi hace que me maten, ¿por qué no me la puedo sacar de la cabeza?
 }
 [sha:501a06375143c0c7e66c992e3b30d9cd7b329f1f]{
 -- Page 276, Offset 14581.
 -- 昨夜の傷はまだ脚に残っている。
-Aún tengo en la pierna las heridas de anoche.
+Las heridas de anoche aún permanecen en mi pierna.
 }
 [sha:fa29c135103fee11846f15767d9545917ef0db7b]{
 -- Page 276, Offset 14582.
@@ -246,7 +247,7 @@ Suspiro y dejo atrás la glorieta.
 [sha:318e577e5383c14d5e3ad89578cf9dc720c98829]{
 -- Page 277, Offset 14585.
 -- 帰りも中庭を散歩して時間を潰す。
-// Tl oficial.
+//Tl oficial.
 Me tomo mi tiempo para volver, deambulando sin rumbo por el jardín.
 }
 [sha:83f5afe06c2e282bd9cacdd4a8924aeb0255a724]{
@@ -257,5 +258,5 @@ Pero... mi arrepentimiento niega a irse como la luz del sol,
 [sha:ad88a5413fae3757da59f2e593f1fadccb379ab4]{
 -- Page 277, Offset 14587.
 -- 簡単には消えてくれなかった。
-y mis pensamientos siguen vagando mucho después de que la luz se desvaneciera en el horizonte.
+y mis pensamientos siguen vagando mucho después de que la luz se desvanezca en el horizonte.
 }

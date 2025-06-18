@@ -11,12 +11,12 @@ El dolor de mi pierna izquierda es suficiente para querer gritar a cada paso.
 [sha:e28c3994cf5166ea4a0f06ca418fd4e74e8d5be1]{
 -- Page 10001, Offset 14018.
 -- 体のいたるところが重く感じるが、これは軽度の筋肉痛だ。そう辛いものじゃない。
-Aunque mi cuerpo se sienta pesado, solo unos pocos músculos duelen. En realidad no duele tanto.
+Aunque me pese todo el cuerpo, no es más que una leve molestia muscular. En realidad no duele tanto.
 }
 [sha:cb867e98173bcd3852db1f2b803e3f4206e91ec3]{
 -- Page 39, Offset 14019.
 -- 手で確認したが、ヴローヴの氷の破片で受けた頬や肩の切り傷は完治していた。
-Lo palpé con mis manos para confirmarlo, parece que los cortes que las esquirlas de Vlov me hicieron en mejilla y hombros se han curado por completo.
+Lo palpé con mis manos para confirmarlo, parece que los cortes que me hicieron las esquirlas de Vlov en mejilla y hombros se han curado por completo.
 }
 [sha:cd4d7d23ceffc80af37a381309a4aad0ecd480a2]{
 -- Page 39, Offset 14020.
@@ -29,10 +29,10 @@ La falta antinatural de cicatrices deja claro que es cosa de Arcueid.
 -- 「志貴さま。さしでがましいこととは存じますが、こちらをお使いください」
 "Shiki-sama. Siento ser tan directa, pero por favor use esto."
 }
-[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+[offset:14022]{
 -- Page 40, Offset 14022.
 -- 「？」
-"Hm?"
+"¿Hm?"
 }
 [sha:f285291110fbb5a616c21b4d97ec2f95fe57e3cf]{
 -- Page 41, Offset 14023.
@@ -53,14 +53,14 @@ Es un bastón... no, una muleta.
 -- Page 42, Offset 14026.
 -- 「はい。以前、用具室で見たおぼえがありましたので。一縷の望みをかけて探して参りました」
 "Me alegro,
- recordé verla hace tiempo en la sale de herramientas.
- La busqué aferrándome a la esperanza de que siguiera allí."
+ recordé verla hace tiempo en la sala de herramientas.
+ La busqué aferrándome a la esperanza de que seguiría allí."
 }
 [sha:c1d93f81d15ec06967da589b5feec6a42a9f281f]{
 -- Page 43, Offset 14027.
 -- 一縷の望みは言い過ぎ……と笑いかけて、翡翠の息がかすかにあがっている事に気がついた。
-Aferrándome a la esperanza' es un poco exagerado...
- Sonrío ante la frase antes de notar que Hisui está jadeando.
+ 'Aferrándome a la esperanza' es un poco exagerado...
+ Sonrío ante esas palabras y entonces noto que Hisui está jadeando.
 }
 [sha:7f04469b5d57263056c43af9252dbdc36e03d927]{
 -- Page 43, Offset 14028.
@@ -101,13 +101,13 @@ Apoyo la muleta contra la pared junto a la puerta.
 [sha:10ffc6c3f952f450f06206d4931f71bfa4b9d40d]{
 -- Page 47, Offset 14035.
 -- ここから先、扉一枚<隔|へだ>てた向こうには遠野家当主であらせられる秋葉さま……一歳年下、妹……が、哀れな兄の弁明を今か今かと待ち構えているという……。
-De frente, al otro lado de esta puerta, está el cabeza de la Familia Tohno: Akiha-sama.
- Aunque sea un año más joven... ahora espera impacientemente a que su patético hermano mayor le ponga excusas.
+Al frente, pasada esta puerta, se encuentra la cabeza de la Familia Tohno: Akiha-sama.
+ Aunque sea un año más joven... en este momento espera impacientemente a que su patético hermano mayor le ponga excusas.
 }
 [sha:6befcc566f72ee05c1afe5bd29335440adb0d652]{
 -- Page 47, Offset 14036.
 -- ひどい魔窟だな、ここ。
-Quizá esté adentrando al mismo infierno.
+Quizá me esté adentrando en el mismismo infierno.
 }
 [sha:c7482c984a8bf1506a74e73cf70a246cf712a5d4]{
 -- Page 48, Offset 14037.
@@ -117,7 +117,7 @@ No, quejarse no resolverá nada.
 [sha:983300f8a9335fd116a6859157b44b6df1395c44]{
 -- Page 48, Offset 14038.
 -- これも自業自得、どんな事情があったにしても学校を一日無断欠席して、二日も家に帰らなかったんだ。
-Estas son las consecuencias de mis acciones. Sin importar las circunstancias, me ausenté un día de la escuela sin permiso y estuve dos sin volver a casa.
+Estas son las consecuencias de mis acciones. Sin importar las circunstancias, falté un día a escuela sin permiso y no he vuelto a casa en dos.
 }
 [sha:fffc8f5ca235c026ad41aa995b2b64f6965a4da0]{
 -- Page 48, Offset 14039.

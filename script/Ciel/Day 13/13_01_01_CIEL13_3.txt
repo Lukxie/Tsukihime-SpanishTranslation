@@ -81,7 +81,7 @@
 [sha:66f57ac9d1bf9ac73c7ae8cadf7a2318d028d443]{
 -- Page 106, Offset 33463.
 -- 信じられない。
-Nada de esto tiene sentido.
+-- TRANSLATION HERE
 }
 [sha:b2735d088ac7ddceb922614cb7834b4e1f1e5461]{
 -- Page 106, Offset 33464.
@@ -131,7 +131,7 @@ Nada de esto tiene sentido.
 [sha:d5a2df2b3acc342891a881c9cef060e7fd589749]{
 -- Page 109, Offset 33473.
 -- 「だま―――れ」
-"Calla――te."
+-- TRANSLATION HERE
 }
 [sha:0fca88ceb648565fd87476c5b0bc2152398654b4]{
 -- Page 109, Offset 33474.
@@ -146,7 +146,7 @@ Nada de esto tiene sentido.
 [sha:31258328a433139751c9295e8b7fb0ece5a58166]{
 -- Page 110, Offset 33476.
 -- 「っ――――――」
-"――――――"
+-- TRANSLATION HERE
 }
 [sha:9f268dc1a4dfb18bb069a36b551b29a4bc5165e7]{
 -- Page 110, Offset 33477.

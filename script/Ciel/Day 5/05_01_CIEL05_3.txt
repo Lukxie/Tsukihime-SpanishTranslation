@@ -51,7 +51,7 @@
 [sha:e5825ed63787bd96f80045ee427b7a1ee314b4e8]{
 -- Page 392, Offset 11920.
 -- 「ノエル先生……!?」
-"¡¿Noel-sensei?!"
+-- TRANSLATION HERE
 }
 [sha:c46ed1c8aa0d780a6d2baea7ef1012b852c014ae]{
 -- Page 393, Offset 11921.
@@ -571,7 +571,7 @@
 [sha:9cad8e47a16eef093ba66059da49762c5e2334a5]{
 -- Page 435, Offset 12024.
 -- そこには。
-Dentro―――
+-- TRANSLATION HERE
 }
 [sha:728e6307dc8b37e771a8429ffee63130cd08da2e]{
 -- Page 435, Offset 12025.

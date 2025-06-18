@@ -243,7 +243,7 @@
 -- 先輩を助けるには―――俺たちがここで生き延びるには、アイツを<言|・><葉|・>で止めるしかない。
 -- TRANSLATION HERE
 }
-[sha:766414eb6c0bde90fe0487aaacbfecd0eface1fc]{
+[offset:23917]{
 -- Page 684, Offset 23917.
 -- 俺は、
 Yo...

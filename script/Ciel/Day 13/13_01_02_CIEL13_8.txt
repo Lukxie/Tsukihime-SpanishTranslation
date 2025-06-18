@@ -286,7 +286,7 @@
 [sha:68f65d38c2698af10f2c98cd817a2da7fcde8c44]{
 -- Page 494, Offset 36677.
 -- せーのっ、
-Allá voy―――
+-- TRANSLATION HERE
 }
 [sha:98ec642f5a20a1e022f2b252197ae905fb3ce089]{
 -- Page 495, Offset 36678.

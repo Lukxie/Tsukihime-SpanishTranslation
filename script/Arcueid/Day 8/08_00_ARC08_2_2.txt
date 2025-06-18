@@ -28,7 +28,7 @@ Me doy la vuelta y comienzo a bajar la cuesta.
 [sha:f5289689cbc21298b631b579ef0fc1bccffdfd9d]{
 -- Page 134, Offset 20004.
 -- 長居すればそれだけ隙を突かれるだけだ。
-Quedarme mas tiempo solo les daría más aperturas.
+Quedarme más tiempo solo les daría más aperturas.
 }
 [sha:3d6d3d8fd649c54d11158b7d54ec2a2c27ba9e10]{
 -- Page 135, Offset 20005.
@@ -48,10 +48,10 @@ Supongo que esto es un cambio de planes, ¿verdad, joven amo?"
 [sha:4b606fde89d57e4da2347720ebc00a92006fabfd]{
 -- Page 136, Offset 20008.
 -- 「ああ、テメエの態度がアホすぎたからな。テメエ何年刑事やってやがる。貴重な時間を無駄に使ったんだ、テメエの貴重な給料も無駄に減俸してやるよ」
-"Sí, gracias a tu comportamiento idiótico.
- ¿No se supone que eres un jodido detective veterano?
+"Sí, gracias a que te comportas como un imbécil.
+ ¿Cuántos putos años llevas de detective?
  Si vas a malgastar nuestro preciado tiempo,
- ¿entonces qué tal si te reduzco el suelo y así malgasto tu preciado dinero?"
+ ¿qué tal si te reduzco el sueldo y así malgasto tu preciado dinero?"
 }
 [sha:75843165b8f060276ff081b33c3bf3a47a72eeed]{
 -- Page 136, Offset 20009.

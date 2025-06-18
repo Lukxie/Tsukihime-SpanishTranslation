@@ -1,7 +1,7 @@
 [sha:70948c8afcd41942bf66ebc6f6ccb8aa9c7ce05c]{
 -- Page 10016, Offset 23316.
 -- 「お帰りなさいませ、志貴さま」
-"Bienvenido, Shiki-sama."
+-- TRANSLATION HERE
 }
 [sha:8071cc0831d189461b6be78c765fbf6d958b8aef]{
 -- Page 10016, Offset 23317.
@@ -101,7 +101,7 @@
 [sha:7001ef7ee962be43ca6288ae979fcf6ded3ac4f7]{
 -- Page 465, Offset 23336.
 -- 「……………っ」
-"........."
+-- TRANSLATION HERE
 }
 [sha:dcb3960c2a197d537b7148b21fa013f24ae2e5cf]{
 -- Page 465, Offset 23337.
@@ -186,7 +186,7 @@
 [sha:34b227764814acd989a9edc349b0e7ca4cc3d211]{
 -- Page 471, Offset 23353.
 -- 「……っ」
-"%{i}Nn%{/i}."
+-- TRANSLATION HERE
 }
 [sha:1b6f12db602a12bb70f623ed0191e48563a9a519]{
 -- Page 471, Offset 23354.

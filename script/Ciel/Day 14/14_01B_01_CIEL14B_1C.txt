@@ -53,10 +53,10 @@
 -- この街で、あの現象に耐えられるモノは一つだけだ”
 -- TRANSLATION HERE
 }
-[sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
+[offset:38604]{
 -- Page 90, Offset 38604.
 -- 「っ―――」
-"%{i}Ugh%{/i}―――"
+-- TRANSLATION HERE
 }
 [sha:350241413de338db965435f107392c78221a1a9c]{
 -- Page 90, Offset 38605.
@@ -621,7 +621,7 @@
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 138, Offset 38717.
 -- ……そっか。
-Ya veo...
+-- TRANSLATION HERE
 }
 [sha:4c2426db6b327a1be80ab73ee8c6a522ba716a14]{
 -- Page 138, Offset 38718.
@@ -663,7 +663,7 @@ Ya veo...
 -- 先輩は無言で頷いて、階段に向かって走り出して、思い出したように立ち止まった。
 -- TRANSLATION HERE
 }
-[sha:5e801d302798f8ba23e7c9ebb3f03981dbcaa90a]{
+[offset:38726]{
 -- Page 142, Offset 38726.
 -- 「待ってください」
 "Espera un segundo"

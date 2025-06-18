@@ -3,10 +3,10 @@
 -- 「はっ、無駄だっての―――！」
 "%{i}Jah%{/i}, ¡buen intento!"
 }
-[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+[offset:21114]{
 -- Page 535, Offset 21114.
 -- 「っ―――！」
-"%{i}Kh%{/i}―――!"
+"¡%{i}Ugh%{/i}―――!"
 }
 [sha:7c57c77a076829b0f607a0b20e4f7896428aedbb]{
 -- Page 535, Offset 21115.
@@ -38,7 +38,7 @@ Me da con tanta fuerza que mi visión se queda en blanco.
 [sha:90f1a8fd71d37aec4147c647feabba7e613c296d]{
 -- Page 536, Offset 21120.
 -- 体が１メートル近く吹き飛ばされる感覚。
-El ataque debe haberme mandado volando más de un metro.
+El ataque debe haberme mandado a volar más de un metro.
 }
 [sha:c57e63572bc0be89fa3bbc8e0753cac3eb477a0a]{
 -- Page 537, Offset 21121.
@@ -49,19 +49,19 @@ Ignorando el dolor, me preparo para caer.
 -- Page 537, Offset 21122.
 -- アスファルトに背中から転がり、なんとか衝撃を受け止めるも、目の前にはもうノエルの姿、が、
 Mi espalda da contra el asfalto, pero consigo acolchar el golpe rodando.
- Sin embargo, Noel vuelve a estar frente a mi...
+ Sin embargo, Noel vuelve a estar frente a mí...
 }
 [sha:edce4e9d4d7aabdc974744ff40dc50f1e3e3b0f1]{
 -- Page 538, Offset 21123.
 -- 「ダメよ志貴クン？　敵を前にしてあからさまに身構えるとか、もう甘すぎてニヤけちゃう。
 "Mal movimiento, Shiki-kun.
  ¿Mostrar abiertamente al enemigo que estás en guardia?
- Los debiluchos como tu siempre me hacen sonreir.
+ Los debiluchos como tú siempre me hacen sonreir.
 }
 [sha:aa2c8e2527fd74f357b9fd393b0ec90b87d9db9c]{
 -- Page 538, Offset 21124.
 -- 私、臆病だからつい本気で打ちこんじゃったけど、まだ生きてる？」
-Soy un poco cobarde, así que usé toda mi fuerza accidentalmente, ¿sigues vivo?
+Soy un poco cobarde, por lo que usé toda mi fuerza accidentalmente, ¿sigues vivo?
 }
 [sha:b63dc11ce70cda8cea946563a5814e2d41e3a1c1]{
 -- Page 539, Offset 21125.
@@ -90,7 +90,7 @@ Una de sus botas pesadas me pisa el pecho.
  No he hagas ideas y pienses que somos pareja.
  Si no te comportas, te romperé el cuello como si fuera una ramita ♡"
 }
-[sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
+[offset:21130]{
 -- Page 540, Offset 21130.
 -- 「っ―――」
 "%{i}Ugh%{/i}―――"
@@ -98,13 +98,11 @@ Una de sus botas pesadas me pisa el pecho.
 [sha:c44106eb8255dc874ea04964f9a8dd7acb0fbd94]{
 -- Page 541, Offset 21131.
 -- 倒れたままノエルを睨み付ける。
-// Tl oficial
 Miro a Noel desde el suelo.
 }
 [sha:9a4cf29a89f9af684695178f316e29949ebf39c2]{
 -- Page 541, Offset 21132.
 -- 状況はまったく掴めない。
-// Tl oficial
 No entiendo ni un poco lo que está pasando.
 }
 [sha:928d0e3b67de3291a9204da650156acec1c4cc39]{
@@ -142,5 +140,5 @@ La presión en mi pecho aumenta.
 -- Page 543, Offset 21139.
 -- 今の反応……吸血鬼扱いされた事を本気で怒っている……？
 Esta reacción...
- ¿La ha molestado de verdad que la llamase vampiro...?
+ ¿De verdad la ha molestado que la llame vampiro...?
 }

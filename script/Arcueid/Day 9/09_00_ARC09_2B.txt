@@ -12,19 +12,19 @@ No me di cuenta de que algo andaba mal...
 [sha:5222c64e28982a05b1dd1f60fa99513d7ff7417d]{
 -- Page 10005, Offset 21410.
 -- 「翡翠は悪くないよ。いつもの事だし、そう大げさにとらない、とらない」
-"No es tu culpa.
+"No es tú culpa.
  Pasa todo el tiempo. No importa mucho, de verdad."
 }
 [sha:5938657c2241d64b87434b79a4f90300fe1c2a27]{
 -- Page 36, Offset 21411.
 -- ベッドに横になり、上半身を背もたれに預けた状態で翡翠に声をかける。
-Intento calmar a Hisui mientras estoy tumbado en la cama
- con la parte superior de mi cuerpo apoyada contra el cabecero.
+Tumbado en la cama, intento calmar a Hisui.
+ La parte superior de mi cuerpo está apoyada contra el cabecero.
 }
 [sha:c702ae08288dc60d0222cd79d45e37eab7c45a9d]{
 -- Page 36, Offset 21412.
 -- あの後、部屋の様子を見に来た翡翠に助けられて、今はベッドで落ち着けている。
-Hisui me encontró tirado en el suelo cuando volvió a revisar la habitación
+Cuando volvió a revisar la habitación, Hisui me encontró tirado en el suelo 
  y me ayudó a subir a la cama, donde ahora descanso cómodamente.
 }
 [sha:b5b63f331447d1e2c10d35b00aa57d9b08ba21b9]{
@@ -42,15 +42,15 @@ Asumí que no atendería hoy a la luz de su condición actual, ¿me equivoco?"
 -- 「うん、それで頼む。ちょっと疲れが溜まっていただけだから、学校を休むのは後ろめたいけどね」
 "Sí, gracias.
  Me siento un poco culpable por tomarme el día libre,
- especialmente por una nimiedad como un poco de fatiga acumulada."
+ especialmente por una nimiedad como es un poco de fatiga acumulada."
 }
 [sha:7e9ca83e8de07376ccd77ce295f91f0ac12a390c]{
 -- Page 38, Offset 21416.
 -- 「―――立てなくなるほどの疲れは、もう疲れとは言えないかと存じます。志貴さまは遠野家の長男。ご自分のお体を、もっと大切にしていただかなければ困ります」
 "Creo que cuando uno no es capaz de levantarse 'fatiga'
  ya no es la palabra apropiada.
- Eres el hijo mayor de la familia Tohno.
- Sería un problema que no cuides mejor tu cuerpo."
+ Es el hijo mayor de la familia Tohno.
+ Sería un problema que no cuidase su cuerpo mejor."
 }
 [sha:7fde397061cca6153f070c2ca8c20559b56a91f0]{
 -- Page 39, Offset 21417.
@@ -70,13 +70,13 @@ Es increíble lo atacada que estaba Hisui tras encontrarme en el suelo.
 [sha:e59ebc60417946bae08d3594d256a4eaa11a5767]{
 -- Page 40, Offset 21420.
 -- まず、扉をあけて凍り付くこと数秒。
-Cuando abrió la puerta por primera vez, se quedó congelada unos segundos.
+Cuando abrió la puerta por primera vez, se quedó unos segundos congelada.
 }
 [sha:d3bfb8c6107ec9386f53f9fa99e73957288e237e]{
 -- Page 40, Offset 21421.
 -- 俺を抱き上げようと駆け寄ってくるも、懸命な顔のまま固まること約１分。
 Y luego vino corriendo a incorporarme
- con una expresión llena de determinación, pero se volvió a quedar congelada durante un minuto.
+ con una expresión llena de determinación, pero luego se volvió a quedar congelada durante un minuto.
 }
 [sha:35c7329780abc9778e73e9e20283f56beb57c5c3]{
 -- Page 41, Offset 21422.
@@ -87,7 +87,7 @@ Tras eso, se pasó unos minutos en pánico de un lado para otro de la habitació
 [sha:c08a8998a271db5bca32f9eb24d72c9665ead005]{
 -- Page 41, Offset 21423.
 -- 結局、翡翠は俺の体に触れる事はなかったが、その献身ぶりははっきりと伝わってきた。
-Al final, Hisui nunca llegó a tocarme.
+Al final, Hisui nunca llegó a tocarme,
  pero pude ver lo dedicada que es.
 }
 [sha:3ef9b95352b5be0ab2a83988d6da9d28943a0cae]{
@@ -120,7 +120,7 @@ Acabo de comer algo delicioso,
  si sigo descansando dentro de poco me sentiré bien.
  Puedes volver a tus tareas."
 }
-[sha:570afbfb68a775177c0dc699e78357d337fb0542]{
+[offset:21429]{
 -- Page 45, Offset 21429.
 -- 「かしこまりました。
 "Entendido.
@@ -146,15 +146,15 @@ Oh, así que esa doctora excéntrica está aquí también.
 -- ……本当のところ診察は不要なんだが、うんと言わない事には翡翠は行ってくれそうにない。
 Para ser sincero, no necesito un examen médico, pero tampoco creo que Hisui vaya a irse si no acepto.
 }
-[sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
+[offset:21434]{
 -- Page 46, Offset 21434.
 -- ここは―――
-Me parece que―――
+Si es así, entonces―――
 }
 [sha:c2e44615d839f6abbdd474573b95f1d03e00a9da]{
 -- Page 48, Offset 42661. Choice.
 -- 阿良句博士にする。
-Haré que Prof. Arach me eche un vistazo.
+Haré que la Dra. Arach me eche un vistazo.
 }
 [sha:67231cd548176cbb5a7cc91838f85e999f7c7d11]{
 -- Page 48, Offset 42662. Choice.

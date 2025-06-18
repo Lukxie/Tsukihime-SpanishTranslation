@@ -6,7 +6,7 @@ El protagonista no es el único que enfrenta a un final%{n}sin salida.
 [sha:4436abc952d05c9cfa74b45f12f772dd3281ee72]{
 -- Page 238, Offset 43193.
 -- ヒロインだって容赦なくエンドする。
-Un destino despiadado le aguardaba también a%{n}nuestra heroina.
+ Un destino despiadado también le aguardaba a%{n}nuestra heroina.
 }
 [sha:5524d6f2c488e9b12c5739cfacc785665bdd605e]{
 -- Page 239, Offset 43194. Mods: @n.
@@ -27,7 +27,7 @@ querida heroina,
 [sha:d9173be0c0ab362a6eb5dc73635dc0238bffbf3f]{
 -- Page 240, Offset 43197.
 -- ヒロインにコメントをいただきましょう！
-quién por segunda vez sufrió%{n}
+ quién por segunda vez sufrió%{n}
 un final trágico y brutal!
 }
 [sha:b417686b8e50711ce0950dde0b961612fe85d8e9]{
@@ -48,7 +48,7 @@ Menuda instructora más vulgar...%{n}
 [sha:4f1a84f94da6fff6eca7596c501117a4490146fb]{
 -- Page 242, Offset 43201.
 -- それでも■■■■の保持者の自覚はあるのですか？
-¿Y tu te llamas la portadora del ■■■■?
+¿Y tú te llamas la portadora del ■■■■?
 }
 [sha:a98e578a676cdbef5f85c57faa6f22a2cadef379]{
 -- Page 243, Offset 43202. Mods: @n.
@@ -58,7 +58,7 @@ Menuda instructora más vulgar...%{n}
 [sha:9f476a25929b2abb504891ecba5d59f17d230ed0]{
 -- Page 243, Offset 43203.
 -- あ、あの、どちら様でしょう……？
-Emm, ¿y tu quién eres...?
+Emm, ¿y tú quién eres...?
 }
 [sha:e1316b00baa4fee4f03a000601278c43375f08ad]{
 -- Page 244, Offset 43204. Mods: @n.
@@ -78,7 +78,7 @@ Estás completamente equivocada...
 [sha:5dd13f7174c8ee4dfb0dd1a926caf1de4f562508]{
 -- Page 245, Offset 43207.
 -- <鈍|のろ>いだけじゃなく、知性も低いのですね。
-No solo eres%{n}
+ No solo eres%{n}
 sosa, sino que tu inteligencia deja mucho%{n}
 que desear.
 }
@@ -90,7 +90,7 @@ La criatura de la que hablas no es su%{n}alter ego,
 [sha:8a39faad52620a712cfa75f1cc2d8fa759b36b0d]{
 -- Page 246, Offset 43209.
 -- 使い魔でもありません。
-ni tampoco su familiar.
+ ni tampoco su familiar.
 }
 [sha:7047730df24aa31722de8a14977de9f10fd151cf]{
 -- Page 247, Offset 43210. Mods: @n.
@@ -101,7 +101,7 @@ ha sido malinterpretado
 [sha:7646da606e87fb25078dad741cadac3b9ccf8aae]{
 -- Page 247, Offset 43211.
 -- ひとり歩きをし出したジャーゴンにすぎない。
-como leyenda urbana y empezó a andar%{n}
+ como leyenda urbana y empezó a andar%{n}
 por su cuenta.
 }
 [sha:f7cab1112f91c2e46a463cf0adcdf6d43a914ed8]{
@@ -112,13 +112,13 @@ Si lo que deseas son opiniones sobre su%{n}fallecimiento,
 [sha:33398096cf388668fdd65be2adcf28fc95b985e0]{
 -- Page 248, Offset 43213.
 -- あの生物より適任がいるでしょう。
-existe una criatura mucho más%{n}cualificada
-que esa criatura.
+ existe una criatura mucho más%{n}cualificada
+ que esa criatura.
 }
 [sha:c56d77a42a23aa73e43dfdb199043ceb469a3150]{
 -- Page 249, Offset 43214. Mods: @n.
 -- 言うまでもなく、私の事ですが。
-Sobra decir, que hablo de mi.%{n}
+Sobra decir, que hablo de mí.%{n}
 }
 [sha:27a0cb934e347d41ad63a23dd7944d70e077eac4]{
 -- Page 249, Offset 43215.
@@ -133,7 +133,7 @@ N-No puede ser...
 [sha:c6f7468596a34e6769e1e93c0a468f943916e150]{
 -- Page 251, Offset 43217. Mods: @n.
 -- さっきまでいたネコのような生き物は、
-El representativo de Arcueid en este segmento no era%{n}
+ El representante de Arcueid en este segmento no era%{n}
 }
 [sha:afe07a8c0d8fbbb7749b8eb9738b5edbc98bb922]{
 -- Page 251, Offset 43218.
@@ -148,7 +148,7 @@ Sí. La Arcueid Brunestud de este segmento
 [sha:15bb5fcae8b466cca83a453347fc22ac3deddaae]{
 -- Page 252, Offset 43220.
 -- アルクェイド・ブリュンスタッドは、私です。
-soy yo.
+ soy yo.
 }
 [sha:51488b49884d79fcf7e18a7f71240365a939fe63]{
 -- Page 253, Offset 43221. Mods: @n.
@@ -159,18 +159,18 @@ Cuesta una gran cantidad de dinero hacerme%{n}
 -- Page 253, Offset 43222.
 -- 出演には多大なコストがかかるので、
 aparecer como una imagen del futuro%{n}
-tal y como tu haces.
+tal y como tú haces.
 }
 [sha:43b77f90a3578325f20e26f0d06d0b557624b5f6]{
 -- Page 254, Offset 43223. Mods: @n.
 -- このように、コストを最小限におさえた
 Por lo que, para ahorrar en costes,%{n}he
-aparecido
+ aparecido
 }
 [sha:eb1e1a3d0ddf6bcc267965477f1bc1dd7324235b]{
 -- Page 254, Offset 43224.
 -- 『過去のイメージ』にしています。
-como una imagen de mi pasado.
+ como una imagen de mi pasado.
 }
 [sha:9292eb439b29f9c89fbd87c3e96d44006612ba31]{
 -- Page 255, Offset 43225.
@@ -185,7 +185,7 @@ Como soy una versión económica de%{n}Arcueid,
 [sha:fee8a6388a40f9bc83585712ae6d43e748d623a7]{
 -- Page 256, Offset 43227.
 -- エコアルク、とでも呼んでいただければ。
-puedes llamarme Eco-Arc.
+ puedes llamarme Eco-Arc.
 }
 [sha:4be20d43088441a8f7d94502f3b2411c765b5e51]{
 -- Page 257, Offset 43228.
@@ -221,7 +221,7 @@ toda la eternidad,
 [sha:13bf4e9e999ba5c2632e8e563c7ea2f82960cd14]{
 -- Page 260, Offset 43234.
 -- シエル先生の相手はあの生物です。
-serás compañera de esa%{n}criatura.
+ serás compañera de esa%{n}criatura.
 }
 [sha:997950a5a39209d972e3515ba51732b6688c5c9c]{
 -- Page 261, Offset 43235. Mods: @n.
@@ -231,7 +231,7 @@ Ah, sí...
 [sha:4f0161dd7357f75c4500f951c46d34af64c5ed2c]{
 -- Page 261, Offset 43236.
 -- 地獄のような未来宣告、ありがとうございます……。
-Gracias por informarme del%{n}futuro infernal que me espera...
+ Gracias por informarme del%{n}futuro infernal que me espera...
 }
 [sha:97df352cda4d8e2531ad359f1d8d84b1bb6e8ddf]{
 -- Page 262, Offset 43237. Mods: @n.
@@ -241,7 +241,7 @@ Pero entonces, ¿por qué
 [sha:141fbf45c0c6c24408563383d6500fee9e065fb3]{
 -- Page 262, Offset 43238.
 -- 今回はエコアルクさんなのでしょう？
-estás esta vez aquí%{n}
+ esta vez estás aquí%{n}
 conmigo, Eco-Arc?
 }
 [sha:d58e4dbf0a716d5019b06a90c22046fd44a3d54a]{
@@ -253,7 +253,7 @@ quejarte
 [sha:8df6a1a1d97f384aa165c9064ef21218fe313ad1]{
 -- Page 263, Offset 43240.
 -- 抗議の一つでも？
-del comportamiento tan bruto%{n}de Tohno-kun?
+ del comportamiento tan bruto%{n}de Tohno-kun?
 }
 [sha:ea5e6384c07e99fcc210e1d0571f98ae053bba84]{
 -- Page 264, Offset 43241. Mods: @n.
@@ -263,7 +263,7 @@ Quizá.
 [sha:98ade21ab393dff10228435ab33d15dd21aa0d24]{
 -- Page 264, Offset 43242.
 -- 私でさえ目を覆うほどの結末だったので、つい。
-Incluso yo aparté la mirada llegando%{n}al final.
+ Incluso yo aparté la mirada llegando%{n}al final.
 }
 [sha:06f83f15aab9186a8f85b8d738120f2ddcdf4679]{
 -- Page 265, Offset 43243. Mods: @n.
@@ -273,8 +273,8 @@ No solo sucumbió a sus deseos,%{n}
 [sha:d3c62b2903f47d22fdcd45ea1c5783fade93914b]{
 -- Page 265, Offset 43244.
 -- 壊れた後の自分の始末もできないなんて。
-sino que tampoco pudo lidiar con su%{n}
-'yo' roto tras ello.
+sino que tras ello tampoco pudo lidiar%{n}
+con su 'yo' roto.
 }
 [sha:7a65caeb1322cefeae5ace00490db3655d5b916a]{
 -- Page 266, Offset 43245. Mods: @n.
@@ -285,7 +285,7 @@ desprecio.
 [sha:2d59f1404d52c6c4a9ebac0c9054e5a2e19b8175]{
 -- Page 266, Offset 43246.
 -- 怒り心頭……いいえ、怒りを通り越して憐れです。
-Estoy furiosa... No, peor, te compadezco.
+ Estoy furiosa... No, peor, te compadezco.
 }
 [sha:33ad79b0ad7803f2ff11de09124c05268c878781]{
 -- Page 267, Offset 43247. Mods: @n.
@@ -316,7 +316,7 @@ esa cosa,
 [sha:e999ef54b214f5f4dc1c0c8cb8fc7275c91c5d5c]{
 -- Page 269, Offset 43252.
 -- どうぞ容赦の無い鉄槌を。
-por favor dala una paliza sin piedad.
+ por favor dala una paliza sin piedad.
 }
 [sha:1df9cbc360034752ce1b51b9cef1a0eb09864d08]{
 -- Page 270, Offset 43253. Mods: @n.
@@ -326,8 +326,8 @@ Después de todo, una no puede volverse%{n}una buena dama
 [sha:63cfd19c7fc401213cd7081b9a0c14d9a5514bc4]{
 -- Page 270, Offset 43254.
 -- 淑女にはなれないようですから。
-hasta que no hayas tenido%{n}
-al menos una experiencia traumática.
+ a menos que no hayas%{n}
+tenido mínimo una experiencia traumática.
 }
 [sha:3643684f4aefd212fe7da0a087e357ebf49c9a0a]{
 -- Page 271, Offset 43255. Mods: @n.
@@ -357,7 +357,7 @@ No tengo nada más que decir sobre eso.%{n}
 [sha:d50cec8c3a88bde5dbe3862419e00b7f9f43ca34]{
 -- Page 273, Offset 43260.
 -- これからも彼をよろしくお願いします。
-Te lo dejo de aquí en adelante.
+Encargate de él de aquí en adelante.
 }
 [sha:481e011bc5bbec27861b6704f1502d17d040c3dd]{
 -- Page 274, Offset 43261. Mods: @n.
@@ -372,7 +372,7 @@ al menos puedo confiar en ti como lo haría%{n}en una estantería.
 [sha:20191aa8f6f4e280be009820047963353cca50b5]{
 -- Page 275, Offset 43263.
 -- えーと……どういうコト？
-Ehh... ¿de que iba eso?
+Ehh... ¿de qué iba eso?
 }
 [sha:1a9180324e3b93d67fced398b13fc925882619ee]{
 -- Page 276, Offset 43264. Mods: @k, @e.
@@ -420,7 +420,7 @@ Mee daa la sensación de que sí nyaaa.%{n}
 [sha:26044ffa1cf0e5cbe626a20548f3ff91ba08fe82]{
 -- Page 280, Offset 43272.
 -- 具体的にいうと、すっごい美少女なアタシ。
-Una versión superbonita de mi, para ser precisa.
+Una versión superbonita de mí, para ser precisa.
 }
 [sha:de43bfde534973ce46e559bdd11874b8830bd0bf]{
 -- Page 281, Offset 43273.
@@ -430,7 +430,7 @@ No recuerdo a nadie que encaje con esa%{n}descripción.
 [sha:6fea9d7b54e18feb70af1f23eef0112b5081db15]{
 -- Page 281, Offset 43274.
 -- そ・れ・よ・り―――
-Más im-por-tan-te...
+ Más im-por-tan-te...
 }
 [sha:42fb1f8a2d37638a3fc767ca56b630bed31eb19d]{
 -- Page 282, Offset 43275. Mods: @n.
@@ -455,13 +455,13 @@ la elección es tuya.
 [sha:b01560af07ef846afdc2eaff1ae359ae9bce37c8]{
 -- Page 284, Offset 43279. Mods: @n.
 -- あ。やっぱり本編のアルクェイド同様、
-Ah. ¿Quizá te gustaría ser cortada en%{n}
+Ah. ¿Quizá le gustaría ser cortada en%{n}
 pedazos
 }
 [sha:817bde2f8e9224242926f3bb3f0b9e9eb87fa6b1]{
 -- Page 284, Offset 43280.
 -- 切り刻まれての<出血死|ブレイド>がお好みですか？
-y  <desangrarte| h o j a > hasta la muerte tal como%{n}
+ y  <desangrarse| h o j a > hasta la muerte tal como%{n}
 Arcueid en la historia principal?
 }
 [sha:c717b22ff01c6965c61ec41a3c54708fa2c04dda]{
@@ -482,7 +482,7 @@ Eei.
 [sha:ad78dc614cd7f84fb734ccbb804b6e1bf837ef50]{
 -- Page 287, Offset 43284. Mods: @n.
 -- ってうわ、本気だよこのインド！
-Uwahh, ¡esta India va en serio!%{n}
+Uwahh, ¡la India va en serio!%{n}
 }
 [sha:4cd3579c8428ba32c9a21ef841c50c5e9f35b9bc]{
 -- Page 287, Offset 43285.
@@ -498,7 +498,7 @@ No, no, esta no era mi intención original,
 [sha:79de1c5c3a6ebd50b05de58497b1b8805bfbc4f7]{
 -- Page 288, Offset 43287.
 -- ちょっと頼まれてしまったので♥
-pero hay%{n}alguien que me ha pedido un favor ♥
+ pero hay%{n}alguien que me ha pedido un favor ♥
 }
 [sha:e0932927e3214d23f09149628458fa94d5cf1a51]{
 -- Page 289, Offset 43288. Mods: @n.
@@ -509,16 +509,16 @@ La historia parecía estar cerca del climax,%{n}
 -- Page 289, Offset 43289.
 -- ここで主役交代しておこうかなと。
 por lo que pensé que igual era una buena%{n}oportunidad
-para un cambio de protagonista.
+ para un cambio de protagonista.
 }
 [sha:f2edba1aafde612b1099aae06d0d8331b822451e]{
 -- Page 290, Offset 43290. Mods: @n.
 -- やめろぉ、改造フェチでもここまでしねぇ～～！！
 ¡¡Deteente, incluso para una fetichista de las%{n}modificaciones, esto
-es paaasaarsee!!
+ es paaasaarsee!!
 }
 [sha:7d0c61cacd3648abff10bd8e9f31cf6123c21836]{
 -- Page 290, Offset 43291.
 -- クセになったらどうする気ニャんですかぁ！？
-¿Qué vas a hacer%{n}si se convierte en un hábito?
+ ¿Qué vas a hacer%{n}si se convierte en un hábito?
 }
