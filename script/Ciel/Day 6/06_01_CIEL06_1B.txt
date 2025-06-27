@@ -21,25 +21,25 @@
 [sha:fffc8f5ca235c026ad41aa995b2b64f6965a4da0]{
 -- Page 36, Offset 13241.
 -- 秋葉が説明を求めるのも当然だろう。
--- TRANSLATION HERE
+No me sorprende que Akiha quiera explicaciones.
 }
 [sha:76ea8c5df8a86f44d6e3d6d6bbb6ff04d312c7d6]{
 -- Page 36, Offset 13242. Mods: @k, @e.
 -- ここはやはり―――
--- TRANSLATION HERE
+En esta situación, debería―――
 }
 [sha:4bd69026daf405c3c4561bc3a59eeb2da8149feb]{
 -- Page 37, Offset 42700. Choice.
 -- 素直に謝る。
--- TRANSLATION HERE
+Disculparme sinceramente.
 }
 [sha:84c496329dda6ef25fdf9b3391b1b774bf3c04b7]{
 -- Page 37, Offset 42701. Choice.
 -- なんとか誤魔化す。
--- TRANSLATION HERE
+Intentar engañarla.
 }
 [sha:1dc3be0aaeb1666fb674fd9881b1fd741a06a9be]{
 -- Page 37, Offset 42702. Choice.
 -- 本当のことを話す。
--- TRANSLATION HERE
+Decirle la verdad.
 }

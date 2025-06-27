@@ -855,12 +855,12 @@ Con todo lo que me queda,
 [sha:5a9f05ac52389c3d4ca06b894e28875369604c59]{
 -- Page 56, Offset 36913.
 -- 止めたかった。
--- TRANSLATION HERE
+Quería detenerla.
 }
 [sha:5a9f05ac52389c3d4ca06b894e28875369604c59]{
 -- Page 56, Offset 36914.
 -- 止めたかった。
--- TRANSLATION HERE
+Quería detenerla.
 }
 [sha:5a9f05ac52389c3d4ca06b894e28875369604c59]{
 -- Page 56, Offset 36915.

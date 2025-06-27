@@ -88,7 +88,7 @@ Si su sangre está tus manos, entonces yo―――
 [sha:ea1c97fd1cf6a56cd3b1db401af3add30a379612]{
 -- Page 234, Offset 17140.
 -- 「はあ。もう、そんなワケないでしょ。
-//Mix de tls
+// Mix de tls
 "%{i}Haaa%{/i} ¿Estás de broma, no?
 }
 [sha:c4fb1924a9f4ba994ac6e6d24c8bfd487ca9aae7]{
@@ -187,8 +187,8 @@ Pero eso no es lo que Vlov haría.
 [sha:39e4f8144ffca33ae583b17efb5533415027cfc6]{
 -- Page 241, Offset 17159.
 -- あいつは死体を燃やしてしまう。血を吸いはしたが、それは主立った殺害方法じゃなかった。
-//Modus operandi es mas concreto.
-Ese tipo chamusca los cadáveres. Es verdad que también chupaba sangre, pero no es su modus operandi. 
+// Modus operandi es mas concreto.
+Ese tipo chamusca los cadáveres. Es verdad que también chupaba sangre, pero no es su modus operandi.
 }
 [sha:4cc9de1a26e6581ab8a69b3a12913880901dc882]{
 -- Page 242, Offset 17160.
@@ -337,7 +337,7 @@ Mi cabeza se llena de decepción y autodesprecio.
 [sha:6bf3d986214bf094d5ce44fb40fb7bca07076023]{
 -- Page 254, Offset 17188.
 -- ヴローヴは吸血鬼殺人には関係なくて、ここ一ヶ月街を騒がしているのは別の吸血鬼って事だな……？」
-Osea que estás diciendo que Vlov no tiene relación con los asesinatos,
+O sea que estás diciendo que Vlov no tiene relación con los asesinatos,
  y que el que ha estado este último mes causando estragos en la ciudad es otro vampiro diferente, ¿verdad?"
 }
 [sha:a342d2c547149e63cb4ceabbc039b9d99f11731d]{
@@ -378,13 +378,13 @@ No puedo controlar mis sentimientos.
 [sha:1aa0895bb6bf0237cfbe11d56ddeaaa50c94d1ac]{
 -- Page 257, Offset 17196.
 -- いま妙なコト言われたら、足元から崩れそうだ。
-//Rarete, esto seguramente lo cambie
+// Rarete, esto seguramente lo cambie
 Cualquier cosa que diga puede hacer mis piernas se rindan.
 }
 [sha:2ab4a9dedf2212df18b37711e97f622e9e757eb2]{
 -- Page 258, Offset 17197.
 -- 「ちょっとした疑問よ。ふたりでヴローヴを倒した時のこと。ね、なんで３分だったの？」
-//Tl oficial
+// Tl oficial
 "Solo una pequeña pregunta. Cuando luchábamos contra Vlov, ¿por qué dijiste que sólo tenías tres minutos?"
 }
 [sha:018e4dffe1a6829431bad8d10f863e55458b36de]{

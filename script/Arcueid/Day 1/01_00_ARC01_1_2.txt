@@ -365,7 +365,7 @@ Bueno, incluso si tienes eso en cuenta...
 [sha:134f70ea9a4ba4b1de8a6c8d565a77056fd294de]{
 -- Page 71, Offset 1337.
 -- 「……いや、最近の中学生はおっかないな」
-//Pero tío, no sé que poner aquí para sustituir a man
+// Pero tío, no sé que poner aquí para sustituir a man
 "Vaya...los estudiantes de secundaria de hoy en día si que intimidan."
 }
 [sha:d52e59a52750dbcb21c8affe8856f4ae5a3f3612]{

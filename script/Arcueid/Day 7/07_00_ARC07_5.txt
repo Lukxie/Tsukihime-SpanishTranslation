@@ -77,7 +77,7 @@ O quizá no quiera.
 [sha:52e40e314fdd10f2f21403a6a3d3b217a413fc0a]{
 -- Page 660, Offset 18247.
 -- あの奇跡のように美しい、人間ではない生き物を。
-Quizá me sienta atraido a ella, a toda su belleza y a toda su inhumanidad.
+Quizá me sienta atraído a ella, a toda su belleza y a toda su inhumanidad.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 661, Offset 18248.
@@ -114,7 +114,7 @@ Me quito las gafas.
 [sha:0e30eadaf7b43ebdaebecc2709ff65072e27e5dd]{
 -- Page 663, Offset 18254.
 -- 体と意識を深い闇に引きずり込もうとする、巨大な手のような眠気に身を委ねる。
-//Tl oficial
+// Tl oficial
 El sueño se hace cargo de mí, una mano gigante que arrastra cuerpo y consciencia a las profundidades de la oscuridad.
 }
 [sha:6b92a9678ae8e4cec6b52df4e4f7bd9851141b70]{

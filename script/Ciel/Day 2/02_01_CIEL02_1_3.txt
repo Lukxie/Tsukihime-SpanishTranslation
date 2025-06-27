@@ -183,7 +183,7 @@ Senpai esboza una sonrisa de oreja a oreja mientras sitúa la bolsa de papel en 
 [sha:373fa3f6391c3176ddb57eea1bee32b2e03f3a30]{
 -- Page 61, Offset 3763.
 -- 「じゃーん！　購買部の仕入れルートに進言することはや一週間！　ついに！　本格ベーカリーの<商品|アイテム>販売が実現したのです！」
-"¡Ta-da! ¡Hace una semana aconsejé a la tienda del colegio con su cadena de suministro! ¡Finalmente pueden vender productos de panadería auténticos!" 
+"¡Ta-da! ¡Hace una semana aconsejé a la tienda del colegio con su cadena de suministro! ¡Finalmente pueden vender productos de panadería auténticos!"
 }
 [sha:fd6f52ff9350eee026bc7550c6a31d49e1e01244]{
 -- Page 62, Offset 3764.

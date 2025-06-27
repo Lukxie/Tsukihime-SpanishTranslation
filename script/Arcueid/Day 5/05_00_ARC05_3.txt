@@ -29,7 +29,6 @@ Y además en primer lugar, ¿cómo vamos a encontrarlo?"
 "¿Encontrarlo?
  Si que eres un hombre de extremos, ¿no?
  Hace un segundo decidiste no huir, y ahora dices que deberíamos ir a la ofensiva."
- 
 }
 [sha:d8cb65cc1a24079338e5be4b4f5a0cffc5768445]{
 -- Page 219, Offset 9138.

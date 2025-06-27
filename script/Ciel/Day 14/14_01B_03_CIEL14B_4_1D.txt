@@ -213,10 +213,10 @@
 -- その１分の間に次の安全地帯―――比較的持ち堪えそうなビルを測り、跳び移らなければならない。
 -- TRANSLATION HERE
 }
-[offset:40492]{
+[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 84, Offset 40492.
 -- 「っ―――！」
--- TRANSLATION HERE
+"%{i}Kh%{/i}―――!"
 }
 [sha:f3fa18522143cabb9da3f9c8e9fc1e2353a60448]{
 -- Page 84, Offset 40493.

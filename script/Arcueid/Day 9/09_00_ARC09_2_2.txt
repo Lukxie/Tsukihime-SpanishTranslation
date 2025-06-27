@@ -113,7 +113,6 @@ Kohaku-san, puedes dejar el kit aquí. Vas a volver, ¿no?"
 Y además, mira a tu alrededor.
  La habitación está tan limpia y ordenada
  que sería imperdonable para una sirvienta desordenarla con sus cosas."
- 
 }
 [sha:dc766191c365dfe641e2340ea9cd8edf7c294f53]{
 -- Page 80, Offset 21513.

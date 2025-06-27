@@ -159,7 +159,7 @@ Puedo sentir su presencia a nuestro alrededor. Hace que me cueste un poco relaja
 [sha:4361acc45a18c4107da218839b4f6eecca90cf1d]{
 -- Page 513, Offset 25594.
 -- 「……そうか。聞こえていて、無視しているとなると、余計に<質|たち>が、悪い」
-"Ya veo... Osea que me has ignorado... aunque... me hayas escuchado. Eso es simplemente... malvado."
+"Ya veo... O sea que me has ignorado... aunque... me hayas escuchado. Eso es simplemente... malvado."
 }
 [sha:d704fcea7277b6bf73203791bc6a7fb924e3960e]{
 -- Page 514, Offset 25595.
@@ -584,7 +584,7 @@ La razón por la que los vampiros se ocultan al aprovecharse de los humanos es p
 [sha:cc3f2061460de051455b13d35dbf0932e44e5e3d]{
 -- Page 546, Offset 25675.
 -- 「……それがノエル……先生みたいな連中か。
-"Osea que ese es el tipo de grupo del que forma parte Noel... sensei.
+"O sea que ese es el tipo de grupo del que forma parte Noel... sensei.
 }
 [sha:c9bad3a9c047991ff1f2386915394288d97dfa00]{
 -- Page 546, Offset 25676.

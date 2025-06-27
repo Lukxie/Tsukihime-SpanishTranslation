@@ -197,7 +197,7 @@ Van a ser las siete de la mañana――unos diez minutos antes de lo normal.
 [sha:265a36a8a7f88846f0796e71b4076e3b266b6636]{
 -- Page 899, Offset 26868.
 -- 「朝食だろ。すぐに行くから先に行ってていいよ」
-"¿Es hora del desayuno, verdad? Pronto estare allí, puedes adelantarte."
+"¿Es hora del desayuno, verdad? Ahora voy, puedes adelantarte."
 }
 [sha:56a64d59a5da04d5290d88f928222ceb0354e00a]{
 -- Page 899, Offset 26869.
@@ -614,12 +614,12 @@ Espero que no sea nada serio, como un resfriado o algo, pero...
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 927, Offset 26948.
 -- …………。
--- TRANSLATION HERE
+......
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 927, Offset 26949.
 -- …………。
--- TRANSLATION HERE
+......
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 927, Offset 26950.
@@ -1151,5 +1151,5 @@ Una conclusión confusa con preguntas sin responder.
 [sha:52f4cc2231701d9b68cc9d58bb4a4bd026be9228]{
 -- Page 956, Offset 27052.
 -- 唐突だが、これも遠野志貴らしい結末だ。
-Repentina, pero adecuada para alguien como Tohno Shiki.
+Repentina, pero propicia para alguien como Tohno Shiki.
 }

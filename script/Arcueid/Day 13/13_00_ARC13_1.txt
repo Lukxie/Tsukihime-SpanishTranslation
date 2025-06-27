@@ -371,7 +371,7 @@ Ese niño...
 [sha:7de87697d967a3172314f332ea9250ba2209cbe3]{
 -- Page 25, Offset 31741.
 -- 俺たちは、そうして時おり父親の目を盗んで外に出てきた秋葉と遊んだんだ。
-De vez en cuando, nos escabulliamos de nuestro padre e íbamos a jugar fuera con Akiha.
+De vez en cuando, nos escabullíamos de nuestro padre e íbamos a jugar fuera con Akiha.
 }
 [sha:cf409a76a6e420ca6645487a78a03b9986b60c6d]{
 -- Page 26, Offset 31742.
@@ -411,7 +411,7 @@ La escena que vi en ese claro del bosque.
 [sha:4802cfa8382d4705be127a85bc4d7052136b0c6d]{
 -- Page 28, Offset 31749.
 -- この屋敷に帰ってきてから、何かの白昼夢のように脳裏に浮かんだ、あの暑い夏の光景だけ。
-Desde que volví a la mansión, la imagen de ese cálido día de verano me ha estado acechando, como si fuera una especie de sueño lúcido. 
+Desde que volví a la mansión, la imagen de ese cálido día de verano me ha estado acechando, como si fuera una especie de sueño lúcido.
 }
 [sha:2425f507c73bf22767bc6e1500e248f2080ac95a]{
 -- Page 29, Offset 31750.
@@ -947,7 +947,7 @@ Hace siete años, cuando te intercambiaste con Tohno SHIKI, Padre... se deshizo 
 [sha:8bd76e14823669055a52743737fdbd4153da4aa3]{
 -- Page 62, Offset 31851.
 -- 世間体のために、遠野家の長男は生きていなくてはならない。けれど本当は血が繋がってはいないから、跡継ぎにはさせられない」
-Para mantener las apariencias, el hijo mayor de la familia tenía que estar vivo. Pero como en realidad no estabas relacionado por sangre, no podías volverte el heredero." 
+Para mantener las apariencias, el hijo mayor de la familia tenía que estar vivo. Pero como en realidad no estabas relacionado por sangre, no podías volverte el heredero."
 }
 [sha:4a48b7e6792c64fe3e26e113a8d0fbdf49dcc53a]{
 -- Page 63, Offset 31852.

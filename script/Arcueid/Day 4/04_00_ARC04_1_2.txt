@@ -24,7 +24,7 @@
 -- Page 67, Offset 5728.
 -- 「あっちの家にいた頃もさ、そんな風に叱られた事なんてなかったから驚いた。おかげで、これから朝飯を抜く事はできなさそうだ」
 "Me sorprendió;
- Creo que nunca me habían así hechado la bronca――ni siquiera cuando estaba con los Arima.
+ Creo que nunca me habían así echado la bronca――ni siquiera cuando estaba con los Arima.
  Parece que no podré volver a saltarme el desayuno."
 }
 [sha:ba41c113aee33183820cd371035b597314fad63d]{

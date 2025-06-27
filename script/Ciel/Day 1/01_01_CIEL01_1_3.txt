@@ -188,7 +188,7 @@ Garraspeo para romper la tensión.
 [sha:d58ea4077f1ffa12339d760ef003b3c5e985e597]{
 -- Page 25, Offset 559.
 -- それよりどうしたんですか？　先輩、部活やってませんよね。こんな時間に登校なんて」
-Más importante, ¿ocurre algo? 
+Más importante, ¿ocurre algo?
  No estas en ningun club, ¿verdad Senpai?
  ¿Por qué vas tan temprano a la escuela?"
 }

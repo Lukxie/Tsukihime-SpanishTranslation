@@ -1,12 +1,12 @@
 [sha:be0a2d1a5850ef96cb5431a0b2508cedfdaf4607]{
 -- Page 10019, Offset 12354.
 -- 「はっ、はっ、はっ、は―――！」
--- TRANSLATION HERE
+"¡%{i}Hah, hah, hah, ha%{/i}―――!"
 }
 [sha:40fdba053658094ebacb3a7e256356c072c20168]{
 -- Page 10019, Offset 12355.
 -- 屋上を施錠していた扉の鍵はナイフで切断した。
--- TRANSLATION HERE
+Con el cuchillo corto la cerradura de la puerta que lleva al tejado.
 }
 [sha:92888b0b7d65010ad5303cbc079e1bd1b539dce2]{
 -- Page 10019, Offset 12356.
@@ -21,7 +21,7 @@
 [sha:e687d81b37de231b7b3c47813d836e8a65bde645]{
 -- Page 579, Offset 12358.
 -- 非常灯の明かりを頼りに階段を駆け下りる。
--- TRANSLATION HERE
+Bajo las escaleras a toda velocidad, dependiendo de las luces de emergencia.
 }
 [sha:c8fc791c305c04f3ed0506ca71b5d87a665a6a69]{
 -- Page 579, Offset 12359.
@@ -116,22 +116,22 @@
 [sha:92659f6cc7b8ca509be303cd7909568a1a01984a]{
 -- Page 584, Offset 12377.
 -- エレベーターに辿り着いた。
--- TRANSLATION HERE
+Por fin llego al ascensor.
 }
 [sha:522da0cbb993ae1f6b5d9f10f3b0ba23cd07ef11]{
 -- Page 584, Offset 12378.
 -- 中に入って一階のボタンを押す。
--- TRANSLATION HERE
+Me meto corriendo y pulso el botón de la primera planta.
 }
 [sha:920e0fa145dbe6d4c35e0fde251a13f8503417d2]{
 -- Page 584, Offset 12379.
 -- もう迷っている時間はない。
--- TRANSLATION HERE
+Ya no hay tiempo para dudar.
 }
 [sha:1edb1b6b87efaa786dee63a2c393e68e9f043f9f]{
 -- Page 584, Offset 12380.
 -- そもそも迷っている場合じゃない。
--- TRANSLATION HERE
+Nunca lo hubo en primer lugar.
 }
 [sha:a6f5f4f40f92c3f47b60e3b7e0005629d81e9912]{
 -- Page 584, Offset 12381.
@@ -156,12 +156,12 @@
 [sha:e66cb6436fc23802c7546cad84934d700fa8ab68]{
 -- Page 586, Offset 12385.
 -- 「は――――ア」
--- TRANSLATION HERE
+"%{i}Ha――haaahh%{/i}."
 }
 [sha:81d91c71013b65eba3ed832c261b193699df1a9f]{
 -- Page 586, Offset 12386.
 -- 呼吸が速まる。
--- TRANSLATION HERE
+Mi respiración se acelera.
 }
 [sha:4b555ccaa7ef0b5dca0e3c1bc1ee9714796d4c51]{
 -- Page 586, Offset 12387.
@@ -171,7 +171,7 @@
 [sha:7a2fcb0ff2fd54f2c37ca82dc5fee13a7299a72e]{
 -- Page 587, Offset 12388.
 -- ……一階に到着した。
--- TRANSLATION HERE
+Llego a la primera planta.
 }
 [sha:e16b9543f4483e32fecc79038e15199423ef2942]{
 -- Page 587, Offset 12389.

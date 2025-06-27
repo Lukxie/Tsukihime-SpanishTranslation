@@ -21,7 +21,7 @@ El aroma doméstico de los tatami y el papel shoji.
 [sha:e1a8dd0d50900d2afa8c4de6f22935ff9880e637]{
 -- Page 1, Offset 4.
 -- つみき<細工|ざいく>のようなそら。
-//Traducción lo mismo muy literal
+// Traducción lo mismo muy literal
 El firmamento estampado con un parqué de estrellas.
 }
 [sha:e46a3d2c730ea8806927a78e8af9e8586c801b49]{
@@ -477,6 +477,6 @@ La luna...
 [sha:69f4260370cd9c3bf32f4c0eef67921448027670]{
 -- Page 23, Offset 106.
 -- 月が、綺麗―――――――だ―――――
-//Esta noche la luna es tan preciosa. Pero bueno hay que adaptarse (creo)
+// Esta noche la luna es tan preciosa. Pero bueno hay que adaptarse (creo)
 Es tan... preciosa... esta noche.
 }

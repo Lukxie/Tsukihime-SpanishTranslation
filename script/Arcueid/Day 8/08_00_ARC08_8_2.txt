@@ -190,7 +190,7 @@ Noel recoge su lanza y continua motivándose a ella misma.
 -- Page 594, Offset 21277.
 -- そのまま、コホン、とわざとらしく咳払いをすると、背中から地面に倒された俺の胸を、そのブーツで踏みつけた。
 Mientras sigo de espaldas donde me caí.
- Ella garraspea nerviosa,
+ Ella carraspea nerviosa,
  y después me pisa el pecho con su bota.
 }
 [offset:21278]{
@@ -223,7 +223,7 @@ No parece que esté haciendo mucha fuerza,
 [sha:50b0e852f792301076161c284fd863a377c0d2cc]{
 -- Page 597, Offset 21283.
 -- 「……もしかして。アンタも吸血鬼だったのか」
-"No me digas que... ¿Tú tambien eres un vampiro?"
+"No me digas que... ¿Tú tambiÉn eres un vampiro?"
 }
 [sha:de2fb4f11a66e9f45a3e598242f3e86d2f14a8cf]{
 -- Page 597, Offset 21284.
@@ -233,7 +233,7 @@ La pregunto para estar seguro.
 [sha:3b3fbf69ee76bf4d887793d6325a6390f04c69fe]{
 -- Page 598, Offset 21285.
 -- 「踏み潰される５秒前なのに余裕じゃない。
-"Considerando que estás a cinco segundos de ser aplastado, que pregunta tan atrevida.
+"Que pregunta tan atrevida, considerando que estás a cinco segundos de ser aplastado.
 }
 [sha:a310b346008875e620051f33fb9d633c44b0df89]{
 -- Page 598, Offset 21286.

@@ -657,7 +657,7 @@ Un latido tan fuerte que casi me deja inconsciente.
 [sha:2b48423c233b305b782cef65211bd5a67de8f2ef]{
 -- Page 601, Offset 25839.
 -- 欲しい。欲しい。欲しい。欲しい。
-La deseo. La deseo. La deseo. La deseo. 
+La deseo. La deseo. La deseo. La deseo.
 }
 [sha:2de0b0c8248cef26ab067c08f621ebf8b37f7ff5]{
 -- Page 601, Offset 25840.
@@ -1039,7 +1039,7 @@ Una criatura incomprensible.
 [sha:11c1ca9043063d07b7d48344b2d2eb1976cf2025]{
 -- Page 620, Offset 25915.
 -- 嵐のように渦巻く瞳。
-Ojos, dándo vueltas como una tempestad.
+Ojos, dando vueltas como una tempestad.
 }
 [sha:2d1afb9545bff72a559bfd5166c7db00fb36c83c]{
 -- Page 620, Offset 25916.
@@ -1126,7 +1126,7 @@ Se me escapa un grito.
 [sha:4cc28a6401e9ae67b92e2b675a1125d9653361c4]{
 -- Page 624, Offset 25932.
 -- 自分で、自分の声を聞いて情けないな、と思った瞬間。
-Al escuchar mi propia voz, 
+Al escuchar mi propia voz,
  no puedo evitar pensar lo patética que es.
 }
 [sha:6c04cdc6af69604eb602486f57eb3ea4e2cb8774]{

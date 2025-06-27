@@ -201,7 +201,7 @@ No he tenido oportunidad de explicarme y ya me está insultando de manera ridíc
 [sha:b81742de0fe08a3b0cdc8ca13a91fbbc42dd5dc3]{
 -- Page 182, Offset 24718.
 -- 俺はともかく、この路地裏を愛用するプロの人たちから誹謗中傷として訴えられかねないぞ、このお姫様。
-Puede que yo haga oidos sordos,
+Puede que yo haga oídos sordos,
  pero todos los pros que frecuentan este sitio lo considerarían terrorismo,
  mi estimada Princesa.
 }
@@ -421,7 +421,6 @@ Hago lo que dice inmediatamente.
 -- どっちであれ今のしおらしい顔を見せられて、異論を挟める筈がなかった。
 Sea como sea,
  no voy a sacar el tema tras verla poner una cara tan dulce.
- 
 }
 [sha:145a23073c37a1f2b9f4c74fae87799ad3012ab2]{
 -- Page 196, Offset 24761.
@@ -579,8 +578,6 @@ Aterrizamos en el tejado de un edificio a plena luz del día.
 Afortunadamente, o más bien, no me sorprende,
  no hay nadie en el tejado,
  por lo que nuestra llegada no causa ninguna conmoción, pero...
- 
- 
 }
 [sha:d4bb96c75a271c9f17a1decdc74bfc87101667a1]{
 -- Page 209, Offset 24791.

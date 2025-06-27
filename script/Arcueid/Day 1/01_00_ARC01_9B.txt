@@ -163,7 +163,7 @@ No soy esa clase de persona, y para serte honesto, está tan por encima de mí q
 [sha:68494a6793dc3a66fa3ddc32fb372a0070fe7ebe]{
 -- Page 532, Offset 2509.
 -- 「ですが、志貴さまはわたしの主人です」
-//Este speech maid master necesita revisión
+// Este speech maid master necesita revisión
 "Pero, tu eres mi amo."
 }
 [sha:05d18f939a9f7a54d518fb37da49a24637c1b093]{
@@ -266,7 +266,7 @@ Desde el punto de vista de una sirvienta, lo que dice tiene todo el sentido.
 [sha:7b95cafee6ea334d84e4b45a781af7c3c1284ec1]{
 -- Page 538, Offset 2529.
 -- ここで意見を通しても翡翠を困らせるだけだ。
-//laismo? :(
+// laismo? :(
 Insistiendo sólo la causaré más problemas.
 }
 [sha:cdea8d82bebfedab75423f6a40323ab3f71e35c9]{
@@ -382,7 +382,7 @@ Han pasado siete años desde que estuve en casa.
 [sha:a5cfe80bb76f7eedcbd0bc8ffaad9600318456a1]{
 -- Page 546, Offset 2552.
 -- ……七年ぶりの肉親。
-Siete años desde que ví a mi familia por última vez.
+Siete años desde que vi a mi familia por última vez.
 }
 [sha:e223ffb7dcc677b40dbae18a7e20c64f32dc6095]{
 -- Page 546, Offset 2553.

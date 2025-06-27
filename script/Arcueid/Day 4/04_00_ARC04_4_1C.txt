@@ -51,7 +51,7 @@ La pantera negra ya se ha escabullido.
 [sha:6dc0463d616f6ec42e97d04889327647fe252d50]{
 -- Page 304, Offset 6399.
 -- 今のアレを見て、あの女には敵わないと逃げ出したのかもしれない。
-Quizá vió lo que acaba de hacer, y huyó tras decidir que no era rival para ella.
+Quizá vio lo que acaba de hacer, y huyó tras decidir que no era rival para ella.
 }
 [sha:29a98f1012d71c02091f09959078acf50804c434]{
 -- Page 305, Offset 6400.
@@ -61,7 +61,7 @@ Quizá vió lo que acaba de hacer, y huyó tras decidir que no era rival para el
 [sha:bb4d2490493dd102c08c116c60aaa110555f98c1]{
 -- Page 305, Offset 6401.
 -- ……眼球の真横から頭痛がする。
-//Tras mis,  detras de, bajo mis
+// Tras mis,  detras de, bajo mis
 El dolor de cabeza palpita tras mis ojos.
 }
 [sha:4a13f49ba3ce2d0310b9732ea7c823939bfc5adf]{

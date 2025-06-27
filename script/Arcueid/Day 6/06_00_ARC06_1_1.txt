@@ -11,7 +11,7 @@ No puedo mencionar a Arcueid o a Vlov.
 [sha:3c70b27b258a8f8f0286ff8958e25bb01b661f7a]{
 -- Page 52, Offset 14043.
 -- 通じる筈がないし、アレは関わってはいけないものだ。
-//Aunque bajo ningun concepto puedo decirla la verdad, al menos puedo disculparme por mis faltas.
+// Aunque bajo ningun concepto puedo decirla la verdad, al menos puedo disculparme por mis faltas.
 No es vaya a entenderlo, y no quiero involucrarla.
 }
 [sha:446d91e66b9de31fabaf7fcb25689db4620f2940]{
@@ -82,7 +82,7 @@ Es mi imaginación, ¿o parece que se está divirtiendo?
 [sha:9698e2b7450d0bb7f323bec44ee06ddf3d59d214]{
 -- Page 56, Offset 14057.
 -- アレか。カエルを前にした蛇とか、そういうヤツか。
-//De la tl oficial.
+// De la tl oficial.
 Es como si ella fuera el gato y yo el ratón.
 }
 [sha:9a3f3b9ab5defb58ba9260111dde892a605ef35c]{
@@ -118,14 +118,14 @@ Me siento lentamente en el sofá, aguantando el dolor de mi pierna izquierda.
 [sha:fed8f13e40a1db49cfd7c302e600b6b498452d9f]{
 -- Page 59, Offset 14064.
 -- 「言わずとも分かります。……妙な態度でこちらの気勢を殺がないでください。卑怯です」
-//De la tl oficial.
+// De la tl oficial.
 "Sí, puedo verlo...
  Por favor no le quites seriedad a la conversación con esa extraña actitud. No es justo."
 }
 [sha:45bf036b03eebb2e5d250fbfc8202d2e56746199]{
 -- Page 60, Offset 14065.
 -- 「？　なんで卑怯なんだ？」
-//De la tl oficial.
+// De la tl oficial.
 "¿Injusto? ¿Cómo?"
 }
 [sha:e65c04107a6509ee1312380c2a8180fe7eab5e75]{
@@ -142,7 +142,7 @@ Me siento lentamente en el sofá, aguantando el dolor de mi pierna izquierda.
 [sha:139afc700fd881ccb02bf9a1d0da6c307d16fab9]{
 -- Page 61, Offset 14068.
 -- ううん、と咳払いをして<言|げん>を止めると、秋葉はいっそう鋭い視線で俺を睨んだ。
-//De la tl oficial.
+// De la tl oficial.
 Akiha para a mitad de frase con un tosido, y entonces afila aún más su mirada.
 }
 [sha:87439d2a77c6227a9bd907a57f75a2bff5373a08]{
@@ -281,7 +281,7 @@ Estuvo mal hacer que te preocupases sin motivo.
 [sha:dd2ec178c011f0925723cebf6eaaf6935a3b1614]{
 -- Page 72, Offset 14095.
 -- 「私に悪い、と思っているのに話せないんですね、兄さんは。
-"Osea que afirmas sentirte mal, pero aún así no lo explicas, Nii-san.
+"O sea que afirmas sentirte mal, pero aún así no lo explicas, Nii-san.
 }
 [sha:cff15985a9a4bd7e011b00a5e83537908cb24cc6]{
 -- Page 72, Offset 14096.
@@ -352,25 +352,25 @@ Akiha me mira fijamente a los ojos.
 [sha:3e10a32208e5e268f384da29415337ec0bdd4428]{
 -- Page 77, Offset 14109.
 -- しばらく、そんな息苦しい時間が続いた。
-//De la tl oficial.
+// De la tl oficial.
 Un silencio incómodo llena la sala.
 }
 [sha:bfe99f3deca821b7a911507042b275f8891093ed]{
 -- Page 78, Offset 14110.
 -- 「そうですね。
-//De la tl oficial.
+// De la tl oficial.
 "Lo entiendo.
 }
 [sha:79a26022e7efd330528344b7c4062e5d82370773]{
 -- Page 78, Offset 14111.
 -- 考えてみれば兄さんにも事情があるのでしょうし、私がそれに深く干渉する事はできませんものね」
-//De la tl oficial.
+// De la tl oficial.
 Es natural que haya asuntos que prefieras mantener privados, y no me corresponde interferir. "
 }
 [sha:fddc666f51a3a170f7b569353dca359262a836f3]{
 -- Page 78, Offset 14112.
 -- 「……悪い。そう言ってもらえると、助かる」
-//De la tl oficial.
+// De la tl oficial.
 "Lo siento... Pero me alivia oírte decir eso."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

@@ -342,7 +342,7 @@ Ante mis ojos la cara ensangrentada y sollozante de Akiha.
 [sha:b8d11861d1f050f81781c37faf172e49cdfd90cb]{
 -- Page 139, Offset 21682. Mods: @k, @e.
 -- みーん、みんみん。
--- TRANSLATION HERE
+%{i}chiiiirp    chirp chirp%{/i}
 }
 [sha:b8d11861d1f050f81781c37faf172e49cdfd90cb]{
 -- Page 139, Offset 21683. Mods: @k, @e.

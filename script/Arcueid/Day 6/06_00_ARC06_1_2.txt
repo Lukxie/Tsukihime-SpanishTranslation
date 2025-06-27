@@ -187,7 +187,7 @@ En su ojos no se ve enfado sino exasperación.
 [sha:e8fbd4907177e1a37852fba464bb4313dbfaa864]{
 -- Page 95, Offset 14154.
 -- ん？　……ってコトは、今の概要だけの話を、ちゃんと“実際にそうした事”として信じてくれている、という事か？
-Espera... ¿Entonces se lo ha creído? ¿Ha aceptado esa pobre excusa como si fuera la verdad? 
+Espera... ¿Entonces se lo ha creído? ¿Ha aceptado esa pobre excusa como si fuera la verdad?
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 96, Offset 14155.

@@ -343,7 +343,7 @@ No estoy diciendo necesariamente que sería genial si fuera así,
 -- Page 269, Offset 24940.
 -- おまえがそんな優しい生き物じゃないコトはよく分かってる。なにしろ地面ごとドカーンなヤツだから」
 Sé que no eres tan amable.
- Sin mencionar que si lo intentas probablemente dejes un rastro de destrucción a tu paso." 
+ Sin mencionar que si lo intentas probablemente dejes un rastro de destrucción a tu paso."
 }
 [sha:b4ece17695ebcbe5bf88d9d1ab9232246469a350]{
 -- Page 270, Offset 24941. Mods: @n.

@@ -6,7 +6,7 @@
 [sha:12422cfa19a8eafb821d071748569ec7fb6ba1d6]{
 -- Page 10004, Offset 21382.
 -- まだ他にも考えるべき事はあるが、今は体を起こさなければ。
-Aún hay muchas cosas en las que pensar, 
+Aún hay muchas cosas en las que pensar,
  pero ahora mismo, tengo que levantarme de la cama.
 }
 [sha:38021f55a71778179e0b145e6cd8f65b754b0af5]{
@@ -68,7 +68,7 @@ Me lo guardaré para esta noche y las discutiré con Arcueid.
 [sha:872894ed81cd6df96c42e8e937e7ac2c51c35f39]{
 -- Page 30, Offset 21394.
 -- 昼間ぐらいは自分の日常に戻らないと、俺もどうにかしてしまう。
-Si por el día ni siquiera puedo vivir una vida normal, 
+Si por el día ni siquiera puedo vivir una vida normal,
  quizá acabe haciendo algo drástico.
 }
 [sha:05133827600c455a80ac7ef082b85913159b2c21]{

@@ -161,7 +161,7 @@ Me doy cuenta de que por alguna razón mis mejillas están húmedas.
 [sha:cc9f15eca5a01bf698f8c431906558aca0bcdddd]{
 -- Page 560, Offset 2594.
 -- もしかしたら。
-Me pregunto...
+Por qué será...
 }
 [sha:5c14cf73e2534df622e37b630d0d1bd59c199be3]{
 -- Page 560, Offset 2595.

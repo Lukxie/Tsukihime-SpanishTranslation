@@ -139,7 +139,7 @@ Sin embargo, son como una llama, deben estar reponiendo constantemente su energ�
 -- 「どんな生物だって栄養を<摂|と>らないと活動できないでしょう？　それと同じよ。ただ、吸血種は食事……<血液|えいよう>さえ摂り続けていれば寿命がない、という事だけ」
 "Todos los seres vivos necesitan sustento para funcionar, ¿cierto?
  Es lo mismo.
- La única diferencia es que mientras sigan consumiendo sangre, la esperanza de vida de un chupasangre no tiene límite." 
+ La única diferencia es que mientras sigan consumiendo sangre, la esperanza de vida de un chupasangre no tiene límite."
 }
 [sha:4580f949af7a0a9ff8a2c09c5deb72768adaea07]{
 -- Page 539, Offset 7027.
@@ -204,7 +204,7 @@ Esto es complicado.
 [sha:007a90f5a07f83a72339ba7160484cc130a3c2e6]{
 -- Page 544, Offset 7038.
 -- こっちの理解も追いついていないのに、アルクェイドはかまわず話を続けていく。
-Arcueid prosigue, sin tener en cuenta que estoy siguiendo la explicación a duras penas. 
+Arcueid prosigue, sin tener en cuenta que estoy siguiendo la explicación a duras penas.
 }
 [sha:086957228b616721464f9c32bee1f8751dd065bd]{
 -- Page 545, Offset 7039.
@@ -307,7 +307,7 @@ Hmm...
 [sha:d7d62b5316165b83de8a3a982e1de5a2c06fef4a]{
 -- Page 553, Offset 7057.
 -- ようは洗脳、催眠術のようなものか。
-Osea que funcionan como un lavado de cerebro o hipnosis.
+O sea que funcionan como un lavado de cerebro o hipnosis.
 }
 [sha:f521400a334914114af4923404b4bf7bb9159fa1]{
 -- Page 553, Offset 7058.
@@ -347,7 +347,7 @@ Supongo que esto se puede clasificar en dos tipos.
 [sha:32f5aa2c8fd2a8a79f41c5a7592cf136c6fbf41e]{
 -- Page 555, Offset 7065.
 -- 高等なのは本当に粒子化するもの。自己を拡散させて現象になる、という離れ技。これが広範囲、かつ長時間できる死徒は数えるほどしかいないはず」
-Los de grado alto son del tipo que implica una transformación en partículas de verdad. Es una técnica que difumina a uno mismo, esparciendo las partículas que constituyen el cuerpo. Solo unos pocos Apóstoles Muertos pueden hacer esto en un amplio área y por largos periodos de tiempo." 
+Los de grado alto son del tipo que implica una transformación en partículas de verdad. Es una técnica que difumina a uno mismo, esparciendo las partículas que constituyen el cuerpo. Solo unos pocos Apóstoles Muertos pueden hacer esto en un amplio área y por largos periodos de tiempo."
 }
 [sha:3db6dbbcb611c5b81844c6e1a64a4e21c3017a82]{
 -- Page 556, Offset 7066.
@@ -358,7 +358,7 @@ Los de grado alto son del tipo que implica una transformación en partículas de
 [sha:7272857adfc91e0c5fcfb2cdeb339e248eb3e170]{
 -- Page 556, Offset 7067.
 -- 用心深い吸血鬼は分身を作って、それに意識を乗せて活動する。用が済んだら分身を操る魔力をカットするんだけど、それが塵になって霧散することから“霧になって消えた”ように見えるだけ」
-Los vampiros precavidos crean clones y los manejan imbuyendolos con algo de su consciencia.
+Los vampiros precavidos crean clones y los manejan imbuyéndolos con algo de su consciencia.
  Una vez terminen con ellos, cortarán el suministro de energía mágica que animaba el clon.
  Esto causa que se vuelvan polvo y se dispersen, haciendo parecer que han desaparecido en una nube de niebla."
 }
@@ -386,7 +386,7 @@ Esta extranjera... no, este %{i}vampiro%{/i} extranjero sabe una cantidad sorpre
 -- Page 558, Offset 7072.
 -- 長い年月を生きた吸血鬼ほど、崩壊する肉体の補完は通常の命では間に合わない。だから力のある獣を取りこんで、それを体として使っている。
 Cuanto más vive un vampiro, más difícil es para las células normales reparar un cuerpo en descomposición.
- Es por eso que capturan bestias poderosas para suplementar esto en su lugar. 
+ Es por eso que capturan bestias poderosas para suplementar esto en su lugar.
 }
 [sha:528d0209f15217048fb77fe96b838c14450ee742]{
 -- Page 558, Offset 7073.

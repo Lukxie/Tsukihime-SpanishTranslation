@@ -1,12 +1,12 @@
 [sha:f08d5e8b0b695b6f97adf84cb3c7d234fcfd195d]{
 -- Page 10008, Offset 13579.
 -- 庭を散歩するか。
--- TRANSLATION HERE
+Iré a dar un paseo por el jardín.
 }
 [sha:3b6f818db70d1fbcb53c568a4f070f20a881784e]{
 -- Page 10008, Offset 13580.
 -- 屋敷に帰ってきてからこっち、庭園には出ていない。
--- TRANSLATION HERE
+Han pasado varios días desde que volví a la mansión, pero aún no he salido al jardín.
 }
 [sha:8890c0dd2f3dcd013b54d1d8c216ec1b25ebe180]{
 -- Page 10008, Offset 13581.
@@ -18,35 +18,37 @@
 -- ロビーまで出て、大階段の後ろにある出入り口から中庭に出られるはずだ。
 -- TRANSLATION HERE
 }
-[offset:13583]{
+[sha:4658195e2fafe9877288f974816939d58c317faf]{
 -- Page 164, Offset 13583.
 -- テラスに出る。
--- TRANSLATION HERE
+Salgo a la terraza.
 }
 [sha:98495d43c31afc046837e047b797cea128b10d81]{
 -- Page 164, Offset 13584.
 -- ここは居間の裏側でもある。
--- TRANSLATION HERE
+La terraza también colinda con la sala de estar.
 }
 [sha:1ac0fee36fca5d428780fdea59705ffd1c4b5be6]{
 -- Page 164, Offset 13585.
 -- 子供の頃、天気のいい日はここが秋葉の居場所だった。
--- TRANSLATION HERE
+Cuando éramos pequeños, esta era la zona favorita de Akiha si hacía buen tiempo.
 }
 [sha:c04b652e8b0cd85513bbf90d1dd31bf15e2c188f]{
 -- Page 164, Offset 13586.
 -- いや、居場所というより活動範囲か。
--- TRANSLATION HERE
+// Mix de ambas
+Aunque, también se podría decir que era el límite de su territorio.
 }
 [sha:3a3ad51a874d8e831887a34807a5b8baf1fd7eef]{
 -- Page 164, Offset 13587.
 -- 秋葉ひとりでは園まで出る事はなく、このテラスまでがあいつの移動範囲だった。
--- TRANSLATION HERE
+// mix de ambas
+Nunca se adentraba al jardín sola; esta terraza era lo más lejos que la dejaban ir.
 }
 [sha:619fc6b68d634611298f3dfc082af4237b14f665]{
 -- Page 165, Offset 13588.
 -- 「……そうだった。
--- TRANSLATION HERE
+"Es cierto...
 }
 [sha:5df3cd8248c20890644adbc4b884db982fceada5]{
 -- Page 165, Offset 13589.
@@ -56,27 +58,30 @@
 [sha:2fc75917768596291a5e85a6b7badbc18ca4c74c]{
 -- Page 166, Offset 13590.
 -- 遊びに行く時は必ずここに寄ってほしい、とも言われた気がする。
--- TRANSLATION HERE
+Recuerdo que siempre me decían que me limitase a la terraza cuando fuéramos a jugar.
 }
 [sha:76cade6142ca7c12c8186eb1a84ff9dfa06a9e4a]{
 -- Page 166, Offset 13591.
 -- 自分たちだけで森に行くのはズルイ、とかなんとか。
--- TRANSLATION HERE
+Decían que no sería justo que fuéramos al bosque nosotros solos, o algo así.
 }
 [sha:2f73de030ce22159d3d3052e3c0c6511f44dd6b6]{
 -- Page 166, Offset 13592.
 -- 結果、秋葉を森まで連れ出してしまい、怒られるのは俺の役割だった。
--- TRANSLATION HERE
+Por supuesto, me llevaba a Akiha al bosque de todas formas, y luego asumía la posterior reprimenda.
 }
 [sha:d0125fb521cbe7b5f2a1f8e73f3bcde2b4e761fb]{
 -- Page 167, Offset 13593.
 -- テラスから庭園に出る。
--- TRANSLATION HERE
+Me dirijo de la terraza al jardín.
 }
 [sha:dcc38c70d3a328cdfb0e6714b8e4e5670219e087]{
 -- Page 167, Offset 13594.
 -- 子供の目には果てのない庭に見えたが、今は視点があがった事で全体像を把握できる。
--- TRANSLATION HERE
+// Mix de ambas
+A los ojos de un niño el jardín parecía infinito,
+ pero ahora tengo una mejor perspectiva,
+ y puedo verlo en su totalidad.
 }
 [sha:5c3bff6dc4f1803c36388b7292455f3db1870307]{
 -- Page 167, Offset 13595.
@@ -91,17 +96,18 @@
 [sha:5506a7af6eff1a9f1306ac8d1c913b4beb68e68c]{
 -- Page 168, Offset 13597.
 -- ここが庭の終わりだ。
--- TRANSLATION HERE
+Esto marca el final del jardín.
 }
 [sha:669bd7170cb7d4c51c2677c4aaaccfd73d8877eb]{
 -- Page 168, Offset 13598.
 -- ここから先はうっそうと木の茂った森になる。
--- TRANSLATION HERE
+De aquí en adelante, comienza el denso bosque, repleto de árboles.
 }
 [sha:b0ce6650dffb2ad5ef4c44aa79b86c1e94655cd9]{
 -- Page 168, Offset 13599.
 -- 今日は脚の怪我もあるし、散歩はここまでにしよう。
--- TRANSLATION HERE
+// tl oficial
+Siendo consciente de no forzar mi pierna, decido terminar aquí mi paseo.
 }
 [sha:e742a8be3dce08baca89bde57a443ea7589ff214]{
 -- Page 169, Offset 13600.
@@ -121,7 +127,8 @@
 [sha:e2298125f973cc6db9b201fd9ea97f2e44a53b0d]{
 -- Page 170, Offset 13603.
 -- ここまでくると洋館というより城に近い。絶景には違いないが、俺には不釣り合いすぎて苦笑いするしかない。
--- TRANSLATION HERE
+// Tl oficial.
+Desde aquí, la mansión se parece más a un castillo. Me siento tan fuera de lugar en este pintoresco paisaje que no puedo evitar forzar una sonrisa.
 }
 [sha:34c10fb2bb41c506296f0bd006c0b46a56a30b94]{
 -- Page 170, Offset 13604.
@@ -188,10 +195,10 @@ Es por eso―――
 -- もうあんな無茶をしなくていいんだから―――」
 -- TRANSLATION HERE
 }
-[offset:13617]{
+[sha:6fe0980ad2806200d3c6fb91b2c8ee637207cfd4]{
 -- Page 176, Offset 13617.
 -- 言いかけて、口を閉じた。
--- TRANSLATION HERE
+Cierro la boca antes de poder terminar la frase.
 }
 [sha:23256352b519f2f9374a7758c9edc46eb1c8021e]{
 -- Page 176, Offset 13618.
@@ -201,7 +208,7 @@ Es por eso―――
 [sha:2bfdc86d9eb3ac63c4481990b87825197a3c6782]{
 -- Page 176, Offset 13619.
 -- だって、いまも胸に残ってる。
--- TRANSLATION HERE
+Después de todo, estos sentimientos permanecen en mi corazón.
 }
 [sha:5b249841598f3cc744b5695cb9ccf03642a6ab9e]{
 -- Page 176, Offset 13620.
@@ -216,7 +223,7 @@ Es por eso―――
 [sha:48a8515432980fb27a331072bf742ea91da7b8d6]{
 -- Page 177, Offset 13622.
 -- 厄介ごとしか持ちこまないヤツだったけど、それでも少しは……まあ、一緒にいられて楽しかったんだし。
--- TRANSLATION HERE
+No me dio más que problemas, pero aún así... fue divertido pasar tiempo con ella.
 }
 [sha:22ae8eda348d05c602f0e4eedcc1824dab5a8c2d]{
 -- Page 178, Offset 13623.
@@ -228,25 +235,26 @@ Es por eso―――
 -- 先輩はともかく、アイツはどうでもいいじゃないか」
 -- TRANSLATION HERE
 }
-[offset:13625]{
+[sha:da7e29a27b4dbf7077cae9615fd32b77877855b8]{
 -- Page 179, Offset 13625.
 -- 一度殺されかけたっていうのに、何が未練なんだか。
--- TRANSLATION HERE
+Casi me matan, ¿por qué narices sigo obsesionado con ella?
 }
 [sha:bdca53b55ea891868e04efa5da9d849d9a91d460]{
 -- Page 179, Offset 13626.
 -- 遠野志貴は、もう二度とあんな目に遭うのはゴメンな筈だ。
--- TRANSLATION HERE
+%{i}No quieres volver a pasar por algo como eso%{/i}.
 }
 [sha:f5ddaa22e1a56c64ea1e2d24ce8ddb935af1f850]{
 -- Page 180, Offset 13627.
 -- ため息をついてガゼボを後にする。
--- TRANSLATION HERE
+Suspiro y dejo atrás la glorieta.
 }
 [sha:318e577e5383c14d5e3ad89578cf9dc720c98829]{
 -- Page 180, Offset 13628.
 -- 帰りも中庭を散歩して時間を潰す。
--- TRANSLATION HERE
+// Tl oficial.
+Me tomo mi tiempo para volver, deambulando sin rumbo por el jardín.
 }
 [sha:aa928305326b7c5346be1a0ede89f3df9b9ce7e0]{
 -- Page 180, Offset 13629.

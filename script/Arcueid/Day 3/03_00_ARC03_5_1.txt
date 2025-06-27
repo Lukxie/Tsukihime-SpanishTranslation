@@ -286,12 +286,12 @@ Los jugos gástricos se mezclan con el carmesí.
 -- Page 263, Offset 4715.
 -- 吐き出すものもないくせに胃が<蠕動|ぜんどう>するため、食道も喉も出血している。
 Mi estómago se contrae, aunque no quede nada dentro de él.
- Mi exófago y garganta están sangrando.
+ Mi esófago y garganta están sangrando.
 }
 [sha:e770cf955d04135fbd04805ea59821ec4f8f4b08]{
 -- Page 264, Offset 4716.
 -- 『い……た――――』
-//Añado 'como' para que tenga sentido
+// Añado 'como' para que tenga sentido
 "Como... duele―――"
 }
 [sha:70393eec05e9a75ec0deb6c2286ecaa5c50881b5]{

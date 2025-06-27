@@ -23,7 +23,7 @@ Al final del pasillo veo la figura conocida de Senpai.
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 56, Offset 625.
 -- 「……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:d8e40b92dd6b792a6c3b89a37b01ba62d70b7810]{
 -- Page 56, Offset 626.
@@ -83,7 +83,7 @@ Aparto la mirada, cada vez más avergonzado.
 [sha:8f768b6522a605ed64429adc30317100910f2ea8]{
 -- Page 60, Offset 637.
 -- 先輩と話すのは慣れているはずなのに、今日はやけに意識してしまう。朝、ひとりで物思いに<耽|ふけ>っていたところを見られたからだろうか。
-Debería estar acostumbrado a hablar con Senpai, pero hoy le estoy dando demasiada importancia. Me pregunto si es porque esta mañana me vió absorto en mis pensamientos. 
+Debería estar acostumbrado a hablar con Senpai, pero hoy le estoy dando demasiada importancia. Me pregunto si es porque esta mañana me vió absorto en mis pensamientos.
 }
 [sha:6d03518da6d90784a000b6cf6a1d7770d6942caa]{
 -- Page 61, Offset 638.
@@ -529,7 +529,7 @@ En la bandeja hay,
 [sha:94322d83289e97e2357e5a3273bd3ddf89ca37e1]{
 -- Page 98, Offset 724. Glued. Mods: @n.
 -- カレーライスと
--- TRANSLATION HERE
+arroz con curry,
 }
 [sha:94322d83289e97e2357e5a3273bd3ddf89ca37e1]{
 -- Page 98, Offset 725. Glued. Mods: @n.

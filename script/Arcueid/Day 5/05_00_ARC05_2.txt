@@ -306,7 +306,7 @@ Mis pensamientos autodespectivos desaparecen.
 [sha:da030d981afdc905c3f54a94a731d0c52ffb14e9]{
 -- Page 194, Offset 9065.
 -- アルクェイドのたとえ話は、俺を気遣ってのものではない。むしろ軽蔑してのものだった。
-Arcueid ha hecho una analogía no porque esté preocupada por mi, sino más bien, para expresar desprecio. 
+Arcueid ha hecho una analogía no porque esté preocupada por mi, sino más bien, para expresar desprecio.
 }
 [sha:33fa4d83b8288d0415158eea7e823a9ce6a78de5]{
 -- Page 194, Offset 9066.
@@ -399,7 +399,7 @@ Shiki ¿qué quieres hacer de aquí en adelante?
 [sha:61217e17aa29e0c2d11079d914b6decdd4025ead]{
 -- Page 199, Offset 9083.
 -- 好きな方を選んで。わたしはもう強制はしない。見張り役の約束は、昨日一日で完了よ」
-Escoge el camino que quieras. No te voy a forzar más. Ayer cumpliste tu promesa de cuidarme." 
+Escoge el camino que quieras. No te voy a forzar más. Ayer cumpliste tu promesa de cuidarme."
 }
 [sha:bb5f8f29b9aacb7487835c5d7dacfdf4b7af5953]{
 -- Page 200, Offset 9084.
@@ -429,5 +429,5 @@ Si piensas que eso no está bien, entonces vuelve a la vida que llevabas previa 
 [sha:bcfa8111255206321637332b90893653bea4f1b6]{
 -- Page 202, Offset 9089.
 -- ……アルクェイドの視線が刺さる。
-Los ojos de Arcueid se hunden en mi.
+Los ojos de Arcueid se hunden en mí.
 }

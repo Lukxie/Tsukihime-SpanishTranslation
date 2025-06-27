@@ -193,7 +193,7 @@ Me río ante lo ridícula que es mi afirmación.
 [sha:9078ae866ae654843cfa811dae97ebe4316c24dc]{
 -- Page 150, Offset 14288.
 -- 確かにあれは、偶然が重なり合って起きた事だ。
-//Tl oficial
+// Tl oficial
 Es la verdad técnicamente, una que proviene de una increíble serie de coincidencias.
 }
 [sha:4f985a4dbe57f29e1e871fca08b3544cfe07998d]{
@@ -204,7 +204,7 @@ Solo pasé dos días con Arcueid.
 [sha:52b801028ef4caf43d62bc5c032060b796ff976c]{
 -- Page 151, Offset 14290.
 -- 色々ありすぎて今でも夢のようだけど、とにかく、街に巣くっていた怪物は消え去った。
-Ha pasado tanto que incluso ahora se siente como un sueño, pero al menos ya no está el monstruo que anidaba en la ciudad. 
+Ha pasado tanto que incluso ahora se siente como un sueño, pero al menos ya no está el monstruo que anidaba en la ciudad.
 }
 [sha:5178950907d56e27a84e337d914e6c1588dfe4f0]{
 -- Page 151, Offset 14291.
@@ -254,7 +254,7 @@ La agradezco mientras me levanto.
 [sha:53b3cb2721f2bac00d7a15bd8a760c617acadcdd]{
 -- Page 155, Offset 14300.
 -- 朝食まで管理する気はありませんから、ご自由に摂ってください。琥珀なら厨房で朝食の支度をしているでしょうし」
-No tengo interés en controlar tu desayuno, así que por favor vé y disfrútalo como quieras.
+No tengo interés en controlar tu desayuno, así que por favor ve y disfrútalo como quieras.
  Si estás buscando a Kohaku, probablemente esté en la cocina preparando las cosas."
 }
 [sha:04d0c43d3804e579cdf1aeaef13b7f8593ba74e6]{
@@ -406,7 +406,7 @@ Originalmente era cirujana.
 [sha:0c20a8ee717d8e0776aa029a62f93e4218ec3645]{
 -- Page 170, Offset 14329.
 -- 内科の琥珀と、外科の阿良句先生。
-//Tl oficial
+// Tl oficial
 Kohaku que se especializa en tratamiento médico, o Arach-sensei, que es diestra en cirugía.
 }
 [sha:633c77d480e623db8ab7a1613e36bf2bae66aadd]{

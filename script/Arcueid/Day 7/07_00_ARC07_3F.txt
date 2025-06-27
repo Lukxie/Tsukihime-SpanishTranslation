@@ -13,7 +13,6 @@ Arcueid debe haberse recuperado mientras andaba, ya que ha vuelto a su yo habitu
 -- 「あっさり元に戻ってるし……もしかして、さっきは油断して傷を負った、とかいうオチじゃないだろうな？」
 "Parece que ya te has recuperado...
  No me creo que esto fuera por que bajaras la guardia y te hirieran, ¿verdad?"
- 
 }
 [sha:3e95e76e428173860a6971566a2dda15ec59207f]{
 -- Page 337, Offset 17411.
@@ -28,7 +27,7 @@ Arcueid debe haberse recuperado mientras andaba, ya que ha vuelto a su yo habitu
 [sha:59319a02f330f50c6bd7b2f6dcd61113f53cc362]{
 -- Page 338, Offset 17413.
 -- ホントじゃないコトも言ったってコトだよなぁ？」
-Osea que no todo lo que has dicho es la verdad, ¿no?"
+O sea que no todo lo que has dicho es la verdad, ¿no?"
 }
 [sha:2980bf70508465f653ab4b172596a1a183e40985]{
 -- Page 338, Offset 17414.
@@ -116,7 +115,7 @@ Lo que significa que el que lo controla es tu verdadero enemigo, ¿correcto?"
 [sha:8a660e9d73c0e1d0e9cd05145d012d1057b29555]{
 -- Page 344, Offset 17430.
 -- 志貴の可愛い勘違いはヴローヴの事だけってコトね」
-//Joder que dolor de huevos
+// Joder que dolor de huevos
 Lo que significa que tu único error adorable fue lo de Vlov."
 }
 [sha:48e0074473ccdf3e35be909611beaf659ae53268]{
@@ -203,7 +202,7 @@ Vampiros que corresponden al estereotipo de ser inmortal y débil a la luz del s
 [sha:2de93ad5e4e36b39867efdae90fb9959ec5dd61d]{
 -- Page 351, Offset 17446.
 -- ……じゃあ、おまえの追っている敵とやらが、殺人事件の吸血鬼で間違いないんだな？」
-Osea que, este vampiro al que persigues... ¿estás segura de que es el responsable de los asesinatos?"
+O sea que, este vampiro al que persigues... ¿estás segura de que es el responsable de los asesinatos?"
 }
 [sha:7ac9ad5ff7f27a6e49402a0034c97df0aef37fa1]{
 -- Page 352, Offset 17447.
@@ -246,7 +245,7 @@ La única razón por la que no he podido encontrar su escondite――su ataúd�
 -- Page 355, Offset 17454.
 -- 「あいつが自分の手を汚すのは数回だけ。あとは死者にした人間を操って、自分は眠っているだけで領地を拡げていく。
 "Ese tipo tuvo que mancharse las manos un par de veces.
- Tras eso, todo lo que hizo es manipular a la gente que había convertido en Muerto y expandir su territorio mientras duerme. 
+ Tras eso, todo lo que hizo es manipular a la gente que había convertido en Muerto y expandir su territorio mientras duerme.
 }
 [sha:c8109f8a1f95a402aeaf62bd141e327a2e87cd1a]{
 -- Page 355, Offset 17455.
@@ -366,7 +365,7 @@ Me imagino a Akiha, su sangre succionada y su cuerpo desechado como si fuera bas
 [sha:9b8e703ab8cdf580a65755e0162b26ce937f0afe]{
 -- Page 363, Offset 17476.
 -- 脳が削られるような目眩を、排気する事でやり過ごす。
-//Tl oficial
+// Tl oficial
 El aliento se me escapa entre los dientes mientras intento deshacerme del vértigo que me carcome el cerebro.
 }
 [sha:a774c8b9e5dd44ac6996947e7c1d06d26a553501]{
@@ -377,7 +376,7 @@ Mi corazón, que debería estar lleno de indignación, está extrañamente calma
 [sha:41b1508b90fd354f202b74fed511af57fcc520e5]{
 -- Page 364, Offset 17478.
 -- 今は震えるより、考えるべき時だと自分に言い聞かせる。
-//Tl oficial
+// Tl oficial
 "%{i}Ahora es el momento de pensar, no de que me dominen las emociones%{/i}, me digo a mi mismo.
 }
 [sha:aabaa4695d915eebae40ffd38cc94b9656df0ef2]{
@@ -389,7 +388,7 @@ Soy consciente de que en estas circunstancias
 [sha:8b6219608e77a828e33eee34baaab93527213643]{
 -- Page 364, Offset 17480.
 -- 危険に気がつきもしなかった自分自身の無力さ、腑抜けぶりを責めるのはその後だ。
-//Tl oficial
+// Tl oficial
 Es lamentable que me acabe de dar cuenta del peligro que corremos, pero no me puedo martirizar por ello.
 }
 [sha:559105e9de03c96dd8ff537fc5b92bf413255161]{
@@ -422,7 +421,7 @@ Pero una cosa sí, y es que puedo decir con total seguridad que lo que hacen es 
 [sha:975226a68792443a0d41015465ae84e8a07d5946]{
 -- Page 367, Offset 17486.
 -- たとえ顔も知らない人間でも、その人間にはそれまで生きてきた<重|か><量|こ>がある。その重さに比例するだけの<展望|みらい>がある。
-//Tl oficial
+// Tl oficial
 Incluso si las víctimas eran completos desconocidos, cada una de ellas
  tenía un pasado y un futuro propio.
  Todo ello les fue arrebatado en un instante.
@@ -457,7 +456,7 @@ Tal muerte―― tendría muy, muy poco sentido.
 [sha:87309aaf460b4889899be50a7444de5da6d59b9d]{
 -- Page 369, Offset 17492.
 -- 吸血鬼たちの天敵はこの国にはいないみたいだけど、今はわたしがちゃんといるんだから。
-//Suena raro pero bueno, sacado de la tl oficial
+// Suena raro pero bueno, sacado de la tl oficial
 Los enemigos naturales de los vampiros no parecen estar en el país,
  pero por suerte para ti, estoy aquí.
 }
@@ -532,7 +531,7 @@ No tiene... ¿nada mejor que hacer...?
 [sha:c061e23a3e8a43c3118a680d6c6649f575f217a0]{
 -- Page 374, Offset 17506.
 -- 「ま、そんなコトをやっているから狙われるんでしょうけど。そこはそれ、必要経費みたいなものかしら」
-//Tl oficial
+// Tl oficial
 "Bueno, supongo que eso me acaba convirtiendo en un objetivo.
  Pero bueno, podrías decir que es el coste de hacer negocio."
 }
@@ -632,7 +631,7 @@ A partir de ahora patrullaré la ciudad a diario,
 [sha:b090567c95390ca9252b2eb1d44fc481c9a343d4]{
 -- Page 382, Offset 17524.
 -- それとも、そんなにわたしの性能を信用できない？」
-¿O estás diciendo que no tienes fé en mis habilidades?"
+¿O estás diciendo que no tienes fe en mis habilidades?"
 }
 [sha:ea2b3dde89d79f41bbea1ede7025aa9483bf9d09]{
 -- Page 383, Offset 17525.

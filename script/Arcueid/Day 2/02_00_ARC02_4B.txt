@@ -125,7 +125,7 @@ Como castigo extra, esta noche no tendrás cena."
 [sha:fded841dc919d0488ca393e0e2afe50d23b049ef]{
 -- Page 208, Offset 3150.
 -- ギリギリ間に合ってこの厳しさとか本気で恐ろしい……仮に、もし門限を破ってしまったら、遠野志貴は一体どうなってしまうのか……。
-Está siendo dura incluso habiendo llegado a tiempo, 
+Está siendo dura incluso habiendo llegado a tiempo,
  no me quiero imaginar lo que habría ocurrido si me %{i}hubiera%{/i} saltado el toque de queda...
 }
 [sha:dbbde244cf5232b9169b1a7fa2c1b76317f14140]{
@@ -179,13 +179,13 @@ Escondiéndose en uno de los rincones del pasillo,
 [sha:e026d3e791714c46dea9161abd9ea54e702bc38f]{
 -- Page 211, Offset 3160.
 -- いくらなんでも一日目なら言う事をきいてくれるだろうって、もうありえないぐらい早めに帰ってきてたんですから」
-Después de todo, ella volvió increíblemente pronto
- pensando que no había forma de que fueras contra sus órdenes el mismísimo primer día de vuelta."
+Después de todo, ella ha vuelto increíblemente pronto
+ pensando que no había forma de que fueras contra sus órdenes el mismísimo primer día tras regresar."
 }
 [sha:e5287130c35dd2cb20db34e485acaab3f19594d5]{
 -- Page 211, Offset 3161.
 -- 「？　帰ってきてたって、誰がですか？」
-"Espera, ¿quién volvió?"
+"Espera, ¿quién ha vuelto?"
 }
 [sha:752c7f13d21b4e063b31c0a3c9c31d598aa868ca]{
 -- Page 212, Offset 3162. Mods: @k, @e.
@@ -269,7 +269,7 @@ Es difícil de entender porque muestra sus emociones de verdad,
 [sha:a0596aa1ecb973a91e16af355d3080e2bb1a906c]{
 -- Page 216, Offset 3177.
 -- 「あ、うん、分かってる。でも、その……まだうまく話せないから、気軽に名前で呼ぶのは申し訳ない気がして」
-"Ah,sí. Lo sé. Pero como aún no la conozco casi nada, me sentiría mal usando su nombre a la ligera."
+"Ah, sí. Lo sé. Pero como aún no la conozco casi nada, me sentiría mal usando su nombre a la ligera."
 }
 [sha:248d5878d01cd9bfc72bd63e988252a2f97c6b3b]{
 -- Page 217, Offset 3178.
@@ -351,7 +351,7 @@ Para cuando vuelvo del baño, son las nueve en punto de la noche.
 [sha:dffcbd7ac5974ea04d5bdf4ce3f5e52ff2d83b63]{
 -- Page 222, Offset 3193.
 -- 眠るにはいささか早すぎる時間だ。
-//Traduciendo esto a las 5AM xd
+// Traduciendo esto a las 5AM xd
 Es un poco pronto para irme a la cama.
 }
 [sha:ac5e6ade8fd698a1630e2e5ef70482bf07dcc74c]{

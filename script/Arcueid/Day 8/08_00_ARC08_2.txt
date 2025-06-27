@@ -164,7 +164,7 @@ Aunque no me corresponda comentar con quién elijas tener una relación en el fu
 [sha:2d0eeac4d9e669e19ecf5111835e6ffa7e64a2b9]{
 -- Page 67, Offset 19841.
 -- ……なるほど。秋葉から見ると、俺とアルクェイドはそういう関係に見えた訳か。
-Ya veo... Osea que así es como ve nuestra relación.
+Ya veo... O sea que así es como ve nuestra relación.
 }
 [sha:892f8678ac3d4c3c77c42922e41fc28aae4e8e62]{
 -- Page 68, Offset 19842.
@@ -277,7 +277,7 @@ Dicho eso, no puedo pensar en una explicación mejor,
 [sha:cc61ab7c37fbeebd7dc6b1c17b21d846c2d35001]{
 -- Page 76, Offset 19862.
 -- 先ほどから兄さんはあいつあいつと繰り返していますが、あの女性のお名前は？」
-Llevas todo el rato refiriendote a esta mujer como 'ella', ¿pero cuál es su nombre exactamente?"
+Llevas todo el rato refiriéndote a esta mujer como 'ella', ¿pero cuál es su nombre exactamente?"
 }
 [sha:9218b6401b9b7c1194bc998cdc35a78e83ceddf6]{
 -- Page 76, Offset 19863.
@@ -459,7 +459,6 @@ Akiha deja la sala de estar andando de manera inusualmente violenta.
 Piensa en cómo se siente Akiha-sama.
  Si vas a invitar a tu novia,
  al menos trae a alguien un poco más normal.
- 
 }
 [sha:415ff085042cdfee77483fb8647b38e4b3b67c97]{
 -- Page 91, Offset 19896.

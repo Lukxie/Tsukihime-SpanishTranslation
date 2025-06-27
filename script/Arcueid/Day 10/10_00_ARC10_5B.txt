@@ -104,7 +104,7 @@ No soy la única persona cuyo cuerpo puede desmoronarse con facilidad.
 -- Page 480, Offset 25492.
 -- 「どうしてかしらね。あなたを見ていると、時々、訳もなく怖くなる。……だから聞かせて。
 "No sé muy bien por qué, pero a veces... cuando te miro... tengo miedo.
- Así que... por favor respondeme.
+ Así que... por favor respóndeme.
 }
 [sha:95fab5898663bd24e3bf2e1ac98d8b513e2fd6e7]{
 -- Page 480, Offset 25493.
@@ -429,7 +429,7 @@ Más que eso―――
 [sha:2d7e99b32c910aaecdd2f0a78acdd377d05bdbbf]{
 -- Page 497, Offset 25554.
 -- 気が合う友人同士として、本当になにげなく、吸血鬼のことなんか考えずに。
-Quiero que nos veamos de manera informal, como amigos que disfrutan de la compañía del otro, 
+Quiero que nos veamos de manera informal, como amigos que disfrutan de la compañía del otro,
  sin tener que pensar en cosas como vampiros y eso.
 }
 [sha:d8b8d021e4b6ee95d32769781f6050e31bd4ce0e]{

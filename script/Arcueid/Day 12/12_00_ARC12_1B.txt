@@ -85,7 +85,7 @@ Nuestra escuela no tiene una sala dedicada a orientación.
 [sha:d17c53bce5c9949ade1c87858ca95de85f7a227c]{
 -- Page 21, Offset 30537.
 -- たいていは空き教室か職員室で行われるが、今日のように使われていない部室を使う事もある。
-Sesiones como esta suelen llevarse a cabo en clases vacías o en la sala de profesores, 
+Sesiones como esta suelen llevarse a cabo en clases vacías o en la sala de profesores,
  pero a veces también se realizan en la sala de algún club en desuso, como hoy.
 }
 [sha:2d16379b3488360c1e16984d4f17cc9cda9cb671]{
@@ -127,7 +127,7 @@ Pero, no hay nada que pueda hacer.
 [sha:1d0ade79ef5e133124471596c8a002a316800e06]{
 -- Page 23, Offset 30545.
 -- 部活動が禁止され、下校時間も早まった校舎は、刻一刻と静まりかえっていく。
-Con las actividades de club canceladas y el fin de clases adelantado, 
+Con las actividades de club canceladas y el fin de clases adelantado,
  cada minuto que pasa la escuela se vuelve más silenciosa.
 }
 [sha:ce1ae946e795d60844f4e47e11064870d2d06d39]{

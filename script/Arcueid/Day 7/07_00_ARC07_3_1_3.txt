@@ -94,14 +94,14 @@ A estas alturas ya me he acostumbrado, no estoy muy sorprendido.
 [sha:2c26bb405696c8131c53719e62f56b8f166cc5f7]{
 -- Page 582, Offset 18031.
 -- もー、志貴ったらつまらなそうな顔してるクセに、反応だけはいいんだからー！」
-//Tl oficial
+// Tl oficial
 Puedes parecer aburrido,
  ¡pero parece que tu cuerpo no puede contener la emoción!"
 }
 [sha:c129384048745e05a7d6156fe1aea4fcb09b33fe]{
 -- Page 583, Offset 18032.
 -- いや、どう反応していいか掴みかねているので、とりあえず真面目な顔をしているだけだった。
-//Tl oficial
+// Tl oficial
 Solo lo hago porque no sé como espera que reaccione.
 }
 [sha:0fd05795a4b84e683ce5136fe97f2b20bc4c7479]{
@@ -133,7 +133,7 @@ Todo hasta el Rango III son 'cadáveres vivientes' .
 [sha:aa2a8fbd73b5db6b87e3787621d9eb09a1322388]{
 -- Page 585, Offset 18038.
 -- Ⅳ～Ⅴ階梯目は夜を生きる『夜属』、
-//Tl oficial. Lo cambio para que no sea tan redundante.
+// Tl oficial. Lo cambio para que no sea tan redundante.
 Los Rangos IV y V son 'Seres de la Noche', es decir son activos cuando se pone el sol.
 }
 [sha:04503bb24a5a10ed17e32d450ea2ee28d1d9c6fe]{
@@ -150,7 +150,7 @@ Y por último, tenemos el Rango VI, un verdadero vampiro que es capaz de crear s
 [sha:7754041be438e74fc04e59fe6ff8c4a7846e0a2d]{
 -- Page 586, Offset 18041.
 -- 吸血・侵食によって子を作って、自分が作ったグループの頂点……親基になれる。
-//Tl oficial
+// Tl oficial
 Al alimentarse y corromper crean descendientes,
  convirtiéndose en el líder de su grupo.
 }
@@ -206,7 +206,7 @@ Hay 27 de ellos, así que los llamamos los Veintisiete Ancestros."
 [sha:d169e55780657e438a4fc8cfa057d8f5c484008b]{
 -- Page 590, Offset 18051.
 -- 「前後するけど、Ⅶ階梯目が上級死徒。
-//Tl oficial
+// Tl oficial
 "Por cierto, los Rangos VII son Apóstoles Muertos Superiores.
 }
 [sha:348faeee60a7ce4a41db73c662eda08e39bd919e]{
@@ -276,8 +276,8 @@ Un príncipe o princesa, por así decirlo.
 [sha:359e8127e4e45680fca40f46c7b45d226cb9422b]{
 -- Page 594, Offset 18064.
 -- 祖の中には吸血鬼ではないものを見初めて、いきなりこの階梯まで引き上げてしまうモノもいる」
-//Tl oficial
-Hay mortales que ascienden directamente a este estatus 
+// Tl oficial
+Hay mortales que ascienden directamente a este estatus
  si agradan a un Ancestro."
 }
 [sha:53480a5fa2f6be9fe4a67de2bbed7fbbf1ed9dfc]{
@@ -352,7 +352,7 @@ Como decirlo...
 [sha:bf925940fee76dfbac28d879dd75697d5d48ae9f]{
 -- Page 599, Offset 18078.
 -- 「騒いでない。こういうのは怖じ気づいてるって言うんだぜ、吸血鬼さん」
-//mix de tls
+// mix de tls
 "Ni de lejos. Esto es sentirse intimidado, Srta. Vampiro."
 }
 [sha:fb5defe4e1cb192bc34fafb119827210c9a035fc]{
@@ -453,7 +453,7 @@ Lo que de verdad quiero saber es acerca de las extrañas habilidades que tenía.
 [sha:5e286df60e7226de59d04e69ee30020a1b645f2d]{
 -- Page 606, Offset 18096.
 -- 存在するだけで世界を極寒に塗り替える呪い。
-La maldición que hacía que su presencia tiñese el mundo a su alrededor de un frío glacial. 
+La maldición que hacía que su presencia tiñese el mundo a su alrededor de un frío glacial.
 }
 [sha:1533bbd065daa5c3b5b7a88487c55991aaffd6f5]{
 -- Page 606, Offset 18097.
@@ -494,20 +494,20 @@ Lo que hace a un Ancestro Ancestro es la naturaleza de su sangre."
 [sha:bcd244d5a9d5e39874377c95be6b2920bf9fc605]{
 -- Page 609, Offset 18104.
 -- 「魂に刻まれてしまった大本の戒め。
-//Tl oficial
+// Tl oficial
 "Una restricción fundamental grabada en su alma;
 }
 [sha:9a97080f59c6c85b4a94a31acf9dc537cf5801dd]{
 -- Page 609, Offset 18105.
 -- それぞれ戴いた真理、渇きの根底となる世界観。
-//Tl oficial
+// Tl oficial
 Es el Principio que les han legado;%{n}
 La visión del mundo que conforma el origen de su sed;
 }
 [sha:ded30ad443ac5e43d2d483b697e500c9c52eb5ad]{
 -- Page 609, Offset 18106.
 -- その血を巡らせるだけで惑星の物理法則を塗り替える特異点。
-//Tl oficial
+// Tl oficial
 La singularidad que les permite pintar sobre las leyes físicas del planeta.
 }
 [sha:f7002143bfdc8ef2d267c7e28971f4348ffacd7a]{
@@ -560,7 +560,7 @@ Dicho eso, se necesitan al menos unos mil años de experiencia para poder usar I
 [sha:601c575a014f7a176e961bc5b894fc7a5827c162]{
 -- Page 612, Offset 18116.
 -- ……死徒としてはⅥ階梯クラスだったのに、なんであそこまで自我が残っていたのかしら……」
-//mix de tls
+// mix de tls
 En lo que respecta a Apóstoles Muertos solo era de Rango VI,
  me pregunto cómo pudo mantener ese nivel de consciencia..."
 }
@@ -572,7 +572,7 @@ En lo que respecta a Apóstoles Muertos solo era de Rango VI,
 [sha:c742f19f2ea84dd90faa0164b8be48fd60f22642]{
 -- Page 613, Offset 18118.
 -- それが何の間違いか俺たちの街にやってきて、俺たちが始末した。
-//tl oficial
+// tl oficial
 No sé lo qué le trajo aquí,
  pero ya nos hemos ocupado de él.
 }
@@ -591,7 +591,7 @@ No sé si quiero saber la respuesta, pero...
 [sha:67914a8456437c261eb5139b077df7839490941c]{
 -- Page 614, Offset 18121.
 -- こんな島国でヴローヴが消えたところで気にする祖はいないわ」
-//Tl oficial
+// Tl oficial
 Nadie se va a molestar porque Vlov mordiese el polvo en esta pequeña isla."
 }
 [sha:ef5f0cbfde4651264b053d3a261e5dd924e14be7]{
@@ -612,7 +612,7 @@ Estaremos bien mientras no molestemos a los cinco veteranos de la Alianza de la 
 [sha:ca09fae5ed2114aabb41124fdb16247d7ad62ea0]{
 -- Page 615, Offset 18125.
 -- とはいえ、アイツらも全員が全員、人間の敵って訳じゃないし、既に倒されている祖もいる」
-//mix de tls
+// mix de tls
 Aunque no todos ellos son enemigos de la humanidad,
  y algunos de ellos han sido derrotados.
 }
@@ -630,31 +630,31 @@ Está el Principio de Vlov que heredó de Offenbaum,
 [sha:6257e74010e3359a2b029b03518c673ed107de24]{
 -- Page 616, Offset 18128. Mods: @n.
 -- 『実り』の原理、『城、即ち王国』の
-//Me baso en la tl oficial
+// Me baso en la tl oficial
  el de 'Cosecha', el de 'Castillo-
 }
 [sha:f2341c69d210bb7b6fea3599a77cd2e548eb01eb]{
 -- Page 616, Offset 18129. Glued.
 -- 原理、
-//Me baso en la tl oficial
+// Me baso en la tl oficial
 ergo-Reino'
 }
 [sha:78ff6610edbfb0ff706053bbec6b87697975f01a]{
 -- Page 616, Offset 18130.
 -- 『剣』の原理、
-//Me baso en la tl oficial
+// Me baso en la tl oficial
  el de la 'Espada'.
 }
 [sha:551dd50c2f78c9332f1fb65605576cab54904cbd]{
 -- Page 616, Offset 18131.
 -- それと教会に封印された『熔ける』原理、
-//Me baso en la tl oficial
+// Me baso en la tl oficial
 Y los dos sellados por la Iglesia: 'Derretir'
 }
 [sha:792060211ed56c9ec338bf9ea199c261d462faad]{
 -- Page 616, Offset 18132.
 -- 『四肢』の原理……」
-//Me baso en la tl oficial
+// Me baso en la tl oficial
 y 'Cuatro Extremidades'
 }
 [sha:c0a03b1c30a586ebf9e5935f2cea14c910b724c8]{
@@ -681,7 +681,7 @@ A la Iglesia le lleva siglos prepararse para sellar a un solo Ancestro,
 [sha:617fb39226ebc123eedd2ffe9cbc4f24fe3ee442]{
 -- Page 618, Offset 18137.
 -- 凄いかどうかはともかく、二度とやりたくないのだけは痛感してる」
-Increible o no, no quiero volver a hacer algo como eso."
+Increíble o no, no quiero volver a hacer algo como eso."
 }
 [sha:7668bbe73a603f0a179bf492acfc1928f3d0fb92]{
 -- Page 618, Offset 18138.

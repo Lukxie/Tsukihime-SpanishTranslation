@@ -8,7 +8,7 @@
 [sha:00d0a7e9b7cee21d0e6f06f472f7d26e3929d059]{
 -- Page 10010, Offset 17079.
 -- この世でいちばんどの<顔|ツラ>な台詞だった。
-//Tl oficial
+// Tl oficial
 No he escuchado una pregunta más estúpida en mi vida.
 }
 [sha:cb56d96da03bc53c9a035cb98acb38c3cc4d7743]{
@@ -26,7 +26,7 @@ No he escuchado una pregunta más estúpida en mi vida.
 [sha:86acf9ba0973124af24ab47d322d50a2d40c82d4]{
 -- Page 209, Offset 17082.
 -- 「ばかをばかって言ってんだから、それ以外なにがあるっていうんだばか！　反論があるなら聞いてやるから言ってみろ！」
-//Creo que así queda bien aunque se repita mucho
+// Creo que así queda bien aunque se repita mucho
 "¡Solo estoy llamando idiota a una idiota, eso es todo, idiota!
  ¡Si tienes alguna objección habla, soy todo oídos!"
 }
@@ -134,7 +134,7 @@ Me mira como un gato enfurruñado.
 [sha:68ee8471ebfc16bc4017c9bcb41444323f7539eb]{
 -- Page 217, Offset 17102.
 -- 「―――なによ、勝手なことばっかり言って。
-//Tl oficial
+// Tl oficial
 "¿Por qué decides tu todo? No es justo.
 }
 [sha:2c9ad6f8e9302576913911df06dba4a91d4beb9a]{
@@ -207,9 +207,9 @@ En realidad, tenía algo que preguntarte,
 [sha:a43f6874cc6ba47f42a1f60b686dfc0743dea8f2]{
 -- Page 222, Offset 17115.
 -- 「そうか。興味本位か。次は木の陰にでも隠れてこっそり見に来てくれ。できるだけ誰にも見つからないように。できれば俺にも見つからないように」
-"Ya veo. Osea que tenías curiosidad.
+"Ya veo. O sea que tenías curiosidad.
  La próxima vez, escóndete detrás de un árbol cuando vayas a espiarme.
- Y esfuerzate para que nadie te vea.
+ Y esfuérzate para que nadie te vea.
  Y si incluso yo no te veo, mejor."
 }
 [sha:db4d8526f42d484940a2c4035c7a8328b7d43c9f]{

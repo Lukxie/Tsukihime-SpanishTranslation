@@ -32,7 +32,7 @@ Así era antes de que se popularizasen los móviles.
 [sha:03f5273375be480962e8ab433dbff0d2bda2942d]{
 -- Page 136, Offset 16911.
 -- 待ち合わせの場所ですれ違っても、相手の生活習慣や考え方を考察すれば身一つで探し当てられた。
-//Rarete
+// Rarete
 Aunque no puedas encontrar al otro donde quedasteis,
  si consideras las costumbres y como piensa la otra persona,
  puedes buscarla basándote en sus hábitos.
@@ -89,7 +89,7 @@ Sin importar lo abarrotado que esté, si sigue en esta ciudad――
 [sha:db986036297fdfc46bd5d43c79e0306b061a4012]{
 -- Page 140, Offset 16921.
 -- そろそろ見つけられるかも？　という予感も、
-//Todas mis esperanzas acaban frustradas.
+// Todas mis esperanzas acaban frustradas.
 ¿'Quizá está a la vuelta de la esquina'?
 }
 [sha:c4207b36d8bc5080f98f7b32428f4060196f0057]{
@@ -105,7 +105,7 @@ Todas mis esperanzas acaban frustradas.
 [sha:0d7f360a959b96fda5ee838dfa5c78ccf723b383]{
 -- Page 141, Offset 16924.
 -- ここまで清々しい無駄骨は久しぶりだ。言い過ぎかもしれないが初めてですらある。
-//Tl oficial
+// Tl oficial
 Ha pasado mucho desde la última vez que me sentí tan inútil. En realidad, puede que sea la primera vez que sea tan lamentable.
 }
 [sha:5cb8447561154ca98311d64abd49634f9098e4e7]{
@@ -168,13 +168,13 @@ Lo digo porque ha llegado una invitada inesperada."
 [sha:628a64abcb9901d4643a498d58e4e30e86917815]{
 -- Page 146, Offset 16936.
 -- 朝の一件だけでなく志貴さまがお帰りにならない事に不機嫌だった秋葉さまとかけます。
-//Tl oficial
+// Tl oficial
 No solo eso, pero Akiha-sama sigue molesta por tu ausencia, y ya ni mencionar el incidente de esta mañana.
 }
 [sha:d883e9583fb640c25956862935c0ba325b7fa698]{
 -- Page 146, Offset 16937.
 -- そのこころは？』
-//Tl oficial
+// Tl oficial
 Una combinación explosiva, ¿no crees?"
 }
 [sha:3728d685c33850856e89d63ae91a0b114ff6973e]{
@@ -205,7 +205,7 @@ Significa esto... ¡¿que ahora mismo Arcueid está en la mansión?!"
 [sha:715faa8ce32044382de44b5bc9324d8d3b73c922]{
 -- Page 147, Offset 16943.
 -- 思考は最悪の事態をたやすく理解し、そして理解を拒んだ。
-//Tl oficial
+// Tl oficial
 Puedo ver como esto va a acabar muy mal,
  pero no quiero saber lo que puede pasar.
 }
@@ -242,7 +242,7 @@ Me aterra pensar lo que Arcueid pueda estar diciendo.
 [sha:f33f67cda2f1671aa4b2c97e83997ccd1495be08]{
 -- Page 150, Offset 16950.
 -- そして、それを聞いた秋葉がどんな感想を抱くのかなんて、もはや想像するだけで死にそうなんですけど……！
-//Tl oficial adaptado para que no crashee
+// Tl oficial adaptado para que no crashee
 Y...
  ¡temo por mi vida con solo imaginar lo que estará pensando Akiha mientras la escucha!
 }
@@ -290,7 +290,7 @@ O más bien...
 [sha:23aef950de5378e58b3b5f3482ef009d42acbfe0]{
 -- Page 154, Offset 16959.
 -- 『まあ、ちょうどいいところに。
-//Tl oficial
+// Tl oficial
 "Llegas en el momento perfecto.
 }
 [sha:6892ee90e952fbc0d1b72f0133a69404fe69da5c]{

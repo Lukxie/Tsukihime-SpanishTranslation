@@ -32,7 +32,7 @@ Con eso en mente, compro todo lo que se me ocurre.
 [sha:392b78f96e7eb186206e67e99799598366e7d874]{
 -- Page 145, Offset 8936.
 -- 「ちょっと、そこ、くすぐった～い！」
-"Ey, parate, ¡me hace cooosquillaaas!"
+"Ey, párate, ¡me hace cooosquillaaas!"
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 145, Offset 8937.
@@ -42,7 +42,7 @@ Con eso en mente, compro todo lo que se me ocurre.
 [sha:e73c98417cab2958e49acd343dc54cef42829855]{
 -- Page 146, Offset 8938.
 -- 緊張感の無い声を無視して、出来るだけ繊細にガーゼをあてがう。
-Ignorándo su voz despreocupada, aplico la gasa lo más delicadamente posible.
+Ignorando su voz despreocupada, aplico la gasa lo más delicadamente posible.
 }
 [sha:fe819c3135c78d3202938fdbc2dbb595b0369064]{
 -- Page 146, Offset 8939.
@@ -77,7 +77,7 @@ El sangrado ha parado, y todo lo que queda es cerrar la herida. Pero a partir de
 [sha:a88c974003c27652bc2c15226200b258ebdacce3]{
 -- Page 149, Offset 8945.
 -- ここまで大きな傷口だと逆効果かもしれないが、細菌による感染を考慮して、消毒薬を塗っておく。
-Quizá sea contraproductivo para una herida así de grande, pero aplico algo de antiséptico en ella para prevenir la infección bacterial.
+Quizá sea contra productivo para una herida así de grande, pero aplico algo de antiséptico en ella para prevenir la infección bacterial.
 }
 [sha:e37270a2be03aeaf105c18898cc55a3af031c0c2]{
 -- Page 149, Offset 8946.
@@ -271,7 +271,7 @@ Yo también tengo preguntas que hacer, así que hablaré un rato más con ella.
 [sha:09d9b21606f813377f06695bc9af6aa2f9cfc316]{
 -- Page 163, Offset 8983.
 -- 吸血鬼なのは分かる。仰々しい服とか、おまえよりよっぽどらしかったからな。けど―――」
-Entiendo que sea un vampiro. Quiero decir, llevaba puesto esa ropa elaborada, osea que al menos parecía mucho más vampiresco que tú."
+Entiendo que sea un vampiro. Quiero decir, llevaba puesto esa ropa elaborada, o sea que al menos parecía mucho más vampiresco que tú."
 }
 [sha:ad8345166d09815cbec61df3f15d27036ccd5980]{
 -- Page 164, Offset 8984.
@@ -303,7 +303,7 @@ Bueno, por lo menos si ignoras el río de fuego."
 -- Page 166, Offset 8989.
 -- 「それだ。……やっぱり、おまえから見てもあの火は異常なのか？　あいつはおまえより強い？」
 "A eso me refería.
- Osea que tu también pensaste que el fuego era raro, ¿no?
+ O sea que tu también pensaste que el fuego era raro, ¿no?
  ¿Es más fuerte que tu?"
 }
 [sha:a9b0504bc7cc4ba28627cb01d48312fbb7ee6c1a]{
@@ -329,7 +329,7 @@ Si ahora comparases mi Escala de Vida con la de Vlov, él sería ligeramente má
 [sha:e8f11727089cfd7149d6876d813674b4ae448da2]{
 -- Page 168, Offset 8994.
 -- 普段のアルクェイドなら、なんとか倒せる相手なんだ？」
-Osea que si estuvieras sana, serías capaz de derrotarlo de alguna forma, ¿verdad?"
+O sea que si estuvieras sana, serías capaz de derrotarlo de alguna forma, ¿verdad?"
 }
 [sha:086c0b6e1c2fccef35dc56c80b4d6aad7e987a82]{
 -- Page 169, Offset 8995.
@@ -339,7 +339,7 @@ Osea que si estuvieras sana, serías capaz de derrotarlo de alguna forma, ¿verd
 [sha:8e04c646fbe4e7cf52470cfc04d9360fef2ef3ce]{
 -- Page 169, Offset 8996.
 -- もう、誰のおかげでこんな屈辱に耐えていると思ってるの？　あんな祖になりたての見習い、ホントなら睨むだけでぺしゃんこにできるんだからねっ！」
-//Eh sorry a quien haya leido esto xd
+// Eh sorry a quien haya leido esto xd
 %{i}Ugh%{/i}, en primer lugar ¿quién crees que es el responsable de esta situación humillante?
  Si tuviera toda mi fuerza, habría aplastado a ese Ancestrucho con solo mirarlo."
 }

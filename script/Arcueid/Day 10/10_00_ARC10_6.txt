@@ -199,7 +199,7 @@ Me da la sensación de que este chico sabe lo que debería hacer de ahora en ade
 [sha:01fa531daa17053a238e1b04addba4713b498d27]{
 -- Page 686, Offset 26114.
 -- 「死ね、ブタ。テメェ俺の後ろでＳＰだろうが。ベンチに座んのはオレだけだ。トオノはそこまで気を許しちゃいねえからな、どうせそこで立ちん坊だろ？」
-"Muerete, cerda.
+"Muérete, cerda.
  Tu trabajo es mi seguridad.
  El que se sienta soy yo.
  Tohno todavía no confía, más te vale quedarte de pie."
@@ -313,7 +313,7 @@ Es un vampiro del tipo Soberano que llevará unos años acechando en esta ciudad
 -- こりゃあ二重の意味でハズレだな。トオノも知らないし、真祖も知らない。それであの迷走っぷりかよ。
 Manda huevos, un ciego guiando a otro.
  Ni tú, ni la Verdadero Ancestro tenéis idea de nada.
- No me soprende que vayáis como pollos sin cabeza.
+ No me sorprende que vayáis como pollos sin cabeza.
 }
 [sha:dbb59f95869d33261e471c868c872fba1a023247]{
 -- Page 694, Offset 26136.
@@ -521,7 +521,7 @@ Incluso tras haberse vuelto Apóstoles Muertos, siguen estudiando lo que aprendi
 [sha:ed6b175d1db5702ecf7f1363f0aeb8f8edb3431d]{
 -- Page 707, Offset 26173.
 -- 「その死徒の命題。生きる目的。死ねない呪い。
-"La tésis de un Apóstol Muerto.
+"La tesis de un Apóstol Muerto.
  Su propósito en vida.
  Su maldición inexorable.
 }
@@ -762,7 +762,7 @@ Un vampiro que reencarna...
 -- Page 719, Offset 26216.
 -- その響きには薄ら寒いものを感じるが、今までアルクェイドが口にしなかった敵の正体が、ようやく分かった。
 Escuchar esas palabras me da escalofríos,
- pero al fin, al fin entiendo la verdadera naturaleza del enemigo del Arcueid detesta hablar. 
+ pero al fin, al fin entiendo la verdadera naturaleza del enemigo del Arcueid detesta hablar.
 }
 [sha:3b3ea0301ab6c95a4b9b9ea88f9e2c243af0307e]{
 -- Page 720, Offset 26217.

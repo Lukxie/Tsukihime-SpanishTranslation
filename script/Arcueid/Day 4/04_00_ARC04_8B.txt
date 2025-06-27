@@ -77,7 +77,7 @@ Arcueid me llama por enésima vez.
 [sha:33aedefe7c9ad229c1673a3059aa1ce29e5ba1d8]{
 -- Page 667, Offset 7345.
 -- ６時間だぞ、６時間。なにが疲れたかって、見張りなんかよりそっちのほうが疲れたよ、俺は」
-//Rarillo
+// Rarillo
 Ya van seis horas. %{i}Seis%{/i}.
  Si me preguntas qué me cansa, hablar contigo claramente más que montar guardia."
 }
@@ -277,7 +277,7 @@ No me gusta a donde va esto――aún así, no puedo evitar preguntarme a cuanta
 [sha:98180bf96e5a68748ae5743131faa3f04d7ec6d5]{
 -- Page 680, Offset 7384.
 -- それぐらい知っとかないと、いつおまえが心変わりして襲いかかってくるか、予測がつかないだろ」
-Si ni siquiera sé eso, ¿como se supone que voy a predecir cuando vas a cambiar de opinión y atacarme?"
+Si ni siquiera sé eso, ¿cómo se supone que voy a predecir cuando vas a cambiar de opinión y atacarme?"
 }
 [sha:61ec9ce7654fc0ae22c2a1c177ad145b8792b4e4]{
 -- Page 681, Offset 7385.

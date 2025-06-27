@@ -305,12 +305,12 @@ Sonando descontenta, pasa rápidamente a mi lado.
 [sha:278ced5f58205e2c2dbf5d86b3067e804435a469]{
 -- Page 198, Offset 3125.
 -- こっちも急いで走り出す。
-Yo tambíen tengo que moverme. Comienzo a correr.
+Yo también tengo que moverme. Comienzo a correr.
 }
 [sha:6eed12b6cef0fb84347e6a9810e45fe224f108d5]{
 -- Page 198, Offset 3126.
 -- 一日目から門限を破るなんて兄貴として、いや人間としてダメすぎる。当主様のカミナリが落ちる前に、なんとしても屋敷に戻らなければ……！
-//Muy literal seguramente
+// Muy literal seguramente
 Ser incapaz de volver el primer día antes del toque de queda sería de ser un desastre,
  no solo como hermano mayor, sino como ser humano.
  Sin importar que, ¡debo llegar a la mansión antes de que el rayo de la cabeza de familia me mate!

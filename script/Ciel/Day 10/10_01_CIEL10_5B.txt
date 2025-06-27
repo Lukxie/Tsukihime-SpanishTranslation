@@ -51,7 +51,7 @@
 [sha:36d288b20e427dc2bcdf2eeb66f47992bc6c2270]{
 -- Page 359, Offset 28039.
 -- えっへん、と胸を張るシエル先輩。
--- TRANSLATION HERE
+Ciel-senpai saca pecho, parece bastante orgullosa de si misma.
 }
 [sha:0f9f59746b0fdf44fd1c746bec09c51e64911b32]{
 -- Page 359, Offset 28040.
@@ -171,7 +171,7 @@
 [sha:dbcec3df76e528d0dbb31c560813f3de94457a0c]{
 -- Page 367, Offset 28063. Glued. Mods: @x.
 -- え？」
--- TRANSLATION HERE
+¿Eh?"
 }
 [sha:6fc52319a231cca2278151341c39ff4ba239bee9]{
 -- Page 368, Offset 28064.
@@ -281,7 +281,7 @@
 [sha:0819415b8baa31d472380275168d825499a8ea42]{
 -- Page 374, Offset 28085. Glued. Mods: @k, @e.
 -- ―――
--- TRANSLATION HERE
+――
 }
 [sha:6f32634bb935fd9c22240ca7090c9acbb1ae8af5]{
 -- Page 374, Offset 28086. Glued. Mods: @x, @n.

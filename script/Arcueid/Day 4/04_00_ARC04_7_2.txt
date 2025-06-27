@@ -50,7 +50,7 @@ Antes de que pueda hacer nada,
 [sha:9dc7eee8911345d973e629e444c0a64076412015]{
 -- Page 655, Offset 7312.
 -- 「あっ、逃げた」
-"Maldito, ha huído."
+"Maldito, ha huido."
 }
 [sha:9779d098903928b80ebd61920438ccd814a9a803]{
 -- Page 655, Offset 7313.
@@ -88,5 +88,5 @@ Parece que tiene curiosidad por las cosas que la gente aprecia. ¿Es un crío?
 -- Page 657, Offset 7319.
 -- ……だいたい、この眼鏡がなくなったら俺はおまえに協力するどころの話じゃなくなる。四六時中線が見えてたら、頭痛で頭がどうにかなりそうだし」
 Además, si pierdo estas gafas, básicamente puedes decir adiós a nuestra colaboración.
- Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo." 
+ Quién sabe lo que pasaría con mi mente si tuviera constantemente dolor de cabeza por ver esas líneas todo el tiempo."
 }

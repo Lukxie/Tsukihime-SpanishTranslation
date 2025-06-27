@@ -56,7 +56,7 @@ E - N - DO - R - PH - IN, ¡allá va!
 [sha:5f99f2b914d318d6071c0bba2ba497f0bfbfaa27]{
 -- Page 103, Offset 42953.
 -- あー…………
--- TRANSLATION HERE
+Ah......
 }
 [sha:5f99f2b914d318d6071c0bba2ba497f0bfbfaa27]{
 -- Page 104, Offset 42954.

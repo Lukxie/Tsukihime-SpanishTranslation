@@ -153,7 +153,7 @@ Con mi voz como señal, la pantera salta.
 [sha:70093028610a82eb7268542faad28b19d1004571]{
 -- Page 267, Offset 6304.
 -- いや、走ってきた。そのスピードが速すぎて、跳んだとしか認識できなかっただけだ。
-O más bien, corre. Es tán rápida que mi cerebro no pudo entender que eso no fuera saltar.
+O más bien, corre. Es tan rápida que mi cerebro no pudo entender que eso no fuera saltar.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 268, Offset 6305.
@@ -366,7 +366,7 @@ A juzgar por lo que veo, diría que son transeúntes.
 [sha:094c5d424da43efd474ca877d89689520ea9d392]{
 -- Page 283, Offset 6344.
 -- ビルとビルの隙間にあるこの路地裏に、薄暗い<路|みち>を通って、ゆっくりとやってくる。
-Caminan lentamente hacia el callejón a través de los pasajes oscuros entre edificios. 
+Caminan lentamente hacia el callejón a través de los pasajes oscuros entre edificios.
 }
 [sha:2b679fb89294ba614d23a9afa98e02b863edc846]{
 -- Page 284, Offset 6345.
@@ -401,7 +401,7 @@ Hace un momento―――
 [sha:c44650254526c3be70bcc0dbbf1dfb21b53619c0]{
 -- Page 285, Offset 6351.
 -- 何か、無残なモノが、視えてしまった。
-Podría jurar que ví algo innombrable.
+Podría jurar que vi algo innombrable.
 }
 [sha:7045e7455237ea1509f3558666f7806e16131ecd]{
 -- Page 286, Offset 6352.

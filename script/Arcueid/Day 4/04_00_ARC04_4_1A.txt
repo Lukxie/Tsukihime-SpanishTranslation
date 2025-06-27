@@ -117,7 +117,7 @@ Las palabras familiares dan a mi mente algo a lo que agarrarse.
 [sha:c298f56bdea0f222c3054a7a9bb019dedcfb6918]{
 -- Page 228, Offset 6199.
 -- 「……そりゃあ知ってるよ。連続通り魔だろ。もう何人も殺されてる事件で、被害者は血液を抜かれて―――」
-//Drenadas, sin sangre, desangradas. lo que quede mejor
+// Drenadas, sin sangre, desangradas. lo que quede mejor
 "Sí... sé sobre ellos.
  Estás hablando sobre los asesinatos en serie, ¿cierto?
  Muchas personas han sido asesinadas,
@@ -381,7 +381,7 @@ Te he perdonado, claro, pero solamente en lo que concierne a mis sentimientos pe
 [sha:ddd1947fc83cabd4ec313b5ff413129c72ff4dde]{
 -- Page 247, Offset 6248.
 -- あなたが犯した殺害という行為そのものは、やっぱり気持ちじゃなくて行為で<贖|あがな>うしかないでしょ？」
-Aún tienes que expiar el asesinato que cometiste con acciones más que palabras, ¿no te parece?" 
+Aún tienes que expiar el asesinato que cometiste con acciones más que palabras, ¿no te parece?"
 }
 [sha:e7104792a4d1f34498f6d9eef087bc7837d91041]{
 -- Page 247, Offset 6249.
@@ -447,7 +447,7 @@ Su enfado de anoche, olvidado hasta ahora, parece haber resurgido mientras despo
 [sha:8cab865f873fe7c9a360187184a9ca8a15fb1b75]{
 -- Page 252, Offset 6261. Mods: @k, @e.
 -- 二晩も経てば回復するだろうけど、その前に襲われたら打つ手がないの。
-//Igual decir 'no hay nada que pueda hacer' en vez de se acabó lo que se daba es mas correcto
+// Igual decir 'no hay nada que pueda hacer' en vez de se acabó lo que se daba es mas correcto
 Probablemente vuelva a la normalidad en dos días o así,
  pero si me atacan antes, no habrá nada que pueda hacer.
 }
@@ -459,7 +459,7 @@ Probablemente vuelva a la normalidad en dos días o así,
 [sha:c09aab5309589cde5f4386835bc1847d662c5499]{
 -- Page 252, Offset 6263.
 -- 「いや、もらうからって、なに勝手に決めてんだよ!?」
-//Eh, si esto suena mal en algún dialecto del español pues que se cambie
+// Eh, si esto suena mal en algún dialecto del español pues que se cambie
 "Ey, ¡no puedes coger y decidir hacerme tu escudo así como así!"
 }
 [sha:c701a3e0d16775e16846931b5d4a546710a63f85]{

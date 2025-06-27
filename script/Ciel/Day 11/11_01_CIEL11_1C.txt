@@ -281,7 +281,7 @@
 [sha:0b3c551e5bf58dfd2c6b74f03ae48ed2aefe0ec4]{
 -- Page 69, Offset 29197.
 -- さて。
--- TRANSLATION HERE
+Bueno entonces.
 }
 [sha:a9bcbbc2ecd3f83e81c3b6001460a9e70aecc172]{
 -- Page 69, Offset 29198.
@@ -316,7 +316,7 @@
 [sha:f11e0128cd3ad6435f30319692dbe2227c71d78f]{
 -- Page 71, Offset 29204.
 -- はあ、とため息をつく。
--- TRANSLATION HERE
+Suspiro.
 }
 [sha:e019cbe6c0011ae28c7d80d66bdedb0978c6508a]{
 -- Page 72, Offset 29205.
@@ -561,7 +561,7 @@
 [sha:621b6aae64858d609eaade7715f31f611cd3cc81]{
 -- Page 82, Offset 29253.
 -- どくん、と。
--- TRANSLATION HERE
+%{i}Badum%{/i}.
 }
 [sha:d956f4afa00bcf0f5315e804cb5aee76b41e819d]{
 -- Page 82, Offset 29254.
@@ -581,7 +581,7 @@
 [sha:5e39ac1c787b40b37a29ae23c2484b704d915b72]{
 -- Page 83, Offset 29257.
 -- 「な――――」
--- TRANSLATION HERE
+"Qu―――"
 }
 [sha:2f74c99d4494cb843e96f1a77d0c5e4e4b8eeeee]{
 -- Page 84, Offset 29258.
@@ -608,10 +608,10 @@
 -- 「なん、で？」
 -- TRANSLATION HERE
 }
-[offset:29263]{
+[sha:70c02219efd6acbf5cb83360e6e1f47681ba654c]{
 -- Page 85, Offset 29263.
 -- 意味が分からない。
--- TRANSLATION HERE
+No se a que se refiere.
 }
 [sha:c478833d8e0a9e1d58dd2e49fce26d81b2dde1d7]{
 -- Page 85, Offset 29264.

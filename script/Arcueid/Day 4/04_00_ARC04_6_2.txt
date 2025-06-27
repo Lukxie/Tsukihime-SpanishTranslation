@@ -119,7 +119,7 @@ Escuchar el respirar de la mujer mientras duerme no me deja concentrarme.
 [sha:c740f6053738994a0e21f4d8d31f19bcdd7d70d2]{
 -- Page 427, Offset 6748.
 -- 節操がないにもほどがある。この期に及んで、あの女に何を興奮しているんだ俺は……!?
-¿Cuán depravado puedo ser? De todas las cosas, ¡¿ahora por qué me estoy emocionando por ella?! 
+¿Cuán depravado puedo ser? De todas las cosas, ¡¿ahora por qué me estoy emocionando por ella?!
 }
 [sha:304139b45dc0de1fd58ffb085dc1ae94af3f884a]{
 -- Page 428, Offset 6749.
@@ -175,7 +175,7 @@ Si la escuela contacta a la mansión. Estoy perdido,
 [sha:6efde8cc61f1f106d889fe54f6b3e5d911694195]{
 -- Page 432, Offset 6759.
 -- 秋葉になんて小言を言われようと、いや、そもそもこっちだってそれどころじゃないのである。
-Ya puedo escuchar a Akiha dandome la lata sobre esto...
+Ya puedo escuchar a Akiha dándome la lata sobre esto...
  no――no sirve de nada pensar en algo que no va a cambiar.
 }
 [sha:2937713fab3eed24a5ba6d71f8b83bf37bc7c07f]{
@@ -196,7 +196,7 @@ Ayúdame si puedes.'
 [sha:2f724583e6aa96d106c6bf1ebef548e327e6ed32]{
 -- Page 435, Offset 6763.
 -- 悪友に大雑把な事情説明と要望を投げておく。
-//Sorry xd
+// Sorry xd
 Me saco de la manga una breve explicación y le hago una petición a mi colega.
 }
 [sha:ddd70b165bc33add018af628a7c64b3f600e2dd2]{
@@ -242,7 +242,7 @@ Rindiéndome a mi destino, vuelvo a la habitación donde duerme la vampiro autop
 [sha:a50b58c95d852205fbe47058d7cc1a558b281845]{
 -- Page 438, Offset 6772.
 -- 「……失礼しまーす……」
-//Inspirenme
+// Inspirenme
 "Con permiso..."
 }
 [sha:0ae073b77d6d7c392785042fb361dd6e244c325e]{

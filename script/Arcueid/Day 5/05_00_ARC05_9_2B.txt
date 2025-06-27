@@ -34,7 +34,7 @@ Es una hazaña de fuerza que aniquila todo a su paso.
 [sha:afef4e00d09328d323a22a176d37427de0f746d6]{
 -- Page 661, Offset 10427.
 -- 飛翔する氷の槍など、この壁の如き土砂の前では飛沫にすぎない。
-//Un mix entre las dos tls
+// Un mix entre las dos tls
 Incluso las lanzas heladas de Vlov no son más que gotas de lluvia ante el maremoto de tierra y arena.
 }
 [sha:c73702798442718915e7264a11a3280ca85d4e3a]{
@@ -42,7 +42,6 @@ Incluso las lanzas heladas de Vlov no son más que gotas de lluvia ante el marem
 -- 高さ50メートル、7000トンに相当する質量が、ヴローヴを飲み込まんと押し寄せる。
 El muro, de cincuenta metros de alto y 7000 toneladas de peso,
  se abalanza sobre Vlov para tragárselo entero.
- 
 }
 [sha:9dd9d12d247e76a4030a2d9b9b1d05a8285ea39c]{
 -- Page 662, Offset 10429.
@@ -70,7 +69,7 @@ Ambas cosas, que Arcueid está de rodillas tras usar sus fuerzas restantes para 
 [sha:f80ab1991bb3b2ad95818f4ff954cd3c6ab7c235]{
 -- Page 664, Offset 10433.
 -- <聳|そび>える大波を前にして、ソレは、かつての思考を取り戻した。
-//Tl oficial
+// Tl oficial
 Frente a la enorme ola, los instintos del hombre regresan.
 }
 [sha:839c9e5128a6b6b6535cd92c4b1928f700fe0392]{
@@ -81,7 +80,7 @@ En realidad, regresaron dos minutos antes.
 [sha:e47fc39eb406a0747647ec50cab6374fbf065c09]{
 -- Page 664, Offset 10435.
 -- 常に寒波に<侵|おか>され正気を無くした筈の脳が、あの一瞬―――目前に迫る人間から飛び退いた時から、正常に稼働しようと努めていた。
-//Mix de entre las dos tls
+// Mix de entre las dos tls
 Aún afligido por la ola de hielo,
  desde que el humano le forzó a retirarse,
  su mente delirante ha estado trabajando duro para funcionar con normalidad.
@@ -139,7 +138,7 @@ Deleitarse en batalla es un placer humano――el que se congelará en unos poco
 [sha:2bc900fdb7edb167bee2b58ed51f57f68aed6bab]{
 -- Page 667, Offset 10445.
 -- だからこそ、この展開に燃え上がらずにはいられない。
-//Me baso mas en la tl oficial y en el jp
+// Me baso mas en la tl oficial y en el jp
 Siendo así, pretende degustar el desarrollo de los acontecimientos.
 }
 [sha:e014c1cd2ae6fb7f167a7c954daac4d1e256a8c0]{
@@ -297,7 +296,7 @@ Mientras pueda rastrearlo,
 [sha:c86caf5a9f5755a96a08cb6877cf83c394725384]{
 -- Page 676, Offset 10475.
 -- 千里先を知覚する両目が見開かれる。
-//Un mix entre la tl y el jp
+// Un mix entre la tl y el jp
 Sus ojos se abren de par en par para percibir el amplio espacio ante él.
 }
 [sha:a9459e0d71a892021171532ecccca56135d03c85]{
@@ -320,19 +319,19 @@ Ni siquiera un atisbo de su sombra escabulléndose.
 [sha:65b39b3c300b12269e7a3ab09b23805cc83315f7]{
 -- Page 677, Offset 10479.
 -- なにより背筋には、より強い死の悪寒が走っている。
-//Mix entre tl y la oficial
+// Mix entre tl y la oficial
 De hecho, un escalofrío mortal recorre su espalda.
 }
 [sha:c35490e2e908ceeac40d1634f9bdaacbd476c2d7]{
 -- Page 678, Offset 10480.
 -- わずか１秒、彼の思考は“敵”から離れた。
-//Tl oficial
+// Tl oficial
 Por un segundo, sus pensamientos se distrajeron del enemigo.
 }
 [sha:f7998a56b8c82544d4b0552b8a8134705625e95e]{
 -- Page 678, Offset 10481.
 -- 接近してくるのは明白だ。
-//Tl oficial
+// Tl oficial
 Sabe que el enemigo vendrá.
 }
 [sha:034fe00cc0ee4511ec4d7d316e9a299ae28649ee]{
@@ -368,13 +367,13 @@ Y ahí, iluminados de un azul fantasma, los Ojos Místicos de Percepción Mortal
 [sha:5bf1406ee8b8a51298b6ed992315389b9a7304a6]{
 -- Page 680, Offset 10488.
 -- アルクェイドが飛ばしたものは、ヴローヴを飲み込む瓦礫だけじゃない。
-//Tl oficial
+// Tl oficial
 El verdadero objetivo de Arcueid no era sepultar a Vlov en escombros.
 }
 [sha:f8da567034535ecd17a9ac4ae7062e9068a9014b]{
 -- Page 680, Offset 10489.
 -- 本命はこの岩盤。
-//Tl oficial
+// Tl oficial
 Era lanzar esta roca al aire.
 }
 [sha:6c00d220196cb605f57f47829cd01f4a8ac1929b]{
@@ -386,13 +385,13 @@ Me ha atado y lanzado fuera de su área de visión,
 [sha:1948c6a45d63a40d55dd0443ed9803d2fdc38fe6]{
 -- Page 681, Offset 10491.
 -- 30メートル下の地上で、土砂の津波が突き砕かれる。
-//Tl oficial
+// Tl oficial
 En el suelo, treinta metros por debajo, el tsunami de tierra y arena ha sido aplastado.
 }
 [sha:0a4292ebbd7e66c52a8f4bf1d883ece2ae1b5943]{
 -- Page 681, Offset 10492.
 -- 彼と我。互いに最後の空白。
-//Tl oficial
+// Tl oficial
 Todo lo que queda es el, yo y el vasto espacio aéreo entre nosotros.
 }
 [sha:593e0696ec631bbad44d7b62675b3f696407bfee]{
@@ -587,7 +586,7 @@ Ahora que he iniciado el descenso,
 [sha:a246cbce56656d812d3d22aa8c69c334bdbeef13]{
 -- Page 694, Offset 10530.
 -- それは考慮しない。三ヵ所もの『死』を超える余力は俺にはない。その時はヤツの勝ちだ。ヤツの異常性が、俺の想像を上回っているだけの話。
-No puedo imaginarmelo.
+No puedo imaginármelo.
  No tengo lo que hace falta para superar tres de ellos.
  Si es así, la victoria es suya.
  Eso significaría que sus poderes exceden mis expectativas más descabelladas.
@@ -691,7 +690,7 @@ Ni siquiera pensaré en ello.
 [sha:41dcc27291b361e03d4885d814ea5752a428a7f0]{
 -- Page 700, Offset 10549.
 -- その為に思考を放棄した。
-//Tl oficial
+// Tl oficial
 Ya no es momento de pensar.
 }
 [sha:e1afcb30aea356fbeeca4831e880af642c941e46]{
@@ -717,7 +716,7 @@ Si me ensarta el cerebro, lo más seguro es que ni me de cuenta.
 [sha:d95c8a03bac7384afab1a75dd91a6b99327c37bc]{
 -- Page 701, Offset 10554.
 -- 摂氏マイナス100℃の非常法則が全身を停止させる。
-//Tl oficial.
+// Tl oficial.
 Las temperaturas de  -100℃ que desafían las leyes de la naturaleza y detienen el cuerpo en seco.
 }
 [sha:b4e5150c5558ca7fb00de7ba18876e65b4be4794]{
@@ -762,7 +761,7 @@ En el centro de todo, veo una luz.
 [sha:6da9846454cbfff274a467e972ef5971dbedc70a]{
 -- Page 703, Offset 10562.
 -- 渦を巻く原子の意思。定められた物質の寿命。
-//Tl oficial
+// Tl oficial
 Un vórtice de átomos. La certeza del final de la vida.
 }
 [sha:ebb47f3edccbd9fd47ed92abcd7a8f2c6f0a4c50]{
@@ -784,7 +783,7 @@ Si las líneas representan la muerte de la vida,
 [sha:df8c498b97cf72836e228c3f1dfc166cd82e0a56]{
 -- Page 704, Offset 10566.
 -- どのような不死身、どのような怪物であれ一刺しで“殺す”、この世でもっともおぞましい、宇宙の終わりに他ならない。
-El fin del universo, 
+El fin del universo,
  donde cualquier criatura――inmortal o monstruosa
  ――puede morir siendo simplemente apuñalada.
 }
@@ -884,13 +883,13 @@ Apabullado, el vampiro habla consigo mismo.
 [sha:4c5346adff8f8c3139a3e221711fe60d0b3beaf6]{
 -- Page 711, Offset 10584.
 -- 「“……この傷は知らない。この喪失は思い出せない。
-//Tl oficial
+// Tl oficial
 "No tengo conocimiento de una herida así... ni recuerdo una pérdida como esta.
 }
 [sha:505c740e7a8408848b96a465167c053debc73047]{
 -- Page 711, Offset 10585.
 -- この―――言語化できない大気の肌触りは、いつか失った何物かだ”」
-//Tl oficial
+// Tl oficial
 Solo sé que esta gentil e indescriptible caricia del aire es algo que perdí hace mucho."
 }
 [sha:b83a9b5c6f1d97c446abb7657176e51abac4ee1f]{
@@ -911,7 +910,7 @@ Pero su voz es gentil, como la de un poeta elogiando la primavera.
 [sha:69a97d8f5e9484360f6aa09be52052768358fd6b]{
 -- Page 713, Offset 10589.
 -- 「“ああ―――痛みも、寒波も感じない。
-//Tl oficial
+// Tl oficial
 "%{i}Ahh%{/i}... No siento ni el dolor ni el frío.
 }
 [sha:a55a4dd1a3e4b5e062f0906848eaf9520c7322fb]{

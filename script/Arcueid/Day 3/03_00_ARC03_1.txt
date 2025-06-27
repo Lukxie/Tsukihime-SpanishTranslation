@@ -47,7 +47,7 @@ Estas 'líneas' aparecen por igual en todo lo que puedo ver,
 [sha:e90366f90b21da1ba0ade1b5c14ada03f400e1fd]{
 -- Page 3, Offset 3954.
 -- あらゆるものは『壊れてしまう』という運命を内包しているの。カタチがある以上、こればっかりは逃れようのない前提でしょう？」
-//Diría inscrito pero así tiene mas sentido con lo siguiente
+// Diría inscrito pero así tiene mas sentido con lo siguiente
 Todas las cosas tienen su destino de 'desintegrarse' cosido en ellas.
  Este es un prerrequisito inevitable que comparte todo lo material."
 }
@@ -90,7 +90,7 @@ Lesión y recuperación.
 -- Page 6, Offset 3961.
 -- その意味を理解した時、心の底から、先生のくれた眼鏡に感謝した。
 Cuando llegué a entender a lo que se refería,
- gané un nuevo grado de apreciación por las gafas que me dió.
+ gané un nuevo grado de apreciación por las gafas que me dio.
 }
 [sha:c991399046b77c5375de98d8df99d7310d23fa81]{
 -- Page 6, Offset 3962.
@@ -340,7 +340,7 @@ Una vez se vista, por favor venga a la sala de estar."
 [sha:e18a9f60b92c33db6259014b025364305d15dd1b]{
 -- Page 28, Offset 4008.
 -- 「……はあ。普通なら気がつくもんだけど、そんなに疲れてたのか、俺……」
-//Este sfx hay que cambiarlo por algo xd
+// Este sfx hay que cambiarlo por algo xd
 "%{i}Haaa%{/i}...
  No me puedo creer que no me diera cuenta,
  anoche debía estar totalmente exhausto..."

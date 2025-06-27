@@ -33,7 +33,7 @@ No suelo juzgar un plato a primera vista, pero no tengo las agallas para comerme
 [sha:6cff29e61df76d0441f0d33d743f6e1cdb7ccb5c]{
 -- Page 248, Offset 9207.
 -- コンディションが万全ならあるいは……と一瞬だけ考えたが、やっぱりない。
-Hubo un momento donde pensé que estaría dispuesto si tuviera un día bueno, pero... no, incluso entonces, sería imposible.  
+Hubo un momento donde pensé que estaría dispuesto si tuviera un día bueno, pero... no, incluso entonces, sería imposible.
 }
 [sha:c9ed317011d4ad459ca5600792a19dc0be351b91]{
 -- Page 248, Offset 9208.
@@ -194,13 +194,13 @@ Esta noche no soy lo suficientemente fuerte como para derrotarle, pero al menos 
 [sha:848e9ebf26d618c10c4d76c015464b74b56f58ec]{
 -- Page 260, Offset 9238.
 -- 直接組み伏せるとか無駄すぎるし。今まで一度もしたコトないし。する必要性が感じられないし」
-Sería inutil sujetarle directamente.
+Sería inútil sujetarle directamente.
  Nunca he hecho nada así, ni hace falta hacerlo ahora."
 }
 [sha:7171d0e7a7a6611741a9c8c8b3bf3a2e265c98f0]{
 -- Page 261, Offset 9239.
 -- 「そ、そうか。じゃあどうやってヴローヴを抑えこむんだ？」
-"Y-Ya veo. En ese caso, ¿como piensas reprimirlo?"
+"Y-Ya veo. En ese caso, ¿cómo piensas reprimirlo?"
 }
 [sha:200536f5e5509bea01f64001b7bf282118b791e3]{
 -- Page 261, Offset 9240.

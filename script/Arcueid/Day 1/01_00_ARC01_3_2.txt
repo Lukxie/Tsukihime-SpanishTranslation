@@ -112,7 +112,7 @@ Lo odiaba, por lo que siempre me escapaba y me iba a jugar.
 [sha:e18732387b026f7773d50a2f88ce86cf69238512]{
 -- Page 218, Offset 1733.
 -- そんな折、俺は事故に巻きこまれて身体的欠陥を負い、槙久はこれ幸いと俺を切り捨てた。
-Entonces, me ví involucrado en el accidente que me dejó con un defecto físico, y aprovechó la oportunidad para desterrarme.
+Entonces, me vi involucrado en el accidente que me dejó con un defecto físico, y aprovechó la oportunidad para desterrarme.
 }
 [sha:bd4b56e65eae6611eb750efe9177bc37c5e80fd3]{
 -- Page 219, Offset 1734.

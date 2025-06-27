@@ -42,5 +42,5 @@ Sonriendo, la chica hace una reverencia tras tu introducción.
 [sha:97005e3cff6e5340b59af1bb380aa2f2166083d2]{
 -- Page 282, Offset 1876.
 -- 蕾から開く花のように、しっとりした仕草だった。
-Es un movimiento elegante, como el de una flor abríendose.
+Es un movimiento elegante, como el de una flor abriéndose.
 }

@@ -33,7 +33,7 @@ Añado una risa informal para darle un toque,
 [sha:639b6408cac49509e372025f5bf3d327de64ca8e]{
 -- Page 36, Offset 19765.
 -- 秋葉の視線はよけいきつくなったようだ。
-La mirada de Akiha se ha vueto aún más afilada.
+La mirada de Akiha se ha vuelto aún más afilada.
 }
 [sha:a7f6007faac8f2a39a28d654cfa224196fce5458]{
 -- Page 36, Offset 19766.

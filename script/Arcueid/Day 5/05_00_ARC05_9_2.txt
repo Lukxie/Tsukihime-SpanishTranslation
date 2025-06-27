@@ -118,7 +118,7 @@ Tras un breve momento de perplejidad,
 [sha:614d985e1094203171e9dfd21a50123727cef943]{
 -- Page 650, Offset 10405.
 -- それでもいいのね？　もう逃げる事もできないわよ？」
-//Primera línea de la tl oficial
+// Primera línea de la tl oficial
 ¿Aún así quieres hacerlo?
  Tras esto escapar ya no será una opción, ¿sabes?"
 }
@@ -130,20 +130,20 @@ No importa. Asiento.
 [sha:7674dde39c2f7eb46c69df8e3783f4f0785e9da0]{
 -- Page 651, Offset 10407.
 -- 声をだす体力もない。というかこいつ、まだそんな機会を見計らってたのか!?
-//Tl oficial
+// Tl oficial
 No puedo malgastar fuerzas hablando.
  Y un momento, ¡¿ha estado esperando a una oportunidad para escapar todo este tiempo?!
 }
 [sha:cf421bd519aa9c43d7ae4e73a371e520f7d54556]{
 -- Page 652, Offset 10408.
 -- 「あれ？　でもそれって、志貴は途中で落っこちない？
-//Tl oficial
+// Tl oficial
 "Um pero... ¿no te caerás a mitad de camino?
 }
 [sha:c031523c722bcc758571535b74ace017d9a21e5b]{
 -- Page 652, Offset 10409.
 -- わたし、そのあたり加減できないよ？」
-//Tl ofical
+// Tl ofical
 No soy muy buena conteniéndome, sabes."
 }
 [sha:2725081cb1a3b3bdbeab7948d71956683182a5ad]{
@@ -181,7 +181,7 @@ Un aluvión de lanzas de hielo se nos viene encima.
 [sha:b85b28b82c39f8122cf929f130d340d0f1287d4c]{
 -- Page 655, Offset 10416.
 -- 「いいから全力で、手を抜かずやってくれ！　やりすぎてもいい！　おまえに殺されるなら、それはそれで本望だ！」
-//Ultima línea de la tl oficial.
+// Ultima línea de la tl oficial.
 "¡Solo hazlo, y no te contengas!
  ¡No me importa si te pasas!
  ¡Si voy a morir al menos que sea por tu mano!"

@@ -6,7 +6,7 @@ Creo que me pasaré por el restaurante familiar.
 [sha:d11a5f0c51c22ea1ccfef024060096ccbc557d29]{
 -- Page 177, Offset 3058.
 -- 財布には弓塚に貰ったポイントカードがある。
-En mi cartera, tengo la tarjeta de puntos de Yumizuka me dió.
+En mi cartera, tengo la tarjeta de puntos de Yumizuka me dio.
 }
 [sha:78a47aea78f90f56f95ecae14b861c85efa9ce98]{
 -- Page 177, Offset 3059.

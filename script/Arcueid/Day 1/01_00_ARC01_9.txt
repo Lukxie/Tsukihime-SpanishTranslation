@@ -31,7 +31,7 @@ Los humanos somos expertos en optimización, y dejamos las memorias sin usar en 
 [sha:3f97c0c53d2241f6e43ff1ed467d656671e00bb8]{
 -- Page 501, Offset 2427.
 -- 俺の一挙一動に秋葉の眉がつりあがっていく様はなかなか緊張感があり、実にスリリングだった。
-//súper
+// súper
 Viendo a Akiha levantar el borde de la ceja a cada movimiento que hago me tiene de los nervios. Es súper emocionante, créeme.
 }
 [sha:414d3cbe0178baacba7ba762ebee74adf00b93df]{
@@ -97,7 +97,7 @@ Así que en eso estaba pensando mientras comía, con sus bonitas cejas retorcié
 [sha:68ea195fcaf7fe1b78dcbc896839efefd2d6ef36]{
 -- Page 506, Offset 2440.
 -- 「……その、具体的には？」
-"Em... ¿a que te refieres exáctamente con eso?"
+"Em... ¿a que te refieres exactamente con eso?"
 }
 [sha:3677b702937f41bf9e44645890722c84b39fa81f]{
 -- Page 506, Offset 2441.

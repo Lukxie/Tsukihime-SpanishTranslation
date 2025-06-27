@@ -127,7 +127,7 @@ Tengo un mal presentimiento sobre esto.
 [sha:de4c71a2106e993ab13de86a6463bcb90b72cad5]{
 -- Page 176, Offset 17010.
 -- 「翡翠。それ、どんなヤツ？」
-"Hisui. Este invitado... ¿cómo és?"
+"Hisui. Este invitado... ¿cómo es?"
 }
 [sha:3ff8543c1115dd2921fa99b2c1df0a23b09560f1]{
 -- Page 176, Offset 17011.

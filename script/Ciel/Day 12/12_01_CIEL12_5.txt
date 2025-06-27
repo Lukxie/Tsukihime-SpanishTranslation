@@ -186,7 +186,7 @@
 [sha:66f57ac9d1bf9ac73c7ae8cadf7a2318d028d443]{
 -- Page 232, Offset 31529.
 -- 信じられない。
--- TRANSLATION HERE
+Nada de esto tiene sentido.
 }
 [sha:72ff438dce43f7f5aa8e6078b4753305934c6c97]{
 -- Page 232, Offset 31530.
@@ -201,7 +201,7 @@
 [sha:7b037b1502b8f5e80d7c0c0a4699f0b7a6127f96]{
 -- Page 233, Offset 31532.
 -- 「はあ―――はあ、はあ――――」
--- TRANSLATION HERE
+"%{i}Ha――ha, ha%{/i}―――"
 }
 [sha:719a5b02c8bc96b4be99a91066cfa6553e8e83ea]{
 -- Page 233, Offset 31533.
@@ -586,7 +586,7 @@
 [sha:3b253551765912d743e74b4363b9146986732f3f]{
 -- Page 248, Offset 31609.
 -- 女の声が聞こえる。
--- TRANSLATION HERE
+Escucho la voz de la mujer.
 }
 [sha:5eaac08f1120366c28f8f28ca67695368f41f68c]{
 -- Page 248, Offset 31610.
@@ -836,7 +836,7 @@ Mi mente está completamente en blanco.
 [sha:41865c70201cb075509559815e452c73600f9f49]{
 -- Page 259, Offset 31659.
 -- 笑いが止まらない。
-No puedo parar de reir.
+No puedo parar de reír.
 }
 [sha:2c3f6b9011bb08536373e1b62e6fb6a7c231c9c0]{
 -- Page 259, Offset 31660.

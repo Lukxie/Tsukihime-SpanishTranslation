@@ -121,7 +121,7 @@ Debo haber transmitido mi desesperación porque,
 [sha:36c49e1ca4559debce2bd8d2acc155a93b9c2fc1]{
 -- Page 809, Offset 10855.
 -- 瓦礫をあの勢いで投げつけられるアルクェイドなら、ヴローヴを高速で引っ張れる筈だ。
-Teniendo en cuenta como ha lanzado forzosamente los escombros, 
+Teniendo en cuenta como ha lanzado forzosamente los escombros,
  debería ser capaz de pescar a Vlov a gran velocidad.
 }
 [sha:171c4c75f2943ef3c4eeea138deb9cf2c86d8793]{
@@ -180,7 +180,7 @@ No es que Vlov no %{i}quisiera%{/i} acercarse.
 [sha:54bfa73523fa85dc6b44ace59002f8df421a35e7]{
 -- Page 813, Offset 10866.
 -- だというのに、俺はヤツに追い風を与えてしまった。
-//Darle viento de cola no se si es demasiado literal
+// Darle viento de cola no se si es demasiado literal
 Pero entonces... voy y le doy alas.
 }
 [sha:fb46cf4014202dbf9eca78c840b52d228c00f2fa]{

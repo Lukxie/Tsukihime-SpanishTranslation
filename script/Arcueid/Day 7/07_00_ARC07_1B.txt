@@ -123,7 +123,7 @@ Parece bastante sorprendida por verme,
 [sha:ca0b91049fc5f5f9ec9ddb311757a01db15a0e84]{
 -- Page 50, Offset 16696.
 -- 「時間を間違えると遅刻するんじゃなくて、早くから登校しちゃうんだ。志貴クンはあれね、勤勉家ね。今どきの若い子なら、もっと気楽に生きていいんじゃない？」
-"Osea que perdiste la noción del tiempo, pero en vez de llegar tarde, has acabado llegando pronto a la escuela.
+"O sea que perdiste la noción del tiempo, pero en vez de llegar tarde, has acabado llegando pronto a la escuela.
  Ese es tu estilo, ¿verdad? Diligente.
  Pero aún eres joven, ¿por qué no te tomas las cosas con calma mientras puedas?"
 }
@@ -145,7 +145,7 @@ Ah, y ahora que estás aquí, sobre mi ausencia injustificada del viernes..."
 [sha:5caf296439ad270e9234a5af9e54262f54872257]{
 -- Page 51, Offset 16700.
 -- たった一日のボイコットなんてフツーだものね。志貴クンだって、その方が都合が良かったでしょう？」
-//Cambiola estructura para que tenga mas sentido
+// Cambiola estructura para que tenga mas sentido
 Te parece bien, ¿no?
  Es totalmente normal hacer pellas de vez en cuando."
 }
@@ -189,14 +189,14 @@ Me da la sensación que la política educativa de Noel-sensei es muy indulgente.
 [sha:38c9797b2f015f4be731f84ff4957452c3420325]{
 -- Page 53, Offset 16708. Glued. Mods: @x.
 -- だってみんな、こんなにも若くて美味しそうなんですもの。一日ぐらい、背伸びして遊びに行くのは仕方がないコトだと思うの」
-//Mix de tls.
+// Mix de tls.
  Quiero decir, todos sois tan jóvenes y apetitosos.
  Creo que es normal que quieras estirar las piernas y pasártelo bien un día o dos."
 }
 [sha:dab2440acb5ac2ac08546b5b531ac05693c2bda6]{
 -- Page 53, Offset 16709.
 -- 「い、いえ、遊びに行っていたとか、そういうんじゃなくて……」
-"N-No, no es como si me hubiese ido por ahí a pasarmelo bien ni nada..."
+"N-No, no es como si me hubiese ido por ahí a pasármelo bien ni nada..."
 }
 [sha:0d917497fa0c0efd4292d23b0b430a7b93f9dce0]{
 -- Page 54, Offset 16710.
@@ -217,7 +217,7 @@ Entonces, ¿cómo te encuentras? ¿Aún te duele?"
 [sha:1a023b018c606681edf4002a0b9c147289ee98ad]{
 -- Page 55, Offset 16713.
 -- ……真剣に心配されてしまった。
-//Tl oficial
+// Tl oficial
 Parece que se preocupa por mi de verdad.
 }
 [sha:7025d4a4e126b3048ed2c460921ff24f53adb074]{
@@ -363,7 +363,7 @@ Pensaba que sería el primero en llegar, pero varios de mis compañeros ya está
 -- Page 66, Offset 16740.
 -- 「そーそー。放課後の部活動だけじゃなく、朝練まで自重しろって話になってきてさー。主将を交代したばっかだってのに、こんなんじゃ統率とれねぇよ。なぁ？」
 "No me hagas hablar.
- Tanto anoche como esta mañana, nos dijeron que recogieramos pronto y nos preocupáramos más por nuestra seguridad.
+ Tanto anoche como esta mañana, nos dijeron que recogiéramos pronto y nos preocupáramos más por nuestra seguridad.
  Y acabamos de cambiar de capitán. ¿Cómo se va a encargar en estas condiciones?
  Es de locos, ¿verdad?"
 }
@@ -443,7 +443,7 @@ El viernes me encontraba un poco mal, pero me empecé a sentir bien cuando llegu
 [sha:a4d6a69d38f648948d284c02164a34af27c8e3c6]{
 -- Page 72, Offset 16754. Glued. Mods: @x.
 -- あいかわらず<肝|きも>太いっつーか、順応性高いっつーか、ほんと住めば<都|みやこ>なのな遠野は。うん、メチャクチャ羨ましくねぇーーー！」
-//Aqui me tomo algo de libertad para que tenga más sentido
+// Aqui me tomo algo de libertad para que tenga más sentido
  Cómo siempre nada te molesta, eh.
  Mira al señor Meadaptoatodo, con su actitud de 'me siento en casa donde sea'.
  ¡No me das ni un poco de envidia!"
@@ -583,7 +583,7 @@ Aunque toda esa gente muriera quemada en ese incidente,
 [sha:5256222b9022630df26c64ec0c604a277cc0c25a]{
 -- Page 83, Offset 16777.
 -- 日々ニュースが更新される現代において、どれほど辛い出来事だろうと、次の凄惨なニュースに上書きされ、消費される。
-Vivimos en una época donde nos bombardean con noticias. 
+Vivimos en una época donde nos bombardean con noticias.
  Aunque oigamos algo terrible,
  la siguiente tragedia lo reemplaza rápidamente.
 }
@@ -618,7 +618,7 @@ De todas formas, ¿qué pasa contigo?
 [sha:a9b44efd6b781794892f9f414d142e16fd049c1f]{
 -- Page 86, Offset 16783.
 -- 「木曜からずっと欠席。今朝も来てねえ。あいつもずっと優等生してたからな、いいかげんテンパッてたのかもしれん。しかしフリテンだから上がれない、と」
-//No tengo ni idea de mahjong y como en la tl oficial lo cambian a una analogía de poker yo la cambio a una de mus
+// No tengo ni idea de mahjong y como en la tl oficial lo cambian a una analogía de poker yo la cambio a una de mus
 "Lleva ausente desde el jueves.
  Tampoco parece que haya venido hoy.
  Siempre ha sido una estudiante ejemplar, supongo que las cosas pintaban bien antes de apostar,
@@ -652,7 +652,7 @@ Nos vemos, ¡dale al libro para recuperar lo del viernes!"
 [sha:29543953134ccb8141491cb5a6444d44e3e33284]{
 -- Page 88, Offset 16789.
 -- 有彦はいそいそと教室を出ていった。
-//Tl oficial
+// Tl oficial
 Arihiko deja la clase. Parece contento por algo.
 }
 [sha:2e67389995a0a9d14e566c1306f1515d0a4920c1]{

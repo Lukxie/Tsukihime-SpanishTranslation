@@ -171,7 +171,7 @@ Un testimonio a la muerte de la existencia, en el que quizá uno pueda encontrar
 [sha:b1e428399555581177ab981388acc6bbffffc9f2]{
 -- Page 245, Offset 32346.
 -- ずきりと。
--- TRANSLATION HERE
+%{i}Crack%{/i}.
 }
 [sha:8e14acb794435027d8e9c975e4d5960311a14c99]{
 -- Page 245, Offset 32347.
@@ -192,7 +192,7 @@ Mi cerebro rechina.
 [sha:5d15496b24a3f36bb5c5b21702991d995374fa86]{
 -- Page 247, Offset 32350.
 -- 痛みではなく、その<事実|みらい>が軋ませる。
-No es dolor lo que causa que mi cerebro chirrie,
+No es dolor lo que causa que mi cerebro chirríe,
  sino el saber lo que ahora viene.
 }
 [sha:df931abdc13a42e77dcdbb3ab8fa5b2956127957]{
@@ -297,7 +297,7 @@ Puede que sea la última vez que nos veamos así que voy a decirlo.
 [sha:8a8e99ce9aac5b2ceda5c33a0fc303df2193bdbd]{
 -- Page 256, Offset 32369.
 -- 先輩は闇に溶ける鳥のように、校庭へと消えていった。
-Senpai sale volando hacia el edificio escolar, desvaneciendose como un pájaro al fundirse con la oscuridad.
+Senpai sale volando hacia el edificio escolar, desvaneciéndose como un pájaro al fundirse con la oscuridad.
 }
 [sha:81b78e75cc61a979b87edad450348fa6202b8f37]{
 -- Page 257, Offset 32370.

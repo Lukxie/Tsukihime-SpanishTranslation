@@ -176,7 +176,7 @@
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 297, Offset 15509.
 -- ……そっか。
--- TRANSLATION HERE
+Ya veo...
 }
 [sha:cc968de9f66236dac1982499b7ad5096592ada2c]{
 -- Page 297, Offset 15510. Mods: @n.
@@ -361,7 +361,7 @@
 [sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
 -- Page 309, Offset 15546. Mods: @k, @e.
 -- 「―――
--- TRANSLATION HERE
+"―――
 }
 [sha:782a2405953a785d476ba0ae8637667c5bed5acf]{
 -- Page 309, Offset 15547. Glued. Mods: @x.

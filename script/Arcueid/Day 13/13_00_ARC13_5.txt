@@ -99,7 +99,7 @@ A pesar de que el dolor de cabeza me está matando, demando una última conversa
 [sha:f73d7469ea73db433870b597d10595828d73f6cd]{
 -- Page 411, Offset 32838.
 -- 「―――ほう。いいだろう、言ってみたまえ」
-"―――Oh. Muy bien, escuchémosolo."
+"―――Oh. Muy bien, escuchémoslo."
 }
 [sha:6c44aabc060fd30797502cadc6506e6d58616a56]{
 -- Page 411, Offset 32839.

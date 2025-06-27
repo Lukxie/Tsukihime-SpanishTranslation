@@ -331,7 +331,7 @@
 [sha:af9173a8004a57f2dc9e28b1487163e588bc7b2b]{
 -- Page 163, Offset 15188. Mods: @k, @e.
 -- 先輩は
--- TRANSLATION HERE
+Ella estaba―――
 }
 [sha:5bec3551964a0c1d8c7288520378a1b2fbccd745]{
 -- Page 163, Offset 15189. Glued. Mods: @x.

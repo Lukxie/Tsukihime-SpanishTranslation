@@ -94,7 +94,7 @@ Sus hombros expuestos son glamurosos, pero a la vez reservados.
 [sha:e38ed9c03bae1856501f6beb5ef9e3b55a4da93d]{
 -- Page 629, Offset 18160.
 -- ……言葉がない、とはこの事だ。
-Osea que así se siente uno cuando se queda sin palabras...
+O sea que así se siente uno cuando se queda sin palabras...
 }
 [sha:b276c74dfa95a0c8048c60421999b9c410a1e712]{
 -- Page 629, Offset 18161.
@@ -213,7 +213,7 @@ Además, no hay forma de que le deje ver esto a nadie más.
 [sha:41dc5520d8f804c289a426ae3f7238334ae1e3bb]{
 -- Page 638, Offset 18182.
 -- 「そ、そう？　じゃあ気に入った、ってコト？」
-//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+// AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 "¿E-En serio? ¿Entonces te gusta?"
 }
 [sha:3c11092e4d45d276eabf3b493bea6268cc927cb0]{
@@ -231,7 +231,6 @@ No puedo creer que un ataque tan simple haya sacado tanto de mí.
 -- 「ま、まあ、それなりに。一緒に戦う時、おまえが色々できると頼りになるだろ」
 "B-Bueno en cierto sentido.
  Cuando luchemos juntos será de gran ayuda tener cosas así."
- 
 }
 [sha:649b881802ad54d4eb5639214ec32bdbdd36f7b9]{
 -- Page 639, Offset 18186.
@@ -251,7 +250,7 @@ Parece que está contenta por 'ser de gran ayuda'.
 [sha:484a105a61a9af04f6a87838407c77d560eb0554]{
 -- Page 640, Offset 18189.
 -- 殺す事しか能の無い志貴を最大限にサポートするね！」
-//Tl oficial
+// Tl oficial
 Todo lo que puedes hacer es matar, ¡así que te apoyaré de todas las maneras que pueda!"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -287,7 +286,7 @@ Sinceramente, es mi culpa por pensar en un plan tan descabellado al enfrentarnos
 [sha:25b0c5fedb3a3ffac4f1e57a686a19c5fc4764f4]{
 -- Page 643, Offset 18196.
 -- ドレスコードは、そうね……『氷河をまとう』かな？
-//otra vez con dress code me quiero MORIRRRRRRRRRRRRRRRR
+// otra vez con dress code me quiero MORIRRRRRRRRRRRRRRRR
 Creo que llamaría a este atavío de combate, hmm... ¿algo como 'Glaciar Envolvente'?
 }
 [sha:69cb492839899f6d1da4711e0ea889b39b844b06]{
@@ -303,14 +302,14 @@ Esa es la imagen que tenía en mente al crearlo."
 [sha:19d69a5dbbd18001e26156ce93cb9cea34fcc3c9]{
 -- Page 644, Offset 18199.
 -- 「キラウエアをイメージしていたでしょうね。あそこは今も活動している火山だから」
-//Mix de tls
+// Mix de tls
 "Entonces me hubiera basado en Kilauea.
  Ya que es un volcán activo."
 }
 [sha:f26ff182ba5f55c2658f8e7ec868a1b0c314585c]{
 -- Page 644, Offset 18200.
 -- そこは可愛く『<南国|ハワイ>のわたし』くらいにしていただきたい。
-Admito que me encantaría verla en un atuendo hawaiiano.
+Admito que me encantaría verla en un atuendo hawaiano.
 }
 [sha:30a2561b454b4520f3877b088498a93ea09e27fe]{
 -- Page 645, Offset 18201.
@@ -345,7 +344,7 @@ En realidad, hay algo más que me he estado preguntando.
 [sha:edfb2e1e849490dc115c227e940ad5fba9ddc574]{
 -- Page 646, Offset 18207.
 -- 社交界に行くワケでもあるまいし」
-//Tl oficial
+// Tl oficial
 Parece más apropiado para la alta sociedad que para una pelea."
 }
 [sha:38245af12822ca9bc4f6903ceefc560a5ffc6922]{

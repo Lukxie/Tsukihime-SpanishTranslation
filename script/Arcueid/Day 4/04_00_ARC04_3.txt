@@ -42,7 +42,7 @@ Hisui me mira fijamente, y entonces toma un poco de aire como si estuviera reuni
 [sha:fb3d5b8521257aaa08fa65fed5a084ab274e0705]{
 -- Page 103, Offset 5818.
 -- ……でも、たしかに秋葉の言う通り軽率だった。これからは気をつける」
-//creo que uso demasiado 'aun así' sorry el que lea esto y siga leyéndolos.
+// creo que uso demasiado 'aun así' sorry el que lea esto y siga leyéndolos.
 Aún así, no puedo negar que Akiha tuviera razón. %{i}Fue%{/i} descuidado por mi parte.
  Tendré más cuidado a partir de ahora."
 }
@@ -115,7 +115,7 @@ Tras el paso de peatones está el muro alrededor de la parcela escolar.
 [sha:f293f4fc84c5fe01fc6190ccdb4f5cf4ff9046d4]{
 -- Page 108, Offset 5832.
 -- 通学路はガードレールに守られていて、今も我先に生徒たちが校門へと向かっている。
-El camino a la escuela está protegido por un guardaraíl, e incluso ahora los estudiantes se abren paso hacia las puertas de la escuela.
+El camino a la escuela está protegido por un guardarraíl, e incluso ahora los estudiantes se abren paso hacia las puertas de la escuela.
 }
 [sha:b234f2fb100eae84deb1080464de3b25a034f73f]{
 -- Page 109, Offset 5833.
@@ -348,7 +348,7 @@ Un escalofrío me recorre la columna como si un ciempiés estuviera reptando por
 [sha:9f48b699091889b53c828ceee9de07f54f28be64]{
 -- Page 119, Offset 5878.
 -- 背骨が口からせり出してきそうだ。
-//'This makes no fucking sense' factos señor traductor, factos
+// 'This makes no fucking sense' factos señor traductor, factos
 Es como si mi columna estuviera a punto de salir disparada por mi boca.
 }
 [sha:4cf18375e09448e11d2976d8137523dab75bd398]{
@@ -620,7 +620,7 @@ Respiro aún más fuerte.
 [sha:e47f92c9192f0ab043245aeb882d34e1ac76100b]{
 -- Page 135, Offset 5930.
 -- もう何キロ全力で走っただろうか。
-He estado corriendo a toda velocidad durante sabe quíen cuántos kilómetros.
+He estado corriendo a toda velocidad durante sabe quién cuántos kilómetros.
 }
 [sha:5bc65173801d05d69e8173668229be1f480e5e18]{
 -- Page 135, Offset 5931.
@@ -657,7 +657,7 @@ Me río, aunque no hay nada gracioso sobre esta situación.
 [sha:41865c70201cb075509559815e452c73600f9f49]{
 -- Page 137, Offset 5937.
 -- 笑いが止まらない。
-No puedo parar de reir.
+No puedo parar de reír.
 }
 [sha:04e49ba43e76061c6b9174042c15bf2a6eaebe7f]{
 -- Page 137, Offset 5938.
@@ -853,7 +853,7 @@ Por qué, Por qué, Por qué, Por qué, Por qué,
 [sha:81daaab4d8c17debb05f74b014f2e98262904c1f]{
 -- Page 147, Offset 5976.
 -- カツン。
-//Ayuda con los sfx en español please
+// Ayuda con los sfx en español please
 %{i}Tap%{/i}.
 }
 [sha:4edb51a0b06f5d18814094d1bfb87133ce407234]{
@@ -948,7 +948,7 @@ Pensando en escapar consigo mover mis pies,
 -- Page 154, Offset 5994.
 -- だってここ袋小路だもん。おまけに<人気|ひとけ>もないから、邪魔が入る心配もないし」
 Después de todo, este callejón no tiene salida.
- Además, no hay nadie alrededor, osea que no tengo que preocuparme por que nadie interfiera."
+ Además, no hay nadie alrededor, o sea que no tengo que preocuparme por que nadie interfiera."
 }
 [sha:804506bd22aee274b52c72d8e80873abdefc5fe9]{
 -- Page 155, Offset 5995.
@@ -1138,7 +1138,7 @@ No se inmutan aunque los estrangules.
 [sha:b6d5816e3d901eba21ef2bb01ccacfd67acb9813]{
 -- Page 166, Offset 6031.
 -- バラバラにしても元通りになって動きはじめる、
-Aunque los despedaces, se cosen ellos mismos y empienzan a moverse de nuevo.
+Aunque los despedaces, se cosen ellos mismos y empiezan a moverse de nuevo.
 }
 [sha:fa8a9a78ddc329d93721baec78717b12316c8d63]{
 -- Page 166, Offset 6032.
@@ -1435,7 +1435,7 @@ Finalmente decidí arreglar las cosas a mi manera―――
 [sha:7f63431c0ccd8756679dcd3bf8269394706a8933]{
 -- Page 10009, Offset 6089.
 -- つい笑ってしまう。
-No puedo evitar reirme.
+No puedo evitar reírme.
 }
 [sha:de5a6a0d07aed93e0b971e4c56816009e61da975]{
 -- Page 10009, Offset 6090.
@@ -1561,7 +1561,7 @@ Esto es raro...
 [sha:670185b11dd5e0034326196a8fbc7de52e6894ae]{
 -- Page 198, Offset 6113.
 -- 「ええ、たしかに殺されたら殺し返すのがセオリーよね。
-//'de vuelta' queda muy mal, lo he usado antes creo que debería cambiarlo también.
+// 'de vuelta' queda muy mal, lo he usado antes creo que debería cambiarlo también.
 "Tienes razón,
  si alguien te mata, y entonces sigues las normas a rajatabla,
  deberías matarles en respuesta.
@@ -1849,7 +1849,7 @@ Una demostración de violencia sin igual.
 [offset:6169]{
 -- Page 217, Offset 6169.
 -- ……俺が逃げたのは、おまえが怖かったからじゃない。俺は、俺自身の行為から、逃げていただけだった」
-No huí porque tuviese miedo de ti...
+No hui porque tuviese miedo de ti...
  solo estaba huyendo de mí mismo."
 }
 [offset:6170]{

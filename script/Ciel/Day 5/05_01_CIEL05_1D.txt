@@ -218,10 +218,10 @@
 -- 「え―――？」
 "¿Eh―――?"
 }
-[offset:11328]{
+[sha:0384d287edc8f5c296e4964b7c934c88df127ff2]{
 -- Page 167, Offset 11328.
 -- ……そうだ。
--- TRANSLATION HERE
+Eso es verdad...
 }
 [sha:1a1a00a556dcb1c87e357a90132aa1aea1492c52]{
 -- Page 167, Offset 11329.
@@ -291,7 +291,7 @@
 [sha:9c24c147b8a2ba3f0ca2cb28d7f6b8807249019b]{
 -- Page 172, Offset 11342.
 -- 「え……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:8b848379f60158e644eec4eed0554bf5469880a5]{
 -- Page 172, Offset 11343.

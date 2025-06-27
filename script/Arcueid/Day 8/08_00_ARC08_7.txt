@@ -164,7 +164,6 @@ Seguro que lo es.
 -- Page 440, Offset 20814.
 -- これは矜持というか、依り所の話だ。
 Pero es una cuestión de orgullo. De tener un sitio al que pertenecer.
- 
 }
 [sha:c7606f5d987bb369402905c8bf1be376f2fc6df9]{
 -- Page 440, Offset 20815.

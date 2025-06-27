@@ -13,7 +13,6 @@ No hay ni un alma.
 -- ベンチに座って、時計の秒針を数えるように、アルクェイドが来るのを待つ。
 Me siento en un banco,
  contando los segundos del reloj mientras espero la llegada de Arcueid.
- 
 }
 [sha:9fbc7118ac3a9a7ce40d7870ea410d0e56257eed]{
 -- Page 158, Offset 29951.
@@ -398,7 +397,7 @@ Ni siquiera merezco tu ayuda.
 [sha:deda12880fd346a61e12d3a34ebf2a6ed9d4ac4a]{
 -- Page 182, Offset 30024.
 -- 「……そんな事にも気づかないままで、わたしは、あと少しであなたを台無しにしてしまうところだった。
-"Lo supe desde un principio, pero lo hice igualmente, y por ello estuve a %{i}esto%{/i} de arruinarte. 
+"Lo supe desde un principio, pero lo hice igualmente, y por ello estuve a %{i}esto%{/i} de arruinarte.
 }
 [offset:30025]{
 -- Page 182, Offset 30025.
@@ -926,7 +925,7 @@ Me acerco a Arcueid.
 [sha:fb286836297b86f36a76f3443ba7b535d0f3d63b]{
 -- Page 215, Offset 30125.
 -- 「あ――――」
--- TRANSLATION HERE
+"Ah―――"
 }
 [sha:2cea3c5a9b063e2cd2075067516b5410149231ca]{
 -- Page 215, Offset 30126.

@@ -41,7 +41,7 @@
 [sha:568ec02c9816c990716503fe8823c5399f5e8706]{
 -- Page 150, Offset 27463.
 -- 「―――さて」
--- TRANSLATION HERE
+"―――Bueno entonces."
 }
 [sha:9c83688861fc166886c8fd7026e3baf68b46ec10]{
 -- Page 150, Offset 27464.
@@ -161,7 +161,7 @@
 [sha:41e9b448ab3965a158cbf875011e06c7a657b488]{
 -- Page 157, Offset 27487.
 -- ―――まずい。
--- TRANSLATION HERE
+―――Esto es malo.
 }
 [sha:2a619d1ffac87b08e58b1ef279fafd09dc05416c]{
 -- Page 157, Offset 27488.

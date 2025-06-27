@@ -11,7 +11,7 @@ Habiendo terminado las clases, la escuela termina por hoy
 [sha:ead963addf41d6923df6455e1cce5e6c27e95ce2]{
 -- Page 10003, Offset 16853.
 -- いや、いつのまにか放課後になっていた、と言うべきだ。
-//Tl oficial
+// Tl oficial
 O debería decir que se terminó antes de que me diera cuenta.
 }
 [sha:b2798f52f1dd2a1ff40642c79b3a9042e7a34130]{
@@ -42,7 +42,7 @@ Pero recuerdo que me dijo algo.
 [sha:32365307c5a86d90c050bab54f65b8f26a2863eb]{
 -- Page 113, Offset 16859.
 -- 俺にはあの言葉が嘘とはどうしても思えない。
-//Mentirosas todas
+// Mentirosas todas
 No la veo mintiéndome sobre eso.
 }
 [sha:5dcf5ecde19ebfbf49a05bf16d8100167d8c294b]{

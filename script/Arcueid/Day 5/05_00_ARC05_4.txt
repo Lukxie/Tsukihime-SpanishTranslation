@@ -32,7 +32,7 @@ Derrotar a un Apóstol Muerto significa vencer a su superpoder.
 -- Page 316, Offset 9402.
 -- あの炎を消す手段を獲得しないかぎり人間に勝ち目はない。だから―――わたしがヴローヴの呪いを壊すまで、志貴はアイツに近づかないでね」
 Sin una forma de extinguir las llamas los humanos no tienen oportunidad contra Vlov.
- Es por eso que necesito que estés alejado de él hasta que rompa su maldición." 
+ Es por eso que necesito que estés alejado de él hasta que rompa su maldición."
 }
 [sha:0971ad639697657b6dbf5d757b667ca185b4e213]{
 -- Page 317, Offset 9403.
@@ -67,7 +67,7 @@ De cualquier forma, si Vlov comienza a acercarse, Arcueid será capaz de detecta
 [sha:bc0346c8cb64c82e1703b09e6a0feda951def481]{
 -- Page 319, Offset 9409.
 -- 一方、アルクェイドは波長を常時抑えているが、今は解放してヴローヴを挑発している。
-Por otro lado, Arcueid normalmente suprime su longitud de onda, 
+Por otro lado, Arcueid normalmente suprime su longitud de onda,
  pero ahora mismo la está emitiendo a propósito para provocar a Vlov.
 }
 [sha:0720500700f04f0247706d83284cd78a65b0da4c]{
@@ -149,7 +149,7 @@ Aunque Arcueid ha dicho que la posibilidad de que esto pase es extremadamente ba
 [sha:82a7cba52995b8b3dddb3e9c1be9a8a4a10fdbdf]{
 -- Page 325, Offset 9425.
 -- そうなれば俺の安全は保証されない。ホテルの時のように、何もできないまま焼かれる危険性がある。
-Si eso ocurre, no se puede garantizar mi seguridad. Corro el riesgo de morir en vano quemado, igual que la gente del hotel. 
+Si eso ocurre, no se puede garantizar mi seguridad. Corro el riesgo de morir en vano quemado, igual que la gente del hotel.
 }
 [sha:404820038a6bd0f8b1b7866cea151c3d6885d34c]{
 -- Page 326, Offset 9426.
@@ -236,7 +236,7 @@ Debe haber notado que estaba temblando.
 [sha:a8480e534e1373ec162d0d7f2549b7b33e78c78b]{
 -- Page 331, Offset 9442.
 -- 「？　志貴、泣いてないけど？」
-//Modificado para que tenga sentido en español
+// Modificado para que tenga sentido en español
 "¿Eh? Pero Shiki, ¿por qué no te veo llorar?"
 }
 [sha:4552496b301a59864a6fd725a8b8ecf39399bcf9]{
@@ -268,7 +268,7 @@ No estoy seguro de que parte de lo que acabo de decir la ha sacado de quicio, pe
 [sha:b52f95a3f3666e4d0bfe58c5eb75dcb2f9e1f0ee]{
 -- Page 334, Offset 9448.
 -- 「ところで、私もその吸血鬼なんだけど」
-"Por si no lo sabías, al igual que él, yo tambíen soy un vampiro."
+"Por si no lo sabías, al igual que él, yo también soy un vampiro."
 }
 [sha:372141908e42903237aaf914ab79fd55216f95ea]{
 -- Page 334, Offset 9449.
@@ -304,7 +304,7 @@ Tiene toda la razón... pero...
 -- Page 337, Offset 9455.
 -- 「なんか、おまえは別。だって血を吸った事ないんだろ。ならいい。吸血鬼だろうと何だろうと、俺たちに手を出さないでいてくれるなら、それでいいんだ」
 "Por alguna razón... siento que eres distinta.
- Después de todo, ni siquiera has bebido sangre antes, osea que no importa.
+ Después de todo, ni siquiera has bebido sangre antes, o sea que no importa.
  Que seas un vampiro u otra cosa, mientras no nos pongas la manos encima, no pasa nada."
 }
 [sha:139b81906484218ab8f22bddac1837a8f7b15412]{

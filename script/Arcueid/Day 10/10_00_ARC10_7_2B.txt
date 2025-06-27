@@ -494,7 +494,7 @@ Un singular ojo, una mirada endemoniada dirigida a mí.
 [sha:b5dcd4c80c43339655ff85d453373cabe0d7dd0c]{
 -- Page 801, Offset 26481.
 -- 目が合った訳ではない。
-No es que cruzaramos miradas.
+No es que cruzáramos miradas.
 }
 [sha:01171064a708f77f17fc06e0c7c19c9de9e8e72b]{
 -- Page 801, Offset 26482.
@@ -1013,7 +1013,7 @@ Bajo mí, se encuentra el cuerpo de una mujer, nada más, nada menos.
 [sha:d69f459f6b652a2c81ec0ba446cb803d50331904]{
 -- Page 823, Offset 26583.
 -- “はあ―――はあ―――はあ―――”
--- TRANSLATION HERE
+'%{i}Ha――ha――ha%{/i}―――'
 }
 [sha:d59275be0b7757e3570240220e399082bbcca443]{
 -- Page 823, Offset 26584.
@@ -1155,7 +1155,7 @@ Lo único que me queda libre es la boca.
 [sha:86525ed20b59fd6137339851917d476fce811f90]{
 -- Page 830, Offset 26611.
 -- 「……んっ、志貴、落ちつい、て―――！」
-"%{i}Nn%{/i}... ¡Shiki, calmate―――!"
+"%{i}Nn%{/i}... ¡Shiki, cálmate―――!"
 }
 [sha:f18c9c3d7a1cf81e864685ee89fa0d4e9f292fe0]{
 -- Page 830, Offset 26612.
@@ -1404,10 +1404,10 @@ Lágrimas brotando de sus ojos―――
 -- 「―――――」
 "―――――"
 }
-[offset:26660]{
+[sha:24f46a0482ba923b601f8dae125d9c0799b01e10]{
 -- Page 840, Offset 26660.
 -- 頭痛が走る。
--- TRANSLATION HERE
+Me duele la cabeza.
 }
 [sha:fc1821db7fe159c45ede511a63c2772ed76f68c2]{
 -- Page 840, Offset 26661.

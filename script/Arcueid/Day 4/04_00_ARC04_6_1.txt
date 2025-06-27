@@ -371,7 +371,7 @@ Donde quiera que mire, mis alrededores de repente están pintados de un rojo cla
 [sha:6e4cd75f6cd402cf33c10f453e6d82199f120fa5]{
 -- Page 931, Offset 8131.
 -- ごうごうという音が聞こえる。
-Escucho un rugido. 
+Escucho un rugido.
 }
 [sha:5bc6b50a9bf34bc3010e727676e143d59459e9c4]{
 -- Page 931, Offset 8132.
@@ -456,5 +456,5 @@ El sonido de la grasa esparciéndose por el asfalto.
 [sha:e1755be8bf4088b169cc48bec7dd9279de41e17a]{
 -- Page 935, Offset 8148.
 -- それが自分から垂れ流された汚物のなれの果てである事に、遠野志貴は最期まで気づかなかった。
-Solo al final, Tohno Shiki se dio cuenta que eran los restos de la inmundicia que había emergido de él. 
+Solo al final, Tohno Shiki se dio cuenta que eran los restos de la inmundicia que había emergido de él.
 }

@@ -371,7 +371,7 @@
 [sha:da8cd878c9b5907a7d61c556abd64866ea3ff33e]{
 -- Page 390, Offset 36411.
 -- 「おい」
--- TRANSLATION HERE
+"Oye."
 }
 [sha:709088eccc22e2c59ea8c92860f6b9853e48eab1]{
 -- Page 390, Offset 36412.

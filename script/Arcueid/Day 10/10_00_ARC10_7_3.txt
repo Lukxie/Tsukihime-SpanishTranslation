@@ -88,7 +88,7 @@ Siento un hormigueo en el cuello.
 [sha:e75629210af96d49b48a0c56c171ab15c6eccafa]{
 -- Page 848, Offset 26691.
 -- 人影はない。
--- TRANSLATION HERE
+No hay nadie.
 }
 [sha:e75629210af96d49b48a0c56c171ab15c6eccafa]{
 -- Page 848, Offset 26692.

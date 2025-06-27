@@ -108,7 +108,7 @@ Anoche algún perro callejero estuvo ladrando casi media hora.
 [sha:d0f7c84843e6ce16fc9cbe0dbec871d04e0b18e6]{
 -- Page 76, Offset 4149.
 -- 「ははあ。それはワンワンパニックですねぇ」
-//Juego de la NES, como se nota que a Kohaku le molan los juegos xd
+// Juego de la NES, como se nota que a Kohaku le molan los juegos xd
 "Ajá, te refieres como los que salen en %{i}Chubby Cherub%{/i}, ¿verdad?"
 }
 [sha:c5e80fe7b10cadb4d76507a3ab5656a254d8d908]{

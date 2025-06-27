@@ -16,7 +16,7 @@ Su agonía es ensordecedora.
 [sha:a7bfab1ffc0f7b6b77e4414b504d8228284a93c3]{
 -- Page 350, Offset 9485.
 -- 金属片をミキサーにいれたような衝突音。
-Es el mismo sonido chirriante que el de trozos de metal pulverizandose en una licuadora. 
+Es el mismo sonido chirriante que el de trozos de metal pulverizándose en una licuadora.
 }
 [sha:6a6ad5eb8204d27c506095b1574327cf23fcf040]{
 -- Page 350, Offset 9486.

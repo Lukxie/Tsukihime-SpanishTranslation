@@ -159,7 +159,7 @@ Ella me agarra del brazo.
 [sha:4dc8edf88a4ec2f664dd9df19d1dd74a950961c6]{
 -- Page 253, Offset 3278.
 -- 「ちょっ、わわわ……！」
-//ni idea de como localizar aquí tbh
+// ni idea de como localizar aquí tbh
 "Espera, ¡¿ua-oa-oaa?!"
 }
 [sha:98655e74fe3885e5ae9227ca3b364df0e06eec2a]{
@@ -407,7 +407,7 @@ Me siento avergonzado, por lo que aparto la mirada.
 [sha:88f309c02d3e4db80cba6791de4f3fb5293cd483]{
 -- Page 271, Offset 3326.
 -- 琥珀さんは真正面から屈託のない笑顔を向けてくるので、ついドギマギしてしまう。
-Recibir abocajarro la honesta sonrisa de Kohaku-san me ha puesto bastante nervioso.
+Recibir a bocajarro la honesta sonrisa de Kohaku-san me ha puesto bastante nervioso.
 }
 [sha:a34efc8fdd27acd19d31fa05579db84a000e5fa1]{
 -- Page 272, Offset 3327.
@@ -448,7 +448,7 @@ Las noticias han terminado el segmento inofensivo para todas las audiencias,
 [sha:46716eacec0e3b2e11363950b8e18b279a26fdc7]{
 -- Page 274, Offset 3334.
 -- ニュースは連続通り魔殺人を特集していた。
-//Aquí traduzco literal del japonés porque no se puede resolver de la misma manera que en el inglés.
+// Aquí traduzco literal del japonés porque no se puede resolver de la misma manera que en el inglés.
 Las noticias están llevando a cabo un reportaje especial sobre los asesinatos cometidos por el atacante aleatorio.
 }
 [sha:20f61b388784a276391763a8c852b8eedebd6d30]{
@@ -627,7 +627,7 @@ Que manera tan clara de pensar.
 [sha:89306997cf45dd5c3146e4563b5aed1d8a57a81a]{
 -- Page 287, Offset 3366.
 -- そう割り切るには生々しすぎる話題だけど、ニュースで知る事件なんて、そんなものなのかもしれない。
-//suena forzado
+// suena forzado
 Diría que es un asunto un demasiado espeluznante como para descartarlo tan fácilmente,
  pero quizá es lo que hay con los incidentes de los que nos enteramos por las noticias.
 }

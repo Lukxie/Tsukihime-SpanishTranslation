@@ -1,7 +1,7 @@
 [sha:3b2aaef690150f4c8a1b7f9cd385693ee845c060]{
 -- Page 10024, Offset 7320.
 -- 「ふーん。死が視えてると脳に負担がかかるのかしらね。
-"Hmm. Me pregunto si ver la muerte estresa tu cerebro de verdad. 
+"Hmm. Me pregunto si ver la muerte estresa tu cerebro de verdad.
 }
 [sha:3ae149fea3ba985b89655bc46c6e9f83601891ec]{
 -- Page 10024, Offset 7321.
@@ -31,7 +31,7 @@ Quizá te hable de ello más tarde si tenemos otra oportunidad."
 [sha:3fc2a777ccaa26f6783ebd123b7114404ecaf9f5]{
 -- Page 659, Offset 7326.
 -- 意図が半分も伝わらない不自由な言葉でも、こんなに心が揺れるんだもの」
-Incluso si solo son unas palabras entrecortadas que no expresan ni la mitad de lo que quiero decir, 
+Incluso si solo son unas palabras entrecortadas que no expresan ni la mitad de lo que quiero decir,
  es suficiente para conmoverme."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

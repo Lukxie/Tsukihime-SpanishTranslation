@@ -307,7 +307,7 @@ Late con ritmo, como si de un corazón se tratase, proclamando que en muerte hay
 [sha:acbe7ff2ef813da99aa27419f9e632c393249499]{
 -- Page 54, Offset 30656.
 -- 「―――――――――――――――――――――」
--- TRANSLATION HERE
+"―――――――――――――――――――――"
 }
 [sha:58735d54ff2b9438bfef23244e0a89fd959451e6]{
 -- Page 54, Offset 30657.
@@ -352,12 +352,12 @@ Un poco más, y podré ver su cara de cerca.
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30665.
 -- 誰に似ているのか。
--- TRANSLATION HERE
+¿A quién me recuerda?
 }
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30666.
 -- 誰に似ているのか。
--- TRANSLATION HERE
+¿A quién me recuerda?
 }
 [sha:e4fe9c893830d1e4f04dbc7a14fd4d46399696bf]{
 -- Page 55, Offset 30667.

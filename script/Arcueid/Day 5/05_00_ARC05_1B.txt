@@ -84,7 +84,6 @@ Arcueid permanece de pie con un aire relajado.
 -- すっかり元通りになったようで、下手をすると俺より元気があるかもしれない。
 Supongo que ha vuelto a la normalidad.
  Maldita sea, quizá incluso esté más sana que yo.
- 
 }
 [sha:3ed38619978c54770a2616e682acc85c0f48699a]{
 -- Page 39, Offset 8690.
@@ -161,7 +160,7 @@ Según parece, no cree que sea encomiable.
 [sha:34842a2fc71bbdbbd99fe9b5b72148a150767707]{
 -- Page 44, Offset 8704.
 -- ……だから、今更だけど、庇ってくれてありがとう。おまえに引っぱられなかったら、俺も焼け死んでいたところだ」
-Osea que, sé que es tarde para ello, pero... gracias por protegerme.
+O sea que, sé que es tarde para ello, pero... gracias por protegerme.
  Si no me hubieses apartado, yo también habría muerto quemado."
 }
 [sha:6de0a3e33da7c5e1241276d18c19f98bed439c63]{
@@ -721,7 +720,7 @@ Para empezar, alguien que mata sin razón nunca tuvo un lugar en la sociedad.
 [sha:7ef5ed2bea3a675f5f69444c0518a3884a579527]{
 -- Page 94, Offset 8812.
 -- 志貴は本当に、自分でも理由が分からないのね」
-Osea que en realidad no entiendes por qué lo hiciste, ¿verdad?"
+O sea que en realidad no entiendes por qué lo hiciste, ¿verdad?"
 }
 [sha:48a360f0b5d3d4d675b89ea0a6174d02e6ad258f]{
 -- Page 94, Offset 8813.
@@ -751,7 +750,7 @@ Sí... es verdad que hay asesinos en serie que matan personas como si fuera el p
 [sha:e5b41caa136eb816aaf6ff0d5d7e83598d29f343]{
 -- Page 96, Offset 8818.
 -- それで、殺したくなったのはわたしだけなの？」
-Osea que, ¿de veras era la única persona a la que querías matar?"
+O sea que, ¿de veras era la única persona a la que querías matar?"
 }
 [sha:8d4d12465fa14eba6cf1e16ee60919743c36b6c2]{
 -- Page 96, Offset 8819.
@@ -921,7 +920,7 @@ Arcueid respira con dificultad mientras se forma sudor en su frente.
 [sha:9c5e7746a180baac21ec1af598044ae399486fcc]{
 -- Page 110, Offset 8852.
 -- ……いま一瞬、洋服の腹のあたりにかすかな赤色が見えたような……。
-Por un momento, creo que ví un leve color rojo asomando a través de su camiseta...
+Por un momento, me pareció ver un leve color rojo asomando a través de su camiseta...
 }
 [sha:b6eb6b2faffbfe6eace4cf7b9471cd38ab15cb6e]{
 -- Page 111, Offset 8853.
@@ -1261,7 +1260,7 @@ Me aguanto las ganas de responder y me centro en lo que tengo que hacer a contin
 -- Page 138, Offset 8918. Mods: @n.
 -- まずは部屋を出て、血で汚れた上着を脱いで、
 Lo primero de todo tengo que salir,
- dejar mi chaqueta manchada de sangre, 
+ dejar mi chaqueta manchada de sangre,
 }
 [sha:949a7fc88491b6c5b59df38f143f0d60642ecd90]{
 -- Page 138, Offset 8919.
@@ -1293,7 +1292,7 @@ En la mesa hay algo que se podría describir más precisamente como 'alimento' q
 [sha:742f4c1336925a586b8a544a10a21e3f4000b47f]{
 -- Page 140, Offset 8924.
 -- アルクェイドが台所にいたのは、ようするにコレのためか。
-Osea que por eso Arcueid estaba antes en la cocina...
+O sea que por eso Arcueid estaba antes en la cocina...
 }
 [sha:fe0dac1f8fb4a9719a2571903fb9864fe67babda]{
 -- Page 141, Offset 8925.

@@ -311,7 +311,7 @@
 [sha:0b4e32574a95fbaf56e63e3ac6164ae2a63c6549]{
 -- Page 358, Offset 19152. Mods: @n.
 -- 「……アルクェイド。
--- TRANSLATION HERE
+"Arcueid...
 }
 [sha:78e6c609cadcb4f03ff7aba14f87178b7ea2742b]{
 -- Page 358, Offset 19153. Glued.
@@ -593,10 +593,10 @@
 -- 「……………」
 "........."
 }
-[offset:19209]{
+[sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
 -- Page 383, Offset 19209.
 -- それは。
--- TRANSLATION HERE
+Eso es...
 }
 [sha:e5643d2b249f32f5f40113d6b99b31d01b34beb1]{
 -- Page 383, Offset 19210.

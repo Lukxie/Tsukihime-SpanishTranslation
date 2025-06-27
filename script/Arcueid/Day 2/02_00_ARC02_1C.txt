@@ -42,7 +42,7 @@ Escondida detrás del sofá, haciendo señas para que me acerque.
 [sha:17cf8ef3554df42c4eac4f8554bc3b588f46a48c]{
 -- Page 94, Offset 2845.
 -- 「……違います……私は使用人であって使用人ではない曖昧な存在……なので、これを貴方にお返しするのです……」
-//No se si aquí vuelve a su trato formal porque esta roleando o no, asumo que si y se revisa.
+// No se si aquí vuelve a su trato formal porque esta roleando o no, asumo que si y se revisa.
 "Kohaku no está aquí...
  Soy una existencia efímera, una sirvienta, pero a la vez no...
  Como tal, le devuelvo a usted %{i}esto%{/i}."
@@ -172,13 +172,13 @@ Hisui me mete prisa para levantarme del sofá.
 [sha:1eefaac9e2182a0ed1ecdcf58a7a4b275b54144c]{
 -- Page 103, Offset 2870.
 -- 予想外の闖入者がいたものの、七年ぶりの朝は問題なく過ぎていった。
-Aún con el invitado inesperado, 
+Aún con el invitado inesperado,
  mi primera mañana aquí en siete años pasa sin ningún incidente.
 }
 [sha:5bade079fec7f5852dee9a345d5d3204b5c403cd]{
 -- Page 104, Offset 2871.
 -- 翡翠に見送られて屋敷の敷地から出る。
-//parcela recinto lo que suene mejor
+// parcela recinto lo que suene mejor
 Hisui se despide de mi al salir de la parcela de la mansión.
 }
 [sha:eb77227cd4bcab228f8744aac400d88709ce56a1]{

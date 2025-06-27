@@ -6,7 +6,7 @@ Para cuando Arcueid me suelta la mano, son casi las nueve en punto.
 [sha:1e773c4171d3270e6748f250899b55e819c2d8e5]{
 -- Page 427, Offset 17638.
 -- 帰ってからの事を考えると頭が痛いが、協力すると決めた以上、今夜はまだ帰れない。
-//Tl oficial
+// Tl oficial
 Me duele la cabeza con solo pensar en lo que ha pasará cuando vuelva a casa,
  pero eso tendrá que esperar ahora que he decidido ayudarla.
 }
@@ -67,7 +67,7 @@ Se me queda mirando,
 [sha:aa18decd0d25ae7f4d64e2a27560a9fa39946f75]{
 -- Page 432, Offset 17649.
 -- 「うん。志貴、やけに素直だなぁって」
-//Tl oficial
+// Tl oficial
 "No. Solo me sorprende lo obediente que eres."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -141,13 +141,13 @@ Como has estado agitando al rebaño,
 [sha:71883943066c948891798eda41d1c04c8a2989ea]{
 -- Page 438, Offset 17661.
 -- 「基本的には“出し渋る”方でしょうね。
-//Tl oficial
+// Tl oficial
 "Generalmente escogen la opción más tacaña.
 }
 [sha:73a9019e8aedb7e3e262aef83b7436511d00a438]{
 -- Page 438, Offset 17662.
 -- けど、吸血鬼である以上、どうしても他者から血や精を搾取しないと生存していられない。
-Dicho eso, como vampiros, si quieren sobrevivir no tienen más opción que extraerle la sangre y energía a la gente. 
+Dicho eso, como vampiros, si quieren sobrevivir no tienen más opción que extraerle la sangre y energía a la gente.
 }
 [sha:1a309e275f7aaedd1295042062adca34fc2895b6]{
 -- Page 438, Offset 17663.
@@ -195,7 +195,7 @@ Y entonces empezará la caza del vampiro.
 [sha:8acfc72078bb8fe57c79375bbee55f9d94c7093a]{
 -- Page 441, Offset 17671.
 -- ヴローヴと殺し合った時のように、俺たちは正面から、この事件の元凶を駆逐できる。
-//Tl oficial
+// Tl oficial
 Vamos a cortar esto de raíz,
  tal y como hicimos con Vlov.
 }
@@ -234,7 +234,7 @@ Mientras que tú puedes percibir visualmente la diferencia entre los vivos y los
 [sha:0bd1baf438093ae1851bf99aa6fc78b3ca6c6d78]{
 -- Page 444, Offset 17678.
 -- 索敵方法は多いに越した事はないでしょう？」
-//Tl oficial
+// Tl oficial
 Cuantas más formas de buscar mejor, ¿no?"
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
@@ -287,7 +287,6 @@ En los siete años que he tenido estas gafas, nunca he intentado algo así.
 -- そもそもモノを視るだけで頭痛が走るっていうのに、その状態で街を歩いたらどうなるのかは容易に想像できる。
 Quiero decir, solo ver esas cosas sin las gafas puestas es suficiente darme un dolor de cabeza.
  Es sencillo imaginarse lo que pasaría si fuera deambulando sin ellas.
- 
 }
 [offset:17689]{
 -- Page 448, Offset 17689.
@@ -384,7 +383,7 @@ Caminamos por el bullicio de la noche.
 [sha:c206965f46b31ec9efe751792772f1f3eec81319]{
 -- Page 455, Offset 17707.
 -- アルクェイドは何も言わずに、目的地があるかのように、迷う事なく足を進めた。
-//No me gusta como se repite mente aquí
+// No me gusta como se repite mente aquí
 Arcueid no dice ni una sola palabra.
  Simplemente avanza decididamente,
  como si tuviese un destino en mente.
@@ -510,7 +509,7 @@ Arcueid me conduce, o más bien, me empuja al banco.
 [sha:8c72da904a20a57a54c349ebb7ec0abfde774a23]{
 -- Page 466, Offset 17729.
 -- まあ、正直言うと吐く一歩手前だったし、とりあえず腰を下ろす、と……。
-//mix de tls
+// mix de tls
 Bueno, para ser sincero, estoy a punto de vomitar.
  Así que por ahora me sentaré.
 }
@@ -549,12 +548,12 @@ Pero, esto no es ni de cerca como los dolores de cabeza que sufrí en el pasado.
 -- こうやって夜の風にあたって、深呼吸をして、少し休めば吐き気も治まる。
 Si me dejo acariciar por la brisa nocturna,
  respiro hondo y descanso un poco,
- mi nausa debería irse en breves.
+ mi náusea debería irse en breves.
 }
 [sha:4dca368ac9b27ef966694ef1e803565d468b994a]{
 -- Page 469, Offset 17736.
 -- アルクェイドの傷に比べたらどうって事ない。
-//Tl oficial
+// Tl oficial
 Comparado con las heridas de Arcueid esto no es nada.
 }
 [sha:7e740adc077ab4ba55995968d4400b777d0de2ea]{
@@ -651,18 +650,17 @@ El punto donde se origina pero a la vez termina el universo.
 [sha:dae90a2dace9f7f388e7840b68e690cb0d7e1a34]{
 -- Page 475, Offset 17753.
 -- そこには“全てを記録したモノ”がある。記録というよりは“有る”ものだから、情報とは呼べない。ただ“有る”だけ。それ自体に意思はないし、方向性もありえない。原因を垂れ流しているだけの、根源の渦みたいなものね」
-//Mix de tls.
+// Mix de tls.
 En este punto, hay un 'registro de todas las cosas'.
  Aunque es menos un registro y más algo que simplemente %{i}existe%{/i}, en realidad no puedes llamarlo información.
  Simplemente %{i}es%{/i}.
  No tiene voluntad propia, ni tampoco capacidad de direccionalidad.
  Es como el Remolino de la Raíz, que emana causalidad."
- 
 }
 [sha:86119b21e4887c111e0977f80a5373c27a2731fe]{
 -- Page 476, Offset 17754.
 -- 「この<宇宙|せかい>にあるものは、その渦から流れ、派生して、今のカタチに行き着いたわ。わたしも志貴も、吸血種も人間も、もとはそこから始まった原子にすぎない。
-//Mix de tls.
+// Mix de tls.
 "Todo lo que existe en este mundo proviene de ahí
  derivando y asumiendo su forma actual;
  tú y yo――chupasangres y humanos;
@@ -671,7 +669,7 @@ En este punto, hay un 'registro de todas las cosas'.
 [sha:1e503bc56cf5c5b6fb36f64908215f26a0414e44]{
 -- Page 476, Offset 17755.
 -- ……もう離れすぎ、複雑になりすぎてしまって、原因である始まりに戻ることはできないけど、とにかくそういった“一”があるのは分かるでしょう？」
-//Mix de tls.
+// Mix de tls.
 Ahora nos hemos alejado demasiado――vuelto demasiado complejos,
  como para volver a la causa inicial...
  Bueno, al menos comprendes que dicho 'principio' existe, ¿cierto?"
@@ -686,7 +684,7 @@ Ahora nos hemos alejado demasiado――vuelto demasiado complejos,
 [sha:542ad5b18cd1e6178e61023459b606acdeeeca3d]{
 -- Page 478, Offset 17757.
 -- 「全ての根源、全ての始まりと終わりを記録したレコード。
-//Tl oficial
+// Tl oficial
 "La Raíz. En ella residen todas las cosas――un registro de los inicios y del final de todo.
 }
 [sha:852c2cf04ace0957b18d8537e1064d15cfac519d]{
@@ -697,7 +695,7 @@ Estar conectada a ella significa 'entender' el fin de todo lo existente.
 [sha:6010ec80f9fcec4115d75e66ad1600acf420e28b]{
 -- Page 478, Offset 17759.
 -- 高等動物の脳は受信と送信をつかさどる機能なんだけど、たいていの人間はその回線が自分に対してのみで閉じてしまっている。けど、中には潜在的に回線が開いている人間もいる。なんの魔術回路も利用せず、超越種でさえないのに超常現象を可能とする人間」
-//Trascendental races, supongo que se referirá a Dragones True Ancestors es decir las especies fantasmales, pero tanto en la tl oficial como en japones las llama razas Trascendentales.
+// Trascendental races, supongo que se referirá a Dragones True Ancestors es decir las especies fantasmales, pero tanto en la tl oficial como en japones las llama razas Trascendentales.
 En seres superiores, el cerebro es lo que gobierna las capacidades de recepción y transmisión,
  pero en casi todos los humanos, estas conexiones no son receptivas a nada más que ellos mismos.
  Sin embargo, entre ellos hay aquellos cuyas conexiones latentes %{i}son%{/i} receptivas;
@@ -711,13 +709,13 @@ En seres superiores, el cerebro es lo que gobierna las capacidades de recepción
 [sha:862cbbf52e2dfb04a230c420ecefa5cdf417e577]{
 -- Page 479, Offset 17761.
 -- 人間でありながら、生まれついて何らかの魔術回路そのものという突然変異体。
-//Tl oficial
+// Tl oficial
 Son humanos, pero poseen una especie de mutación que funciona como Circuito Mágico.
 }
 [sha:465b3cfc42588a0003968a493220d397df6b426f]{
 -- Page 479, Offset 17762.
 -- ―――例えば何の神秘も学んでいないのに“物の死”を視てしまう人間とか、ね」
-//Mystics - la tl oficial localiza las cosas de manera distinta, pero me parece bien ya que se interpreta como el estudio del Misterio
+// Mystics - la tl oficial localiza las cosas de manera distinta, pero me parece bien ya que se interpreta como el estudio del Misterio
 Por ejemplo, una persona que nunca ha estudiado Mística pero es capaz de ver la 'muerte de las cosas'."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -927,7 +925,7 @@ Ese día, hace siete años, esa persona salvó de múltiples formas al Tohno Shi
 [sha:ec8ff07ee7999ee8da28bbbfee0d917d10e40a0c]{
 -- Page 495, Offset 17800.
 -- 人が<感慨|かんがい>に浸っている中、アルクェイドは真横から顔を覗きこんできた。
-//Mix de tls
+// Mix de tls
 Mientras estaba sentado lidiando con estas profundas emociones,
  Arcueid aparece de la nada y me mira a la cara.
 }
@@ -939,7 +937,7 @@ Esto no es bueno para el corazón.
 [sha:a88fadf7f1eb888380f47726f61d042ffa57d7bc]{
 -- Page 495, Offset 17802.
 -- いい話の後なんだから、少しぐらいは気を遣ってほしい。
-//Tl oficial
+// Tl oficial
 Agradecería que me diera un momento, teniendo en cuenta sobre lo que acabamos de hablar.
 }
 [sha:722d951efb1c14ad02adb0b9afcb84c3bc243bbf]{

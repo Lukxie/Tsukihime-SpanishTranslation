@@ -36,7 +36,7 @@ Ha perdonado el imperdonable pecado de Tohno Shiki con una sonrisa.
 [sha:4abae63caa299c818bd3f5ec65f3dc7a8ecf9d33]{
 -- Page 143, Offset 8537.
 -- なら―――自分の命ぐらい笑って差し出すぐらいはしなくちゃ人間として恥ずかしい。
-Si ella es capaz de hacer eso, me tendría que dar vergüenza como ser humano no jugarme la vida por esa sonrisa. 
+Si ella es capaz de hacer eso, me tendría que dar vergüenza como ser humano no jugarme la vida por esa sonrisa.
 }
 [sha:ba69e8ef9c6b9226a085f568dc5c131b54de4a20]{
 -- Page 144, Offset 8538.

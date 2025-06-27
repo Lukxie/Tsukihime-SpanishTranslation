@@ -28,17 +28,16 @@ En este momento, han pasado unas doce horas desde que los eventos de esta mañan
 [sha:3d3847b9471f14a318393d80cc425f57c1913035]{
 -- Page 165, Offset 16981.
 -- 風船のように膨らみまくった秋葉の怒りは、原稿用紙一枚分の形容詞に達しているかもしれない。
-//Mix de tls
+// Mix de tls
 Su furia, hinchándose por momentos como un globo,
  y decir que está a punto de explotar sería quedarse corto.
 }
 [sha:dfb27e28ee76a513a409b2bde68d4506820b564a]{
 -- Page 166, Offset 16982.
 -- 「……ちょっと頭いたい。自称吸血鬼だって言い張る女より、うちの妹の方が迫力あるとか……」
-//Mix de tls
+// Mix de tls
 "Esto me está volviendo loco...
  Cómo es que me da más miedo mi hermana pequeña que esa vampiro autoproclamada..."
- 
 }
 [sha:c46b538b7ef5ccbf309cfbd1ee627015d4f7995f]{
 -- Page 167, Offset 16983.

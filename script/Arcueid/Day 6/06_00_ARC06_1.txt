@@ -51,7 +51,7 @@ Me las pongo en piloto automático, y miro a mi alrededor.
 [sha:2c0000873622e6aaaaa64c9e7b1b1905d63a928c]{
 -- Page 4, Offset 13932.
 -- さあ、という音が聞こえてきそうなほど、窓からの陽射しは鮮やかだ。
-La luz que atraviesa la ventana es tan viva que casi puedo sintir como me invita a salir.
+La luz que atraviesa la ventana es tan viva que casi puedo sentir como me invita a salir.
 }
 [sha:f4e31a48126e12343a0e703a8aea51334a7be7ae]{
 -- Page 5, Offset 13933. Mods: @n.
@@ -318,7 +318,7 @@ En cualquier caso, ahora entiendo la situación.
 [sha:a27e7c8c90b762022e79a85741cf9c8badd94fb5]{
 -- Page 24, Offset 13985.
 -- 「すぐに行くから、秋葉には、その……できるだけ落ち着くように言っておいてくれると、嬉しいんだけど……」
-"Me dirigiré abajo de inmediato, así que si pudieras, bueno... pedirle a Akiha que se calme lo más amablemente posible, lo apreciaría mucho..." 
+"Me dirigiré abajo de inmediato, así que si pudieras, bueno... pedirle a Akiha que se calme lo más amablemente posible, lo apreciaría mucho..."
 }
 [sha:d0241d94c2fa3416966c8323d6f4a565cf0017ea]{
 -- Page 25, Offset 13986.
@@ -333,7 +333,7 @@ Hisui responde firmemente.
 [sha:0cd3f5ccebe31d7916f087afdc5301d2908f208a]{
 -- Page 26, Offset 13988.
 -- 現在の遠野邸において遠野志貴の身分は最下層に転落したと見て間違いはない。
-//Quizá demasiado coloquial
+// Quizá demasiado coloquial
 Está claro que en este momento, en la mansión Tohno estoy al nivel del betún.
 }
 [sha:ed1f4f01b7add8a7190b238d6dd8e55a9207cc1b]{
@@ -375,7 +375,7 @@ Con que así están las cosas...
 [sha:506e102ee879cf2b8572dc95f1f0af4051aee2d2]{
 -- Page 29, Offset 13996.
 -- あれだけの無茶をしておいて、こうして朝を迎えられる事自体が不自然だというのに。
-Tras hacer todas esas locuras, por supuesto que se siente antinatural el levantarse una mañana como esta. 
+Tras hacer todas esas locuras, por supuesto que se siente antinatural el levantarse una mañana como esta.
 }
 [sha:e899830468d9fcb498154e139a0e1b45e069493c]{
 -- Page 30, Offset 13997.

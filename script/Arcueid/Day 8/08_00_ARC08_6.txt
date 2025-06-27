@@ -115,7 +115,7 @@ Arcueid está bastante molesta. Casi puedo ver como la sale humo de las orejas.
 [sha:47465b9dd1da8a60cd2ea76a68c90ed1861f464a]{
 -- Page 297, Offset 20410.
 -- 「わたし？　わたしは起きてからすぐここに来たから、ええっと――――」
-"¿Yo? Vine en cuanto me levanté, osea que―――"
+"¿Yo? Vine en cuanto me levanté, o sea que―――"
 }
 [sha:2dd58fe56d6997cf42229e5a293afecfcca15f6e]{
 -- Page 298, Offset 20411.
@@ -260,7 +260,7 @@ Soy el capullo que desmanteló su cuerpo en diecisiete.
 -- なんで、間違っても二度とうちには来ないように！　ただでさえ秋葉に誤解されたままなんだ、これ以上引っかき回されたらマジで部屋を犬小屋にされかねない！」
 Así que por favor, pase lo que pase, ¡no vuelvas a la mansión!
  El malentendido con Akiha ya es malo de por si;
- ¡si la provocás aún más quizá acabe viviendo en la caseta del perro!"
+ ¡si la provocas aún más quizá acabe viviendo en la caseta del perro!"
 }
 [sha:f12b7657c446898504d043a2e9928907407ae4ef]{
 -- Page 309, Offset 20437.
@@ -507,7 +507,6 @@ Por mínimo que sea, pude ver un atisbo de decepción en Arcueid mientras se enc
 -- 「いや、違うよ。いつも気楽なおまえでも、気を落とす事があるんだなって」
 "No, no es eso.
  Me ha sorprendido que incluso alguien tan despreocupada como tú tenga también sus bajones."
- 
 }
 [sha:3bc6966605c72ed172879e656e9f2e98c95c3db3]{
 -- Page 326, Offset 20482.
@@ -755,7 +754,7 @@ Conclusiones obvias con las que he vivido los últimos siete años...
 [sha:51c642bb12eed9de4fe99486cd7a9b441853f3c8]{
 -- Page 343, Offset 20527. Mods: @k, @e.
 -- 「ねぇねぇ。
-"Ey, Shiki.
+"Oye, Shiki.
 }
 [sha:8677a01b65ec8e39b472c2b3b3ad53e92afbc9cb]{
 -- Page 343, Offset 20528.
@@ -837,7 +836,7 @@ Arcueid aligera el paso y empieza a alejarse.
 [offset:20542]{
 -- Page 349, Offset 20542. Mods: @n.
 -- 「ちょっ、待てってば！
-"E-Ey, ¡esperame!
+"E-Ey, ¡espérame!
 }
 [sha:c6c753d184cadc7be83a87db11ccb753de5adff0]{
 -- Page 349, Offset 20543.

@@ -265,7 +265,7 @@ Veo otro conjunto de letras
 [sha:0efbee2a0cd59d4cc1adf74058fc06440441e9ea]{
 -- Page 116, Offset 21597.
 -- どうやって刻んだのだろう？
-¿Cómo ha podido alguien carvar algo ahí?
+¿Cómo ha podido alguien tallar algo ahí?
 }
 [sha:90c0edb273850014ba36edb107f7ea4a3032ea65]{
 -- Page 116, Offset 21598.

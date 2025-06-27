@@ -6,7 +6,7 @@ Le digo a Arcueid que la esperaré hasta que recupere fuerzas.
 [sha:1e6ee174f33f34f897a996278779687cf59d0b6d]{
 -- Page 10001, Offset 10921.
 -- その方針が決まって安心したのか、アルクェイドはすぐに眠りについた。
-Al cabo de poco se quedó dormida, 
+Al cabo de poco se quedó dormida,
 tranquila, al pensar que ambos estamos de acuerdo con el mismo plan.
 }
 [sha:8917ae2638446bdaaf9c3d852cd2a580de81c8f9]{

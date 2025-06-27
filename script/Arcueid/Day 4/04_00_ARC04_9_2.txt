@@ -230,6 +230,6 @@ No hay forma de que un cuerpo humano aguante algo que ha incinerado paredes y me
 [sha:060f25d4fee88c40b3d91860b8de42fece24d4cc]{
 -- Page 951, Offset 8194.
 -- 良かった点があるとすれば、その威力のおかげで上半身は一瞬で吹き飛び、炎に焼かれて死ぬ苦しみだけは、避けられたという事だ。
-Lo único bueno de esto es, que es tan potente que la parte superior de mi cuerpo sale volando al instante, 
- ahorrandome el dolor de morir quemado por las llamas.
+Lo único bueno de esto es, que es tan potente que la parte superior de mi cuerpo sale volando al instante,
+ ahorrándome el dolor de morir quemado por las llamas.
 }

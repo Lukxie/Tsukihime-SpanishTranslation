@@ -56,7 +56,7 @@
 [sha:41e9b448ab3965a158cbf875011e06c7a657b488]{
 -- Page 680, Offset 12663.
 -- ―――まずい。
--- TRANSLATION HERE
+―――Esto es malo.
 }
 [sha:50cbc043b3291e295eacbfeed0e053f2b3f73d33]{
 -- Page 680, Offset 12664.
@@ -86,7 +86,7 @@
 [sha:154292aa9b40cdf7b2538742176e68ac48bff3f5]{
 -- Page 683, Offset 12669.
 -- 「遠野……くん？」
--- TRANSLATION HERE
+"¿Tohno... kun?"
 }
 [sha:c8df9d861b259afa74731f68732c9907cb495c9a]{
 -- Page 683, Offset 12670.
@@ -556,7 +556,7 @@
 [sha:03fba19c19ab441a43df39ed93ac1063df02e956]{
 -- Page 713, Offset 12763.
 -- つまり。
--- TRANSLATION HERE
+En otras palabras―――
 }
 [sha:b3370ca942b3425c520a61378f84e954eb1eae61]{
 -- Page 713, Offset 12764.

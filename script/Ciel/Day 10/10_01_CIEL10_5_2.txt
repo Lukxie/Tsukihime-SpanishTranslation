@@ -41,12 +41,12 @@
 [sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
 -- Page 385, Offset 28118.
 -- ……。
--- TRANSLATION HERE
+...
 }
 [sha:9d8d60378902d6874fe25a27036a272f76fc212a]{
 -- Page 385, Offset 28119.
 -- …………。
--- TRANSLATION HERE
+......
 }
 [sha:8d80d3d4e43244569815124a4b7e78f7dd931286]{
 -- Page 385, Offset 28120.
@@ -478,10 +478,10 @@
 -- 簡単には殺せない。
 -- TRANSLATION HERE
 }
-[offset:28206]{
+[sha:47d942c77a8ea227b031e92acc8b9fb14f0a0edd]{
 -- Page 408, Offset 28206.
 -- ……どうかしている。
--- TRANSLATION HERE
+Esto es ridículo...
 }
 [sha:21190cd6f44d3d3e9ffce76d643b308e5e1cffa6]{
 -- Page 408, Offset 28207.

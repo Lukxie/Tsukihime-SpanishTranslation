@@ -6,10 +6,9 @@ Recorreré la mansión.
 [sha:ab1377c90fee4c21801e43720bac20001a0b08be]{
 -- Page 10014, Offset 14589.
 -- 七年前からそう変化はないと思うが、成長した今の視点ならではの発見があるかもしれない。
-//Tl oficial
+// Tl oficial
 Dudo que haya cambiado mucho en estos últimos siete años,
  pero ahora que he crecido quizá pueda descubrir algo nuevo.
- 
 }
 [offset:14590]{
 -- Page 279, Offset 14590.
@@ -40,13 +39,13 @@ La mansión es tan grande como un hotel,
 [sha:ac6ec28f2b6660cec841e2c42eaf7b468ff6dc55]{
 -- Page 282, Offset 14595.
 -- とくに東館の二階は凄かった。
-//Tl oficial
+// Tl oficial
 La segunda planta del ala oeste es especialmente increíble.
 }
 [sha:8efddff88a26a0f97838984abc859fd28fbf48c5]{
 -- Page 282, Offset 14596.
 -- 『酷い』のではなく『凄い』。
-//Tl oficial
+// Tl oficial
 Y no lo digo de mala manera.
 }
 [sha:45846c9927a4bcf8926428a1b31e91d021ff6a82]{
@@ -148,7 +147,7 @@ Hoy es――cierto.
 [sha:de57bbc7ee5dd986ee6743abc3cb07501e9a93f7]{
 -- Page 288, Offset 14614.
 -- 私も気が緩んでいたらしい。君の後ろ姿から昔を思い出してね。声をかけてしまったんだよ」
-//mix de tls
+// mix de tls
 He bajado la guardia.
  Verte me recordó tanto al pasado que,
  sentí la necesidad de decirte algo."
@@ -166,13 +165,13 @@ Se refiere a...
 [sha:c7f6d36f2001cb7cabf96778e5a9457e6eca7e09]{
 -- Page 290, Offset 14617.
 -- 「ああ。槙久さんがまだ万全だった頃だ。
-//Tl oficial
+// Tl oficial
 "Sí. Me recordaste a Makihisa, cuando aún estaba saludable.
 }
 [sha:5d1a4ebba85bf34ec0eb22af0dca73c285e0660c]{
 -- Page 290, Offset 14618.
 -- ここ数年は部屋に籠もりがちだったが、もともとは植物を愛する人でね。こうして屋敷のまわりを歩いていた」
-//Tl oficial
+// Tl oficial
 Aunque pasó sus últimos años encerrado en su habitación,
  antes se solía dar paseos por la mansión.
  Le encantaban las horticultura, sabes."
@@ -197,14 +196,14 @@ Yo también solía trastear con ellas.
 [sha:52ffa83374e9ba396214360d18ea76f87a565aed]{
 -- Page 292, Offset 14622.
 -- 「入り口はね。裏口は簡単な鍵で開けられる。
-//Tl oficial
+// Tl oficial
 "La entrada delantera lo está, sí.
  Pero la trasera se abre con facilidad.
 }
 [sha:52b5655a2f3b53b5bab20732eef4d343b893b723]{
 -- Page 292, Offset 14623.
 -- 持っているのは琥珀嬢かな？　ありがたい事に、今でも最低限の世話をしてくれているようだ」
-//Tl oficial
+// Tl oficial
 Creo que la señorita Kohaku tiene la llave. Afortunadamente, se encarga del jardín, aunque solo sea lo básico."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -250,7 +249,7 @@ Me esperaba que fuera el tipo de persona que mira por encima del hombro a la gen
 [sha:d356f97b0fd714ad53ab0e7a86dfadb440529137]{
 -- Page 295, Offset 14632.
 -- 男は皮肉そうに苦笑した後、本格的に笑いだした。
-//Tl oficial
+// Tl oficial
 Su burla sarcástica se convierte en carcajadas.
 }
 [sha:28279097501e74154d1a8b52af24020a2f8fd8e4]{
@@ -261,7 +260,7 @@ No hace falta preguntar que le hace gracia.
 [sha:f0e59183de30efb7a4205022a5eb8ef90a82e9a1]{
 -- Page 295, Offset 14634.
 -- ……斎木業人は、今、目の前の人間の滑稽さに笑っているのだ。
-//Tl oficial
+// Tl oficial
 Se está riendo de mi.
 }
 [sha:509246071f6550cbdc4d7e05c07bc6a9d5c58974]{
@@ -318,7 +317,7 @@ Me estas diciendo que Saiki Gouto...
 [sha:614cc87c1eaf4369f6f4afa64fa6b6cc10b2e56c]{
 -- Page 299, Offset 14644.
 -- 「昔の話だよ、それも。
-//Tl oficial
+// Tl oficial
 "Aunque, eso es todo parte del pasado.
 }
 [sha:ac5609077bfa48838b044aa78c182af7c31e5a9c]{
@@ -364,7 +363,7 @@ Supongo que eso significa que se ha acabado nuestra conversación.
 [sha:af5702177d148afb1001dbf3df7310e12e741da1]{
 -- Page 302, Offset 14652.
 -- 包帯づくめの紳士、斎木業人に返答する。
-//Tl oficial
+// Tl oficial
 Respondo la pregunta de Saiki Gouto, la momia humana.
 }
 [sha:de480e24a2ccf3baaf485d1ef54ee854f89236eb]{
@@ -375,7 +374,7 @@ Respondo la pregunta de Saiki Gouto, la momia humana.
 [sha:f332fce4ddc3cbfbdb6f369bf930c60d2c6b3d89]{
 -- Page 302, Offset 14654.
 -- ……しかし、そうだな。過去から戻ってきたとしても、見違えるような現実など、そうはないという事か」
-//Tl oficial
+// Tl oficial
 Aunque,
  supongo que alguien que viene del pasado tampoco vería la realidad de manera diferente."
 }

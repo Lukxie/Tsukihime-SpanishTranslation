@@ -244,7 +244,7 @@ Miro el techo de mi habitación sin hacer nada durante veinte minutos.
 [sha:4cc3fbc1b050dc627f273714c5a1465d4df47af8]{
 -- Page 21, Offset 5616.
 -- 頭から水をかぶると、鈍った<思考|あたま>はようやくスッキリしてくれた。
-//Aquí supongo que se refiere a estar lento por la mañana no perezoso como tal.
+// Aquí supongo que se refiere a estar lento por la mañana no perezoso como tal.
 Tras mojarme la cabeza con agua fría,
  mi pensamiento lento comienza a agudizarse.
 }

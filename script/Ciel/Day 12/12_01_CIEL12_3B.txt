@@ -248,10 +248,10 @@
 -- シエル先輩の疑問に、自分なりに答えてみる。
 -- TRANSLATION HERE
 }
-[offset:31152]{
+[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 112, Offset 31152.
 -- と。
--- TRANSLATION HERE
+Y entonces―――
 }
 [sha:b4fd56ea6f50d09cea213c926373db990e69f121]{
 -- Page 112, Offset 31153.

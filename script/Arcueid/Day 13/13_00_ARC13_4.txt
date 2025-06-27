@@ -190,7 +190,7 @@ Ahora solo es la sombra de la preciosa flor que vi aquella noche en el hotel―�
 [sha:f2447c56106aaa2816b2f84c89163c64354d0605]{
 -- Page 315, Offset 32535.
 -- 「アルクェイド――――！」
--- TRANSLATION HERE
+"¡Arcueid―――!"
 }
 [sha:7d5d1d7a430f340e9b0f247d5ae9a48e2f13bf30]{
 -- Page 315, Offset 32536.
@@ -620,7 +620,7 @@ Los alrededores de Arcueid se transforman.
 [sha:8536cd82327d954b6616634c5841d9cd42dd4132]{
 -- Page 342, Offset 32615.
 -- 星の大気。星の記憶に刻まれた<原|あ><子|り><構|か><造|た>を、彼女が懐かしむように。
-Es como si sus deseos hubieran alterado los mismos cimientos del planeta, 
+Es como si sus deseos hubieran alterado los mismos cimientos del planeta,
  reordenando los átomos que lo constituyen, su atmósfera.
 }
 [sha:f0c8fc1acc40be96db98a33b11bb496e71deaf0e]{
@@ -859,7 +859,7 @@ Arcueid sigue de rodillas, ya incapaz de siquiera levantar la cabeza.
 [sha:7dd6e3c478779dbadaa9212835d883f9e69e3aac]{
 -- Page 357, Offset 32660.
 -- 仮にこの場でこの肉体が死滅しようとロアはまた人の世に孵ってくる。
-%{g}Fuera este cuerpo eradicado, volvería a renacer en el mundo del hombre.%{/g}
+%{g}Fuera este cuerpo erradicado, volvería a renacer en el mundo del hombre.%{/g}
 }
 [sha:47e396f33aad1415ac02604ac81826bf07c45c9c]{
 -- Page 357, Offset 32661.

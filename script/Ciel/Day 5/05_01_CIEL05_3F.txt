@@ -68,10 +68,10 @@
 -- 出てきたヴローヴごと大聖堂をこの大きさまで圧縮して、中に飛びこんじゃったのよ！　それが一時間前の話！」
 -- TRANSLATION HERE
 }
-[offset:12574]{
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 648, Offset 12574.
 -- 「―――！」
--- TRANSLATION HERE
+"%{i}Hnh%{/i}!"
 }
 [sha:e919cbe6856b719a7098ca6c301fef01c9eeb8e5]{
 -- Page 648, Offset 12575.

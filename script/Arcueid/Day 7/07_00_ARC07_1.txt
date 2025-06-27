@@ -142,16 +142,15 @@ No hay 'próxima vez'.
 [sha:4bb65fd13cf3fbeb30f597b469d115ad60bea6c3]{
 -- Page 12, Offset 16592.
 -- 俺たちはもう出遭わない。
-//Que si Nasu que si, 
+// Que si Nasu que si,
 // fuerza la ansiedad dale daleeeeee
 Nunca nos volveremos a ver.
 }
 [sha:27ea4102e4d190c4ef5faeace0e257941e56c8ef]{
 -- Page 12, Offset 16593.
 -- あんな物騒な女と関わるなんて、金輪際あってはいけない。
-Ni por todo el dinero del mundo, 
+Ni por todo el dinero del mundo,
  volvería involucrarme con ese desastre andante con forma de mujer.
- 
 }
 [sha:d6415c892131a7f1aed5f7defbb4301e21ee96b4]{
 -- Page 13, Offset 16594.
@@ -342,7 +341,7 @@ Akiha tiene razón, esta mañana %{i}algo%{/i} anda mal conmigo.
 [sha:405b4db124de241434d34972549f425213b7a91c]{
 -- Page 25, Offset 16629.
 -- どうしてかは不明だが、秋葉の一挙一動が気にかかる。
-//Mix de tls
+// Mix de tls
 No entiendo por qué,
  pero cada movimiento que hace me pone tenso.
 }
@@ -428,7 +427,7 @@ Aparto su mano y corro como el viento.
 [sha:d1eea685a494c6444167ce28dbccb9019a053584]{
 -- Page 30, Offset 16645.
 -- さすが翡翠、準備は万全だ。
-Una preparación impecable. Como espararías de Hisui.
+Una preparación impecable. Como esperarías de Hisui.
 }
 [sha:58a3936701c33d875f866d145dc608f99719cad3]{
 -- Page 30, Offset 16646.
@@ -449,7 +448,7 @@ La agradezco y cojo la bolsa.
 -- Page 31, Offset 16649. Glued. Mods: @x.
 -- だいいち廊下は走らない、妹の言う事はきちんと聞くが我が家のルールです！　おとなしく居間で熱を測ってください！」
  ¡Primero de todo, escuchar a tu hermana pequeña y no correr por los pasillos son reglas de esta casa!
- ¡Tranquilizate y deja que te tomen la temperatura en este instante!"
+ ¡Tranquilízate y deja que te tomen la temperatura en este instante!"
 }
 [sha:95458daa02ef55617393aa74f91db7be7e3b1b5d]{
 -- Page 32, Offset 16650.
@@ -459,7 +458,7 @@ Akiha ha venido al vestíbulo para detenerme.
 [sha:da47ffd2d8c5385450ba9adf43fb74cd06cc552b]{
 -- Page 32, Offset 16651.
 -- しかし本人の言い分通り廊下は走らない分、ロビーにやってきたばかりのようだ。
-//Mix de tls
+// Mix de tls
 Por suerte para mi,
  que siga su propia norma de no correr por los pasillos solo la ralentiza.
 }

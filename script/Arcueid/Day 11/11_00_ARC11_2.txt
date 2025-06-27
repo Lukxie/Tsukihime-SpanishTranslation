@@ -816,7 +816,7 @@ Ella era como un misil;
 [sha:7ee8b9fe2b27b16fe7e24afc5a6cbadb29f1b4d3]{
 -- Page 94, Offset 29762.
 -- ―――どくん。
--- TRANSLATION HERE
+―――%{i}Ba-dum%{/i}.
 }
 [sha:22f63aeadd0daec5fbacd2ab209917fd54c8090d]{
 -- Page 94, Offset 29763.
@@ -963,7 +963,6 @@ Nadie a quién conocer.
 -- 何も知らないまま、吸血鬼を殺すこと以外に意義を持たないよう、幽閉される」
 La mantuvieron encerrada, sin saber nada,
  para que no supiera otra cosa que no fuera matar vampiros."
- 
 }
 [sha:73bef5585adf931c69ae61865ad3d476b9eb626b]{
 -- Page 103, Offset 29790.
@@ -1101,7 +1100,7 @@ Una cruel asunción...
 [sha:7b3ec749007c3c83196f712fd41589a3af386c77]{
 -- Page 111, Offset 29816.
 -- あいつは、ただ―――
--- TRANSLATION HERE
+Ella solo decía―――
 }
 [sha:15dbc79a7fa91b738edf358b0494b388e738a716]{
 -- Page 112, Offset 29817.
@@ -1284,7 +1283,7 @@ La simple tranquilidad a mediados de la tarde, cosas sobre las que no solemos pe
 [sha:9c3620411f00fd384a6dbc14d322e1a71f53fcb6]{
 -- Page 123, Offset 29850.
 -- そういった些細な繰り返しが、あいつにとっては、今まで見た事もなかった喜びだった。
-Estaba feliz porque ella hasta ahora nunca había repetido cosas tan triviales. 
+Estaba feliz porque ella hasta ahora nunca había repetido cosas tan triviales.
 }
 [sha:733d6bf90b55ee41acac2042926ed8b4eb152a2f]{
 -- Page 124, Offset 29851.

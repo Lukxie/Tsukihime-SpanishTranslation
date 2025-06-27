@@ -1,7 +1,7 @@
 [sha:decefbbb86ff3490507d0f7dae325fea87f002ed]{
 -- Page 10003, Offset 13318.
 -- もう、なんとか誤魔化すしかないだろう。
--- TRANSLATION HERE
+Supongo que no tengo más remedio que intentar engañarla de alguna forma.
 }
 [sha:164e5c5e2bcb6d97b04fcdf556397af58c4256fb]{
 -- Page 10003, Offset 13319.
@@ -11,22 +11,22 @@
 [sha:a08fad88c7e939b55e7c0584146ede879e48f446]{
 -- Page 64, Offset 13320.
 -- 「―――よし、行くぞ」
--- TRANSLATION HERE
+"Muy bien... allá voy."
 }
 [sha:a50d6709065217dc698d55589b4839df8972d455]{
 -- Page 64, Offset 13321.
 -- 大きく深呼吸をして、居間に通じる扉を開けた。
--- TRANSLATION HERE
+Respiro hondo, y abro la puerta a la sala de estar.
 }
 [sha:3860667e07cc1bf696ac5dc4acd5a7d1f809d954]{
 -- Page 65, Offset 13322. Mods: @n.
 -- 「おはようございます、
--- TRANSLATION HERE
+"Buenos días,
 }
 [sha:6e5e3dd0a214cb76b457afe2d9b9bc12cbc27e5f]{
 -- Page 65, Offset 13323. Glued.
 -- 兄さん。
--- TRANSLATION HERE
+Nii-san.
 }
 [sha:de6fd6b9a1e4a45e7cdd328308b95a05363de5ea]{
 -- Page 65, Offset 13324. Mods: @n.
@@ -51,17 +51,17 @@
 [sha:8efc17709c49951109330dd7f47c1a51a0c0eb47]{
 -- Page 66, Offset 13328.
 -- 「あ、ああ。おはよう、秋葉」
--- TRANSLATION HERE
+"A-Ah, buenos días, Akiha."
 }
 [sha:78ed28e0d5954a9b93e07c6c3b309d0978c1dc9e]{
 -- Page 66, Offset 13329.
 -- 「挨拶は結構ですから、そこに座ってください。
--- TRANSLATION HERE
+"No hacen falta saludos, así que por favor siéntate ahí.
 }
 [sha:3d71527e93e74f3b6116a51907d9220ed1a20ffa]{
 -- Page 66, Offset 13330.
 -- ええ、色々と長くなる筈ですものねぇ？」
--- TRANSLATION HERE
+Sí... tenemos mucho que hablar, ¿no crees?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 67, Offset 13331.
@@ -96,12 +96,12 @@
 [sha:860535f5be59320295b1dc77663d238e4f192b0d]{
 -- Page 68, Offset 13337.
 -- 「お、おう、座りますとも！」
--- TRANSLATION HERE
+"¡S-Sí, ya me siento!"
 }
 [sha:6a69fffcea9af62a92df679db6528d59a073b8c0]{
 -- Page 68, Offset 13338.
 -- 逃げよう、なんて甘い考えは秋葉のひと睨みで霧散した。
--- TRANSLATION HERE
+Una sola mirada de Akiha es suficiente para fulminar cualquier pensamiento de escapar.
 }
 [sha:dc69105b05d8883dd1d669297b42e1e78cf4c568]{
 -- Page 69, Offset 13339.
@@ -111,17 +111,20 @@
 [sha:373c5ecd44290218da13910f2c801358b556696e]{
 -- Page 70, Offset 13340.
 -- 「座りましたよ」
--- TRANSLATION HERE
+"Ya me he sentado."
 }
 [sha:fed8f13e40a1db49cfd7c302e600b6b498452d9f]{
 -- Page 71, Offset 13341.
 -- 「言わずとも分かります。……妙な態度でこちらの気勢を殺がないでください。卑怯です」
--- TRANSLATION HERE
+// De la tl oficial.
+"Sí, puedo verlo...
+ Por favor no le quites seriedad a la conversación con esa extraña actitud. No es justo."
 }
 [sha:45bf036b03eebb2e5d250fbfc8202d2e56746199]{
 -- Page 71, Offset 13342.
 -- 「？　なんで卑怯なんだ？」
--- TRANSLATION HERE
+// De la tl oficial.
+"¿Injusto? ¿Cómo?"
 }
 [sha:84255c3b15e88d7018db00d48a81719184862361]{
 -- Page 71, Offset 13343. Mods: @k, @e.
@@ -131,22 +134,23 @@
 [sha:747723da481d261e0475d2588fe3e83ac82bb003]{
 -- Page 71, Offset 13344. Glued. Mods: @x.
 -- コホン」
--- TRANSLATION HERE
+%{i}Ahem%{/i}."
 }
 [sha:139afc700fd881ccb02bf9a1d0da6c307d16fab9]{
 -- Page 71, Offset 13345.
 -- ううん、と咳払いをして<言|げん>を止めると、秋葉はいっそう鋭い視線で俺を睨んだ。
--- TRANSLATION HERE
+// De la tl oficial.
+Akiha para a mitad de frase con un tosido, y entonces afila aún más su mirada.
 }
 [sha:87439d2a77c6227a9bd907a57f75a2bff5373a08]{
 -- Page 72, Offset 13346.
 -- 「兄さん。早速ですが、一昨日と昨日のお話を聞かせていただけませんか？」
--- TRANSLATION HERE
+"Nii-san. Sé que es repentino, ¿pero te importaría elucidarme qué has estado %{i}precisamente%{/i} haciendo ayer y antes de ayer?"
 }
 [sha:a7787b45281316ba94f68a558a28fd1c46d57656]{
 -- Page 72, Offset 13347.
 -- 優雅に言いつつ、ティーカップを手に取る秋葉。
--- TRANSLATION HERE
+Exponiendo elocuentemente sus demandas, Akiha toma su taza de té.
 }
 [sha:b07f966377995494c9293f3360cae75cc272cb53]{
 -- Page 72, Offset 13348.
@@ -161,7 +165,7 @@
 [sha:248ff294591eb4498f00da10a9e697da68bfa495]{
 -- Page 74, Offset 13350.
 -- 「それなんだけど、秋葉」
--- TRANSLATION HERE
+"Sobre eso, Akiha."
 }
 [offset:13351]{
 -- Page 74, Offset 13351.
@@ -176,7 +180,7 @@
 [sha:eadb0f71e3c06411e91a41013a6432e8dc13b0f6]{
 -- Page 75, Offset 13353.
 -- 「へえ。ちょっとした知り合い、ですか」
--- TRANSLATION HERE
+"Hmm. ¿Un conocido dices?"
 }
 [sha:8dc6f56686c12c23cb08f51187d905aa5b32dc9a]{
 -- Page 75, Offset 13354.
@@ -196,7 +200,7 @@
 [sha:ebc2003f9b8cd9f6db8421036431fe4a202b2f81]{
 -- Page 77, Offset 13357.
 -- 秋葉の視線が冷たい。
--- TRANSLATION HERE
+La mirada de Akiha es fría.
 }
 [sha:da54f55ffb4527996ae846bd64891751898952f5]{
 -- Page 77, Offset 13358.
@@ -221,7 +225,7 @@
 [sha:c3d34cef5c129806012f526066f5509975a9b874]{
 -- Page 78, Offset 13362.
 -- 「それで、誰なんですか」
--- TRANSLATION HERE
+"¿Y quién es dicho conocido?"
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
 -- Page 78, Offset 13363.

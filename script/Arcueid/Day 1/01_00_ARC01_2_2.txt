@@ -186,7 +186,7 @@ Naturalmente, siempre hay una multitud alrededor de ella.
 [sha:6609ce84f231145e7333200d87fa13f24e52f69a]{
 -- Page 173, Offset 1618.
 -- 社交性に乏しい俺とは正反対の、みんなに好かれるムードメーカーだ。
-//mood-setter lo cambio a energética tiene más sentido en español
+// mood-setter lo cambio a energética tiene más sentido en español
 Ella es energética y querida por todos, el polo opuesto a mi yo antisocial.
 }
 [sha:51c53427aeaf9a6b5147d907f9ea90bd1205a34f]{
@@ -242,7 +242,7 @@ Su confusión es entendible, pero su pregunta está fuera de lugar.
 [sha:6f0044a88409229b5a189a24b6d44a2f501bc7d8]{
 -- Page 178, Offset 1629.
 -- 耶高、気に入ってるし。転校とかナイナイ」
-//Esta es una buena escuela quizá mejor
+// Esta es una buena escuela quizá mejor
 Esta es una buena escuela, no me gustaría irme."
 }
 [sha:71ed0c1c1601ae49df76265933362575a903693d]{
@@ -325,7 +325,7 @@ Yumizuka se ríe nerviosamente, sin sarcasmo o ironía.
 [sha:199113ae670d9816aca07c8702e7e582822b0c47]{
 -- Page 185, Offset 1645.
 -- 釣られて、俺もつい笑ってしまった。
-Yo tampoco puedo evitar reirme.
+Yo tampoco puedo evitar reírme.
 }
 [sha:372380c00fa25b56f9af18eecd3c1228dbef4cfe]{
 -- Page 185, Offset 1646.
@@ -366,7 +366,7 @@ La cafetería está concurridas de nuevo. La mayoría de las mesas están ocupad
 [sha:80b828f55ae7a75fd29d768565d7a18df99a497d]{
 -- Page 189, Offset 1653.
 -- ここを使うのは全校生徒の三分の一程度で、財布の残金が気になる生徒は安上がりな購買部に走るという。
-Aproximádamente solo un tercio de los estudiantes usa la cafetería. Los más ahorradores tendemos a preferir la tienda de la escuela, que es un poco más barata.
+Aproximadamente solo un tercio de los estudiantes usa la cafetería. Los más ahorradores tendemos a preferir la tienda de la escuela, que es un poco más barata.
 }
 [sha:68874115c48932d70899d05264fa5a16dc7f341b]{
 -- Page 189, Offset 1654.

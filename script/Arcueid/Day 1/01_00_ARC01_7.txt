@@ -62,7 +62,7 @@ Los únicos que quedamos soy yo y――dos chicas que no reconozco.
 [sha:500d704cc69584dd66a48c17c0fb6b0cfda5f33e]{
 -- Page 10024, Offset 2093.
 -- 「お久しぶりですね、兄さん」
-//Prefiero mantener Nii-san a decir hermano tiene mas sentido ya que habla más de su relación.
+// Prefiero mantener Nii-san a decir hermano tiene mas sentido ya que habla más de su relación.
 "Ha pasado mucho tiempo, Nii-san."
 }
 [sha:8a7bec10b3289a130b36fe17af64eeebcb1507be]{
@@ -183,7 +183,7 @@ No me había imaginado como sería la Akiha actual.
 [sha:5f54de33dc8b6aea2a38657f97e8c57768f23808]{
 -- Page 375, Offset 2115.
 -- いつまでも子供のままの、兄貴として都合のいい思い出から先を考えていなかったのだ。
-//Suena raro
+// Suena raro
 No había pensado más allá de la conveniente realidad de mi infancia como su hermano.
 }
 [sha:cf52a552730a559cdbe0ee45f7a0266eb6dd6978]{
@@ -540,7 +540,7 @@ La voz de Akiha es indiferente.
 [sha:1931aae16ff188f122ad9934a797a7e3d49c1c62]{
 -- Page 403, Offset 2185.
 -- <権高|けんだか>な、上の立場から下される決定。そこに冷たいものを感じたのは事実だ。
-//Se lee raro
+// Se lee raro
 Me impone su decisión despótica.
  Y la verdad, se siente como algo frío.
 }
@@ -752,12 +752,12 @@ Estoy completamente perplejo, ni una pizca amabilidad siquiera.
 [sha:7da60449798a3035ea879aea0f7d44a847db68ca]{
 -- Page 418, Offset 2226.
 -- 最短で一週間、最長で一ヶ月の猶予をさしあげますので、どうぞ死ぬ気で努力してください」
-Te daré una semana como mucho un mes, así que intentalo como si tu vida dependiera de ello."
+Te daré una semana como mucho un mes, así que inténtalo como si tu vida dependiera de ello."
 }
 [sha:669314378078081c84a4224e84d983fe38bf10b4]{
 -- Page 419, Offset 2227.
 -- 猶予は猶予でもそれは執行猶予というものではないか、という思いつきをぐっと堪える。
-//raro, posiblemente por como este planteada la frase
+// raro, posiblemente por como este planteada la frase
 No quiero pensar en que esto se parece más a algo postpuesto que a irse de rositas.
 }
 [sha:b6908eb821ada556a13f9b5201b6e874e5815f37]{
@@ -1033,7 +1033,7 @@ Su paso es suave, pero no lento... Está claro que lleva mucho tiempo siendo una
 [sha:d732cd79e1a0bf36f17a19e4f2a04bb2230fbdf6]{
 -- Page 441, Offset 2281.
 -- 翡翠には兄さんのお守りも命じてありますから、翡翠の進言にはできるかぎり耳を傾けてください」
-También he ordenado a Hisui ocuparse de tí, así que escucha su consejo todo lo que puedas."
+También he ordenado a Hisui ocuparse de ti, así que escucha su consejo todo lo que puedas."
 }
 [sha:704515ccff7a7acce1c28de23f4338ce89ab936b]{
 -- Page 442, Offset 2282.

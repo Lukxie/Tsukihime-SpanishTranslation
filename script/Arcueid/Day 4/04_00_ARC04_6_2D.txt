@@ -278,7 +278,6 @@ Pero sí... ha ocurrido. Una vez casi muero en un accidente.
 -- たしかにそれなら、間違いなくわたしを殺せるわ」
 Ciertamente encaja.
  Tiene sentido que pudieras matarme con ojos como esos."
- 
 }
 [sha:795984a59b532fae5152dd000b01c880010c6c6c]{
 -- Page 584, Offset 7137.
@@ -434,18 +433,18 @@ Como es algo que está ahí desde el inicio,
 [sha:d486ffd24cba0e063e8e35091a239ae37dbfcf8d]{
 -- Page 596, Offset 7165.
 -- あえてあなたたち風に理論づけるのなら、原子結合の宿命的欠陥部分、というところかしらね。
-Si teorizasemos en términos humanos, diría que es algo parecido al flujo intrínseco de los enlaces atómicos. 
+Si teorizásemos en términos humanos, diría que es algo parecido al flujo intrínseco de los enlaces atómicos.
 }
 [sha:7bedd776d10c38028ce750376d41c4c49db950f4]{
 -- Page 596, Offset 7166.
 -- それとも、その個体の死因を発現させる、遺伝子に用意された<自|テ><滅|ロ><装|メ><置|ア>的なスイッチかな」
-//Nasu y sus porros sobre la genética, xdd es gracioso leer esto habiendote especializado en genética
+// Nasu y sus porros sobre la genética, xdd es gracioso leer esto habiendote especializado en genética
 O quizá es más como un telómero, un switch genético autodestructivo que manifiesta la causa de muerte de un individuo."
 }
 [sha:4bba28edaa87f124ebedb3dbd04d62260bf87ab1]{
 -- Page 597, Offset 7167.
 -- 「とにかくあなたが視ているのは“モノの死に易い線”、死という結論そのものよ。
-"De todas formas, lo que ves es la conclusión de la muerte misma: líneas donde las cosas son propensas a morir. 
+"De todas formas, lo que ves es la conclusión de la muerte misma: líneas donde las cosas son propensas a morir.
 }
 [sha:1b5a890c36ff064fc0bc26c8fed1219cd6100b36]{
 -- Page 597, Offset 7168.
@@ -617,7 +616,7 @@ La plétora de luces y detalles previamente ocultos es ahora visible.
 [sha:3d6e5b5905e4701fea17669b9c2b095c24cb66e4]{
 -- Page 607, Offset 7200.
 -- 窓越しの月明かりが、白い女の影を作る。
-La luz de la luna difundiendose a través de la ventana proyecta la sombra de la pálida figura.
+La luz de la luna difundiéndose a través de la ventana proyecta la sombra de la pálida figura.
 }
 [sha:38727119d34be15edcb4972c9bb601154f9c4f31]{
 -- Page 608, Offset 7201.
@@ -642,7 +641,7 @@ No es posible...
 [sha:9209766b5446abf76e9d3cd3bc9e8355e7d04851]{
 -- Page 609, Offset 7205.
 -- 今まで人前で外す事のなかった眼鏡に手をかける。
-Pongo mi mano sobre las gafas. Nunca antes me las he quitado en frente a nadie. 
+Pongo mi mano sobre las gafas. Nunca antes me las he quitado en frente a nadie.
 }
 [sha:a1ff179c70072e1c036e40b32d7f48db4ee14b0e]{
 -- Page 610, Offset 7206.
@@ -744,7 +743,7 @@ Por eso, incluso con esos ojos tuyos, no serías capaz de matarme."
 [sha:24622abce9fec857e6965fd0cbb19b2b18d5097d]{
 -- Page 617, Offset 7225.
 -- 夜は死なないわたしだけど、昼間は多少の死期ができてしまう。その弱点をつかれてわたしはあなたに殺された。あの時は大仕事の後だったし、即死耐性も落ちてたしね」
-//Creo que como comentan los de Tsukihimates dejarlo en stat esta bien
+// Creo que como comentan los de Tsukihimates dejarlo en stat esta bien
 Aunque no pueda morir por la noche, aún tengo un 'final predestinado' por el día.
  Ese punto débil es lo que antes te permitió matarme.
  Y aún peor, acababa de terminar un gran encargo, por lo que mi stat de resistencia a la muerte era más baja de lo normal."
@@ -826,7 +825,7 @@ Resumiendo, incluso si puedo ver estas 'líneas', no significa que pueda matar a
 [sha:1bafed35d1fe115beb4d101b3477b76556266d65]{
 -- Page 623, Offset 7240.
 -- 俺が抱いていた恐れは、そんな言葉で緩和される程度のものだと、人間ではないモノは笑い飛ばした。
-Con esas palabras el miedo que me amarraba se relaja de cierta forma, y soy capaz de tomarme a risa mi naturaleza inhumana. 
+Con esas palabras el miedo que me amarraba se relaja de cierta forma, y soy capaz de tomarme a risa mi naturaleza inhumana.
 }
 [sha:e36d69dab928058330f9809c9d2a7463e69ed09d]{
 -- Page 624, Offset 7241.
@@ -964,7 +963,7 @@ Sintiendo el peligro, me alejo.
 [sha:8e422e9f871066decf89fecaf907f6e08ec3a824]{
 -- Page 634, Offset 7266.
 -- しかし、この大猫に俺の脅しが効くはずもなく、アルクェイドは興味津々とばかりに近寄ってくる。
-Sin embargo, mi amenaza fue completamente inefectiva contra este gran felino, y Arcueid continúa acechandome con una gran curiosidad.
+Sin embargo, mi amenaza fue completamente inefectiva contra este gran felino, y Arcueid continúa acechándome con una gran curiosidad.
 }
 [sha:171a45c0ad2fffa3b4babd5a9956b91f8ecb8e3f]{
 -- Page 635, Offset 7267.

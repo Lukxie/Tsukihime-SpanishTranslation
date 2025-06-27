@@ -26,7 +26,7 @@ Mi cerebro cruje como si mi cráneo lo estuviera estrujando.
 [sha:3f34268b02bd8e5c73d145c6e9d07b37c27678f9]{
 -- Page 562, Offset 10113.
 -- 俺は２分後の結末を予測し、破裂しそうな心臓をかき<毟|むし>る。
-//De la traduccion oficial.
+// De la traduccion oficial.
 Mi corazón, casi a punto de explotar,
  me doy dos minutos como mucho.
 }
@@ -389,7 +389,7 @@ Además―――
 [sha:013f2a43e23c8ab4c5c205ecad1f0346a345481a]{
 -- Page 580, Offset 10181.
 -- 俺以外の生き物が、<そ|・><の|・><女|・><を|・><獲|・><物|・><に|・><す|・><る|・><な|・>。
-//De la tl oficial
+// De la tl oficial
 Ella es mi %{i}presa%{/i} y solo mía.
 }
 [sha:b77c80e09148a8e9f8723ff66668747f99067121]{
@@ -470,12 +470,12 @@ Ella es la que debería huir, no yo.
 -- 「よし、元気だな。ならいい。できるなら援護してくれ」
 "Muy bien, pareces lo suficientemente sana.
  Genial.
- Si puedes, apoyame."
+ Si puedes, apóyame."
 }
 [sha:3f417dd297613d9657018d245ab83cb34a5c0882]{
 -- Page 587, Offset 10196.
 -- 「援護って、あなたひとりでやる気!?　っていうか正気!?」
-"Apoyame――¡¿quieres decir que vas a ir solo?! ¡¿Estás loco?!"
+"Apóyame――¡¿quieres decir que vas a ir solo?! ¡¿Estás loco?!"
 }
 [sha:50abfbe1588491c0fd9fea5147ca4196f827ae1f]{
 -- Page 587, Offset 10197.
@@ -733,7 +733,7 @@ Una consciencia de la muerte que supera a la de una bestia.
 [sha:49d5cd70c751c682bda6064c0ec6c1523b244f02]{
 -- Page 601, Offset 10246.
 -- ヤツは何の根拠もない状況で、<敵|・><に|・><は|・><自|・><分|・><を|・><殺|・><す|・><手|・><段|・><が|・><あ|・><る|・><と|・><直|・><感|・><し|・>、戦慄し、俺を脅威と認めたからこそ、一秒の迷いもなく飛び退きやがった……！
-Aunque no tenía razón para pensarlo, este tipo de repente se dió cuenta que tenía una manera de matarlo, y se asustó. Habiéndome reconocido como una amenaza, se alejó sin dudarlo un segundo.
+Aunque no tenía razón para pensarlo, este tipo de repente se dio cuenta que tenía una manera de matarlo, y se asustó. Habiéndome reconocido como una amenaza, se alejó sin dudarlo un segundo.
 }
 [sha:cdb0b7ce8f1bd26f28f4b42793f3b50dbf0f5b04]{
 -- Page 602, Offset 10247.

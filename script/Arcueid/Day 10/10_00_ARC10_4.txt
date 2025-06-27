@@ -69,7 +69,7 @@ Estaba seguro de que esta era tu primera vez en un sitio así."
 [sha:978649c7806a72be84b5c3755cb195614d53dc23]{
 -- Page 300, Offset 25016.
 -- 「知識だけって……そっか、ニュースを見るんだから、雑誌だって目を通しているのか。服も普通だし、わりと<人間|こっち>の事情に適応してるんだよな……」
-"Teoría... ya veo. Ves las noticias, así que también debes leer revistas. Vistes normal y pareces estar sorprendentemente bien adaptada a la sociedad moderna..." 
+"Teoría... ya veo. Ves las noticias, así que también debes leer revistas. Vistes normal y pareces estar sorprendentemente bien adaptada a la sociedad moderna..."
 }
 [sha:956936902c5513fda9e448fb010ed8c981cf25c5]{
 -- Page 301, Offset 25017.
@@ -93,7 +93,7 @@ Por eso cada vez que me despierto, antes de hacer nada absorbo información sobr
 [sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
 -- Page 303, Offset 25020.
 -- 「……？」
--- TRANSLATION HERE
+"¿Eh...?"
 }
 [sha:98edeccfa6e4b38291b79ae4c265f9de2fec1e81]{
 -- Page 303, Offset 25021.
@@ -164,7 +164,6 @@ Aunque supiera que la gente se reúne en sitios como estos, nunca lo he experime
 Ver el mundo como pura información es 'real' en sí mismo,
  pero la 'realidad' tangible de una experiencia vivida tiene una esencia que supera cualquier teoría,
  sin importar lo correcta que sea sobre el papel.
- 
 }
 [sha:0e782a95c7967cf2a68b553ba0f7b862dcdb6d23]{
 -- Page 307, Offset 25034.
@@ -512,7 +511,7 @@ Es cierto que puedo obtener energía de las cosas que consumo,
 -- Page 334, Offset 25097.
 -- 「わたしの熱量の補充方法は志貴たちとは違う。たしかに食欲はあるけど、それは人間で言うところの性欲と同じかな。
 "Mi forma de reponer calorías es distinta a la tuya.
- Tengo apetito, pero se parece más al líbido humano.
+ Tengo apetito, pero se parece más al libido humano.
 }
 [sha:d1c745c3a87a99071a6d7778c8ab6fc48524494c]{
 -- Page 334, Offset 25098.
@@ -787,7 +786,7 @@ Arcueid aparta la mirada mientras murmura.
 [sha:b8bc34a41127332faf60585063cfc1bffcb1cb9a]{
 -- Page 352, Offset 25149.
 -- 「ねえ志貴。もしもよ。もしも鳥や魚にあなたと同じぐらいの知性と寿命があったら、あなたは食べられる？
-"Ey, Shiki. Hablando hipotéticamente, si los pájaros y los peces tuvieran la misma inteligencia y esperanza de vida que tú, ¿te los seguirías comiendo?
+"Oye, Shiki. Hablando hipotéticamente, si los pájaros y los peces tuvieran la misma inteligencia y esperanza de vida que tú, ¿te los seguirías comiendo?
 }
 [sha:41ec3da5fad84e7dfb99f9dba399f5736cd696fd]{
 -- Page 352, Offset 25150.
@@ -988,7 +987,7 @@ En todo caso, eres %{i}tú%{/i} la que me esconde cosas a %{i}mí%{/i}.
 [sha:3d99744deefec81f4c4751615a3be44cc8282476]{
 -- Page 364, Offset 25187. Mods: @k, @e.
 -- 「なんだ、本当にこっちが頭を抱えてる姿を面白がってたのか。
-"Oh, entonces disfrutabas desquiciandome.
+"Oh, entonces disfrutabas desquiciándome.
 }
 [sha:581a463257f7f6e78f29237e382c382b1de0017c]{
 -- Page 364, Offset 25188.

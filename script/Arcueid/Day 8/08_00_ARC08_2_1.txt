@@ -16,7 +16,7 @@ Tengo que saber qué quieren para lidiar con ellos como es debido.
 [sha:053d5cc19eea425624705736e61608498db67d50]{
 -- Page 117, Offset 19960.
 -- 用件はなんですか？」
-¿Qué quereís?"
+¿Qué queréis?"
 }
 [sha:de2d43ad75ad9db46e2f53417de491c2e41e9a63]{
 -- Page 118, Offset 19961.
@@ -53,7 +53,7 @@ Por lo que, desgraciadamente, no creo ser de ayuda."
 -- Page 119, Offset 19966.
 -- 「……どうしてそんな話を？　荒唐無稽だとは思いますけど、あの火災の原因は遠野グループの過失だとでも？」
 "¿Qué quieres preguntarles?
- ¿Insinuas que el grupo Tohno es responsable del fuego? Diría que es bastante absurdo."
+ ¿Insinúas que el grupo Tohno es responsable del fuego? Diría que es bastante absurdo."
 }
 [sha:c7b06cfc59372f356102eefff39945d642312533]{
 -- Page 120, Offset 19967.

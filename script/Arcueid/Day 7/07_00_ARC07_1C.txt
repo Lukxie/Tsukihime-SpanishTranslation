@@ -23,7 +23,6 @@ Tohno, vamos a por algo de comer."
 -- これである。あの頭蓋の中には三大欲求しか存在しないのでは、と仮説を立ててみたい。
 Que personaje.
  Tengo la impresión de que su coco solo piensa en tres cosas: comer, dormir y follar.
- 
 }
 [sha:8194946cf5ef9062ca06a6c5a4b5d15a7911dac2]{
 -- Page 92, Offset 16797.
@@ -71,7 +70,7 @@ Ahora está trabajando duro, buscando nueva información móvil en mano.
 [sha:8246b999ca4a92d4b651bf61185478573a036d8d]{
 -- Page 94, Offset 16805.
 -- なんでも、“４時間<も|・>世間さまから遅れがあるなんて、致命傷にも程がある”とのこと。
-//Tl oficial
+// Tl oficial
 Estar desconectado del mundo siquiera por unas horas puede ser cuestión de vida o muerte.
 }
 [sha:3c179f48b2fe8f703cc03640faeede4ff4212197]{
@@ -83,7 +82,7 @@ Dirías que es adicto a internet, pero es Arihiko de quién estamos hablando.
 [sha:70298690b53af492b4a93a757f233c72aaef0bd2]{
 -- Page 95, Offset 16807.
 -- 有彦にとって総耶駅付近の<情報|ニュース>は他人事の娯楽じゃない。本気で夜の繁華街でサバイバルする道具、いわば“今夜の武器が何なのか”をかかさずにチェックしている。
-//Tl oficial
+// Tl oficial
 No lo hace por entretenerse.
  Está buscando munición que le ayude a sobrevivir cada noche que pasa deambulando por el centro.
 }
@@ -99,7 +98,6 @@ El dependiente fue apuñalado en la tripa por un alcohólico.
  Eugh, eso tiene que doler.
  ¿Tiene algún sentido razonar con un borracho?
  Supongo que comprar online sigue siendo lo más seguro."
- 
 }
 [sha:4b9ed7f07fa21e09d8786d4f68cc900954dd3f58]{
 -- Page 97, Offset 16810.
@@ -214,8 +212,6 @@ No lo veo no lo creo.
 Tal y como ha dicho. Ahí, en una web de noticias,
  bajo una vista de pájaro de la plaza al norte de la estación de Souya,
  se encuentra la nueva información sobre los asesinatos vampíricos en serie.
- 
- 
 }
 [sha:23628dc84ddd42e7d2b024c8b93c087548c49719]{
 -- Page 106, Offset 16831.

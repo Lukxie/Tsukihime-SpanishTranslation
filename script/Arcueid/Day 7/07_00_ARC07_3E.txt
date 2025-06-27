@@ -169,7 +169,7 @@ Desde atrás todo lo que veo es su postura,
 [sha:488174490ed72d24341767dadd8a8b4f3b0f6521]{
 -- Page 286, Offset 17271.
 -- するつもりだ、とは言えない。
-//Tl oficial
+// Tl oficial
 ―――%{i}haciendo%{/i}. Pero no lo digo.
 }
 [sha:5c6ecb5e1c7f1ff81cbdf29ab0d774dc99b53bee]{
@@ -267,7 +267,7 @@ Y a cambio de ese dolor, puedo ver vagamente las 'líneas' del suelo y paredes.
 [sha:b5a9057116fa6d60410375eaab6dfaf14938a2f5]{
 -- Page 292, Offset 17290.
 -- 形の上の、摩耗というカテゴリーの“結果”は視えても、鉱物たちにとっての“終わり”は視えない。そのためには、彼らと同じ視点、同じ価値観を得なくてはいけない。
-//Posible linea de crash 
+// Posible linea de crash
  Aunque seas capaz de percibir las 'consecuencias' como resultado de procesos de desgaste,
  seguirías sin poder ver el 'final' de un objeto inanimado.
  La única forma sería si compartieses su misma perspectiva, el mismo sistema de valores que esos objetos.
@@ -316,14 +316,14 @@ Es cierto que ningún humano tendría esas 'líneas'.
 [sha:9b1db42dbd0869d0f6ec567f70d04168256a1da3]{
 -- Page 295, Offset 17299.
 -- けどそれは数えられる程度の数で、ゆっくりと流動する幾何学模様みたいなものなんだ。
-//Mix de tls
+// Mix de tls
 La mayoría tienen unas pocas,
  y recorren gradualmente sus cuerpos con formas geométricas.
 }
 [sha:d1deacb00a583e24831ed3162198c8d0e9fb02c9]{
 -- Page 296, Offset 17300.
 -- なのに―――アレは、なんだ。
-//Mix de tls
+// Mix de tls
 Pero esto――¿qué diablos es esto?
 }
 [sha:3ea425b78850ad6689841e0f5c513560baa961e4]{
@@ -570,7 +570,7 @@ Bajo una luna a cero absoluto.
 [sha:d6b23a83e1868b72dc2c003380aa68be7fa1015c]{
 -- Page 312, Offset 17346.
 -- 視界のむこうで、何か、異質な音がしている。
-//Tl oficial
+// Tl oficial
 Un sonido espeluznante emana de las sombras.
 }
 [sha:90652223407e8542c055daeb8ba23cdd3c365b4b]{
@@ -596,7 +596,7 @@ O escucharlo.
 [sha:7cb62d5742d3fec99d837edb0a137fb93737cdec]{
 -- Page 314, Offset 17351.
 -- なのに、視えた。
-Pero lo ví.
+Pero lo vi.
 }
 [sha:5344680ed189e7e579f0ef07c8e49bdb73b57f1c]{
 -- Page 314, Offset 17352.
@@ -688,7 +688,7 @@ Aunque lleve las gafas,
 [sha:0ec2ca83a4298484e127a3d000a1bcb13a34a7b9]{
 -- Page 320, Offset 17368.
 -- 暗がりから出てきたアルクェイドは、俺以上に息をきらして、おぼつかない足取りだった。
-//No se si cojeando es lo correcto
+// No se si cojeando es lo correcto
 Arcueid emerge de la oscuridad, a paso irregular,
  con más dificultad para respirar que yo.
 }
@@ -758,13 +758,13 @@ Estás sudando a gota,
 [sha:871357c26e95c80512944aafe4ded5ce95562a8e]{
 -- Page 325, Offset 17381.
 -- ハア、と、うまく出来ない呼吸を抑えながら、アルクェイドの腕を掴む。
-//Tl oficial
+// Tl oficial
 La agarro del brazo mientras intento controlar mi propia respiración.
 }
 [sha:b5ee40084a155aa50fe025f5f02a75cba9783634]{
 -- Page 326, Offset 17382.
 -- 「……なによ。そういう志貴だって、いまにも倒れそうな顔してる」
-//Tl oficial
+// Tl oficial
 "¿Y qué...?
  Dices eso, pero tú estás peor que yo."
 }
@@ -828,7 +828,6 @@ El que calla otorga... supongo.
 -- そんな体で、大人しくできないのか!?」
 Tu cuerpo está hecho un desastre,
  ¡¿por una vez te puedes tomar las cosas con calma?!"
- 
 }
 [sha:ce96c850c64173d016bb43b7fa10bcf9c2786362]{
 -- Page 330, Offset 17395.

@@ -1,7 +1,7 @@
-[offset:11889]{
+[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 10014, Offset 11889.
 -- 「っ―――！」
--- TRANSLATION HERE
+"%{i}Kh%{/i}―――!"
 }
 [sha:b1ad14b1e66ead2366ead1b6405f0ebb7ae92354]{
 -- Page 10014, Offset 11890.
@@ -66,7 +66,7 @@
 [sha:3ffb5803354bb678b6e06770f0a954088cf38ac1]{
 -- Page 387, Offset 11902.
 -- 「――――――あ」
--- TRANSLATION HERE
+"―――%{i}Grgh%{/i}."
 }
 [sha:417f701bdc0c3b21c36af1eb6a6531085fb17788]{
 -- Page 387, Offset 11903.

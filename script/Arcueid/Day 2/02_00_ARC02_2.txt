@@ -11,7 +11,7 @@ Han acabado las clases
 [sha:1b94b3652a50b698382fcc487c23e1ed3cfadb12]{
 -- Page 10005, Offset 2988.
 -- 今日は貧血による目眩もなく、俺個人の話で言えばいたって平穏に過ごせた一日だった。
-Hoy no sufrí de ningún episodio anémico, 
+Hoy no sufrí de ningún episodio anémico,
  y el resto de la tarde pasó de forma pacífica, en lo que me respecta, por lo menos.
 }
 [sha:5459b733d1a07c982f37a3691cd5d8c4012c9809]{
@@ -28,13 +28,13 @@ Las chicas han denominado esta enfermedad que afecta a los chicos como 'La fiebr
 [sha:2322b08a8da58d53f5bb7154ac7bb8c55ca50c12]{
 -- Page 148, Offset 2991.
 -- 『ノエルはしか』でもいい。
-//Localizado porque queda bien jiji
+// Localizado porque queda bien jiji
 Alternativamente llamada 'Noelitis'.
 }
 [sha:c7c9dea0e085b743dcc6ee9918ca8b8edea6d8a3]{
 -- Page 148, Offset 2992.
 -- ノエル熱にうかされた男子と、それを冷めた目で見る女子の対立は昼休みになっても止む事はなく、戦いは明日に持ち越された。
-//alguna expresión que se ajuste a spill over? como salpicar o derramarse pero que no suene tan mal
+// alguna expresión que se ajuste a spill over? como salpicar o derramarse pero que no suene tan mal
 El conflicto entre los chicos delirantes con la Fiebre de Noel,
  y las chicas, que desprecian fríamente todo este asunto,
  ni siquiera paró en la comida.
@@ -116,7 +116,7 @@ Ella sonríe como si pudiera ver a través de mi.
 [sha:9efdb15d39981225a91e0b7e67e79cd7f085b202]{
 -- Page 156, Offset 3007.
 -- 日本にはまだ慣れていなくて不安だったけど、貴方みたいに純朴な子に先生って呼ばれるのはクセになりそう。―――背徳的で、ちょっとドキドキしちゃうもの」
-//little boys = chiquillos o chavalines o chicos pequeños (no me convence)
+// little boys = chiquillos o chavalines o chicos pequeños (no me convence)
 Estaba un poco nerviosa por esto ya que aún no estoy acostumbrada a Japón,
  pero pienso que me podría acostumbrar a ser llamada 'Sensei' por chiquillos tan inocentes como tú.%{n}
 Es poco sucio, y algo emocionante."
@@ -166,7 +166,7 @@ Sólo cruza tus dedos con los míos.
 [sha:39fe3630b427ff508a29e0e65b50b6a45e452406]{
 -- Page 160, Offset 3016.
 -- ……そう。貴方に私を、食べてもらいたいだけ……」
-//Noel shotacon furtiva de manual
+// Noel shotacon furtiva de manual
 Si... Sólo quiero que me devores..."
 }
 [sha:90247e1a8090b1d1ce8ed5741323e1a0642817b2]{
@@ -193,7 +193,7 @@ El extrañamente cautivador, suave cuello de una mujer―――
 [sha:984960545f8cd6a1308e36f73304a2c1b39463bf]{
 -- Page 162, Offset 3021.
 -- だから忘れて、貴方を忘れて……邪魔なものはぜんぶ取ってしまえばいいの……その建前も、その眼鏡も―――」
-Solo olvida, olvidate de ti, olvidate de... todo lo que está por medio, deshazte de todo... las formalidades, las gafas―――"
+Solo olvida, olvídate de ti, olvídate de... todo lo que está por medio, deshazte de todo... las formalidades, las gafas―――"
 }
 [sha:bd592329525f4d0d52125fd2873fc3720a93f67a]{
 -- Page 163, Offset 3022.
@@ -208,14 +208,14 @@ El momento en el que lo hace, mi cuerpo retrocede con miedo ante la simple idea 
 [sha:3bd803032fe7a75fcc01889286a0ec296347e381]{
 -- Page 164, Offset 3024.
 -- 「なーんて、新任記念のジョウダンでした♡
-//ya xd
+// ya xd
 "¡Sooooolo bromeaba!
  Ha sido solo una pequeña broma para romper el hielo ♡
 }
 [sha:a14a95a149d3c1dcdb9347fce909a2e8a1c6e090]{
 -- Page 164, Offset 3025.
 -- 日本風に言うと、ちょっとしたスキンシップ？　じゃなくて名刺交換？　うん、どっちにしても、まだまだカタチだけの付き合いってコトね、私たち！」
-//Skinship es como contacto entre piel, lo dejo en contacto de momento y si se tiene que cambiar se cambia.
+// Skinship es como contacto entre piel, lo dejo en contacto de momento y si se tiene que cambiar se cambia.
 En términos japoneses, ¿lo podrías llamar un poco de %{i}contacto%{/i}?
  O espera, ¿es más como intercambiar tarjetas de negocio?
  Hmm, de cualquier forma, es solamente un poco de socialización entre nosotros, ¿vale?"

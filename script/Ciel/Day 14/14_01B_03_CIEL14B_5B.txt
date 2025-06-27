@@ -141,12 +141,12 @@
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 221, Offset 40886.
 -- 「“――――――”」
--- TRANSLATION HERE
+"――――――"
 }
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
 -- Page 10008, Offset 40887.
 -- 「“――――――”」
--- TRANSLATION HERE
+"――――――"
 }
 [sha:b0c5a837c81946a69f8a873cb62b8a038dc10b21]{
 -- Page 10009, Offset 40888.
@@ -256,7 +256,7 @@
 [sha:7c92a0dd9fd7504a10985dd384d79f8e45cbe570]{
 -- Page 229, Offset 40909.
 -- あるいは、
--- TRANSLATION HERE
+O quizá...
 }
 [sha:761909facef49fb0308ea0d75d2935999703dcbe]{
 -- Page 230, Offset 40910.
@@ -618,10 +618,10 @@
 -- ヒトにできる事は時間をかけること。妥協すること。回り道をしながらも、最後には貪欲に辿り着くこと。
 -- TRANSLATION HERE
 }
-[offset:40982]{
+[sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
 -- Page 250, Offset 40982.
 -- そう。
--- TRANSLATION HERE
+Solo digo las cosas como son.
 }
 [sha:1fd0a95da5062890d01d67d0f4525cdde0fa716f]{
 -- Page 250, Offset 40983.

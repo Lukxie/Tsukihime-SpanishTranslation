@@ -21,7 +21,7 @@ No habrá una segunda vez.
 [sha:1590cdf604fb68358b67962043dbfe0f62b7d94f]{
 -- Page 866, Offset 26774.
 -- たとえこの脳が焼き切れようと、アルクェイドを穢す事だけは、決して―――
-Incluso mi cerebro se incinera, no profanaré a Arcueid―――
+Incluso mi cerebro acaba incinerado, no profanaré a Arcueid―――
 }
 [offset:26775]{
 -- Page 867, Offset 26775.

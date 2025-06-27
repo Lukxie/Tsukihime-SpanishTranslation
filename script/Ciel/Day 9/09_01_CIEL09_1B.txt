@@ -8,10 +8,10 @@
 -- 今朝もうちの教室にシエル先輩が遊びに来ているのでは、なんて淡い期待をしながら階段を二段飛ばしで上がっていく。
 -- TRANSLATION HERE
 }
-[offset:22236]{
+[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 10001, Offset 22236.
 -- と。
--- TRANSLATION HERE
+Y entonces―――
 }
 [sha:82f5f0f3f9b5279a3ba5c15dd76511bd86849f89]{
 -- Page 40, Offset 22237.

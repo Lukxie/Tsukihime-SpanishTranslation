@@ -80,7 +80,7 @@ La habitación de Kohaku está en la terminación norte de la primera planta del
 -- Page 88, Offset 5784.
 -- お父様の書斎は……重要な書類がまだありますので、堅く鍵をかけています。こちらは兄さんと言えど立ち入り禁止ですので、胸に留めておいてください」
 En cuanto el estudio de Padre... permanece cerrado porque dentro aún hay documentos importantes.
- Incluso tú no tienes permitido entrar, Nii-san, así que por favor manténlo presente."
+ Incluso tú no tienes permitido entrar, Nii-san, así que por favor mantenlo presente."
 }
 [sha:0956c3f40919264f00fc093667b17c1efdb43ee0]{
 -- Page 89, Offset 5785.

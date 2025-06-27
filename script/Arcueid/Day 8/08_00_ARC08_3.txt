@@ -59,7 +59,7 @@ No hace falta decir que mi comportamiento es anormal.
 [sha:896be2724ae27988308d3b84a4071eaa598135c4]{
 -- Page 141, Offset 20023.
 -- この状況におかれた人間なら、家に閉じこもるか何処かに逃げるか、そのどちらかに寄るだろう。
-Cualquiera en mi posición ahora mismo estaría encerrado en su casa o habría huído lejos.
+Cualquiera en mi posición ahora mismo estaría encerrado en su casa o habría huido lejos.
 }
 [sha:a75f499c1cd3bed5a707e8213684ce0539087f91]{
 -- Page 142, Offset 20024.
@@ -126,7 +126,7 @@ Sensei una vez me enseñó a 'volverme la persona que creyera adecuada'.
 -- Page 146, Offset 20035.
 -- あの言葉を頼りにする以上、俺はやっぱり、この日常を大切にしなければやっていけない。
 Si sigo viviendo bajo ese lema,
- entonces debo asegurarme de atresurar cada día ordinario.
+ entonces debo asegurarme de atesorar cada día ordinario.
 }
 [sha:d33a6ccc1581192b6c094caa8d651aec217bc8c6]{
 -- Page 147, Offset 20036.

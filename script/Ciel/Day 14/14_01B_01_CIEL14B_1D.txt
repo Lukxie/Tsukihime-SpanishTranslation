@@ -413,10 +413,10 @@
 -- <生半|なまなか>な攻撃、隙を窺う長期戦になればなるほど、彼女は手に負えない怪物になる。
 -- TRANSLATION HERE
 }
-[offset:38828]{
+[sha:8bff0d75936c49222070ad8695c2e6b6d88a1a33]{
 -- Page 174, Offset 38828.
 -- だから―――」
--- TRANSLATION HERE
+Es por eso que―――"
 }
 [sha:edf29a3dd428d3d2f096a3b88f441f9ac947dfed]{
 -- Page 175, Offset 38829.

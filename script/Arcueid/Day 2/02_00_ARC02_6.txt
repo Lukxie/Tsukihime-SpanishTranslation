@@ -201,7 +201,7 @@ El sonido es más doloroso para mi mente y ojos que para mis oídos.
 [sha:f069bc889f76612deb22d1e836d03700067b8267]{
 -- Page 349, Offset 3529.
 -- 聞いているだけで心臓がどくどくと活性化するような、生理的な嫌悪感。
-Solo con oirlo es suficiente para poner mi corazón a cien por la sensación de repulsión visceral.
+Solo con oírlo es suficiente para poner mi corazón a cien por la sensación de repulsión visceral.
 }
 [offset:3530]{
 -- Page 350, Offset 3530.
@@ -432,7 +432,7 @@ Un mareo me ataca de repente, y casi me desmayo.
 [sha:23815b911572c014106fa760092bcdcd903a169c]{
 -- Page 360, Offset 3574.
 -- よろめく足に力をこめて、なんとか倒れずに踏みとどまる。
-//temblorosas no suena bien igual debería dejarlo en piernas y ya
+// temblorosas no suena bien igual debería dejarlo en piernas y ya
 Pongo toda mi fuerza en mis piernas temblorosas y consigo mantenerme de pie.
 }
 [sha:50d4ad1a44fd9d7cbcb0a75d9688d0690653d962]{

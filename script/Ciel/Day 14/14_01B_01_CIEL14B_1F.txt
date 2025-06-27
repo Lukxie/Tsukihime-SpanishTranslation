@@ -173,10 +173,10 @@
 -- 焦点を<絞|しぼ>れば公園の様子は無理でも、あの付近の様子ぐらいは把握―――
 -- TRANSLATION HERE
 }
-[offset:39107]{
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 255, Offset 39107.
 -- 「―――！」
--- TRANSLATION HERE
+"%{i}Hnh%{/i}!"
 }
 [sha:bc07766a0cd4d6228814bf9dabd3be3f5d351ed0]{
 -- Page 255, Offset 39108.

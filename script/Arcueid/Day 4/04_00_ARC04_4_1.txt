@@ -204,7 +204,7 @@ Estoy seguro de que hay muchas formas de hacer las paces en este mundo...
 [sha:a9b9d23f5b9ecc41d74ab6f6c77b9ca58fa8422c]{
 -- Page 342, Offset 6495.
 -- 「……ああ、ほんと、どうかしてる」
-//No más thio please
+// No más thio please
 "De verdad... esto es de locos."
 }
 [sha:e26f7831bb95f32838a87b92c365b3be9a6f0e8b]{

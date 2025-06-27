@@ -6,7 +6,8 @@
 [sha:23d954335aa4ef59374de431d9cdac19c273939b]{
 -- Page 10001, Offset 29099.
 -- 手足がまだ重く、他人の体を着ているような感覚で坂道を下りていく。
--- TRANSLATION HERE
+Bajando la cuesta
+ mis extremidades siguen sintiéndose pesadas, como si estuviera en el cuerpo de otro.
 }
 [sha:6ccc5035404eb48f35627947fcec2f55b368e026]{
 -- Page 38, Offset 29100.

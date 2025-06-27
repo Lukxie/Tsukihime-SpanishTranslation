@@ -363,10 +363,10 @@
 -- あの女への見せしめに、隙間なく埋まって死ね！」
 -- TRANSLATION HERE
 }
-[offset:35911]{
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
 -- Page 227, Offset 35911.
 -- 「―――！」
--- TRANSLATION HERE
+"%{i}Hnh%{/i}!"
 }
 [sha:a6991b02ce03b2d693570be5cfb603633382ec14]{
 -- Page 228, Offset 35912.
@@ -386,7 +386,7 @@
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 230, Offset 35915.
 -- だが。
--- TRANSLATION HERE
+Sin embargo―――
 }
 [sha:6e9fc0f78cd6ed1ce2582c9be45ec0f751693400]{
 -- Page 230, Offset 35916.
@@ -406,7 +406,7 @@
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
 -- Page 231, Offset 35919.
 -- 「！」
--- TRANSLATION HERE
+"¡%{i}Agh%{/i}!"
 }
 [sha:dd3cd9e4ea2b76f47cd15c629e3b7b6e00605713]{
 -- Page 231, Offset 35920.

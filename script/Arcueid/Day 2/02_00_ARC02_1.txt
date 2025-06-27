@@ -86,7 +86,7 @@ Escucho una voz desconocida.
 [sha:0ae9fe6f8816a9ce5f1b701703b1d3971aff8730]{
 -- Page 6, Offset 2613.
 -- 深く沈んでいた意識が目を覚ます。
-//Im so tired jefe
+// Im so tired jefe
 Mi consciencia profundamente aletargada despierta.
 }
 [sha:39cd56c77312d926d1bf460a14aadf33d5d1ba2e]{
@@ -214,13 +214,13 @@ Siento un ligera tensión, o que de alguna manera soy indigno de este gesto.
 [sha:d0c4b2afb9faf207d5f9a5f1dc3d337fd5a8c2d4]{
 -- Page 14, Offset 2638.
 -- 彼女に琥珀さんの半分ぐらいの明るさがあれば向かうところ敵なしなのではないだろうか？
-//Imparable o 'una fiera'. Pero 'una fiera' no me convence.
+// Imparable o 'una fiera'. Pero 'una fiera' no me convence.
 Si fuera la mitad de alegre que Kohaku-san, sería imparable, ¿no?
 }
 [sha:1f9d05f80faacac2ee8cd3e6b7714e65edeff976]{
 -- Page 14, Offset 2639.
 -- や、個人の性格の話なので、俺がとやかく言っていいコトではないんだけど。
-Bueno, simplemente es su forma de ser, osea que no debería reprocharselo.
+Bueno, simplemente es su forma de ser, o sea que no debería reprochárselo.
 }
 [sha:28de9b1d2998dd8762b3b863c94ba50e4e5ac729]{
 -- Page 15, Offset 2640.
@@ -358,7 +358,7 @@ Sin embargo―――
 [sha:75632314fd4d491e534ad4c95c06a5a8a2275b3b]{
 -- Page 24, Offset 2666.
 -- 志貴さん、カブはお嫌いですか？」
-//Terrible
+// Terrible
 Shiki-san, ¿no te gustan los nabos?"
 }
 [sha:560dd7eb8e19a28f4411fdf88edb875af97a6842]{
@@ -496,7 +496,7 @@ Yo soy el que debería estar satisfecho, especialmente tras ver una cara así.
 [sha:551e3535870c087264f2d65d97639121346a0834]{
 -- Page 35, Offset 2692.
 -- どうぞ私にお構いなく、居間の方に行ってくださいな。あちらで食後のお茶を用意いたしますから。あまり志貴さんを独占していますと後が恐ろしゅうございますし」
-//after-breakfast  post-desayuno omitido de momento porque no se suele decir.
+// after-breakfast  post-desayuno omitido de momento porque no se suele decir.
 No te preocupes por mi y ve a la sala de estar,
  allí te prepararé un té.
  No te quiero monopolizar mucho, que tengo miedo de lo que pueda pasar después."

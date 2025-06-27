@@ -126,7 +126,7 @@
 [sha:e8980f16013ed6cbe5cbbede7bb7d7af686b018b]{
 -- Page 83, Offset 15002. Mods: @k, @e.
 -- ここは―――
--- TRANSLATION HERE
+Me parece que―――
 }
 [sha:7dc475597c54091ac1047dab43bf99fd31189d7b]{
 -- Page 84, Offset 42706. Choice.

@@ -11,7 +11,7 @@
 [sha:219c7fc760c8833eaf048d457d50625ae6e7c7b8]{
 -- Page 10005, Offset 5802.
 -- 元気いっぱいにワゴンを押して琥珀さんがやってくる。
-//serving cart = carro de servicio? queda raro
+// serving cart = carro de servicio? queda raro
 Kohaku-san entra, empujando un carrito vigorosamente.
 }
 [sha:32d37d81274fff67d3904cb83ea46596a6dda64e]{

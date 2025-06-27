@@ -46,7 +46,7 @@ Es raro, pero siento como si hubiera pasado bastante tiempo desde―――"
 [sha:de2a102b56c33b13c6118003c7f3c24ff91404e1]{
 -- Page 113, Offset 14200.
 -- 「やっ。おはよう秋葉」
-//Mas informal (sin que suene mal)
+// Mas informal (sin que suene mal)
 "Ey. Buenos días, Akiha."
 }
 [sha:5e9241391619ac3a7253c7e23911bde7305e4828]{
@@ -67,7 +67,7 @@ Mi talón me está matando, pero sonrío y me aguanto.
 [sha:115080b8dfeef7408bc4a8b6990dbbea8b955dca]{
 -- Page 115, Offset 14204.
 -- さっきはありがとう。これからも頼りにするよ」
-//ugh
+// ugh
 Gracias por lo de antes.
  Cuento contigo a partir de ahora."
 }
@@ -295,7 +295,7 @@ Es tan terca sobre el tema que acabo dándola la razón.
 [sha:dfb0c7460b995c5ec74c67c5c9ae6672e09dfcc6]{
 -- Page 132, Offset 14249.
 -- どこに親族の聞き耳があるともかぎりません。遠野志貴は遠野家の長男には相応しくない、という風説なんて、私は聞きたくありませんので」
-//Igual muy complicado.
+// Igual muy complicado.
 Nuestros familiares tienen ojos y oídos en todas partes. No deseo escuchar rumores sobre que no eres apropiado para asumir tu rol como el hijo mayor de la familia Tohno."
 }
 [sha:b6151f39251bcfffb7f54d64d225c062916c6b05]{

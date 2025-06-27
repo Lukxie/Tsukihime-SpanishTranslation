@@ -1,17 +1,17 @@
 [sha:4b4057bc0a8f2a6f42ea1583b94ef75e0baadf35]{
 -- Page 1, Offset 19663.
 -- その頃、屋敷は大きな遊び場だった。
--- TRANSLATION HERE
+En aquel entonces, la mansión era un patio de juegos gigante.
 }
 [sha:5d57cc8e0d0dda0ac7d98899b142b37016eae93c]{
 -- Page 1, Offset 19664.
 -- 深い海のような森。
--- TRANSLATION HERE
+El bosque, un océano profundo.
 }
 [sha:f55a1c2c9a724a5fa09f696c927d1904ca96d08c]{
 -- Page 1, Offset 19665.
 -- 高い城のような家。
--- TRANSLATION HERE
+La casa, un castillo enorme.
 }
 [sha:015fd6302852760ddebc1edc4b94730fc2d28036]{
 -- Page 1, Offset 19666. Mods: @n.
@@ -21,7 +21,7 @@ Cada día una nueva aventura ocurría en nuestro reino. Había mucho que explora
 [sha:f04a315790bd997b16ddf48a0d74fc60ea42d801]{
 -- Page 1, Offset 19667.
 -- ボクたちは遊びまわった。
--- TRANSLATION HERE
+Lo pasábamos en grande.
 }
 [sha:1f302bd314cdf7f04d0d16389e124a1904292f3f]{
 -- Page 2, Offset 19668.
@@ -52,7 +52,7 @@ Solo éramos niños, jugando y gritando como cachorros.
 [sha:30acfdf0d20fc92bc40f16698d6fd753b772ace9]{
 -- Page 2, Offset 19673.
 -- ボクらはとても気が合って、最高の遊び仲間だった。
-Nos llevábamos tan bien que eramos inseparables.
+Nos llevábamos tan bien que éramos inseparables.
 }
 [sha:484ae8cb68c18700803ce8d6f115b3db4e40f941]{
 -- Page 3, Offset 19674.
@@ -333,7 +333,7 @@ Son las siete pasadas.
 [sha:b669523a35cb7d269974eda1d7facfcfe9c0de14]{
 -- Page 20, Offset 19727.
 -- いつもなら翡翠が控えていて、起きるよう呼びかけている時間なのに。
-A esta hora normalmente ya estaría llamandome desde el otro lado de la habitación para despertarme.
+A esta hora normalmente ya estaría llamándome desde el otro lado de la habitación para despertarme.
 }
 [sha:e3c0979e8fed15f95e6479aa887e6588577d3583]{
 -- Page 21, Offset 19728.

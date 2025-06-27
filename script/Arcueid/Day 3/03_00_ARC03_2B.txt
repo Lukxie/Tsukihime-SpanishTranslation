@@ -61,7 +61,7 @@ No sé por qué, pero cuando me mira, siento que debo escuchar todo lo que tiene
 [sha:935e339cda73b5a7f38ca6a56472ee2633d37f5d]{
 -- Page 89, Offset 4178.
 -- たたたっ、と琥珀さんが二階から降りてきた。
-Esucho un montón de pasos mientras Kohaku baja corriendo desde la segunda planta.
+Escucho un montón de pasos mientras Kohaku baja corriendo desde la segunda planta.
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
 -- Page 89, Offset 4179.
@@ -178,7 +178,7 @@ Se comportar como un crío obsesionado con un juguete.
 [sha:0a65e8514264d41440be5658797d335c97144f03]{
 -- Page 97, Offset 4201.
 -- 「じーーーーっ」
-//Típico chiiiiiiiiiiiiiiiiiiiiiiiiii pero no se cual sería el sfx en español please help.
+// Típico chiiiiiiiiiiiiiiiiiiiiiiiiii pero no se cual sería el sfx en español please help.
 "%{i}Miraaada%{/i}."
 }
 [sha:083a575852a2ec0f9ff0d59a72447d3c8e2ac5e3]{
@@ -473,7 +473,7 @@ Parece que ocurrió mientras estaba durmiendo, la policía vino a preguntar lo q
 [sha:57fb7e8c7472d5f2945ad3cb2c0a6bf81859e41a]{
 -- Page 120, Offset 4258.
 -- 屋敷の東側の国道―――それは昨夜、俺が様子を見に行ったあたりだ。
-La carretera que rodea el este de la propiedad――es el área que fuí a revisar anoche.
+La carretera que rodea el este de la propiedad――es el área que fui a revisar anoche.
 }
 [sha:5f0b859f108bfe222251f5e0025f6b466c7b9345]{
 -- Page 120, Offset 4259.
@@ -488,7 +488,7 @@ Puedo decir con seguridad que anoche, en ningún caso hubo señales de ese color
 [sha:f6b19c081b4155ef90568d1673195f106aa980d0]{
 -- Page 120, Offset 4261.
 -- あったのは黒色だけだ。かじかむような寒さだけだ。血の温かさなんて、あの場には微塵も存在しなかった。
-Solo hubo negro. Solo un frío polar. Ni siquiera existió el más minimo indicio de la calidez de la sangre.
+Solo hubo negro. Solo un frío polar. Ni siquiera existió el más mínimo indicio de la calidez de la sangre.
 }
 [sha:37eb96ccce9f93741f8d6b4f076d3500ed549dca]{
 -- Page 121, Offset 4262.

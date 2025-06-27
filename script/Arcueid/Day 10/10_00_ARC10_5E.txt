@@ -287,7 +287,7 @@ Por alguna razón, me recuerdan a una máquina de escribir antigua.
 -- 「あ？　なに見てんだガキ。こんなの珍しくもねえだろ。<操り|マリオ><人形|ネット>の一つも知らねえとか、ふざけたコトぬかすなよ。勤勉なのが日本人の美徳だろうが」
 "¿Hm? ¿Qué miras, niñato? Esto no es tan raro, ¿sabes?
  Y no me vengas con mierdas de que no has visto una marioneta antes.
- Pensaba que los japoneses valorabaís la diligencia."
+ Pensaba que los japoneses valorabais la diligencia."
 }
 [sha:30ec98e748139f4a4de3a26c44bbb7c8402b6bee]{
 -- Page 645, Offset 25991.
@@ -448,7 +448,7 @@ Los Verdaderos Ancestros os creeis jodidamente especiales, pero no sois distinto
 -- Page 656, Offset 26019.
 -- 「本気で我が眼を疑うぜ。痛いところを突かれれば逆ギレかよ。ジジイ曰く冷徹な兵器だって話だったが、まるっきり不出来な人間じゃねえか。
 "No puedo creer lo que veo.
- Sí, venga cabreate conmigo porque lo que digo sea jodidamente cierto.
+ Sí, venga cabréate conmigo porque lo que digo sea jodidamente cierto.
  Mi viejo siempre decía que eras una máquina de matar fría y despiadada,
  pero parece que al final, solo eres otra inepta más.
 }
@@ -529,7 +529,7 @@ Arcueid aparta la mirada como si estuviera dolorida.
 [sha:8752d83ebb651cc764c717abcf2150f6b0e11d7b]{
 -- Page 662, Offset 26034.
 -- 吸血鬼らしい下卑た考えだけど、そうはさせないわ。
-Una idea despreciable típica de un vampiro, 
+Una idea despreciable típica de un vampiro,
  pero no te vas a salir con la tuya.
 }
 [sha:be46b2c54207d5236d42fa488ecf4e3f2ad25768]{

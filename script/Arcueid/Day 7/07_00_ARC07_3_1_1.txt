@@ -21,14 +21,14 @@ Necesito más detalles sobre esa jerarquía.
 [sha:b261a07717bd9ffb1fb999ed70b9c51fedbb12c3]{
 -- Page 521, Offset 17866.
 -- 「地味で悪かったな。何事も基礎からだって言ったの、おまえだろ」
-//Tl oficial
+// Tl oficial
 "Bueno, se siente.
  Fuiste tú la que dijo que empezaramos con lo básico."
 }
 [sha:d7ef14ac084f5315e8174003c2a6ecfe615a2742]{
 -- Page 522, Offset 17867.
 -- 「お、さっすが人力だけでピラミッドを建てちゃう霊長類！　堅実かつ誠実ね。
-//Tl oficial
+// Tl oficial
 "Wow, ¡como cabría de esperar de los primates que construyeron las pirámides con poco más que cuerdas y rocas!
  Directo al grano.
 }
@@ -201,9 +201,8 @@ La pregunta real es, %{i}quién de la Iglesia%{n}difundió esta información%{/i
 [sha:468a12fb734e19c974fb2a28e497ec4aac4a2b62]{
 -- Page 533, Offset 17897.
 -- 「次はⅣ階梯、夜属。
-//ELSEÑORDELANOCHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-//
-//perdon
+// ELSEÑORDELANOCHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+// perdon
 "A continuación tenemos Rango IV, Ser de la Noche.
 }
 [sha:976f31b97e08c740c1793be22d01ee96431cdb5b]{
@@ -315,7 +314,7 @@ El vampiro que acecha esta ciudad pertenece a este rango.
 -- 身分制度って言ったけど、それを決めるのは誰……いや、何だ？　吸血鬼は血を吸って仲間を増やすなら、どうしてこうも在り方が違うんだ？」
 Dijiste que es un sistema de clases, ¿pero quién lo decide? O más bien... ¿%{i}cómo%{/i} se decide?
  Si los vampiros se propagan chupando sangre,
- ¿por qué son tan diferentes unos de otros?" 
+ ¿por qué son tan diferentes unos de otros?"
 }
 [sha:8de52d117ba2d7bbf992af17c8bb513c7cc4ee32]{
 -- Page 540, Offset 17917.
@@ -330,7 +329,7 @@ Esa es la mayor debilidad de los Apóstoles Muertos... o más bien, lo que los d
 [sha:8a4b9df85a1c70ed614f38329c4b6f0250dc27c7]{
 -- Page 540, Offset 17919.
 -- 死徒に血を吸われた人間は誰もが吸血鬼になる訳じゃないし、死徒は誰をも吸血鬼にする訳でもない」
-//Joder que dolor, esto hay que cambiarlo o reformularlo
+// Joder que dolor, esto hay que cambiarlo o reformularlo
 Ni todos aquellos a quienes un Apóstol Muerto les chupa la sangre son capaces de volverse vampiros,
  ni los Apóstoles Muertos van convirtiendo a cualquiera en vampiro."
 }
@@ -398,7 +397,7 @@ Pero si intentan crear vampiros de Rango II o superior,
 [sha:fcaa72b383d7c6afe6a0d5cc0cf8ce3eb3759e4b]{
 -- Page 544, Offset 17931.
 -- 「吸血種の血に抗える免疫力……かな？」
-//Si, igual es demasiado xdd
+// Si, igual es demasiado xdd
 "Algo como inmunidad ante la sangre de los chupasangre, ¿supongo?"
 }
 [sha:3e0cc9a563c8493f5ba5d55e944838f81fcc88f5]{
@@ -442,7 +441,7 @@ Si tienen que gastar energía solo para comandar a sus ayudantes, entonces carec
 [sha:97253d4be5a82e300e41761b0cdc8c82cc4d4038]{
 -- Page 547, Offset 17938.
 -- 「適性がある人間は吸血鬼の呪いに抵抗できる。
-//El comentario en ingles me hace creer que igual crashea
+// El comentario en ingles me hace creer que igual crashea
 "Los humanos que poseen esa aptitud pueden resistir la maldición vampírica.
 }
 [sha:f167f46fc34d5200cc1e04a5559035c3fb618d48]{
@@ -607,7 +606,7 @@ Pero la lógica tras ello es la de un vampiro... un ser poderoso.
 [sha:46ac620f59dceb18c4f05672c102467f484d6c9d]{
 -- Page 557, Offset 17966.
 -- 人間はそこまで正しくは生きられないし、シンプルにも生きられない。
-//Tl oficial
+// Tl oficial
 Los humanos no tenemos el privilegio de vivir esto justamente,
  o de ver las cosas como negro o blanco.
 }
@@ -616,7 +615,6 @@ Los humanos no tenemos el privilegio de vivir esto justamente,
 -- 「それともう一つ訂正。下僕だって親には逆らえるのよ。
 "Y hay una cosa más que tengo que aclarar.
  Los subordinados %{i}pueden%{/i} desafiar a su progenitor.
- 
 }
 [sha:cb54233a79d30b3bf8c07b88d23e163705c38a14]{
 -- Page 558, Offset 17968.
@@ -668,7 +666,6 @@ De la misma forma que rocas o animales no pueden comprender la muerte humana.
 -- 感情の死、精神の苦しみは、人だけの娯楽という事か。
 Entonces la muerte de las emociones del otro... su sufrimiento psicológico...
  son cosas que solo humanos pueden disfrutar.
- 
 }
 [sha:6654f278a1b1456abeb45f75de891264f89b0d58]{
 -- Page 561, Offset 17977.
@@ -679,7 +676,7 @@ Entonces la muerte de las emociones del otro... su sufrimiento psicológico...
 -- Page 561, Offset 17978.
 -- ……分かんないな。吸血鬼ってのはどうしてそんな事するんだよ。無駄すぎる。趣味が悪すぎるだろ」
 No lo entiendo... ¿Por qué haría eso un vampiro?
- No tiene sentido, es repugnante." 
+ No tiene sentido, es repugnante."
 }
 [sha:6c63f494e9bd9a76370d435a63587fa0ad99b1f2]{
 -- Page 562, Offset 17979.
@@ -733,7 +730,7 @@ Algunos se volvieron inmortales mediante hechicería,
 -- 「……志貴、あなたはさっき殺した人間を使役するのが悪趣味だと言ったけど、それでもまだマシなほうなのよ。中にはもっと理解不能な遊びを考案する死徒もいるんだから」
 "Shiki... dijiste que era repugnante que usaran así al hombre que matamos antes,
  pero podría ser mucho peor,
- No te imaginas las cosas que hacen algunos Apóstoles Muertos por diversión." 
+ No te imaginas las cosas que hacen algunos Apóstoles Muertos por diversión."
 }
 [sha:190ab2fbc431592bdd9d41e51ddb243009667a6f]{
 -- Page 565, Offset 17989.
@@ -769,7 +766,7 @@ Como su objetivo era la inmortalidad misma, supongo que era una conclusión inev
 [sha:1f5e5dde3a93f952b24f198293ac77323eb5bdde]{
 -- Page 567, Offset 17995.
 -- 「……なんだそれ。退屈だから遊びたい、なんてふざけた事は言わないでくれ。
-//Sorry
+// Sorry
 "Que demonios...
  ¿Hacen todo eso porque se aburren?
  No me jodas.
@@ -795,7 +792,7 @@ Por eso ahora sus vidas no tienen significado alguno.
 -- 自らを無価値と―――停止した生命と認識した知性体は、そこで存在の価値がなくなってしまう」
 Como seres que han reconocido la futilidad
  y el estancamiento de sus vidas,
- han perdido toda razón de exististencia."
+ han perdido toda razón de existencia."
 }
 [sha:a131b6797f58f11fef7a6eaba9a3cf3a986f9967]{
 -- Page 569, Offset 18000.
@@ -809,7 +806,7 @@ Como seres que han reconocido la futilidad
 [sha:2055a119caf4c075a3911dc91138071fb88b4ae8]{
 -- Page 570, Offset 18001. Mods: @n.
 -- 「彼らは人間の真似ごとをして、自分を城主に見立てて勢力を拡げていくゲームを始めたわ
-//Mix de tls
+// Mix de tls
 "Así que empezaron un juego para ver que rey se construía el castillo más grande,
  imitando a los humanos construyeron imperios de Soberanos y expandieron su influencia
 }

@@ -126,7 +126,7 @@ Sin embargo...
 [sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
 -- Page 288, Offset 22874.
 -- ただ、
--- TRANSLATION HERE
+Excepto porque―――
 }
 [sha:4bc64314c7d68f4e1076fcb08f6110cda7ebcceb]{
 -- Page 288, Offset 22875.
@@ -196,12 +196,12 @@ Sin embargo...
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 292, Offset 22888.
 -- そこには、
--- TRANSLATION HERE
+Allí―――
 }
 [sha:9cad8e47a16eef093ba66059da49762c5e2334a5]{
 -- Page 293, Offset 22889.
 -- そこには。
--- TRANSLATION HERE
+Dentro―――
 }
 [sha:d0e77d9d878858febcea771f9975a1c52c7e9b7e]{
 -- Page 293, Offset 22890.

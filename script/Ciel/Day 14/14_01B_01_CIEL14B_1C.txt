@@ -53,10 +53,10 @@
 -- この街で、あの現象に耐えられるモノは一つだけだ”
 -- TRANSLATION HERE
 }
-[offset:38604]{
+[sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
 -- Page 90, Offset 38604.
 -- 「っ―――」
--- TRANSLATION HERE
+"%{i}Ugh%{/i}―――"
 }
 [sha:350241413de338db965435f107392c78221a1a9c]{
 -- Page 90, Offset 38605.
@@ -621,7 +621,7 @@
 [sha:9a4f05181e13f0759018b35b80ecdbeb6eb8314c]{
 -- Page 138, Offset 38717.
 -- ……そっか。
--- TRANSLATION HERE
+Ya veo...
 }
 [sha:4c2426db6b327a1be80ab73ee8c6a522ba716a14]{
 -- Page 138, Offset 38718.

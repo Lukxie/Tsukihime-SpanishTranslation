@@ -1,7 +1,7 @@
 [sha:de2a102b56c33b13c6118003c7f3c24ff91404e1]{
 -- Page 10001, Offset 4016.
 -- 「やっ。おはよう秋葉」
-//Mas informal (sin que suene mal)
+// Mas informal (sin que suene mal)
 "Ey. Buenos días, Akiha."
 }
 [sha:967a84afe1d3cd05fae01434c824d715247f3553]{
@@ -95,7 +95,7 @@ Lucho en contra de mi voluntad para no señalar que desayunar a las siete es per
 [sha:227610139f1c2332f3132aae0cb66c8e85adbcac]{
 -- Page 39, Offset 4033.
 -- 常人では考えもしない事を、さも“不思議な事ですか？”なんて顔で返されては毒気も抜ける。
-//cortar las alas no se si es lo correcto en este contexto.
+// cortar las alas no se si es lo correcto en este contexto.
 Verla actuar como si esa impensable respuesta fuera lo normal me ha quitado las ganas de seguir.
 }
 [sha:c5d2a032bfa850826a4e1eb707783cac5f7a4ecc]{
@@ -123,7 +123,7 @@ Nunca ví una respuesta tan perfecta.
 -- 兄さんの学校はここから徒歩で30分ほどなんでしょう？　そう遠くない場所なんですから、遅刻なんかしないでくださいね。恥ずかしいですから」
 Tu escuela está a media hora andando de aquí, ¿correcto?
  No está muy lejos, así que intenta no llegar tarde.
- Sería vergonzoso si lo hiceras."
+ Sería vergonzoso si lo hicieras."
 }
 [sha:1786ff2ec0494df8bc375a0344880fe596beed6d]{
 -- Page 42, Offset 4039.

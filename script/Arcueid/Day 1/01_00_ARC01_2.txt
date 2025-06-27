@@ -77,7 +77,7 @@ Un coche negro desconocido está aparcado en el parking.
 [sha:1a4497fbd3eab819b302863df051ab15981d3e50]{
 -- Page 76, Offset 1354.
 -- 寒々しい空模様。
-//No me convence pero no se me ocurre otra manera
+// No me convence pero no se me ocurre otra manera
 El cielo es sombrío.
 }
 [sha:62796786e83a4cda44c7f799503e218e187c183d]{
@@ -188,7 +188,7 @@ La armoniosa cháchara es reemplazada por susurros furtivos.
 [sha:638c05920d8c2d7f4ac79376b237b1012c3b0a1a]{
 -- Page 84, Offset 1375.
 -- 朝っぱらから群がりやがって、通行の邪魔だろうが」
-Apelotonados en todo el medio desde por la mañana temprano."
+Desde pronto por la mañana ya apelotonados en todo el medio."
 }
 [sha:54815ac0ce107b7b8b64a456e188038c50db9746]{
 -- Page 84, Offset 1376.
@@ -209,8 +209,8 @@ No tengo ni que mirar para saber quién es.
 [sha:de805cfb4cd43e099fdb6bd0d7f8bfc43f6078a3]{
 -- Page 85, Offset 1379.
 -- 今朝も辛気くさい顔しやがって、まったくクソみたいなヤロウですねぇ！」
-//Tiiio (again)
-En serio, ¿alguna vez %{i}no%{/i} pareces deprimido? Menudo mierdas estas hecho."
+// Tiiio (again)
+En serio, ¿alguna vez %{i}no%{/i} pareces deprimido? Menudo mierdas eres."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 85, Offset 1380.

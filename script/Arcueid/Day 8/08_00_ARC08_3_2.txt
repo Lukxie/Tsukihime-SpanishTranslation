@@ -131,7 +131,7 @@ La clase está en caos.
 [sha:17922b454833fdfeaf57505e34e38811986c63a6]{
 -- Page 205, Offset 20172.
 -- 『っていうか誰か知り合い？いい匂いする』
-%{i}Olvidate de eso, ¿alguien la conoce? Huele bien%{/i}.
+%{i}Olvida eso, ¿alguien la conoce? Huele bien%{/i}.
 }
 [sha:3174849e6055af3c7a26fa936c55dfc7ff450b35]{
 -- Page 205, Offset 20173.
@@ -287,7 +287,6 @@ Y ahora, toca esperar...
 -- この通り、餌に釣られて破壊者が追いかけてくれば、窮地は脱したと言っていいだろう。
 Ahora que la Destructora ha mordido el cebo,
  puedo declarar que la crisis ha sido evitada.
- 
 }
 [sha:8851a8901db452b0d97fa5c8a2a599f1acc382ed]{
 -- Page 215, Offset 20203.

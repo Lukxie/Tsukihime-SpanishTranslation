@@ -69,7 +69,7 @@ La arquitectura humana está avanzando a un ritmo impresionante.
 [sha:a505850f5bc5e718df7a0ab044e7379604e31f78]{
 -- Page 368, Offset 6586.
 -- こういうのなんて言うんだっけ？　<一髪千鈞|いっぱつせんきん>？　<日進月歩|にっしんげっぽ>？
-//Matadme please, esto está adaptado totalmente ya que en español no tiene sentido sino.
+// Matadme please, esto está adaptado totalmente ya que en español no tiene sentido sino.
 ¿Cuál es el dicho que usa la gente para esto?
  ¿A %{i}toda máquina%{/i} ?
  O espera, ¿era 'un gran paso para el hombre...'?
@@ -92,7 +92,7 @@ Yo no estoy nada de humor para eso.
 [sha:fc768a2018111c2da63fb2448fd2af51afc033e5]{
 -- Page 370, Offset 6590.
 -- ここはホテルの一部屋というより、ホテルの最上階に造られた砦のようだ。
-Este lugar, más que una habitación de hotel, es una fortaleza casualmente construida en la cima de uno.  
+Este lugar, más que una habitación de hotel, es una fortaleza casualmente construida en la cima de uno.
 }
 [sha:deba44dcb89c22e80d4db5640d5d33aa0f76f47e]{
 -- Page 370, Offset 6591.
@@ -260,7 +260,7 @@ La verdad es que no estoy seguro de si es menor o no.
 [sha:fe5b29e9d5e112b1a058b5f0380ead87d4265ecc]{
 -- Page 382, Offset 6622.
 -- 「後で自分で選ぶからいい。それより―――」
-//Alternativamente cogeré o escogeré
+// Alternativamente cogeré o escogeré
 "Pillaré algo para mí más tarde. Más importante―――"
 }
 [sha:2e862d5864cdea4815a3018360a20b8b7a73372f]{
@@ -354,7 +354,7 @@ Pero tú también eres un vampiro, ¿no?"
 [sha:fd159e9e69cc3fd11b0b1b75df619cef540f27d1]{
 -- Page 389, Offset 6640.
 -- 俺が言いたいのは、どうして<吸|・><血|・><鬼|・>であるおまえが<吸|・><血|・><鬼|・>を殺すのかって事だ。それ、おかしいだろ、理屈的に」
-Lo que intento decir es que, ¿por qué un %{i}vampiro%{/i} como tú iba a ir por ahí matando %{i}otros vampiros%{/i}? No tiene ningún tipo de sentido." 
+Lo que intento decir es que, ¿por qué un %{i}vampiro%{/i} como tú iba a ir por ahí matando %{i}otros vampiros%{/i}? No tiene ningún tipo de sentido."
 }
 [sha:7e428da9e99f4f422721e84b96c2359a7751cc02]{
 -- Page 389, Offset 6641.
@@ -405,7 +405,7 @@ No tenemos el mismo sentido de camaradería que tienen los humanos."
 [sha:56c59f665424fb76f6f56419c19a1787f3d41c7e]{
 -- Page 392, Offset 6650.
 -- 「……？　じゃあその、おまえが探している吸血鬼は、おまえとは違うっていうのか？」
-"¿Eh...? Osea que, ¿significa eso que el vampiro al que buscas es uno distinto a ti?"
+"¿Eh...? O sea que, ¿significa eso que el vampiro al que buscas es uno distinto a ti?"
 }
 [sha:8121f5b63d5597133b082dff0098573b0bdfd64d]{
 -- Page 393, Offset 6651.
@@ -487,7 +487,7 @@ Así que me estas diciendo que la razón por la que me has dicho que me vuelva t
 -- Page 398, Offset 6665.
 -- あなたなんて嫌がっても盾にしてやる、逃げても<魔眼|くさり>で縛り付けてさんざん怖がらせて使い切ってやるって。
 Estaba planeando usarte como escudo lo quiseras o no.
- Si hubieses intentado huir, te habría obligado con mis Ojos Místicos y te hubiese explotado a través del miedo. 
+ Si hubieses intentado huir, te habría obligado con mis Ojos Místicos y te hubiese explotado a través del miedo.
 }
 [sha:a0589156f2e0973b21007b3165bccceaaf91a458]{
 -- Page 398, Offset 6666.
@@ -517,7 +517,7 @@ Vale, me aseguraré de recordar eso.
 [sha:a21df7e56cb456f6e7090850c040cf161f6e3ec4]{
 -- Page 400, Offset 6671.
 -- わたしね、志貴。あなたに殺されて復元するまでのあいだ、あなたは教会の人間だと思っていたの。
-¿Sabes qué Shiki? 
+¿Sabes qué Shiki?
  Desde que me mataste hasta que reviví estuve todo el tiempo bajo la impresión de que eras un miembro de la Iglesia.
 }
 [sha:ac1bda3e23e0fb30c4c98fae76d128cf080512c2]{
@@ -707,7 +707,7 @@ Miro fijamente la cara de Arcueid.
 [sha:c38ab41a702aff6f438ef9fb3b34471b6879f451]{
 -- Page 413, Offset 6707.
 -- ……ふくよかな胸が上下しているところを見ると、呼吸はしているようだ。
-//well-rounded es tan confuso que no se si quiere decir bien dotado o redondeado, en vez de eso me baso en el texto original
+// well-rounded es tan confuso que no se si quiere decir bien dotado o redondeado, en vez de eso me baso en el texto original
 Juzgando por el por el suave ascenso y descenso de su pecho bien dotado, parece que aún respira.
 }
 [sha:c176751911a02f8761552fe69dfb1353b8f41d97]{

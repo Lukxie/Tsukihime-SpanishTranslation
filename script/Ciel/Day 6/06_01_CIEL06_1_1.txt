@@ -1,42 +1,43 @@
 [sha:1e2bbef0a649bb39ef95e2f650878c513c817c11]{
 -- Page 10002, Offset 13243.
 -- 「……そうだな。それが一番いいと思う」
--- TRANSLATION HERE
+"Sí... creo que es la mejor forma de hacerlo."
 }
 [sha:1939f27b3edaafd33e253b19a8d597046532a868]{
 -- Page 38, Offset 13244.
 -- アルクェイドやヴローヴについて話す事はできない。
--- TRANSLATION HERE
+No puedo mencionar a Arcueid o a Vlov.
 }
 [sha:3c70b27b258a8f8f0286ff8958e25bb01b661f7a]{
 -- Page 38, Offset 13245.
 -- 通じる筈がないし、アレは関わってはいけないものだ。
--- TRANSLATION HERE
+// Aunque bajo ningun concepto puedo decirla la verdad, al menos puedo disculparme por mis faltas.
+No es vaya a entenderlo, y no quiero involucrarla.
 }
 [sha:446d91e66b9de31fabaf7fcb25689db4620f2940]{
 -- Page 38, Offset 13246.
 -- どうあっても真実は話せない以上、せめて、こちらの落ち度を素直に謝ろう。
--- TRANSLATION HERE
+Aunque bajo ningún concepto puedo contar la verdad, al menos puedo disculparme por mis faltas.
 }
 [sha:a08fad88c7e939b55e7c0584146ede879e48f446]{
 -- Page 39, Offset 13247.
 -- 「―――よし、行くぞ」
--- TRANSLATION HERE
+"Muy bien... allá voy."
 }
 [sha:a50d6709065217dc698d55589b4839df8972d455]{
 -- Page 39, Offset 13248.
 -- 大きく深呼吸をして、居間に通じる扉を開けた。
--- TRANSLATION HERE
+Respiro hondo, y abro la puerta a la sala de estar.
 }
 [sha:3860667e07cc1bf696ac5dc4acd5a7d1f809d954]{
 -- Page 40, Offset 13249. Mods: @n.
 -- 「おはようございます、
--- TRANSLATION HERE
+"Buenos días,
 }
 [sha:6e5e3dd0a214cb76b457afe2d9b9bc12cbc27e5f]{
 -- Page 40, Offset 13250. Glued.
 -- 兄さん。
--- TRANSLATION HERE
+Nii-san.
 }
 [sha:de6fd6b9a1e4a45e7cdd328308b95a05363de5ea]{
 -- Page 40, Offset 13251. Mods: @n.
@@ -61,17 +62,17 @@
 [sha:3f213fe2beb3d3381fde4a326b1174514e1d396a]{
 -- Page 41, Offset 13255.
 -- 「や、やあ。おはよう、秋葉」
--- TRANSLATION HERE
+"E-Ey. Buenos días, Akiha."
 }
 [sha:78ed28e0d5954a9b93e07c6c3b309d0978c1dc9e]{
 -- Page 41, Offset 13256.
 -- 「挨拶は結構ですから、そこに座ってください。
--- TRANSLATION HERE
+"No hacen falta saludos, así que por favor siéntate ahí.
 }
 [sha:3d71527e93e74f3b6116a51907d9220ed1a20ffa]{
 -- Page 41, Offset 13257.
 -- ええ、色々と長くなる筈ですものねぇ？」
--- TRANSLATION HERE
+Sí... tenemos mucho que hablar, ¿no crees?"
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
 -- Page 42, Offset 13258.
@@ -96,17 +97,17 @@
 [sha:7e109568eb6ca5bf652c507e7f838e66029a165b]{
 -- Page 43, Offset 13262.
 -- 「―――兄さん？」
--- TRANSLATION HERE
+"¿―――Nii-san?"
 }
 [sha:860535f5be59320295b1dc77663d238e4f192b0d]{
 -- Page 43, Offset 13263.
 -- 「お、おう、座りますとも！」
--- TRANSLATION HERE
+"¡S-Sí, ya me siento!"
 }
 [sha:6a69fffcea9af62a92df679db6528d59a073b8c0]{
 -- Page 43, Offset 13264.
 -- 逃げよう、なんて甘い考えは秋葉のひと睨みで霧散した。
--- TRANSLATION HERE
+Una sola mirada de Akiha es suficiente para fulminar cualquier pensamiento de escapar.
 }
 [sha:dc69105b05d8883dd1d669297b42e1e78cf4c568]{
 -- Page 44, Offset 13265.
@@ -116,17 +117,20 @@
 [sha:373c5ecd44290218da13910f2c801358b556696e]{
 -- Page 45, Offset 13266.
 -- 「座りましたよ」
--- TRANSLATION HERE
+"Ya me he sentado."
 }
 [sha:fed8f13e40a1db49cfd7c302e600b6b498452d9f]{
 -- Page 45, Offset 13267.
 -- 「言わずとも分かります。……妙な態度でこちらの気勢を殺がないでください。卑怯です」
--- TRANSLATION HERE
+// De la tl oficial.
+"Sí, puedo verlo...
+ Por favor no le quites seriedad a la conversación con esa extraña actitud. No es justo."
 }
 [sha:45bf036b03eebb2e5d250fbfc8202d2e56746199]{
 -- Page 46, Offset 13268.
 -- 「？　なんで卑怯なんだ？」
--- TRANSLATION HERE
+// De la tl oficial.
+"¿Injusto? ¿Cómo?"
 }
 [sha:84255c3b15e88d7018db00d48a81719184862361]{
 -- Page 46, Offset 13269. Mods: @k, @e.
@@ -136,37 +140,38 @@
 [sha:747723da481d261e0475d2588fe3e83ac82bb003]{
 -- Page 46, Offset 13270. Glued. Mods: @x.
 -- コホン」
--- TRANSLATION HERE
+%{i}Ahem%{/i}."
 }
 [sha:139afc700fd881ccb02bf9a1d0da6c307d16fab9]{
 -- Page 46, Offset 13271.
 -- ううん、と咳払いをして<言|げん>を止めると、秋葉はいっそう鋭い視線で俺を睨んだ。
--- TRANSLATION HERE
+// De la tl oficial.
+Akiha para a mitad de frase con un tosido, y entonces afila aún más su mirada.
 }
 [sha:87439d2a77c6227a9bd907a57f75a2bff5373a08]{
 -- Page 47, Offset 13272.
 -- 「兄さん。早速ですが、一昨日と昨日のお話を聞かせていただけませんか？」
--- TRANSLATION HERE
+"Nii-san. Sé que es repentino, ¿pero te importaría elucidarme qué has estado %{i}precisamente%{/i} haciendo ayer y antes de ayer?"
 }
 [sha:a7787b45281316ba94f68a558a28fd1c46d57656]{
 -- Page 47, Offset 13273.
 -- 優雅に言いつつ、ティーカップを手に取る秋葉。
--- TRANSLATION HERE
+Exponiendo elocuentemente sus demandas, Akiha toma su taza de té.
 }
 [sha:61c77e66e63c6f1f77aa0ab75690dea78acd218c]{
 -- Page 47, Offset 13274.
 -- 聞かせていただけませんか、などと言っているものの、間違いなく命令だ。
--- TRANSLATION HERE
+Aunque lo que dijo era una pregunta, no hay duda que en realidad era una orden.
 }
 [sha:9ae45df4bee91d4f30cffa3a807604eb9b2b01df]{
 -- Page 48, Offset 13275.
 -- だが、兄としてそんなお話を聞かせてあげる訳にはいかない。秋葉に心配をかけるぐらいなら、嫌われた方がマシだ。
--- TRANSLATION HERE
+Pero, como hermano mayor, no puedo dejar que escuche lo que ocurrió. Prefiero que me odie a que se preocupe por mi.
 }
 [sha:248ff294591eb4498f00da10a9e697da68bfa495]{
 -- Page 49, Offset 13276.
 -- 「それなんだけど、秋葉」
--- TRANSLATION HERE
+"Sobre eso, Akiha."
 }
 [offset:13277]{
 -- Page 49, Offset 13277.
@@ -176,17 +181,18 @@
 [sha:be310cb3f1d3773317c2a8d871afd3e148f32519]{
 -- Page 49, Offset 13278.
 -- 「率直に言って、事情は説明できないんだ」
--- TRANSLATION HERE
+"Te seré directo.
+ No puedo decirte que pasó,"
 }
 [sha:642131504dd321d81753578edfa1052235d8d3c0]{
 -- Page 50, Offset 13279.
 -- かちゃん。
--- TRANSLATION HERE
+%{i}Crac%{/i}.
 }
 [sha:f810551deb156beedbe98ae98ae5f91cc9515f47]{
 -- Page 50, Offset 13280.
 -- と、秋葉の持っていたティーカップがテーブルに落ちた。
--- TRANSLATION HERE
+La taza de té que Akiha sujetaba se ha caído a la mesa.
 }
 [sha:92b2608e1c7e2123781ef2ec230b40f282f32a80]{
 -- Page 50, Offset 13281.
@@ -196,12 +202,12 @@
 [sha:21cb5e69dce8b92120f89931cb8c358732cf7012]{
 -- Page 51, Offset 13282.
 -- 「秋葉さま―――」
--- TRANSLATION HERE
+"Akiha-sama―――"
 }
 [sha:5ea4c73710872860c1a7443fbb4202727d62e9a0]{
 -- Page 51, Offset 13283.
 -- 「ああ、ごめんなさい翡翠。片付けてもらえる？」
--- TRANSLATION HERE
+"Oh, mis disculpas, Hisui. ¿Podrías limpiar esto?"
 }
 [sha:cc12226b1bef68e28f590fad059098d285de8a79]{
 -- Page 52, Offset 13284.
@@ -221,17 +227,17 @@
 [sha:0ba55ef5dbca8f2bf5d62653a050fc0804f89c7a]{
 -- Page 53, Offset 13287.
 -- 「―――それで、兄さん」
--- TRANSLATION HERE
+"―――Entonces, Nii-san."
 }
 [sha:68dc30bcee06ae050d3267b903ddfe1dc3e22d0c]{
 -- Page 53, Offset 13288.
 -- 「……なに？」
--- TRANSLATION HERE
+"¿Qué...?"
 }
 [sha:e31a4f53cc18c4a2e33db537c1d63a198b17fc90]{
 -- Page 53, Offset 13289.
 -- 「この二日間の出来事を、詳しく話していただけますか？」
--- TRANSLATION HERE
+"¿Serías tan amable de contarme lo que ha pasado estos dos últimos días?"
 }
 [sha:6d71b4057b4581c5801469a79ab9c57de4b6ef3e]{
 -- Page 54, Offset 13290.
@@ -246,17 +252,17 @@
 [sha:305dd6e6779f8a156cd7afc9348e865a10516f34]{
 -- Page 55, Offset 13292.
 -- ……それでも、事情を話す事はできない。
--- TRANSLATION HERE
+Pero aún así, no puedo decirle a Akiha lo que ocurrió.
 }
 [sha:d43d2fba2183d3b185342543a9b6e6e840a05468]{
 -- Page 55, Offset 13293.
 -- 自分の為でもあるが、秋葉にあんな、
--- TRANSLATION HERE
+Incluso si es la única manera de librarme.
 }
 [sha:d24e305c477be96655d1d669848dda3b36294d37]{
 -- Page 55, Offset 13294.
 -- あんな話を、聞かせる訳にはいかなかった。
--- TRANSLATION HERE
+No hay forma de que la deje oír tal historia.
 }
 [sha:f9d3d923295450f306b93c99b259db6729381c48]{
 -- Page 56, Offset 13295.
@@ -266,42 +272,43 @@
 [sha:dd2ec178c011f0925723cebf6eaaf6935a3b1614]{
 -- Page 57, Offset 13296.
 -- 「私に悪い、と思っているのに話せないんですね、兄さんは。
--- TRANSLATION HERE
+"O sea que afirmas sentirte mal, pero aún así no lo explicas, Nii-san.
 }
 [sha:cff15985a9a4bd7e011b00a5e83537908cb24cc6]{
 -- Page 57, Offset 13297.
 -- 弁明もしないのですか？」
--- TRANSLATION HERE
+¿Ni siquiera tienes una excusa?"
 }
 [sha:9bc63430c358a6d95b9ec057021466a59d969deb]{
 -- Page 58, Offset 13298.
 -- 「……いや、それは……」
--- TRANSLATION HERE
+"Ah... bueno..."
 }
 [sha:b039b0455ce383fe3d2f30232f96810d8bba92a0]{
 -- Page 58, Offset 13299.
 -- 弁明したいのは山々だけど、
--- TRANSLATION HERE
+Por mucho que quiera explicarlo―――
 }
 [sha:3939ac972fe9716d9661ea24db1f4017bab378c9]{
 -- Page 58, Offset 13300.
 -- 「いいわけのしようがないので……。
--- TRANSLATION HERE
+"No tengo una buena excusa...
 }
 [sha:8b54b27047374230ba6530bcbe03838c9d7bd9ab]{
 -- Page 58, Offset 13301.
 -- でもこの二日間、悪い事はしていない。……そう信じたい」
--- TRANSLATION HERE
+Pero no hice nada malo estos últimos dos días.
+ Al menos, eso es lo que quiero creer."
 }
 [sha:67eeb400c4b17a272216a2b47ef8a38a5281de4e]{
 -- Page 59, Offset 13302.
 -- ……そうだ。殺したり殺されたり、そんな事しかなかった二日間だった。
--- TRANSLATION HERE
+Sí... los últimos dos días no fueron más que matar o morir.
 }
 [sha:6786cdcd3837329311efff22cd3fd458a4cec376]{
 -- Page 59, Offset 13303.
 -- けど、あれは正しい選択だったと信じたい。
--- TRANSLATION HERE
+Pero, quiero creer que tomé la decisión acertada.
 }
 [sha:f393dc767d4299757995aa93373f9e836df771ab]{
 -- Page 60, Offset 13304.
@@ -311,17 +318,17 @@
 [sha:a7f08d31d8d111e5243f1ec3c6f300732ca1f472]{
 -- Page 60, Offset 13305.
 -- 致命的に間に合わなかったとしても、もうこの先、血を吸われて殺される“誰か”はいなくなったのだから。
--- TRANSLATION HERE
+Quizá no actué lo suficientemente rápido, y eso haya costado vidas, pero al menos de ahora en adelante, nadie morirá porque le chupen la sangre.
 }
 [sha:f4d5a451cc993d0fd0a2a71e8493d21f0da0dc4d]{
 -- Page 61, Offset 13306.
 -- 「……ごめんな、秋葉。
--- TRANSLATION HERE
+"Lo siento, Akiha.
 }
 [sha:2208b046f7dfb8a6c68e6df9541bdc9f81b1cd01]{
 -- Page 61, Offset 13307.
 -- 迷惑をかけるけど、これ以上は訊かないでくれ」
--- TRANSLATION HERE
+Se que es frustrante, pero por favor no hagas más preguntas."
 }
 [sha:f0dd4a6a183c39fe5dad0df55f71db7a3d60ca20]{
 -- Page 61, Offset 13308.
@@ -331,27 +338,31 @@
 [sha:45f42ef9a3ab1f5143e63171c0b883588a29a87a]{
 -- Page 61, Offset 13309.
 -- 秋葉はじっと俺の目を見つめてくる。
--- TRANSLATION HERE
+Akiha me mira fijamente a los ojos.
 }
 [sha:3e10a32208e5e268f384da29415337ec0bdd4428]{
 -- Page 61, Offset 13310.
 -- しばらく、そんな息苦しい時間が続いた。
--- TRANSLATION HERE
+// De la tl oficial.
+Un silencio incómodo llena la sala.
 }
 [sha:bfe99f3deca821b7a911507042b275f8891093ed]{
 -- Page 62, Offset 13311.
 -- 「そうですね。
--- TRANSLATION HERE
+// De la tl oficial.
+"Lo entiendo.
 }
 [sha:79a26022e7efd330528344b7c4062e5d82370773]{
 -- Page 62, Offset 13312.
 -- 考えてみれば兄さんにも事情があるのでしょうし、私がそれに深く干渉する事はできませんものね」
--- TRANSLATION HERE
+// De la tl oficial.
+Es natural que haya asuntos que prefieras mantener privados, y no me corresponde interferir. "
 }
 [sha:fddc666f51a3a170f7b569353dca359262a836f3]{
 -- Page 62, Offset 13313.
 -- 「……悪い。そう言ってもらえると、助かる」
--- TRANSLATION HERE
+// De la tl oficial.
+"Lo siento... Pero me alivia oírte decir eso."
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 62, Offset 13314.

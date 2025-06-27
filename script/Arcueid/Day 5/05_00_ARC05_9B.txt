@@ -59,11 +59,10 @@ La muerte roza mi sien.
 [sha:ba0ce40d643c75f3d41767d28f9dd87fbd0abad8]{
 -- Page 608, Offset 10271.
 -- 飛んでくる氷塊にナイフを合わせる。人間とて野生の獣。その程度の動体視力と反応速度は遙か昔に備わっている。
-//Un mix de ambas traducciones
+// Un mix de ambas traducciones
 Blando el cuchillo para interceptar cada proyectil.
  El humano no es más que una bestia salvaje.
  Hemos poseído agudos reflejos e instintos desde tiempos inmemoriales.
- 
 }
 [sha:b369eb1df6e15ca5b92d0d601e0886e064372652]{
 -- Page 609, Offset 10272.
@@ -403,7 +402,7 @@ El epicentro de muerte que trasciende las líneas.
 [sha:7dcd4a1c96a055fb097c519c83453c55bbace3b5]{
 -- Page 628, Offset 10334.
 -- あの点こそが、線を生み出す死の極点だと。
-El punto que debe ser el orígen que da lugar a los garabatos.
+El punto que debe ser el origen que da lugar a los garabatos.
 }
 [sha:257991672e9596e72081c6b3651d2e248956d86b]{
 -- Page 629, Offset 10335.
@@ -569,7 +568,7 @@ Sabía que es una criatura absurda,
 -- Page 635, Offset 10366.
 -- アルクェイドは片手を地面にめり込ませ、ショベルで地面をすくうように土塊を持ち上げた。
 Arcueid sumerge su mano en los escombros y levanta un trozo de suelo,
- como si lo estuviera recogiendolo con una pala.
+ como si lo estuviera recogiendo con una pala.
 }
 [sha:1c1bdb5141eefd033c545938ebc034ad05e4ed4f]{
 -- Page 636, Offset 10367.
@@ -661,18 +660,18 @@ Solo hay una forma de acercarse, y es―――
 [sha:821abfcb90bf6332464cf07fd40338be40513e72]{
 -- Page 643, Offset 42621. Choice.
 -- ……投擲だ。
-//Me baso en la tl oficial
+// Me baso en la tl oficial
 Lanzado.
 }
 [sha:0af47ce94447969d3bd6fa2daf1dd4b3fa54723e]{
 -- Page 643, Offset 42622. Choice.
 -- ……滑走だ。
-//Me baso en la tl oficial
+// Me baso en la tl oficial
 Deslizándome.
 }
 [sha:b9c1e6b5cb88bbfe4b1771b6b40b8edcf91f7b78]{
 -- Page 643, Offset 42623. Choice.
 -- ……牽引だ。
-//Me baso en la tl oficial
+// Me baso en la tl oficial
 Arrastrarlo.
 }

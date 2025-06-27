@@ -359,7 +359,7 @@ Quizá sea un efecto secundario de tus Ojos Místicos de Percepción Mortal,
 [sha:e3713c00e3732b6daa8c7ba1467ebdbf28bc9af8]{
 -- Page 260, Offset 22013.
 -- だから、あなたの貧血とやらは『前も大丈夫だったから今回も大丈夫』なんていうものじゃない」
-Por eso no puedes simplemente achacarlo a tu anemia y pensar 'la última vez no pasó nada, osea que esta vez tampoco'."
+Por eso no puedes simplemente achacarlo a tu anemia y pensar 'la última vez no pasó nada, o sea que esta vez tampoco'."
 }
 [sha:2d78df2b8bea1b75dfea2bef1590844ce5e7811d]{
 -- Page 261, Offset 22014. Mods: @n.

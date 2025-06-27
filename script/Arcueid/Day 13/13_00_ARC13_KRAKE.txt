@@ -340,7 +340,7 @@ Solo fueron unos segundos de retraso, pero la han salido caros.
 [sha:485bf81f634ebf00686001eadbc16273dbeb8259]{
 -- Page 279, Offset 32442.
 -- シエルはロア暗殺の機会を逃した事を悟り、
-Percatandose de que ha perdido su oportunidad de asesinar a Roa―――
+Percatándose de que ha perdido su oportunidad de asesinar a Roa―――
 }
 [sha:9ff6de84afc9c5bfe5553da0afb608f7b0c2517a]{
 -- Page 280, Offset 32443.
@@ -388,7 +388,7 @@ Al reconocer la peste a Apóstol Muerto que emiten, Ciel consigue recuperar la c
 [sha:bd72dc27e4af04c6aa66295531d6f8e71f0a1ceb]{
 -- Page 284, Offset 32451.
 -- 「新種の<屍鬼|グール>、なんですね……！」
-"¡Osea que es una nueva especie de Ghoul!"
+"¡O sea que es una nueva especie de Ghoul!"
 }
 [sha:b7f32a81b310296f629f7c1c8ece4959c64a4064]{
 -- Page 284, Offset 32452.

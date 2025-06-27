@@ -73,10 +73,10 @@
 -- でも代行者がいるかぎり、そんなマネをしたらすぐに見つかって処理されるわ。だから代行者がいる以上、上級の死徒は中々尻尾をださないの。<代|ア><行|イ><者|ツ>らは死者狩りには便利だけど、同時に上級の死徒を警戒させる厄介者なのよ」
 -- TRANSLATION HERE
 }
-[offset:16010]{
+[sha:5599af88891f6a10c967bbece2e2a2b0af4a0991]{
 -- Page 504, Offset 16010.
 -- ……なるほど。
--- TRANSLATION HERE
+Ya veo...
 }
 [sha:e7b1166fd6055fe39c19a0819e571d3a5c8b8ee5]{
 -- Page 504, Offset 16011.
@@ -296,7 +296,7 @@
 [sha:aa523c5fc0a0c0385a748bc8e09df48abba2a3dd]{
 -- Page 525, Offset 16054.
 -- ―――それは、住宅地のただ中にあった。
--- TRANSLATION HERE
+Hemos llegado al complejo de apartamentos en medio del vecindario.
 }
 [sha:a59d31d2f8f47f2429589133fe0d4f8d9eae6f50]{
 -- Page 525, Offset 16055.
@@ -326,12 +326,12 @@
 [sha:40fbacbab297c4bab8710022dfd0a6adc268fe03]{
 -- Page 526, Offset 16060.
 -- 「眼鏡を外してって……なんで？」
--- TRANSLATION HERE
+"¿Quitarme las gafas...? ¿Por qué?"
 }
 [sha:2b660872b32cf8952e4b7bfcb8af2acf8bb582ea]{
 -- Page 527, Offset 16061.
 -- 「その方が確実だから。
--- TRANSLATION HERE
+"Porque así podremos asegurarnos.
 }
 [sha:fb80a06555008ef1a6829c8a4659f8d0fdf512fe]{
 -- Page 527, Offset 16062.
@@ -366,7 +366,7 @@
 [sha:13e148b8bd8fa88138207bce0cced46136f45da2]{
 -- Page 528, Offset 16068.
 -- 協力すると言ったのはこっちだし、断る理由はない。
--- TRANSLATION HERE
+Fui el primero en sugerir que cooperaremos, no tengo razón para negarme.
 }
 [sha:5f7d2654a4be29cffe31089cc515a6049945f599]{
 -- Page 529, Offset 16069.
@@ -401,12 +401,12 @@
 [sha:4a78e660f84c7914b78f44cfc26a0317b583a5be]{
 -- Page 531, Offset 16075.
 -- 線を視る。
--- TRANSLATION HERE
+Puedo ver las líneas.
 }
 [sha:fb94bce9c607453b5d0c9a3c839ef7f20b4e4ebe]{
 -- Page 531, Offset 16076.
 -- 脳にかかる重みに吐きそうになる。
--- TRANSLATION HERE
+El estrés que supone para mi cerebro hace que quiera vomitar.
 }
 [sha:288cb2eeb24c94c839cdbbcd301f7ed91b122a9d]{
 -- Page 531, Offset 16077.
@@ -421,17 +421,18 @@
 [sha:f3b4190f8287f49ab256912d8d845624538b2a5b]{
 -- Page 533, Offset 16079.
 -- 「―――そう。やっぱりアタリね」
--- TRANSLATION HERE
+"Ya veo. Tenía razón sobre este, eh."
 }
 [sha:8957dd8989db31a42820d060db4b6a5c85328f83]{
 -- Page 533, Offset 16080.
 -- アルクェイドはマンションの入り口ではなく、地下ガレージに続く坂に向かった。
--- TRANSLATION HERE
+En vez de dirigirse a la entrada del complejo,
+ Arcueid baja la cuesta hacia un garaje subterráneo.
 }
 [sha:63d8611fc02aa99142b692965b261bf743548177]{
 -- Page 533, Offset 16081.
 -- 地下ガレージの入り口にはシャッターが下りている。
--- TRANSLATION HERE
+La entrada está protegida por una puerta corredera.
 }
 [sha:59156ac990d2739660127b57a0a55502f5022ca7]{
 -- Page 534, Offset 16082.
@@ -446,22 +447,22 @@
 [sha:923e1ce83b4ea1eda3726bc6635c778d86635b87]{
 -- Page 535, Offset 16084.
 -- 屈んでシャッターの縁に手をかけるアルクェイド。
--- TRANSLATION HERE
+Arcueid se agacha y agarra el borde de la puerta corredera.
 }
 [sha:e247f5d29699287663f152676d7d5daa0ce0553a]{
 -- Page 535, Offset 16085.
 -- そのまま一気に引き上げるかと思いきや―――
--- TRANSLATION HERE
+Pensaba que la iba a levantar de una, pero―――
 }
 [sha:7e671b974a5f0ca1ad48fb6bad7ec3de6e4d4a07]{
 -- Page 536, Offset 16086.
 -- 「志貴。このシャッター、切れる？」
--- TRANSLATION HERE
+"Shiki. ¿Puedes cortar la puerta?"
 }
 [sha:a7aacc2612d47f47e3bcc1eba2ec6e9760dd3177]{
 -- Page 536, Offset 16087.
 -- 「そりゃ切れるけど……いいのか？」
--- TRANSLATION HERE
+"Sí, claro, pero... ¿estás segura?"
 }
 [sha:1cb9009e414623496ffadd3e1b1575e8ff20c4a4]{
 -- Page 536, Offset 16088.
@@ -476,47 +477,47 @@
 [sha:ee1f3b956f460ef3ae3b3a172bf51fa8495466f0]{
 -- Page 537, Offset 16090.
 -- いざ実行という段になるとアルクェイドは冷静だ。
--- TRANSLATION HERE
+Arcueid es bastante buena manteniendo la cabeza fría bajo presión.
 }
 [sha:f50291443e46e7b2b89258dc5527ffe7ec082212]{
 -- Page 538, Offset 16091.
 -- シャッターの“線”を断つ。
--- TRANSLATION HERE
+Corto las 'líneas' de la puerta.
 }
 [sha:8f0240b5274fba95dcd78602e4cd158e96d0c9f5]{
 -- Page 538, Offset 16092.
 -- ざらん、と音をたてて、鉄の扉がコンクリートの床に落ちる。
--- TRANSLATION HERE
+El trozo cae al suelo de cemento emitiendo un sonido metálico.
 }
 [sha:422ed06a89cd4a40f01f64dba729122b7ce760c7]{
 -- Page 538, Offset 16093.
 -- 切り取ったシャッターの隙間から、黒々とした闇を覗きこむ。
--- TRANSLATION HERE
+Me asomo a la oscuridad total por el hueco de la puerta.
 }
 [sha:9a2c9d606175a8643b05ea4f33b68add623734e8]{
 -- Page 539, Offset 16094.
 -- 「なんだ、この匂い……!?」
--- TRANSLATION HERE
+"¡¿Qué demonios es este olor?!"
 }
 [sha:4daff2e5b0fe9e89c7b485cde26efdbc903e5c5d]{
 -- Page 539, Offset 16095.
 -- 鼻を突く異臭。
--- TRANSLATION HERE
+El olor es repulsivo.
 }
 [sha:a260da53c82bd18fed351db269bba1b9aaf9a477]{
 -- Page 539, Offset 16096.
 -- ガレージの中はすえた肉の匂いと、濃厚な血の匂いで満ちていた。
--- TRANSLATION HERE
+El garaje apesta a carne podrida y el aire está cargado de un aroma a sangre.
 }
 [sha:83c6628429bc79ce2e9b0d83651cfe4f43b604bb]{
 -- Page 540, Offset 16097.
 -- 中にうごめく“線”の塊たち。
--- TRANSLATION HERE
+Se forma un grupo, cada miembro del mismo es un amasijo de líneas.
 }
 [sha:3443b34f22a46229e3d600db414805835abb87d0]{
 -- Page 540, Offset 16098.
 -- シャッターを切り崩した事で、俺たちという来訪者に気がついたのだろう。
--- TRANSLATION HERE
+Deben haber notado la presencia de visitantes en cuanto corté la puerta.
 }
 [sha:b4d8db57ab8616a740fcc5a1fe955dbae3fa90e3]{
 -- Page 540, Offset 16099.
@@ -623,10 +624,10 @@
 -- 「は―――ハ」
 -- TRANSLATION HERE
 }
-[offset:16120]{
+[sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
 -- Page 547, Offset 16120.
 -- だから。
--- TRANSLATION HERE
+Es por eso que―――
 }
 [sha:ab1fd004aa26c0959cbd7105c7f0df95474ea6d0]{
 -- Page 547, Offset 16121.
@@ -656,12 +657,12 @@
 [sha:9119523335fa41bebb40ca78cd4474b492816ccf]{
 -- Page 549, Offset 16126. Mods: @k, @e.
 -- 「―――――、
--- TRANSLATION HERE
+"―――
 }
 [sha:82b63e085d28fb747d955dd57fe8cd1fe47efbcd]{
 -- Page 549, Offset 16127. Glued. Mods: @x.
 -- あ」
--- TRANSLATION HERE
+Ah."
 }
 [sha:dffbb166525176658ccc8b0c863b9932a2bbf2c4]{
 -- Page 549, Offset 16128.
@@ -686,7 +687,7 @@
 [sha:8c9c3cbfd585a8a10f7941e392d84f1bfcd56499]{
 -- Page 551, Offset 16132.
 -- 「アル―――クェイド？」
--- TRANSLATION HERE
+"¿Ar――cueid?"
 }
 [sha:0133a921cd65114d93ce87e582f40d6ed84cda7d]{
 -- Page 552, Offset 16133.
@@ -971,7 +972,7 @@ Yo...
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 576, Offset 16189.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:ba5e4b82c6229e2fb956aafcd6fca73f3d06297c]{
 -- Page 576, Offset 16190.

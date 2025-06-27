@@ -308,10 +308,10 @@
 -- ……そうなってしまったら、貴方はわたしと同じ扱いを受ける事になる。死んだ方がマシな扱いを、されてしまう。
 -- TRANSLATION HERE
 }
-[offset:36510]{
+[sha:8bff0d75936c49222070ad8695c2e6b6d88a1a33]{
 -- Page 425, Offset 36510.
 -- だから―――」
--- TRANSLATION HERE
+Es por eso que―――"
 }
 [sha:5507f197f864e4339ad0a86751cc782d054072a1]{
 -- Page 426, Offset 36511.

@@ -369,7 +369,7 @@ Algo sobre una contramedida, y reconstruir su cuerpo con antelación.
 [sha:da628bf86759c418595200c6228b65465946ccdc]{
 -- Page 488, Offset 9895.
 -- ヴローヴの炎をものともしない白と黒の<戦闘衣装|ドレスコード>。
-//No se porque lo llama dress code pero no hay localización en español y además es literalmente un codigo mistico xd
+// No se porque lo llama dress code pero no hay localización en español y además es literalmente un codigo mistico xd
 Las llamas de Vlov no significan nada para ella en ese atavío de combate.
 }
 [sha:d5fb3c5bed963689df7634ee1428a21ba6ebaf15]{
@@ -544,7 +544,7 @@ Hiedra verde se entrelaza alrededor de sus piernas.
 [sha:3466a8660029d771d7202e54ded8c41d2f53b1b5]{
 -- Page 499, Offset 9929.
 -- 瓦礫の下から芽を出した蔦は凄まじい速度で成長し、ヴローヴの足を捕らえ、瓦礫の地面まで引き戻した。
-La hiedra brota de los escombros a una velocidad de vértigo, 
+La hiedra brota de los escombros a una velocidad de vértigo,
  agarra a Vlov por los pies, y le arrastra a la tierra.
 }
 [sha:6eb9a2ebfeb45ea1e25ada6ab401772b0d694e46]{

@@ -12,13 +12,13 @@ No estoy seguro si en mi estado podré ir cuesta abajo,
 [sha:2d96a70079ea8d4a42771b39f254a2bd93cf3bc1]{
 -- Page 307, Offset 14667. Mods: @n.
 -- 「少し出てくる」と声をかけると、
-//Tl oficial
+// Tl oficial
 Le digo a Hisui que voy a salir un rato,
 }
 [sha:41513eee81a730a2de0ee114a8fb2639b095fd23]{
 -- Page 307, Offset 14669. Glued.
 -- 律儀に玄関まで見送りにきてくれた。
-//Tl oficial
+// Tl oficial
  y me acompañó responsablemente hasta la puerta principal para despedirme.
 }
 [sha:a30c55a06f802e44ecbace8df2088de0694083d7]{
@@ -44,7 +44,7 @@ Hisui hace una profunda reverencia.
 [sha:7fe0f0922a182c0cf50fc2cc1ebb671b56fe47e6]{
 -- Page 309, Offset 14674.
 -- それに照れくさいものを感じつつ、玄関を後にした。
-//Tl oficial
+// Tl oficial
 Avergonzado por las formalidades, me despido.
 }
 [sha:5916fe27d7dc9044fd2494fdc516cf9ce5977fd8]{
@@ -171,7 +171,7 @@ Me levanto, pensando que la he visto,
 [offset:14698]{
 -- Page 317, Offset 14698.
 -- 「―――って、なんだそれ」
-//Tl oficial
+// Tl oficial
 "―――De verdad, ¿qué narices hago aquí?"
 }
 [sha:7ad3edd863d7cdb3da9cf66709765c72d6af5141]{
@@ -199,8 +199,8 @@ No tiene sentido malgastar mi tiempo así.
 [sha:1326f8fe6d583fb89e5df5e15e42964357b3ef78]{
 -- Page 318, Offset 14703.
 -- 「……だよな。もともとそういう関係だし、もうあんな無茶をしなくていいかと思うと、せいせい―――」
-//Tl oficial
-Ese era nuestro acuerdo desde el principio. 
+// Tl oficial
+Ese era nuestro acuerdo desde el principio.
  En todo caso, me alegro no tener que lidiar más con―――"
 }
 [offset:14704]{
@@ -232,7 +232,7 @@ Entre ellos hay lamento, e incluso un afecto persistente.
 [sha:48a8515432980fb27a331072bf742ea91da7b8d6]{
 -- Page 320, Offset 14709.
 -- 厄介ごとしか持ちこまないヤツだったけど、それでも少しは……まあ、一緒にいられて楽しかったんだし。
-No me dió más que problemas, pero aún así... fue divertido pasar tiempo con ella.
+No me dio más que problemas, pero aún así... fue divertido pasar tiempo con ella.
 }
 [sha:fb9438b7ec028696e485a90f3b91f44ba17fcb52]{
 -- Page 321, Offset 14710.
@@ -267,7 +267,7 @@ Las heridas de anoche aún permanecen en mi pierna.
 [sha:6f5ffaede62314d624d199076066cfa855bf72cc]{
 -- Page 322, Offset 14716.
 -- 熱を冷ますように頭を振って、ありもしないアルクェイドの幻に背を向けた。
-//mix de tls
+// mix de tls
 Sacudo la cabeza para enfriar mis pensamientos,
  y dejo atrás tanto a la ciudad como a las visiones de Arcueid.
 }

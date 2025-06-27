@@ -25,7 +25,7 @@ Cuando Arcueid se presentó me quedé en shock,
 [sha:0c408495b7e256038f9983abee56cd27dc4a6dd0]{
 -- Page 22, Offset 21373.
 -- 昨夜の出来事はすべて夢だった、と言われたら、よろこんでその嘘にのっかる程だ。
-Si alguien me hubiese dicho que lo que pasó ayer era un sueño, seguramente me lo habría creído. 
+Si alguien me hubiese dicho que lo que pasó ayer era un sueño, seguramente me lo habría creído.
 }
 [sha:bc2cdd35267c41b7c2e3ebfdce56139b2fe00b18]{
 -- Page 23, Offset 21374.

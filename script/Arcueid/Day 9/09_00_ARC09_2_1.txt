@@ -24,7 +24,7 @@ Como se especializa en cirugía, haré que examine mis heridas.
 -- Page 49, Offset 21439.
 -- 昨夜、ノエル先生とのいざこざでどこか内出血しているかもしれないし、念のため診察してもらうのもいい。
 También cabe la posibilidad de que la reyerta de anoche con Noel-sensei me dejara algún hematoma grave,
- así que no estaría de menos comprobarlo para estar seguros. 
+ así que no estaría de menos comprobarlo para estar seguros.
 }
 [sha:5f478d054b2411b78b28fc9a3bd0e0b2f9fbaaba]{
 -- Page 50, Offset 21440.

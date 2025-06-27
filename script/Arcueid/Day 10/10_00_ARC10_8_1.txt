@@ -41,7 +41,7 @@ El yo que se preocupa por esta mujer pasa a un segundo plano.
 [sha:5f753a79e6940f5aa6b4ee61f02470e933e05b26]{
 -- Page 854, Offset 26721.
 -- 『―――ああ』
--- TRANSLATION HERE
+"―――%{i}Aaah%{/i}."
 }
 [sha:ee4a8d67f7c27a0dacd3a69f533e6ccf2c190927]{
 -- Page 855, Offset 26722.

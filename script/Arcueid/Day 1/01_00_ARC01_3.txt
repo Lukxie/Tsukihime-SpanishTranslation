@@ -42,7 +42,7 @@ Hace siete años, Tohno Shiki tuvo una experiencia cercana a la muerte.
 [sha:a61acfafd26a7352417416b9eedc46677952c10d]{
 -- Page 192, Offset 1663.
 -- なんでも、ものすごい大事故が起きて、その場に居合わせていた俺は建物の倒壊に巻きこまれたという。
-Me dijeron que fue un terrible accidente, y al estar en el sitio equivocado en el momento equivocado, me ví involucrado en el derrumbe de un edificio.
+Me dijeron que fue un terrible accidente, y al estar en el sitio equivocado en el momento equivocado, me vi involucrado en el derrumbe de un edificio.
 }
 [sha:2fd70085e7d89b7794196b9e95b0d6584db9f700]{
 -- Page 193, Offset 1664.
@@ -137,7 +137,7 @@ Desde aquel accidente, he sido capaz de ver las 'líneas'.
 [sha:9d42ffb960a559f89ecb1c8ddf1fab5da440769f]{
 -- Page 200, Offset 1681.
 -- 先生のくれた眼鏡のおかげでまともに暮らしてはいられるけれど、あの人に出会えなかったらとうの昔に俺の頭はイカレていたと思う。
-Gracias a las gafas que me dió Sensei, he sido capaz de vivir una vida respetable, pero si no la hubiese conocido, hace mucho que hubiera perdido la cabeza.
+Gracias a las gafas que me dio Sensei, he sido capaz de vivir una vida respetable, pero si no la hubiese conocido, hace mucho que hubiera perdido la cabeza.
 }
 [sha:903ab0fcea868cbcb0659a16faa8a903c991f968]{
 -- Page 201, Offset 1682.

@@ -131,7 +131,6 @@ Si dice que es posible, entonces lo apostaré todo a esa posibilidad.
 -- でも、それでいいの？　三日、待った方が安全だよ？」
 Pero, ¿estás seguro de esto?
  ¿Te das cuenta de que sería mucho más seguro si esperases tres días?"
- 
 }
 [sha:67ef7790a2e05112c26bbd05840d148f78a0ed45]{
 -- Page 238, Offset 9182.

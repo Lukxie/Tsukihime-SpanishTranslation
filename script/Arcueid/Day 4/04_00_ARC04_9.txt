@@ -58,7 +58,7 @@ No es que esté enfadado ni nada... ¿pero entonces por qué estoy tan frustrado
 [sha:78331b5f15a896f7ae8bcf8ba45fd12e1490a727]{
 -- Page 690, Offset 7406.
 -- 人間だって生きてるだけで腹が減るんだ。おまえたちだって生きていくために血を吸うんなら、際限はないんじゃないのか」
-//Rarillo again
+// Rarillo again
 Quiero decir, los humanos tienen hambre simplemente por existir.
  Si los vampiros tienen que beber sangre para sobrevivir, ¿significa entonces que no hay límite para cuanta necesitáis?"
 }
@@ -296,7 +296,7 @@ No, en realidad―――
 [sha:c46f90903081ed15775e218a71d9d87df9e13f24]{
 -- Page 706, Offset 7452.
 -- この部屋、真夏なみに暑い気がする……！
-¡En esta habitación hace un calor como si estuvieramos en medio del verano!
+¡En esta habitación hace tal calor que es como si estuviéramos en medio del verano!
 }
 [sha:d1d853f26bd5c83b2dea4b990af40ed5624a2525]{
 -- Page 707, Offset 7453.
@@ -308,7 +308,7 @@ No, en realidad―――
 -- 「？　別に、活動に異常をきたすほどの温度じゃないでしょう。まだたったの38℃だし。弱っているとは言え、今のわたしでも3000℃ぐらいまでならフツーだよ？」
 "¿Hm? No, no hace calor suficiente como para limitar mi movilidad.
  ¿Aquí solo hay, que, 38℃ grados?
- Estaré más débil de lo normal, pero aún debo poder soportar temperaturas de hasta 3000℃." 
+ Estaré más débil de lo normal, pero aún debo poder soportar temperaturas de hasta 3000℃."
 }
 [sha:c7b05bd36ef533ae79c9db65e0225ba50487d164]{
 -- Page 708, Offset 7455.

@@ -215,7 +215,7 @@ Parece que planea dejar la sala de estar.
 [sha:70d369db8b35ab319ff8ef4a3ac2ef5f37a6f856]{
 -- Page 237, Offset 3237.
 -- 仕事を終えて、というのは嘘でね。総耶の都市開発はこれからだ。まだ片付けなくてはいけない案件が山ほどある。今夜は寝ずの番、というヤツさ」
-//Esta frase es complicada la verdad seguramente esté mal.
+// Esta frase es complicada la verdad seguramente esté mal.
 He mentido cuando dije que había terminado mi trabajo.
  El desarrollo urbanístico de Souya es solo el principio.
  Quedan otros asuntos que aún requieren mi atención.
@@ -248,7 +248,7 @@ Poco después, escucho la voz de Kohaku-san viniendo del vestíbulo. Seguramente
 -- Page 239, Offset 3242.
 -- 会社を引き継ぐ……斎木業人と<槙久|オヤジ>の関係は不明だが、あの口ぶりでは良好な関係ではなかったようだ。
 Encargarse de la compañía...
- No estoy seguro de la relación que Saiki Gouto tenía con mi padre, 
+ No estoy seguro de la relación que Saiki Gouto tenía con mi padre,
  pero juzgando por como hablaba, dudo que fuera especialmente amigable.
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{

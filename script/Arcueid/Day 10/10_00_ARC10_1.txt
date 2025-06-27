@@ -220,7 +220,7 @@ Aunque no entienda la situación del todo, al menos, puedo deducir eso.
 [sha:9dd4a1bfe9f6506cc7de8d4a7ffc073f0107a5a7]{
 -- Page 15, Offset 24302.
 -- 「なによ、その態度。わたしがこんなところにやってきたのは、志貴が約束を破ったからでしょ。
-"¿De qué vas? La única razón por la que estoy aquí es porque %{i}tú%{/i} rompiste %{i}tu%{/i} promesa. 
+"¿De qué vas? La única razón por la que estoy aquí es porque %{i}tú%{/i} rompiste %{i}tu%{/i} promesa.
 }
 [sha:8636506e61a97ce9b587252888fb651a82420a46]{
 -- Page 15, Offset 24303.
@@ -330,7 +330,6 @@ Intenté calmarme,
 ¿Entiendes lo que es estar sumida en un pantano de quejas sin fondo?
  Del tipo que hace que te hundas cuanto más te quieres quejar.
  Me aterrorizaba pensar en lo que me podía convertir."
- 
 }
 [sha:123f5b51a22022746926dc642f2d3df350b515f7]{
 -- Page 22, Offset 24322.

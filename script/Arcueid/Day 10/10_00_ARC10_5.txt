@@ -86,7 +86,7 @@ Ahora que lo pienso, ya ha estado aquí...
 -- Page 402, Offset 25279.
 -- あの時は心臓が飛び出るかと思ったが、こうして振り返ると口元がニヤけてしまう。
 En ese momento pensaba que me iba a dar un infarto,
- pero al recordarlo no puedo evitar sonreir.
+ pero al recordarlo no puedo evitar sonreír.
 }
 [sha:8df0b0a27b314ac8f53b9a003e6c74128c26bd31]{
 -- Page 402, Offset 25280.
@@ -514,7 +514,7 @@ Vuestras vidas son tan cortas que no pensaba que os sobrara tiempo para cosas co
 -- Page 432, Offset 25361.
 -- 「信じられないな。無駄だと分かっていながら、それを日々の枷にしているなんて。
 "No puedo creerlo.
- Os someteis voluntariamente a este cautiverio, día tras día, incluso sabiendo de sobra lo inútil que es.
+ Os sometéis voluntariamente a este cautiverio, día tras día, incluso sabiendo de sobra lo inútil que es.
 }
 [sha:6d5052f091ea02f786ac25725e8bb08b8ac5b0c7]{
 -- Page 432, Offset 25362.
@@ -606,7 +606,7 @@ Por eso no lo pienso mucho.
 [sha:4bb64ef71a74f66be4db24063a4ae943340933c5]{
 -- Page 438, Offset 25378.
 -- 「無駄だと認めた上で、それをこなすんだ。
-"Osea que reconoces que no tiene sentido y eliges vivir con ello.
+"O sea que reconoces que no tiene sentido y eliges vivir con ello.
 }
 [sha:3baac1dd2df58b10faff39342674c79d5ab0dfa8]{
 -- Page 438, Offset 25379.
@@ -860,7 +860,7 @@ Pero, me has gritado mucho. ¿Eso es distinto?"
 [sha:e417a070ea5831d0de2039408419fdc9ce03c8ce]{
 -- Page 455, Offset 25427.
 -- ……だから、いいんだ。俺は好きでやってるんだから、俺にかける迷惑なんて考えないでくれ」
-Pero no importa... lo hago porque disfruto de ello, 
+Pero no importa... lo hago porque disfruto de ello,
  no pienses que me molesta."
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -891,7 +891,7 @@ Se ve tan frágil. A este paso no voy a poder evitar abrazarla.
 [sha:bf9952014e12e61e13a4369cf671ca99fb46a9b7]{
 -- Page 457, Offset 25433.
 -- そりゃあおまえはワガママだったり自由すぎたり手を焼かされるけど、それ以外の部分はまともだよ。壊れてなんかいないし、普通の女の子と変わらない。
-No niego que seas egoista, actúes precipitadamente, y solo me des problemas, pero a parte de eso, estás bien.
+No niego que seas egoísta, actúes precipitadamente, y solo me des problemas, pero a parte de eso, estás bien.
  No estas rota, solo eres una chica normal y corriente.
 }
 [sha:fa2309e68dfef4322011908d738064fbfad2c749]{

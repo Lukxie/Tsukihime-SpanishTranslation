@@ -154,7 +154,7 @@ Arcueid se da la vuelta y examina las paredes de los edificios.
 [sha:8c309c7826047bcb023e2c40c3cf7f9d94eff5dc]{
 -- Page 380, Offset 9594.
 -- 二人で飛ぶのは初めてだけど、この高さなら問題ないはず」
-Esta es la primera vez que vuelo con otra persona, pero no debería haber problema si solo subimos a esta altura." 
+Esta es la primera vez que vuelo con otra persona, pero no debería haber problema si solo subimos a esta altura."
 }
 [offset:9595]{
 -- Page 380, Offset 9595.
@@ -614,7 +614,7 @@ Arcueid salta del tejado al vacío, dejándome atrás.
 [sha:e8c3934eb39819d5f6f65457ceaf9ee9a882d82d]{
 -- Page 416, Offset 9682.
 -- それは、風に舞う白い花のようだった。
-//En estas líneas me baso mas en la traducción oficial
+// En estas líneas me baso mas en la traducción oficial
 Ahí está, flotando, como una flor blanca bailando al viento.
 }
 [sha:5c9948bbba8ec15aa6b261cca9d51b1f489288d6]{
@@ -650,7 +650,7 @@ Esto no es motivo de sorpresa.
 [sha:1dbdc8a17cb560561766f0789a8a068eaf69d715]{
 -- Page 418, Offset 9689.
 -- その化身は<惑|ほ><星|し>の<嬰児|みどりご>にして<写身|うしつみ>。
-//La traducción oficial dice que es como la encarnación infante del planeta. Esta traducción me gusta mas, es menos simplista.
+// La traducción oficial dice que es como la encarnación infante del planeta. Esta traducción me gusta mas, es menos simplista.
 Ella es un avatar del planeta――de él un infante y reflejo.
 }
 [sha:8b076c0171659db89657381517b76772a39ed18a]{
@@ -671,7 +671,7 @@ La furia de la naturaleza――que destruye vida.
 [sha:0cbd0216accdb72d6cea8f400853a48dee602b4c]{
 -- Page 419, Offset 9693.
 -- その体に備わった当然の権利である。
-//De la traducción oficial.
+// De la traducción oficial.
 Ambas son suyas para encarnarlas――para ejercerlas.
 }
 [sha:d243d3a298d7f4123fb30645484289baf609c1cd]{
@@ -692,13 +692,13 @@ Dirige su atención del cosmos a la tierra.
 [sha:2d997e0a19bff09c742ecd59f039928dbf2a58dd]{
 -- Page 420, Offset 9697.
 -- 解いていた<鎖|くさり>を、巻き上げていた<碇|いかり>を地表に打ち付ける。
-//No me gusta como suena
+// No me gusta como suena
 Es hora de que las cadenas liberadas y las anclas levantadas golpeen el suelo.
 }
 [sha:f39ef2ae76b3c855e00ab4ff809b18f7565d1457]{
 -- Page 420, Offset 9698.
 -- 眼下には火の粉を散らす石の<楼閣|ろうかく>。
-//De la tl oficial.
+// De la tl oficial.
 Bajo ella un castillo de cemento, escupiendo chispas incandescentes.
 }
 [sha:73010a7ca6046ce4c20512b3f9e99c7fd84ca698]{
@@ -709,12 +709,12 @@ Bajo ella un castillo de cemento, escupiendo chispas incandescentes.
 [sha:95810281bd0b55e3e5d589f06d47f9a8e7a816e8]{
 -- Page 421, Offset 9700.
 -- 夜空に咲いた花が、落下する星になる。
-//De la tl oficial.
+// De la tl oficial.
 El brote que florecía en el cielo nocturno se transforma en una estrella fugaz.
 }
 [sha:f052ac932980efd8e7ddc016bca134d320c85a79]{
 -- Page 421, Offset 9701.
 -- 月の花は自らを嵐と変えて、燃え盛る炎を吹き飛ばした。
-//De la tl oficial.
+// De la tl oficial.
 El lirio lunar se transforma en una tempestad, llevándose por delante las abrasadoras llamas.
 }

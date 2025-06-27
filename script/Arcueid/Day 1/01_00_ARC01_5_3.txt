@@ -51,7 +51,7 @@ Se niega rotundamente. Tras haber quedado mal, aparto la mirada.
 [sha:549803d744af7c33a2db43427c272cb9131a2322]{
 -- Page 288, Offset 1887.
 -- 「やっぱり、そう自由には使わせてもらえないですよね」
-"Despues de todo no puedo usar la casa libremente, ¿no?"
+"Después de todo no puedo usar la casa libremente, ¿no?"
 }
 [sha:d1263e3716b6d6e4cd52d84bb7068e77ea7bfbe1]{
 -- Page 288, Offset 1888.

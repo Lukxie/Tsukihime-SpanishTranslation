@@ -247,7 +247,7 @@ Ella, con un solo movimiento de brazo, orquestra una sinfonía de huesos rotos.
 -- 群がる牙。飛び散る死肉。その雨の中で、一片も濡れる事なく舞う白い影。
 Una cacofonía de colmillos que repiquetea buscando su presa.
  El sonido de la carne desgarrándose.
- Y de alguna forma, incluso en esa nube visceral, una sombra blanca, pristina, sin una mota de sangre encima.
+ Y de alguna forma, incluso en esa nube visceral, una sombra blanca, prístina, sin una mota de sangre encima.
 }
 [sha:32c025e3e55154c417cac3e25b732ab1b10f4983]{
 -- Page 371, Offset 20594.
@@ -330,7 +330,7 @@ Los Muertos no se pueden acercar para empezar.
 [sha:3c024bcb18c136bc32fda2bd7f648b73251879ef]{
 -- Page 376, Offset 20609.
 -- なのに、
--- TRANSLATION HERE
+Y aún así―――
 }
 [sha:01a57eacfbebdf43c3236e9b9a92174dae1ab6a9]{
 -- Page 376, Offset 20610.
@@ -1225,7 +1225,7 @@ Este sentimiento, este dolor de cabeza, el peso de mis extremidades, es todo por
 [sha:ac3dbcb7d3447f8e26b088ab049930e9c68ab474]{
 -- Page 425, Offset 20774.
 -- 「……志貴？　ちょっと、大丈夫!?」
-"¿Shiki? ¡¿Ey, estás bien?!"
+"¿Shiki? ¡¿Oye, estás bien?!"
 }
 [sha:fde58f1f4a33c597e3e99b5964d4983f156dc329]{
 -- Page 425, Offset 20775. Mods: @k, @e.

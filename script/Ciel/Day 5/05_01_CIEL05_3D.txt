@@ -121,7 +121,7 @@
 [sha:1a49c5aa2a8c2ab026e970b93e0eff80ea1d04a8]{
 -- Page 552, Offset 12292.
 -- 「アルクェイド……？」
--- TRANSLATION HERE
+"¿Arcueid...?"
 }
 [sha:fd06c73debd31fe98c69ca171f614045bd4864d0]{
 -- Page 553, Offset 12293.
@@ -241,7 +241,7 @@
 [sha:1106d4e7a9c214f6edf442809a42374cd14240a5]{
 -- Page 562, Offset 12316.
 -- 「―――、は？」
--- TRANSLATION HERE
+"¿―――Qué?"
 }
 [sha:75fb99b134550264c12c6a068e217527191ae814]{
 -- Page 562, Offset 12317.

@@ -49,7 +49,7 @@ Allí, en el espacio entre las dos farolas.
 [sha:23611c72556ac02b3487f3d884fd1cd8a9fba2f5]{
 -- Page 492, Offset 20963.
 -- ――――――どくん。
--- TRANSLATION HERE
+―――%{i}Ba-dump%{/i}.
 }
 [sha:2529c272d965ea7a6311dc1596ebd7c9fa2e04e2]{
 -- Page 492, Offset 20964.
@@ -411,7 +411,6 @@ La risa de la figura hace eco en la oscuridad.
 -- Page 507, Offset 21032.
 -- ぎょろりと血走ったその瞳が“ようやく気が付いたのか”と嘲笑している。
 Sus ojos ensangrentados parecen burlase de mí, como si dijeran, 'por fin te das cuenta'.
- 
 }
 [offset:21033]{
 -- Page 508, Offset 21033.
@@ -460,7 +459,7 @@ No es que me importe.
 [sha:1b2996f418a0352f602b2948efd9dc0522784c98]{
 -- Page 510, Offset 21040.
 -- 攻めている。
--- TRANSLATION HERE
+Ataca.
 }
 [sha:1b2996f418a0352f602b2948efd9dc0522784c98]{
 -- Page 510, Offset 21041.
@@ -487,7 +486,7 @@ La victoria será mía.
 [sha:af6cd50321d949e3fb5c2018ed761dc01707858a]{
 -- Page 511, Offset 21045.
 -- ドコの誰だか知らないが、間違いない。
-No sé quíen es. No sé de donde viene.
+No sé quién es. No sé de dónde viene.
  Pero una cosa sí que sé―――
 }
 [sha:0ddc1ed47c679a9389ad722cee701dde631e8bd6]{
@@ -713,7 +712,7 @@ Y entonces se lanza desde la farola, apuntando directamente al hombre.
 [sha:ae4e4713bda70d5b0e8493ab90650aab2dc71e59]{
 -- Page 524, Offset 21088.
 -- 断ち切られた男が叫ぶ。
-El hombre grita mientras mientras le cortan en dos.
+El hombre grita mientras le cortan en dos.
 }
 [sha:8a5bf67b41d5721510b1ce4f257c529aa6970058]{
 -- Page 524, Offset 21089.
@@ -808,7 +807,6 @@ La mujer en atuendo de monja se da la vuelta.
 -- 彼女はあふれ出る憎悪、明確な殺意を隠しもせずに、俺に微笑みかける。
 Me sonríe,
  sin ocultar su abundante odio y claras ganas de verme muerto.
- 
 }
 [sha:3be5b76d2fb8a38247c756976d2cc53eda45940c]{
 -- Page 530, Offset 21105.

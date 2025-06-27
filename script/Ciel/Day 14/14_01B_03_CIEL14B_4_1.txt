@@ -153,10 +153,10 @@
 -- 裸眼になり、死の線を見続けている頭は痛みを感じていない。痛みという安全機能すら動かなくなってしまった。
 -- TRANSLATION HERE
 }
-[offset:40276]{
+[sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
 -- Page 11, Offset 40276.
 -- それでも―――
--- TRANSLATION HERE
+Y aún así―――
 }
 [sha:616ced856f3e912ddfec92c89cf5229600bcd4e6]{
 -- Page 12, Offset 40277.

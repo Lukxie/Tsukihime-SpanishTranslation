@@ -177,7 +177,7 @@ Pero sus cuerpos ya no tienen arreglo.
 [sha:5173e1723c880b8a36116b44abc025933dcefe9e]{
 -- Page 352, Offset 6530.
 -- 手足もなく、蓑虫のように、天井から吊るされている。
-//Bagworm son orugas de saquito no pega nada con el contexto la verdad
+// Bagworm son orugas de saquito no pega nada con el contexto la verdad
 Cuelgan del techo como gusanos, sin extremidades.
 }
 [sha:7a3d5f6bcdbe58a0c953fa341c269d896c6e313d]{

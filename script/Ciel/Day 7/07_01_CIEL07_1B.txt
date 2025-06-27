@@ -61,7 +61,7 @@
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
 -- Page 36, Offset 14895.
 -- 「！？」
--- TRANSLATION HERE
+"¡¿Eh?!"
 }
 [sha:947955f32c48b5704f4ad363bd1f33572a36e17d]{
 -- Page 36, Offset 14896.
@@ -186,7 +186,7 @@
 [sha:664ab565cb40622e66a89a270055e8932f1daa4c]{
 -- Page 47, Offset 14920.
 -- 「……………はあ」
--- TRANSLATION HERE
+"%{i}Haaa%{/i}..."
 }
 [sha:e086f0f496595a2437e62096f68415920b92f423]{
 -- Page 47, Offset 14921.

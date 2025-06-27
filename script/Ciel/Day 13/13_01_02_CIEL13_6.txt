@@ -61,7 +61,7 @@
 [sha:187727eba438d86ffebd25fbec3030bb544cb7dd]{
 -- Page 107, Offset 35567.
 -- 「っ…………」
--- TRANSLATION HERE
+"%{i}Tch%{/i}..."
 }
 [sha:ee4360e6e8f928a3cc3b8f218a0a200284f80236]{
 -- Page 107, Offset 35568.
@@ -251,7 +251,7 @@
 [sha:1216350d832de4e99f59e47569c713c40f8685e6]{
 -- Page 123, Offset 35605.
 -- 「い、っ……！」
--- TRANSLATION HERE
+"¡%{i}Ouch%{/i}!"
 }
 [sha:84e29cd556e81579581e13389de7880fae3f9709]{
 -- Page 123, Offset 35606.
@@ -616,7 +616,7 @@
 [sha:0f04a986bd8cc96f4834d74d2dc17979d5bed862]{
 -- Page 152, Offset 35678.
 -- 「ご、ぶっ……！」
--- TRANSLATION HERE
+"¡%{i}Ggghrk%{/i}!"
 }
 [sha:b800317f3b276359a1908da68453cfa6a5dd5a4d]{
 -- Page 152, Offset 35679.

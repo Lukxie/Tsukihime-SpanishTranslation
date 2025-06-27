@@ -58,7 +58,7 @@ De otra forma el dolor de mi pie izquierdo,
 [sha:895be2e67f88ff7b62b219ed9680fd120cb3f180]{
 -- Page 717, Offset 10602.
 -- したくはなかったのに、どうしても悪態が口から漏れた。
-No quiero blasfermar en vano, pero no puedo evitarlo.
+No quiero blasfemar en vano, pero no puedo evitarlo.
 }
 [sha:63573d09a12a49e578319c8fb83c7bb731a227a3]{
 -- Page 718, Offset 10603.
@@ -133,12 +133,11 @@ Para ser alguien que ha conseguido sobrevivir,
 -- 新参とは言え、志貴は祖の<一角|ひとり>を殺したのよ？
 Aunque fuera un primerizo,
  has matado a uno de los Ancestros, ¿sabes?
- 
 }
 [sha:ed96c0bc8b506e103cd3408f4dba4965e7979230]{
 -- Page 723, Offset 10617.
 -- もっと胸を張ってもいいのに」
-Enorgullecete de ello."
+Enorgullécete de ello."
 }
 [sha:34b4c747495958b70fcad7367edd75e7bfc4718c]{
 -- Page 724, Offset 10618.
@@ -190,7 +189,7 @@ Si te preocupa la maldición de Vlov, he protegido a todos."
 [sha:4817be599de407d812221b834882c315106bd023]{
 -- Page 726, Offset 10627.
 -- 体を起こそうと力をいれた途端、左足からの激痛でのたうち回った。
-//Mix de ambas tls
+// Mix de ambas tls
 En cuanto intento incorporarme,
  mi pierna izquierda grita de un dolor que me hace retorcerme.
 }
@@ -203,18 +202,18 @@ En cuanto intento incorporarme,
 -- Page 727, Offset 10629.
 -- 「ぐっ、っ……！　そ、それより、今の……説明、してくれ。
 "¡%{i}Grgh%{/i}!
- O-Olvidate de eso...necesito... una explicación.
+ O-Olvida eso...necesito... una explicación.
 }
 [sha:f402f594a122b1e3ccf31af3a77e71c3c52bef73]{
 -- Page 727, Offset 10630.
 -- 死んでないって、ホントに……？」
-//Tl oficial
+// Tl oficial
 ¿Nadie a muerto? ¿En serio?"
 }
 [sha:a8be12f972c7dd35b9655a8e3d803c9188e45ba1]{
 -- Page 728, Offset 10631. Mods: @n.
 -- 「ええ。ヴローヴの原理が暴走した時、できる範囲を対流膜でコーティングしておいたの。
-//revestimiento convectivo de la tl oficial, igual hay que localizar pero bueno
+// revestimiento convectivo de la tl oficial, igual hay que localizar pero bueno
 "Sí. Cuando el Principio de Vlov se salió de control,
  conseguí contenerlo con un revestimiento convectivo.
 }
@@ -303,7 +302,7 @@ Arcueid sube y baja las cejas con curiosidad, y entonces―――
 [sha:fbfb41a67dfe74a4f2509f921c7539271566c84f]{
 -- Page 733, Offset 10647.
 -- そんな、バカみたいな事を、言っていた。
-Dice algo increiblemente estúpido.
+Dice algo increíblemente estúpido.
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 734, Offset 10648.
@@ -328,7 +327,7 @@ Dice algo increiblemente estúpido.
 [sha:5bfc085955cc8080ab609fb85654e24490d99a79]{
 -- Page 735, Offset 10652.
 -- ならいい。吸血鬼だろうと何だろうと、俺たちに手を出さないでいてくれるなら、それでいいんだ」
-Después de todo, ni siquiera has bebido sangre antes, osea que no importa.
+Después de todo, ni siquiera has bebido sangre antes, o sea que no importa.
  Que seas un vampiro u otra cosa, mientras no nos pongas la manos encima, no pasa nada."
 }
 [sha:9b406307c20f9caa4a378bf24139f3c07080dd08]{
@@ -384,7 +383,7 @@ Si lo que dice es cierto, puedo irme a dormir.
 [sha:23ca3c8552fafb818b74df4301fb7576563737d7]{
 -- Page 738, Offset 10663.
 -- さっきまで後悔しかなかった胸は、今は安堵に包まれている。
-Mi pecho, lleno hasta ahora con nada más que remordimiento, 
+Mi pecho, lleno hasta ahora con nada más que remordimiento,
  está ahora repleto de alivio.
 }
 [sha:c99656525a3c783d082b3c138f3a350aed28517c]{
@@ -420,7 +419,6 @@ Arcueid me obliga a volver a la realidad golpeándome la cabeza.
  te dolerá mucho más cuando despiertes, ¿cierto?
  Deberías cerrar tus heridas antes de dormir.
  Es mucho más eficiente, ¿sabes?"
- 
 }
 [sha:77ee0a65368797005807425f0d794074d9bf96e3]{
 -- Page 741, Offset 10670.
@@ -430,12 +428,12 @@ No le falta razón.
 [sha:bf916598d0d6f2f8ec5cc23498fc2683830540fb]{
 -- Page 741, Offset 10671.
 -- それと同じ事をコイツに言ったのは誰だったっけ。
-¿Me pregunto quién le dió esa idea?
+Me pregunto quién le dio esa idea.
 }
 [sha:35dc84bef0b0277e435308feaff601acdc11931f]{
 -- Page 742, Offset 10672.
 -- 「……アルクェイド。本気で忠告していいか」
-//Mix con la tl oficial
+// Mix con la tl oficial
 "Arcueid... ¿puedo serte sincero por un momento?"
 }
 [sha:2d83893fe124a63465d97f5c9f81d88b6964d87b]{
@@ -446,7 +444,7 @@ No le falta razón.
 [sha:8e5984f3e9866b907096dff94f766215277b81aa]{
 -- Page 742, Offset 10674.
 -- 「あのな。あんまり無茶いうな、このばか女」
-//Tl oficial
+// Tl oficial
 "Deja de pedir lo imposible, idi... ota..."
 }
 [sha:3e0c78460b3249614ab1e34100099f093184a1ac]{

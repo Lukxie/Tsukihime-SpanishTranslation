@@ -78,12 +78,12 @@ No hay ■■■■ huyendo.
 [sha:95ef0ac1c68780b7f1a1348ccbf8401fdaf7f55c]{
 -- Page 726, Offset 7516.
 -- 焼け焦げた■■もない。
-No hay ■■■■ calcinandose.
+No hay ■■■■ calcinándose.
 }
 [sha:53cc1a33e6da594d0adfea515416c97af77e1cac]{
 -- Page 726, Offset 7517.
 -- それは。モニターで見た光景は嘘だったと思いたくなる程の、張り詰めた無音空間。
-El lugar está tan tenso y callado que casi quiero creer que la escena que ví en el monitor no era real.
+El lugar está tan tenso y callado que casi quiero creer que la escena que vi en el monitor no era real.
 }
 [sha:3eb6e6be9767bf6897ac497d7e5e431a191059a3]{
 -- Page 727, Offset 7518.
@@ -394,7 +394,7 @@ A través de ese conducto se filtran incontables gritos que no podía oír antes
 [sha:2c7080481e3eaa7fe59c3d85e2d53b4c5032c78e]{
 -- Page 742, Offset 7579.
 -- それは、よく聞いてみれば。
-Si escucho con atención, puedo oirlos.
+Si escucho con atención, puedo oírlos.
 }
 [sha:70de8e735425f25356702d1e132e963082ed1ac8]{
 -- Page 742, Offset 7580.
@@ -404,7 +404,7 @@ El sonido de rasgado de la carne siendo masticada.
 [sha:eaec33f583723d18cd2f31a7050151542e8048e7]{
 -- Page 742, Offset 7581.
 -- たすけてといった悲鳴とか、もう人語でさえない人間の断末魔の声とかだったりした。
-Los gritos pidiendo ayuda, los sonidos de la muerte y la agonía que siquiera parecen lenguaje humano. 
+Los gritos pidiendo ayuda, los sonidos de la muerte y la agonía que siquiera parecen lenguaje humano.
 }
 [sha:b35790f897dbe44b8dd1f6a1fe135d4081dea360]{
 -- Page 743, Offset 7582.
@@ -429,7 +429,7 @@ Imágenes de gente siendo comida viva.
 [sha:8a9c9d2b00cb1cada9f4a3d8d2316ca15dae37bc]{
 -- Page 744, Offset 7586.
 -- 異常な気温に気づいた男がいた。外に出ようと扉を開けた瞬間、満ちていた劫火に包まれて絶命した。
-Hubo un hombre que se dió cuenta de la temperatura inusual.
+Hubo un hombre que se dio cuenta de la temperatura inusual.
  En el momento que abrió la puerta para huir, fue tragado por el incendio y murió.
 }
 [sha:4ea5f41d6d0d7d2eef85cf0bbf8cc902635f8def]{
@@ -635,7 +635,7 @@ En aquel entonces estoy seguro de haber sido testigo una escena mucho más horri
 [sha:52e72d5612666e7a83cdce29f89f38019994c896]{
 -- Page 757, Offset 7626.
 -- ざく。
-//inventadísimo
+// inventadísimo
 %{i}Chaf%{/i}.
 }
 [sha:f43e6851368fb69f9c8af1dbdbc77fb6f3eb7fb6]{
@@ -677,7 +677,7 @@ Los músculos que ya han recibido señales del cerebro ejecutarán dicho comando
 [sha:196b22345cb4949d9d6882dda46f39a63a652114]{
 -- Page 760, Offset 7634.
 -- なので、ここで頭を多少裂いたところで黒犬の牙は俺の首を噛み切るだろう。
-Osea que incluso si más o menos le desgarro la cabeza, los colmillos del perro aún me arrancarían el pescuezo.
+O sea que incluso si más o menos le desgarro la cabeza, los colmillos del perro aún me arrancarían el pescuezo.
 }
 [sha:b34fb0febf81556bdc67c448b93b559178763656]{
 -- Page 760, Offset 7635.
@@ -811,7 +811,7 @@ Los colmillos del perro no presentan ningún indicio de ir a soltarse.
 [sha:9f350a4655b3e87954844ce430daa87e305fb62b]{
 -- Page 769, Offset 7660.
 -- いや、そんなコトより――――黒犬は、頭を貫かれていながら、エネルギーに満ち満ちていた。
-No solo eso――incluso tras haberlo ensartado a través de la cabeza, el perro sigue lleno de energías. 
+No solo eso――incluso tras haberlo ensartado a través de la cabeza, el perro sigue lleno de energías.
 }
 [sha:0580b2dfa6e8102b0b448f3fc504540e363aa854]{
 -- Page 770, Offset 7661.
@@ -852,7 +852,7 @@ Incluso tras haber atravesado al perro con el cuchillo, continúa apretando sus 
 -- Page 772, Offset 7668.
 -- 信じられない、こういう状態で物を噛める生き物じゃないだろう、犬ってのは……！
 No puedo creerlo.
- ¡Se supone que los perros no pueden seguir moridendo en ese estado!
+ ¡Se supone que los perros no pueden seguir mordiendo en ese estado!
 }
 [sha:39daa5af979c316bf77952b3ca3978bd10df353c]{
 -- Page 773, Offset 7669.

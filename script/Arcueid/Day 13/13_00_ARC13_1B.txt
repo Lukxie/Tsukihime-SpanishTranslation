@@ -268,7 +268,7 @@ Me tomo un segundo para observarla en silencio.
 [sha:f63790a71da2b0b94c8a164cbe7895fa97759a0d]{
 -- Page 100, Offset 31957.
 -- 「……？
--- TRANSLATION HERE
+"¿Hm...?
 }
 [sha:dd6724435678cc66c5570b86b1b9320b10600c2e]{
 -- Page 100, Offset 31958.
@@ -317,7 +317,7 @@ A pesar de haber dicho que iba a desaparecer de mi vida, se molestó en venir a 
 [sha:4ac574aa4528b2d5daeb4480a893f99da12ac950]{
 -- Page 103, Offset 31966.
 -- 「……そっか。二回目だったんだ。
-"Ya veo... Osea que la segunda vez.
+"Ya veo... O sea que la segunda vez.
 }
 [sha:6816b5a9efa1de88fae9217a0968acfa4d3bec09]{
 -- Page 103, Offset 31967.
@@ -654,7 +654,7 @@ Tohno Makihisa mantenía a SHIKI encerrado en algún lado,
 [sha:dde1db232f9e8078f37f2e1f82cb82878dcee161]{
 -- Page 129, Offset 32028.
 -- 「……シキにとって、俺は自分の名前を使って遠野シキになりすましているニセモノなわけか」
-"Osea que para SHIKI, solo soy un impostor que ha estado usando su nombre para suplantarlo..."
+"O sea que para SHIKI, solo soy un impostor que ha estado usando su nombre para suplantarlo..."
 }
 [sha:48432af581a04ab6363dd3192a0f49f11f2c9e42]{
 -- Page 129, Offset 32029.
@@ -1209,7 +1209,7 @@ Dicho eso――tomaré la iniciativa e iré a matarlo para proteger a Arcueid.
 [sha:d54d339fa2785f85ed664a7f381978f0232b9576]{
 -- Page 172, Offset 32135.
 -- 「そんな体で、ですか。
-"Osea que vas a salir en ese estado.
+"O sea que vas a salir en ese estado.
 }
 [sha:58c62d1703da13cbdc1d066a0482eb4e8bf25f36]{
 -- Page 172, Offset 32136.
@@ -1352,7 +1352,7 @@ Solo deseé que fueran así las cosas.
 [sha:03e6369c4d63f8a7f0839098faf0694dee337362]{
 -- Page 181, Offset 32162.
 -- あいつがいつでも笑っていられるように。
-Para que ella siempre pudiera sonreir.
+Para que ella siempre pudiera sonreír.
 }
 [sha:cfb02900f7b8188aac4776661334a641f833e140]{
 -- Page 181, Offset 32163.
@@ -1369,14 +1369,12 @@ Porque no hay nada más radiante que esa sonrisa.
 -- あいつは今まで救われなかった分、その何倍も幸せにならなくちゃいけない。帳尻は合わせないと嘘だ。
 Tengo que hacerla feliz, tan feliz como para compensar todas las veces que no la salvaron.
  No saldar esa cuenta sería imperdonable.
- 
 }
 [sha:621584ec425a2d4c020488b67ffc8d5914c6431d]{
 -- Page 182, Offset 32166.
 -- だいたい、あいつが独りでなくなる方法なんて簡単すぎる。そんな事で悩んでるとか、馬鹿みたいだ」
 Además, es muy fácil sacarla de su soledad.
  No sé ni por qué me preocupo."
- 
 }
 [sha:8ef165b8986f4f857beda6891bd4507be3266ac2]{
 -- Page 183, Offset 32167.

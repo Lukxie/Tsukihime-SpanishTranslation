@@ -248,7 +248,7 @@ Estaban calados y pegajosos de ella.
 [sha:0cf81b15aaa616099e66d9494949c196e54b8307]{
 -- Page 289, Offset 4790.
 -- 「……たしかに泥にまみれてはおりましたが、血液らしきものはありませんでした。それに、汚れていたのはシャツとズボンだけで、上着は特に、何も」
-"Es cierto que estaban cubiertas de barro, pero no ví nada parecido a una mancha de sangre...
+"Es cierto que estaban cubiertas de barro, pero no vi nada parecido a una mancha de sangre...
  Además, solo tu camisa y pantalones estaban sucios.
  La chaqueta estaba prácticamente impecable."
 }
@@ -470,7 +470,7 @@ Por favor dale las gracias a Kohaku-san de mi parte."
 [sha:ef3a77ba1327aa6bc7565bce03fa95dbc1d5d190]{
 -- Page 305, Offset 4833.
 -- 「―――ああ。夢だったんだ」
-"―――%{i}Haa%{/i}. Osea que todo era un sueño."
+"―――%{i}Haa%{/i}. O sea que todo era un sueño."
 }
 [sha:55f06f96bb83121616bc5578822bb7fffb8abb81]{
 -- Page 305, Offset 4834.

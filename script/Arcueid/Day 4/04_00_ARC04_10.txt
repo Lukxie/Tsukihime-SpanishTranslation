@@ -647,7 +647,7 @@ Después de todo, estas llamas son auténticas.
 [sha:60a46b0fdbe8aa84fe5ee81b3e523b4a91255f89]{
 -- Page 844, Offset 7905.
 -- 廊下を濡らす青い炎は現実の上に張られた<効果|エフェクト>だ。
-Las llamas azules que empapan el pasillo no son más un que efecto que se manifiesta fuera de la realidad. 
+Las llamas azules que empapan el pasillo no son más un que efecto que se manifiesta fuera de la realidad.
 }
 [sha:27fc7c757b49a794d90e2f9e287d7ee9a029cd75]{
 -- Page 844, Offset 7906.
@@ -861,13 +861,13 @@ Con la hoja aún oculta bajo su manto, empieza a caminar hacia Arcueid.
 [sha:0b7e306dda0e1ace0aa9dde9b8911345b3ec13c4]{
 -- Page 861, Offset 7947.
 -- 「“無礼者。豚でなければ<銘|な>を名乗れ。
-//Ayuda
+// Ayuda
 "%{g}Insolente. Si porco no eres, fabla vueso nombre.%{/g}
 }
 [sha:02bc565b73d08094d15250c1beb9efc8bf02ae41]{
 -- Page 861, Offset 7948.
 -- それとも貴様の<親|・>は、最低限の<礼儀|ことば>も教えぬ形なしだったのか？”」
-//Ayudaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+// Ayudaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 %{g}¿O acaso vuesa progenie fue tan negligente que descuidó enseñar los modales más fundamentales?%{/g}"
 }
 [sha:783b92152d187f7ef60c1dda2d68c366412fcb4a]{
@@ -1136,7 +1136,7 @@ El cuerpo de Arcueid colapsa contra el mío.
 [sha:258cb1f37c4238a7811dc036d59e5662ecdd2f7c]{
 -- Page 879, Offset 8001.
 -- ……ひどい傷だ。腹からの出血は止まっているものの、彼女の顔は苦痛にゆがんでいる。
-Que herida más fea... El sangrado de su estómago ha parado, pero su cara se retuerce de dolor. 
+Que herida más fea... El sangrado de su estómago ha parado, pero su cara se retuerce de dolor.
 }
 [sha:964b6b34d0dd1ba860e4d1e702da2ffdd006e3f8]{
 -- Page 880, Offset 8002.
@@ -1196,7 +1196,7 @@ No puedo mirarla.
 [sha:205c6dcea3061156296cff5393d1ff28fb7bb396]{
 -- Page 884, Offset 8013.
 -- 俺を庇って出来た傷で、加えて、その原因も俺にあるっていうのに―――そんな馬鹿な笑顔を向けられたら、なんて返せばいいのか分からない。
-La han herido protegiéndome. Y además, si no fuera por mi, nunca habría estado en peligro――No sé como responder cuando me mira con esa sonrisa tan estúpida. 
+La han herido protegiéndome. Y además, si no fuera por mi, nunca habría estado en peligro――No sé como responder cuando me mira con esa sonrisa tan estúpida.
 }
 [sha:1db64ff43751a81a982a4441644eef43b4d9e993]{
 -- Page 885, Offset 8014.
@@ -1352,7 +1352,7 @@ No tiene sentido quedarse aquí.
 [sha:e0a1e4d7a6315b4ff7990d73066ff97340be12b1]{
 -- Page 895, Offset 8044.
 -- 俺はロイヤルスイートルームから荷物を回収し、アルクェイドを抱きかかえ、もう誰もいなくなったホテルを、慚愧の念と共に後にした。
-Recupero mi equipaje de la suite presidencial, y con Arcueid en mis brazos, dejo vergonzosamente el ahora vacío hotel. 
+Recupero mi equipaje de la suite presidencial, y con Arcueid en mis brazos, dejo vergonzosamente el ahora vacío hotel.
 }
 [sha:51a4fa02a40fe10f45f9214d5d75db427d284681]{
 -- Page 896, Offset 8045.
@@ -1362,7 +1362,7 @@ Fuera, el cielo brilla.
 [sha:ee6d9006e395e4520dbbf35b19ca422819e3ef55]{
 -- Page 896, Offset 8046.
 -- 「……そうか、そういうコトか」
-"Ya veo... osea que por esto fue."
+"Ya veo... o sea que por esto fue."
 }
 [sha:7b97e8caee6fcab803ab9884e35b7f34810a9243]{
 -- Page 897, Offset 8047.

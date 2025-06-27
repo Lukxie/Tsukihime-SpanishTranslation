@@ -88,7 +88,7 @@ Además... hay incontables cadáveres humanos en las plantas inferiores.
 [sha:6e0f620b278e40ae13fef4265a07dfb4c88be065]{
 -- Page 806, Offset 7771.
 -- 笑うしかない。
-No puedo evitar reirme.
+No puedo evitar reírme.
 }
 [sha:4e1f4f1d7c38b9caf3b654c830718f19a1b50f0c]{
 -- Page 806, Offset 7772.

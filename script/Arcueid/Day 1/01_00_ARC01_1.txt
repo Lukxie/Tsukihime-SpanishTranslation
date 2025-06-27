@@ -42,7 +42,7 @@ Ya no puedo dar la vuelta. Todo este tiempo y distancia ahora me separan de la f
 [sha:d4999d240527f5777b2549cf8f28d37480f32577]{
 -- Page 3, Offset 1154.
 -- それをどう受け入れるのかで、人間としての情の深さが計れるのかもしれない。
-//Quizá suene mejor de otra forma
+// Quizá suene mejor de otra forma
 Cómo lo acepte puede servir como medida de mi compasión humana.
 }
 [sha:80e1d966ff7bc4d14edab054475826fd52d83f75]{
@@ -307,7 +307,7 @@ Siento como poco a poco asciende la cuesta.
 [sha:7afd98650c4b063213cde888cb2600fde0a28fee]{
 -- Page 22, Offset 1204.
 -- 人工の明かりに慣れきった眼に、覚めるような陽が差しこんだ。
-//No se si rejuvenecen es la palabra adecuada aquí
+// No se si rejuvenecen es la palabra adecuada aquí
 Mis ojos, que se habían acostumbrado a la luz artificial, se adaptan a la luz del sol.
 }
 [sha:aab045851fe48fe7b18b247ed5248543c9ad4849]{
@@ -593,7 +593,7 @@ Si hay alumnos de segundo perdidos, ella misma los guiará.
 [sha:f3b17e98561e568ce256613f46d8170835b68fd2]{
 -- Page 41, Offset 1260.
 -- 三年に困った生徒がいれば後輩いじめを止めさせる。
-//Uso kouhais porque underclassman y upperclassman son horribles de traducir me parece mejor usar kouhai y senpai
+// Uso kouhais porque underclassman y upperclassman son horribles de traducir me parece mejor usar kouhai y senpai
 Si hay estudiantes de tercer año molestando a otros, ella impedirá que acosen a sus kouhais.
 }
 [sha:6993f3fd6fb924601b05314974e6ce2c56018866]{

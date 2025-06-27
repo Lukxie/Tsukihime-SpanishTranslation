@@ -177,7 +177,7 @@ Los dos se susurran algo 'en secreto'...
 -- Page 141, Offset 4302.
 -- 「……あのさ。内緒話なら廊下でしてくれないか？　人の机でそういうコトされても、まる聞こえで頭痛いんだけど」
 "¿Sabes qué?
- Si quereis hablar en privado, ¿podéis hacerlo en el pasillo?
+ Si queréis hablar en privado, ¿podéis hacerlo en el pasillo?
  Escucharos hablar mal de mi desde el asiento de al lado me esta dando dolor de cabeza."
 }
 [sha:68d992f4853f60616f388b970e077d24562d8ec8]{
@@ -306,14 +306,14 @@ Parece que ya estás bastante estresado."
 [sha:26e65b0f778bf3bea7e944062f6406b029b54164]{
 -- Page 149, Offset 4326.
 -- 「さあ、どうだろう。とりあえず昨日は妙な夢を見て、家の人たちに白い目で見られたけど」
-//Ya no se que poner en vez de tío xd
+// Ya no se que poner en vez de tío xd
 "En fin, ¿por dónde empiezo?
  Para empezar, tuve este sueño raro anoche y cuando le dije a la gente con la que vivo sobre el, me dijeron que no me creían."
 }
 [sha:97a26070d37ae3c0e3fd29a55bb618cd7229b685]{
 -- Page 149, Offset 4327.
 -- 「むう。そうか、それは災難だな」
-//No hay mas remedio xd
+// No hay mas remedio xd
 "Hmm, ya veo. Parece duro, la verdad."
 }
 [sha:8815dba96333c4a8b95fb441ff6a8b7a0d5bd3c4]{
@@ -378,7 +378,7 @@ Arihiko y yo nos miramos e inclinamos nuestras cabezas.
 [sha:b224e1d6d4ee505762b4f3c8ba698881edebd713]{
 -- Page 153, Offset 4339.
 -- 「羨ましいなあ。そうやって何の気負いもなしで分かり合える友人がいるのって、憧れます」
-"Realmente os envidio――sin formalidades, simplemente %{i}conectais%{/i} entre vosotros.
+"Realmente os envidio――sin formalidades, simplemente %{i}conectáis%{/i} entre vosotros.
  Siempre quise una amistad así."
 }
 [sha:f7a7ba03d295e93a6c82a9d150f3dfe14ae02320]{
@@ -462,7 +462,7 @@ Ey, Tohno."
 -- Page 159, Offset 4355.
 -- 「つまらなくはないぞ。大きな疑問として、オマエはいつのまに、先輩の方から会いに来るほど親しくなってたんだ？」
 "No es estúpido.
- Lo que me muero por saber es: ¿cuando te volviste tan cercano con Senpai como para que te venga a ver?"
+ Lo que me muero por saber es: ¿cuándo te volviste tan cercano a Senpai como para que te venga a ver?"
 }
 [sha:eb50737eb92abc69595294b03eda0df68acd7ef7]{
 -- Page 160, Offset 4356.
@@ -510,7 +510,7 @@ Las mejillas de Arihiko se vuelven rojas.
 [sha:195c456098f6da1bf33a9bfc6bfdb58cc68cab78]{
 -- Page 163, Offset 4364.
 -- 「わかりましたか、親友」
-"¿Osea que lo sabías, amigo mío?"
+"¿O sea que lo sabías, amigo mío?"
 }
 [sha:5006a84464484ddf7f5f61a56964f17448a4b3ed]{
 -- Page 163, Offset 4365.
