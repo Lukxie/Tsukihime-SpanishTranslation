@@ -2,11 +2,6 @@
 * Fork del repo de Tsukihimates
 * Traducción open source de Tsukihime -A Piece of Blue Glass Moon- basada en la versión traducida al inglés by [Tsukihimates](https://twitter.com/tsukihimates).
 
-
-## Recursos
-### Documentation
-* Documentation is available [here](https://sites.google.com/view/tsukihimates/home).
-
 ### Herramientas
 * [deepLuna](https://github.com/Hakanaou/deepLuna) (extraction/injection tool. Sin relación a DeepL)
 * [Mangetsu 満月](https://github.com/rschlaikjer/mangetsu) (Gestor de archivos)
