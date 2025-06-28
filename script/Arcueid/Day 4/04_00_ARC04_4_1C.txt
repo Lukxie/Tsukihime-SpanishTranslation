@@ -284,7 +284,7 @@ Pero es imposible.
 [sha:487c0693f07375b478610a6fc4814f7318cf353f]{
 -- Page 320, Offset 6443.
 -- 「嘘よ。あなたはわたしを殺したのよ。
-"Mentira. Tú fuiste quién me mató.
+"Mentira. Tú fuiste quien me mató.
 }
 [sha:7b333c43ee54ad277403bcdcc0000b93e06730c0]{
 -- Page 320, Offset 6444.

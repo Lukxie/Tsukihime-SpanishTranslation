@@ -95,7 +95,7 @@ Aunque, no soluciona el problema de acercarse a él con esas llamas de por medio
 [sha:24128b8898d7512078d5d31ac357a24a8e20ba6a]{
 -- Page 252, Offset 9219.
 -- わたしがオトリ、志貴がトドメ。志貴ならヴローヴがどれだけ命のリザーブを持っていても関係ないしね」
-Yo seré el señuelo, y tú quién lo elimine.
+Yo seré el señuelo, y tú quien lo elimine.
  No importa cuánta energía tenga en reserva si el que da el golpe final eres tú."
 }
 [sha:0c7e28b442d3b5b610b2453b037fb1321f8f7a12]{

@@ -647,7 +647,7 @@ Su inversión vino ese día de la nada.
 [sha:4c24669dd856f3ab875ce4f27ca1dd774d62cb41]{
 -- Page 43, Offset 31794.
 -- その時シキに襲われたのが兄さん……貴方なんです」
-Y cuando pasó, a quién atacó... fue a ti, Nii-san."
+Y cuando pasó, a quien atacó... fue a ti, Nii-san."
 }
 [sha:9511356bb6b93b8a9485c2bd4068533950214074]{
 -- Page 44, Offset 31795.
@@ -882,7 +882,7 @@ Por tanto... hubiera sido imprudente hacer público que su hijo mayor, su suceso
 -- Page 59, Offset 31839.
 -- シキに殺されかけた遠野志貴を実子として扱い、反転して人間でなくなったシキを、事故で死亡した養子として扱えばいい、と。
 Si trataba a Tohno Shiki, al que SHIKI había matado, como a su propio hijo,
- entonces podría pretender que SHIKI, quién había dejado de ser humano,
+ entonces podría pretender que SHIKI, quien había dejado de ser humano,
  era el chico adoptado que falleció en el accidente.
 }
 [sha:f8d3f61dd674b998b3cd2c3b255cd130133407ad]{
@@ -1026,7 +1026,7 @@ La verdad es que yo también tengo un cuerpo peculiar, ¿es una coincidencia?"
 [sha:9dcaf97ee4c34f0f1e94ec470d8c66f323309350]{
 -- Page 69, Offset 31866.
 -- 「そうか……まあ、このさい自分が何者かなんて事は、本当にどうでもいいんだ。秋葉もそんなに気にしないでくれ。
-"Ya veo... bueno, a estas alturas no me importa quién soy. Así que tú tampoco tienes porqué preocuparte.
+"Ya veo... bueno, a estas alturas no me importa quién soy. Así que tú tampoco tienes por qué preocuparte.
 }
 [sha:528f1c0b3fb1731bb523120ea2955333c2275a12]{
 -- Page 69, Offset 31867.

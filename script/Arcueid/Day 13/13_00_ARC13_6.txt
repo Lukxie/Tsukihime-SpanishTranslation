@@ -371,7 +371,7 @@ Se encuentra Senpai, con una ligera falta de aliento, y una serie de hojas en su
 [sha:325ef13b275da83603b343fc003b3c4d48b42a7b]{
 -- Page 471, Offset 33034.
 -- 「とまあ。これで、この人を殺したのはわたしですね」
-"Bueno. Con eso, soy yo quién lo ha matado."
+"Bueno. Con eso, soy yo quien lo ha matado."
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 471, Offset 33035.

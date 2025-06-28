@@ -232,7 +232,7 @@ Solo dos sílabas.
 -- おとなたちはそろって、両手を真っ赤に染めたボクを、シキと呼んでおさえつけた。
 Los adultos forman un grupo y me inmovilizan.
  A mí, con las manos manchadas de un rojo intenso.
- A mí, a quién llaman %{i}Shiki%{/i}.
+ A mí, a quien llaman %{i}Shiki%{/i}.
 }
 [sha:52306f7710e3cbb995cf23b028962ccdb474212e]{
 -- Page 9, Offset 21338.

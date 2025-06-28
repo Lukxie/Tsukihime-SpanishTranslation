@@ -469,7 +469,7 @@ Pero si tenéis un objetivo en común, ¿no sería mejor cooperar?"
 -- でも今回は絶対に無理。人間には譲らないし、もし代行者があの女なら、まずそっちを始末してる」
 Pero esta vez no es una opción.
  No puedo entregárselo a un humano, y si %{i}ella%{/i} es la Ejecutora,
- es con quién tendré que lidiar primero."
+ es con quien tendré que lidiar primero."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 537, Offset 25654.
@@ -666,7 +666,7 @@ Si no, no habría usado las palabras 'a ser posible'.
 [sha:8686478471de72ace3ae3a0210fc5236018a6b71]{
 -- Page 551, Offset 25690.
 -- 「で。志貴を助けたのはその中でも異端狩りを専門としている連中よ。主の教えを代行する、という役割から<代行者|エクスキューター>って呼ばれてる。
-"Y pues, quién te salvó es miembro de un grupo que se especializa en cazar herejes.
+"Por lo que, quien te salvó es miembro de un grupo que se especializa en cazar herejes.
  Como son gente que ejecuta las enseñanzas del señor, se les llama Ejecutores.
 }
 [sha:efeba49bf796440ddad8816d033538e0571fbbbd]{

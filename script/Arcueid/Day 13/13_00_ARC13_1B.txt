@@ -421,7 +421,7 @@ Aunque esté relacionada con Mario, parece que no es particularmente cercano a �
 -- Page 111, Offset 31986.
 -- 「……はい。アレが今代のロアの転生体です。七年前に遠野くんの命を略奪した遠野シキ。……そのあたりの事情は秋葉さんに聞きました？」
 "Correcto. Es el huésped de la reencarnación actual de Roa.
- Quién te quitó la vida hace siete años: Tohno SHIKI...
+ Quien te quitó la vida hace siete años: Tohno SHIKI...
  ¿Akiha-san te ha puesto al día?"
 }
 [sha:8f833fa475195a7c2da80e81b93be66f460d80e3]{
@@ -1384,7 +1384,7 @@ Exacto, es demasiado simple...
 [sha:c4bbec9d238bcd24c687aa4cec4429622ecaca05]{
 -- Page 183, Offset 32168.
 -- たんに誰かと話して、自分のやりたい事をやるだけでいいんだから。
-Solo necesita alguien con quién hablar. Y la libertad para hacer lo que quiera.
+Solo necesita alguien con quien hablar. Y la libertad para hacer lo que quiera.
 }
 [sha:7ca2fd90c743e3abc826a8c569dfa2e999b89efc]{
 -- Page 184, Offset 32169.

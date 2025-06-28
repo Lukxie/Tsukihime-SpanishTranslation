@@ -523,7 +523,7 @@ Su hermano. Su hermano. Su hermano.
 [sha:ecb0281e8e2ebf69e9409e4e74beb2d34f7c78b9]{
 -- Page 182, Offset 21820.
 -- それはどう考えても俺の事で―――
-Tengo que ser yo, no sé quién más puede―――
+Tengo que ser yo, no sé quién más podría―――
 }
 [sha:2f3338d5a93d4f28330b72cf9a98eb33c85bcb43]{
 -- Page 183, Offset 21821.

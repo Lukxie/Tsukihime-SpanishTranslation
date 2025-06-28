@@ -327,7 +327,7 @@ Se dirige de vuelta al pasillo, sin duda se dirige a la cocina al final del ala 
 -- Page 51, Offset 5690.
 -- 食堂には自分と、柄にもなく遠慮がちな秋葉と、壁際に控えている翡翠の三人となった。
 Eso nos deja a nosotros tres en el comedor――
- una Akiha inusualmente reservada, Hisui, quién está de pie junto a la pared y a mi.
+ una Akiha inusualmente reservada, Hisui, quién está de pie junto a la pared y a mí.
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 52, Offset 5691.

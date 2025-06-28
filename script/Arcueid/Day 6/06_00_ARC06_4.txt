@@ -201,8 +201,8 @@ Qué patético... he tenido todo el día para darle vueltas y aún no lo he supe
 [sha:52bfd8c2efcc39c5fdc909d4c547e6ac6d27626c]{
 -- Page 337, Offset 14752.
 -- 私の仕事ぶりを<労|いたわ>ってくれた兄さんは、午後の休みをどのように過ごされたのです？」
-Como ha pasado mi querido Nii-san,
- quién se compadece tanto de mi vida laboral,
+¿Cómo ha pasado mi querido Nii-san,
+ quien se compadece tanto de mi vida laboral,
  su tarde libre?"
 }
 [sha:85e8460240778575443bc164886a02572334c29e]{

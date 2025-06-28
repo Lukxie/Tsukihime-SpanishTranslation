@@ -6,12 +6,12 @@ La localización del enemigo está clara.
 [sha:f068f3719ebc324587c1cfaedcf7c23d4c96672c]{
 -- Page 10014, Offset 9787.
 -- この下に倒すべきヴローヴが、
-En ese agujero se encuentra Vlov, quién hemos venido a derrotar―――
+En ese agujero se encuentra Vlov, quien hemos venido a derrotar―――
 }
 [sha:a8bdbd2c7c4fa3cfceb8f51377bf043dda0584be]{
 -- Page 10014, Offset 9788.
 -- 一緒に戦うと約束したアルクェイドがいる。
-Junto a Arcueid, con quién prometí luchar codo con codo.
+Junto a Arcueid, con quien prometí luchar codo con codo.
 }
 [sha:4873009cf0dc017bc9e3a2d5512628109616fc18]{
 -- Page 451, Offset 9789.

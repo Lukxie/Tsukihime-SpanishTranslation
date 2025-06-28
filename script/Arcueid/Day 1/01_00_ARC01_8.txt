@@ -455,7 +455,7 @@ De todos modos, parece que las personas que se alojaban aquí se mudaron con sus
 [sha:0de5b53616bab08a13176294cd0135c5281a1b35]{
 -- Page 481, Offset 2379.
 -- 近代的な娯楽を俗物的と毛嫌いしていた槙久が、自由にテレビやネットを使わせていたとは思えない。
-Es improbable que Makihisa, quién tenía prejuicios contra cosas vulgares como el entretenimiento moderno, fuera a permitir que la gente viese la tele o buscase en libremente en internet.
+Es improbable que Makihisa, quien tenía prejuicios contra cosas vulgares como el entretenimiento moderno, fuera a permitir que la gente viese la tele o buscase en libremente en internet.
 }
 [sha:e827d762e8884a83344dfdac783ea5e64039e2bf]{
 -- Page 481, Offset 2380.

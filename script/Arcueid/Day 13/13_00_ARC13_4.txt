@@ -936,7 +936,7 @@ Es irónico, pero no fui yo el que descubrió cómo usar este poder.
 [sha:f9330338f680171bf44fe2f47d9c07a1642c1756]{
 -- Page 363, Offset 32674.
 -- サンプルとして教授してくれたのは彼でね。なに、コツさえ掴めばどうという事はない。幾たび死を見てきた私にとって、モノの死を読む事はそう難しくはない事だ」
-Fue %{i}él%{/i} quién me enseñó como utilizarlo.
+Fue %{i}él%{/i} quien me enseñó como utilizarlo.
  Por supuesto, una vez lo entiendes no es gran cosa.
  Al ser alguien que ha visto la muerte incontables veces, leer la muerte no me resulta difícil."
 }

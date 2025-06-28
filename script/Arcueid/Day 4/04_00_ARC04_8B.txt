@@ -145,7 +145,7 @@ Nos hemos molestado en quedarnos en un hotel, ¿por qué no pides algo al servic
 -- Page 672, Offset 7358.
 -- 「いい、緊張感が削がれる。そういうおまえの方こそ何か食べた方がいいんじゃないか？　弱ってるクセに眠りもしないんだから、せめて食事ぐらいしろよ」
 "Paso, comer algo arruinaría el ambiente.
- Además, no eres quién para hablar.
+ Además, no eres quien para hablar.
  Tu eres la que está débil ahora mismo, e incluso si te niegas a dormir, al menos deberías comer."
 }
 [sha:71b40b8b6072713b66f341448d037141416c9b2a]{

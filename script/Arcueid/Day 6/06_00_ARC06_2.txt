@@ -412,7 +412,7 @@ Kohaku que se especializa en tratamiento médico, o Arach-sensei, que es diestra
 [sha:633c77d480e623db8ab7a1613e36bf2bae66aadd]{
 -- Page 170, Offset 14330.
 -- お好きな方を選んでください」
-Por favor elige a quién prefieras."
+Por favor elige a quien prefieras."
 }
 [sha:9f1d1b919fba264b1ca215a4411a5a195646ac68]{
 -- Page 171, Offset 14331.

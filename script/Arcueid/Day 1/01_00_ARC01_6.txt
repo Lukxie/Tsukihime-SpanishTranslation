@@ -128,7 +128,7 @@ Ella luce una sonrisa traviesa.%{n}
 [sha:60e956392f3102cfd2736636f261526669790c3e]{
 -- Page 305, Offset 1925. Glued.
 -- とお辞儀をして、お手伝いさんと思われる少女は退室していった。
-La chica, quién sospecho que es una de las sirvientas, hace una reverencia y sale de la habitación.
+La chica, quien sospecho que es una de las sirvientas, hace una reverencia y sale de la habitación.
 }
 [offset:1926]{
 -- Page 10018, Offset 1926. Mods: @k, @e.

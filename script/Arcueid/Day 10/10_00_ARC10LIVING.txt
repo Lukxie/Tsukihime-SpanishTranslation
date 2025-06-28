@@ -430,7 +430,7 @@ Kohaku-san se anima levantando ambos brazos.
 -- Page 915, Offset 26913.
 -- 今朝は珍しく、翡翠ではなく琥珀さんが見送りにきてくれた。
 En un giro inesperado de los acontecimientos,
- en vez de Hisui, esta mañana quién me despide es Kohaku-san.
+ en vez de Hisui, esta mañana quien me despide es Kohaku-san.
 }
 [sha:bf95066c7c4a506e7d97b7c66da6c3988a2c041e]{
 -- Page 915, Offset 26914.
@@ -1120,7 +1120,7 @@ Me desplomo en el suelo.
 [sha:d22617e27df76f838b71b1196c37fe8e1dbdaf25]{
 -- Page 955, Offset 27046.
 -- 遠野志貴を生かしている何かの不興を買ったらしい。
-Parece que he perdido el favor de quién sea que me estuviera manteniendo con vida.
+Parece que he perdido el favor de quien sea que me estuviera manteniendo con vida.
 }
 [sha:a8d3f2e9c4a0b20c6dad734431e210da436d1a71]{
 -- Page 955, Offset 27047.

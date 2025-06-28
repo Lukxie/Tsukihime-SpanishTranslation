@@ -190,7 +190,7 @@ Después de todo, ella ha vuelto increíblemente pronto
 [sha:752c7f13d21b4e063b31c0a3c9c31d598aa868ca]{
 -- Page 212, Offset 3162. Mods: @k, @e.
 -- 「そんなの決まって……
-"Bueno, no hay nadie más a quién me pueda estar refiriendo salvo――
+"Bueno, no hay nadie más a quien me pueda estar refiriendo salvo――
 }
 [sha:4e2db81cb5051e0f0cddb93d965f1fd9dbb53c9c]{
 -- Page 212, Offset 3163. Glued. Mods: @x.

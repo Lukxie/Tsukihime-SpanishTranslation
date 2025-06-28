@@ -64,7 +64,7 @@ Con los escombros esparcidos por el golpe, debe ser capaz de ver lo que ha pasad
 -- Page 663, Offset 10432.
 -- 最後の力で岩盤を両手でひっくり返し、その消耗から膝をついたアルクェイドと、おそらく、この土砂を目くらましにして接近する“脅威”が、どこにも見当たらない事を。
 Ambas cosas, que Arcueid está de rodillas tras usar sus fuerzas restantes para levantar las rocas,
- y que la amenaza――quién asume que está acercándose usando los escombros como pantalla de humo――no está por ningún lado.
+ y que la amenaza――quien asume que está acercándose usando los escombros como pantalla de humo――no está por ningún lado.
 }
 [sha:f80ab1991bb3b2ad95818f4ff954cd3c6ab7c235]{
 -- Page 664, Offset 10433.

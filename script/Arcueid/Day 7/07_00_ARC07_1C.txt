@@ -76,7 +76,7 @@ Estar desconectado del mundo siquiera por unas horas puede ser cuestión de vida
 [sha:3c179f48b2fe8f703cc03640faeede4ff4212197]{
 -- Page 95, Offset 16806.
 -- ネット依存症にもとれるが、コイツの場合は他の学生とは毛色が違う。
-Dirías que es adicto a internet, pero es Arihiko de quién estamos hablando.
+Dirías que es adicto a internet, pero es Arihiko de quien estamos hablando.
  Es de una raza completamente distinta a otros estudiantes.
 }
 [sha:70298690b53af492b4a93a757f233c72aaef0bd2]{

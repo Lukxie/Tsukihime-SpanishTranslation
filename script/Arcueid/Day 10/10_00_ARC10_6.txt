@@ -1154,7 +1154,7 @@ Acabo de tragarme toda esa explicación elaborada, ¿y ahora dice que %{i}no%{/i
 -- 「100パーセントだあ？　なら前提が間違えてんだよ、このお布施泥棒が。オレは悪名高き“人間使い”、ラウレンティス枢機卿の秘蔵っ子だぞ？　人を見る目だけはテメェにも、テメェの師匠にも負けてねえ」
 "¿Cien por ciento dices? Entonces algo fallaba de tu premisa, maldita imbécil.
  Soy el infame 'Titiritero' y el preciado hijo del Cardenal Laurentis, ¿recuerdas?
- No soy alguien a quién ni tú, ni tu maestro podáis superar a la hora de juzgar a alguien por como es."
+ No soy alguien a quien ni tú, ni tu maestro podáis superar a la hora de juzgar a alguien por como es."
 }
 [sha:e864fb5b7e2847907a601d2ce278c83cce49181a]{
 -- Page 742, Offset 26291.
@@ -1286,7 +1286,7 @@ De hecho, si quieres formar parte de la humanidad, %{i}debes%{/i} considerarlos 
 [sha:ddd06c93369937c495a45a77b0619d3a00fec89f]{
 -- Page 750, Offset 26314.
 -- ―――それができない人間に、人としての権利はないわ」
-―――Quién no pueda hacerlo, no tiene derecho a llamarse humano."
+―――Quien no pueda hacerlo, no tiene derecho a llamarse humano."
 }
 [sha:2c380b593f5e9b1b39b2def3f283d5029cd534d6]{
 -- Page 751, Offset 26315.

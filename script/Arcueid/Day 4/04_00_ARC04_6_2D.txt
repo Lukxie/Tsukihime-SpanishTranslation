@@ -154,7 +154,7 @@ Ese es el tipo de reacción que me esperaba.
 [sha:bf294f91b1853a5f7227388f66755b84677b4d77]{
 -- Page 574, Offset 7113.
 -- 事実、今までずっとそうだった。
-De hecho, no creo que lo haya hecho ni una sola persona a quién se lo he dicho.
+De hecho, no creo que nadie a quien se lo he dicho me haya creido alguna vez.
 }
 [sha:81c05dc09d862d01d9628ea05bc48308921b5326]{
 -- Page 575, Offset 7114.

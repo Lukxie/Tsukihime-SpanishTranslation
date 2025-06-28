@@ -984,7 +984,7 @@ Le hablo de mi casa――de como provengo de una familia con una larga historia,
 -- Page 67, Offset 297.
 -- あきはという妹がいて、とてもおとなしくて、いつも僕のあとについてきていたこと。
 Le cuento sobre mi hermana pequeña Akiha,
- quién es muy callada y siempre anda siguiéndome.
+ quien es muy callada y siempre anda siguiéndome.
 }
 [sha:c384a91254acbc2db5a892b12c6ee0b6ffe0aecb]{
 -- Page 68, Offset 298.
@@ -1406,7 +1406,7 @@ Esas líneas no son una ilusión,
 [sha:c250a993677f3ebf9042de09ed742c7559cc49b2]{
 -- Page 101, Offset 377.
 -- じゃあやっぱり、おかしいのは僕だけなんだね」
-Osea que después de todo yo soy el raro."
+O sea que después de todo yo soy el raro."
 }
 [sha:62f77637da25322db80f156bd849d6e2db35be5e]{
 -- Page 101, Offset 378.
@@ -1571,7 +1571,7 @@ Después de todo, esa parece ser la razón por la que estoy aquí."
 [sha:a57263144a8c05039855a6327a55270c223f054d]{
 -- Page 115, Offset 408.
 -- 先生はおおげさにため息をついてから、太陽みたいにニッコリと微笑んだ。
-Sensei suspira en alto, pero entonces empieza a sonreirme.
+Sensei suspira en alto, pero entonces empieza a sonreírme.
 }
 [sha:afb97e39bd725617b2d250b05a036968978cc0f5]{
 -- Page 116, Offset 409.
@@ -1611,7 +1611,7 @@ Sensei me entrega un par de gafas de apariencia ordinaria.
 [sha:23f83594a264334e4fd1d62bf4a5d1a5117bbd2f]{
 -- Page 120, Offset 416.
 -- 「いいからかけなさい。度は入ってないから」
-"Sólo pontelas. No llevan lentes correctivas."
+"Venga póntelas. No llevan lentes correctivas."
 }
 [sha:73d5a43c8585dc550edb8dc20fb5f6ae1ae8bf49]{
 -- Page 121, Offset 417.

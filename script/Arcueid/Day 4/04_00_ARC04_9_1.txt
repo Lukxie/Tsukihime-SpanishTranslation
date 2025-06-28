@@ -1131,7 +1131,7 @@ Es por eso que―――
 [sha:d427481d077eed08bf31f4e9786355062fce63ff]{
 -- Page 786, Offset 7723.
 -- 自分が自分としてあるかぎり、マトモな人間でいるかぎり、俺は決して、命を粗末にしてはいけない筈だ。
-Mientras siga siendo quién soy, mientras siga siendo un ser humano decente, debo respetar la vida y no tratarla a la ligera.
+Mientras siga siendo quien soy, mientras siga siendo un ser humano decente, debo respetar la vida y no tratarla a la ligera.
 }
 [sha:224b66cc36c5e07199657a5f61ac9a7a230bdc26]{
 -- Page 787, Offset 7724.

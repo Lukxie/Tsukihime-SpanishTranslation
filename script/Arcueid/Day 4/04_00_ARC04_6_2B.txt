@@ -131,7 +131,7 @@ Porque en este momento, Arcueid está muy débil.
 [sha:0ebbe0c0ecdc883a7c3d794528df90cb0ab4139e]{
 -- Page 480, Offset 6884.
 -- 「そして、敵とやらには手足になる部下がいて、おまえには誰もいない、と」
-"Además, este enemigo tiene subordinados que hacen el trabajo sucio por él, pero tú por otro lado no tienes nadie de quién depender, ¿cierto?"
+"Además, este enemigo tiene subordinados que hacen el trabajo sucio por él, pero tú por otro lado no tienes nadie de quien depender, ¿cierto?"
 }
 [sha:ec17305b76a8246a0758c72763a6a50e917360cd]{
 -- Page 480, Offset 6885.

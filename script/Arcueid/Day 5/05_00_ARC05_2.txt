@@ -109,7 +109,7 @@ Los Ancestros los superan completamente.
 Aquellos que gobiernan esos países,
  o aquellos mismos que pueden considerarse un país,
  son vampiros antiguos conocidos como 'Ancestros'.
- Quiénes se encuentran en la cima de los Apóstoles Muertos."
+ Quienes se encuentran en la cima de los Apóstoles Muertos."
 }
 [sha:1a81e8a2407e73d05285fed1dbfd4a4e7bea33d5]{
 -- Page 182, Offset 9028.

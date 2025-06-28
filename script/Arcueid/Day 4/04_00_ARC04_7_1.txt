@@ -68,7 +68,7 @@ Arcueid se queda callada, con una expresión seria en su rostro.
 [sha:c9aaa42138d8517b79c7004e171229be16950812]{
 -- Page 644, Offset 7286.
 -- 「知ってるわ。現存する四人の魔法使いの一人だもの。
-"Sé quien es. Es una de los cuatro magos existentes.
+"Sé quién es. Es una de los cuatro magos existentes.
 }
 [sha:f83e298ce791519f68db91075e90f8744c85de17]{
 -- Page 644, Offset 7287.

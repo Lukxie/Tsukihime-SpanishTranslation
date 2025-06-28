@@ -944,12 +944,12 @@ Ahí no hay nadie más.
 [sha:9b6a97a608dd6dd02b1658e10b61326580323bdf]{
 -- Page 101, Offset 29786.
 -- 話すべき相手もいない。
-Nadie con quién hablar.
+Nadie con quien hablar.
 }
 [sha:d25887353597c246c0af92e7dd7af86af7b6950f]{
 -- Page 101, Offset 29787.
 -- 顔を合わせる相手もいない。
-Nadie a quién conocer.
+Nadie a quien conocer.
 }
 [sha:3b4f37fc87ff83c8ddf53c47346688911177e7ed]{
 -- Page 102, Offset 29788.

@@ -71,7 +71,7 @@ De ninguna manera volveré a enfrentarme a él.
 [sha:dc4a5296549af8365c8670cb7cd6b7723c458309]{
 -- Page 207, Offset 9104.
 -- 一度殺されかけた俺自身が、なによりそれを実感している。
-Como alguien a quién antes casi mata, soy demasiado consciente de ese hecho.
+Como alguien a quien antes casi mata, soy demasiado consciente de ese hecho.
 }
 [sha:9d70e6dd9dfeae2585eceb4de937aca81b81bee6]{
 -- Page 208, Offset 9105.

@@ -620,7 +620,7 @@ Respiro aún más fuerte.
 [sha:e47f92c9192f0ab043245aeb882d34e1ac76100b]{
 -- Page 135, Offset 5930.
 -- もう何キロ全力で走っただろうか。
-He estado corriendo a toda velocidad durante sabe quién cuántos kilómetros.
+He estado corriendo a toda velocidad durante sabe quien cuántos kilómetros.
 }
 [sha:5bc65173801d05d69e8173668229be1f480e5e18]{
 -- Page 135, Offset 5931.

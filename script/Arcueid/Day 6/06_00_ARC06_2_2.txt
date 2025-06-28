@@ -309,7 +309,7 @@ Ha hecho un trabajo brillante...
 [sha:72845258f898c8809b61a756f1c6efb828176940]{
 -- Page 237, Offset 14487.
 -- 有間の家にいた頃お世話になっていた医院のじじいにも引けを取らない。この人、黙っていれば名医なんじゃないのか？
-Está a la par con los cuidados que recibí del viejo de la clínica, quién se encargaba de mi cuando vivía con los Arimas.
+Está a la par con los cuidados que recibí del viejo de la clínica, quien se encargaba de mi cuando vivía con los Arimas.
  Si se quedase callada seguramente sería una gran doctora.
 }
 [sha:6ac59120e4f3060d02042430c8f5ad15d81f07b5]{

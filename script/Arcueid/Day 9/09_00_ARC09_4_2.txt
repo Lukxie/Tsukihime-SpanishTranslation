@@ -136,7 +136,7 @@ Lo entiendo, pero aún así, tengo que ir al parque.
 [sha:e20dd55e5428cd71358900d1c56f88b421bbd09d]{
 -- Page 244, Offset 21973.
 -- ……アイツの事だから、放っておいたらバカ正直に何時間も待つに決まっている。
-Es de %{i}ella%{/i} de quién estamos hablando.
+Es de %{i}ella%{/i} de quien estamos hablando.
  Si dejo tirada a esa idiota, se quedará esperando tantas horas como sea necesario.
 }
 [sha:debc5ea9739e532c105c23fec4e49921539e2386]{
@@ -647,7 +647,7 @@ Su mirada se ha mantenido totalmente afilada desde el momento que he empezado a 
 [sha:bc61d2e501a570609550918c80cff211be802f71]{
 -- Page 280, Offset 22066.
 -- その死者は何者だか知らないけど、修道服を着た女のことなら見当はつく」
-No se quién era ese Muerto,
+No sé quién era ese Muerto,
  pero me hago una buena idea de quién era esa mujer vestida de monja."
 }
 [sha:7cd069a88050cfc4122556cf13db6a445b88dbc1]{
@@ -674,7 +674,7 @@ Su irritación es casi asesina.
 [sha:cd2e6dfb8162f03ff9150876bef80d9e5f65b644]{
 -- Page 282, Offset 22071.
 -- 「ええ。教会の異端狩りよ。志貴を助けたヤツはそこで一番厄介な部署の代行者。
-"Sí. Los cazadores de herejes de la Iglesia. Quién te salvó era un Ejecutor de su departamento más problemático.
+"Sí. Los cazadores de herejes de la Iglesia. Quien te salvó era un Ejecutor de su departamento más problemático.
 }
 [sha:f8970899e533619a4d447f4c63280a18d5d76755]{
 -- Page 282, Offset 22072.

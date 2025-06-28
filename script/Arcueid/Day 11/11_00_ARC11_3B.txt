@@ -171,7 +171,7 @@ No podía aguantarlo ni un segundo más, quería conocerte ya.
 [sha:cbdccfbf43b0a7a7c910f0485e1d2ed44f345325]{
 -- Page 263, Offset 30279.
 -- わたしをあんなふうに殺したヤツ、わたしが初めて、自分を見失うぐらいに―――ずっと、思い続けている誰かに」
-La persona que me mató brutalmente, quién me hizo perder los estribos por primera vez――
+La persona que me mató brutalmente, quien me hizo perder los estribos por primera vez――
 la persona en la que no podía parar de pensar."
 }
 [sha:8013765baa0d4c20587d4bc45473f217aa118286]{
@@ -410,7 +410,7 @@ Con eso, es jaque mate.
 [sha:108d6a430a80afd9385455aae6dd62dc647bd2f0]{
 -- Page 278, Offset 30326.
 -- 自分が遠野志貴という人間である事さえ消失した。
-Mi mente se queda en blanco. Incluso ni sé quien soy.
+Mi mente se queda en blanco. Ya ni siquiera sé quién soy.
 }
 [sha:b30e1adf8492ad9ef9e2f349b38e2ca8a8917a9a]{
 -- Page 279, Offset 30327.

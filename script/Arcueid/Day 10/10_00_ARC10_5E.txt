@@ -574,8 +574,8 @@ Nunca me he visto forzado a hacer nada, ni una sola vez.
 [sha:1af38d69b736411ee78c09f12cad6c2762564ccd]{
 -- Page 665, Offset 26042.
 -- 「違う……！　なんだよアンタら、いきなり出てきて、全部わかってるようなコトを言って……！　アルクェイドは血を吸った事なんて一度もない！　さっきのはただの冗談だ……！」
-"!Os equivocáis! ¡¿Quién os creéis que sois, saliendo de la nada y actuando como si supierais todo?!
- ¡Arcueid nunca ha chupado sangre, nunca! ¡Lo de antes era solo una broma!"
+"!Os equivocáis! ¡¿Quién os creéis que sois, saliendo de la nada y actuando como si supiérais todo?!
+ ¡Arcueid nunca ha chupado sangre! ¡Nunca! ¡Lo de antes era solo una broma!"
 }
 [sha:43104bd79f51b589d87c1295ee301a99240b1dc8]{
 -- Page 666, Offset 26043.
@@ -598,7 +598,7 @@ Es cierto que este Verdadero Ancestro es excepcional.
 [sha:22aba494d6c425eb10a4071232d32eb044f3e43a]{
 -- Page 667, Offset 26046.
 -- いいか、アルクェイドの邪魔をするなら、アンタらが何であろうと許さない。
-Escucha bien. Si te interpones en el camino de Arcueid, me da igual quién seas, no te lo perdonaré.
+Escuchame bien. Si te interpones en el camino de Arcueid, da igual quién seas, no te lo perdonaré.
 }
 [sha:097d916d50bf5b5a0790d7d2ec3c91d28fbea86a]{
 -- Page 667, Offset 26047. Mods: @k, @e.
