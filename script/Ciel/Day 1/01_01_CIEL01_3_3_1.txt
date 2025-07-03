@@ -11,7 +11,7 @@
 [sha:04589ac1b1df181bcdf8f88767b932427ebedb60]{
 -- Page 10005, Offset 999. Glued. Mods: @x.
 -- なんだか遠野くんの方が落ち着いてるなって、ちょっと驚いてました」
- me ha sorpendido que parezcas más relajado que yo."
+ me ha sorprendido que parezcas más relajado que yo."
 }
 [sha:dd2c00a9b24b084da066b777a7085c792c29a5c5]{
 -- Page 215, Offset 1000.
@@ -66,7 +66,7 @@ Senpai deja caer los hombros.
 [sha:16e02adaefce2f0be73cb6891294c9103054420f]{
 -- Page 220, Offset 1009.
 -- ……そこまで反省されるとこっちも申し訳ない気持ちになる。
-Verla tan decaida me hace sentir un poco culpable...
+Verla tan decaída me hace sentir un poco culpable...
 }
 [sha:4f8e1442c57d575ac488d6ab29da467fa4162238]{
 -- Page 221, Offset 1010.
@@ -108,7 +108,7 @@ Sus ojos son tan serios que me siento como si fuera un animal raro en el zoo...
 -- Page 223, Offset 1017.
 -- 慣れていない、という事もあるけど、こう正面から見つめられるとさすがに気恥ずかしい。
 No estoy acostumbrado a que me miren así...
- Me da un poco de verguenza que me examinen tan de cerca.
+ Me da un poco de vergüenza que me examinen tan de cerca.
 }
 [sha:33ae56612a7483a1a33e94c39b48f68a68df9674]{
 -- Page 224, Offset 1018.

@@ -290,7 +290,7 @@ Siento que me voy a derretir, pero debo vigilar. Tengo que enderezarme y estar a
 [sha:44737c7dd19364864770bba0e7f081f9b6988c56]{
 -- Page 441, Offset 6781.
 -- しかし。こうして見ると、やっぱり悪夢めいた美しさだ。
-Aún así. Mirándola bien, es terriblemente preciosa.
+Aun así. Mirándola bien, es terriblemente preciosa.
 }
 [sha:e0ff6403025789f45c4a2b4a7433b3ad5dd48dbb]{
 -- Page 441, Offset 6782.

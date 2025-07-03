@@ -23,7 +23,7 @@ Por tanto, tengo que mantener mis gastos al mínimo.
 [sha:30037a46449f0130513cd6813f2b8b86c74f2420]{
 -- Page 10, Offset 3640.
 -- 購買部で手頃なパンと紅茶パックを買ってきた。
-Voy a compar un pan barato y té de la tienda de la escuela.
+Voy a comprar un pan barato y té de la tienda de la escuela.
 }
 [sha:5eb4f21e4056302f345ca2a1908b4b885ca05980]{
 -- Page 10, Offset 3641.
@@ -50,7 +50,7 @@ Acaban de traer nuevos productos, por lo que la cola es un poco más larga de lo
 -- Page 12, Offset 3645.
 -- それで、ちょっとおかずが余っちゃったんだけど……これからお昼なら、サイドメニューとしてどうかな？」
 Pero, eh, me ha sobrado un poco de los segundos...
- Como vas a comer, ¿te apetece algun plato extra con tu comida?"
+ Como vas a comer, ¿te apetece algún plato extra con tu comida?"
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
 -- Page 13, Offset 3646.
@@ -148,7 +148,7 @@ P-Por cierto... Ah, ¡sí! ¿Has escuchado las noticias sobre Toyama-sensei?"
 [sha:824c1bd0829a4b070208365b0568f1a809c76e99]{
 -- Page 20, Offset 3664.
 -- なんでも自動車事故に巻きこまれて、脚を骨折したから入院する事になったらしいよ」
-Escuche que se vió involucrada en un accidente de coche y se rompió la pierna, por lo que tuvieron que hospitalizarla."
+Escuche que se vio involucrada en un accidente de coche y se rompió la pierna, por lo que tuvieron que hospitalizarla."
 }
 [sha:e309cb7351e4116750b1ed459f8c82d8bb575743]{
 -- Page 21, Offset 3665.
@@ -184,7 +184,7 @@ La sonrisa de Yumizuka cambia a una expresión de remordimiento.
 [sha:ef137bd6357e9ab9017c7f2dcdd27a522c82afc2]{
 -- Page 23, Offset 3671.
 -- でも彼女の気持ちも分かる。
-Aún así, entiendo como se siente.
+Aun así, entiendo como se siente.
 }
 [sha:cd798f27a7bf435e0aa242a64df2e52ce9898529]{
 -- Page 23, Offset 3672.

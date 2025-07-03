@@ -63,7 +63,7 @@ Por alguna razón, me siento avergonzado y respondo con un saludo mediocre.
 [sha:412f63f6a2bdb636e40d5a628ef63891e3b0404b]{
 -- Page 59, Offset 633.
 -- でもわたしたち、今日はもう会っていますから『こんにちは』というのは正しくないですね」
-Aunque,ya nos hemos visto hoy, por lo que 'me alegro de verte' no es la frase adecuada."
+Aunque, ya nos hemos visto hoy, por lo que 'me alegro de verte' no es la frase adecuada."
 }
 [sha:2d7b1b7315cdafa2d1ef8c5e60cda893dbb11cb2]{
 -- Page 59, Offset 634.
@@ -221,7 +221,7 @@ Sus miradas provocadoras hacen que mis mejillas ya sonrojadas adquieran aún má
 [sha:57b8c41dfa07c7a15aa7c179956d7f282fa113ea]{
 -- Page 71, Offset 664.
 -- 今日は誰かとランチしたい気分だったんです。運が悪かったと思って、わたしにおごられてください」
-Me apetece comer con alguien. Consiederalo mala suerte y déjame invitarte."
+Me apetece comer con alguien. Considéralo mala suerte y déjame invitarte."
 }
 [sha:d321391906caeb198664e579afc0ddd6fe46bcd0]{
 -- Page 72, Offset 665.
@@ -261,7 +261,7 @@ Ciel-senpai me toma la mano de nuevo y camina rápidamente por el pasillo.
 [sha:f842a9f908e03236f95a391041eef0304689171a]{
 -- Page 76, Offset 672.
 -- 混み合う前なのか、食堂のテーブルは空き放題だった。
-Debemos habernos adelantado a la multitud, porque hay bastantes asientos disponibles en la cafatería.
+Debemos habernos adelantado a la multitud, porque hay bastantes asientos disponibles en la cafetería.
 }
 [sha:d8b701c3db1833f7273e18173c881076d63ce6a8]{
 -- Page 76, Offset 673.
@@ -271,7 +271,7 @@ Aunque ya se ha formado cola en el mostrador, pedir no debería llevarnos más d
 [sha:5d7b88f329c5fca3334893de0bbfb2b1050b38d4]{
 -- Page 77, Offset 674.
 -- 「わたしが並びますから、遠野くんは席を確保しておいてください。嫌いなメニューはありますか？　あるのでしたら今のうちに聞いておきますけど」
-"Me pondré a la cola. Tohno-kun, por favor guardame un sitio. ¿Hay algo que no te guste? Si es así, deberías decirmelo ahora."
+"Me pondré a la cola. Tohno-kun, por favor guárdame un sitio. ¿Hay algo que no te guste? Si es así, deberías decírmelo ahora."
 }
 [sha:c2266072326feddf3e3aa56cbc8e166abd8233bc]{
 -- Page 78, Offset 675.
@@ -473,7 +473,7 @@ Senpai se sienta en la mesa despreocupadamente.
 [sha:85cb718dde4931c485109ec77c0a869bd8a70cfd]{
 -- Page 93, Offset 713.
 -- 俺の対面―――即ち、有彦のとなりの席である。
-Elige el sitio frente a mi――lo que la situa al lado de Arihiko.
+Elige el sitio frente a mi――lo que la sitúa al lado de Arihiko.
 }
 [sha:b7fdf71dfb3f70f3de21b4831a4a13e39cc78eb4]{
 -- Page 94, Offset 714.
@@ -663,7 +663,7 @@ El hombre cuyo cerebro había cortocircuitado hace un minuto finalmente se reini
 "¡¿Cuanto tiempo vas a seguir ignorando a tu mejor amigo del alma?!
  Deberías estar como '¡Ey! Gracias por estar vivo, Inui-kun!
  ¡Ah! Por cierto, ¡hoy por supuesto debería presentarte a mi preciosa senpai!
- ¡Oh no! ¡Me ha salido algo! Hora de irme a la parte trasera de la escuela, ¡¿por qué no os quedaís charlando?!'
+ ¡Oh no! ¡Me ha salido algo! Hora de irme a la parte trasera de la escuela, ¡¿por qué no os quedáis charlando?!'
  ¡Y también, si te sobra curry udon, me lo puedes dar!"
 }
 [sha:de43ed5a08af09659e08ddc1e4c953a2dcaa5ca8]{
@@ -704,7 +704,7 @@ Mi supuesto 'mejo' reitera con fuerza.
 [sha:2d257df1c5a18bd70d3b8f42c73d124d08a20e36]{
 -- Page 110, Offset 758.
 -- 「いいッス、筋の通った理由ッスから。というか、名前さえ教えてくれたらこっちから遠野を連れだしたッスよ。
-"¡No pasa nada! Es por una buena razón. Le habría traido si me hubieras dicho su nombre.
+"¡No pasa nada! Es por una buena razón. Le habría traído si me hubieras dicho su nombre.
 }
 [sha:6ab0f5807f90ec7c67d57a0c873e871a15e4432c]{
 -- Page 110, Offset 759.
@@ -741,7 +741,7 @@ Espera. ¿Temprano por la mañana? Sé que Tohno viene a la escuela en tren, ¿p
 [sha:4497856bf2039b846e47881a599ce913a1f8dee5]{
 -- Page 113, Offset 765.
 -- ほら、学校の掲示板でもあったでしょう？　生徒は自主的に参加するようにって」
-¿No has visto el boletín escolar? Pedían que los estudiantes se ofreciran como voluntarios."
+¿No has visto el boletín escolar? Pedían que los estudiantes se ofrecieran como voluntarios."
 }
 [sha:48780cbc514e090a1bce76b9cdc81de60cccfe36]{
 -- Page 114, Offset 766.
@@ -1148,7 +1148,7 @@ Para ser sincero, no me siento cómodo hablando de la familia Tohno.
 [sha:224457c4f7e0bbbb5e6ba59f1e3b55c2750bd729]{
 -- Page 149, Offset 845.
 -- 「へえ。仲がいいんですね、二人とも」
-"Wow. Los dos os llevaís muy bien, ¿no?"
+"Wow. Los dos os lleváis muy bien, ¿no?"
 }
 [sha:2840bcd7edeac430d2bfa6764eb31e1f0f6a014b]{
 -- Page 149, Offset 846.
@@ -1238,7 +1238,7 @@ Quiero decir, ¿no te llevabas con tu anterior familia...?"
 [sha:405758abecfcb888c10dac92eac6b1c266ed3d77]{
 -- Page 158, Offset 863.
 -- だって言うのにこいつは養子にならないかって話も断って、休みになればオレんところに逃げてきやがるんだ。ホントに何が不満なんだオマエは」
-Y aún así, rechaza cualquier noción sobre ser su hijo adoptivo y huye a mi casa en los días libres. De veras, ¿con qué no estas satisfecho?"
+Y Aun así, rechaza cualquier noción sobre ser su hijo adoptivo y huye a mi casa en los días libres. De veras, ¿con qué no estas satisfecho?"
 }
 [sha:58cb4904785f9acf785309150ac8966cd263b825]{
 -- Page 159, Offset 864.
@@ -1319,7 +1319,7 @@ Aunque hayamos estado hablando la mayoría del tiempo, Senpai ya se ha terminado
 [sha:ded1b9950defa2a4d1ef6be4383d9dda91d23827]{
 -- Page 166, Offset 879.
 -- 「いえいえ、承知していますとも。それでは邪魔者はここで。お先に失礼しますね」
-"No, no, lo entiendo. Ahora, si me disculpais. Os dejo con ello."
+"No, no, lo entiendo. Ahora, si me disculpáis. Os dejo con ello."
 }
 [sha:262d082ca936bc7ef23bc1c1459734f94f5de6d8]{
 -- Page 166, Offset 880.
@@ -1351,7 +1351,7 @@ Arihiko sorbe su chikara udon.
 [sha:60131e7c9a99e1bbe850f22b05513a30fc700dfb]{
 -- Page 168, Offset 885.
 -- 先輩と話すのに夢中で、すっかり冷めてしまっている。
-Estaba tan absorto en la conversación con Senpai que se le ha queado frío.
+Estaba tan absorto en la conversación con Senpai que se le ha quedado frío.
 }
 [sha:3d1dd99c56ef804b46344bae77aaab8872e52c70]{
 -- Page 169, Offset 886.
@@ -1424,7 +1424,7 @@ Solo me pidió que me marchara de la mansión por alguna razón."
 [sha:fe332c2fb125949adb2e480d604fa04bddaedd3e]{
 -- Page 174, Offset 899.
 -- ただしホラー一歩手前、寒すぎて笑えねえけどな！」
-¡Pero esto está aun paso del terror! ¡Es tan cruel que ni siquiera me puedo reir!"
+¡Pero esto está a un paso del terror! ¡Es tan cruel que ni siquiera me puedo reír!"
 }
 [sha:0f3b4f4941ef71e8011bbc343999a40b4ff18982]{
 -- Page 175, Offset 900.

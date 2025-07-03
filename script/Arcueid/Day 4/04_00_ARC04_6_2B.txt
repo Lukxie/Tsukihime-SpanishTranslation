@@ -342,7 +342,7 @@ El poder del Soberano continúa acumulándose mientras duerme en su ataúd,
 [sha:467bee35a6a045cdc86d29ef9ed012fff3545e56]{
 -- Page 496, Offset 6925.
 -- 「今はまだ下僕の数が少ないから大した能力はないんだけど、犠牲者が増えれば増えた分だけ“城主”の力は増していく。
-"Ahora mismo, no tienen suficientes subordinados y no son muy peligrosos. Aún así, al crecer el número de víctimas, también crece el poder del Soberano.
+"Ahora mismo, no tienen suficientes subordinados y no son muy peligrosos. Aun así, al crecer el número de víctimas, también crece el poder del Soberano.
 }
 [sha:c7f407980e10e0f6c8fed7ab15c25948f2e33402]{
 -- Page 496, Offset 6926.
@@ -505,7 +505,7 @@ Si los vampiros tienen que esconderse, esos cazadores deben ser especialistas an
 [offset:6956]{
 -- Page 506, Offset 6956.
 -- しかし……
-Aún así...
+Aun así...
 }
 [sha:99094d8e6f805b67442163d69a5da8923fa97bd8]{
 -- Page 507, Offset 6957.

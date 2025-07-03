@@ -184,7 +184,7 @@ Al volver al mundo real y mi respiración vuelve a la normalidad.
 [sha:ae9ec7f657e5cd38be9f2d28fc7391c83c882416]{
 -- Page 917, Offset 8094.
 -- ―――でも、声をかけてくれてありがとう。助かった」
-Aún así, gracias por avisarme. Me ha ayudado mucho."
+Aun así, gracias por avisarme. Me ha ayudado mucho."
 }
 [sha:108ccd2657609d88abcb0635876e764a8f482999]{
 -- Page 918, Offset 8095.

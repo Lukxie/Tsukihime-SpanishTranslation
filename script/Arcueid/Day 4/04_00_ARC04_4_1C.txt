@@ -197,7 +197,7 @@ Esta vez, me calmo de verdad.
 [sha:87596d344912eca502d74610971623c6b046475d]{
 -- Page 314, Offset 6427.
 -- 「……でも、ちょっとまずい展開になってきた。
-"Aún así... las cosas acaban de empeorar.
+"Aun así... las cosas acaban de empeorar.
 }
 [sha:ac7b55e9f58cfe82544591e00906f80cec186ac8]{
 -- Page 314, Offset 6428.

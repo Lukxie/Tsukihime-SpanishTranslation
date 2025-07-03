@@ -21,7 +21,7 @@ La espléndida forma de sus piernas es la encarnación――no, la %{i}esencia%{
 [sha:02ef5ad06ec26e08d3fdfbe4b7b1212b4ad628e4]{
 -- Page 12, Offset 526.
 -- 流水の滑らかさと、止まっていながらも伝わる躍動感。
-Y aún así, manifiestan el vivaz movimiento del suave fluir del agua.
+Y Aun así, manifiestan el vivaz movimiento del suave fluir del agua.
 }
 [sha:3312612895bb5900467b2f22911aa59cdbf523bc]{
 -- Page 12, Offset 527.
@@ -178,7 +178,7 @@ Tras un momento de confusión, vuelvo en mi.
 [sha:85efaecfb9dc989da481fef75aa28d3b2f357e54]{
 -- Page 24, Offset 557.
 -- こほんと咳払いをして空気を切り替える。
-Garraspeo para romper la tensión.
+Carraspeo para romper la tensión.
 }
 [sha:3989d15a6dcc367676b65230d125f1e0ad43b3e0]{
 -- Page 25, Offset 558.
@@ -189,7 +189,7 @@ Garraspeo para romper la tensión.
 -- Page 25, Offset 559.
 -- それよりどうしたんですか？　先輩、部活やってませんよね。こんな時間に登校なんて」
 Más importante, ¿ocurre algo?
- No estas en ningun club, ¿verdad Senpai?
+ No estas en ningún club, ¿verdad Senpai?
  ¿Por qué vas tan temprano a la escuela?"
 }
 [sha:98450903a33176da0ab46671ff6329a7ff8ba09f]{

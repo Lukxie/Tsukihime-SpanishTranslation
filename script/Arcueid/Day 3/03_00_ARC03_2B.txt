@@ -368,7 +368,7 @@ En todo caso, su diseño me parece más bien soso y anticuado."
 [sha:68bbcb20d8f2c17c167b14c8ece93d328194246e]{
 -- Page 112, Offset 4238.
 -- 翡翠があんまりにも強く断言するもんだから、こっちもその気になってきた。
-Aún así, tras oír a Hisui decirlo con tanta convicción,
+Aun así, tras oír a Hisui decirlo con tanta convicción,
  empiezo a sentirme como ella.
 }
 [offset:4239]{
@@ -519,7 +519,7 @@ Hisui hace una profunda reverencia.
 -- Page 123, Offset 4267.
 -- ただ学校に行くだけでお気をつけてもないけど、翡翠なりに俺の体を気遣ってくれているのだろう。
 Sólo voy a la escuela, no creo que haya mucho de lo que preocuparse.
- Aún así, estoy seguro de que ella se preocupa por mi salud a su manera.
+ Aun así, estoy seguro de que ella se preocupa por mi salud a su manera.
 }
 [sha:da0cbbbbfd08de98e31f70e9a807aa4d46488fff]{
 -- Page 124, Offset 4268.

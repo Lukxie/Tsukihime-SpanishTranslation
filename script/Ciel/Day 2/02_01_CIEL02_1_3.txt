@@ -11,7 +11,7 @@ En cuanto piso el pasillo, me encuentro con una senpai conocida.
 [sha:d1734879d264c57775faad9b0d0fbf9ed7df627f]{
 -- Page 46, Offset 3731.
 -- 二年の教室になにか用事でも？」
-¿Tienes algun asunto en las clases de segundo?"
+¿Tienes algún asunto en las clases de segundo?"
 }
 [sha:0b96ca227d1d1e17d88a59e15f4d4d5a054e5ffc]{
 -- Page 47, Offset 3732.
@@ -250,12 +250,12 @@ No se que decir a esa mirada de  'Si esto no te hace feliz ¿estás seguro de qu
 [sha:1911337e34678d21149704da8370d8b577bba881]{
 -- Page 66, Offset 3776.
 -- なんとなく、『カレー好きなの？』と具体的な単語を避ける俺だった。
-Por alguna razón, intento evitar preguntar especificamente '¿te gusta el curry?'
+Por alguna razón, intento evitar preguntar específicamente '¿te gusta el curry?'
 }
 [sha:66d787548f525b13bf8eb04e6a51f32566b9e7ae]{
 -- Page 67, Offset 3777.
 -- 「え、ええ、まあ。あ、でも辛ければ好きというワケではなくてですね、特定の味付けがたいへん美味しく感じるというか……そ、そうですね。いくら好きでも、四つぜんぶ同じ味というのは、ちょっと考えなしでしたね……」
-"S-Sí, bueno. Ah, pero no es porque sea pincante, es solo que hay ciertos sabores que me parecen muy deliciosos... p-pero, tienes razón. Da igual cuanto me guste, los cuatro son del mismo sabor. No lo he pensado muy bien..."
+"S-Sí, bueno. Ah, pero no es porque sea picante, es solo que hay ciertos sabores que me parecen muy deliciosos... p-pero, tienes razón. Da igual cuanto me guste, los cuatro son del mismo sabor. No lo he pensado muy bien..."
 }
 [sha:790c9f2e7aaefbfc141b19a89991d199608d4da1]{
 -- Page 68, Offset 3778.
@@ -265,7 +265,7 @@ Bien... Parece que al menos entiende que es un poco raro.
 [sha:a5e7c4afebd1449878671cf0cb6f206b3258e22d]{
 -- Page 69, Offset 3779.
 -- 「でも分かりますよ。好きなものってちょっと多いぐらい買い込んでおかないと不安になりますからね。
-"Aún así, lo entiendo. Es fácil estresarse si no comes las cosas que te gustan.
+"Aun así, lo entiendo. Es fácil estresarse si no comes las cosas que te gustan.
 }
 [sha:48516b10f8300caa55d4ef22cd7cee643f9e0b66]{
 -- Page 69, Offset 3780.
@@ -385,7 +385,7 @@ Arihiko se ríe a carcajadas.
 [sha:e59e6e3f46c6c13e843bd47ccc939e34493262b7]{
 -- Page 80, Offset 3801.
 -- 「有彦……おまえ、なんでそう人の邪魔をすることばかりに長けているんだ？　前世からの呪いなのか？　それともそういう生き物なのか？」
-"Arihiko... ¿por qué eres tan bueno entrometiendote en la vida del resto?
+"Arihiko... ¿por qué eres tan bueno entrometiéndote en la vida del resto?
  ¿Es una maldición por algo que hice en otra vida?
  ¿O es que eres así?"
 }
@@ -397,8 +397,8 @@ Arihiko se ríe a carcajadas.
 [sha:4c56481755d39125724772484e5668ead21d2aef]{
 -- Page 81, Offset 3803.
 -- つーかランチなら俺も交ぜろよー。昨日席ゆずってやったんだから、今日は俺がゆずられる番ですよねぇ？」
-Quiero decir, venga, estais comiendo, ¿por qué no dejaís que me una?
- Ayer os di mi sitio, así que ahora os toca a vosotros, ¿no creeís?"
+Quiero decir, venga, estáis comiendo, ¿por qué no dejáis que me una?
+ Ayer os di mi sitio, así que ahora os toca a vosotros, ¿no creéis?"
 }
 [sha:9e1c386fe75fd4c4d9f2348062799efdc3a1bbfb]{
 -- Page 82, Offset 3804.
@@ -598,7 +598,7 @@ Debe ser un miedo que solo podía ser sentido por el destinatario.
 [sha:3effabe94819aa9482f878fe79444d2d242a4add]{
 -- Page 97, Offset 3841.
 -- そういうわけで、はい、先輩。
-Sin más dilación, aqui tienes, Senpai.
+Sin más dilación, aquí tienes, Senpai.
 }
 [sha:87b4639b82f509fc9cff9433fc5629e97a5367cf]{
 -- Page 97, Offset 3842.
@@ -629,7 +629,7 @@ Por favor siéntate, Senpai.
 [sha:614dd8ab78b87b0c54a635c32aea12ae7a4043e0]{
 -- Page 98, Offset 3847.
 -- んで、俺がいない間にどんな話してたんスか？
-Y bien, ¿de qué habeis hablado mientras no estaba?
+Y bien, ¿de qué habéis hablado mientras no estaba?
 }
 [sha:3214452200a3d702a22066afe60e24d0e76c40db]{
 -- Page 98, Offset 3848.
@@ -695,7 +695,7 @@ Aunque, bueno, si es guapa puede ser hasta un año más joven."
 [sha:f30aee7c62c5ae35741873e45ea1d47074fa5e9a]{
 -- Page 103, Offset 3860.
 -- 「ふむふむ。甘えるのもかまうのも得意なワケですか。
-"Hmm hmm... ¿osea que eres bueno tanto mimando como molestando?
+"Hmm hmm... ¿O sea que eres bueno tanto mimando como molestando?
 }
 [sha:448ce74ae560e157adc0114a6329a46eee35e036]{
 -- Page 103, Offset 3861.
@@ -794,7 +794,7 @@ Nuestra conversación prosigue hasta el fin de la hora de comer.
 -- Page 110, Offset 3879.
 -- 俺と有彦がバカな話をして、それにシエル先輩が意見を挟んで、また話が転がっていく。カレーパンもなくなっていく。
 Arihiko y yo hablamos de cosas estúpidas, Ciel-senpai daba su opinión, y la conversación volvía a empezar una y otra vez.
- Y también se nos estan acabando los panes.
+ Y también se nos están acabando los panes.
 }
 [sha:f6181dae6033588ffc3c7fc3154258cb7a88191c]{
 -- Page 110, Offset 3880.

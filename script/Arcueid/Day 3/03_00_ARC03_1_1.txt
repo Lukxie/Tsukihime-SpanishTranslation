@@ -111,7 +111,7 @@ Nunca ví una respuesta tan perfecta.
 [sha:7e4f3b7160f9050fc1a221d09d64abcb49153e5e]{
 -- Page 40, Offset 4036.
 -- 「いや、なんでも。……にしても、そんな早くに起きてどうするんだ？　遅刻対策か？」
-"Ah, nada... Aún así, ¿por qué te levantas tan pronto? ¿Intentas no llegar tarde?"
+"Ah, nada... Aun así, ¿por qué te levantas tan pronto? ¿Intentas no llegar tarde?"
 }
 [sha:365c7e198ad56429f8e87c5d9ca03e184ead470b]{
 -- Page 41, Offset 4037.

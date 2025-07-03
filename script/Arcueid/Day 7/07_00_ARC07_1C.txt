@@ -263,7 +263,7 @@ Entonces por qué... ¡¿Por qué siguen apareciendo cadáveres desangrados?!
 [sha:55c7ae192aec40865cf6ca13eb2c601960a78b1d]{
 -- Page 109, Offset 16840. Mods: @k, @e.
 -- 「しっかし、現代の吸血鬼か。
-"Aún así, vampiro contemporáneo, ¿eh?
+"Aun así, vampiro contemporáneo, ¿eh?
 }
 [sha:0fa6611e5a00319860fccb17d4fa44902485bfbe]{
 -- Page 109, Offset 16841. Glued. Mods: @x.

@@ -92,7 +92,7 @@ La cara de Senpai se ilumina notoriamente.
 [sha:6f3232371049456b7006eae6e3e7928689132a83]{
 -- Page 61, Offset 4999.
 -- ……なにこれ。上級生に対して失礼なんだけど、すごい可愛いぞこの人……。
-Que narices... no quiero ser maleducado pero ha sido %{i}increiblemente%{/i} adorable.
+Que narices... no quiero ser maleducado pero ha sido %{i}increíblemente%{/i} adorable.
 }
 [sha:bdca4e665aded2a4d8513aca47d6ed22e6acbb5d]{
 -- Page 62, Offset 5000.
@@ -216,7 +216,7 @@ Respuesta instantánea.
 [sha:ef468afb16c0ca705e1ae6e384a1ef1cbaff5ed6]{
 -- Page 72, Offset 5023.
 -- 俺に気を使ってくれている……というワケではなさそうだ。
-Me ha quedado claro cuales son sus priroridades.
+Me ha quedado claro cuales son sus prioridades.
 }
 [sha:4b386b7d709598394cf279549a4eeaaa8ad5c579]{
 -- Page 73, Offset 5024.

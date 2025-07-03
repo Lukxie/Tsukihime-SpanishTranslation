@@ -389,7 +389,7 @@ Si es sangre lo que buscas, ¿no tendría más sentido que te enfocases en human
 [sha:4110dc13a96f4807a26687a1830885f254d192a1]{
 -- Page 391, Offset 6647.
 -- ま、それでも志貴の言いたい事は分かるわ。同じ種族同士、助けあうべきだっていうんでしょ？
-Aún así, entiendo lo que quieres decir.
+Aun así, entiendo lo que quieres decir.
  Estás diciendo que deberíamos ayudarnos entre nosotros porque somos de la misma especie, ¿cierto?
 }
 [sha:7af3c26d144f590afe10faca0883bb42cf7d6c5e]{

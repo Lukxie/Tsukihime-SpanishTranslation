@@ -11,7 +11,7 @@
 [sha:04589ac1b1df181bcdf8f88767b932427ebedb60]{
 -- Page 10006, Offset 1042. Glued. Mods: @x.
 -- なんだか遠野くんの方が落ち着いてるなって、ちょっと驚いてました」
- me ha sorpendido que parezcas más relajado que yo."
+ me ha sorprendido que parezcas más relajado que yo."
 }
 [sha:8269408b9b2cf9f47a92d6ef29ca670a0921e71e]{
 -- Page 235, Offset 1043.
@@ -47,7 +47,7 @@ Senpai asiente.
 -- Page 237, Offset 1049.
 -- ほら。この時期に住まいを移すなんて、何かよくないトラブルでもあったのかなって」
 Es que es un poco raro que alguien se mude en esta época del año,
- por lo que me preguntaba si estabas en algun tipo de problema."
+ por lo que me preguntaba si te encontrabas en algún tipo de aprieto."
 }
 [sha:8433437e82913e76987350807c27875cb61d1073]{
 -- Page 237, Offset 1050.
@@ -234,7 +234,7 @@ Hubiera siquiera un malentendido.
 [sha:2b1a62079c3ceb97e72d58ad9268fd39f5df9832]{
 -- Page 250, Offset 1084.
 -- 「お父さん、亡くなられたんですね。
-"Ya veo, osea que tu padre falleció.
+"Ya veo, o sea que tu padre falleció.
 }
 [sha:319fa8ccb5831718be97c0d56a576a9c1ccaab4f]{
 -- Page 250, Offset 1085.
@@ -311,7 +311,7 @@ Pero nada de eso importa―――
 -- 「いえ、大好きでした。血が繋がってないことなんて気にも留めない人たちで、俺がひとりで落ちこんでいるのが申し訳なくなるぐらい、温かかった。
 "No, los quería.
  Me acogieron abiertamente a pesar del hecho de que no compartamos sangre siquiera,
- y fueron tan acogedores que me daría verguenza si aún así me hubiera sentido aislado o deprimido.
+ y fueron tan acogedores que me daría vergüenza si Aun así me hubiera sentido aislado o deprimido.
 }
 [sha:d5163d9f007bccbafe987f87932cdf4664d452f2]{
 -- Page 255, Offset 1099.
@@ -480,7 +480,7 @@ Me gusta como piensas.
 -- Page 269, Offset 1131.
 -- 突然の誘いに目が点になる……というか、さっきまで<柄|がら>にもなく自分語りをしていたコトにようやく気がついた。
 La repentina invitación me sorprende un poco...
- En realidad, estoy mas soprendido por haber estado hablando de mi mismo todo este tiempo.
+ En realidad, estoy mas sorprendido por haber estado hablando de mi mismo todo este tiempo.
  No me pega nada.
 }
 [sha:09aba008fc589125e2fe8cfec30dcd21668facd7]{

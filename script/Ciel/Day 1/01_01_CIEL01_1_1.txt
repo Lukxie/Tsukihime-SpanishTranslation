@@ -6,7 +6,7 @@ Tristemente, no tengo nada de lo que hablar con ella.
 [sha:0f3bdf691b2439032cce866192c1da70a921aa92]{
 -- Page 1, Offset 502.
 -- 言葉に困る俺を気にしたふうもなく、先輩は笑顔のままだ。
-Ella sigue sonriendo, sin parecer importale el hecho de que me he quedado sin palabras.
+Ella sigue sonriendo, sin parecer importarle el hecho de que me he quedado sin palabras.
 }
 [sha:166fd7fed614049f74f4f33f029d2b4104db77e6]{
 -- Page 2, Offset 503.

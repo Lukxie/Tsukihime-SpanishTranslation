@@ -47,12 +47,12 @@ Es la gota que colma el vaso, hoy no como. Gracias por la excusa, Arihiko.
 [sha:aa42b253720c755b81a89ef201fcd528308cdd37]{
 -- Page 15, Offset 4889.
 -- なに、やっぱお貴族様な新生活は合いませんかね？」
-Qué, ¿al final la nueva vida de aristocrata no te pega?"
+Qué, ¿al final la nueva vida de aristócrata no te pega?"
 }
 [sha:0aa97b1bb8b84c5fc318257cd9621e06029b3519]{
 -- Page 16, Offset 4890.
 -- 「あのな、お貴族様なんかじゃ……あ、いや、そうかも。あれで貴族じゃないって言ったら何が貴族なんだ？
-"En serio, no soy un aristocrata... Ah, bueno, quizá tengas razón. Si no se me considera aristócrata, ¿quién lo es entonces?
+"En serio, no soy un aristócrata... Ah, bueno, quizá tengas razón. Si no se me considera aristócrata, ¿quién lo es entonces?
 }
 [sha:a788c4f481d0212b3071cf2f01604dcfeac06876]{
 -- Page 16, Offset 4891.
@@ -62,7 +62,7 @@ Los baños de la mansión son gigantes, Arihiko. Son más grandes que tu habitac
 [sha:b8a2eea1d7c6a074726f0964fa6882edcf76b47f]{
 -- Page 16, Offset 4892.
 -- 「マジで!?　そんな落ち着かない生活したくねえな!?」
-"¡¿En serio?! Así nunca sería capaz de sentirme agusto."
+"¡¿En serio?! Así nunca sería capaz de sentirme a gusto."
 }
 [sha:656ce1f45a341cd7fd6e487d69bf94caaa786e84]{
 -- Page 17, Offset 4893.
@@ -502,12 +502,12 @@ Por alguna razón Senpai me echa una mirada tímida, y tras pararse un segundo p
 [sha:23ac421de5f08d0b4145f32b4b46abf1c73052d4]{
 -- Page 51, Offset 4976.
 -- 「えーと、用事を思い出したので失礼します。
-"Em, me acabo de acordar de que tengo algo que hacer, si me disculpais, me voy corriendo.
+"Em, me acabo de acordar de que tengo algo que hacer, si me disculpáis, me voy corriendo.
 }
 [sha:73717044b48e6444ef5dfb428f01374d5589fa59]{
 -- Page 51, Offset 4977.
 -- わたしのコトは気にせず、むしろ今日の出来事は忘れていただけると助かります」
-No os preocupeis por mi. De hecho, preferiría que os olvidaraís de esta conversación."
+No os preocupéis por mi. De hecho, preferiría que os olvidarais de esta conversación."
 }
 [sha:fde5764c2e98bb632a75e097fc1bc3a4227849f9]{
 -- Page 52, Offset 4978.

@@ -119,7 +119,7 @@ Quiero decir, es una sala de estilo japonés de los pies a la cabeza.
 [sha:62bc389063c1e6b42d1622a606dc90a57ec8b888]{
 -- Page 196, Offset 956.
 -- 「わたしもそう思います。形式上は部活動のためという事になってましたが、校長先生の趣味でしょうね。
-"A mi también me lo parece. Oficialmente, se suponía que era para activdades del club, pero supongo que era un proyecto personal del director.
+"A mi también me lo parece. Oficialmente, se suponía que era para actividades del club, pero supongo que era un proyecto personal del director.
 }
 [sha:b99a0d9d4e2e90547c64e6d4edb298bda3dc3b97]{
 -- Page 196, Offset 957.
@@ -298,7 +298,7 @@ Los snacks son las típicas mini tartas envueltas y galletas de arroz que se ven
 [sha:2f5e440765f317258a43788fcb742a492220678e]{
 -- Page 210, Offset 989.
 -- 正座とかしないで、足を崩しちゃってもいいですよ？」
-Ni estes tan tenso, ¿vale? Puedes relajarte y sentarte donde quieras."
+Ni estés tan tenso, ¿vale? Puedes relajarte y sentarte donde quieras."
 }
 [sha:e7aa4c0c80931d0f53d17f6c73b1d0855b567b48]{
 -- Page 211, Offset 990.

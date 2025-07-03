@@ -67,7 +67,7 @@ Así que era eso... Si hubiera sabido que Senpai estaba aquí, habría venido co
 -- Page 7, Offset 4864.
 -- 「そりゃあ申し訳ない。けど、縁があれば昼休みにでも会えるだろ。これっきりってワケじゃあるまいし」
 "Bueno lo siento.
- Aún así, si hay suerte igual la podemos ver a la hora de comer.
+ Aun así, si hay suerte igual la podemos ver a la hora de comer.
  Ni que fuera nuestra última oportunidad de verla."
 }
 [sha:80eb7097d5361f9ee0c15a212e5cdf0fdb3a3a8e]{

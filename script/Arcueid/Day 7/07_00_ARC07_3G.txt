@@ -291,7 +291,7 @@ Quiero decir, solo ver esas cosas sin las gafas puestas es suficiente darme un d
 [offset:17689]{
 -- Page 448, Offset 17689.
 -- それでも―――
-Aún así―――
+Aun así―――
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 449, Offset 17690.

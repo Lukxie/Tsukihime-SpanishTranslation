@@ -210,7 +210,7 @@ Estoy seguro de que hay muchas formas de hacer las paces en este mundo...
 [sha:e26f7831bb95f32838a87b92c365b3be9a6f0e8b]{
 -- Page 342, Offset 6496.
 -- けど、今は他にどうしようもない。
-Aún así, ahora mismo no puedo hacer otra cosa.
+Aun así, ahora mismo no puedo hacer otra cosa.
 }
 [sha:e03bca3d63302d606c991b4fe8b86719cb702b19]{
 -- Page 342, Offset 6497.

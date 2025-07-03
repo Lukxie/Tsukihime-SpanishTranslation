@@ -189,7 +189,7 @@ No había pensado más allá de la conveniente realidad de mi infancia como su h
 [sha:cf52a552730a559cdbe0ee45f7a0266eb6dd6978]{
 -- Page 375, Offset 2116.
 -- 七年間の月日が秋葉をどう成長させたのか。それを本人を目の前にして思い知るなんて、失礼にも程がある。
-Me pregunto como estos últimos siete años la han hecho desarrollarse. Ah, pero es muy irrespetuoso pensar en esto delante de ella.
+Me pregunto como estos últimos siete años le han hecho desarrollarse. Ah, pero es muy irrespetuoso pensar en esto delante de ella.
 }
 [sha:e2a54cadca095fc20d20d7d3cfa52bdd447ab9ae]{
 -- Page 376, Offset 2117.
@@ -279,7 +279,7 @@ Si estás listo para ello, entonces sigamos con la conversación.
 [sha:af1cc3029e976e76620a84748f62be2eb4a92d1a]{
 -- Page 382, Offset 2134.
 -- 「いや、詳しい事情は何も。いいから屋敷に帰ってこいって話だけだ。<槙久|おやじ>が亡くなった事は新聞で知ったけど」
-"No, no conozco todos los detalles. Solo me dijeron que 'Tienes que volver a la mansión.' Aunque si sabía que nuestro padre había fallecido, lo leí en los periódicos."
+"No, no conozco todos los detalles. Solo me dijeron 'Tienes que volver a la mansión.' Aunque si sabía que nuestro padre había fallecido, lo leí en los periódicos."
 }
 [sha:c829019278e44ef7b6e2220ea12a9507fa686ca1]{
 -- Page 383, Offset 2135.
@@ -347,7 +347,7 @@ Yo me siento igual, por tener una hermana tan sincera.
 [sha:5638823d0efb8cf58763df077272947b11bc1c48]{
 -- Page 388, Offset 2147.
 -- 葬式というものは故人を忘れられない人間が、その感情を断ち切るために行なう儀式だ。
-Los funerales son un ritual para aquellos que no pueden olvidar a los fallecidos para dar reposo a sus sentimientos.
+Los funerales son un ritual para que aquellos que no pueden olvidar a los fallecidos puedan dar reposo a sus sentimientos.
 }
 [sha:65b0de3fb45b4fb269fe4844693dd0363cf68d96]{
 -- Page 388, Offset 2148.
@@ -357,7 +357,7 @@ Los funerales son un ritual para aquellos que no pueden olvidar a los fallecidos
 [sha:4dfbb75198b0ded1e766278824b3c287ee64d0b7]{
 -- Page 388, Offset 2149.
 -- 槙久の何に別れを告げるのか一つも考えつかない俺が、故人を見送る権利も義務もない。
-No puedo pensar siquiera en una razón por la que despedirme de Tohno Makihisa. Y tampoco tengo ni el derecho o la obligación de hacerlo.
+No puedo pensar siquiera en una razón por la que despedirme de Tohno Makihisa. Y tampoco tengo ni el derecho ni la obligación de hacerlo.
 }
 [sha:851e5e168f11f9b5589e9e112dd7cf7749f91e1e]{
 -- Page 389, Offset 2150.
@@ -377,7 +377,7 @@ No es que estuviera en su testamento, ¿verdad?"
 [sha:60a27bb20ed9fb7f10758d177f5e1e37249055bb]{
 -- Page 390, Offset 2153.
 -- いつまでも遠野の長男が有間の家に預けられているのはおかしいでしょう？　どんな欠陥があろうと、貴方は遠野の人間なのですから」
-Sería extraño que el hijo mayor de la familia Tohno se quedara en la casa de los Arima para siempre, ¿no?. Sin importar los defectos que tengas, sigues siendo un Tohno."
+Sería extraño que el hijo mayor de la familia Tohno se quedara en la casa de los Arima para siempre, ¿no? No importa que defectos tengas, sigues siendo un Tohno."
 }
 [sha:a74d6a6948f4b282b8cbd2c31235a4a3f585a2da]{
 -- Page 391, Offset 2154.

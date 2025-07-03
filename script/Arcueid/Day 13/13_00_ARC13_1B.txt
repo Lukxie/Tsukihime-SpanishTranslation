@@ -1602,7 +1602,7 @@ Sí, me da un poco de envidia, pero a la vez, siento lástima por ella."
 [sha:9f04ba95e1cae2532e2f2bb15939e938cb88a2a0]{
 -- Page 200, Offset 32212.
 -- 「―――だから、どうして―――」
-"―――Aún así, por qué―――"
+"―――Aun así, por qué―――"
 }
 [sha:104df02ca8f539683a391dd87356d0eaaa7e664e]{
 -- Page 201, Offset 32213.

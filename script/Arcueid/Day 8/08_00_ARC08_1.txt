@@ -201,7 +201,7 @@ No es nada de lo que preocuparse.
 [sha:bc28de70f3e12286ec4c0663f62577cb78f8da3e]{
 -- Page 12, Offset 19702.
 -- 今の症状は入院時代によくあったものだ。
-Solía pasar todo el tiempo cuando estaba en el hospital.
+Cuando estaba en el hospital solía pasar todo el tiempo.
 }
 [sha:a54e9ef3a2a1722498e85b7544b202c7c89ab887]{
 -- Page 12, Offset 19703.

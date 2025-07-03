@@ -26,7 +26,7 @@
 [offset:8348]{
 -- Page 74, Offset 8348.
 -- この交差点を抜ければすぐに正門だ。
-Tras cruzar esta intesección, solo queda un pequeño trecho hasta las puertas de la escuela.
+Tras cruzar esta intersección, solo queda un pequeño trecho hasta las puertas de la escuela.
 }
 [offset:8349]{
 -- Page 74, Offset 8349.
@@ -297,7 +297,7 @@ Una demostración de violencia sin igual.
 [offset:8402]{
 -- Page 90, Offset 8402.
 -- ……俺が逃げたのは、おまえが怖かったからじゃない。俺は、俺自身の行為から、逃げていただけだった」
-No huí porque tuviese miedo de ti...
+No hui porque tuviese miedo de ti...
  solo estaba huyendo de mi mismo."
 }
 [offset:8403]{

@@ -197,7 +197,7 @@ Seré honesto, fue incómodo de narices.
 [sha:91de07bbb410da3dd2e537c130c660e9763a0567]{
 -- Page 50, Offset 2733.
 -- それでも、俺にとっては悪くない時間だった。
-Aún así, pienso que fue tiempo bien empleado.
+Aun así, pienso que fue tiempo bien empleado.
 }
 [sha:ea1c7b8d9ce55a1787fa565515ebdb5e122e3403]{
 -- Page 50, Offset 2734.

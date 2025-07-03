@@ -213,7 +213,7 @@ Me está mirando tan intensamente que casi se me olvida respirar.
 -- Page 579, Offset 7124.
 -- 「そう。直死の魔眼なんて童話の中だけの話と思ってたけど、いるところにはいるものね。
 "Ya veo. Pensaba que los Ojos Místicos de Percepción Mortal eran algo de cuentos de hadas.
- Aún así, supongo que este mundo hay gente rara.
+ Aun así, supongo que este mundo hay gente rara.
 }
 [sha:658564e232b0d93fda97a9faf0d6c0265fa39ff9]{
 -- Page 579, Offset 7125.
@@ -778,7 +778,7 @@ Es verdad que puedo cortar cualquier cosa a la que recorra una línea.
 [sha:82906c820965dc8b38face42e9cfcb6e728e0917]{
 -- Page 619, Offset 7231.
 -- けれど、あの時のように鮮やかに、一秒もかけずに切断するのは出来そうにない。
-Aún así, no creo que sea capaz de cortarlas tan hábilmente como hice entonces,
+Aun así, no creo que sea capaz de cortarlas tan hábilmente como hice entonces,
  trazándolas en menos de un segundo.
 }
 [sha:a91214e083fdc38ca021141bb3a7e2b62b0b8ce9]{

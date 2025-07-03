@@ -111,7 +111,7 @@ Los dos devoramos nuestro udon.
 [sha:30e5258ceb0da7bcde036b0febfc30cea1a73b57]{
 -- Page 143, Offset 1532.
 -- しかし『全自動マッサージ機みたいな人』という比喩は面白い……ちょっと興味がわいてしまう。
-Aún así, comparar a alguien con 'una máquina de masajes totalmente automática' es interesante... y me da algo de curiosidad.
+Aun así, comparar a alguien con 'una máquina de masajes totalmente automática' es interesante... y me da algo de curiosidad.
 }
 [sha:604fbd44f6253b0d2573ab4f46c1a84bbe1f79eb]{
 -- Page 143, Offset 1533.
@@ -212,7 +212,7 @@ Es solo que, ya sabes. Quería asegurarme de que no estuvieras deprimido."
 [sha:fe332c2fb125949adb2e480d604fa04bddaedd3e]{
 -- Page 151, Offset 1552.
 -- ただしホラー一歩手前、寒すぎて笑えねえけどな！」
-¡Pero esto está aun paso del terror! ¡Es tan cruel que ni siquiera me puedo reir!"
+¡Pero esto está a un paso del terror! ¡Es tan cruel que ni siquiera me puedo reír!"
 }
 [sha:16467a98c1191f9517973a85037fc09760271470]{
 -- Page 151, Offset 1553.

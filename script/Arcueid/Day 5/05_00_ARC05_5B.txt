@@ -229,12 +229,12 @@ Sin embargo―――
 [sha:3b50026d8663e63729d89d36d644b1a5b9e098ad]{
 -- Page 438, Offset 9747.
 -- 「―――だけど、それでも―――」
-"Aún así―――"
+"Aun así―――"
 }
 [sha:2237bf25e1ba0a39a0f94072c9f2e27d601d9a25]{
 -- Page 438, Offset 9748.
 -- ……それでもヴローヴは健在だった。
-Aún así, Vlov se mantiene firme.
+Aun así, Vlov se mantiene firme.
 }
 [sha:295757698369018dbd30c49d9a20e4c833dc6827]{
 -- Page 438, Offset 9749.

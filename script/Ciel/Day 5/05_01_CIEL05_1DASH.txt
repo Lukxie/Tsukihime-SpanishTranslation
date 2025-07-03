@@ -12,7 +12,7 @@ tranquila, al pensar que ambos estamos de acuerdo con el mismo plan.
 [sha:8917ae2638446bdaaf9c3d852cd2a580de81c8f9]{
 -- Page 20, Offset 10922.
 -- 俺はそれを見届けてマンションの外に出た。
-La observé hasta asegurarme que estuvera completamente dormida, y dejé su apartamento.
+La observé hasta asegurarme que estuviera completamente dormida, y dejé su apartamento.
 }
 [sha:e61497e4602d2b7d307ab294c97812c97e86881b]{
 -- Page 20, Offset 10923.
@@ -63,7 +63,7 @@ No hay forma de que pueda haber ningún vampiro acechando por aquí..."
 [sha:020db4e0593f36431ee0067f0a820d1c1391c539]{
 -- Page 24, Offset 10932.
 -- ないのだが、アルクェイドの嘘とも思えない。
-Aún así, no creo que Arcueid estuviera mintiendo.
+Aun así, no creo que Arcueid estuviera mintiendo.
 }
 [sha:be774ba861f10064a1045ab36c64fc9513bbeca7]{
 -- Page 24, Offset 10933.
@@ -258,7 +258,7 @@ La octava planta está totalmente oscura.
 -- 電灯が消えているのだから当然と言えば当然だが、それでも予想外すぎた。
 Tiene sentido en cierto modo,
  considerando que todas las luces están apagadas,
- pero aún así me sorprende.
+ pero Aun así me sorprende.
 }
 [sha:be018f3d6b14f28b88ee084f6eca5c3c4c0ab5e4]{
 -- Page 39, Offset 10970.
@@ -406,7 +406,7 @@ Solo tienen linternas a mano; no tienen objetos largos como bates o tuberías.
 -- Page 52, Offset 10996.
 -- はーい、そこのボクゥ、こっち来てねー？　逃げたら酷い目に遭うからねー？　つーか殺すか。法律的に殺していいんだよな、不法侵入って」
 Eh, tú, ven aquí anda.
- Si huyes te arrepentiras, ¿lo entiendes?
+ Si huyes te arrepentirás, ¿lo entiendes?
  ¿O debería matarte?
  ¡La ley dice que puedo matarte por allanar!"
 }
@@ -522,7 +522,7 @@ Lo digo con voz inocente, observando con atención al hombre llamado Toshi.
 -- Page 60, Offset 11017.
 -- 「……アルバイトねぇ。どこでその話を？　最近はバカな女連中にしか話してねえんだけどな」
 "¿Un trabajo, eh?
- ¿Donde has oído eso?
+ ¿Dónde has oído eso?
  A día de hoy solo hablo a chicas retrasadas."
 }
 [sha:b42c98573909899a422338498379c92a49c78f90]{

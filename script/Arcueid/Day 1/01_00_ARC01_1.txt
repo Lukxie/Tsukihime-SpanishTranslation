@@ -48,7 +48,7 @@ Cómo lo acepte puede servir como medida de mi compasión humana.
 [sha:80e1d966ff7bc4d14edab054475826fd52d83f75]{
 -- Page 4, Offset 1155.
 -- 『まだそれだけ』の距離と身近に感じるのか、
-A pesar de la distancia física, ¿sigo pensando que están cerca?
+A pesar de la distancia física, ¿me sigo sintiendo cercano a ellos?
 }
 [sha:ea716acf16f693e33b8333427f7f343a87802dcd]{
 -- Page 4, Offset 1156.
@@ -63,12 +63,12 @@ Me pregunto cuál de estos sentimientos me corresponde.
 [sha:c1b24a9e3bfe0c02e568a8bdf576cc907fe26ae4]{
 -- Page 5, Offset 1158.
 -- わずかに思案して、そのどちらの所感も浮かんでいなかった事に気がついた。
-Lo valoro por un instante, y luego me doy cuenta que ninguno de ellos.
+Lo valoro por un instante, y luego me doy cuenta que ninguno representa lo que siento.
 }
 [sha:5231b69e3c4916d4bd0fb939dd7526673a3e53c1]{
 -- Page 6, Offset 1159.
 -- 八人掛けのシートに座っているのは自分だけで、対面は空席のままだ。
-Soy el único en el banco de ocho personas, y la fila en frente está completamente vacía.
+Soy el único en el banco de ocho personas, y la fila de asientos frente a mi está completamente vacía.
 }
 [sha:b10b9bca4ca46dc60590915b46929e809487ca4d]{
 -- Page 6, Offset 1160.
@@ -149,7 +149,7 @@ Esta era mi manera de demostrar mi respeto a los Arimas.
 [sha:d70fc8d6a77f032b2c10b563de4a4a341197d5c6]{
 -- Page 12, Offset 1174.
 -- “ごちそうさまでした。今朝もおいしかったです”
-Gracias por la comida. Como siempre, el desayuno de hoy estaba delicioso.'
+ 'Gracias por la comida. Como siempre, el desayuno de hoy estaba delicioso.'
 }
 [sha:003994811d67f296d8f505821a9c8d66af59f7dd]{
 -- Page 12, Offset 1175.
@@ -247,7 +247,7 @@ Me hacía feliz que en la mente de Keiko-san, aún fuera su hijo.
 [sha:525887f5a339434e2c8fb79848f834892c129c29]{
 -- Page 19, Offset 1192.
 -- “それは買いかぶりすぎです。
-Me estás sobreestimando
+ 'Me estás sobreestimando
 }
 [sha:5a72af7c1339b6647425347b1846e273e53ad7fa]{
 -- Page 19, Offset 1193.
@@ -257,7 +257,7 @@ Me voy... Cuídate, mamá.'
 [sha:a277c6c142dc3998bd894fd41f675ce75c3eb9f5]{
 -- Page 19, Offset 1194.
 -- “ええ。あなたも元気でね、志貴”
-Sí, lo haré. Cuídate tu también, ¿vale Shiki?'
+ 'Sí, lo haré. Cuídate tu también, ¿vale Shiki?'
 }
 [sha:08bb258065cad0ce33ed2594bf11ec4d6e83c8b1]{
 -- Page 19, Offset 1195.
@@ -369,7 +369,7 @@ Y finalmente, empezó el otoño de mi segundo año de instituto.
 -- Page 26, Offset 1216.
 -- あの時―――別れ際に先生が言っていたような特別な出来事はまったく起こらなかったし、自分も先生のくれた眼鏡をつけているかぎり『線』を見る事はない。
 El tipo particular de incidente del cual Sensei me advirtió nunca ocurrió,
- y mientras lleve las gafas que me dió,
+ y mientras lleve las gafas que me dio,
  no veo ninguna línea.
 }
 [sha:d314fe5bb6919f436e2c107165f40ad3c1d0ba1f]{
@@ -518,7 +518,7 @@ No solo eso, también se está acercando.
 [sha:498e1cfd537b39d04bddb4d26e2f91691ddd6ebd]{
 -- Page 36, Offset 1245.
 -- 「あ、いえ、こっちこそすいません。じろじろ見ちゃって」
-"Ah, no, yo tambíen lo siento. Por quedarme mirando, me refiero."
+"Ah, no, yo también lo siento. Por quedarme mirando, me refiero."
 }
 [sha:d63f1fec044619938512a0f629d91a9f597d893a]{
 -- Page 36, Offset 1246.

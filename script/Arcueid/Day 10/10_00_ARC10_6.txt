@@ -442,7 +442,7 @@ Quiere decir que, sabes que esos tipos tienen un tipo de inmortalidad imperfecta
 [sha:0e293d5b75135a4d3330cfebb6adf815ce982c4c]{
 -- Page 702, Offset 26158.
 -- 詭弁ではあるが、間違いではない。
-%{i}Suena como un montón de gilipolleces%{/i}, quiero decir. Pero no se equivoca.
+%{i}Suena como un montón de gilipolleces%{/i}, me gustaría decir. Pero no se equivoca.
 }
 [sha:5583312f96a6efcdf79d850dea98aedabe5b7080]{
 -- Page 702, Offset 26159.
@@ -1114,7 +1114,7 @@ No puede ser cierto.
 [sha:ede6ef97e61de77d0314dbd6bd66515125ba351a]{
 -- Page 738, Offset 26283.
 -- だがまあ―――どうにも風向きが違うな。
-Aún así――las cosas no eran como esperábamos.
+Aun así――las cosas no eran como esperábamos.
 }
 [sha:fda309d4b99c0797de08eb58ee124f0bb6ae583b]{
 -- Page 738, Offset 26284.

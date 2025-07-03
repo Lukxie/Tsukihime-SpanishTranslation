@@ -70,7 +70,7 @@ El fuego continúa extendiéndose,
 [sha:6a1290ad010e44e6371ac7c4ec7de8174b2c5e62]{
 -- Page 374, Offset 9578.
 -- だというのに、大通りは人々で溢れかえっていた。
-Aún así, la calle principal está llena de gente.
+Aun así, la calle principal está llena de gente.
 }
 [sha:0d0cd73c1c2dfd8f57f298861f14e56149b24154]{
 -- Page 374, Offset 9579.

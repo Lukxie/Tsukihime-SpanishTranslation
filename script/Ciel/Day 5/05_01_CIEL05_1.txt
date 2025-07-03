@@ -85,7 +85,7 @@ Todo desde la puerta principal hasta sus entrañas está protegido por su progen
 -- Page 7, Offset 10892.
 -- 「突破する頃、か……おまえが元気な時でもヴローヴの城攻めは厳しいのか？」
 "¿Tardaríamos tanto en colarnos?
- ¿Te sería dificil atacar su castillo aún si tuvieras toda tu fuerza?"
+ ¿Te sería difícil atacar su castillo aún si tuvieras toda tu fuerza?"
 }
 [sha:8dd85a3bdf5fbc4a41885d4c5f61cbd446631edf]{
 -- Page 8, Offset 10893.

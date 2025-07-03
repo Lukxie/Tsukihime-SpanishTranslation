@@ -279,7 +279,7 @@ Ahora que he crecido un poco, los síntomas son menos frecuentes――siempre qu
 [sha:2a5b8bb295344d4c266018d3ee45245c2ce3c9d9]{
 -- Page 188, Offset 4443.
 -- それでも、ときおり何かの弾みで眩暈を起こして、そのまま意識を失ってしまう事だけはなくならない。
-Aún así, no puedo evitar sentirme mareado y desmayarme de vez en cuando.
+Aun así, no puedo evitar sentirme mareado y desmayarme de vez en cuando.
 }
 [sha:6b9e0a1cca278ec838490ab6104547d7c72b847d]{
 -- Page 188, Offset 4444.

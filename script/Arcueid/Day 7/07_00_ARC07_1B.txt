@@ -590,7 +590,7 @@ Vivimos en una época donde nos bombardean con noticias.
 [sha:4b07475c81917b232467c0602b9338ed3825d44d]{
 -- Page 84, Offset 16778.
 -- 「……なんにせよ物騒なのは変わらねぇってコトか。
-"Aún así, no lo hace menos turbio.
+"Aun así, no lo hace menos turbio.
 }
 [sha:24b20f727985b04fb4b26f807daa23233b2e70f9]{
 -- Page 84, Offset 16779.

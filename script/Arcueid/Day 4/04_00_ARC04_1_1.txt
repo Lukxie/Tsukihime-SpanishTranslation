@@ -82,7 +82,7 @@ Con voz entrecortada, Akiha aparta la mirada.
 [sha:24021787c1d6290a08fda8f5d654c24e5186233e]{
 -- Page 74, Offset 5746.
 -- 「そうだったのか。けど、なんだってそんな事に？」
-"No sabía eso. Aún así, ¿por qué dividir tu tiempo?"
+"No sabía eso. Aun así, ¿por qué dividir tu tiempo?"
 }
 [sha:a71c04685d476825c88c755c0f5444470c89c461]{
 -- Page 75, Offset 5747.

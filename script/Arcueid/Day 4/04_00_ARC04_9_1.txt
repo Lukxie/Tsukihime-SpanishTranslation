@@ -1071,7 +1071,7 @@ Me siento mareado y aturdido.
 [sha:e4936f54434ac1d50db14f62d8c532df4654688c]{
 -- Page 783, Offset 7711.
 -- “……それでも俺は、
- 'Aún así, yo...
+ 'Aun así, yo...
 }
 [sha:35169bba6fb7846257dbd7b28165b005e4cc2d1f]{
 -- Page 783, Offset 7712.

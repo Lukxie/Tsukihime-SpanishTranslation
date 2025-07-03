@@ -43,7 +43,7 @@ Hisui me mira fijamente, y entonces toma un poco de aire como si estuviera reuni
 -- Page 103, Offset 5818.
 -- ……でも、たしかに秋葉の言う通り軽率だった。これからは気をつける」
 // creo que uso demasiado 'aun así' sorry el que lea esto y siga leyéndolos.
-Aún así, no puedo negar que Akiha tuviera razón. %{i}Fue%{/i} descuidado por mi parte.
+Aun así, no puedo negar que Akiha tuviera razón. %{i}Fue%{/i} descuidado por mi parte.
  Tendré más cuidado a partir de ahora."
 }
 [sha:232d9ac10de935c9181b1634af3239bb498194b4]{
@@ -503,7 +503,7 @@ Mi respiración es irregular y mi corazón late en agonía.
 [sha:49ab2c405bad25413f6ad1620c1246ed8e99dbbf]{
 -- Page 129, Offset 5907.
 -- それでも走った。
-Aún así, corro.
+Aun así, corro.
 }
 [sha:1bffd07c551ace8b452f789337a0567416091b17]{
 -- Page 129, Offset 5908.

@@ -119,7 +119,7 @@ Tras un breve momento de perplejidad,
 -- Page 650, Offset 10405.
 -- それでもいいのね？　もう逃げる事もできないわよ？」
 // Primera línea de la tl oficial
-¿Aún así quieres hacerlo?
+¿Aun así quieres hacerlo?
  Tras esto escapar ya no será una opción, ¿sabes?"
 }
 [sha:57bd3d7e425ee291fbc0626a1ad3f70e57209cff]{

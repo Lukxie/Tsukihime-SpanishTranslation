@@ -399,7 +399,7 @@ Me parece mal preguntar si hay entretenimiento moderno básico en un lujoso edif
 -- Page 476, Offset 2368.
 -- 先日まで逗留なされていた皆様は私物を持ちこまれていましたが、出立される時に荷物はお持ち帰りいただきましたので、残ってはいないと思います」
 Los familiares que estuvieron aquí hasta el otro día trajeron sus pertenencias,
- pero desde que se llevaron todo con ellos de vuelta cuando se marcharon,
+ pero como se llevaron todo con ellos de vuelta cuando se marcharon,
  dudo que haya algo que encaje con esa descripción en sus habitaciones."
 }
 [sha:f1b412d19a28e06c15d473e2b34b217dca698d22]{
@@ -415,7 +415,7 @@ Los familiares que estuvieron aquí hasta el otro día trajeron sus pertenencias
 [sha:e89607b706b746940fcdb64a6471400eb38d73a7]{
 -- Page 478, Offset 2371.
 -- 刀崎さまのご三女とその婚約者の方が二階西館の角部屋を。
-La tercera hija de Touzaki-sama, junto a su prometido, ocupaban la habitación de la esquina de la segunda planta del ala oeste.
+La tercera hija de Touzaki-sama, junto a su prometido, ocupaba la habitación de la esquina de la segunda planta del ala oeste.
 }
 [sha:8c2821cb3e400b30fa17e6a7ecb43a21ea9e86a5]{
 -- Page 478, Offset 2372.
@@ -480,7 +480,7 @@ Lo saco de mi bolsillo, miro la hora y si tengo cobertura.
 [sha:ee6dac833cf869d71b052ea2d492856719e46d57]{
 -- Page 483, Offset 2384.
 -- 当たり前と言えば当たり前だが、電波は届いている。
-De hecho, aquí sigue habiendo cobertura.
+De hecho, sigue habiendo cobertura.
 }
 [sha:585a991aface1fb72e9bb6d3b0b98726cb510097]{
 -- Page 483, Offset 2385.
@@ -600,7 +600,7 @@ Cuando dices 'Nee-san', ¿por alguna casualidad te refieres a Kohaku-san?"
 [sha:92703f27cf4ea8f53065fca46dc2f90d1f5b44ef]{
 -- Page 492, Offset 2408.
 -- 「はい。現在、このお屋敷で働かせていただいている者は、わたしと姉さんの二人きりです」
-"Si. Nee-san y yo somos las únicas dos personas a las que han concedido el honor de trabajar en esta mansión."
+"Sí. Nee-san y yo somos las únicas dos personas a las que han concedido el honor de trabajar en esta mansión."
 }
 [sha:a30d5a15a1b85048a6c9b8d95bf4f6105da89ab8]{
 -- Page 493, Offset 2409.

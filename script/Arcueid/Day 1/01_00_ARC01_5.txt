@@ -236,7 +236,7 @@ Me da la impresión de haber sido transportado a otro país en otra época. La d
 [sha:26ffefd715e06c717a7723d86993116cc69c6fd3]{
 -- Page 263, Offset 1830.
 -- それでも、ここは見覚えのある遠野邸のロビーだ。
-Aún así, este es el lobby de la mansión Tohno tal y como recordaba.
+Aun así, este es el lobby de la mansión Tohno tal y como recordaba.
 }
 [sha:f7a1f449d67693a63697930182a9148f7730b764]{
 -- Page 264, Offset 1831.
